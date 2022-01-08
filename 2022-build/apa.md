@@ -1,3 +1,3 @@
 ## APA referencing
 
-APA referencing is something compeltely different
+APA referencing is something completely different
