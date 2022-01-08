@@ -8,7 +8,9 @@ This intends to create a robust template and easy to edit referencing documents.
 
 The Parsedown.php file is a single file compiler https://parsedown.org/
 
-The index.php calls markdown files and arranges them as html
+The index.php calls markdown files and arranges them as html.
+
+Needs a PHP environment to run - pretty sure emedia servers have that
 
 # To do
 
