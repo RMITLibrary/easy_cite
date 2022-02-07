@@ -48,8 +48,8 @@
 require_once 'Parsedown.php';
 $parsedown = new Parsedown();
 
-$toplevel = file_get_contents('easycite.md');
-$apa = file_get_contents('apa.md');
+//$toplevel = file_get_contents('easycite.md');
+//$apa = file_get_contents('apa.md');
 $rmitharvard = file_get_contents('rmitharvard.md');
 
 //echo $parsedown->text($toplevel);
@@ -58,53 +58,46 @@ $rmitharvard = file_get_contents('rmitharvard.md');
 		
 $mylist = $parsedown->text($rmitharvard);
 		
-		//preg_match('/<h2>(.*?)<\/h2>/s', $mylist, $match);
-		//echo $match[1];
-		
-		
+//preg_match('/<h2>(.*?)<\/h2>/s', $mylist, $match);
+//echo $match[1];	
 //$pattern = "/<h2>(.*?)<\/h2>/s";
 //if(preg_match_all($pattern, $mylist, $matches)) {
 //  print_r($matches);
-//}
-		
+//}		
 //$pattern2 = "/<h3>(.*?)<\/h3>/s";
 //if(preg_match_all($pattern2, $mylist, $matches2)) {
 //  print_r($matches);
 //}
-$mylist = preg_replace("/<h4>starttabs<\/h4>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
+$mylist = preg_replace("/<h6>starttabs<\/h6>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
 $mylist = preg_replace("/<h1>/", '<button class="nav-link active" id="nav-x-tab" data-bs-toggle="tab" data-bs-target="#nav-x" type="button" role="tab" aria-controls="nav-x" aria-selected="true">', $mylist);
 $mylist = preg_replace("/<\/h1>/", '</button>', $mylist);
-$mylist = preg_replace("/<h4>endtabs<\/h4>/", '</div></nav>', $mylist);
-		
-$mylist = preg_replace("/<h4>startpills<\/h4>/", '<p>&nbsp;</p>
-<div class="tab-content" id="nav-tabContent">
-  <div class="tab-pane fade show active" id="nav-harvard" role="tabpanel" aria-labelledby="nav-harvard-tab">
-	  <div class="d-flex align-items-start">
-		  <div class="row">
-		  <div class="col-2">
-  <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
+$mylist = preg_replace("/<h6>endtabs<\/h6>/", '</div></nav>', $mylist);
+$mylist = preg_replace("/<h6>startbodycontent<\/h6>/", '<p>&nbsp;</p>
+	<div class="tab-content" id="nav-tabContent">
+	<div class="tab-pane fade show active" id="nav-x" role="tabpanel" aria-labelledby="nav-x-tab">', $mylist);	
+$mylist = preg_replace("/<h6>startpills<\/h6>/", '<div class="d-flex align-items-start">
+	<div class="row">
+	<div class="col-2">
+	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link active myleftpills" id="v-pills-y-tab" data-bs-toggle="pill" data-bs-target="#v-pills-y" type="button" role="tab" aria-controls="v-pills-y" aria-selected="true">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h4>endpills<\/h4>/", '</div>
-			  </div>
-			  <div class="col-10">', $mylist);
-		
-$mylist = preg_replace("/<h4>startaccordion<\/h4>/s", ' <div class="tab-content" id="v-pills-tabContent">
+$mylist = preg_replace("/<h6>endpills<\/h6>/", '</div>
+	</div>
+	<div class="col-10">', $mylist);		
+$mylist = preg_replace("/<h6>startaccordion<\/h6>/s", ' <div class="tab-content" id="v-pills-tabContent">
     <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
-		<div class="accordion" id="accordionExample">', $mylist);
+	<div class="accordion" id="accordionExample">', $mylist);
 $mylist = preg_replace("/<h3>/s", '<div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">', $mylist);
+    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button>
-    </h2>
-    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-      <div class="accordion-body">
-        Cillum ad ut irure tempor velit nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id reprehenderit sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
-      </div>
-    </div>
-  </div>', $mylist);
-$mylist = preg_replace("/<h4>endaccordion<\/h4>/s", '</div>', $mylist);
-$mylist = preg_replace("/<h4>endtabcontent<\/h4>/s", '</div>', $mylist);
+    </h2>', $mylist);		
+$mylist = preg_replace("/<h6>startaccordioncontent<\/h6>/s", '<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">', $mylist);
+$mylist = preg_replace("/<h6>endaccordioncontent<\/h6>/s", '</div>
+    </div>', $mylist);
+$mylist = preg_replace("/<h6>endaccordion<\/h6>/s", '</div></div>', $mylist);
+$mylist = preg_replace("/<h6>endbodycontent<\/h6>/s", '</div>', $mylist);
 		
 echo $mylist;
 		
