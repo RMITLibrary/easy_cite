@@ -7,9 +7,17 @@
         <meta name="author" content="" />
         <title>EasyCite</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="../2022-build/assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="./css/styles.css" rel="stylesheet" />
+        <link href="../2022-build/css/styles.css" rel="stylesheet" />
+			<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+
+<style>
+	body {margin:2rem;}
+	.myleftpills {text-align: left;}
+</style>
     </head>
     <body>
         <!-- Responsive navbar-->
@@ -42,15 +50,73 @@ $parsedown = new Parsedown();
 
 $toplevel = file_get_contents('easycite.md');
 $apa = file_get_contents('apa.md');
+$rmitharvard = file_get_contents('rmitharvard.md');
 
-echo $parsedown->text($toplevel);
-echo $parsedown->text($apa);
+//echo $parsedown->text($toplevel);
+//echo $parsedown->text($apa);
+//echo $parsedown->text($rmitharvard);
+		
+$mylist = $parsedown->text($rmitharvard);
+		
+		//preg_match('/<h2>(.*?)<\/h2>/s', $mylist, $match);
+		//echo $match[1];
+		
+		
+//$pattern = "/<h2>(.*?)<\/h2>/s";
+//if(preg_match_all($pattern, $mylist, $matches)) {
+//  print_r($matches);
+//}
+		
+//$pattern2 = "/<h3>(.*?)<\/h3>/s";
+//if(preg_match_all($pattern2, $mylist, $matches2)) {
+//  print_r($matches);
+//}
+$mylist = preg_replace("/<h4>starttabs<\/h4>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
+$mylist = preg_replace("/<h1>/", '<button class="nav-link active" id="nav-x-tab" data-bs-toggle="tab" data-bs-target="#nav-x" type="button" role="tab" aria-controls="nav-x" aria-selected="true">', $mylist);
+$mylist = preg_replace("/<\/h1>/", '</button>', $mylist);
+$mylist = preg_replace("/<h4>endtabs<\/h4>/", '</div></nav>', $mylist);
+		
+$mylist = preg_replace("/<h4>startpills<\/h4>/", '<p>&nbsp;</p>
+<div class="tab-content" id="nav-tabContent">
+  <div class="tab-pane fade show active" id="nav-harvard" role="tabpanel" aria-labelledby="nav-harvard-tab">
+	  <div class="d-flex align-items-start">
+		  <div class="row">
+		  <div class="col-2">
+  <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
+$mylist = preg_replace("/<h2>/", '<button class="nav-link active myleftpills" id="v-pills-y-tab" data-bs-toggle="pill" data-bs-target="#v-pills-y" type="button" role="tab" aria-controls="v-pills-y" aria-selected="true">', $mylist);
+$mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
+$mylist = preg_replace("/<h4>endpills<\/h4>/", '</div>
+			  </div>
+			  <div class="col-10">', $mylist);
+		
+$mylist = preg_replace("/<h4>startaccordion<\/h4>/s", ' <div class="tab-content" id="v-pills-tabContent">
+    <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
+		<div class="accordion" id="accordionExample">', $mylist);
+$mylist = preg_replace("/<h3>/s", '<div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">', $mylist);
+$mylist = preg_replace("/<\/h3>/s", '</button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        Cillum ad ut irure tempor velit nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id reprehenderit sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
+      </div>
+    </div>
+  </div>', $mylist);
+$mylist = preg_replace("/<h4>endaccordion<\/h4>/s", '</div>', $mylist);
+$mylist = preg_replace("/<h4>endtabcontent<\/h4>/s", '</div>', $mylist);
+		
+echo $mylist;
+		
+		
 ?>
+		
+		
 <!-- end page content-->
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
-        <script src="./js/scripts.js"></script>
+        <script src="../2022build/js/scripts.js"></script>
     </body>
 </html>
 
