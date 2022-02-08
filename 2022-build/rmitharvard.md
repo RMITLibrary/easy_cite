@@ -19,6 +19,7 @@
 
 ###### endpills
 
+###### startpillscontent
 ###### startaccordion
 
 ### Using Harvard - Introduction
@@ -45,5 +46,30 @@
 
 ###### endaccordioncontent
 ###### endaccordion
+###### endpillscontent
+
+
+###### startpillscontent
+###### startaccordion
+### Books - part 1
+###### startaccordioncontent
+
+some text here about books
+
+###### endaccordioncontent
+### Books - part 2
+###### startaccordioncontent
+
+some more text here about books
+
+###### endaccordioncontent
+### Books - part 3
+###### startaccordioncontent
+
+even more text here about books
+
+###### endaccordioncontent
+###### endaccordion
+###### endpillscontent
 
 ###### endbodycontent
