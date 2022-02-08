@@ -46,30 +46,14 @@
         <!-- Page content--> 
 <?php 
 
+// include the parsedown code
 require_once 'Parsedown.php';
 $parsedown = new Parsedown();
-
-//$toplevel = file_get_contents('easycite.md');
-//$apa = file_get_contents('apa.md');
-$rmitharvard = file_get_contents('rmitharvard.md');
-
-//echo $parsedown->text($toplevel);
-//echo $parsedown->text($apa);
-//echo $parsedown->text($rmitharvard);
 		
+// get the markdown content
+$rmitharvard = file_get_contents('rmitharvard.md');
 $mylist = $parsedown->text($rmitharvard);
 		
-//preg_match('/<h2>(.*?)<\/h2>/s', $mylist, $match);
-//echo $match[1];	
-//$pattern = "/<h2>(.*?)<\/h2>/s";
-//if(preg_match_all($pattern, $mylist, $matches)) {
-//  print_r($matches);
-//}		
-//$pattern2 = "/<h3>(.*?)<\/h3>/s";
-//if(preg_match_all($pattern2, $mylist, $matches2)) {
-//  print_r($matches);
-//}
-
 //replace heading tags with bootstrap layout
 $mylist = preg_replace("/<h6>starttabs<\/h6>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
 $mylist = preg_replace("/<h1>/", '<button class="nav-link" id="nav-xx-tab" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false">', $mylist);
@@ -80,42 +64,40 @@ $mylist = preg_replace("/<h6>startbodycontent<\/h6>/", '<p>&nbsp;</p>
 	<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab">', $mylist);	
 $mylist = preg_replace("/<h6>startpills<\/h6>/", '<div class="d-flex align-items-start">
 	<div class="row">
-	<div class="col-2">
+	<div class="col-3">
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>endpills<\/h6>/", '</div>
-	</div>', $mylist);	
-$mylist = preg_replace("/<h6>startpillscontent<\/h6>/", '<div class="col-10"><div class="tab-content" id="v-pills-tabContent-yy">
-    <div class="tab-pane fade active" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
-$mylist = preg_replace("/<h6>startaccordion<\/h6>/s", '<div class="accordion" id="accordionExample">', $mylist);
+$mylist = preg_replace("/<h6>endpills<\/h6>/", '</div></div><div class="col-8">', $mylist);	
+$mylist = preg_replace("/<h6>startpillscontent<\/h6>/", '<div class="tab-content" id="v-pills-tabContent-yy">
+    <div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
+$mylist = preg_replace("/<h6>startaccordion<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h3>/s", '<div class="accordion-item">
     <h2 class="accordion-header" id="heading-zz">
     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-zz" aria-expanded="false" aria-controls="collapse-zz">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
-$mylist = preg_replace("/<h6>startaccordioncontent<\/h6>/s", '<div id="collapse-zz" class="accordion-collapse collapse" aria-labelledby="heading-zz" data-bs-parent="#accordionExample">
+$mylist = preg_replace("/<h6>startaccordioncontent<\/h6>/s", '<div id="collapse-zz" class="accordion-collapse collapse" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-zz">
       <div class="accordion-body">', $mylist);
-$mylist = preg_replace("/<h6>endaccordioncontent<\/h6>/s", '</div>
-    </div>', $mylist);
-$mylist = preg_replace("/<h6>endaccordion<\/h6>/s", '</div>', $mylist);
+$mylist = preg_replace("/<h6>endaccordioncontent<\/h6>/s", '</div></div></div>', $mylist);
+$mylist = preg_replace("/<h6>endaccordion<\/h6>/s", '</div></div>', $mylist);
 $mylist = preg_replace("/<h6>endpillscontent<\/h6>/s", '</div>', $mylist);
-$mylist = preg_replace("/<h6>endbodycontent<\/h6>/s", '</div></div><div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the APA page</p></div>
-  <div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the Chivago page</p></div></div>', $mylist);
+$mylist = preg_replace("/<h6>endbodycontent<\/h6>/s", '</div></div></div></div>
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the APA page</p></div>
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the Chicago page</p></div>
+</div>', $mylist);
 		
 //replace property for the first tab, pill, accordion only - to show, true or active
 $mylist = preg_replace("/nav-link/", 'nav-link active', $mylist, 1);
-$mylist = preg_replace("/tab-pane fade/", 'tab-pane fade show active', $mylist, 1);
-$mylist = preg_replace("/tab-pane fade active/", 'tab-pane fade show active', $mylist, 1);
+$mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fade show active" id="nav', $mylist, 1);
+$mylist = preg_replace("/class=\"tab-pane fade\" id=\"v/", 'class="tab-pane fade show active" id="v', $mylist, 1);
 $mylist = preg_replace("/accordion-collapse collapse/", 'accordion-collapse collapse show', $mylist, 1);
 $mylist = preg_replace("/aria-selected=\"false\"/", 'aria-selected="true"', $mylist, 1);
 $mylist = preg_replace("/nav-link myleftpills/", 'nav-link myleftpills active', $mylist, 1);
 $mylist = preg_replace("/aria-expanded=\"false\"/", 'aria-expanded="true"', $mylist, 1);
 
-//loop through bootstrap classes to find and replace - to allocate a unique number to each iteration of that class so that bootstrap tabs, pills and accordians will work
-	
+//loop through bootstrap classes to allocate unique identifyers to each iteration of that class so that bootstrap tabs, pills and accordians will work
 //set unique class names for TABS
-//id="nav-tabContent-xx"
 $counter0 = 0;
 preg_match_all("/id=\"nav-tabContent-xx\"/", $mylist, $matches0 );
 foreach($matches0[0] as $titles0){
@@ -153,7 +135,6 @@ foreach($matches5[0] as $titles5){
 	++$counter5;
 }
 //set unique class names for PILLS
-		//id="v-pills-tabContent-yy"
 $counter60 = 0;
 preg_match_all("/id=\"v-pills-tabContent-yy\"/", $mylist, $matches60 );
 foreach($matches60[0] as $titles60){
@@ -191,6 +172,12 @@ foreach($matches10[0] as $titles10){
 	++$counter10;
 }		
 //set unique class names for ACCORDION
+$counter16 = 0;
+preg_match_all("/id=\"accordionExample-zz\"/", $mylist, $matches16 );
+foreach($matches16[0] as $titles16){
+	$mylist = preg_replace("/id=\"accordionExample-zz\"/", "id=\"accordionExample-$counter16\"", $mylist, 1);
+	++$counter16;
+}
 $counter11 = 0;
 preg_match_all("/id=\"heading-zz\"/", $mylist, $matches11 );
 foreach($matches11[0] as $titles11){
@@ -215,26 +202,30 @@ foreach($matches14[0] as $titles14){
 	$mylist = preg_replace("/aria-labelledby=\"heading-zz\"/", "aria-labelledby=\"heading-$counter14\"", $mylist, 1);
 	++$counter14;
 }
+$counter17 = 0;
+preg_match_all("/data-bs-parent=\"#accordionExample-zz\"/", $mylist, $matches17 );
+foreach($matches17[0] as $titles17){
+	$mylist = preg_replace("/data-bs-parent=\"#accordionExample-zz\"/", "data-bs-parent=\"#accordionExample-$counter17\"", $mylist, 1);
+	++$counter17;
+}
 $counter15 = 0;
 preg_match_all("/id=\"collapse-zz\"/", $mylist, $matches15 );
 foreach($matches15[0] as $titles15){
 	$mylist = preg_replace("/id=\"collapse-zz\"/", "id=\"collapse-$counter15\"", $mylist, 1);
 	++$counter15;
 }
+//ISSUES TO BE RESOLVED
+//some weirdness with the pills content area not hiding with the button clicks
+//also weirdness with the accordion not opening and closing properly and the colums width changing
 //solve the problem of the second pills content area not having the first accordion showing - nested loop?? or different variable name??
 		
-		
 echo($mylist);
-		
-		
+	
 ?>
 		
 		
 <!-- end page content-->
-        <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
-        <script src="../2022build/js/scripts.js"></script>
+
     </body>
 </html>
 

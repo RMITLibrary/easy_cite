@@ -5,6 +5,7 @@
 ###### endtabs
 
 ###### startbodycontent
+
 ###### startpills
 
 ## Using Harvard
@@ -45,30 +46,38 @@
 **Eu dolore ea ullamco dolore** Lorem id cupidatat excepteur reprehenderit consectetur elit id dolor proident in cupidatat officia. Voluptate excepteur commodo labore nisi cillum duis aliqua do. Aliqua amet qui mollit consectetur nulla mollit velit aliqua veniam nisi id do Lorem deserunt amet. Culpa ullamco sit adipisicing labore officia magna elit nisi in aute tempor commodo eiusmod.
 
 ###### endaccordioncontent
+
 ###### endaccordion
 ###### endpillscontent
 
 
 ###### startpillscontent
 ###### startaccordion
+
 ### Books - part 1
+
 ###### startaccordioncontent
 
 some text here about books
 
 ###### endaccordioncontent
+
 ### Books - part 2
+
 ###### startaccordioncontent
 
 some more text here about books
 
 ###### endaccordioncontent
+
 ### Books - part 3
+
 ###### startaccordioncontent
 
 even more text here about books
 
 ###### endaccordioncontent
+
 ###### endaccordion
 ###### endpillscontent
 
