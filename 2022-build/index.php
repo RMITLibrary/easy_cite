@@ -16,6 +16,18 @@
 <style>
 	body {margin:2rem;}
 	.myleftpills {text-align: left;}
+		h4{
+			font-size: 1.2rem;
+			font-weight: 700;
+		}
+		h5{
+			font-size: 0.9rem;
+			font-weight: 700;
+		}
+		blockquote{
+			font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
+			margin-left: 30px;
+		}
 	
 </style>
     </head>
@@ -50,9 +62,11 @@
 require_once 'Parsedown.php';
 $parsedown = new Parsedown();
 		
-// get the markdown content
+// get the markdown content - RMIT Harvard
 $rmitharvard = file_get_contents('rmitharvard.md');
 $mylist = $parsedown->text($rmitharvard);
+//need to develop an if/then script so that when the tabs are clicked, the different markdown files are loaded and parsedown to $mylist		
+
 		
 //replace heading tags with bootstrap layout
 $mylist = preg_replace("/<h6>starttabs<\/h6>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
@@ -64,12 +78,12 @@ $mylist = preg_replace("/<h6>startbodycontent<\/h6>/", '<p>&nbsp;</p>
 	<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab">', $mylist);	
 $mylist = preg_replace("/<h6>startpills<\/h6>/", '<div class="d-flex align-items-start">
 	<div class="row">
-	<div class="col-3">
+	<div class="col-sm-2">
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>endpills<\/h6>/", '</div></div>', $mylist);	
-$mylist = preg_replace("/<h6>startpillscontentarea<\/h6>/", '<div class="col-8"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
+$mylist = preg_replace("/<h6>startpillscontentarea<\/h6>/", '<div class="col-12 col-sm-10"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
 $mylist = preg_replace("/<h6>startpillscontent<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
 $mylist = preg_replace("/<h6>startaccordion<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h3>/s", '<div class="accordion-item">
@@ -85,11 +99,11 @@ $mylist = preg_replace("/<h6>endpillscontent<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>endpillscontentarea<\/h6>/s", '</div>', $mylist);
 //this end body content will eventually not have the extra tab areas for other style guides - the tabs will link to external files.
 $mylist = preg_replace("/<h6>endbodycontent<\/h6>/s", '</div>
-<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the APA page</p></div>
-<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the Chicago page</p></div>
-<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the Vancouver page</p></div>
-<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the AGLC4 page</p></div>
-<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the IEEE page</p></div>
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by content from the APA markdown</p></div>
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by content from the Chicago markdown</p></div>
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by content from the Vancouver markdown</p></div>
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by content from the AGLC4 markdown</p></div>
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by content from IEEE markdown</p></div>
 </div></div></div></div>', $mylist);
 		
 //replace property for the first tab, pill, accordion only - to show, true or active
