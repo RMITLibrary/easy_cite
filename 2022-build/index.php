@@ -68,9 +68,9 @@ $mylist = preg_replace("/<h6>startpills<\/h6>/", '<div class="d-flex align-items
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>endpills<\/h6>/", '</div></div><div class="col-8">', $mylist);	
-$mylist = preg_replace("/<h6>startpillscontent<\/h6>/", '<div class="tab-content" id="v-pills-tabContent-yy">
-    <div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
+$mylist = preg_replace("/<h6>endpills<\/h6>/", '</div></div>', $mylist);	
+$mylist = preg_replace("/<h6>startpillscontentarea<\/h6>/", '<div class="col-8"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
+$mylist = preg_replace("/<h6>startpillscontent<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
 $mylist = preg_replace("/<h6>startaccordion<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h3>/s", '<div class="accordion-item">
     <h2 class="accordion-header" id="heading-zz">
@@ -79,13 +79,18 @@ $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
 $mylist = preg_replace("/<h6>startaccordioncontent<\/h6>/s", '<div id="collapse-zz" class="accordion-collapse collapse" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-zz">
       <div class="accordion-body">', $mylist);
-$mylist = preg_replace("/<h6>endaccordioncontent<\/h6>/s", '</div></div></div>', $mylist);
-$mylist = preg_replace("/<h6>endaccordion<\/h6>/s", '</div></div>', $mylist);
+$mylist = preg_replace("/<h6>endaccordioncontent<\/h6>/s", '</div></div>', $mylist);
+$mylist = preg_replace("/<h6>endaccordion<\/h6>/s", '</div></div></div></div>', $mylist);
 $mylist = preg_replace("/<h6>endpillscontent<\/h6>/s", '</div>', $mylist);
-$mylist = preg_replace("/<h6>endbodycontent<\/h6>/s", '</div></div></div></div>
+$mylist = preg_replace("/<h6>endpillscontentarea<\/h6>/s", '</div>', $mylist);
+//this end body content will eventually not have the extra tab areas for other style guides - the tabs will link to external files.
+$mylist = preg_replace("/<h6>endbodycontent<\/h6>/s", '</div>
 <div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the APA page</p></div>
 <div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the Chicago page</p></div>
-</div>', $mylist);
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the Vancouver page</p></div>
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the AGLC4 page</p></div>
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by a link to the IEEE page</p></div>
+</div></div></div></div>', $mylist);
 		
 //replace property for the first tab, pill, accordion only - to show, true or active
 $mylist = preg_replace("/nav-link/", 'nav-link active', $mylist, 1);
@@ -103,7 +108,7 @@ preg_match_all("/id=\"nav-tabContent-xx\"/", $mylist, $matches0 );
 foreach($matches0[0] as $titles0){
 	$mylist = preg_replace("/id=\"nav-tabContent-xx\"/", "id=\"nav-tabContent-$counter0\"", $mylist, 1);
 	++$counter0;
-}		
+}	
 $counter1 = 0;
 preg_match_all("/id=\"nav-xx-tab\"/", $mylist, $matches1 );
 foreach($matches1[0] as $titles1){
@@ -214,10 +219,9 @@ foreach($matches15[0] as $titles15){
 	$mylist = preg_replace("/id=\"collapse-zz\"/", "id=\"collapse-$counter15\"", $mylist, 1);
 	++$counter15;
 }
-//ISSUES TO BE RESOLVED
-//some weirdness with the pills content area not hiding with the button clicks
-//also weirdness with the accordion not opening and closing properly and the colums width changing
-//solve the problem of the second pills content area not having the first accordion showing - nested loop?? or different variable name??
+// ISSUES TO BE RESOLVED
+// weirdness with the accordion not opening and closing properly - some need two clicks, the colour disappears (bootstrap issues)
+// solve the problem of the second pills content area not having the first accordion showing - nested loop?? or different variable name?? or use unordered list???
 		
 echo($mylist);
 	

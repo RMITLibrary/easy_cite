@@ -2,6 +2,9 @@
 # RMIT Harvard
 # APA 7th Ed.
 # Chicago
+# Vancouver
+# AGLC4
+# IEEE
 ###### endtabs
 
 ###### startbodycontent
@@ -20,7 +23,10 @@
 
 ###### endpills
 
+###### startpillscontentarea
+
 ###### startpillscontent
+
 ###### startaccordion
 
 ### Using Harvard - Introduction
@@ -48,10 +54,12 @@
 ###### endaccordioncontent
 
 ###### endaccordion
+
 ###### endpillscontent
 
 
 ###### startpillscontent
+
 ###### startaccordion
 
 ### Books - part 1
@@ -79,6 +87,51 @@ even more text here about books
 ###### endaccordioncontent
 
 ###### endaccordion
+
 ###### endpillscontent
+
+###### startpillscontent
+
+third section - accordion goes here
+
+###### endpillscontent
+
+###### startpillscontent
+
+fourth section - accordion goes here
+
+###### endpillscontent
+
+###### startpillscontent
+
+fifth section - accordion goes here
+
+###### endpillscontent
+
+###### startpillscontent
+
+sixth section - accordion goes here
+
+###### endpillscontent
+
+###### startpillscontent
+
+seventh section - accordion goes here
+
+###### endpillscontent
+
+###### startpillscontent
+
+eighth section - accordion goes here
+
+###### endpillscontent
+
+###### startpillscontent
+
+ninth section - accordion goes here
+
+###### endpillscontent
+
+###### endpillscontentarea
 
 ###### endbodycontent
