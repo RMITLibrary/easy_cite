@@ -69,36 +69,36 @@ $mylist = $parsedown->text($rmitharvard);
 
 		
 //replace heading tags with bootstrap layout
-$mylist = preg_replace("/<h6>starttabs<\/h6>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
+$mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
 $mylist = preg_replace("/<h1>/", '<button class="nav-link" id="nav-xx-tab" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false">', $mylist);
 $mylist = preg_replace("/<\/h1>/", '</button>', $mylist);
-$mylist = preg_replace("/<h6>endtabs<\/h6>/", '</div></nav>', $mylist);
-$mylist = preg_replace("/<h6>startbodycontent<\/h6>/", '<p>&nbsp;</p>
+$mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</div></nav>', $mylist);
+$mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<p>&nbsp;</p>
 	<div class="tab-content" id="nav-tabContent-xx">
 	<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab">', $mylist);	
-$mylist = preg_replace("/<h6>startpills<\/h6>/", '<div class="d-flex align-items-start">
+$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="d-flex align-items-start">
 	<div class="row">
 	<div class="col-sm-2">
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>endpills<\/h6>/", '</div></div>', $mylist);	
-$mylist = preg_replace("/<h6>startpillscontentarea<\/h6>/", '<div class="col-12 col-sm-10"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
-$mylist = preg_replace("/<h6>startpillscontent<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
-$mylist = preg_replace("/<h6>startaccordion<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
+$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '</div></div>', $mylist);	
+$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-12 col-sm-10"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
+$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
+$mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h3>/s", '<div class="accordion-item">
     <h2 class="accordion-header" id="heading-zz">
     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-zz" aria-expanded="false" aria-controls="collapse-zz">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
-$mylist = preg_replace("/<h6>startaccordioncontent<\/h6>/s", '<div id="collapse-zz" class="accordion-collapse collapse" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-zz">
+$mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div id="collapse-zz" class="accordion-collapse collapse" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-zz">
       <div class="accordion-body">', $mylist);
-$mylist = preg_replace("/<h6>endaccordioncontent<\/h6>/s", '</div></div>', $mylist);
-$mylist = preg_replace("/<h6>endaccordion<\/h6>/s", '</div></div></div></div>', $mylist);
-$mylist = preg_replace("/<h6>endpillscontent<\/h6>/s", '</div>', $mylist);
-$mylist = preg_replace("/<h6>endpillscontentarea<\/h6>/s", '</div>', $mylist);
+$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '</div></div>', $mylist);
+$mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div></div></div></div>', $mylist);
+$mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
+$mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div>', $mylist);
 //this end body content will eventually not have the extra tab areas for other style guides - the tabs will link to external files.
-$mylist = preg_replace("/<h6>endbodycontent<\/h6>/s", '</div>
+$mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div>
 <div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by content from the APA markdown</p></div>
 <div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by content from the Chicago markdown</p></div>
 <div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><p>this content will be replaced by content from the Vancouver markdown</p></div>

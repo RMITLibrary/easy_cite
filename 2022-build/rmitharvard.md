@@ -1,16 +1,24 @@
-###### starttabs
+<!-- RMIT Harvard Style Guide -->
+<!-- RMIT Library, Digital Learning -->
+<!-- INSTRUCTIONS -->
+<!-- do not edit, move or delete any lines that begin with 6 hash symbols (######) -->
+<!-- unless you need to add or delete sections as required for type and subtype content -->
+
+<!-- start the top style guide menu -->
+<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
+###### start-style-menu
 # RMIT Harvard
 # APA 7th Ed.
 # Chicago
 # Vancouver
 # AGLC4
 # IEEE
-###### endtabs
+###### end-style-menu
 
-###### startbodycontent
-
-###### startpills
-
+###### start-style-guide
+<!-- start the left-hand TYPE menu -->
+<!-- the TYPE menu must use heading 2 (##) -->
+###### start-type-menu
 ## Using Harvard
 ## Books
 ## Journal articles
@@ -21,25 +29,32 @@
 ## Images
 ## Other sources
 
-###### endpills
+&nbsp;
 
-###### startpillscontentarea
+###### end-type-menu
 
-###### startpillscontent
+<!-- start the content area which will contain all the type/subtype panes -->
+###### start-content-area
 
-###### startaccordion
+<!-- Using Harvard - links to the first type menu item -->
+###### start-type-content
 
+<!-- start SUB_TYPES - accordions -->
+###### start-subtype
+
+<!-- first accordion -->
+<!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Using Harvard - Introduction
 
-###### startaccordioncontent
+###### start-subtype-content
 
 **Cillum ad ut irure tempor velit** nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id *reprehenderit* sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
 
-###### endaccordioncontent
+###### end-subtype-content
 
 ### General rules for in-text references
 
-###### startaccordioncontent
+###### start-subtype-content
 
 #### General rules for in-text references
 
@@ -70,15 +85,15 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 
 ##### Beginning of a sentence
 
-> Cannon (2012, p. 165) argues that 'changes in corporate approaches to such sensitive areas as hazard reduction, resource use, waste, pollution, etc. will require coherent change strategies'.
+>> Cannon (2012, p. 165) argues that 'changes in corporate approaches to such sensitive areas as hazard reduction, resource use, waste, pollution, etc. will require coherent change strategies'.
 
 ##### Middle of a sentence</h5>
 
-> In a post about the emotions involved in undertaking a literature review, the Thesis Whisper (2013, para. 16) notes that 'elation when you realise you know more than your supervisor about your topic and you feel brave enough to argue about it' is one of the top five PhD emotions.
+>> In a post about the emotions involved in undertaking a literature review, the Thesis Whisper (2013, para. 16) notes that 'elation when you realise you know more than your supervisor about your topic and you feel brave enough to argue about it' is one of the top five PhD emotions.
 
 ##### End of a sentence
 
-> 'Results broadly apply to managers in the tourism, hospitality, and service industries' (Hosany &amp; Martin 2012, Managerial implications section).
+>> 'Results broadly apply to managers in the tourism, hospitality, and service industries' (Hosany &amp; Martin 2012, Managerial implications section).
 
 &nbsp;
 #### Block quotations
@@ -101,105 +116,116 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 
 ##### Beginning of a sentence
 
-> Ahmadjian (2006) noted that there has been disagreement over the influence of Japanese business groups on the economy.
+>> Ahmadjian (2006) noted that there has been disagreement over the influence of Japanese business groups on the economy.
 
 ##### Middle of a sentence
 
-> Based on the novel of the same name, <em>Coco Chanel &amp; Igor Stravinsky</em> (2010) follows the relationship between Coco Chanel and Igor Stravinsky.
+>> Based on the novel of the same name, <em>Coco Chanel &amp; Igor Stravinsky</em> (2010) follows the relationship between Coco Chanel and Igor Stravinsky.
 
 ##### End of a sentence
 
-> The City of Melbourne's population increased by 10.5 percent in the period between July 2012 and June 2013 (Martin 2014).
+>> The City of Melbourne's population increased by 10.5 percent in the period between July 2012 and June 2013 (Martin 2014).
 
-###### endaccordioncontent
+###### end-subtype-content
 
 ### Multiple works by the same author(s) in the same year
 
-###### startaccordioncontent
+###### start-subtype-content
 
 **Eu dolore ea ullamco dolore** Lorem id cupidatat excepteur reprehenderit consectetur elit id dolor proident in cupidatat officia. Voluptate excepteur commodo labore nisi cillum duis aliqua do. Aliqua amet qui mollit consectetur nulla mollit velit aliqua veniam nisi id do Lorem deserunt amet. Culpa ullamco sit adipisicing labore officia magna elit nisi in aute tempor commodo eiusmod.
 
-###### endaccordioncontent
+###### end-subtype-content
 
-###### endaccordion
+###### end-subtype
 
-###### endpillscontent
+###### end-type-content
 
+<!-- Books - links to the second type menu item -->
+###### start-type-content
 
-###### startpillscontent
-
-###### startaccordion
+###### start-subtype
 
 ### Books - part 1
 
-###### startaccordioncontent
+###### start-subtype-content
 
 some text here about books
 
-###### endaccordioncontent
+###### end-subtype-content
 
 ### Books - part 2
 
-###### startaccordioncontent
+###### start-subtype-content
 
 some more text here about books
 
-###### endaccordioncontent
+###### end-subtype-content
 
 ### Books - part 3
 
-###### startaccordioncontent
+###### start-subtype-content
 
 even more text here about books
 
-###### endaccordioncontent
+###### end-subtype-content
 
-###### endaccordion
+###### end-subtype
 
-###### endpillscontent
+###### end-type-content
 
-###### startpillscontent
+
+<!-- Journal articles - links to the third type menu item -->
+###### start-type-content
 
 third section - accordion goes here
 
-###### endpillscontent
+###### end-type-content
 
-###### startpillscontent
+<!-- Newspaper articles - links to the fourth type menu item -->
+###### start-type-content
 
 fourth section - accordion goes here
 
-###### endpillscontent
+###### end-type-content
 
-###### startpillscontent
+<!-- Social media, web pages - links to the fifth type menu item -->
+###### start-type-content
 
 fifth section - accordion goes here
 
-###### endpillscontent
+###### end-type-content
 
-###### startpillscontent
+<!-- Reports and standards - links to the sixth type menu item -->
+###### start-type-content
 
 sixth section - accordion goes here
 
-###### endpillscontent
+###### end-type-content
 
-###### startpillscontent
+<!-- Audiovisual materials - links to the seventh type menu item -->
+###### start-type-content
 
 seventh section - accordion goes here
 
-###### endpillscontent
+###### end-type-content
 
-###### startpillscontent
+<!-- Images - links to the eighth type menu item -->
+###### start-type-content
 
 eighth section - accordion goes here
 
-###### endpillscontent
+###### end-type-content
 
-###### startpillscontent
+<!-- Other sources - links to the ninth type menu item -->
+###### start-type-content
 
 ninth section - accordion goes here
 
-###### endpillscontent
+###### end-type-content
 
-###### endpillscontentarea
+<!-- you may add more type/sub-type sections here if needed -->
 
-###### endbodycontent
+###### end-content-area
+<!-- DO NOT ADD ANY CONTENT AFTER THIS POINT -->
+
+###### end-style-guide
