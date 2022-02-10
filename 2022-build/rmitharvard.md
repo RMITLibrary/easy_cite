@@ -41,11 +41,9 @@
 
 <!-- start SUB_TYPES - accordions -->
 ###### start-subtype
-
-<!-- first accordion -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Using Harvard - Introduction
-
+<!-- first accordion item -->
 ###### start-subtype-content
 
 **Cillum ad ut irure tempor velit** nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id *reprehenderit* sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
@@ -144,9 +142,9 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 ###### start-type-content
 
 ###### start-subtype
-
+<!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Books - part 1
-
+<!-- first accordion item -->
 ###### start-subtype-content
 
 some text here about books

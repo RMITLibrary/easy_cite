@@ -91,7 +91,7 @@ $mylist = preg_replace("/<h3>/s", '<div class="accordion-item">
     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-zz" aria-expanded="false" aria-controls="collapse-zz">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
-$mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div id="collapse-zz" class="accordion-collapse collapse" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-zz">
+$mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="collapse-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-zz">
       <div class="accordion-body">', $mylist);
 $mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '</div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div></div></div></div>', $mylist);
@@ -110,12 +110,12 @@ $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div>
 $mylist = preg_replace("/nav-link/", 'nav-link active', $mylist, 1);
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fade show active" id="nav', $mylist, 1);
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"v/", 'class="tab-pane fade show active" id="v', $mylist, 1);
-$mylist = preg_replace("/accordion-collapse collapse/", 'accordion-collapse collapse show', $mylist, 1);
+$mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-collapse collapse/", '<!-- first accordion item --><div class="accordion-collapse collapse show', $mylist);
 $mylist = preg_replace("/aria-selected=\"false\"/", 'aria-selected="true"', $mylist, 1);
 $mylist = preg_replace("/nav-link myleftpills/", 'nav-link myleftpills active', $mylist, 1);
 $mylist = preg_replace("/aria-expanded=\"false\"/", 'aria-expanded="true"', $mylist, 1);
 
-//loop through bootstrap classes to allocate unique identifyers to each iteration of that class so that bootstrap tabs, pills and accordians will work
+//loop through bootstrap classes to allocate unique identifyers to each iteration of that class so that bootstrap tabs, pills and accordians will match and work
 //set unique class names for TABS
 $counter0 = 0;
 preg_match_all("/id=\"nav-tabContent-xx\"/", $mylist, $matches0 );
