@@ -85,7 +85,7 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 
 >> Cannon (2012, p. 165) argues that 'changes in corporate approaches to such sensitive areas as hazard reduction, resource use, waste, pollution, etc. will require coherent change strategies'.
 
-##### Middle of a sentence</h5>
+##### Middle of a sentence
 
 >> In a post about the emotions involved in undertaking a literature review, the Thesis Whisper (2013, para. 16) notes that 'elation when you realise you know more than your supervisor about your topic and you feel brave enough to argue about it' is one of the top five PhD emotions.
 
@@ -144,6 +144,7 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 ###### start-subtype
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Books - part 1
+
 <!-- first accordion item -->
 ###### start-subtype-content
 
@@ -175,49 +176,112 @@ even more text here about books
 <!-- Journal articles - links to the third type menu item -->
 ###### start-type-content
 
-third section - accordion goes here
+###### start-subtype
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Journals - part 1
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+some text here about books
+
+###### end-subtype-content
 
 ###### end-type-content
 
 <!-- Newspaper articles - links to the fourth type menu item -->
 ###### start-type-content
 
-fourth section - accordion goes here
+###### start-subtype
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Newspapers - part 1
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+some text here about books
+
+###### end-subtype-content
 
 ###### end-type-content
 
 <!-- Social media, web pages - links to the fifth type menu item -->
 ###### start-type-content
 
-fifth section - accordion goes here
+###### start-subtype
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Socials - part 1
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+some text here about books
+
+###### end-subtype-content
 
 ###### end-type-content
 
 <!-- Reports and standards - links to the sixth type menu item -->
 ###### start-type-content
 
-sixth section - accordion goes here
+###### start-subtype
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Reports - part 1
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+some text here about books
+
+###### end-subtype-content
 
 ###### end-type-content
 
 <!-- Audiovisual materials - links to the seventh type menu item -->
 ###### start-type-content
 
-seventh section - accordion goes here
+###### start-subtype
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### AV - part 1
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+some text here about books
+
+###### end-subtype-content
 
 ###### end-type-content
 
 <!-- Images - links to the eighth type menu item -->
 ###### start-type-content
 
-eighth section - accordion goes here
+###### start-subtype
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Images - part 1
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+some text here about books
+
+###### end-subtype-content
 
 ###### end-type-content
 
 <!-- Other sources - links to the ninth type menu item -->
 ###### start-type-content
 
-ninth section - accordion goes here
+###### start-subtype
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Other - part 1
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+some text here about books
+
+###### end-subtype-content
 
 ###### end-type-content
 
