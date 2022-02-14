@@ -1,11 +1,12 @@
 <!-- RMIT Harvard Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
-<!-- do not edit, move or delete any lines that begin with 6 hash symbols (######) -->
+<!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
 
 <!-- start the top style guide menu -->
 <!-- the STYLE GUIDE menu list must use heading 1 (#) -->
+<!-- add additional style guides if needed -->
 ###### start-style-menu
 # RMIT Harvard
 # APA 7th Ed.
@@ -18,6 +19,7 @@
 ###### start-style-guide
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
+<!-- add additional style TYPES if needed -->
 ###### start-type-menu
 ## Using Harvard
 ## Books
@@ -28,27 +30,35 @@
 ## Audiovisual materials
 ## Images
 ## Other sources
-
-&nbsp;
-
 ###### end-type-menu
 
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 
-<!-- Using Harvard - links to the first type menu item -->
+<!-- Using Harvard - links to the first TYPE menu item -->
+<!-- add types at the end of this section if you have created new TYPE menu items -->
 ###### start-type-content
 
-<!-- start SUB_TYPES - accordions -->
+<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 ###### start-subtype
-<!-- the SUBTYPE headings must use heading 3 (###) -->
+<!-- start SUB_TYPE-ITEM - accordion item -->
+<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
 ### Using Harvard - Introduction
+<!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
+<!-- the title for each accordion item content area must be heading 4 (####) -->
+#### Using Harvard - Introduction
 
 **Cillum ad ut irure tempor velit** nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id *reprehenderit* sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
 
 ###### end-subtype-content
+
+###### end-subtype-item
+
+###### start-subtype-item
 
 ### General rules for in-text references
 
@@ -83,15 +93,15 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 
 ##### Beginning of a sentence
 
->> Cannon (2012, p. 165) argues that 'changes in corporate approaches to such sensitive areas as hazard reduction, resource use, waste, pollution, etc. will require coherent change strategies'.
+> Cannon (2012, p. 165) argues that 'changes in corporate approaches to such sensitive areas as hazard reduction, resource use, waste, pollution, etc. will require coherent change strategies'.
 
 ##### Middle of a sentence
 
->> In a post about the emotions involved in undertaking a literature review, the Thesis Whisper (2013, para. 16) notes that 'elation when you realise you know more than your supervisor about your topic and you feel brave enough to argue about it' is one of the top five PhD emotions.
+> In a post about the emotions involved in undertaking a literature review, the Thesis Whisper (2013, para. 16) notes that 'elation when you realise you know more than your supervisor about your topic and you feel brave enough to argue about it' is one of the top five PhD emotions.
 
 ##### End of a sentence
 
->> 'Results broadly apply to managers in the tourism, hospitality, and service industries' (Hosany &amp; Martin 2012, Managerial implications section).
+> 'Results broadly apply to managers in the tourism, hospitality, and service industries' (Hosany &amp; Martin 2012, Managerial implications section).
 
 &nbsp;
 #### Block quotations
@@ -114,34 +124,48 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 
 ##### Beginning of a sentence
 
->> Ahmadjian (2006) noted that there has been disagreement over the influence of Japanese business groups on the economy.
+> Ahmadjian (2006) noted that there has been disagreement over the influence of Japanese business groups on the economy.
 
 ##### Middle of a sentence
 
->> Based on the novel of the same name, <em>Coco Chanel &amp; Igor Stravinsky</em> (2010) follows the relationship between Coco Chanel and Igor Stravinsky.
+> Based on the novel of the same name, <em>Coco Chanel &amp; Igor Stravinsky</em> (2010) follows the relationship between Coco Chanel and Igor Stravinsky.
 
 ##### End of a sentence
 
->> The City of Melbourne's population increased by 10.5 percent in the period between July 2012 and June 2013 (Martin 2014).
+> The City of Melbourne's population increased by 10.5 percent in the period between July 2012 and June 2013 (Martin 2014).
 
 ###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
 
 ### Multiple works by the same author(s) in the same year
 
 ###### start-subtype-content
 
+#### Multiple works by the same author(s) in the same year
+
 **Eu dolore ea ullamco dolore** Lorem id cupidatat excepteur reprehenderit consectetur elit id dolor proident in cupidatat officia. Voluptate excepteur commodo labore nisi cillum duis aliqua do. Aliqua amet qui mollit consectetur nulla mollit velit aliqua veniam nisi id do Lorem deserunt amet. Culpa ullamco sit adipisicing labore officia magna elit nisi in aute tempor commodo eiusmod.
 
 ###### end-subtype-content
+
+###### end-subtype-item
+
 
 ###### end-subtype
 
 ###### end-type-content
 
+
 <!-- Books - links to the second type menu item -->
 ###### start-type-content
 
 ###### start-subtype
+
+
+###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Books - part 1
 
@@ -152,6 +176,11 @@ some text here about books
 
 ###### end-subtype-content
 
+###### end-subtype-item
+
+
+###### start-subtype-item
+
 ### Books - part 2
 
 ###### start-subtype-content
@@ -160,6 +189,11 @@ some more text here about books
 
 ###### end-subtype-content
 
+###### end-subtype-item
+
+
+###### start-subtype-item
+
 ### Books - part 3
 
 ###### start-subtype-content
@@ -167,6 +201,9 @@ some more text here about books
 even more text here about books
 
 ###### end-subtype-content
+
+###### end-subtype-item
+
 
 ###### end-subtype
 
@@ -177,6 +214,9 @@ even more text here about books
 ###### start-type-content
 
 ###### start-subtype
+
+
+###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Journals - part 1
 
@@ -187,12 +227,21 @@ some text here about books
 
 ###### end-subtype-content
 
+###### end-subtype-item
+
+
+###### end-subtype
+
 ###### end-type-content
+
 
 <!-- Newspaper articles - links to the fourth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
+
+
+###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Newspapers - part 1
 
@@ -203,12 +252,21 @@ some text here about books
 
 ###### end-subtype-content
 
+###### end-subtype-item
+
+
+###### end-subtype
+
 ###### end-type-content
+
 
 <!-- Social media, web pages - links to the fifth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
+
+
+###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Socials - part 1
 
@@ -219,12 +277,21 @@ some text here about books
 
 ###### end-subtype-content
 
+###### end-subtype-item
+
+
+###### end-subtype
+
 ###### end-type-content
+
 
 <!-- Reports and standards - links to the sixth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
+
+
+###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Reports - part 1
 
@@ -235,12 +302,21 @@ some text here about books
 
 ###### end-subtype-content
 
+###### end-subtype-item
+
+
+###### end-subtype
+
 ###### end-type-content
+
 
 <!-- Audiovisual materials - links to the seventh type menu item -->
 ###### start-type-content
 
 ###### start-subtype
+
+
+###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### AV - part 1
 
@@ -251,12 +327,21 @@ some text here about books
 
 ###### end-subtype-content
 
+###### end-subtype-item
+
+
+###### end-subtype
+
 ###### end-type-content
+
 
 <!-- Images - links to the eighth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
+
+
+###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Images - part 1
 
@@ -267,12 +352,20 @@ some text here about books
 
 ###### end-subtype-content
 
+###### end-subtype-item
+
+
+###### end-subtype
+
 ###### end-type-content
 
 <!-- Other sources - links to the ninth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
+
+
+###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Other - part 1
 
@@ -283,7 +376,13 @@ some text here about books
 
 ###### end-subtype-content
 
+###### end-subtype-item
+
+
+###### end-subtype
+
 ###### end-type-content
+
 
 <!-- you may add more type/sub-type sections here if needed -->
 
