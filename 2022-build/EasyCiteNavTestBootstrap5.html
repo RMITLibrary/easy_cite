@@ -7,21 +7,21 @@
 
         <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 
+
 <script>
 $(function(){
 	if (location.hash !== null && location.hash !== "") { //check for hash
 		var hash = window.location.hash; 
-		var myArray = hash.split("&"); //split hash into two parts & save in an array
-		var tabopen = myArray[0];  //first item of array
-		tabopen && $('div.tab-pane ' + tabopen).tab('show'); //show pills tab
-		var accordionopen = myArray[1];  //second item of array
-       	accordionopen && $(location.accordionopen + ".collapse").collapse("show"); //show accordion
-		//hash && $('div.tab-pane ' + hash).tab('show'); //show pills tab
-        //$(location.hash + ".collapse").collapse("show"); //show accordion
+		var myArray = hash.split("#"); //split hash into two parts & save in an array
+		var tabopen = myArray[1];  //first item of array
+		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show pills tab
+		var accordionopen = "#" + myArray[2];  //second item of array
+       	$(accordionopen + ".collapse").collapse("show"); //show accordion
+		console.log(tabopen);
+		console.log(accordionopen);
      }
 });
 </script>
-
 <style>
 	body {margin:2rem;}
 	.myleftpills {text-align: left;}
@@ -31,10 +31,10 @@ $(function(){
 	<p id="demo0"></p>
 	<p id="demo1"></p>
 	<script>
-		var hash = window.location.hash;
-		var myArray2 = hash.split("&");
-		document.getElementById("demo0").innerHTML = myArray2[0]; 
-		document.getElementById("demo1").innerHTML = myArray2[1]; 
+		var hash2 = window.location.hash;
+		var myArray2 = hash2.split("#");
+		document.getElementById("demo0").innerHTML = myArray2[1]; 
+		document.getElementById("demo1").innerHTML = myArray2[2]; 
 	</script>
 <h2>Easycite layouts: Bootstrap 5 - tabs , vertical pills &amp; accordions</h2>
 <p>&nbsp;</p>

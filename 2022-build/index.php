@@ -29,9 +29,12 @@
 			margin-left: 30px;
 		}
 	
-</style>
+	</style>
+
     </head>
     <body>
+
+
         <!-- Responsive navbar-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
@@ -56,6 +59,8 @@
         </nav>
 		<p>&nbsp;</p>
         <!-- Page content--> 
+		
+
 <?php 
 
 // include the parsedown code
@@ -233,10 +238,42 @@ foreach($matches15[0] as $titles15){
 		
 echo($mylist);
 	
+$myhashstring = htmlspecialchars($_GET["typeSubtype"]); 
+	//use this query string after the URL to test: ?typeSubtype=v-pills-1-tab-x-collapse-5
 ?>
+<script>
+//$(function(){
+	if ("<?php echo $myhashstring ?>" !== null && "<?php echo $myhashstring ?>" !== "") { //check for hash
+		//var hash = window.location.hash; 
+		var hash = "<?php echo $myhashstring ?>";
+		var myArray = hash.split("-x-"); //split hash into two parts & save in an array
+		var tabopen = myArray[0];  //first item of array
+		tabopen && $("div.tab-pane #" + tabopen).tab('show'); //show pills tab
+		var accordionopen = "#" + myArray[1];  //second item of array
+       	$(accordionopen + ".collapse").collapse("show"); //show accordion
+		console.log(tabopen);
+		console.log(accordionopen);
+     }
+//});
+	</script>
 		
-		
+    <p id="demo0"></p>
+	<p id="demo1"></p>
+	<p id="demo2"></p>
+	<script>
+//$(function(){
+	if ("<?php echo $myhashstring ?>" !== null && "<?php echo $myhashstring ?>" !== "") { //check for hash
+		var hash2 = "<?php echo $myhashstring ?>"; //window.location.hash;
+		var myArray2 = hash2.split("-x-");
+		document.getElementById("demo0").innerHTML = "#" + myArray2[0]; 
+		document.getElementById("demo1").innerHTML = "#" + myArray2[1]; 
+    }
+//});
+	</script>
+	
+
 <!-- end page content-->
+
 
     </body>
 </html>
