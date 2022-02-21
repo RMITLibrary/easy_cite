@@ -11,7 +11,7 @@
         <!-- Core theme CSS (includes Bootstrap)-->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-
+<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 
 <style>
 	body {margin:2rem;}
@@ -31,6 +31,7 @@
 	
 	</style>
 <script>
+//get window.location.hash and use it to open the correct pills and accordion
 $(function(){
 	//use this string after the URL to test -  #v-pills-2-tab#collapse-4
 	if (location.hash !== null && location.hash !== "") { //check for hash
@@ -42,9 +43,30 @@ $(function(){
        	$(accordionopen + ".collapse").collapse("show"); //show accordion
 		console.log(tabopen);
 		console.log(accordionopen);
-     };
+     }
+	else {
+		$("#collapse-0.collapse").collapse("show"); //show accordion
+	};
 });
-</script>
+// button scripts to set URL hash to the correct visible pills and accordion
+function myFunction(button, sethash){
+	var globalpillshash = "#v-pills-0-tab";
+  	// need to create a global pills variable that will hold the value of the current pills even when the accordion item is clicked.
+	// then add the global pills variable to the accordion variable to enable saving the correct pills/accordion position in the URL string.
+	
+		if (sethash.includes("v-pills")){
+	   		var pillshash = sethash;
+			globalpillshash = sethash;
+			console.log(pillshash);
+	   		window.location.hash = pillshash;
+	   	} else {
+		  	var accordionhash = sethash;
+	   		window.location.hash = globalpillshash + accordionhash;
+		    console.log(accordionhash);
+	   }
+}
+	
+</script>	
     </head>
     <body>
 
@@ -109,17 +131,16 @@ $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</div></nav>', $mylist);
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<p>&nbsp;</p>
 	<div class="tab-content" id="nav-tabContent-xx">
 	<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex align-items-start"><div class="row">', $mylist);	
-$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-2">
+$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3">
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
-$mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false">', $mylist);
+$mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '</div><p>&nbsp;</p></div>', $mylist);	
-$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-10 col-12"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
+$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 col-12"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
 $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item">', $mylist);
-$mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz">
-    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-zz" aria-expanded="false" aria-controls="collapse-zz">', $mylist);
+$mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash3\')">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="collapse-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-zz">
@@ -192,6 +213,7 @@ foreach($matches6[0] as $titles6){
 	$mylist = preg_replace("/id=\"v-pills-yy-tab\"/", "id=\"v-pills-$counter6-tab\"", $mylist, 1);
 	++$counter6;
 }
+
 $counter7 = 0;
 preg_match_all("/data-bs-target=\"#v-pills-yy\"/", $mylist, $matches7 );
 foreach($matches7[0] as $titles7){
@@ -259,21 +281,44 @@ foreach($matches15[0] as $titles15){
 	$mylist = preg_replace("/id=\"collapse-zz\"/", "id=\"collapse-$counter15\"", $mylist, 1);
 	++$counter15;
 }
+// replace pills button javascript with unique ID
+$counter18 = 0;
+preg_match_all("/thishash1/", $mylist, $matches18 );
+foreach($matches18[0] as $titles18){
+	$mylist = preg_replace("/thishash1/", "#v-pills-$counter18-tab", $mylist, 1);
+	++$counter18;
+}
+$counter19 = 0;
+preg_match_all("/thishash2/", $mylist, $matches19 );
+foreach($matches19[0] as $titles19){
+	$mylist = preg_replace("/thishash2/", "#v-pills-$counter19-tab", $mylist, 1);
+	++$counter19;
+}
+$counter20 = 0;
+preg_match_all("/thishash3/", $mylist, $matches20 );
+foreach($matches20[0] as $titles20){
+	$mylist = preg_replace("/thishash3/", "#collapse-$counter20", $mylist, 1);
+	++$counter20;
+}
 // ISSUES TO BE RESOLVED
-// weirdness with the accordion not opening and closing properly - some need two clicks, the colour disappears (bootstrap issues)
-// solve the problem of the second pills content area not having the first accordion showing - nested loop?? or different variable name?? or use unordered list???
+// accordion width - can we set a minimum width for desktop view and not mobile view?
+// need to strip all comments out of $mylist after all replaces are done
+// need to close the first accordion for the pill if accessed via hash string
+// need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
+ 
 		
 echo($mylist);
 	
-//$myhashstring = htmlspecialchars($_GET["typeSubtype"]); // get the query string form the URL
-	//use this query string after the URL to test: ?typeSubtype=v-pills-1-tab-x-collapse-5
-		// or #v-pills-2-tab#collapse-4
 ?>
 
 	
+	
 <!-- end page content-->
 
-
+<p><button id="buttonOne" onclick="myFunction2(this, '#v-pills-3-tab#collapse-5')">change hash</button></p>
+<p><button id="buttonTwo" onclick="myFunction2(this, '#v-pills-2-tab')">change hash</button></p>
+<p><button id="buttonTwo" onclick="myFunction2(this, '#v-pills-1-tab#collapse-0')">change hash</button></p>
+	
     </body>
 </html>
 
