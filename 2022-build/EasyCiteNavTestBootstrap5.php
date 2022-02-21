@@ -7,8 +7,21 @@
 
         <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 
+<?php 
+	
+	$testvar1 = "hello";
+	echo($testvar1); 
+	
+	
+	?>
 
-<script>
+<style>
+	body {margin:2rem;}
+	.myleftpills {text-align: left;}
+</style>
+</head>
+<body>
+	<script>
 $(function(){
 	//use this string after the URL to test -  #v-pills-2-tab#collapse4
 	if (location.hash !== null && location.hash !== "") { //check for hash
@@ -23,12 +36,6 @@ $(function(){
      };
 });
 </script>
-<style>
-	body {margin:2rem;}
-	.myleftpills {text-align: left;}
-</style>
-</head>
-<body>
 	<p id="demo0"></p>
 	<p id="demo1"></p>
 	<script>

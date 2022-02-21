@@ -30,9 +30,36 @@
 		}
 	
 	</style>
-
+<script>
+$(function(){
+	//use this string after the URL to test -  #v-pills-2-tab#collapse-4
+	if (location.hash !== null && location.hash !== "") { //check for hash
+		var hash = window.location.hash; 
+		var myArray = hash.split("#"); //split hash into two parts & save in an array
+		var tabopen = myArray[1];  //first item of array
+		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show pills tab
+		var accordionopen = "#" + myArray[2];  //second item of array
+       	$(accordionopen + ".collapse").collapse("show"); //show accordion
+		console.log(tabopen);
+		console.log(accordionopen);
+     };
+});
+</script>
     </head>
     <body>
+
+	<p id="demo0"></p>
+	<p id="demo1"></p>
+	<script>
+		$(function(){
+		if (location.hash !== null && location.hash !== "") { //check for hash
+		var hash2 = window.location.hash;
+		var myArray2 = hash2.split("#");
+		document.getElementById("demo0").innerHTML = "#" + myArray2[1]; 
+		document.getElementById("demo1").innerHTML = "#" + myArray2[2]; 
+		}
+		});
+	</script>
 
 
         <!-- Responsive navbar-->
@@ -238,40 +265,12 @@ foreach($matches15[0] as $titles15){
 		
 echo($mylist);
 	
-$myhashstring = htmlspecialchars($_GET["typeSubtype"]); 
+//$myhashstring = htmlspecialchars($_GET["typeSubtype"]); // get the query string form the URL
 	//use this query string after the URL to test: ?typeSubtype=v-pills-1-tab-x-collapse-5
+		// or #v-pills-2-tab#collapse-4
 ?>
-<script>
-//$(function(){
-	if ("<?php echo $myhashstring ?>" !== null && "<?php echo $myhashstring ?>" !== "") { //check for hash
-		//var hash = window.location.hash; 
-		var hash = "<?php echo $myhashstring ?>";
-		var myArray = hash.split("-x-"); //split hash into two parts & save in an array
-		var tabopen = myArray[0];  //first item of array
-		tabopen && $("div.tab-pane #" + tabopen).tab('show'); //show pills tab
-		var accordionopen = "#" + myArray[1];  //second item of array
-       	$(accordionopen + ".collapse").collapse("show"); //show accordion
-		console.log(tabopen);
-		console.log(accordionopen);
-     }
-//});
-	</script>
-		
-    <p id="demo0"></p>
-	<p id="demo1"></p>
-	<p id="demo2"></p>
-	<script>
-//$(function(){
-	if ("<?php echo $myhashstring ?>" !== null && "<?php echo $myhashstring ?>" !== "") { //check for hash
-		var hash2 = "<?php echo $myhashstring ?>"; //window.location.hash;
-		var myArray2 = hash2.split("-x-");
-		document.getElementById("demo0").innerHTML = "#" + myArray2[0]; 
-		document.getElementById("demo1").innerHTML = "#" + myArray2[1]; 
-    }
-//});
-	</script>
-	
 
+	
 <!-- end page content-->
 
 
