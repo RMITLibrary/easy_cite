@@ -49,8 +49,12 @@ $(function(){
 	};
 });
 // button scripts to set URL hash to the correct visible pills and accordion
+		</script>
+<script>
+		
+var globalpillshash = "#v-pills-0-tab";
 function myFunction(button, sethash){
-	var globalpillshash = "#v-pills-0-tab";
+
   	// need to create a global pills variable that will hold the value of the current pills even when the accordion item is clicked.
 	// then add the global pills variable to the accordion variable to enable saving the correct pills/accordion position in the URL string.
 	
@@ -59,31 +63,17 @@ function myFunction(button, sethash){
 			globalpillshash = sethash;
 			console.log(pillshash);
 	   		window.location.hash = pillshash;
-	   	} else {
+	   	}
+		if (sethash.includes("collapse")){
 		  	var accordionhash = sethash;
 	   		window.location.hash = globalpillshash + accordionhash;
-		    console.log(accordionhash);
+		    console.log(globalpillshash + accordionhash);
 	   }
 }
 	
 </script>	
     </head>
     <body>
-
-	<p id="demo0"></p>
-	<p id="demo1"></p>
-	<script>
-		$(function(){
-		if (location.hash !== null && location.hash !== "") { //check for hash
-		var hash2 = window.location.hash;
-		var myArray2 = hash2.split("#");
-		document.getElementById("demo0").innerHTML = "#" + myArray2[1]; 
-		document.getElementById("demo1").innerHTML = "#" + myArray2[2]; 
-		}
-		});
-	</script>
-
-
         <!-- Responsive navbar-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
@@ -310,14 +300,10 @@ foreach($matches20[0] as $titles20){
 echo($mylist);
 	
 ?>
-
 	
 	
 <!-- end page content-->
 
-<p><button id="buttonOne" onclick="myFunction2(this, '#v-pills-3-tab#collapse-5')">change hash</button></p>
-<p><button id="buttonTwo" onclick="myFunction2(this, '#v-pills-2-tab')">change hash</button></p>
-<p><button id="buttonTwo" onclick="myFunction2(this, '#v-pills-1-tab#collapse-0')">change hash</button></p>
 	
     </body>
 </html>
