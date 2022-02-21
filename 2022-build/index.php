@@ -7,10 +7,10 @@
         <meta name="author" content="" />
         <title>EasyCite</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="../2022-build/assets/favicon.ico" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<link rel="icon" type="image/x-icon" href="../2022-build/assets/favicon.ico" />
+<!-- Core theme CSS (includes Bootstrap)-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 
 <style>
@@ -41,6 +41,7 @@ $(function(){
 		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show pills tab
 		var accordionopen = "#" + myArray[2];  //second item of array
        	$(accordionopen + ".collapse").collapse("show"); //show accordion
+		//TBD - need to develop script to close the other accordion items in this visible pills area only (not all accordions in the page)
 		console.log(tabopen);
 		console.log(accordionopen);
      }
@@ -49,28 +50,25 @@ $(function(){
 	};
 });
 // button scripts to set URL hash to the correct visible pills and accordion
-		</script>
+</script>
 <script>
 		
 var globalpillshash = "#v-pills-0-tab";
+	// create a global pills variable that will hold the value of the current pills even when the accordion item is clicked.
 function myFunction(button, sethash){
-
-  	// need to create a global pills variable that will hold the value of the current pills even when the accordion item is clicked.
-	// then add the global pills variable to the accordion variable to enable saving the correct pills/accordion position in the URL string.
-	
-		if (sethash.includes("v-pills")){
-	   		var pillshash = sethash;
-			globalpillshash = sethash;
-			console.log(pillshash);
-	   		window.location.hash = pillshash;
-	   	}
-		if (sethash.includes("collapse")){
-		  	var accordionhash = sethash;
-	   		window.location.hash = globalpillshash + accordionhash;
-		    console.log(globalpillshash + accordionhash);
-	   }
+	// then add the global pills variable to the accordion variable if selected to enable saving the correct pills/accordion position in the URL string.
+	if (sethash.includes("v-pills")){
+	   	var pillshash = sethash;
+		globalpillshash = sethash;
+		console.log(pillshash);
+	   	window.location.hash = pillshash;
+	}
+	if (sethash.includes("collapse")){
+		var accordionhash = sethash;
+	   	window.location.hash = globalpillshash + accordionhash;
+		console.log(globalpillshash + accordionhash);
+	}
 }
-	
 </script>	
     </head>
     <body>
@@ -106,7 +104,7 @@ function myFunction(button, sethash){
 require_once 'Parsedown.php';
 $parsedown = new Parsedown();
 		
-// get the markdown content - RMIT Harvard
+// get the markdown content - which populates the page with content from a particular style guide
 $rmitharvard = file_get_contents('rmitharvard.md');
 $mylist = $parsedown->text($rmitharvard);
 //need to develop an if/then script so that when the tabs are clicked, the different markdown files are loaded and parsedown to $mylist		
@@ -130,7 +128,7 @@ $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 c
 $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item">', $mylist);
-$mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash3\')">', $mylist);
+$mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="collapse-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-zz">
@@ -140,7 +138,6 @@ $mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div>', $mylist);
-//this end body content will eventually not have the extra tab areas for other style guides - the tabs will link to external files.
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div></div>', $mylist);
 		
 //replace property for the first tab, pill, accordion only - to show, true or active
@@ -271,30 +268,26 @@ foreach($matches15[0] as $titles15){
 	$mylist = preg_replace("/id=\"collapse-zz\"/", "id=\"collapse-$counter15\"", $mylist, 1);
 	++$counter15;
 }
-// replace pills button javascript with unique ID
+// REPLACE pills buttons javascript with unique ID
 $counter18 = 0;
 preg_match_all("/thishash1/", $mylist, $matches18 );
 foreach($matches18[0] as $titles18){
 	$mylist = preg_replace("/thishash1/", "#v-pills-$counter18-tab", $mylist, 1);
 	++$counter18;
 }
+// REPLACE accordion buttons javascript with unique ID
 $counter19 = 0;
 preg_match_all("/thishash2/", $mylist, $matches19 );
 foreach($matches19[0] as $titles19){
-	$mylist = preg_replace("/thishash2/", "#v-pills-$counter19-tab", $mylist, 1);
+	$mylist = preg_replace("/thishash2/", "#collapse-$counter19", $mylist, 1);
 	++$counter19;
 }
-$counter20 = 0;
-preg_match_all("/thishash3/", $mylist, $matches20 );
-foreach($matches20[0] as $titles20){
-	$mylist = preg_replace("/thishash3/", "#collapse-$counter20", $mylist, 1);
-	++$counter20;
-}
+
 // ISSUES TO BE RESOLVED
 // accordion width - can we set a minimum width for desktop view and not mobile view?
 // need to strip all comments out of $mylist after all replaces are done
 // need to close the first accordion for the pill if accessed via hash string
-// need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
+// DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
  
 		
 echo($mylist);
