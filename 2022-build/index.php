@@ -132,10 +132,33 @@ function myFunction(button, sethash){
 // include the parsedown code
 require_once 'Parsedown.php';
 $parsedown = new Parsedown();
+
+// get teh query string from the current URL as a text string
+$queryString = $_SERVER['QUERY_STRING'];
+$thisQuery = htmlentities($queryString);
+// Use parse_str() function to parse the text string
+parse_str($thisQuery, $params);    
+// Display result
+echo ' Current style guide: '.$params['styleguide'];
+if ($params['styleguide'] = "styleguide-0"){
+	$thestyleguide = file_get_contents('rmitharvard.md');
+}	else if ($params['styleguide'] = "styleguide-1"){
+	$thestyleguide = file_get_contents('rmitharvard.md');
+}	else if ($params['styleguide'] = "styleguide-2"){
+	$thestyleguide = file_get_contents('chicago.md');
+}	else if ($params['styleguide'] = "styleguide-3"){
+	$thestyleguide = file_get_contents('rmitharvard.md');
+}	else if ($params['styleguide'] = "styleguide-4"){
+	$thestyleguide = file_get_contents('rmitharvard.md');
+}	else if ($params['styleguide'] = "styleguide-5"){
+	$thestyleguide = file_get_contents('rmitharvard.md');
+}	else {
+	$thestyleguide = file_get_contents('rmitharvard.md');
+}
 		
-// get the markdown content - which populates the page with content from a particular style guide
-$rmitharvard = file_get_contents('rmitharvard.md');
-$mylist = $parsedown->text($rmitharvard);
+// get the markdown content - which populates the page with content from a particular style guide	
+//$thestyleguide = file_get_contents('rmitharvard.md');
+$mylist = $parsedown->text($thestyleguide);
 //need to develop an if/then script so that when the tabs are clicked, the different markdown files are loaded and parsedown to $mylist		
 
 		
