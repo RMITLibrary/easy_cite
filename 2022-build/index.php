@@ -52,7 +52,7 @@ $(function(){
 // button scripts to set URL hash to the correct visible pills and accordion
 </script>
 <script>
-		
+	
 var globalpillshash = "#v-pills-0-tab";
 	// create a global pills variable that will hold the value of the current pills even when the accordion item is clicked.
 function myFunction(button, sethash){
@@ -69,7 +69,36 @@ function myFunction(button, sethash){
 		console.log(globalpillshash + accordionhash);
 	}
 }
-</script>	
+</script>
+<script>
+	// this function is a work-in-progress
+	// it takes the info from the tab button to output a query string that PHP can pick up to load the correct markdown file
+		function myFunction2(button, thisquery){
+			//var tabquery = thisquery; //"styleguide-3";
+			//window.location.query = tabquery;
+			console.log(thisquery);
+			if (thisquery == "styleguide-0"){
+				console.log("RMIT Harvard");
+			} else if (thisquery == "styleguide-1"){
+				console.log("APA 7th Ed.");
+			} else if (thisquery == "styleguide-2"){
+				console.log("Chicago");
+			} else if (thisquery == "styleguide-3"){
+				console.log("Vancouver");
+			} else if (thisquery == "styleguide-4"){
+				console.log("AGLC4");
+			} else if (thisquery == "styleguide-5"){
+				console.log("IEEE");
+			}
+			if (thisquery.includes("styleguide")){
+			const params = new URLSearchParams(location.search);
+			params.set('styleguide', thisquery);
+			params.toString(); // => styleguide=styleguide-3
+			console.log(params.toString());
+			window.history.pushState({}, '', `${location.pathname}?${params.toString()}`);
+			}
+		}
+</script>
     </head>
     <body>
         <!-- Responsive navbar-->
@@ -112,7 +141,7 @@ $mylist = $parsedown->text($rmitharvard);
 		
 //replace heading tags with bootstrap layout
 $mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
-$mylist = preg_replace("/<h1>/", '<button class="nav-link" id="nav-xx-tab" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false">', $mylist);
+$mylist = preg_replace("/<h1>/", '<button class="nav-link" id="nav-xx-tab" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
 $mylist = preg_replace("/<\/h1>/", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</div></nav>', $mylist);
 		
@@ -281,6 +310,14 @@ preg_match_all("/thishash2/", $mylist, $matches19 );
 foreach($matches19[0] as $titles19){
 	$mylist = preg_replace("/thishash2/", "#collapse-$counter19", $mylist, 1);
 	++$counter19;
+}
+// REPLACE top tab buttons javascript with unique ID
+$counter20 = 0;
+preg_match_all("/thisstyleguide/", $mylist, $matches20 );
+foreach($matches20[0] as $titles20){
+	$mylist = preg_replace("/thisstyleguide/", "styleguide-$counter20", $mylist, 1);
+	++$counter20;
+	console.log("styleguide-$counter20");
 }
 
 // ISSUES TO BE RESOLVED
