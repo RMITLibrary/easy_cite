@@ -71,8 +71,7 @@ function myFunction(button, sethash){
 }
 </script>
 <script>
-	// this function is a work-in-progress
-	// it takes the info from the tab button to output a query string that PHP can pick up to load the correct markdown file
+	// this function takes the info from the tab button to output a query string that PHP can pick up to load the correct markdown file
 		function myFunction2(button, thisquery){
 			//var tabquery = thisquery; //"styleguide-3";
 			//window.location.query = tabquery;
@@ -97,6 +96,8 @@ function myFunction(button, sethash){
 			console.log(params.toString());
 			window.history.pushState({}, '', `${location.pathname}?${params.toString()}`);
 			}
+			//refresh the page...
+			location.reload();
 		}
 </script>
     </head>
@@ -133,28 +134,36 @@ function myFunction(button, sethash){
 require_once 'Parsedown.php';
 $parsedown = new Parsedown();
 
-// get teh query string from the current URL as a text string
+// get the query string from the current URL as a text string - this part not yet working...
 $queryString = $_SERVER['QUERY_STRING'];
 $thisQuery = htmlentities($queryString);
-// Use parse_str() function to parse the text string
-parse_str($thisQuery, $params);    
-// Display result
-echo ' Current style guide: '.$params['styleguide'];
-if ($params['styleguide'] = "styleguide-0"){
+// Use parse_str() function to parse the text string as an array
+parse_str($thisQuery, $params); 
+// save the result in a variable
+$whichstyleguide = $params['styleguide'];
+//get the correct markdown content
+if ($whichstyleguide == "styleguide-0"){
 	$thestyleguide = file_get_contents('rmitharvard.md');
-}	else if ($params['styleguide'] = "styleguide-1"){
+}	else if ($whichstyleguide == "styleguide-1"){
 	$thestyleguide = file_get_contents('rmitharvard.md');
-}	else if ($params['styleguide'] = "styleguide-2"){
+}	else if ($whichstyleguide == "styleguide-2"){
 	$thestyleguide = file_get_contents('chicago.md');
-}	else if ($params['styleguide'] = "styleguide-3"){
+}	else if ($whichstyleguide == "styleguide-3"){
 	$thestyleguide = file_get_contents('rmitharvard.md');
-}	else if ($params['styleguide'] = "styleguide-4"){
+}	else if ($whichstyleguide == "styleguide-4"){
 	$thestyleguide = file_get_contents('rmitharvard.md');
-}	else if ($params['styleguide'] = "styleguide-5"){
+}	else if ($whichstyleguide == "styleguide-5"){
 	$thestyleguide = file_get_contents('rmitharvard.md');
 }	else {
 	$thestyleguide = file_get_contents('rmitharvard.md');
 }
+//test the style guide
+//echo ' Current style guide: '.$whichstyleguide;
+		
+//still to work out...
+//refresh the page??? after the javascript and the above PHP
+//focus the correct tab after page refresh
+		
 		
 // get the markdown content - which populates the page with content from a particular style guide	
 //$thestyleguide = file_get_contents('rmitharvard.md');
@@ -164,7 +173,7 @@ $mylist = $parsedown->text($thestyleguide);
 		
 //replace heading tags with bootstrap layout
 $mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
-$mylist = preg_replace("/<h1>/", '<button class="nav-link" id="nav-xx-tab" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
+$mylist = preg_replace("/<h1>/", '<button id="nav-xx-tab" class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
 $mylist = preg_replace("/<\/h1>/", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</div></nav>', $mylist);
 		
@@ -193,7 +202,7 @@ $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div>', $mylist)
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div></div>', $mylist);
 		
 //replace property for the first tab, pill, accordion only - to show, true or active
-$mylist = preg_replace("/nav-link/", 'nav-link active', $mylist, 1);
+//$mylist = preg_replace("/nav-link/", 'nav-link active', $mylist, 1); //FIX THIS so the correct tab is active, not the first one
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fade show active" id="nav', $mylist, 1);
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"v/", 'class="tab-pane fade show active" id="v', $mylist, 1);
 $mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-collapse collapse/", '<!-- first accordion item --><div class="accordion-collapse collapse show', $mylist);
@@ -202,7 +211,7 @@ $mylist = preg_replace("/nav-link myleftpills/", 'nav-link myleftpills active', 
 $mylist = preg_replace("/aria-expanded=\"false\"/", 'aria-expanded="true"', $mylist, 1);
 
 //loop through bootstrap classes to allocate unique identifyers to each iteration of that class so that bootstrap tabs, pills and accordians will match and work
-//set unique class names for TABS
+//set unique id names for TABS
 $counter0 = 0;
 preg_match_all("/id=\"nav-tabContent-xx\"/", $mylist, $matches0 );
 foreach($matches0[0] as $titles0){
@@ -277,7 +286,7 @@ foreach($matches10[0] as $titles10){
 	$mylist = preg_replace("/aria-labelledby=\"v-pills-yy-tab\"/", "aria-labelledby=\"v-pills-$counter10-tab\"", $mylist, 1);
 	++$counter10;
 }		
-//set unique class names for ACCORDION
+//set unique id names for ACCORDION
 $counter16 = 0;
 preg_match_all("/id=\"accordionExample-zz\"/", $mylist, $matches16 );
 foreach($matches16[0] as $titles16){
@@ -342,8 +351,26 @@ foreach($matches20[0] as $titles20){
 	++$counter20;
 	console.log("styleguide-$counter20");
 }
+		
+//make the correct styleguide tab active
+if ($whichstyleguide == "styleguide-0"){
+	$mylist = preg_replace("/id=\"nav-0-tab\" class=\"nav-link\"/", 'id="nav-0-tab" class="nav-link active"', $mylist, 1); 
+}	else if ($whichstyleguide == "styleguide-1"){
+	$mylist = preg_replace("/id=\"nav-1-tab\" class=\"nav-link\"/", 'id="nav-1-tab" class="nav-link active"', $mylist, 1); 
+}	else if ($whichstyleguide == "styleguide-2"){
+	$mylist = preg_replace("/id=\"nav-2-tab\" class=\"nav-link\"/", 'id="nav-2-tab" class="nav-link active"', $mylist, 1); 
+}	else if ($whichstyleguide == "styleguide-3"){
+	$mylist = preg_replace("/id=\"nav-3-tab\" class=\"nav-link\"/", 'id="nav-3-tab" class="nav-link active"', $mylist, 1); 
+}	else if ($whichstyleguide == "styleguide-4"){
+	$mylist = preg_replace("/id=\"nav-4-tab\" class=\"nav-link\"/", 'id="nav-4-tab" class="nav-link active"', $mylist, 1); 
+}	else if ($whichstyleguide == "styleguide-5"){
+	$mylist = preg_replace("/id=\"nav-5-tab\" class=\"nav-link\"/", 'id="nav-5-tab" class="nav-link active"', $mylist, 1); 
+}	else {
+	$mylist = preg_replace("/id=\"nav-0-tab\" class=\"nav-link\"/", 'id="nav-0-tab" class="nav-link active"', $mylist, 1); 
+}
 
 // ISSUES TO BE RESOLVED
+// DONE!! focus the correct tab depending on the query string.
 // accordion width - can we set a minimum width for desktop view and not mobile view?
 // need to strip all comments out of $mylist after all replaces are done
 // need to close the first accordion for the pill if accessed via hash string
