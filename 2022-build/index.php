@@ -39,15 +39,18 @@ $(function(){
 		var myArray = hash.split("#"); //split hash into two parts & save in an array
 		var tabopen = myArray[1];  //first item of array
 		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show pills tab
+		window.scrollTo(0,0); //need to scroll window to top of page but not working
 		var accordionopen = "#" + myArray[2];  //second item of array
        	$(accordionopen + ".collapse").collapse("show"); //show accordion
 		//TBD - need to develop script to close the other accordion items in this visible pills area only (not all accordions in the page)
+		// if myArray[2] includes "#v-pills", close the first accordion of the section - HOW?? otherwise, leave as is - the first accordion will open because of PHP code below.
 		console.log(tabopen);
 		console.log(accordionopen);
      }
 	else {
 		$("#collapse-0.collapse").collapse("show"); //show accordion
 	};
+	
 });
 // button scripts to set URL hash to the correct visible pills and accordion
 </script>
@@ -98,6 +101,7 @@ function myFunction(button, sethash){
 			}
 			//refresh the page...
 			location.reload();
+			
 		}
 </script>
     </head>
@@ -145,15 +149,15 @@ $whichstyleguide = $params['styleguide'];
 if ($whichstyleguide == "styleguide-0"){
 	$thestyleguide = file_get_contents('rmitharvard.md');
 }	else if ($whichstyleguide == "styleguide-1"){
-	$thestyleguide = file_get_contents('rmitharvard.md');
+	$thestyleguide = file_get_contents('apa7thed.md');
 }	else if ($whichstyleguide == "styleguide-2"){
 	$thestyleguide = file_get_contents('chicago.md');
 }	else if ($whichstyleguide == "styleguide-3"){
-	$thestyleguide = file_get_contents('rmitharvard.md');
+	$thestyleguide = file_get_contents('vancouver.md');
 }	else if ($whichstyleguide == "styleguide-4"){
-	$thestyleguide = file_get_contents('rmitharvard.md');
+	$thestyleguide = file_get_contents('aglc4.md');
 }	else if ($whichstyleguide == "styleguide-5"){
-	$thestyleguide = file_get_contents('rmitharvard.md');
+	$thestyleguide = file_get_contents('ieee.md');
 }	else {
 	$thestyleguide = file_get_contents('rmitharvard.md');
 }
