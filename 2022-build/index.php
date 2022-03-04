@@ -39,7 +39,6 @@ $(function(){
 		var myArray = hash.split("#"); //split hash into two parts & save in an array
 		var tabopen = myArray[1];  //first item of array
 		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show pills tab
-		window.scrollTo(0,0); //need to scroll window to top of page but not working
 		var accordionopen = "#" + myArray[2];  //second item of array
        	$(accordionopen + ".collapse").collapse("show"); //show accordion
 		//TBD - need to develop script to close the other accordion items in this visible pills area only (not all accordions in the page)
@@ -56,7 +55,17 @@ $(function(){
 </script>
 <script>
 	
-var globalpillshash = "#v-pills-0-tab";
+var tabopen;
+if (location.hash !== null && location.hash !== "") { //check for hash
+		var hash = window.location.hash; 
+		var myArray = hash.split("#"); //split hash into two parts & save in an array
+		tabopen = myArray[1];  //first item of array
+} else {
+	tabopen = "#v-pills-0-tab";
+	
+}
+	
+var globalpillshash = tabopen;
 	// create a global pills variable that will hold the value of the current pills even when the accordion item is clicked.
 function myFunction(button, sethash){
 	// then add the global pills variable to the accordion variable if selected to enable saving the correct pills/accordion position in the URL string.
@@ -101,8 +110,15 @@ function myFunction(button, sethash){
 			}
 			//refresh the page...
 			location.reload();
+			//window.scrollToTop(0,0); //need to scroll window to top of page but not working 
 			
 		}
+</script>
+<script>
+	//const list = document.getElementsByClassName("accordion-item").parentNode;	
+	//var thisdiv = document.getElementById("accordionExample-0").childNodes(); 
+	//console.log(thisdiv);
+	
 </script>
     </head>
     <body>
@@ -193,7 +209,7 @@ $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 c
 $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item">', $mylist);
-$mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
+$mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="collapse-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-zz">
@@ -209,6 +225,7 @@ $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div></div>
 //$mylist = preg_replace("/nav-link/", 'nav-link active', $mylist, 1); //FIX THIS so the correct tab is active, not the first one
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fade show active" id="nav', $mylist, 1);
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"v/", 'class="tab-pane fade show active" id="v', $mylist, 1);
+// first accordion button remove collapsed
 $mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-collapse collapse/", '<!-- first accordion item --><div class="accordion-collapse collapse show', $mylist);
 $mylist = preg_replace("/aria-selected=\"false\"/", 'aria-selected="true"', $mylist, 1);
 $mylist = preg_replace("/nav-link myleftpills/", 'nav-link myleftpills active', $mylist, 1);
