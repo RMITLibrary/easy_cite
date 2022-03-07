@@ -30,96 +30,7 @@
 		}
 	
 	</style>
-<script>
-//get window.location.hash and use it to open the correct pills and accordion
-$(function(){
-	//use this string after the URL to test -  #v-pills-2-tab#collapse-4
-	if (location.hash !== null && location.hash !== "") { //check for hash
-		var hash = window.location.hash; 
-		var myArray = hash.split("#"); //split hash into two parts & save in an array
-		var tabopen = myArray[1];  //first item of array
-		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show pills tab
-		var accordionopen = "#" + myArray[2];  //second item of array
-       	$(accordionopen + ".collapse").collapse("show"); //show accordion
-		//TBD - need to develop script to close the other accordion items in this visible pills area only (not all accordions in the page)
-		// if myArray[2] includes "#v-pills", close the first accordion of the section - HOW?? otherwise, leave as is - the first accordion will open because of PHP code below.
-		console.log(tabopen);
-		console.log(accordionopen);
-     }
-	else {
-		$("#collapse-0.collapse").collapse("show"); //show accordion
-	};
-	
-});
-// button scripts to set URL hash to the correct visible pills and accordion
-</script>
-<script>
-	
-var tabopen;
-if (location.hash !== null && location.hash !== "") { //check for hash
-		var hash = window.location.hash; 
-		var myArray = hash.split("#"); //split hash into two parts & save in an array
-		tabopen = myArray[1];  //first item of array
-} else {
-	tabopen = "#v-pills-0-tab";
-	
-}
-	
-var globalpillshash = tabopen;
-	// create a global pills variable that will hold the value of the current pills even when the accordion item is clicked.
-function myFunction(button, sethash){
-	// then add the global pills variable to the accordion variable if selected to enable saving the correct pills/accordion position in the URL string.
-	if (sethash.includes("v-pills")){
-	   	var pillshash = sethash;
-		globalpillshash = sethash;
-		console.log(pillshash);
-	   	window.location.hash = pillshash;
-	}
-	if (sethash.includes("collapse")){
-		var accordionhash = sethash;
-	   	window.location.hash = globalpillshash + accordionhash;
-		console.log(globalpillshash + accordionhash);
-	}
-}
-</script>
-<script>
-	// this function takes the info from the tab button to output a query string that PHP can pick up to load the correct markdown file
-		function myFunction2(button, thisquery){
-			//var tabquery = thisquery; //"styleguide-3";
-			//window.location.query = tabquery;
-			console.log(thisquery);
-			if (thisquery == "styleguide-0"){
-				console.log("RMIT Harvard");
-			} else if (thisquery == "styleguide-1"){
-				console.log("APA 7th Ed.");
-			} else if (thisquery == "styleguide-2"){
-				console.log("Chicago");
-			} else if (thisquery == "styleguide-3"){
-				console.log("Vancouver");
-			} else if (thisquery == "styleguide-4"){
-				console.log("AGLC4");
-			} else if (thisquery == "styleguide-5"){
-				console.log("IEEE");
-			}
-			if (thisquery.includes("styleguide")){
-			const params = new URLSearchParams(location.search);
-			params.set('styleguide', thisquery);
-			params.toString(); // => styleguide=styleguide-3
-			console.log(params.toString());
-			window.history.pushState({}, '', `${location.pathname}?${params.toString()}`);
-			}
-			//refresh the page...
-			location.reload();
-			//window.scrollToTop(0,0); //need to scroll window to top of page but not working 
-			
-		}
-</script>
-<script>
-	//const list = document.getElementsByClassName("accordion-item").parentNode;	
-	//var thisdiv = document.getElementById("accordionExample-0").childNodes(); 
-	//console.log(thisdiv);
-	
-</script>
+
     </head>
     <body>
         <!-- Responsive navbar-->
@@ -145,9 +56,7 @@ function myFunction(button, sethash){
             </div>
         </nav>
 		<p>&nbsp;</p>
-        <!-- Page content--> 
-		
-
+<!-- Page content--> 
 <?php 
 
 // include the parsedown code
@@ -209,10 +118,10 @@ $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 c
 $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item">', $mylist);
-$mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
+$mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
-$mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="collapse-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-zz">
+$mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
       <div class="accordion-body">', $mylist);
 $mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '</div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div>', $mylist);
@@ -222,7 +131,7 @@ $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div>', $mylist)
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div></div>', $mylist);
 		
 //replace property for the first tab, pill, accordion only - to show, true or active
-//$mylist = preg_replace("/nav-link/", 'nav-link active', $mylist, 1); //FIX THIS so the correct tab is active, not the first one
+//$mylist = preg_replace("/nav-link/", 'nav-link active', $mylist, 1); //FIXED THIS so the correct tab is active, not the first one
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fade show active" id="nav', $mylist, 1);
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"v/", 'class="tab-pane fade show active" id="v', $mylist, 1);
 // first accordion button remove collapsed
@@ -321,9 +230,9 @@ foreach($matches11[0] as $titles11){
 	++$counter11;
 }	
 $counter12 = 0;
-preg_match_all("/data-bs-target=\"#collapse-zz\"/", $mylist, $matches12 );
+preg_match_all("/data-bs-target=\"#subtype-zz\"/", $mylist, $matches12 );
 foreach($matches12[0] as $titles12){
-	$mylist = preg_replace("/data-bs-target=\"#collapse-zz\"/", "data-bs-target=\"#collapse-$counter12\"", $mylist, 1);
+	$mylist = preg_replace("/data-bs-target=\"#subtype-zz\"/", "data-bs-target=\"#subtype-$counter12\"", $mylist, 1);
 	++$counter12;
 }
 $counter13 = 0;
@@ -345,9 +254,9 @@ foreach($matches17[0] as $titles17){
 	++$counter17;
 }
 $counter15 = 0;
-preg_match_all("/id=\"collapse-zz\"/", $mylist, $matches15 );
+preg_match_all("/id=\"subtype-zz\"/", $mylist, $matches15 );
 foreach($matches15[0] as $titles15){
-	$mylist = preg_replace("/id=\"collapse-zz\"/", "id=\"collapse-$counter15\"", $mylist, 1);
+	$mylist = preg_replace("/id=\"subtype-zz\"/", "id=\"subtype-$counter15\"", $mylist, 1);
 	++$counter15;
 }
 // REPLACE pills buttons javascript with unique ID
@@ -361,7 +270,7 @@ foreach($matches18[0] as $titles18){
 $counter19 = 0;
 preg_match_all("/thishash2/", $mylist, $matches19 );
 foreach($matches19[0] as $titles19){
-	$mylist = preg_replace("/thishash2/", "#collapse-$counter19", $mylist, 1);
+	$mylist = preg_replace("/thishash2/", "#subtype-$counter19", $mylist, 1);
 	++$counter19;
 }
 // REPLACE top tab buttons javascript with unique ID
@@ -370,7 +279,7 @@ preg_match_all("/thisstyleguide/", $mylist, $matches20 );
 foreach($matches20[0] as $titles20){
 	$mylist = preg_replace("/thisstyleguide/", "styleguide-$counter20", $mylist, 1);
 	++$counter20;
-	console.log("styleguide-$counter20");
+	//console.log("styleguide-$counter20");
 }
 		
 //make the correct styleguide tab active
@@ -395,17 +304,105 @@ if ($whichstyleguide == "styleguide-0"){
 // accordion width - can we set a minimum width for desktop view and not mobile view?
 // need to strip all comments out of $mylist after all replaces are done
 // need to close the first accordion for the pill if accessed via hash string
+// need to highlight the first accordion item because we removed all the highlights - remove "collapsed" from the first accordion button
 // DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
  
-		
 echo($mylist);
 	
 ?>
 	
 	
 <!-- end page content-->
-
+<script>
+//jQuery: get window.location.hash and use it to open the correct pills and accordion
+$(function(){
+	//use this string after the URL to test -  #v-pills-2-tab#subtype-4
+	if (location.hash !== null && location.hash !== "") { //check for hash
+		var hash = location.hash; 
+		var myArray = hash.split("#"); //split hash into two parts & save in an array
+		var tabopen = myArray[1];  //first item of array
+		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show pills tab
+		var accordionopen = myArray[2];  //second item of array
+       	//$(accordionopen).collapse('show'); //show accordion
+		accordionopen && $('#' + accordionopen).collapse('show');
+		//TBD - need to develop script to close the other accordion items in this visible pills area only (not all accordions in the page)
+		console.log(tabopen);
+		console.log(accordionopen);
+     }
+	else {
+		$("#subtype-0.collapse").collapse("show"); //show accordion
+	};
 	
+});
+// button scripts to set URL hash to the correct visible pills and accordion
+</script>
+<script type="application/javascript">
+var tabopen;
+var accordopen;
+if (location.hash !== null && location.hash !== "") { //check for hash
+		var hash = window.location.hash; 
+		var myArray = hash.split("#"); //split hash into two parts & save in an array
+		tabopen = myArray[1];  //first item of array
+		accordopen = myArray[2];  //first item of array
+		
+} else {
+	tabopen = "#v-pills-0-tab";
+	accordopen = "#subtype-0";
+}
+var globalpillshash = tabopen;
+	// create a global pills variable that will hold the value of the current pills even when the accordion item is clicked.
+function myFunction(button, sethash){
+	// then add the global pills variable to the accordion variable if selected to enable saving the correct pills/accordion position in the URL string.
+	if (sethash.includes("v-pills")){
+	   	var pillshash = sethash;
+		globalpillshash = sethash;
+		//console.log(pillshash);
+	   	window.location.hash = pillshash;
+	}
+	if (sethash.includes("subtype")){
+		var accordionhash = sethash;
+	   	window.location.hash = globalpillshash + accordionhash;
+		//console.log(globalpillshash + accordionhash);
+	}
+}
+
+	// this function takes the info from the tab button to output a query string that PHP can pick up to load the correct markdown file
+		function myFunction2(button, thisquery){
+			//var tabquery = thisquery; //"styleguide-3";
+			//window.location.query = tabquery;
+			/*console.log(thisquery);
+			if (thisquery == "styleguide-0"){
+				console.log("RMIT Harvard");
+			} else if (thisquery == "styleguide-1"){
+				console.log("APA 7th Ed.");
+			} else if (thisquery == "styleguide-2"){
+				console.log("Chicago");
+			} else if (thisquery == "styleguide-3"){
+				console.log("Vancouver");
+			} else if (thisquery == "styleguide-4"){
+				console.log("AGLC4");
+			} else if (thisquery == "styleguide-5"){
+				console.log("IEEE");
+			}*/
+			if (thisquery.includes("styleguide")){
+			const params = new URLSearchParams(location.search);
+			params.set('styleguide', thisquery);
+			params.toString(); // => styleguide=styleguide-3
+			//console.log(params.toString());
+			window.history.pushState({}, '', `${location.pathname}?${params.toString()}`);
+			}
+			//refresh the page...
+			location.reload();
+			//window.scrollToTop(0,0); //need to scroll window to top of page but not working 
+			
+		}
+</script>
+<script>
+	//const list = document.getElementsByClassName("accordion-item").parentNode;	
+	//var thisdiv = document.getElementById("accordionExample-0").childNodes(); 
+	//console.log(thisdiv);
+	
+</script>
     </body>
 </html>
 
