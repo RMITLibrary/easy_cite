@@ -30,11 +30,15 @@ div {
 
 
 <script>
-const mylist = document.getElementsByClassName("accordion-item"); 
+const mylist = document.getElementsByClassName("accordion-item"); //get all accordion-item class divs
+	//loop through all the divs
 	for (let p = 0; p < mylist.length; p++){
 		console.log(mylist[p].id);
+		//get the children of each accordion-item classed div
 		const nodes = mylist[p].getElementsByClassName("child");
+		//loop through all the children
 		for (let i = 0; i < nodes.length; i++) { 
+			//change values for the children
 			var randomColor = Math.floor(Math.random()*16777215).toString(16); //just added a random colour to test that the loop is working
 			nodes[i].style.backgroundColor = "#" + randomColor; 
 			nodes[i].id = "#" + mylist[p].parentElement.id;
