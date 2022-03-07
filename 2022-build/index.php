@@ -28,7 +28,10 @@
 			font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
 			margin-left: 30px;
 		}
-	
+	.collapsed {
+		background-color: #f8f8fa !important;
+		
+	}
 	</style>
 
     </head>
@@ -323,14 +326,13 @@ $(function(){
 		var tabopen = myArray[1];  //first item of array
 		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show pills tab
 		var accordionopen = myArray[2];  //second item of array
-       	//$(accordionopen).collapse('show'); //show accordion
 		accordionopen && $('#' + accordionopen).collapse('show');
 		//TBD - need to develop script to close the other accordion items in this visible pills area only (not all accordions in the page)
 		console.log(tabopen);
 		console.log(accordionopen);
      }
 	else {
-		$("#subtype-0.collapse").collapse("show"); //show accordion
+		$("#subtype-0").collapse("show"); //show accordion
 	};
 	
 });
@@ -398,10 +400,16 @@ function myFunction(button, sethash){
 		}
 </script>
 <script>
-	//const list = document.getElementsByClassName("accordion-item").parentNode;	
-	//var thisdiv = document.getElementById("accordionExample-0").childNodes(); 
-	//console.log(thisdiv);
-	
+const mylist = document.getElementsByClassName("accordion-item"); 
+	for (let p = 0; p < mylist.length; p++){
+		console.log(mylist[p].id);
+		const nodes = mylist[p].getElementsByClassName("accordion-collapse");
+		for (let i = 0; i < nodes.length; i++) { 
+			//nodes[i].style.backgroundColor = "red"; 
+			nodes[i].data-bs-parent = "#" + mylist[p].parentElement.id;
+			console.log(nodes[i].id);
+		}
+	}
 </script>
     </body>
 </html>
