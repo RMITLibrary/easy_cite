@@ -406,8 +406,8 @@ const mylist = document.getElementsByClassName("accordion-item");
 		const nodes = mylist[p].getElementsByClassName("accordion-collapse");
 		for (let i = 0; i < nodes.length; i++) { 
 			//nodes[i].style.backgroundColor = "red"; 
-			nodes[i].data-bs-parent = "#" + mylist[p].parentElement.id;
-			console.log(nodes[i].id);
+			nodes[i].setAttribute("data-bs-parent", "#" + mylist[p].parentElement.id); 
+			console.log(nodes[i].getAttribute("data-bs-parent"));
 		}
 	}
 </script>
