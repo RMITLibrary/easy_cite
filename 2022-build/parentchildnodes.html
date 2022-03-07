@@ -41,9 +41,9 @@ const mylist = document.getElementsByClassName("accordion-item"); //get all acco
 			//change values for the children
 			var randomColor = Math.floor(Math.random()*16777215).toString(16); //just added a random colour to test that the loop is working
 			nodes[i].style.backgroundColor = "#" + randomColor; 
-			nodes[i].id = "#" + mylist[p].parentElement.id;
-			//nodes[i].data-bs-parent = "#" + mylist[p].parentElement.id; //this line not working - can't set new value for data-bs-parent
-			console.log(nodes[i].id);
+			//nodes[i].id = "#" + mylist[p].parentElement.id;
+			nodes[i].setAttribute("data-bs-parent", "#" + mylist[p].parentElement.id); //this line not working - can't set new value for data-bs-parent
+			console.log(nodes[i].getAttribute("data-bs-parent"));
 		}
 	}
 </script>
