@@ -307,38 +307,40 @@ if ($whichstyleguide == "styleguide-0"){
 // accordion width - can we set a minimum width for desktop view and not mobile view?
 // need to strip all comments out of $mylist after all replaces are done
 // need to close the first accordion for the pill if accessed via hash string
-// need to highlight the first accordion item because we removed all the highlights - remove "collapsed" from the first accordion button
+// need to highlight the first accordion button/item in each accordion because we removed all the highlights - remove "collapsed" from the first accordion button
 // DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
+// DONE!! solve the praent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
  
 echo($mylist);
 	
 ?>
-	
-	
+
 <!-- end page content-->
+		
 <script>
-//jQuery: get window.location.hash and use it to open the correct pills and accordion
+//jQuery: get URL location.hash and use it to open the correct pills and accordion
 $(function(){
-	//use this string after the URL to test -  #v-pills-2-tab#subtype-4
 	if (location.hash !== null && location.hash !== "") { //check for hash
 		var hash = location.hash; 
 		var myArray = hash.split("#"); //split hash into two parts & save in an array
-		var tabopen = myArray[1];  //first item of array
-		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show pills tab
+		var tabopen = myArray[1];  //first item of array - not including the first hash
+		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show correct pills tab
 		var accordionopen = myArray[2];  //second item of array
-		accordionopen && $('#' + accordionopen).collapse('show');
-		//TBD - need to develop script to close the other accordion items in this visible pills area only (not all accordions in the page)
+		accordionopen && $('#' + accordionopen).collapse('show'); //show correct accordion-collapse
+		//TBD - need to develop script to 'hide' the other accordion items 
+		// in this visible pills area only - not all accordions in the page
+		// depends on the grand-parent div ID
 		console.log(tabopen);
 		console.log(accordionopen);
      }
 	else {
-		$("#subtype-0").collapse("show"); //show accordion
+		$("#subtype-0").collapse("show"); // default show first accordion-collapse
 	};
-	
 });
-// button scripts to set URL hash to the correct visible pills and accordion
 </script>
 <script type="application/javascript">
+// script to find the URL hash string and split it 
+// to identify which pill and which accordion item need to open
 var tabopen;
 var accordopen;
 if (location.hash !== null && location.hash !== "") { //check for hash
@@ -348,13 +350,16 @@ if (location.hash !== null && location.hash !== "") { //check for hash
 		accordopen = myArray[2];  //first item of array
 		
 } else {
+	// else default to the first pill and accordion item
 	tabopen = "#v-pills-0-tab";
 	accordopen = "#subtype-0";
 }
 var globalpillshash = tabopen;
-	// create a global pills variable that will hold the value of the current pills even when the accordion item is clicked.
+	// create a global pills variable that will hold the value of the current pills 
+	// even when the accordion item is clicked.
 function myFunction(button, sethash){
-	// then add the global pills variable to the accordion variable if selected to enable saving the correct pills/accordion position in the URL string.
+	// then add the global pills variable to the accordion variable if selected 
+	// to enable saving the correct pills/accordion position in the URL string.
 	if (sethash.includes("v-pills")){
 	   	var pillshash = sethash;
 		globalpillshash = sethash;
@@ -368,48 +373,49 @@ function myFunction(button, sethash){
 	}
 }
 
-	// this function takes the info from the tab button to output a query string that PHP can pick up to load the correct markdown file
-		function myFunction2(button, thisquery){
-			//var tabquery = thisquery; //"styleguide-3";
-			//window.location.query = tabquery;
-			/*console.log(thisquery);
-			if (thisquery == "styleguide-0"){
-				console.log("RMIT Harvard");
-			} else if (thisquery == "styleguide-1"){
-				console.log("APA 7th Ed.");
-			} else if (thisquery == "styleguide-2"){
-				console.log("Chicago");
-			} else if (thisquery == "styleguide-3"){
-				console.log("Vancouver");
-			} else if (thisquery == "styleguide-4"){
-				console.log("AGLC4");
-			} else if (thisquery == "styleguide-5"){
-				console.log("IEEE");
-			}*/
-			if (thisquery.includes("styleguide")){
-			const params = new URLSearchParams(location.search);
-			params.set('styleguide', thisquery);
-			params.toString(); // => styleguide=styleguide-3
-			//console.log(params.toString());
-			window.history.pushState({}, '', `${location.pathname}?${params.toString()}`);
-			}
-			//refresh the page...
-			location.reload();
-			//window.scrollToTop(0,0); //need to scroll window to top of page but not working 
-			
-		}
-</script>
-<script>
+// this function takes the info from the tab button to output a query string 
+// that PHP can pick up to load the correct markdown file
+function myFunction2(button, thisquery){
+	if (thisquery.includes("styleguide")){
+		const params = new URLSearchParams(location.search);
+		params.set('styleguide', thisquery);
+		params.toString(); // => styleguide=styleguide-3
+		//console.log(params.toString());
+		window.history.pushState({}, '', `${location.pathname}?${params.toString()}`);
+	}
+	//refresh the page...
+	location.reload();
+	//window.scrollToTop(0,0); //need to scroll window to top of page but not working 	
+}
+
+// this function dynamically allocates the parent accordion div of the accordion-item 
+// to the children's (accordion-collapse) data-bs-parent value 
+// so that selecting one accordion will close the others in the group.
+	
+//find all the accordion-item divs
 const mylist = document.getElementsByClassName("accordion-item"); 
+	//loop through all the accordion-item divs
 	for (let p = 0; p < mylist.length; p++){
 		console.log(mylist[p].id);
+		//find all the children with the class name accordion-collapse
 		const nodes = mylist[p].getElementsByClassName("accordion-collapse");
+		//loop through the children
 		for (let i = 0; i < nodes.length; i++) { 
-			//nodes[i].style.backgroundColor = "red"; 
+			//set the children's value for data-bs-parent to the "grandparent" div ID name
 			nodes[i].setAttribute("data-bs-parent", "#" + mylist[p].parentElement.id); 
 			console.log(nodes[i].getAttribute("data-bs-parent"));
 		}
+
 	}
+// remove the collapsed class from the first accordion button in each accordion so it's blue
+const acclist = document.getElementsByClassName("accordion");
+	for (let q = 0; q < acclist.length; q++){
+		const acbuttons = acclist[q].getElementsByClassName("accordion-button");
+		acbuttons[0].classList.remove("collapsed");
+		console.log(acbuttons[0].className);
+	}
+
+
 </script>
     </body>
 </html>
