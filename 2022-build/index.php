@@ -302,14 +302,18 @@ if ($whichstyleguide == "styleguide-0"){
 	$mylist = preg_replace("/id=\"nav-0-tab\" class=\"nav-link\"/", 'id="nav-0-tab" class="nav-link active"', $mylist, 1); 
 }
 
-// ISSUES TO BE RESOLVED
+// ISSUES TO BE RESOLVED / Development to-do list
 // DONE!! focus the correct tab depending on the query string.
-// accordion width - can we set a minimum width for desktop view and not mobile view?
-// need to strip all comments out of $mylist after all replaces are done
-// need to close the first accordion for the pill if accessed via hash string
-// need to highlight the first accordion button/item in each accordion because we removed all the highlights - remove "collapsed" from the first accordion button
+// accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
+// need to strip all COMMENTS out of $mylist after all replaces are done
+// DONE!! need to close the first accordion for the pill if accessed via hash string
+// DONE!! need to highlight the first accordion button/item in each accordion because we removed all the highlights - remove "collapsed" from the first accordion button
 // DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
 // DONE!! solve the praent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
+// PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide?
+// FOOTER area with links to feedback form, learning lab, other...
+// Top of page INSTRUCTIONS - show/hide with cookies/session data
+// STYLE: CSS for Bootstrap - RMIT branding
  
 echo($mylist);
 	
@@ -396,25 +400,24 @@ function myFunction2(button, thisquery){
 const mylist = document.getElementsByClassName("accordion-item"); 
 	//loop through all the accordion-item divs
 	for (let p = 0; p < mylist.length; p++){
-		console.log(mylist[p].id);
+		//console.log(mylist[p].id);
 		//find all the children with the class name accordion-collapse
 		const nodes = mylist[p].getElementsByClassName("accordion-collapse");
 		//loop through the children
 		for (let i = 0; i < nodes.length; i++) { 
 			//set the children's value for data-bs-parent to the "grandparent" div ID name
 			nodes[i].setAttribute("data-bs-parent", "#" + mylist[p].parentElement.id); 
-			console.log(nodes[i].getAttribute("data-bs-parent"));
+			//console.log(nodes[i].getAttribute("data-bs-parent"));
 		}
 
 	}
-// remove the collapsed class from the first accordion button in each accordion so it's blue
+// remove the "collapsed" class from the first accordion button in each accordion so it's in its "open" state
 const acclist = document.getElementsByClassName("accordion");
 	for (let q = 0; q < acclist.length; q++){
 		const acbuttons = acclist[q].getElementsByClassName("accordion-button");
 		acbuttons[0].classList.remove("collapsed");
-		console.log(acbuttons[0].className);
+		//console.log(acbuttons[0].className);
 	}
-
 
 </script>
     </body>
