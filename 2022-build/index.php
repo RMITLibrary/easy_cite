@@ -1,35 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>EasyCite</title>
-        <!-- Favicon-->
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta name="description" content="" />
+	<meta name="author" content="" />
+<title>EasyCite</title>
+<!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="../2022-build/assets/favicon.ico" />
-<!-- Core theme CSS (includes Bootstrap)-->
+<!-- Core theme CSS, JS & JQUERY (includes Bootstrap)-->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
-
 <style>
 	body {margin:2rem;}
 	.myleftpills {
 		text-align: left;
 	}
-		h4{
-			font-size: 1.2rem;
-			font-weight: 700;
-		}
-		h5{
-			font-size: 1.2rem;
-			font-weight: 700;
-		}
-		blockquote{
-			font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
-			margin-left: 30px;
-		}
+	h4{
+		font-size: 1.2rem;
+		font-weight: 700;
+	}
+	h5{
+		font-size: 1.2rem;
+		font-weight: 700;
+	}
+	blockquote{
+		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
+		margin-left: 30px;
+	}
 	.accordion-button{
 		background-color: #e3e5e0 !important;
 	}
@@ -37,7 +36,7 @@
 		background-color: #f8f8fa !important;
 		
 	}
-	.printbutton {
+	.rmitbutton {
 		border: hidden;
 		padding: 10px 24px;
 		border-radius: 36px;
@@ -46,13 +45,13 @@
 		font-size: 0.9rem;
 		transition-duration: 0.4s;
 	}
-	.printbutton:hover{
+	.rmitbutton:hover{
 		background: #fac800;
 		color: #000054;	
 	}
-	.printbutton:focus {
-	background-color: #fac800 !important;
-	color: #000058 !important;
+	.rmitbutton:focus {
+		background-color: #fac800 !important;
+		color: #000058 !important;
  	}
 	.notabutton{
 		border: hidden;
@@ -65,43 +64,40 @@
 		color: #E61E2A;	
 	}
 	.notabutton:focus {
-	color: #E61E2A;
+		color: #E61E2A;
  	}
 
 </style>
-
-    </head>
-    <body>
-        <!-- Responsive navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <div class="container">
-                <a class="navbar-brand" href="#">EasyCite</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Link</a></li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
-                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">Action</a></li>
-                                <li><a class="dropdown-item" href="#">Another action</a></li>
-                                <li><hr class="dropdown-divider" /></li>
-                                <li><a class="dropdown-item" href="#">Something else here</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-		<p>&nbsp;</p>
+</head>
+<body>
+<!-- Responsive navbar-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<div class="container">
+		<a class="navbar-brand" href="#">EasyCite</a>
+  		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+				<li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
+ 				<li class="nav-item"><a class="nav-link" href="#">Link</a></li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
+					<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+						<li><a class="dropdown-item" href="#">Action</a></li>
+						<li><a class="dropdown-item" href="#">Another action</a></li>
+ 						<li><hr class="dropdown-divider" /></li>
+ 						<li><a class="dropdown-item" href="#">Something else here</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+<p>&nbsp;</p>
 <!-- Page content--> 
 <?php 
-
 // include the parsedown code
 require_once 'Parsedown.php';
 $parsedown = new Parsedown();
-
 // get the query string from the current URL as a text string - this part not yet working...
 $queryString = $_SERVER['QUERY_STRING'];
 $thisQuery = htmlentities($queryString);
@@ -125,26 +121,18 @@ if ($whichstyleguide == "styleguide-0"){
 }	else {
 	$thestyleguide = file_get_contents('rmitharvard.md');
 }
-//test the style guide
-//echo ' Current style guide: '.$whichstyleguide;
-		
-//still to work out...
-//refresh the page??? after the javascript and the above PHP
-//focus the correct tab after page refresh
-		
-		
 // get the markdown content - which populates the page with content from a particular style guide	
 //$thestyleguide = file_get_contents('rmitharvard.md');
 $mylist = $parsedown->text($thestyleguide);
 //need to develop an if/then script so that when the tabs are clicked, the different markdown files are loaded and parsedown to $mylist		
-
-		
+	
 //replace heading tags with bootstrap layout
+// NAV TABS
 $mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
 $mylist = preg_replace("/<h1>/", '<button id="nav-xx-tab" class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
 $mylist = preg_replace("/<\/h1>/", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</div></nav>', $mylist);
-		
+//PILLS
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<p>&nbsp;</p>
 	<div class="tab-content" id="nav-tabContent-xx">
 	<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex align-items-start"><div class="row">', $mylist);	
@@ -153,11 +141,13 @@ $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3">
 $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<button class="nav-link myleftpills" id="v-pills-print-tab" type="button" onclick="printGuide();">Print this style guide</button></div><p>&nbsp;</p></div>', $mylist);	
+// ACCORDIONS
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 col-12"><div id="printable-guide"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
 $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
 </svg></button></div>', $mylist);	
+// ACCORDION ITEMS
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item">', $mylist);
 $mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
@@ -174,7 +164,8 @@ $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div></div>', $mylist);
-		
+// END CONTENT
+// REPLACE FOR FIRST
 //replace property for the first tab, pill, accordion only - to show, true or active
 //$mylist = preg_replace("/nav-link/", 'nav-link active', $mylist, 1); //FIXED THIS so the correct tab is active, not the first one
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fade show active" id="nav', $mylist, 1);
@@ -184,7 +175,7 @@ $mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-c
 $mylist = preg_replace("/aria-selected=\"false\"/", 'aria-selected="true"', $mylist, 1);
 $mylist = preg_replace("/nav-link myleftpills/", 'nav-link myleftpills active', $mylist, 1);
 $mylist = preg_replace("/aria-expanded=\"false\"/", 'aria-expanded="true"', $mylist, 1);
-
+// COUNTERS
 //loop through bootstrap classes to allocate unique identifyers to each iteration of that class so that bootstrap tabs, pills and accordians will match and work
 //set unique id names for TABS
 $counter0 = 0;
@@ -345,28 +336,27 @@ if ($whichstyleguide == "styleguide-0"){
 }
 
 // ISSUES TO BE RESOLVED / Development to-do list
-
+// change the code from PHP to Javascript to show first accordion item in an accordion
 // accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
-// PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide?
+// DONE!! PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide
+// Format print window content and hide buttons 
 // FOOTER area with links to feedback form, learning lab, other...
 // Top of page INSTRUCTIONS - show/hide with cookies/session data
 // STYLE: CSS for Bootstrap - RMIT branding
-// need to strip all COMMENTS out of $mylist after all replaces are done
-		
+// need to strip all COMMENTS out of $mylist after all replaces are done	
 // DONE!! focus the correct tab depending on the query string.
 // DONE!! need to close the first accordion for the pill if accessed via hash string
 // DONE!! need to highlight the first accordion button/item in each accordion because we removed all the highlights - remove "collapsed" from the first accordion button
 // DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
 // DONE!! solve the praent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
 
- 
+//OUTPUT THE PARSED CONTENT TO HTML
 echo($mylist);
-	
 ?>
-
 <!-- end page content-->
 		
 <script>
+// URL STRING TO SAVE AND SHOW CORRECT CONTENT
 //jQuery: get URL location.hash and use it to open the correct pills and accordion
 $(function(){
 	if (location.hash !== null && location.hash !== "") { //check for hash
@@ -388,6 +378,7 @@ $(function(){
 });
 </script>
 <script type="application/javascript">
+// URL STRING TO SAVE AND SHOW CORRECT CONTENT
 // script to find the URL hash string and split it 
 // to identify which pill and which accordion item need to open
 var tabopen;
@@ -437,6 +428,7 @@ function myFunction2(button, thisquery){
 	//window.scrollToTop(0,0); //need to scroll window to top of page but not working 	
 }
 
+// ACCORDION FAMILIES
 // this function dynamically allocates the parent accordion div of the accordion-item 
 // to the children's (accordion-collapse) data-bs-parent value 
 // so that selecting one accordion will close the others in the group.
@@ -463,6 +455,7 @@ const acclist = document.getElementsByClassName("accordion");
 		acbuttons[0].classList.remove("collapsed");
 		//console.log(acbuttons[0].className);
 	}
+// PRINT SCRIPTS
 // Script to print the content of a subtype div
 function printDiv(elem) {
 	//get the grandparent subtype div
@@ -511,7 +504,7 @@ function printGuide(){
     a.print();
 }
 </script>
-    </body>
+</body>
 </html>
 
 

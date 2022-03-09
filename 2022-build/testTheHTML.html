@@ -1,39 +1,43 @@
 
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>EasyCite</title>
-        <!-- Favicon-->
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta name="description" content="" />
+	<meta name="author" content="" />
+<title>EasyCite</title>
+<!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="../2022-build/assets/favicon.ico" />
-<!-- Core theme CSS (includes Bootstrap)-->
+<!-- Core theme CSS, JS & JQUERY (includes Bootstrap)-->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
-
 <style>
 	body {margin:2rem;}
-	.myleftpills {text-align: left;}
-		h4{
-			font-size: 1.2rem;
-			font-weight: 700;
-		}
-		h5{
-			font-size: 0.9rem;
-			font-weight: 700;
-		}
-		blockquote{
-			font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
-			margin-left: 30px;
-		}
+	.myleftpills {
+		text-align: left;
+	}
+	h4{
+		font-size: 1.2rem;
+		font-weight: 700;
+	}
+	h5{
+		font-size: 1.2rem;
+		font-weight: 700;
+	}
+	blockquote{
+		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
+		margin-left: 30px;
+	}
+	.accordion-button{
+		background-color: #e3e5e0 !important;
+	}
 	.collapsed {
 		background-color: #f8f8fa !important;
 		
 	}
-		.printbutton {
+	.rmitbutton {
 		border: hidden;
 		padding: 10px 24px;
 		border-radius: 36px;
@@ -42,13 +46,13 @@
 		font-size: 0.9rem;
 		transition-duration: 0.4s;
 	}
-	.printbutton:hover{
+	.rmitbutton:hover{
 		background: #fac800;
 		color: #000054;	
 	}
-	.printbutton:focus {
-	background-color: #fac800;
-	color: #000058;
+	.rmitbutton:focus {
+		background-color: #fac800 !important;
+		color: #000058 !important;
  	}
 	.notabutton{
 		border: hidden;
@@ -61,38 +65,35 @@
 		color: #E61E2A;	
 	}
 	.notabutton:focus {
-	color: #E61E2A;
+		color: #E61E2A;
  	}
-	p.ralbutton{
-		text-align: right;
-	}
-	</style>
 
-    </head>
-    <body>
-        <!-- Responsive navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <div class="container">
-                <a class="navbar-brand" href="#">EasyCite</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Link</a></li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
-                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">Action</a></li>
-                                <li><a class="dropdown-item" href="#">Another action</a></li>
-                                <li><hr class="dropdown-divider" /></li>
-                                <li><a class="dropdown-item" href="#">Something else here</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-		<p>&nbsp;</p>
+</style>
+</head>
+<body>
+<!-- Responsive navbar-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<div class="container">
+		<a class="navbar-brand" href="#">EasyCite</a>
+  		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+				<li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
+ 				<li class="nav-item"><a class="nav-link" href="#">Link</a></li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
+					<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+						<li><a class="dropdown-item" href="#">Action</a></li>
+						<li><a class="dropdown-item" href="#">Another action</a></li>
+ 						<li><hr class="dropdown-divider" /></li>
+ 						<li><a class="dropdown-item" href="#">Something else here</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+<p>&nbsp;</p>
 <!-- Page content--> 
 <!-- RMIT Harvard Style Guide -->
 <!-- RMIT Library, Digital Learning -->
@@ -128,47 +129,37 @@
 <button class="nav-link myleftpills" id="v-pills-7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-7" type="button" role="tab" aria-controls="v-pills-7" aria-selected="false" onclick="myFunction(this, '#v-pills-7-tab')">Audio visual material</button>
 <button class="nav-link myleftpills" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false" onclick="myFunction(this, '#v-pills-8-tab')">Images and figures</button>
 <button class="nav-link myleftpills" id="v-pills-9-tab" data-bs-toggle="pill" data-bs-target="#v-pills-9" type="button" role="tab" aria-controls="v-pills-9" aria-selected="false" onclick="myFunction(this, '#v-pills-9-tab')">Other sources</button>
-<button class="nav-link myleftpills" id="v-pills-print-tab" type="button" onclick="printGuide();">Print this style guide</button>
-</div><p>&nbsp;</p></div>
-
+<button class="nav-link myleftpills" id="v-pills-print-tab" type="button" onclick="printGuide();">Print this style guide</button></div><p>&nbsp;</p></div>
 <!-- start the content area which will contain all the type/subtype panes -->
-
-<div class="col-sm-9 col-12">
-	<div id="printable-guide">
-		<div class="tab-content" id="v-pills-tabContent-0">
-	
+<div class="col-sm-9 col-12"><div id="printable-guide"><div class="tab-content" id="v-pills-tabContent-0">
 <!-- Using Harvard - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
-<div class="tab-pane fade show active" id="v-pills-0" role="tabpanel" aria-labelledby="v-pills-0-tab">
-	<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print: Using Harvard &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+<div class="tab-pane fade show active" id="v-pills-0" role="tabpanel" aria-labelledby="v-pills-0-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
-		</svg></button></div>
+</svg></button></div>
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 <div class="accordion" id="accordionExample-0">
 <!-- start SUB_TYPE-ITEM - accordion item -->
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 <div class="accordion-item">
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-<h2 class="accordion-header" id="heading-0"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-0" aria-expanded="true" aria-controls="collapse-0" onclick="myFunction(this, '#subtype-0')">Using Harvard - Introduction </button>
+<h2 class="accordion-header" id="heading-0"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-0" aria-expanded="true" aria-controls="collapse-0" onclick="myFunction(this, '#subtype-0')">Using Harvard - Introduction</button>
     </h2>
-
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item --><div class="accordion-collapse collapse show" id="subtype-0" aria-labelledby="heading-0" data-bs-parent="#accordionExample-0">
       <div class="accordion-body">
-
 <!-- the title for each accordion item content area must be heading 4 (####) -->
 <h4>Using Harvard - Introduction</h4>
 <p><strong>This is a guide only</strong>. Please confirm the referencing requirements for your course with your lecturer.
-RMIT Harvard is an author-date referencing style. It is based on the Referencing and attribution section of the Australian Government Style Manual (AGSM) [<a href="https://www.stylemanual.gov.au/]released">https://www.stylemanual.gov.au/]released</a> in 2021.</p>
+RMIT Harvard is an author-date referencing style. It is based on the Referencing and attribution section of the <a href="https://www.stylemanual.gov.au/">Australian Government Style Manual (AGSM)</a> released in 2021.</p>
 <p>RMIT Harvard style requires in-text references and a reference list. <strong>In-text references</strong> appear within the body of the document. They include the author’s family name or name of the organisation responsible for the information source and the year of publication, with page numbers required for quotes if available. <strong>A reference list</strong> provides the full bibliographic details of all in-text references at the end of the assignment.
 It is recommended that you read the general rules for each section before looking at the specific information about the source you need to reference.</p>
 <p><strong>Note:</strong> Although the AGSM states that title of online sources should be hyperlinked for electronic formats, RMIT Harvard style does not do this because hyperlinks are not compatible with the EndNote program and other referencing software. In addition, the links would not be available when the work is printed.</p>
-<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
-	</svg></button></div>
-</div></div>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-1" aria-expanded="false" aria-controls="collapse-1" onclick="myFunction(this, '#subtype-1')">General rules for in-text references</button>
@@ -188,8 +179,10 @@ It is recommended that you read the general rules for each section before lookin
 <p>If the author of a reference is unknown, list the reference based on the title of the work.</p>
 <p>If the publication date is unknown, use n.d.</p>
 <p>If the publication date is unknown but can be reliably estimated or inferred from the text, then place c. (meaning 'circa' or about) before the year.</p>
-		 
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-2"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-2" aria-expanded="false" aria-controls="collapse-2" onclick="myFunction(this, '#subtype-2')">Secondary citations</button>
@@ -207,7 +200,10 @@ It is recommended that you read the general rules for each section before lookin
 </blockquote>
 <p>In the examples, the ideas/information belong to Vanna, but you paraphrased them from your reading of Martin and Rodriguez’s work.
 In the reference list, include the source you read. For this example, you would only need to put Martin and Rodríguez in the reference list.</p>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-3"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-3" aria-expanded="false" aria-controls="collapse-3" onclick="myFunction(this, '#subtype-3')">Multiple citations in same parentheses</button>
@@ -226,7 +222,10 @@ In the reference list, include the source you read. For this example, you would 
 <blockquote>
 <p>Ayoob (2021a, 2021b) states that ...</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-4"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-4" aria-expanded="false" aria-controls="collapse-4" onclick="myFunction(this, '#subtype-4')">Works by different authors with same family name</button>
@@ -238,7 +237,10 @@ In the reference list, include the source you read. For this example, you would 
 <blockquote>
 <p>It is argued that ... (Peterson M 2019), but others claim that ... (Peterson JR et al. 2021).</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-5"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-5" aria-expanded="false" aria-controls="collapse-5" onclick="myFunction(this, '#subtype-5')">Changing the wording of a quote</button>
@@ -261,7 +263,10 @@ In the reference list, include the source you read. For this example, you would 
 <p>If the source contains grammatical or spelling errors, you must copy the quote exactly as it appears in the original source (including the errors). Then put sic in parentheses <strong>(sic)</strong> immediately after the error.</p>
 </li>
 </ul>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-6"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-6" aria-expanded="false" aria-controls="collapse-6" onclick="myFunction(this, '#subtype-6')">Block quotations</button>
@@ -274,7 +279,10 @@ In the reference list, include the source you read. For this example, you would 
 <blockquote>
 <p>Paraphrasing and synthesising information shows deeper understanding of your reading and research than simply using direct quotes. It enables you to demonstrate your insight into the concepts and thus obtain higher marks in your assignment.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-7"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-7" aria-expanded="false" aria-controls="collapse-7" onclick="myFunction(this, '#subtype-7')">General rules for the reference list</button>
@@ -355,7 +363,10 @@ In the reference list, include the source you read. For this example, you would 
 <em>Gabrielle Chanel. Manifeste de Mode (Gabrielle Chanel. Fashion Manifesto)</em>.</p>
 </li>
 </ul>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-8"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-8" aria-expanded="false" aria-controls="collapse-8" onclick="myFunction(this, '#subtype-8')">Example reference list</button>
@@ -382,12 +393,18 @@ In the reference list, include the source you read. For this example, you would 
 <p>Thunberg G (28 November 2021b) 'We can no longer let the people in power decide...' [Instagram post], Greta Thunberg, accessed 1 November 2021. https<nolink>://www.instagram.com/tv/CUXUfZIsHBm/     </p>
 <p>Wright S and Duke J (2021) 'RBA issues warning as property prices surge', <em>The Age</em>, 9 October, 2, accessed 26 November 2021. Australia &amp; New Zealand Newsstream database.  </p>
 <p>WHO (World Health Organization) (2021) <em>WHO accelerates work on nutrition targets with new commitments</em>, WHO website, accessed 9 December 2021. https<nolink>://www.who.int/news/item/07-12-2021-who-accelerates-work-on-nutrition-targets-with-new-commitments</p>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 </div>
 </div>
 <!-- Books - links to the second type menu item -->
-<div class="tab-pane fade" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
+<div class="tab-pane fade" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div>
 <div class="accordion" id="accordionExample-1">
 <div class="accordion-item">
 <!-- the SUBTYPE headings must use heading 3 (###) -->
@@ -400,7 +417,10 @@ In the reference list, include the source you read. For this example, you would 
 <p>Italicise the title of the book.</p>
 <p>If a book has an edition number and it is not the first, add the number and abbreviation ‘edn’ after the title.</p>
 <p>Include the name of the publisher, followed by the Digital Object Identifier (DOI) and a full stop. If there is no DOI, include the place of publication (city name) instead.</p>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-10"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-10" aria-expanded="false" aria-controls="collapse-10" onclick="myFunction(this, '#subtype-10')">Book with single author</button>
@@ -430,7 +450,10 @@ In the reference list, include the source you read. For this example, you would 
 <blockquote>
 <p>Deegan C (2019) <em>An introduction to accounting: accountability in organisations and society</em>, Cengage Learning Australia, Southbank.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-11"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-11" aria-expanded="false" aria-controls="collapse-11" onclick="myFunction(this, '#subtype-11')">Book with an edition number</button>
@@ -448,7 +471,10 @@ In the reference list, include the source you read. For this example, you would 
 <blockquote>
 <p>Day T (2018) <em>Success in academic writing</em>, 2nd edn, Palgrave, Basingstoke.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-12"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-12" aria-expanded="false" aria-controls="collapse-12" onclick="myFunction(this, '#subtype-12')">Book whose author is an organisation</button>
@@ -488,7 +514,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>International Civil Aviation Organization (2018) Safety management manual, 4th edn, International Civil Aviation Organization, Montréal</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-13"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-13" aria-expanded="false" aria-controls="collapse-13" onclick="myFunction(this, '#subtype-13')">Book with no known author</button>
@@ -522,7 +551,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p><em>A Warning</em> (2019) Little Brown, London.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-14"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-14" aria-expanded="false" aria-controls="collapse-14" onclick="myFunction(this, '#subtype-14')">Book with multiple authors</button>
@@ -567,7 +599,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Mewburn I, Firth K and Lehmann S (2018) <em>How to fix your academic writing trouble: a practical guide</em>, Open University Press, Maidenhead.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-15"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-15" aria-expanded="false" aria-controls="collapse-15" onclick="myFunction(this, '#subtype-15')">Multiple books by the same author(s)</button>
@@ -593,7 +628,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Lynch, MP (2019) <em>Know-it-all society: truth and arrogance in political culture</em>, Liveright Publishing Corporation, New York.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-16"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-16" aria-expanded="false" aria-controls="collapse-16" onclick="myFunction(this, '#subtype-16')">Book chapter / edited book</button>
@@ -635,7 +673,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Meiner, S and Yeager, JJ (eds) (2019) <em>Gerontologic nursing</em>, 6th edn, Elsevier, St. Louis.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-17"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-17" aria-expanded="false" aria-controls="collapse-17" onclick="myFunction(this, '#subtype-17')">E-book</button>
@@ -675,7 +716,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Pinheiro MM and Costa AJ (2021) <em>Accounting ethics education: teaching virtues and values</em>, Taylor &amp; Francis Group, doi:10.4324/9780429321597.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-18"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-18" aria-expanded="false" aria-controls="collapse-18" onclick="myFunction(this, '#subtype-18')">Encyclopedia or dictionary</button>
@@ -715,7 +759,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Neal M (2019) ‘Damascus Securities Exchange’, <em>A dictionary of business and management in the Middle East and North Africa</em>, Oxford University Press, doi:10.1093/acref/9780191843266.001.0001.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-19"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-19" aria-expanded="false" aria-controls="collapse-19" onclick="myFunction(this, '#subtype-19')">Brochure, pamphlet or exhibition catalogue</button>
@@ -778,12 +825,18 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>NGV International (2021) <em>Gabrielle Chanel. Fashion Manifesto</em> [printed exhibition catalogue], 5 December 2020 – 25 April 2021 National Gallery of Victoria and Thames &amp; Hudson, Melbourne.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 </div>
 </div>
 <!-- Journal articles - links to the third type menu item -->
-<div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab">
+<div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div>
 <div class="accordion" id="accordionExample-2">
 <div class="accordion-item">
 <!-- the SUBTYPE headings must use heading 3 (###) -->
@@ -831,7 +884,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <p>If available, include the digital object identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop.</p>
 </li>
 </ul>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-21"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-21" aria-expanded="false" aria-controls="collapse-21" onclick="myFunction(this, '#subtype-21')">Journal article with single author</button>
@@ -857,7 +913,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Papadopoulou M (2020) 'Supporting the development of early years students’ professional identities through an action research programme', <em>Educational Action Research</em>, 28(4):686-699, doi:10.1080/09650792.2019.1652196.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-22"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-22" aria-expanded="false" aria-controls="collapse-22" onclick="myFunction(this, '#subtype-22')">Journal article with two authors</button>
@@ -885,7 +944,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Fiorineschi L and Rotini F (2021) 'Novelty metrics in engineering design', <em>Journal of Engineering Design</em>, 32(11):590-620, doi:10.1080/09544828.2021.1928024.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-23"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-23" aria-expanded="false" aria-controls="collapse-23" onclick="myFunction(this, '#subtype-23')">Journal article with three or more authors</button>
@@ -922,7 +984,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Liang Y, Xu Q and Jin L (2021) 'The effect of smart and connected products on consumer brand choice concentration', <em>Journal of Business Research</em>, 135:163-172, doi:10.1016/j.jbusres.2021.06.039.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-24"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-24" aria-expanded="false" aria-controls="collapse-24" onclick="myFunction(this, '#subtype-24')">Journal article with no authors</button>
@@ -957,7 +1022,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>'Giant cell arteritis: one size does not fit all' (2021) <em>The Lancet Rheumatology</em>, 3(12):E819, doi:10.1016/S2665-9913(21)00364-7.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-25"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-25" aria-expanded="false" aria-controls="collapse-25" onclick="myFunction(this, '#subtype-25')">E-journal article</button>
@@ -1006,12 +1074,18 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Wilson C, Marks Woolfson L and Durkin K (2020) ‘School environment and mastery experience as predictors of teachers' self-efficacy beliefs towards inclusive teaching’, <em>International Journal of Inclusive Education</em>, 24(2):218-234, Taylor &amp; Francis Online database.  </p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 </div>
 </div>
 <!-- Newspapers - links to the fourth type menu item -->
-<div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab">
+<div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div>
 <div class="accordion" id="accordionExample-3">
 <div class="accordion-item">
 <!-- the SUBTYPE headings must use heading 3 (###) -->
@@ -1025,7 +1099,7 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Citi analysts predict a link between investors’ expectations to meet climate change targets and bank chief executive renumeration (Yeates 2021).</p>
 </blockquote>
-<p><strong>Direct quote**</strong></p>
+<p><strong>Direct quote</strong></p>
 <blockquote>
 <p>‘The pay of bank chief executives could be linked to climate change targets in the future’ (Yeates 2021:24).</p>
 </blockquote>
@@ -1042,7 +1116,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Wright S and Duke J (9 October 2021) 'RBA issues warning as property prices surge', <em>The Age</em>.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-27"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-27" aria-expanded="false" aria-controls="collapse-27" onclick="myFunction(this, '#subtype-27')">Print newspaper articles with no author</button>
@@ -1065,7 +1142,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <p><em>Newspaper Name</em> (Day Month Year) ‘Title of article: subtitle of article’.</p>
 <p><strong>Example</strong></p>
 <p><em>Financial Review</em> (7 August 2021) ‘Small business response to COVID-19’.</p>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-28"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-28" aria-expanded="false" aria-controls="collapse-28" onclick="myFunction(this, '#subtype-28')">Newspaper article from a web page (HTML format)</button>
@@ -1102,7 +1182,10 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p>Proust M and Gailberger J (28 November 2021) 'Experts call for booster shots to be given earlier as Omicron confirmed in Australia', <em>Herald Sun</em>, accessed 29 November 2021. https<nolink>://www.heraldsun.com.au/coronavirus/experts-call-for-booster-shots-to-be-given-earlier-as-omicron-confirmed-in-australia/news-story/23b3c3a3baa4c0bed542c892c6a6a84a</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-29"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-29" aria-expanded="false" aria-controls="collapse-29" onclick="myFunction(this, '#subtype-29')">Newspaper article from a web page (HTML format) with no author</button>
@@ -1134,12 +1217,18 @@ If you have used the abbreviated (shortened name) form of the organisation’s n
 <blockquote>
 <p><em>The Age</em> (24 January 2022) 'Economists tip August interest rate hike as the cost of living rises’, accessed 24 January 2022. https<nolink>://www.theage.com.au/politics/federal/economists-tip-august-interest-rate-hike-as-the-cost-of-living-rises-20220124-p59qoc.html</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 </div>
 </div>
 <!-- Social media - links to the fifth type menu item -->
-<div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab">
+<div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div>
 <div class="accordion" id="accordionExample-4">
 <div class="accordion-item">
 <!-- the SUBTYPE headings must use heading 3 (###) -->
@@ -1181,7 +1270,10 @@ For blog post, enclose the publication day, month and year in brackets after the
 <blockquote>
 <p>Welcome to Country (6 August 2021), 'Bush Food of Australia aka Bush Tucker', <em>Welcome to Country</em>, accessed 2 November 2021. https<nolink>://www.welcometocountry.com/blog/an-introduction-to-bush-foods/</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-31"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-31" aria-expanded="false" aria-controls="collapse-31" onclick="myFunction(this, '#subtype-31')">Social media post</button>
@@ -1224,12 +1316,18 @@ For blog post, enclose the publication day, month and year in brackets after the
 <blockquote>
 <p>Thunberg G (14 November 2021c) ‘The #COP26 is over. Here’s a brief summary: Blah, blah, ...' [Facebook post], Greta Thunberg, accessed 25 November 2021. https<nolink>://www.facebook.com/gretathunbergsweden</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 </div>
 </div>
 <!-- Websites and webpage documents - links to the fifth type menu item -->
-<div class="tab-pane fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab">
+<div class="tab-pane fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div>
 <div class="accordion" id="accordionExample-5">
 <div class="accordion-item">
 <!-- the SUBTYPE headings must use heading 3 (###) -->
@@ -1289,7 +1387,10 @@ For blog post, enclose the publication day, month and year in brackets after the
 <p>For downloadable webpage documents (e.g. PDFs), do not provide a URL that directly links to the document. Instead, provide a URL that links to the landing page where the document is located. If there is no landing page, provide a URL that directly links to the document.</p>
 </li>
 </ul>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-33"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-33" aria-expanded="false" aria-controls="collapse-33" onclick="myFunction(this, '#subtype-33')">Website / webpage</button>
@@ -1326,7 +1427,10 @@ For blog post, enclose the publication day, month and year in brackets after the
 <blockquote>
 <p>WHO (World Health Organization) (2021) <em>WHO accelerates work on nutrition targets with new commitments</em>, WHO website, accessed 9 December 2021. https<nolink>://www.who.int/news/item/07-12-2021-who-accelerates-work-on-nutrition-targets-with-new-commitments</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-34"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-34" aria-expanded="false" aria-controls="collapse-34" onclick="myFunction(this, '#subtype-34')">Webpage document (PDF)</button>
@@ -1355,12 +1459,18 @@ For blog post, enclose the publication day, month and year in brackets after the
 <blockquote>
 <p>Department of Education and Training, Victoria (2020) <em>High impact teaching strategies</em>, Department of Education and Training website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/ school/teachers/teachingresources/practice/improve/Pages/hits.aspx</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 </div>
 </div>
 <!-- Reports, data sets and standards - links to the sixth type menu item -->
-<div class="tab-pane fade" id="v-pills-6" role="tabpanel" aria-labelledby="v-pills-6-tab">
+<div class="tab-pane fade" id="v-pills-6" role="tabpanel" aria-labelledby="v-pills-6-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div>
 <div class="accordion" id="accordionExample-6">
 <div class="accordion-item">
 <!-- the SUBTYPE headings must use heading 3 (###) -->
@@ -1384,7 +1494,10 @@ For blog post, enclose the publication day, month and year in brackets after the
 <p>Commonly accepted short forms of organisations’ names are used for references in parentheses to save space. The full name is provided in the reference list</p>
 </li>
 </ul>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-36"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-36" aria-expanded="false" aria-controls="collapse-36" onclick="myFunction(this, '#subtype-36')">Government or organisation report</button>
@@ -1429,7 +1542,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>AASW (Australian Association of Social Workers) (2021) <em>Annual Report 2020-2021</em>, AASW, accessed 13 December 2021. h\ttps://www.aasw.asn.au/publications/reports</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-37"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-37" aria-expanded="false" aria-controls="collapse-37" onclick="myFunction(this, '#subtype-37')">Company, industry or market reports</button>
@@ -1487,7 +1603,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>Fortescue Metals Group Ltd (2021) <em>Annual report FY21</em>, FMGL, accessed 13 December 2021. https<nolink>://www.fmgl.com.au/investors/asx-announcements</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-38"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-38" aria-expanded="false" aria-controls="collapse-38" onclick="myFunction(this, '#subtype-38')">Australian Bureau of Statistics report</button>
@@ -1519,7 +1638,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>ABS (Australian Bureau of Statistics) (2021) Life tables 2018-2020, catalogue number 3302.0.55.001, ABS, Canberra, accessed 3 December 2021. https<nolink>://www-abs-gov-au.ezproxy.lib.rmit.edu.au/ statistics/people/population/life-tables/2018-2020#data-download  </p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-39"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-39" aria-expanded="false" aria-controls="collapse-39" onclick="myFunction(this, '#subtype-39')">Data set</button>
@@ -1551,7 +1673,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>RBA (Reserve Bank of Australia) (n.d.) <em>Consumer price inflation: December 2015 – December 2020</em> [data set], Statistical tables, accessed 10 December 2021. https<nolink>://www.rba.gov.au/statistics/tables/</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-40"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-40" aria-expanded="false" aria-controls="collapse-40" onclick="myFunction(this, '#subtype-40')">Standard</button>
@@ -1587,12 +1712,18 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>Standards Australia (2010) <strong>Residential timber-framed construction - non-cyclonic areas</strong>, AS 1684.2-2010, accessed 9 December 2021, SAI Global database.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 </div>
 </div>
 <!-- Audio visual materials - links to the seventh type menu item -->
-<div class="tab-pane fade" id="v-pills-7" role="tabpanel" aria-labelledby="v-pills-7-tab">
+<div class="tab-pane fade" id="v-pills-7" role="tabpanel" aria-labelledby="v-pills-7-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div>
 <div class="accordion" id="accordionExample-7">
 <div class="accordion-item">
 <!-- the SUBTYPE headings must use heading 3 (###) -->
@@ -1652,7 +1783,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>Reynolds M (director) (2017) <em>My name is Gulpilil</em> [motion picture], Screen Australia, SAFC &amp; ABC, Australia.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-42"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-42" aria-expanded="false" aria-controls="collapse-42" onclick="myFunction(this, '#subtype-42')">Podcast</button>
@@ -1691,7 +1825,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>Hunter A and Bessell S (hosts) and Policy Forum.net (producer) (27 November 2020) ‘The wellbeing economy – a glimpse of the good life’ [podcast], <em>The wellbeing economy podcast series</em>, IMMP Crawford, accessed 1 December 2021. https<nolink>://immp.crawford.anu.edu.au/content/wellbeing-economy-podcast-series</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-43"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-43" aria-expanded="false" aria-controls="collapse-43" onclick="myFunction(this, '#subtype-43')">YouTube video and other online streaming videos</button>
@@ -1735,7 +1872,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>Derham L, Groner M and Kerridge G (n.d.) ‘Interview questions’ [video], <em>AASW (Australian Association of Social Workers)</em>, AASW website, accessed 30 November 2021. <a href="https://www.aasw.asn.au/careers-study/new-graduate-resources/finding-your-job-and-thriving-in-it">https://www.aasw.asn.au/careers-study/new-graduate-resources/finding-your-job-and-thriving-in-it</a></p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-44"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-44" aria-expanded="false" aria-controls="collapse-44" onclick="myFunction(this, '#subtype-44')">Radio</button>
@@ -1765,7 +1905,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>Smail S (presenter) (9 December 2021) ‘Australian working mums missing out on big earning potential and super’ [radio program], <em>The world today</em>, ABC, Melbourne.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-45"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-45" aria-expanded="false" aria-controls="collapse-45" onclick="myFunction(this, '#subtype-45')">Musical composition and sound recording</button>
@@ -1811,12 +1954,18 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>The Beatles (1967) <em>Sgt. Pepper's Lonely Hearts Club Band (remastered)</em> [Album], Apple, accessed 1 December 2021. https<nolink>://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 </div>
 </div>
 <!-- Images and figures - links to the eighth type menu item -->
-<div class="tab-pane fade" id="v-pills-8" role="tabpanel" aria-labelledby="v-pills-8-tab">
+<div class="tab-pane fade" id="v-pills-8" role="tabpanel" aria-labelledby="v-pills-8-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div>
 <div class="accordion" id="accordionExample-8">
 <div class="accordion-item">
 <!-- the SUBTYPE headings must use heading 3 (###) -->
@@ -1844,7 +1993,10 @@ As details will vary for government or organisation reports, try to extract as m
 <p>Citations are also influenced by where you sourced the creative work. Where possible, cite the original rather than copies from a reproduction.</p>
 <p>How you capture and include the artwork or image (e.g. screen shot, photograph, copy-and-paste) does not influence the way in which it is referenced. Cite the work based on where you sourced the work.</p>
 <p>Note: Your lecturer may have specific requirements for referencing artworks. Any directions given by your lecturer must be followed, even if they differ from this guide.</p>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-47"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-47" aria-expanded="false" aria-controls="collapse-47" onclick="myFunction(this, '#subtype-47')">Captions</button>
@@ -1893,7 +2045,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>Figure 6: Untitled screenshot of Zelphr homepage</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-48"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-48" aria-expanded="false" aria-controls="collapse-48" onclick="myFunction(this, '#subtype-48')">Artworks</button>
@@ -1936,7 +2091,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>Pollock J (1952) <em>Blue poles</em> [Oil, enamel, aluminium paint, and glass on canvas], National Gallery of Australia, Canberra.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-49"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-49" aria-expanded="false" aria-controls="collapse-49" onclick="myFunction(this, '#subtype-49')">Maps</button>
@@ -1995,7 +2153,10 @@ As details will vary for government or organisation reports, try to extract as m
 <blockquote>
 <p>VicPlan (2020) <em>Plenty Road Bundoora 3083</em>, web map, Victoria State Government, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-50"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-50" aria-expanded="false" aria-controls="collapse-50" onclick="myFunction(this, '#subtype-50')">Tables and diagrams</button>
@@ -2070,12 +2231,18 @@ Source: Fisher, Holland and West 2021:61</p>
 <blockquote>
 <p>Fisher C, Holland C and West T (18 March 2021) ‘Developments in the Buy Now, Pay Later Market’ <em>Bulletin</em>, RBA, accessed 13 December 2021. https<nolink>://www.rba.gov.au/publications/bulletin/2021/mar/developments-in-the-buy-now-pay-later-market.html</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 </div>
 </div>
 <!-- Other sources - links to the ninth type menu item -->
-<div class="tab-pane fade" id="v-pills-9" role="tabpanel" aria-labelledby="v-pills-9-tab">
+<div class="tab-pane fade" id="v-pills-9" role="tabpanel" aria-labelledby="v-pills-9-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div>
 <div class="accordion" id="accordionExample-9">
 <div class="accordion-item">
 <!-- the SUBTYPE headings must use heading 3 (###) -->
@@ -2085,7 +2252,10 @@ Source: Fisher, Holland and West 2021:61</p>
       <div class="accordion-body">
 <h4>Case study</h4>
 <p>Case studies are not a publication or reference type. They are a type of writing found in various sources such as books, journal articles, websites, etc. Reference the case study according to the rules for the source in which it is found.</p>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-52"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-52" aria-expanded="false" aria-controls="collapse-52" onclick="myFunction(this, '#subtype-52')">Conference paper / presentation</button>
@@ -2127,7 +2297,10 @@ Source: Fisher, Holland and West 2021:61</p>
 <blockquote>
 <p>Garner R and Whitbread R (19 October 2021) ‘Implementing a Safety Case Regulatory Regime for Spaceflight Activities’ [unpublished conference presentation], <em>11th IAASS conference: managing risk in space</em>, IAASS, Rotterdam.      </p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-53"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-53" aria-expanded="false" aria-controls="collapse-53" onclick="myFunction(this, '#subtype-53')">Lecture notes or course material</button>
@@ -2162,7 +2335,10 @@ Source: Fisher, Holland and West 2021:61</p>
 <blockquote>
 <p>Tran, L (2020) ‘Managing diverse workforces’ [PowerPoint slides, MANG4321], RMIT University, Melbourne.      </p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-54"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-54" aria-expanded="false" aria-controls="collapse-54" onclick="myFunction(this, '#subtype-54')">Legal material</button>
@@ -2223,7 +2399,10 @@ Source: Fisher, Holland and West 2021:61</p>
 <blockquote>
 <p>University of New South Wales v Moorhouse and Angus &amp; Robertson (Publishers) Pty Ltd (1975) 133 CLR 1.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-55"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-55" aria-expanded="false" aria-controls="collapse-55" onclick="myFunction(this, '#subtype-55')">Media release</button>
@@ -2256,7 +2435,10 @@ Source: Fisher, Holland and West 2021:61</p>
 <blockquote>
 <p>Office of the Premier of Victoria (8 December 2021) <em>Boosting support for homeless youth</em> [media release], Office of the Premier of Victoria, accessed 22 January, 2022. https<nolink>://www.premier.vic.gov.au/boosting-support-homeless-youth   </p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-56"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-56" aria-expanded="false" aria-controls="collapse-56" onclick="myFunction(this, '#subtype-56')">Student’s own work (previously submitted)</button>
@@ -2305,7 +2487,10 @@ Source: Fisher, Holland and West 2021:61</p>
 <blockquote>
 <p>Smith J (2021) ‘An analysis of personality theory’ [Unpublished paper for HRHR1001], RMIT University, Melbourne.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-57"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-57" aria-expanded="false" aria-controls="collapse-57" onclick="myFunction(this, '#subtype-57')">Thesis</button>
@@ -2350,7 +2535,10 @@ Source: Fisher, Holland and West 2021:61</p>
 <blockquote>
 <p>Browne, P 2018, 'Digital tourism' [PhD thesis], Charlesworth University, Templeton.</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-58"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-58" aria-expanded="false" aria-controls="collapse-58" onclick="myFunction(this, '#subtype-58')">Interview</button>
@@ -2365,7 +2553,10 @@ Source: Fisher, Holland and West 2021:61</p>
 <blockquote>
 <p>Nabben K (16 June 2021) ‘<em>The Business: cryptocurrency special</em>’ [streaming video], <em>ABC News (Australian Broadcasting Corporation)</em>, ABC iview, accessed 30 November 2021, https<nolink>://iview.abc.net.au/video/NS2157H001S00</p>
 </blockquote>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 <div class="accordion-item">
 <h2 class="accordion-header" id="heading-59"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-59" aria-expanded="false" aria-controls="collapse-59" onclick="myFunction(this, '#subtype-59')">Personal communication</button>
@@ -2390,21 +2581,20 @@ Source: Fisher, Holland and West 2021:61</p>
 </blockquote>
 <h5>Reference list</h5>
 <p>Since personal communication is not published, it is not included in reference lists.</p>
-</div></div>
+<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button></div></div></div>
 </div>
 </div>
 </div>
 <!-- you may add more type/sub-type sections here if needed -->
-</div></div>
+</div></div></div>
 <!-- DO NOT ADD ANY CONTENT AFTER THIS POINT -->
-</div></div>
-</div>
-</div><!-- close the printable-guide div-->
-</div>
-
-
-<!-- end page content-->	
+</div></div></div></div><!-- end page content-->
+		
 <script>
+// URL STRING TO SAVE AND SHOW CORRECT CONTENT
 //jQuery: get URL location.hash and use it to open the correct pills and accordion
 $(function(){
 	if (location.hash !== null && location.hash !== "") { //check for hash
@@ -2426,6 +2616,7 @@ $(function(){
 });
 </script>
 <script type="application/javascript">
+// URL STRING TO SAVE AND SHOW CORRECT CONTENT
 // script to find the URL hash string and split it 
 // to identify which pill and which accordion item need to open
 var tabopen;
@@ -2475,6 +2666,7 @@ function myFunction2(button, thisquery){
 	//window.scrollToTop(0,0); //need to scroll window to top of page but not working 	
 }
 
+// ACCORDION FAMILIES
 // this function dynamically allocates the parent accordion div of the accordion-item 
 // to the children's (accordion-collapse) data-bs-parent value 
 // so that selecting one accordion will close the others in the group.
@@ -2501,6 +2693,7 @@ const acclist = document.getElementsByClassName("accordion");
 		acbuttons[0].classList.remove("collapsed");
 		//console.log(acbuttons[0].className);
 	}
+// PRINT SCRIPTS
 // Script to print the content of a subtype div
 function printDiv(elem) {
 	//get the grandparent subtype div
@@ -2548,10 +2741,8 @@ function printGuide(){
 	// open print dialogue
     a.print();
 }
-
-    </script>	
-		
-    </body>
+</script>
+</body>
 </html>
 
 
