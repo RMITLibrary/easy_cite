@@ -47,8 +47,21 @@
 		color: #000054;	
 	}
 	.printbutton:focus {
-	background-color: #fac800 !important;
-	color: #000058 !important;
+	background-color: #fac800;
+	color: #000058;
+ 	}
+	.notabutton{
+		border: hidden;
+		background: #ffffff;
+		color: #000054;
+		font-size: 0.9rem;
+		transition-duration: 0.2s;
+	}
+	.notabutton:hover{
+		color: #E61E2A;	
+	}
+	.notabutton:focus {
+	color: #E61E2A;
  	}
 	</style>
 
@@ -124,6 +137,10 @@
 <!-- Using Harvard - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
 <div class="tab-pane fade show active" id="v-pills-0" role="tabpanel" aria-labelledby="v-pills-0-tab">
+	<button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print: Using Harvard &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button>
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 <div class="accordion" id="accordionExample-0">
 <!-- start SUB_TYPE-ITEM - accordion item -->
@@ -144,7 +161,10 @@ RMIT Harvard is an author-date referencing style. It is based on the Referencing
 <p>RMIT Harvard style requires in-text references and a reference list. <strong>In-text references</strong> appear within the body of the document. They include the author’s family name or name of the organisation responsible for the information source and the year of publication, with page numbers required for quotes if available. <strong>A reference list</strong> provides the full bibliographic details of all in-text references at the end of the assignment.
 It is recommended that you read the general rules for each section before looking at the specific information about the source you need to reference.</p>
 <p><strong>Note:</strong> Although the AGSM states that title of online sources should be hyperlinked for electronic formats, RMIT Harvard style does not do this because hyperlinks are not compatible with the EndNote program and other referencing software. In addition, the links would not be available when the work is printed.</p>
-<button class="printbutton" onClick="printDiv(this)">Print this section</button>
+<button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg></button>
 </div></div>
 </div>
 <div class="accordion-item">
@@ -2503,6 +2523,22 @@ function printGuide(){
     a.document.write('<html>');
     a.document.write('<body> <h1>RMIT Harvard Style Guide </h1> <br />');
     a.document.write('<p>'+ guideContents + '</p>');
+    a.document.write('</body></html>');
+    a.document.close();
+	// open print dialogue
+    a.print();
+}
+function printType(elem) {
+	//get the grandparent subtype div
+	var thistype = elem.parentNode.id;
+	console.log(thistype);
+	//put the contents of the div into a new variable
+    var typeContents = document.getElementById(thistype).innerHTML;
+	//open a window, add content 
+    var a = window.open('', '', 'height=1200, width=800');
+    a.document.write('<html>');
+    a.document.write('<body> <h1>RMIT Harvard Style Guide </h1> <br />');
+    a.document.write('<p>'+ typeContents + '</p>');
     a.document.write('</body></html>');
     a.document.close();
 	// open print dialogue
