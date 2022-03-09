@@ -140,7 +140,7 @@ $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pil
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<button class="nav-link myleftpills" id="v-pills-print-tab" type="button" onclick="printGuide();">Print this style guide</button></div><p>&nbsp;</p></div>', $mylist);	
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 col-12"><div id="printable-guide"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
-$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><button class="printbutton" id="printthistype" type="button" onclick="printType(this);">Print all sections</button>', $mylist);	
+$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><button class="printbutton" id="printthistype" type="button" onclick="printType(this);">Print this part [name]</button>', $mylist);	
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item">', $mylist);
 $mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
