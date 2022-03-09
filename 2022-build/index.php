@@ -67,6 +67,7 @@
 	.notabutton:focus {
 	color: #E61E2A;
  	}
+
 </style>
 
     </head>
@@ -153,10 +154,10 @@ $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pil
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<button class="nav-link myleftpills" id="v-pills-print-tab" type="button" onclick="printGuide();">Print this style guide</button></div><p>&nbsp;</p></div>', $mylist);	
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 col-12"><div id="printable-guide"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
-$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><button class="notabutton" id="printthistype" type="button" onclick="printType(this);">Print this part [name]  &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
-</svg></button>', $mylist);	
+</svg></button></div>', $mylist);	
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item">', $mylist);
 $mylist = preg_replace("/<h3>/s", '<h2 class="accordion-header" id="heading-zz"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
@@ -164,10 +165,10 @@ $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
       <div class="accordion-body">', $mylist);
-$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<button class="notabutton" onClick="printDiv(this)">Print this section  &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
-</svg></button></div></div>', $mylist);
+</svg></button></div></div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
@@ -462,11 +463,10 @@ const acclist = document.getElementsByClassName("accordion");
 		acbuttons[0].classList.remove("collapsed");
 		//console.log(acbuttons[0].className);
 	}
-
 // Script to print the content of a subtype div
 function printDiv(elem) {
 	//get the grandparent subtype div
-	var thisdiv = elem.parentNode.parentNode.id;
+	var thisdiv = elem.parentNode.parentNode.parentNode.id;
 	console.log(thisdiv);
 	//put the contents of the div into a new variable
     var divContents = document.getElementById(thisdiv).innerHTML;
@@ -480,9 +480,10 @@ function printDiv(elem) {
 	// open print dialogue
     a.print();
 }
+// Script to print the content of a pills content div
 function printType(elem) {
 	//get the grandparent subtype div
-	var thistype = elem.parentNode.id;
+	var thistype = elem.parentNode.parentNode.id;
 	console.log(thistype);
 	//put the contents of the div into a new variable
     var typeContents = document.getElementById(thistype).innerHTML;
@@ -496,6 +497,7 @@ function printType(elem) {
 	// open print dialogue
     a.print();
 }
+// Script to print the whole style guide
 function printGuide(){
 	var guideContents = document.getElementById("printable-guide").innerHTML;
 	//open a window, add content 
