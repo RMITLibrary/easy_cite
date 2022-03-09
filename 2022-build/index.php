@@ -15,7 +15,9 @@
 
 <style>
 	body {margin:2rem;}
-	.myleftpills {text-align: left;}
+	.myleftpills {
+		text-align: left;
+	}
 		h4{
 			font-size: 1.2rem;
 			font-weight: 700;
@@ -28,6 +30,9 @@
 			font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
 			margin-left: 30px;
 		}
+	.accordion-button{
+		background-color: #e3e5e0 !important;
+	}
 	.collapsed {
 		background-color: #f8f8fa !important;
 		
@@ -43,13 +48,12 @@
 	}
 	.printbutton:hover{
 		background: #fac800;
-		color: #000054;
-		
+		color: #000054;	
 	}
-	 .printbutton:focus {
+	.printbutton:focus {
 	background-color: #fac800 !important;
 	color: #000058 !important;
- }
+ 	}
 </style>
 
     </head>
@@ -134,8 +138,8 @@ $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3">
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '</div><p>&nbsp;</p></div>', $mylist);	
-$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 col-12"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
+$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<button class="nav-link myleftpills" id="v-pills-print-tab" type="button" onclick="printGuide();">Print this style guide</button></div><p>&nbsp;</p></div>', $mylist);	
+$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 col-12"><div id="printable-guide"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
 $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab">', $mylist);	
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item">', $mylist);
@@ -144,11 +148,11 @@ $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
       <div class="accordion-body">', $mylist);
-$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<button class="printbutton" onClick="printDiv(this)">print this section</button></div></div>', $mylist);
+$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<button class="printbutton" onClick="printDiv(this)">Print this section</button></div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
-$mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div>', $mylist);
+$mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div></div>', $mylist);
 		
 //replace property for the first tab, pill, accordion only - to show, true or active
@@ -447,13 +451,26 @@ function printDiv(elem) {
 	console.log(thisdiv);
 	//put the contents of the div into a new variable
     var divContents = document.getElementById(thisdiv).innerHTML;
-	//open a window, add content and open print dialogue
+	//open a window, add content 
     var a = window.open('', '', 'height=1200, width=800');
     a.document.write('<html>');
     a.document.write('<body> <h1>RMIT Harvard Style Guide </h1> <br />');
     a.document.write('<p>'+ divContents + '</p>');
     a.document.write('</body></html>');
     a.document.close();
+	// open print dialogue
+    a.print();
+}
+function printGuide(){
+	var guideContents = document.getElementById("printable-guide").innerHTML;
+	//open a window, add content 
+    var a = window.open('', '', 'height=1200, width=800');
+    a.document.write('<html>');
+    a.document.write('<body> <h1>RMIT Harvard Style Guide </h1> <br />');
+    a.document.write('<p>'+ guideContents + '</p>');
+    a.document.write('</body></html>');
+    a.document.close();
+	// open print dialogue
     a.print();
 }
 </script>

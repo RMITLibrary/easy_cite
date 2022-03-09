@@ -55,7 +55,7 @@
 #### Using Harvard - Introduction
 
 **This is a guide only**. Please confirm the referencing requirements for your course with your lecturer.
-RMIT Harvard is an author-date referencing style. It is based on the Referencing and attribution section of the Australian Government Style Manual (AGSM) [https://www.stylemanual.gov.au/]released in 2021.
+RMIT Harvard is an author-date referencing style. It is based on the Referencing and attribution section of the [Australian Government Style Manual (AGSM)](https://www.stylemanual.gov.au/) released in 2021.
 
 RMIT Harvard style requires in-text references and a reference list. **In-text references** appear within the body of the document. They include the author’s family name or name of the organisation responsible for the information source and the year of publication, with page numbers required for quotes if available. **A reference list** provides the full bibliographic details of all in-text references at the end of the assignment.
 It is recommended that you read the general rules for each section before looking at the specific information about the source you need to reference.
