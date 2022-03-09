@@ -21,7 +21,7 @@
 			font-weight: 700;
 		}
 		h5{
-			font-size: 0.9rem;
+			font-size: 1.2rem;
 			font-weight: 700;
 		}
 		blockquote{
@@ -32,7 +32,25 @@
 		background-color: #f8f8fa !important;
 		
 	}
-	</style>
+	.printbutton {
+		border: hidden;
+		padding: 10px 24px;
+		border-radius: 36px;
+		background: #000054;
+		color: #ffffff;
+		font-size: 0.9rem;
+		transition-duration: 0.4s;
+	}
+	.printbutton:hover{
+		background: #fac800;
+		color: #000054;
+		
+	}
+	 .printbutton:focus {
+	background-color: #fac800 !important;
+	color: #000058 !important;
+ }
+</style>
 
     </head>
     <body>
@@ -126,7 +144,7 @@ $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
       <div class="accordion-body">', $mylist);
-$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '</div></div>', $mylist);
+$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<button class="printbutton" onClick="printDiv(this)">print this section</button></div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
@@ -303,17 +321,20 @@ if ($whichstyleguide == "styleguide-0"){
 }
 
 // ISSUES TO BE RESOLVED / Development to-do list
-// DONE!! focus the correct tab depending on the query string.
+
 // accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
-// need to strip all COMMENTS out of $mylist after all replaces are done
-// DONE!! need to close the first accordion for the pill if accessed via hash string
-// DONE!! need to highlight the first accordion button/item in each accordion because we removed all the highlights - remove "collapsed" from the first accordion button
-// DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
-// DONE!! solve the praent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
 // PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide?
 // FOOTER area with links to feedback form, learning lab, other...
 // Top of page INSTRUCTIONS - show/hide with cookies/session data
 // STYLE: CSS for Bootstrap - RMIT branding
+// need to strip all COMMENTS out of $mylist after all replaces are done
+		
+// DONE!! focus the correct tab depending on the query string.
+// DONE!! need to close the first accordion for the pill if accessed via hash string
+// DONE!! need to highlight the first accordion button/item in each accordion because we removed all the highlights - remove "collapsed" from the first accordion button
+// DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
+// DONE!! solve the praent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
+
  
 echo($mylist);
 	
@@ -419,6 +440,22 @@ const acclist = document.getElementsByClassName("accordion");
 		//console.log(acbuttons[0].className);
 	}
 
+// Script to print the content of a subtype div
+function printDiv(elem) {
+	//get the grandparent subtype div
+	var thisdiv = elem.parentNode.parentNode.id;
+	console.log(thisdiv);
+	//put the contents of the div into a new variable
+    var divContents = document.getElementById(thisdiv).innerHTML;
+	//open a window, add content and open print dialogue
+    var a = window.open('', '', 'height=1200, width=800');
+    a.document.write('<html>');
+    a.document.write('<body> <h1>RMIT Harvard Style Guide </h1> <br />');
+    a.document.write('<p>'+ divContents + '</p>');
+    a.document.write('</body></html>');
+    a.document.close();
+    a.print();
+}
 </script>
     </body>
 </html>
