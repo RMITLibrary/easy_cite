@@ -336,11 +336,11 @@ if ($whichstyleguide == "styleguide-0"){
 }
 
 // ISSUES TO BE RESOLVED / Development to-do list
-// change the code from PHP to Javascript to show first accordion item in an accordion
+// change the code from PHP to Javascript to show first accordion item in an accordion maybe?? thenwon't need the comment in  markdown
 // accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
 // DONE!! PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide
-// Format print window content and hide buttons 
-// FOOTER area with links to feedback form, learning lab, other...
+// Format print window content and hide buttons - can we make an external style sheet for this?
+// create a FOOTER area with links to feedback form, learning lab, other...
 // Top of page INSTRUCTIONS - show/hide with cookies/session data
 // STYLE: CSS for Bootstrap - RMIT branding
 // need to strip all COMMENTS out of $mylist after all replaces are done	
@@ -465,9 +465,11 @@ function printDiv(elem) {
     var divContents = document.getElementById(thisdiv).innerHTML;
 	//open a window, add content 
     var a = window.open('', '', 'height=1200, width=800');
-    a.document.write('<html>');
-    a.document.write('<body> <h1>RMIT Harvard Style Guide </h1> <br />');
-    a.document.write('<p>'+ divContents + '</p>');
+    a.document.write('<html><head>');
+	a.document.write('<link href="css/printstyles.css" rel="stylesheet">');
+	a.document.write('</head>');
+    a.document.write('<body> <h1>RMIT Harvard Style Guide </h1>');
+    a.document.write('<div class="printsectionguide">'+ divContents + '</div>');
     a.document.write('</body></html>');
     a.document.close();
 	// open print dialogue
@@ -482,9 +484,11 @@ function printType(elem) {
     var typeContents = document.getElementById(thistype).innerHTML;
 	//open a window, add content 
     var a = window.open('', '', 'height=1200, width=800');
-    a.document.write('<html>');
+    a.document.write('<html><head>');
+	a.document.write('<link href="css/printstyles.css" rel="stylesheet">');
+	a.document.write('</head>');
     a.document.write('<body> <h1>RMIT Harvard Style Guide </h1> <br />');
-    a.document.write('<p>'+ typeContents + '</p>');
+    a.document.write('<div class="printpartguide">'+ typeContents + '</div>');
     a.document.write('</body></html>');
     a.document.close();
 	// open print dialogue
@@ -495,9 +499,11 @@ function printGuide(){
 	var guideContents = document.getElementById("printable-guide").innerHTML;
 	//open a window, add content 
     var a = window.open('', '', 'height=1200, width=800');
-    a.document.write('<html>');
+    a.document.write('<html><head>');
+	a.document.write('<link href="css/printstyles.css" rel="stylesheet">');
+	a.document.write('</head>');
     a.document.write('<body> <h1>RMIT Harvard Style Guide </h1> <br />');
-    a.document.write('<p>'+ guideContents + '</p>');
+    a.document.write('<div class="printguide">'+ guideContents + '</div>');
     a.document.write('</body></html>');
     a.document.close();
 	// open print dialogue

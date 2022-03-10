@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+h1 {
+	font-family: "Museo 500",Helvetica, Arial, "sans-serif";
+	font-size: 2rem;
+}
+h2 {
+	font-family: Helvetica, Arial, "sans-serif";
+	font-size: 1.5rem;
+}
+h3 {
+	font-family: Helvetica, Arial, "sans-serif";
+	font-size: 1.2rem;
+}
+h4 {
+	font-family: Helvetica, Arial, "sans-serif";
+	font-size: 1.1rem;
+}
+h5 {
+	font-family: Helvetica, Arial, "sans-serif";
+	font-size: 1rem;
+}
+p {
+	font-family: Helvetica, Arial, "sans-serif";
+	font-size: 1rem;
+}
+blockquote.p {
+	font-family: Times, "Times New Roman", "serif";
+	font-size: 0.9rem;
+	text-indent: 5px;
+}
+button{
+	display: none;
+	visibility: hidden;
+}
+
