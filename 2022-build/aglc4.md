@@ -9,11 +9,11 @@
 <!-- add additional style guides if needed -->
 ###### start-style-menu
 # RMIT Harvard
+# AGLC4
 # APA 7th Ed.
 # Chicago
-# Vancouver
-# AGLC4
 # IEEE
+# Vancouver
 ###### end-style-menu
 
 ###### start-style-guide

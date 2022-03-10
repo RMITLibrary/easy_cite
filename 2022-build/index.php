@@ -109,15 +109,15 @@ $whichstyleguide = $params['styleguide'];
 if ($whichstyleguide == "styleguide-0"){
 	$thestyleguide = file_get_contents('rmitharvard.md');
 }	else if ($whichstyleguide == "styleguide-1"){
-	$thestyleguide = file_get_contents('apa7thed.md');
-}	else if ($whichstyleguide == "styleguide-2"){
-	$thestyleguide = file_get_contents('chicago.md');
-}	else if ($whichstyleguide == "styleguide-3"){
-	$thestyleguide = file_get_contents('vancouver.md');
-}	else if ($whichstyleguide == "styleguide-4"){
 	$thestyleguide = file_get_contents('aglc4.md');
-}	else if ($whichstyleguide == "styleguide-5"){
+}	else if ($whichstyleguide == "styleguide-2"){
+	$thestyleguide = file_get_contents('apa7thed.md');
+}	else if ($whichstyleguide == "styleguide-3"){
+	$thestyleguide = file_get_contents('chicago.md');
+}	else if ($whichstyleguide == "styleguide-4"){
 	$thestyleguide = file_get_contents('ieee.md');
+}	else if ($whichstyleguide == "styleguide-5"){
+	$thestyleguide = file_get_contents('vancouver.md');
 }	else {
 	$thestyleguide = file_get_contents('rmitharvard.md');
 }
