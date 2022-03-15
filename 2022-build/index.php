@@ -5,69 +5,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta name="description" content="" />
 	<meta name="author" content="" />
-<title>EasyCite</title>
-<!-- Favicon-->
-<link rel="icon" type="image/x-icon" href="../2022-build/assets/favicon.ico" />
-<!-- Core theme CSS, JS & JQUERY (includes Bootstrap)-->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
-<style>
-	body {margin:2rem;}
-	.myleftpills {
-		text-align: left;
-	}
-	h4{
-		font-size: 1.2rem;
-		font-weight: 700;
-	}
-	h5{
-		font-size: 1.2rem;
-		font-weight: 700;
-	}
-	blockquote{
-		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
-		margin-left: 30px;
-	}
-	.accordion-button{
-		background-color: #e3e5e0 !important;
-	}
-	.collapsed {
-		background-color: #f8f8fa !important;
-		
-	}
-	.rmitbutton {
-		border: hidden;
-		padding: 10px 24px;
-		border-radius: 36px;
-		background: #000054;
-		color: #ffffff;
-		font-size: 0.9rem;
-		transition-duration: 0.4s;
-	}
-	.rmitbutton:hover{
-		background: #fac800;
-		color: #000054;	
-	}
-	.rmitbutton:focus {
-		background-color: #fac800 !important;
-		color: #000058 !important;
- 	}
-	.notabutton{
-		border: hidden;
-		background: #ffffff;
-		color: #000054;
-		font-size: 0.9rem;
-		transition-duration: 0.2s;
-	}
-	.notabutton:hover{
-		color: #E61E2A;	
-	}
-	.notabutton:focus {
-		color: #E61E2A;
- 	}
-
-</style>
+    <title>EasyCite</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.png" />
+    <!-- Core theme CSS, JS & JQUERY (includes Bootstrap)-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+	<!-- Easy Cite stylesheet-->
+    <link href="css/eaycite.css" rel="stylesheet">
 </head>
 <body>
 <!-- Responsive navbar-->
@@ -107,19 +53,19 @@ parse_str($thisQuery, $params);
 $whichstyleguide = $params['styleguide'];
 //get the correct markdown content
 if ($whichstyleguide == "styleguide-0"){
-	$thestyleguide = file_get_contents('rmitharvard.md');
+	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
 }	else if ($whichstyleguide == "styleguide-1"){
-	$thestyleguide = file_get_contents('aglc4.md');
+	$thestyleguide = file_get_contents('markdown/aglc4.md');
 }	else if ($whichstyleguide == "styleguide-2"){
-	$thestyleguide = file_get_contents('apa7thed.md');
+	$thestyleguide = file_get_contents('markdown/apa7thed.md');
 }	else if ($whichstyleguide == "styleguide-3"){
-	$thestyleguide = file_get_contents('chicago.md');
+	$thestyleguide = file_get_contents('markdown/chicago.md');
 }	else if ($whichstyleguide == "styleguide-4"){
-	$thestyleguide = file_get_contents('ieee.md');
+	$thestyleguide = file_get_contents('markdown/ieee.md');
 }	else if ($whichstyleguide == "styleguide-5"){
-	$thestyleguide = file_get_contents('vancouver.md');
+	$thestyleguide = file_get_contents('markdown/vancouver.md');
 }	else {
-	$thestyleguide = file_get_contents('rmitharvard.md');
+	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
 }
 // get the markdown content - which populates the page with content from a particular style guide	
 //$thestyleguide = file_get_contents('rmitharvard.md');
@@ -339,7 +285,8 @@ if ($whichstyleguide == "styleguide-0"){
 // change the code from PHP to Javascript to show first accordion item in an accordion maybe?? thenwon't need the comment in  markdown
 // accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
 // DONE!! PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide
-// Format print window content and hide buttons - can we make an external style sheet for this?
+// DONE!! Format print window content and hide buttons - make an external style sheet for this
+// Improve the print stylesheet with RMIT branding etc.
 // create a FOOTER area with links to feedback form, learning lab, other...
 // Top of page INSTRUCTIONS - show/hide with cookies/session data
 // STYLE: CSS for Bootstrap - RMIT branding
@@ -386,8 +333,8 @@ var accordopen;
 if (location.hash !== null && location.hash !== "") { //check for hash
 		var hash = window.location.hash; 
 		var myArray = hash.split("#"); //split hash into two parts & save in an array
-		tabopen = myArray[1];  //first item of array
-		accordopen = myArray[2];  //first item of array
+		tabopen = myArray[1];  //first item of array after the hash which is zero position
+		accordopen = myArray[2];  //second item of array after the hash
 		
 } else {
 	// else default to the first pill and accordion item

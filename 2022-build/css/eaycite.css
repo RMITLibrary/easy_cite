@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+body {margin:2rem;}
+	.myleftpills {
+	text-align: left;
+}
+h4{
+	font-size: 1.2rem;
+	font-weight: 700;
+}
+h5{
+	font-size: 1.2rem;
+	font-weight: 700;
+}
+blockquote{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
+	margin-left: 30px;
+}
+.accordion-button{
+	background-color: #e3e5e0 !important;
+}
+.collapsed {
+	background-color: #f8f8fa !important;
+}
+.rmitbutton {
+      border: hidden;
+      padding: 10px 24px;
+      border-radius: 36px;
+      background: #000054;
+      color: #ffffff;
+      font-size: 0.9rem;
+      transition-duration: 0.4s;
+  }
+.rmitbutton:hover{
+      background: #fac800;
+      color: #000054;	
+  }
+.rmitbutton:focus {
+      background-color: #fac800 !important;
+      color: #000058 !important;
+  }
+.notabutton{
+      border: hidden;
+      background: #ffffff;
+      color: #000054;
+      font-size: 0.9rem;
+      transition-duration: 0.2s;
+  }
+.notabutton:hover{
+      color: #E61E2A;	
+  }
+.notabutton:focus {
+      color: #E61E2A;
+  }

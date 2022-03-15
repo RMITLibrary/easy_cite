@@ -75,14 +75,14 @@ $(function(){
 	
   <div class="tab-content w-100" id="v-pills-tabContent">  
     <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">		
-<div class="accordion" id="accordionExample">
+<div class="accordion accordion-flush" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="heading1">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
         Introduction
       </button>
     </h2>
-    <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordionExample">
+    <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1">
       <div class="accordion-body">
         Cillum ad ut irure tempor velit nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id reprehenderit sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
       <!-- end accordion-body--></div>
@@ -94,7 +94,7 @@ $(function(){
         General rules for in-text references
       </button>
     </h2>
-    <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordionExample">
+    <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2">
       <div class="accordion-body">
         Culpa dolor voluptate do laboris laboris irure reprehenderit id incididunt duis pariatur mollit aute magna pariatur consectetur. Eu veniam duis non ut dolor deserunt commodo et minim in quis laboris ipsum velit id veniam. Quis ut consectetur adipisicing officia excepteur non sit. Ut et elit aliquip labore Lorem enim eu. Ullamco mollit occaecat dolore ipsum id officia mollit qui esse anim eiusmod do sint minim consectetur qui.
       </div>
@@ -106,7 +106,7 @@ $(function(){
         Multiple works by same author(s) in the same year
       </button>
     </h2>
-    <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordionExample">
+    <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3">
       <div class="accordion-body">
         Eu dolore ea ullamco dolore Lorem id cupidatat excepteur reprehenderit consectetur elit id dolor proident in cupidatat officia. Voluptate excepteur commodo labore nisi cillum duis aliqua do. Aliqua amet qui mollit consectetur nulla mollit velit aliqua veniam nisi id do Lorem deserunt amet. Culpa ullamco sit adipisicing labore officia magna elit nisi in aute tempor commodo eiusmod.
       </div>
@@ -122,7 +122,7 @@ $(function(){
         Books
       </button>
     </h2>
-    <div id="collapse6" class="accordion-collapse collapse show" aria-labelledby="heading6" data-bs-parent="#accordionExample">
+    <div id="collapse6" class="accordion-collapse collapse show" aria-labelledby="heading6">
 		<div class="accordion-body">
         Cillum ad ut irure tempor velit nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id reprehenderit sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
       </div>
@@ -134,7 +134,7 @@ $(function(){
         General rules for in-text references
       </button>
     </h2>
-    <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordionExample">
+    <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4">
       <div class="accordion-body">
         Culpa dolor voluptate do laboris laboris irure reprehenderit id incididunt duis pariatur mollit aute magna pariatur consectetur. Eu veniam duis non ut dolor deserunt commodo et minim in quis laboris ipsum velit id veniam. Quis ut consectetur adipisicing officia excepteur non sit. Ut et elit aliquip labore Lorem enim eu. Ullamco mollit occaecat dolore ipsum id officia mollit qui esse anim eiusmod do sint minim consectetur qui.
       </div>
@@ -146,7 +146,7 @@ $(function(){
         Multiple works by same author(s) in the same year
       </button>
     </h2>
-    <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#accordionExample">
+    <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5">
       <div class="accordion-body">
         Eu dolore ea ullamco dolore Lorem id cupidatat excepteur reprehenderit consectetur elit id dolor proident in cupidatat officia. Voluptate excepteur commodo labore nisi cillum duis aliqua do. Aliqua amet qui mollit consectetur nulla mollit velit aliqua veniam nisi id do Lorem deserunt amet. Culpa ullamco sit adipisicing labore officia magna elit nisi in aute tempor commodo eiusmod.
       </div>
@@ -162,7 +162,7 @@ $(function(){
         Journals
       </button>
     </h2>
-    <div id="collapse7" class="accordion-collapse collapse show" aria-labelledby="heading7" data-bs-parent="#accordionExample">
+    <div id="collapse7" class="accordion-collapse collapse show" aria-labelledby="heading7">
 		<div class="accordion-body">
         Cillum ad ut irure tempor velit nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id reprehenderit sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
       </div>
@@ -174,7 +174,7 @@ $(function(){
         General rules for in-text references
       </button>
     </h2>
-    <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8" data-bs-parent="#accordionExample">
+    <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8">
       <div class="accordion-body">
         Culpa dolor voluptate do laboris laboris irure reprehenderit id incididunt duis pariatur mollit aute magna pariatur consectetur. Eu veniam duis non ut dolor deserunt commodo et minim in quis laboris ipsum velit id veniam. Quis ut consectetur adipisicing officia excepteur non sit. Ut et elit aliquip labore Lorem enim eu. Ullamco mollit occaecat dolore ipsum id officia mollit qui esse anim eiusmod do sint minim consectetur qui.
       </div>
@@ -186,7 +186,7 @@ $(function(){
         Multiple works by same author(s) in the same year
       </button>
     </h2>
-    <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="heading9" data-bs-parent="#accordionExample">
+    <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="heading9">
       <div class="accordion-body">
         Eu dolore ea ullamco dolore Lorem id cupidatat excepteur reprehenderit consectetur elit id dolor proident in cupidatat officia. Voluptate excepteur commodo labore nisi cillum duis aliqua do. Aliqua amet qui mollit consectetur nulla mollit velit aliqua veniam nisi id do Lorem deserunt amet. Culpa ullamco sit adipisicing labore officia magna elit nisi in aute tempor commodo eiusmod.
       </div>
@@ -213,13 +213,6 @@ $(function(){
 <!-- end tab-content--></div>
 	
 	
-
-	
-<p>&nbsp;</p>
-	<p>&nbsp;</p>
-	<p>&nbsp;<a href="#collapse4">open a specific accordion item</a></p>
-	<p>&nbsp;<a href="#v-pills-2-tab">open a specific pills content area</a></p>
-<p>&nbsp;</p>
 	     
  
   
