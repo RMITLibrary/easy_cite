@@ -140,10 +140,10 @@ $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3">
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<button class="nav-link myleftpills" id="v-pills-print-tab" type="button" onclick="printGuide();">Print this style guide</button></div><p>&nbsp;</p></div>', $mylist);	
+$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<button class="nav-link myleftpills guideprint" id="v-pills-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide</button></div><p>&nbsp;</p></div>', $mylist);	
 // ACCORDIONS
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 col-12"><div id="printable-guide"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
-$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" id="printthistype" type="button" onclick="printType(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer partprint" id="printthistype" type="button" onclick="printThisGuide(this);">Print this part of the style guide <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
 </svg></button></div>', $mylist);	
@@ -155,7 +155,7 @@ $mylist = preg_replace("/<\/h3>/s", '</button>
     </h2>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
       <div class="accordion-body">', $mylist);
-$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer" onClick="printDiv(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer sectionprint" onClick="printThisGuide(this)">Print this section only <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
 </svg></button></div></div></div>', $mylist);
@@ -427,12 +427,11 @@ function myFunction2(button, thisquery){
 	location.reload();
 	//window.scrollToTop(0,0); //need to scroll window to top of page but not working 	
 }
-
+// --------------------------
 // ACCORDION FAMILIES
 // this function dynamically allocates the parent accordion div of the accordion-item 
 // to the children's (accordion-collapse) data-bs-parent value 
 // so that selecting one accordion will close the others in the group.
-	
 //find all the accordion-item divs
 const mylist = document.getElementsByClassName("accordion-item"); 
 	//loop through all the accordion-item divs
@@ -446,7 +445,6 @@ const mylist = document.getElementsByClassName("accordion-item");
 			nodes[i].setAttribute("data-bs-parent", "#" + mylist[p].parentElement.id); 
 			//console.log(nodes[i].getAttribute("data-bs-parent"));
 		}
-
 	}
 // remove the "collapsed" class from the first accordion button in each accordion so it's in its "open" state
 const acclist = document.getElementsByClassName("accordion");
@@ -455,59 +453,47 @@ const acclist = document.getElementsByClassName("accordion");
 		acbuttons[0].classList.remove("collapsed");
 		//console.log(acbuttons[0].className);
 	}
-// PRINT SCRIPTS
-// Script to print the content of a subtype div
-function printDiv(elem) {
-	//get the grandparent subtype div
-	var thisdiv = elem.parentNode.parentNode.parentNode.id;
+// -----------------------------
+// PRINT SCRIPT
+// this script controls the method for printing a section, part or whole guide depending on the button selected
+function printThisGuide(elem) {
+	// get the button class name attribute
+	var thisbutton = elem.className;
+	// create variable to hold the correct div id for printing
+	var thisdiv;
+	console.log(thisbutton);
+	if (thisbutton.includes("sectionprint")){ 
+		// if this is a sectionprint button, find the great-grandparent node to print the section only
+		var thisdiv = elem.parentNode.parentNode.parentNode.id;
+	} else if (thisbutton.includes("partprint")){
+		// if this is a partprint button, find the grandparent node to print the part
+		var thisdiv = elem.parentNode.parentNode.id;
+	} else if (thisbutton.includes("guideprint")){
+		// if this is a guideprint button, find the printable-guide div to print the whole guide
+		var thisdiv = document.getElementById("printable-guide").id;
+	}
 	console.log(thisdiv);
-	//put the contents of the div into a new variable
+	//put the HTML contents of the div for printing into a new variable
     var divContents = document.getElementById(thisdiv).innerHTML;
-	//open a window, add content 
+	//open a window, add contents
     var a = window.open('', '', 'height=1200, width=800');
     a.document.write('<html><head>');
+	// link to the external stylesheet - change the stylesheet CSS file to change the appearance of the HTML
 	a.document.write('<link href="css/printstyles.css" rel="stylesheet">');
 	a.document.write('</head>');
-    a.document.write('<body> <h1>RMIT Harvard Style Guide </h1>');
+    a.document.write('<body> <h1>Easy Cite style guides resource</h1><h2>RMIT Library</h2>');
     a.document.write('<div class="printsectionguide">'+ divContents + '</div>');
     a.document.write('</body></html>');
     a.document.close();
-	// open print dialogue
+	// open print dialogue with a slight delay to allow the CSS to load first
+	var timesRun = 0;
+	var interval = setInterval(function(){
+    	timesRun += 1;
+    	if(timesRun === 1){
+        	clearInterval(interval);
+    	}
     a.print();
-}
-// Script to print the content of a pills content div
-function printType(elem) {
-	//get the grandparent subtype div
-	var thistype = elem.parentNode.parentNode.id;
-	console.log(thistype);
-	//put the contents of the div into a new variable
-    var typeContents = document.getElementById(thistype).innerHTML;
-	//open a window, add content 
-    var a = window.open('', '', 'height=1200, width=800');
-    a.document.write('<html><head>');
-	a.document.write('<link href="css/printstyles.css" rel="stylesheet">');
-	a.document.write('</head>');
-    a.document.write('<body> <h1>RMIT Harvard Style Guide </h1> <br />');
-    a.document.write('<div class="printpartguide">'+ typeContents + '</div>');
-    a.document.write('</body></html>');
-    a.document.close();
-	// open print dialogue
-    a.print();
-}
-// Script to print the whole style guide
-function printGuide(){
-	var guideContents = document.getElementById("printable-guide").innerHTML;
-	//open a window, add content 
-    var a = window.open('', '', 'height=1200, width=800');
-    a.document.write('<html><head>');
-	a.document.write('<link href="css/printstyles.css" rel="stylesheet">');
-	a.document.write('</head>');
-    a.document.write('<body> <h1>RMIT Harvard Style Guide </h1> <br />');
-    a.document.write('<div class="printguide">'+ guideContents + '</div>');
-    a.document.write('</body></html>');
-    a.document.close();
-	// open print dialogue
-    a.print();
+	}, 300); 
 }
 </script>
 </body>
