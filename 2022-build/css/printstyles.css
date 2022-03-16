@@ -7,7 +7,7 @@
 
 @page {
   	size: A4 portrait;
-	margin: 2cm 2cm 2cm 2cm;
+	margin: 2cm;
 	@top-left-corner { 
 		content: "test "; 
 	}

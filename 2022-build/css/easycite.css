@@ -58,3 +58,8 @@ blockquote{
 	display: none;
 	visibility: hidden;
 }
+@media screen and (min-width: 800px) {
+  .accordion {
+    min-width: 600px;
+  }
+}
