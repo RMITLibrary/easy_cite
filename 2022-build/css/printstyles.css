@@ -7,7 +7,7 @@
 
 @page {
   	size: A4 portrait;
-	margin: 3cm 3cm 3cm 3cm;
+	margin: 2cm 2cm 2cm 2cm;
 	@top-left-corner { content: "test "; }
 	@bottom-right { content: "Page " counter(page) " of " counter(pages); }
 }
@@ -21,23 +21,26 @@
       content:" <" attr(href) "> ";
    }
 }
+body {
+	margin: 20px 30px 30px 40px;
+}
 h1, h2, h3, h4, h5 {
-  page-break-after: avoid;
+  page-break-after: avoid !important;
 }
 h1 {
 	font-family: 'Museo500',Helvetica, Arial, 'sans-serif' !important;
-	font-size: 2rem;
+	font-size: 20px;
 	color: #E61E2A;
 	string-set: doctitle content();
 }
 h2 {
 	font-family: Helvetica, Arial, "sans-serif";
-	font-size: 1.5rem;
+	font-size: 18px;
 	color: #000054;
 }
 h3 {
 	font-family: Helvetica, Arial, "sans-serif";
-	font-size: 1.2rem;
+	font-size: 16px;
 	color: #000054;
 }
 h3.title:before {
@@ -46,23 +49,23 @@ h3.title:before {
 }
 h4 {
 	font-family: Helvetica, Arial, "sans-serif";
-	font-size: 1.1rem;
+	font-size: 14px;
 	color: #000054;
 }
 h5 {
 	font-family: Helvetica, Arial, "sans-serif";
-	font-size: 1rem;
+	font-size: 13px;
 	color: #000054;
 }
 p {
 	font-family: Helvetica, Arial, "sans-serif";
-	font-size: 1rem;
+	font-size: 12px;
 	page-break-inside: avoid;
 }
-blockquote {
-	font-family: Times, "Times New Roman", "serif" !important;
-	font-size: 0.8rem;
-	text-indent: 5px;
+blockquote p {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
+	margin-left: 20px;
+	font-size: 12px;
 	page-break-inside: avoid;
 }
 ul, img {
@@ -70,10 +73,20 @@ ul, img {
 }
 li {
 	font-family: Helvetica, Arial, "sans-serif";
-	font-size: 1rem;
+	font-size: 12px;
 }
-button{
-	display: none;
-	visibility: hidden;
+.accordion-button{
+	background-color: #ffffff;
+	border: hidden;
+	font-family: Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	font-weight: 600;
+	color: #000054;
+	margin-left: -7px;
 }
+.notabutton {
+	display: none !important;
+	visibility: hidden !important;
+}
+
 

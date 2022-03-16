@@ -49,8 +49,6 @@
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
-<!-- the title for each accordion item content area must be heading 4 (####) -->
-#### Using IEEE - Introduction
 
 **Cillum ad ut irure tempor velit** nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id *reprehenderit* sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
 
@@ -63,8 +61,6 @@
 ### General rules for in-text references
 
 ###### start-subtype-content
-
-#### General rules for in-text references
 
 - Use in-text references to acknowledge each author or source of information (print or online) used within your writing either by paraphrasing or using a direct quote.
 - In-text reference details include the author(s) family name (or company or organisation name, if the author is a company or organisation) and year of publication, with extra information if required, such as page numbers.
@@ -144,8 +140,6 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 ### Multiple works by the same author(s) in the same year
 
 ###### start-subtype-content
-
-#### Multiple works by the same author(s) in the same year
 
 **Eu dolore ea ullamco dolore** Lorem id cupidatat excepteur reprehenderit consectetur elit id dolor proident in cupidatat officia. Voluptate excepteur commodo labore nisi cillum duis aliqua do. Aliqua amet qui mollit consectetur nulla mollit velit aliqua veniam nisi id do Lorem deserunt amet. Culpa ullamco sit adipisicing labore officia magna elit nisi in aute tempor commodo eiusmod.
 

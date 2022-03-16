@@ -36,10 +36,10 @@
 
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
-
 <!-- Using Harvard - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
 ###### start-type-content
+
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 ###### start-subtype
@@ -51,8 +51,6 @@
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
-<!-- the title for each accordion item content area must be heading 4 (####) -->
-#### Using Harvard - Introduction
 
 **This is a guide only**. Please confirm the referencing requirements for your course with your lecturer.
 RMIT Harvard is an author-date referencing style. It is based on the Referencing and attribution section of the [Australian Government Style Manual (AGSM)](https://www.stylemanual.gov.au/) (https<nolink>://www.stylemanual.gov.au/) released in 2021.
@@ -72,8 +70,6 @@ It is recommended that you read the general rules for each section before lookin
 ### General rules for in-text references
 
 ###### start-subtype-content
-
-#### General rules for in-text references
 
 Use in-text references to acknowledge all authors or sources of information (print or online) used within your writing, either by paraphrasing or using a direct quote.
 
@@ -111,8 +107,6 @@ If the publication date is unknown but can be reliably estimated or inferred fro
 
 ###### start-subtype-content
 
-#### Secondary citations
-
 **Secondary citations** acknowledge the work of an author you refer to in your assignment that you read about in someone else’s work. Where possible, try to use the original source.
 
 For example, if you use Vanna’s ideas which you read about an article by Martin and Rodríguez, you would only need to show who the ideas belong to and also where you read about them.  
@@ -136,8 +130,6 @@ In the reference list, include the source you read. For this example, you would 
 
 ###### start-subtype-content
 
-#### Multiple citations in same parentheses
-
 For multiple citations in the same parentheses, list all citations chronologically, separated by a semi-colon (;) for example:
 
   > It has been claimed that ... (Ghezzi and Cavallo 2018; Jocevski 2020; Soluk et al. 2021).
@@ -159,8 +151,6 @@ For multiple works by the same author in the same year, insert a letter after th
 
 ###### start-subtype-content
 
-#### Works by different authors with same family name
-
 Some works have **different authors with the same family name**. To identify their works, insert the initial(s) of all the first authors’ given names in the in-text references. In the reference list, order their works by the year of publication.
 
   > It is argued that ... (Peterson M 2019), but others claim that ... (Peterson JR et al. 2021).
@@ -175,8 +165,6 @@ Some works have **different authors with the same family name**. To identify the
 ### Changing the wording of a quote
 
 ###### start-subtype-content
-
-#### Changing the wording of a quote
 
 If you **change the wording of a quote**, follow the steps below to ensure that you do not to change the meaning of the original text:
 
@@ -201,8 +189,6 @@ If you **change the wording of a quote**, follow the steps below to ensure that 
 
 ###### start-subtype-content
 
-#### Block quotations
-
 **Block quotations** are quotes of more than 30 words. Block quotes do not use inverted commas. They are signalled with a colon and the quote begins on a new line that is indented from the margin and can be set in smaller text size.
 
 As Smithers (2020:57) points out:
@@ -220,8 +206,6 @@ As Smithers (2020:57) points out:
 ### General rules for the reference list
 
 ###### start-subtype-content
-
-#### General rules for the reference list
 
 - Use a reference list at the end of the document to include the publication details of all the in-text references cited within your writing.
 
@@ -283,11 +267,9 @@ As Smithers (2020:57) points out:
 
 ###### start-subtype-content
 
-#### Example reference list
-
 Below is an example of a reference list displaying various resource types including books, journal articles, legislation, newspaper article, film, report, websites and social media entries. Must be in ascending alphabetical order of author/creator name or, if no name given, in order of title.
 
-##### References
+#### References
 
 AASW (Australian Association of Social Workers) (2021) *Annual Report 2020-2021*, AASW, accessed 13 December 2021. https<nolink>://www.aasw.asn.au/publications/reports  
 
@@ -295,7 +277,8 @@ AASW (Australian Association of Social Workers) (2021) *Annual Report 2020-2021*
 
 Deegan C (2019) *An introduction to accounting: accountability in organisations and society*, Cengage Learning Australia, Southbank.  
 
-Department of Education and Training, Victoria (2020) *High impact teaching strategies*, Department of Education and Training website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx  
+Department of Education and Training, Victoria (2020) *High impact teaching strategies*, Department of Education and Training website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/school/teachers
+/teachingresources/practice/improve/Pages/hits.aspx  
 
 'Giant cell arteritis: one size does not fit all' (2021) *The Lancet Rheumatology*, 3(12):E819, doi:10.1016/S2665-9913(21)00364-7.
 
@@ -348,8 +331,6 @@ WHO (World Health Organization) (2021) *WHO accelerates work on nutrition target
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### General reference rules for books
-
 List all authors as they appear on the title page of the book. Use the initials of each authors' given name(s). Use **and** to separate the last two authors.
 
 Italicise the title of the book.
@@ -370,9 +351,7 @@ Include the name of the publisher, followed by the Digital Object Identifier (DO
 
 ###### start-subtype-content
 
-#### Book with single author
-
-##### In-text reference
+#### In-text reference
 
 **Paraphrases**
 
@@ -384,7 +363,7 @@ Include the name of the publisher, followed by the Digital Object Identifier (DO
 
   > Day (2018:3) states that ‘writing is a uniquely powerful, precise and satisfying form of expression. It is also a vital skill for future employment’.
 
-##### Reference list
+#### Reference list
 
 List the author details as they appear on the title page of the book. Use the initial of the author's given name(s). Italicise the title of the book. Include the name of the publisher and the place of publication.
 
@@ -408,9 +387,7 @@ List the author details as they appear on the title page of the book. Use the in
 
 ###### start-subtype-content
 
-#### Book with an edition number
-
-##### Reference list
+#### Reference list
 
 For a book with an edition number that is not the first, add the number and the abbreviation ‘edn’ after the title of the book. There is no need to include edition information if a book is a first edition, or if no edition is mentioned.
 
@@ -433,9 +410,7 @@ For a book with an edition number that is not the first, add the number and the 
 
 ###### start-subtype-content
 
-#### Book whose author is an organisation
-
-##### In-text reference
+#### In-text reference
 
 Where the author is an organisation, use the name of the organisation as the author.
 
@@ -449,7 +424,7 @@ Where the author is an organisation, use the name of the organisation as the aut
 
   > According to the OECD (2019:15), ‘the world has already warmed by an average of 1°Celsius and July 2019 was the hottest July ever recorded. Extreme weather events are taking their toll across the globe’.
 
-##### Reference list
+#### Reference list
 
 Where the author is an organisation, use the name of the organisation as the author.
 If you have used the abbreviated (shortened name) form of the organisation’s name in your writing, use it in your reference list, too. Put the abbreviated (shortened name) form followed by the full version name in parentheses.
@@ -481,9 +456,7 @@ If you have NOT used the abbreviated (shortened name) form in your writing, and 
 
 ###### start-subtype-content
 
-#### Book with no known author
-
-##### In-text reference
+#### In-text reference
 
 In place of the author, cite the book title and the year. Italicise the book title. If quoting, include a colon and page number after the year.
 
@@ -499,7 +472,7 @@ In place of the author, cite the book title and the year. Italicise the book tit
 
   > According to *A Warning* (2019:15) ‘the …’.
 
-##### Reference list
+#### Reference list
 
 If there is no author, begin with the title of the book (italicised), followed by publication year, publisher and place of publication.
 
@@ -522,9 +495,7 @@ If there is no author, begin with the title of the book (italicised), followed b
 
 ###### start-subtype-content
 
-#### Book with multiple authors
-
-##### In-text reference
+#### In-text reference
 
 **Book with two authors**
 
@@ -552,7 +523,7 @@ For in-text citations, give only the first author's family name, followed by et 
 
   > In the context of nursing, decision making is defined by DeLaune et al. (2019:63) as ‘considering and selecting interventions from a range of actions that facilitate the achievement of a desired outcome’.
 
-##### Reference list
+#### Reference list
 
 List all authors as they appear on the title page of the book. Use the initial of each authors' given name(s). Use and to separate the last two authors.
 
@@ -577,9 +548,7 @@ List all authors as they appear on the title page of the book. Use the initial o
 
 ###### start-subtype-content
 
-#### Multiple books by the same author(s)
-
-##### In-text reference
+#### In-text reference
 
 When citing two or more works by the same author in the same in-text citation, place the years of publication in chronological order after the author’s name. If the works were written in the same year, place a letter after the year; a after the first, b after the second and so on.
 
@@ -589,7 +558,7 @@ When citing two or more works by the same author in the same in-text citation, p
 
   > Jenkins (2020a, 20120b) has identified several strategies for maintaining employee motivation.
 
-##### Reference list
+#### Reference list
 
 Arrange works by the same author by year of publication, with the earliest year first. If the books have been published in the same year, put a letter after the year of each work, i.e. an ‘a’ after the year of the first book, then a ‘b’ after the year of the second book, and so on. For example: (2020a), (2020b).
 
@@ -611,9 +580,7 @@ Arrange works by the same author by year of publication, with the earliest year 
 
 ###### start-subtype-content
 
-#### Book chapter / edited book
-
-##### In-text reference
+#### In-text reference
 
 When using a book chapter in an in-text reference, use the author of the chapter’s details and not the book editor’s details. Editor details are included in the reference list.
 
@@ -628,7 +595,7 @@ If you use an edited book where the chapters have no identified authors, give th
   > ‘In the past decade smart technology, including networking and big data have given ways to organizations to expand their horizons’ (Sahai et al. 2021:102).
 
 
-##### Reference list
+#### Reference list
 
 **Book chapter in an edited book**
 
@@ -669,9 +636,7 @@ For books compiled by editors, add (ed) for a single editor and (eds) for two or
 
 ###### start-subtype-content
 
-#### E-book
-
-##### In-text reference
+#### In-text reference
 
 **Paraphrases**
 
@@ -690,7 +655,7 @@ The first example below comes from an e-book that has a page number, i.e. 35. Th
   > Shann (1948) argues in the opening paragraphs of Chapter 1 that 'neither legal restrictions nor isolation made the "settlers from convicts" better able to read the riddle of agriculture in a climate fruitful at times but fatally capricious'.
 
 
-##### Reference list
+#### Reference list
 
 After publisher name, include the DOI (Digital object identifier) in lower case, followed by a full stop, if e-book has one. You will often find this within the inside of the cover page. No need to include place of publication if you include a DOI. If there is no DOI, include place of publication (city) instead. As books are published in editions, you do not need to include the date you accessed it online.
 
@@ -717,9 +682,7 @@ After publisher name, include the DOI (Digital object identifier) in lower case,
 
 ###### start-subtype-content
 
-#### Encyclopedia or dictionary
-
-##### In-text reference
+#### In-text reference
 
 **Encyclopedia or dictionary entry without an author**
 
@@ -743,7 +706,7 @@ If there is no author, cite the encyclopedia or dictionary title and the year. I
 
   > ‘Philosophical conversations about determinism can be traced back through history as the question of whether human existence is planned or random and have perennially captured the imagination of thoughtful people’ (Baird 2018:890).
 
-##### Reference list
+#### Reference list
 
 Encyclopedia or dictionary entries without an author do not need to be included in the reference list.
 
@@ -771,11 +734,9 @@ Include the name of the publisher, followed by the Digital Object Identifier (DO
 
 ###### start-subtype-content
 
-#### Brochure, pamphlet or exhibition catalogue
+#### Brochure or pamphlet
 
-##### Brochure or pamphlet
-
-##### In-text reference
+#### In-text reference
 
 If there is no author, cite the publication title and the year. Italicise the publication title.
 
@@ -793,7 +754,7 @@ Provide page number for quotes only when available in the original document.
 
   > Regarding paediatric ultrasound, the Specialist Imaging For Women Paediatrics Services (c. 2021) offers ‘neonatal hip ultrasound – screening for developmental hip dysplasia – up to 6 months of age’.
 
-##### Reference list
+#### Reference list
 
 As details will vary for brochures and pamphlets, try to extract as much information as you can about authorship and publication information etc.
 
@@ -811,9 +772,9 @@ If there is no author, the publication title should be listed first. Italicise t
 
   > Specialist Imaging For Women (c.2021) *Paediatrics Services* [pamphlet], Specialist Imaging For Women, Ivanhoe, VIC.
 
-##### Exhibition catalogue
+#### Exhibition catalogue
 
-##### In-text reference
+#### In-text reference
 
 **Paraphrase**
 
@@ -823,7 +784,7 @@ If there is no author, the publication title should be listed first. Italicise t
 
   > ‘The art of costume seems to have been intrinsically linked to Chanel’s career path’ (NGV International:259).
 
-##### Reference list
+#### Reference list
 
 As details will vary for exhibition catalogues, try to extract as much information as you can about authorship and publication information, etc.
 
@@ -862,9 +823,7 @@ If there is no author, list the gallery/museum name first. Italicise the publica
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### General reference rules for journal articles
-
-##### In-text reference
+#### In-text reference
 
 - Include the author’s family name, followed by publication year.
 
@@ -872,7 +831,7 @@ If there is no author, list the gallery/museum name first. Italicise the publica
 
 - If no publication year is supplied, write n.d. (no date) instead of the year of publication or c. (about or approximately)
 
-##### Reference list
+#### Reference list
 
 - List all authors in the order in which they appear in the article. Use the initials of each authors' given name(s).
 
@@ -902,9 +861,7 @@ If there is no author, list the gallery/museum name first. Italicise the publica
 
 ###### start-subtype-content
 
-#### Journal article with single author
-
-##### In-text reference
+#### In-text reference
 
 **Paraphrase**
 
@@ -915,7 +872,7 @@ If there is no author, list the gallery/museum name first. Italicise the publica
   > One of the themes of their Early Childhood Education and Care (ECEC) program, according to Papadopoulou (2020:686), is ‘fostering in our students a strong sense of professional identity and empowering them to develop and even redefine their practice’.
 
 
-##### Reference list
+#### Reference list
 
 **Rule**
 
@@ -937,9 +894,7 @@ If there is no author, list the gallery/museum name first. Italicise the publica
 
 ###### start-subtype-content
 
-#### Journal article with two authors
-
-##### In-text reference
+#### In-text reference
 
 For two authors, use and to separate them. This applies to both referring to the authors in the sentence and references in parentheses at the end of the sentence.
 
@@ -951,7 +906,7 @@ For two authors, use and to separate them. This applies to both referring to the
 
   > ‘In the field of design, novelty is widely acknowledged as a key parameter for creativity assessments’ (Fiorineschi and Rotini 2021:590).
 
-##### Reference list
+#### Reference list
 
 For two authors, use and to separate them.
 
@@ -975,9 +930,7 @@ For two authors, use and to separate them.
 
 ###### start-subtype-content
 
-#### Journal article with three or more authors
-
-##### In-text reference
+#### In-text reference
 
 Shorten the in-text citation to the first author followed by et al. (Latin for ‘and others’) for articles written by three or more authors. All authors are included in the reference list.
 
@@ -993,7 +946,7 @@ Shorten the in-text citation to the first author followed by et al. (Latin for �
 
   > Bichler et al. (2021:1829) assert that ‘different polymer architectures behave differently regarding their dynamics’.
 
-##### Reference list
+#### Reference list
 
 All authors’ names are included in the reference list. Use and before the last author.
 
@@ -1018,9 +971,7 @@ All authors’ names are included in the reference list. Use and before the last
 
 ###### start-subtype-content
 
-#### Journal article with no authors
-
-##### In-text reference
+#### In-text reference
 
 In place of the author, cite the article title and the publication year. Put article title in single inverted commas (quotation marks). If quoting, include a colon and page number after the year.
 
@@ -1040,7 +991,7 @@ The examples below come from a source that does not have page numbers:
 
   > ‘Giant cell arteritis: one size does not fit all’ (2021) explains in the opening paragraph that ‘…there is only one targeted drug approved for the disease, despite decades of research…’
 
-##### Reference list
+#### Reference list
 
 **Rule**
 
@@ -1061,9 +1012,7 @@ The examples below come from a source that does not have page numbers:
 
 ###### start-subtype-content
 
-#### E-journal article
-
-##### In-text reference
+#### In-text reference
 
 For online journal articles sourced from Library databases or websites.
 
@@ -1084,7 +1033,7 @@ The first example below comes from a source that has a page number, i.e. 163. Th
   > ‘The association between SSB [sugar-sweetened beverages] consumption and both endometrial and ovarian cancer risk tended to be positive but did not reach statistically significant levels’ (Llaha et al. 2021).
 
 
-##### Reference list
+#### Reference list
 
 For online journal articles sourced from Library databases or websites.
 
@@ -1133,9 +1082,7 @@ If there is no DOI, add the database name (if sourced from library database) or 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### Print newspaper articles
-
-##### In-text reference
+#### In-text reference
 
 **Paraphrase**
 
@@ -1145,7 +1092,7 @@ If there is no DOI, add the database name (if sourced from library database) or 
 
   > ‘The pay of bank chief executives could be linked to climate change targets in the future’ (Yeates 2021:24).
 
-##### Reference list
+#### Reference list
 
 For a newspaper article with an author, enclose the title of the article in single inverted commas (quotation marks). Italicise the newspaper title. Include the full publication date in brackets after author (e.g. 6 December 2021).
 
@@ -1171,9 +1118,7 @@ For a newspaper article with an author, enclose the title of the article in sing
 
 ###### start-subtype-content
 
-#### Print newspaper articles with no author
-
-##### In-text reference
+#### In-text reference
 
 If there is no author, cite the newspaper title and the full publication date (e.g. 2 October 2016). Italicise the newspaper title. If quoting, include a colon and page number after the year.
 
@@ -1185,7 +1130,7 @@ If there is no author, cite the newspaper title and the full publication date (e
 
   > 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
 
-##### Reference list
+#### Reference list
 
 **Rule**
 
@@ -1207,9 +1152,7 @@ If there is no author, cite the newspaper title and the full publication date (e
 
 ###### start-subtype-content
 
-#### Newspaper article from a web page (HTML format)
-
-##### In-text reference
+#### In-text reference
 
 **Note:** Newspaper articles in HTML format appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in PDF format with full-page format/imaging, please treat it in the same way as a print newspaper article.
 
@@ -1229,7 +1172,7 @@ The examples below come from sources that do not have page numbers:
 
   > Wright and Duke (2021) begin their article on housing affordability by reporting the Reserve Bank of Australia’s statement that ‘the lift in prices had delivered a financial boost to people already with a home, but the market could take on a life of its own if potential buyers took on even more debt to buy a property’.
 
-##### Reference list
+#### Reference list
 
 **Note:** Newspaper articles in HTML format appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in PDF format with full-page format/imaging, please reference it in the same way as a print newspaper article.
 
@@ -1255,9 +1198,7 @@ Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop,
 
 ###### start-subtype-content
 
-#### Newspaper article from a web page (HTML format) with no author
-
-##### In-text reference
+#### In-text reference
 
 If the article is in HTML format and there is no author, cite the newspaper title and the full publication date (e.g. 2 October 2016). Italicise the newspaper title. If quoting, include a colon and page number after the year.
 
@@ -1275,7 +1216,7 @@ The example below comes from a source that has a page number, i.e. 25:
 
   > 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
 
-##### Reference list
+#### Reference list
 
 **Note:** Newspaper articles in HTML format (with or without an author) appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in PDF format with full-page format/imaging and has no author, please reference it in the same way as a print newspaper article with no author.
 
@@ -1315,9 +1256,7 @@ Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop,
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### Blog or blog post
-
-##### In-text reference
+#### In-text reference
 
 If the blog post does not have a person identified as the author, use name of blog instead (e.g. Welcome to Country). Sometimes, an organisation’s name is the author.
 
@@ -1331,7 +1270,7 @@ If the blog post does not have a person identified as the author, use name of bl
 
   > In a post introducing the delights of Australian native food, Welcome to Country (2021) notes that if you have not ‘explored Australian native Bush Food you are missing out on some incredible flavours, textures and nutritional benefits’.
 
-##### Reference list
+#### Reference list
 
 If blog post does not have a person author, use name of blog instead (e.g. Welcome to Country). Sometimes, an organisation is the author.
 For blog post, enclose the publication day, month and year in brackets after the author. If there is no author, enclose the publication day, month and year in brackets after blog name.
@@ -1366,9 +1305,7 @@ After the blog’s name, add accessed date (e.g. accessed 2 November 2021) follo
 
 ###### start-subtype-content
 
-#### Social media post
-
-##### In-text reference
+#### In-text reference
 
 Cite the author’s name (the poster) and the year of publication as you would for other reference types. Make sure, however, the reader knows that it is a social media post by mentioning the post type in the sentence.
 
@@ -1384,7 +1321,7 @@ For social media accounts that are not publicly accessible (e.g. a private Faceb
 
   > In Greta Thunberg’s Instagram post, she asserts that ‘we can no longer let the people in power decide what hope is. Hope is not passive’ (Thunberg 2021b).
 
-##### Reference list
+#### Reference list
 
 Enclose the full publication date (e.g. 15 November 2021) in parentheses after the author or page name.
 
@@ -1435,9 +1372,7 @@ After post’s page name, add accessed date (e.g. accessed 13 December 2021) fol
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### General rules for websites and webpage documents
-
-##### In-text reference
+#### In-text reference
 
 - An entire website is only cited if you are referring to its content or purpose in general, or if you cannot link the information to a particular webpage.
 
@@ -1449,7 +1384,7 @@ After post’s page name, add accessed date (e.g. accessed 13 December 2021) fol
 
 - If the author’s name is an organisation, you can use the shortened name form for your in-text citations if the organisation uses it regularly, e.g. ‘WHO’ not ‘World Health Organization’. This saves you space.
 
-##### Reference list
+#### Reference list
 
 - When referring to a website as a general resource in your assignment, you should link to that website homepage in the reference list. However, if you cite specific content from a particular webpage on the website, you need to identify the specific webpage in your reference list.
 
@@ -1483,9 +1418,7 @@ After post’s page name, add accessed date (e.g. accessed 13 December 2021) fol
 
 ###### start-subtype-content
 
-#### Website / webpage
-
-##### In-text reference
+#### In-text reference
 
 **Paraphrases**
 
@@ -1503,7 +1436,7 @@ The examples below come from sources that do not have page numbers:
 
   > Heath (2021) explains that artificial intelligence is seen as being ‘tied to a system's ability to adapt and improvise in a new environment, to generalise its knowledge and apply it to unfamiliar scenarios’.
 
-##### Reference list
+#### Reference list
 
 **Rule**
 
@@ -1527,9 +1460,7 @@ The examples below come from sources that do not have page numbers:
 
 ###### start-subtype-content
 
-#### Webpage document (PDF)
-
-##### In-text reference
+#### In-text reference
 
 If a downloadable webpage document (e.g. PDF) does not have an author name (individual or organisation), use the title of the document in italics, followed by year of publication.
 
@@ -1545,7 +1476,7 @@ The example below comes from a source that has a page number, i.e. 4:
 
   > The Department of Education and Training, Victoria (2020:4) states that ‘when teachers work together to improve their practice, students learn more’.
 
-##### Reference list
+#### Reference list
 
 **Rule**
 
@@ -1579,9 +1510,7 @@ The example below comes from a source that has a page number, i.e. 4:
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### General rules for reports, data sets and standards
-
-##### In-text reference
+#### In-text reference
 
 - As details will vary for government or organisation reports, try to extract as much information as you can about authorship and publication information etc.
 
@@ -1603,9 +1532,7 @@ The example below comes from a source that has a page number, i.e. 4:
 
 ###### start-subtype-content
 
-#### Government or organisation report
-
-##### In-text reference
+#### In-text reference
 
 Government reports may include departmental reports, reports of commissions of inquiry, committees of review and committees of parliament.
 
@@ -1617,7 +1544,7 @@ Government reports may include departmental reports, reports of commissions of i
 
   > This 'review provides an opportunity to reflect on the lessons that can be learned from the first five years of the TEQSA Act’s operation' (Department of Education and Training 2016).
 
-##### Reference list
+#### Reference list
 
 **Government reports**
 
@@ -1662,9 +1589,7 @@ Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop,
 
 ###### start-subtype-content
 
-#### Company, industry or market reports
-
-##### In-text reference
+#### In-text reference
 
 **Company, industry or market report from a library database**
 
@@ -1690,7 +1615,7 @@ Where there is no author, use the name of the company or organisation responsibl
 
   > The company claims that it aims to ‘continuously improve waste performance with all our divisions striving to divert waste from landfill’ (Wesfarmers Limited 2021).
 
-##### Reference list
+#### Reference list
 
 **Company, industry or market report from a Library database**
 
@@ -1736,9 +1661,7 @@ Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop,
 
 ###### start-subtype-content
 
-#### Australian Bureau of Statistics report
-
-##### In-text reference
+#### In-text reference
 
 For in-text citations in parentheses, use the commonly used abbreviated form ABS rather than the full name of the Australian Bureau of Statistics. The full name is provided in the reference list.
 
@@ -1751,7 +1674,7 @@ For in-text citations in parentheses, use the commonly used abbreviated form ABS
   > ‘For both males and females, Australia has a higher life expectancy than similar countries such as New Zealand, the United Kingdom and the United States of America’ (ABS 2021).
 
 
-##### Reference list
+#### Reference list
 
 For author details, use the short form ABS in the author position, followed by the full name Australian Bureau of Statistics in parentheses.  
 
@@ -1783,9 +1706,7 @@ For an ABS report with full-page format/imaging (PDF), give the URL for the page
 
 ###### start-subtype-content
 
-#### Data set
-
-##### In-text reference
+#### In-text reference
 
 Details will vary for data sets, so try to extract as much information as you can about authorship and publication information, etc.
 
@@ -1799,7 +1720,7 @@ If available, include a reference point (for example: figure number or table num
 
   > When you copy or adapt specific data sets in the form of tables, charts or figures you must acknowledge them both in your writing and with a caption below the figure. Refer to the sections on table and figures for more information.
 
-##### Reference list
+#### Reference list
 
 Details will vary for data sets, so try to extract as much information as you can about authorship and publication.
 
@@ -1829,9 +1750,7 @@ Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop,
 
 ###### start-subtype-content
 
-#### Standard
-
-##### In-text reference
+#### In-text reference
 
 **Paraphrase**
 
@@ -1841,7 +1760,7 @@ Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop,
 
   > 'For single or upper storey construction, the spacing of bracing elements, measured at right angles to elements, shall not exceed 9000 mm' (Standards Australia 2010:11).
 
-##### Reference list
+#### Reference list
 
 Italicise the standard’s title.  
 
@@ -1889,9 +1808,7 @@ If sourced from a website, add the accessed date (e.g. accessed 13 December 2021
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### Film / movie or television program
-
-##### In-text reference
+#### In-text reference
 
 Cite the title of the film or television program in italics, followed by the date of the production in parentheses.
 
@@ -1907,7 +1824,7 @@ The title can be abbreviated after the first mention as long as the meaning rema
 
   > David Gulpilil describes the documentary of his life in the opening scenes by simply stating, ‘This is my story of my story’ (My name is Gulpilil 2017).
 
-##### Reference list
+#### Reference list
 
 **Television program**
 
@@ -1957,9 +1874,7 @@ If applicable, include the italicised series title after the multimedia format, 
 
 ###### start-subtype-content
 
-#### Podcast
-
-##### In-text reference
+#### In-text reference
 
 If the author(s) of the podcast is unknown, reference the title of the podcast and the year of the broadcast.
 
@@ -1975,7 +1890,7 @@ Italicise the podcast title.
 
   > Bessell (2020) points out that despite the Covid-19 pandemic having driven governments to implement ‘previously unseen welfare interventions … social and economic inequality is deepening around the globe’.  
 
-##### Reference list
+#### Reference list
 
 Include the name/s of podcast host/s, followed by the producer’s name, in the author position (as the authors).
 
@@ -2009,9 +1924,7 @@ After the accessed date, put a full stop, a space then the URL. No full stop aft
 
 ###### start-subtype-content
 
-#### YouTube video and other online streaming videos
-
-##### In-text reference
+#### In-text reference
 
 Cite the video using the author’s name (individual or corporate) and the year of the video.
 
@@ -2028,7 +1941,7 @@ If the author is unknown, reference the title of the video in italics and the ye
   > Nabben (2021) points out that there is still much ‘catching up [to do] in terms of the law … around blockchains considering how fast the space is evolving’.
 
 
-##### Reference list
+#### Reference list
 
 Includes films and programs on streaming platforms, YouTube videos, and other forms of online video.
 
@@ -2068,9 +1981,7 @@ After the accessed date, put a full stop, a space then the URL. No full stop aft
 
 ###### start-subtype-content
 
-#### Radio
-
-##### In-text reference
+#### In-text reference
 
 **Paraphrase**
 
@@ -2080,7 +1991,7 @@ After the accessed date, put a full stop, a space then the URL. No full stop aft
 
   > On an episode of The world today, Smail (2021) reported on the need for an ‘overhaul of the existing the tax and welfare system ... to boost female workforce participation’.
 
-##### Reference list
+#### Reference list
 
 Include the name of the presenter in the author position (as the author).
 
@@ -2110,9 +2021,7 @@ Provide the publication date in day, month and year format.
 
 ###### start-subtype-content
 
-#### Musical composition and sound recording
-
-##### In-text reference
+#### In-text reference
 
 Place titles for songs or short pieces in single quotation marks.
 
@@ -2130,7 +2039,7 @@ When you quote someone’s lyrics, cite the song name, the author and the year o
 
   > The psychedelic imagery of ‘tangerine trees and marmalade skies [and] cellophane flowers of yellow and green’ represents … (The Beatles, ‘Lucy in the sky with diamonds’ 1967).
 
-##### Reference list
+#### Reference list
 
 Begin with the name of the creator/artist/band and the year of the musical composition or sound recording.
 
@@ -2186,8 +2095,6 @@ For an online musical composition or sound recording, include the access date in
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### General rules for artworks
-
 RMIT Harvard includes the following within the definition of an artwork:
 
 - drawings, paintings, prints, sculpture and ceramics
@@ -2222,8 +2129,6 @@ Note: Your lecturer may have specific requirements for referencing artworks. Any
 ### Captions
 
 ###### start-subtype-content
-
-#### Captions
 
 Captions are used to provide a description of the artworks you use. These are usually placed below the illustration.
 
@@ -2283,9 +2188,7 @@ If the image was on a website include the URL, otherwise provide the in-text ref
 
 ###### start-subtype-content
 
-#### Artworks
-
-##### In-text reference
+#### In-text reference
 
 Italicise the titles of individual artworks, keeping any capitalisation, numbering or punctuation as specified by the artist.
 
@@ -2301,7 +2204,7 @@ If you use an image, refer to the figure number when you discuss the artwork.
 
   > As illustrated in Figure 4, the painting *Swanston Street from the Bridge* (Burn 1861) depicts Melbourne’s growth into a city of domes and spires.
 
-##### Reference list
+#### Reference list
 
 - Your own unpublished work or artworks discussed without an image are not included in the reference list.
 - Artworks viewed in person, such as at art galleries, museums and public spaces, are cited to acknowledge their influence on the development of your own ideas or work.
@@ -2332,9 +2235,7 @@ If you use an image, refer to the figure number when you discuss the artwork.
 
 ###### start-subtype-content
 
-#### Maps
-
-##### In-text reference
+#### In-text reference
 
 Maps taken from an online source can include:
 
@@ -2360,7 +2261,7 @@ Refer to a figure by its assigned number, not as the figure above or below or on
 
   > Figure 8: *Plenty Road Bundoora 3083* by VicPlan, 2020, web map.
 
-##### In-text reference
+#### In-text reference
 
   > The map, *Melbourne and its suburbs: map 1* [digitised map] shows . . . (Kearney 1855).
 
@@ -2370,7 +2271,7 @@ Refer to a figure by its assigned number, not as the figure above or below or on
 
   > As shown in Figure 8, . . . (VicPlan 2020).
 
-##### Reference list
+#### Reference list
 
 Add map title in italics.
 
@@ -2398,8 +2299,6 @@ Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop,
 
 ###### start-subtype-content
 
-#### Tables and diagrams
-
 When citing tables, graphs or other diagrams in the text of your work, you need to acknowledge them in two places:  
 
 - within the written body of your paper, as you would for a normal in-text reference
@@ -2413,7 +2312,7 @@ Refer to a table or figure by its assigned number, not as the table or figure ab
 
 For tables, graphs and diagrams using published content, acknowledge the source below the table/figure number and title, on a new line.
 
-##### Tables (your own work)
+#### Tables (your own work)
 
 When the information is your own work based on data you have collected independently, for example, from your own research or experiments, label your table with a number and give a title to the work. Use standard font (no italics).
 
@@ -2421,7 +2320,7 @@ When the information is your own work based on data you have collected independe
 
   > Table 1: Comparison of results from groups A, B and C
 
-##### Tables (adapted from published material)
+#### Tables (adapted from published material)
 
 If you are using information gathered from published information but are presenting it in a table or figure that you have created, acknowledge the source as you would for paraphrased information in a caption.
 
@@ -2440,7 +2339,7 @@ When the table includes data from more than one source, you must cite all source
   > Table 3: Fluctuation in imports 2010 to 2020
   Source: adapted from Mitchelton 2018; ABS 2019; DFAT 2020
 
-##### Tables (reproduced from published material)
+#### Tables (reproduced from published material)
 
 If you are using a table or graph that has been published elsewhere, acknowledge the source and provide the same details you would for quoted information.
 
@@ -2457,7 +2356,7 @@ If you are using a table or graph that has been published elsewhere, acknowledge
   > Figure 10: Buy Now, Pay Later Payments in Australia
   Source: Fisher, Holland and West 2021:61
 
-##### In-text reference
+#### In-text reference
 
   > Bretag et al. (2020) identified a number of factors that contributed to plagiarism as listed in Table 2.
 
@@ -2465,7 +2364,7 @@ If you are using a table or graph that has been published elsewhere, acknowledge
 
   > Table 4 highlights current prison demographics in Australia, based on data compiled by AIHW (2018).
 
-##### Reference list
+#### Reference list
 
 Reference tables and diagrams in accordance with the source they appear in. For example, if the table or diagram appears in a book or journal article, you reference the book or journal article. Please refer to the relevant section(s) within this guide for how to reference the various sources.
 
@@ -2499,8 +2398,6 @@ Reference tables and diagrams in accordance with the source they appear in. For 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### Case study
-
 Case studies are not a publication or reference type. They are a type of writing found in various sources such as books, journal articles, websites, etc. Reference the case study according to the rules for the source in which it is found.
 
 ###### end-subtype-content
@@ -2515,9 +2412,7 @@ Case studies are not a publication or reference type. They are a type of writing
 
 ###### start-subtype-content
 
-#### Conference paper / presentation
-
-##### In-text reference
+#### In-text reference
 Generally, conference papers are published within conference proceedings, either online or in print. In most cases, a conference paper (rather than the conference proceedings) will be used as a reference.
 
 **Paraphrase**
@@ -2528,7 +2423,7 @@ Generally, conference papers are published within conference proceedings, either
 
   > 'Students should engage in critical self-reflection regarding their ability to apply the theory they study to their future employment' (Rasmussen and Ngwenya 2021:76).
 
-##### Reference list
+#### Reference list
 
 **Conference paper / presentation**
 
@@ -2572,9 +2467,7 @@ Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop,
 
 ###### start-subtype-content
 
-#### Lecture notes or course material
-
-##### In-text reference
+#### In-text reference
 Materials from your course may include lecture notes, PowerPoint slides or presentations and micro-credentials. Where possible, try to get the information from a published source.
 
 Note: Some courses and lecturers might not accept lecture materials as a reference in assignments.
@@ -2589,7 +2482,7 @@ Note: Some courses and lecturers might not accept lecture materials as a referen
 
   > The emphasis in week 3’s lecture on the 'cultural and social background of employees as an important step in managing workplace diversity' (Tran 2022) led me to reflect on my own experiences in human resource management.
 
-##### Reference list
+#### Reference list
 
 Materials from your course may include lecture notes, PowerPoint slides and credentials. Where possible, try to use information from published material.
 
@@ -2619,9 +2512,7 @@ For online course material, add the course code or course name and the Universit
 
 ###### start-subtype-content
 
-#### Legal material
-
-##### In-text reference
+#### In-text reference
 Take care to give accurate and complete details about legislation and legal cases.
 
 When discussing government policies and services that require you to refer to the relevant law(s), the title of legislation is generally placed first, followed by the relevant subsections.
@@ -2667,7 +2558,7 @@ With quotes, include the location of the quote using a page number. To specify a
   > It was identified that ‘…’ (*Beasley v Francis* (2008) 237 CLR 1 at 72-8).
 
 
-##### Reference list
+#### Reference list
 
 The title of a legal case, legislation or patent should be italicised.
 
@@ -2695,9 +2586,7 @@ For a legal case, include the year of the case, the volume number of the report 
 
 ###### start-subtype-content
 
-#### Media release
-
-##### In-text reference
+#### In-text reference
 
 **Paraphrases**
 
@@ -2709,7 +2598,7 @@ For a legal case, include the year of the case, the volume number of the report 
 
   > In a recent media statement, the Minister for Housing acknowledged that ‘young people leaving state care are at much higher risk of homelessness and unemployment’ (Office of the Premier of Victoria, 2021).
 
-##### Reference list
+#### Reference list
 
 Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
@@ -2735,9 +2624,7 @@ Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop,
 
 ###### start-subtype-content
 
-#### Student’s own work (previously submitted)
-
-##### In-text reference
+#### In-text reference
 
 You should include scholarly sources in your assignments to adhere to best practice in academic integrity. Citing yourself as an authority on your own opinion should be avoided.
 
@@ -2773,7 +2660,7 @@ For a direct quote, place the quote between single quotation marks and also prov
 
   > 'Risk taking behaviours align with certain personality traits or disorders' (Smith 2021:13).
 
-##### Reference list
+#### Reference list
 
 You should include scholarly sources in your assignments to adhere to best practice in academic integrity. Citing yourself as an authority on your own opinion should be avoided.
 
@@ -2803,9 +2690,7 @@ If you cite or quote your previous work, treat yourself as the author and your o
 
 ###### start-subtype-content
 
-#### Thesis
-
-##### In-text reference
+#### In-text reference
 
 **Paraphrases**
 
@@ -2817,7 +2702,7 @@ If you cite or quote your previous work, treat yourself as the author and your o
 
   > Khoo (2018:44) argues that 'the idea of service design challenges the aesthetics of interiors due to its focus on functionality and efficiency rather than creating a liveable and appealing environment’.
 
-##### Reference list
+#### Reference list
 
 **Thesis viewed online on an institutional repository**
 
@@ -2863,8 +2748,6 @@ Add the abbreviated name of the award (for example, PhD thesis) in square bracke
 
 ###### start-subtype-content
 
-#### Interview
-
 Face-to-face interviews that you conduct yourself are considered personal communication and are, therefore, not included in the reference list.
 
 Published interviews follow the same rules as the source that the published interview appears in. For example, if the interview appears in a television program or podcast, you reference the television program or podcast. Please refer to the relevant section(s) within this guide for how to reference the various sources.
@@ -2887,9 +2770,7 @@ The person cited in the in-text reference is treated as the author since they ha
 
 ###### start-subtype-content
 
-#### Personal communication
-
-##### In-text reference
+#### In-text reference
 
 Personal communication, such as face-to-face interviews, conversations, telephone calls, letters or emails, is only cited an in-text reference.
 
@@ -2907,7 +2788,7 @@ Personal communication is not published and therefore, unavailable for verificat
 
   > Rowlands (personal communication, 20 February 2022) stated …
 
-##### Reference list
+#### Reference list
 
   Since personal communication is not published, it is not included in reference lists.
 
