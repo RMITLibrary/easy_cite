@@ -54,3 +54,7 @@ blockquote{
 .notabutton:focus {
       color: #E61E2A;
   }
+.printtitle {
+	display: none;
+	visibility: hidden;
+}

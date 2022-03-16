@@ -13,7 +13,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 	<!-- Easy Cite stylesheet-->
-    <link href="css/eaycite.css" rel="stylesheet">
+    <link href="css/easycite.css" rel="stylesheet">
 </head>
 <body>
 <!-- Responsive navbar-->
@@ -54,19 +54,27 @@ $whichstyleguide = $params['styleguide'];
 //get the correct markdown content
 if ($whichstyleguide == "styleguide-0"){
 	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
+	$thestyleguidetitle = "RMIT Harvard";
 }	else if ($whichstyleguide == "styleguide-1"){
 	$thestyleguide = file_get_contents('markdown/aglc4.md');
+	$thestyleguidetitle = "AGLC4";
 }	else if ($whichstyleguide == "styleguide-2"){
 	$thestyleguide = file_get_contents('markdown/apa7thed.md');
+	$thestyleguidetitle = "APA 7<sup>th</sup> Edition";
 }	else if ($whichstyleguide == "styleguide-3"){
 	$thestyleguide = file_get_contents('markdown/chicago.md');
+	$thestyleguidetitle = "Chicago";
 }	else if ($whichstyleguide == "styleguide-4"){
 	$thestyleguide = file_get_contents('markdown/ieee.md');
+	$thestyleguidetitle = "IEEE";
 }	else if ($whichstyleguide == "styleguide-5"){
 	$thestyleguide = file_get_contents('markdown/vancouver.md');
+	$thestyleguidetitle = "Vancouver";
 }	else {
 	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
+	$thestyleguidetitle = "RMIT Harvard";
 }
+	//echo($thestyleguidetitle);
 // get the markdown content - which populates the page with content from a particular style guide	
 //$thestyleguide = file_get_contents('rmitharvard.md');
 $mylist = $parsedown->text($thestyleguide);
@@ -86,7 +94,7 @@ $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3">
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<button class="nav-link myleftpills guideprint" id="v-pills-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
+$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link myleftpills guideprint" id="v-pills-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
 // ACCORDIONS
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 col-12"><div id="printable-guide"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
 $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer partprint" id="printthistype" type="button" onclick="printThisGuide(this);">Print this part of the style guide (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
@@ -95,7 +103,7 @@ $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane f
 </svg></button></div>', $mylist);	
 // ACCORDION ITEMS
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
-$mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item">', $mylist);
+$mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item" id="accordion-item-zz">', $mylist);
 $mylist = preg_replace("/<h3>/s", '<h3 class="accordion-header" id="heading-zz"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button>
     </h3>', $mylist);		
@@ -205,6 +213,12 @@ foreach($matches16[0] as $titles16){
 	$mylist = preg_replace("/id=\"accordionExample-zz\"/", "id=\"accordionExample-$counter16\"", $mylist, 1);
 	++$counter16;
 }
+$counter110 = 0;
+preg_match_all("/id=\"accordion-item-zz\"/", $mylist, $matches110 );
+foreach($matches110[0] as $titles110){
+	$mylist = preg_replace("/id=\"accordion-item-zz\"/", "id=\"accordion-item-$counter110\"", $mylist, 1);
+	++$counter110;
+}	
 $counter11 = 0;
 preg_match_all("/id=\"heading-zz\"/", $mylist, $matches11 );
 foreach($matches11[0] as $titles11){
@@ -406,12 +420,14 @@ const acclist = document.getElementsByClassName("accordion");
 function printThisGuide(elem) {
 	// get the button class name attribute
 	var thisbutton = elem.className;
+	// create variable to hold the correct style guide title
+	var thistitle = document.getElementById("print-title").id;
 	// create variable to hold the correct div id for printing
 	var thisdiv;
 	console.log(thisbutton);
 	if (thisbutton.includes("sectionprint")){ 
 		// if this is a sectionprint button, find the great-grandparent node to print the section only
-		var thisdiv = elem.parentNode.parentNode.parentNode.id;
+		var thisdiv = elem.parentNode.parentNode.parentNode.parentNode.id;
 	} else if (thisbutton.includes("partprint")){
 		// if this is a partprint button, find the grandparent node to print the part
 		var thisdiv = elem.parentNode.parentNode.id;
@@ -420,6 +436,8 @@ function printThisGuide(elem) {
 		var thisdiv = document.getElementById("printable-guide").id;
 	}
 	console.log(thisdiv);
+	//put the print title into a new variable
+	var printTitle = document.getElementById(thistitle).innerHTML;
 	//put the HTML contents of the div for printing into a new variable
     var divContents = document.getElementById(thisdiv).innerHTML;
 	//open a window, add contents
@@ -428,7 +446,8 @@ function printThisGuide(elem) {
 	// link to the external stylesheet - change the stylesheet CSS file to change the appearance of the HTML
 	a.document.write('<link href="css/printstyles.css" rel="stylesheet">');
 	a.document.write('</head>');
-    a.document.write('<body> <h1>Easy Cite style guides resource</h1><h2>RMIT Library</h2>');
+    a.document.write('<body> <h1>Easy Cite style guides resource: RMIT Library</h1>');
+	a.document.write('<h2>' + printTitle + '</h2>');
     a.document.write('<div class="printsectionguide">'+ divContents + '</div>');
     a.document.write('</body></html>');
     a.document.close();
@@ -440,7 +459,7 @@ function printThisGuide(elem) {
         	clearInterval(interval);
     	}
     a.print();
-	}, 300); 
+	}, 500); 
 }
 </script>
 </body>
