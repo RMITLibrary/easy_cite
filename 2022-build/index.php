@@ -294,22 +294,28 @@ if ($whichstyleguide == "styleguide-0"){
 }	else {
 	$mylist = preg_replace("/id=\"nav-0-tab\" class=\"nav-link\"/", 'id="nav-0-tab" class="nav-link active"', $mylist, 1); 
 }
-
+	
 // ISSUES TO BE RESOLVED / Development to-do list
-// change the code from PHP to Javascript to show first accordion item in an accordion maybe?? thenwon't need the comment in  markdown
+// change the code from PHP to Javascript to show first accordion item in an accordion then won't need the comment in  markdown
+// DONE!! added an id attribute to the accordion-item div for printing and for first accordion discovery
 // accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
 // DONE!! PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide
 // DONE!! Format print window content and hide buttons - make an external style sheet for this
 // Improve the print stylesheet with RMIT branding etc.
+// Stop print content from cropping when scale is more than 100% - CSS issue???
 // create a FOOTER area with links to feedback form, learning lab, other...
-// Top of page INSTRUCTIONS - show/hide with cookies/session data
+// Top of page INSTRUCTIONS - show/hide with cookies/session data, print option.
 // STYLE: CSS for Bootstrap - RMIT branding
+// DONE!! move inline styles to external CSS file - easycite.css
 // need to strip all COMMENTS out of $mylist after all replaces are done	
 // DONE!! focus the correct tab depending on the query string.
 // DONE!! need to close the first accordion for the pill if accessed via hash string
 // DONE!! need to highlight the first accordion button/item in each accordion because we removed all the highlights - remove "collapsed" from the first accordion button
 // DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
 // DONE!! solve the praent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
+// DONE!! add correct title and accordion headings to print version. Hide print title from web page view.
+// DONE!! fixed accessibility issues: heading hierarchy (removed H4 heading from accordion body) 
+// DONE!! Harvard example reference list was messing up the accordion width due to a URL that wasn't wrapping properly - not a proper fix. Not sure why???
 
 //OUTPUT THE PARSED CONTENT TO HTML
 echo($mylist);

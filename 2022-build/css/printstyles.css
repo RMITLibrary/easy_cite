@@ -8,8 +8,12 @@
 @page {
   	size: A4 portrait;
 	margin: 2cm 2cm 2cm 2cm;
-	@top-left-corner { content: "test "; }
-	@bottom-right { content: "Page " counter(page) " of " counter(pages); }
+	@top-left-corner { 
+		content: "test "; 
+	}
+	@bottom-right { 
+		content: "Page " counter(page) " of " counter(pages); 
+	}
 }
 @media print {
    article a {
@@ -23,6 +27,7 @@
 }
 body {
 	margin: 20px 30px 30px 40px;
+	display: block;
 }
 h1, h2, h3, h4, h5 {
   page-break-after: avoid !important;
@@ -31,6 +36,7 @@ h1 {
 	font-family: 'Museo500',Helvetica, Arial, 'sans-serif' !important;
 	font-size: 20px;
 	color: #E61E2A;
+	display: block;
 	string-set: doctitle content();
 }
 h2 {
@@ -61,6 +67,7 @@ p {
 	font-family: Helvetica, Arial, "sans-serif";
 	font-size: 12px;
 	page-break-inside: avoid;
+	display: block;
 }
 blockquote p {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
