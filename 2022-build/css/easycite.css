@@ -58,8 +58,13 @@ blockquote{
 	display: none;
 	visibility: hidden;
 }
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 600px) {
   .accordion {
-    min-width: 600px;
+    min-width: 500px;
+  }
+}
+@media screen and (min-width: 900px) {
+  .accordion {
+    min-width: 800px;
   }
 }
