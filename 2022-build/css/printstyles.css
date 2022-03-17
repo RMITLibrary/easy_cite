@@ -8,8 +8,8 @@
 @page {
   	size: A4 portrait;
 	margin: 2cm;
-	@top-left-corner { 
-		content: "test "; 
+	@top-left { 
+		content: "Easy Cite referencing resource"; 
 	}
 	@bottom-right { 
 		content: "Page " counter(page) " of " counter(pages); 
@@ -20,17 +20,13 @@
       font-weight: bolder;
       text-decoration: none;
    }
-
-   article a[href^=http]:after {
-      content:" <" attr(href) "> ";
-   }
+	h1, h2, h3, h4, h5 {
+  		page-break-after: avoid !important;
+	}
 }
 body {
 	margin: 20px 30px 30px 40px;
 	display: block;
-}
-h1, h2, h3, h4, h5 {
-  page-break-after: avoid !important;
 }
 h1 {
 	font-family: 'Museo500',Helvetica, Arial, 'sans-serif' !important;
@@ -38,30 +34,31 @@ h1 {
 	color: #E61E2A;
 	display: block;
 	string-set: doctitle content();
+	page-break-after: avoid !important;
 }
 h2 {
 	font-family: Helvetica, Arial, "sans-serif";
-	font-size: 18px;
+	font-size: 24px;
 	color: #000054;
+	page-break-after: avoid !important;
 }
 h3 {
 	font-family: Helvetica, Arial, "sans-serif";
 	font-size: 16px;
 	color: #000054;
-}
-h3.title:before {
-  counter-increment: chapternum;
-  content: counter(chapternum) ". ";
+	page-break-after: avoid !important;
 }
 h4 {
 	font-family: Helvetica, Arial, "sans-serif";
 	font-size: 14px;
 	color: #000054;
+	page-break-after: avoid !important;
 }
 h5 {
 	font-family: Helvetica, Arial, "sans-serif";
 	font-size: 13px;
 	color: #000054;
+	page-break-after: avoid !important;
 }
 p {
 	font-family: Helvetica, Arial, "sans-serif";
@@ -70,7 +67,7 @@ p {
 	display: block;
 }
 blockquote p {
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
+	font-family: Palatino, "Times New Roman", Baskerville, "Palatino Linotype", "serif" !important;
 	margin-left: 20px;
 	font-size: 12px;
 	page-break-inside: avoid;
@@ -81,6 +78,9 @@ ul, img {
 li {
 	font-family: Helvetica, Arial, "sans-serif";
 	font-size: 12px;
+}
+a::after {
+  content: " (" attr(href) ")";
 }
 .accordion-button{
 	background-color: #ffffff;
