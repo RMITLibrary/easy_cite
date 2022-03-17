@@ -323,20 +323,19 @@ echo($mylist);
 <!-- end page content-->
 		
 <!-- footer content-->	
-<div class="footerarea">
+<div class="">
 	<p>&nbsp;</p>
-	<div class="infobox-feedback">
-		<p>
-		<a href="https://emedia.rmit.edu.au/learninglab/content/referencing">Visit the <strong>Learning Lab </strong>for referencing information and tutorials</a><br />
-		<a href="https://www.rmit.edu.au/students/support-services/study-support">Study suport: get help with academic writing</a><br />
-		<a href="https://rmit-au.libwizard.com/f/easy-cite-feedback">Report an error or send your feedback</a><br />
-		</p>
+	<p>&nbsp;</p>
+	<div class="footerarea">
+		
+			<a href="https://emedia.rmit.edu.au/learninglab/content/referencing" class="footerlinks atooltip aanimate" data-tool="Visit the Learning Lab for information and tutorials on referencing">Learning Lab: referencing</a>&nbsp; | &nbsp; 
+			<a href="https://www.rmit.edu.au/students/support-services/study-support" class="footerlinks atooltip aanimate" data-tool="Get help with academic writing">Study suport</a>&nbsp;  | &nbsp; 
+			<a href="https://rmit-au.libwizard.com/f/easy-cite-feedback" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here " >Send us feedback</a>&nbsp;  | &nbsp; 
+			<a href="#" class="footerlinks atooltip aanimate" data-tool="This resource created by RMIT Library Digital Learning" >&copy; RMIT University</a>
+	
 	</div>
-  <div class="infobox-copyright">
-		Copyright &copy; RMIT University<br />
-		Created by RMIT Library Digital Learning<br />(based on a concept created by Griffith University??)<br />
-	  Content licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0 </a>(or MIT licence?)&nbsp;
-	</div>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
 </div>
 <!-- end footer content-->	
 
@@ -484,6 +483,8 @@ function printThisGuide(elem) {
     	}
     a.print();
 	}, 500); 
+	a.document.close();
+   a.focus();
 }
 </script>
 </body>
