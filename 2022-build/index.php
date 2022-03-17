@@ -322,6 +322,24 @@ echo($mylist);
 ?>
 <!-- end page content-->
 		
+<!-- footer content-->	
+<div class="footerarea">
+	<p>&nbsp;</p>
+	<div class="infobox-feedback">
+		<p>
+		<a href="https://emedia.rmit.edu.au/learninglab/content/referencing">Visit the <strong>Learning Lab </strong>for referencing information and tutorials</a><br />
+		<a href="https://www.rmit.edu.au/students/support-services/study-support">Study suport: get help with academic writing</a><br />
+		<a href="https://rmit-au.libwizard.com/f/easy-cite-feedback">Report an error or send your feedback</a><br />
+		</p>
+	</div>
+  <div class="infobox-copyright">
+		Copyright &copy; RMIT University<br />
+		Created by RMIT Library Digital Learning<br />(based on a concept created by Griffith University??)<br />
+	  Content licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0 </a>(or MIT licence?)&nbsp;
+	</div>
+</div>
+<!-- end footer content-->	
+
 <script>
 // URL STRING TO SAVE AND SHOW CORRECT CONTENT
 //jQuery: get URL location.hash and use it to open the correct pills and accordion
