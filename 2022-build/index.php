@@ -41,6 +41,7 @@
 </nav>
 <p>&nbsp;</p>
 <!-- Page content--> 
+<div class="container-fluid p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
 <?php 
 // include the parsedown code
 require_once 'Parsedown.php';
@@ -321,6 +322,8 @@ if ($whichstyleguide == "styleguide-0"){
 //OUTPUT THE PARSED CONTENT TO HTML
 echo($mylist);
 ?>
+
+</div><!-- end padding for content -->
 <!-- end page content-->
 		
 <!-- footer content-->	
