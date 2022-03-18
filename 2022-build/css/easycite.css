@@ -136,4 +136,7 @@ a.atooltip.aanimate:after, a.atooltip.aanimate:before {
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
-
+/* accordion fix to resolve whitespace created by opacity: 0 used to improve accessibility over display: none for accordions. */ 
+.fade:not(.show) {
+  height: 0;
+}
