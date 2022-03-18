@@ -83,15 +83,15 @@ $mylist = $parsedown->text($thestyleguide);
 	
 //replace heading tags with bootstrap layout
 // NAV TABS
-$mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<nav><div class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
-$mylist = preg_replace("/<h1>/", '<button id="nav-xx-tab" class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
-$mylist = preg_replace("/<\/h1>/", '</button>', $mylist);
-$mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</div></nav>', $mylist);
+$mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<nav><ul class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
+$mylist = preg_replace("/<h1>/", '<li id="nav-xx-tab" class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
+$mylist = preg_replace("/<\/h1>/", '</li>', $mylist);
+$mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</ul></nav>', $mylist);
 //PILLS
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<p>&nbsp;</p>
 	<div class="tab-content" id="nav-tabContent-xx">
 	<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex align-items-start"><div class="row">', $mylist);	
-$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3">
+$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-3">
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
