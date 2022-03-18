@@ -94,7 +94,7 @@ $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<p>&nbsp;</p>
 	<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex align-items-start"><div class="d-flex align-items-start">', $mylist);	
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-3">
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
-$mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist);
+$mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link myleftpills guideprint" id="v-pills-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
 // ACCORDIONS
