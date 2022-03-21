@@ -1,0 +1,142 @@
+@charset "UTF-8";
+/* CSS Document */
+body {}
+	.myleftpills {
+	text-align: left;
+}
+h4{
+	font-size: 1.1rem;
+	font-weight: 500;
+	color: #000054;
+}
+h5{
+	font-size: 1rem;
+	font-weight: 500;
+	color: #000054;
+}
+blockquote{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
+	margin-left: 30px;
+}
+.accordion-button{
+	background-color: #e3e5e0 !important;
+}
+.collapsed {
+	background-color: #f8f8fa !important;
+}
+.rmitbutton {
+      border: hidden;
+      padding: 10px 24px;
+      border-radius: 36px;
+      background: #000054;
+      color: #ffffff;
+      font-size: 0.9rem;
+      transition-duration: 0.4s;
+  }
+.rmitbutton:hover{
+      background: #fac800;
+      color: #000054;	
+  }
+.rmitbutton:focus {
+      background-color: #fac800 !important;
+      color: #000058 !important;
+  }
+.notabutton{
+      border: hidden;
+      background: #ffffff;
+      color: #000054;
+      font-size: 0.9rem;
+      transition-duration: 0.2s;
+  }
+.notabutton:hover{
+      color: #E61E2A;	
+  }
+.notabutton:focus {
+      color: #E61E2A;
+  }
+.printtitle {
+	display: none;
+	visibility: hidden;
+}
+@media screen and (min-width: 600px) {
+  .accordion {
+    min-width: 500px;
+  }
+}
+@media screen and (min-width: 900px) {
+  .accordion {
+    min-width: 800px;
+  }
+}
+.footerarea {
+	text-align: center;
+}
+.footerlinks {
+	color: #000054;
+	text-decoration: none;
+}
+.footerlinks:hover {
+	color: #e61e2a;
+	text-decoration: underline;
+}
+.footerlinks:focus {
+	color: #e61e2a;
+	text-decoration: underline;
+}
+/** tooltip styles
+  * based on http://www.flatypo.net/tutorials/how-to-create-animated-tooltips-css3-hiperlink/ 
+ **/
+a.atooltip{
+  position: relative;
+  display: inline;
+}
+a.atooltip:after{
+  display: block;
+  visibility: hidden;
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  opacity: 0;
+  content: attr(data-tool); /* might also use attr(title) */
+  height: auto;
+  min-width: 200px;
+  padding: 5px 8px;
+  z-index: 999;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  background: rgba(0,0,0,0.85);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+a.atooltip:before {
+  position: absolute;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+  left: 50%;
+  bottom: 0px;
+  opacity: 0;
+  content: "";
+  border-style: solid;
+  border-width: 6px 6px 0 6px;
+  border-color: rgba(0,0,0,0.85) transparent transparent transparent;
+}
+a.atooltip:hover:after{ visibility: visible; opacity: 1; bottom: 20px; }
+a.atooltip:hover:before{ visibility: visible; opacity: 1; bottom: 14px; }
+a.atooltip:focus:after{ visibility: visible; opacity: 1; bottom: 20px; }
+a.atooltip:focus:before{ visibility: visible; opacity: 1; bottom: 14px; }
+
+a.atooltip.aanimate:after, a.atooltip.aanimate:before {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+/* accordion fix to resolve whitespace created by opacity: 0 used to improve accessibility over display: none for accordions. */ 
+.fade:not(.show) {
+  height: 0;
+}
