@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
 body {}
-	.myleftpills {
-	text-align: left;
+.myleftpills {
+	text-align: left !important;
 }
 h4{
 	font-size: 1.1rem;
@@ -60,7 +60,7 @@ blockquote{
 }
 @media screen and (min-width: 600px) {
   .accordion {
-    min-width: 500px;
+    min-width: 400px;
   }
 }
 @media screen and (min-width: 900px) {
@@ -139,4 +139,12 @@ a.atooltip.aanimate:after, a.atooltip.aanimate:before {
 /* accordion fix to resolve whitespace created by opacity: 0 used to improve accessibility over display: none for accordions. */ 
 .fade:not(.show) {
   height: 0;
+}
+.btn:hover:after {
+	border: medium !important;
+	border-color: #000054 !important;
+}
+.btn:focus:after {
+	border: medium !important;
+	border-color: #000054 !important;
 }
