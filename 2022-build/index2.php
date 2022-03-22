@@ -20,7 +20,7 @@
     <link href="css/easycite2.css" rel="stylesheet">
 	<!-- RMIT stylesheet-->
 	<link href="css/main.css" rel="stylesheet">
-	<link href="css/clientlib-webpack.css" rel="stylesheet">
+	
 	<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 </head>
 <body>
@@ -46,7 +46,6 @@
 		</div>
 	</div>
 </nav>
-<p>&nbsp;</p>
 <!-- Page content--> 
 <div class="container-fluid p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
 <?php 
@@ -113,7 +112,7 @@ $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane f
 // ACCORDION ITEMS
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item" id="accordion-item-zz">', $mylist);
-$mylist = preg_replace("/<h3>/s", '<h3 class="accordion-header" id="heading-zz"><button class="accordion-button easyaccbutton collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
+$mylist = preg_replace("/<h3>/s", '<h3 class="accordion-header mt-1" id="heading-zz"><button class="accordion-button easyaccbutton collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button></h3>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
       <div class="accordion-body">', $mylist);
@@ -479,7 +478,7 @@ function printThisGuide(elem) {
 	// link to the external stylesheet - change the stylesheet CSS file to change the appearance of the HTML
 	a.document.write('<link href="css/printstyles.css" rel="stylesheet">');
 	a.document.write('</head>');
-    a.document.write('<body> <h1>Easy Cite style guides resource: RMIT Library</h1>');
+    a.document.write('<body> <h1>RMIT Library: Easy Cite style guides online resource</h1>');
 	a.document.write('<h2>' + printTitle + '</h2>');
     a.document.write('<div class="printsectionguide">'+ divContents + '</div>');
     a.document.write('</body></html>');
