@@ -2,7 +2,52 @@
 /* CSS Document */
 body {}
 .myleftpills {
+	border: thin #e3e5e0;
 	text-align: left !important;
+	background: #ffffff !important;
+    color: #000054 !important;
+    font-size: 1.1rem;
+    transition-duration: 0.2s;
+}
+.myleftpills:hover {
+	border: thin #e3e5e0;
+	color: #ffffff !important;
+	background: #000054 !important;
+	outline: none;
+}
+.myleftpills:focus, .myleftpills:after {
+	border: thin #e3e5e0;
+	color: #ffffff !important;
+	background: #000054 !important;
+	outline: none;
+}
+.myleftpills:active:after {
+	border: thin #e3e5e0;
+	color: #ffffff !important;
+	background: #000054 !important;
+	outline: none;
+	
+}
+.easyaccbutton {
+	background: #e3e5e0 !important;
+	color: #000054 !important;
+}
+.easyaccbutton:focus, 
+.easybutton:focus:after, 
+.easybutton:focus:before {
+	background:#fac800 !important;
+	color: #000054 !important;
+}
+.easyaccbutton:active,  
+.easybutton:active:after,
+.easybutton:active:before {
+	background: #fac800 !important;
+	color: #000054 !important;
+}
+.accordion-item {
+	border: hidden !important;
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
 }
 h4{
 	font-size: 1.1rem;

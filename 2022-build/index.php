@@ -92,9 +92,12 @@ $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<p>&nbsp;</p>
 	<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex align-items-start"><div class="row">', $mylist);	
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3">
 	<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
-$mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist);
+$mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')"><img src="assets/computer.svg" width="20px" height="20px">&nbsp;', $mylist);
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link myleftpills guideprint" id="v-pills-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
+$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link myleftpills guideprint" id="v-pills-print-tab" type="button" onclick="printThisGuide(this);"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
+</svg>&nbsp;Print this style guide<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
 // ACCORDIONS
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-sm-9 col-12"><div id="printable-guide"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
 $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer partprint" id="printthistype" type="button" onclick="printThisGuide(this);">Print this part of the style guide (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
@@ -105,8 +108,7 @@ $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane f
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item" id="accordion-item-zz">', $mylist);
 $mylist = preg_replace("/<h3>/s", '<h3 class="accordion-header" id="heading-zz"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
-$mylist = preg_replace("/<\/h3>/s", '</button>
-    </h3>', $mylist);		
+$mylist = preg_replace("/<\/h3>/s", '</button></h3>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
       <div class="accordion-body">', $mylist);
 $mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer sectionprint" onClick="printThisGuide(this)">Print this section only (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
@@ -328,14 +330,17 @@ echo($mylist);
 	<p>&nbsp;</p>
 	<div class="footerarea">
 		
-			<a href="https://emedia.rmit.edu.au/learninglab/content/referencing" class="footerlinks atooltip aanimate" data-tool="Visit the Learning Lab for information and tutorials on referencing">Learning Lab: referencing</a>&nbsp; | &nbsp; 
-			<a href="https://www.rmit.edu.au/students/support-services/study-support" class="footerlinks atooltip aanimate" data-tool="Get help with academic writing">Study suport</a>&nbsp;  | &nbsp; 
-			<a href="https://rmit-au.libwizard.com/f/easy-cite-feedback" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here " >Send us feedback</a>&nbsp;  | &nbsp; 
+			<a href="https://emedia.rmit.edu.au/learninglab/content/referencing" class="footerlinks atooltip aanimate" data-tool="Visit the Learning Lab for information and tutorials on referencing">Learning Lab - referencing</a>&nbsp; | &nbsp; 
+			<a href="https://www.rmit.edu.au/students/support-services/study-support" class="footerlinks atooltip aanimate" data-tool="Get help with academic writing">
+				Study suport</a>&nbsp; | &nbsp; 
+			<a href="https://rmit-au.libwizard.com/f/easy-cite-feedback" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here " >
+			Send us feedback</a>&nbsp; |&nbsp;
 			<a href="#" class="footerlinks atooltip aanimate" data-tool="This resource created by RMIT Library Digital Learning" >&copy; RMIT University</a>
 	
 	</div>
 	<p>&nbsp;</p>
-	<p>&nbsp;</p>
+
+
 </div>
 <!-- end footer content-->	
 
@@ -404,8 +409,8 @@ function myFunction2(button, thisquery){
 		const params = new URLSearchParams(location.search);
 		params.set('styleguide', thisquery);
 		params.toString(); // => styleguide=styleguide-3
-		//console.log(params.toString());
-		window.history.pushState({}, '', `${location.pathname}?${params.toString()}`);
+		console.log(params.toString());
+		window.history.pushState({}, '', `${location.pathname}?${params.toString()}#v-pills-0-tab`);
 	}
 	//refresh the page...
 	location.reload();
