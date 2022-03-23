@@ -30,8 +30,12 @@ body {
 }
 h1 {
 	font-family: 'Museo500',Helvetica, Arial, 'sans-serif' !important;
+	background: #000054;
+	padding: 20px;
+	margin-left: -20px;
+	margin-right: -20px;
 	font-size: 20px;
-	color: #E61E2A;
+	color: #ffffff;
 	display: block;
 	string-set: doctitle content();
 	page-break-after: avoid !important;
