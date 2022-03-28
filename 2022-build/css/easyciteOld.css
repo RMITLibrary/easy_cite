@@ -1,21 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 body {}
-nav {
-	border:none !important;
-}
-.topnavbar .a {
-	colour: #ffffff !important;
-}
 .navbar {
 	background: #000054 !important;
 	font-family: 'Museo500',Helvetica, Arial, 'sans-serif' !important;
-	colour: #ffffff;
-	border:hidden !important;
 }
 .mynavtabs {
-	margin-top: 3px !important;
-    font-weight: 500;
+    font-weight: 600;
     color: #000054;
     background: #ffffff !important;
 	outline: hidden !important;
@@ -27,27 +18,23 @@ nav {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    border-bottom: solid #e61e2a !important;
-	border-width: 0px 0px 4px 0px !important;
-	border-top: hidden !important;
-	border-bottom-style: inset !important;
+    border-bottom: 4px solid #e61e2a !important;
 }
 
 .mynavtabs .layer {
-  	color: #ffffff;
-  	font-weight: 500;
-  	position: absolute;
-  	bottom: -98%;
-  	display: flex;
-  	flex-basis: 100%;
-  	width: 100%;
-  	justify-content: center;
-  	align-items: center;
-  	height: 100%;
-  	left: 0;
-  	padding: 12px 12px 10px;
-  	background-color: #e61e2a;
-	border-width: 0px 0px 0px 0px !important;
+  color: #ffffff;
+  font-weight: 600;
+  position: absolute;
+  bottom: -98%;
+  display: flex;
+  flex-basis: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  left: 0;
+  padding: 12px 12px 10px;
+  background-color: #e61e2a;
 }
 @media (min-width: 768px) {
   .mynavtabs:not(.active) .layer {
@@ -78,23 +65,17 @@ nav {
   	background: #e61e2a !important;
     color: #ffffff !important;
 	text-decoration: none !important;
-	outline: hidden !important;
-}
-.nav-tabs, .nav-tabs:focus,
-.nav-item, .nav-item:focus,
-.nav-link, .nav-link:focus {
-	outline: hidden !important;
+	outline: hidden;
 }
 .nav-link.active {
 	background: #e61e2a !important;
     color: #ffffff !important;
 	text-decoration: none !important;
-	outline: hidden !important;
-	border-top: hidden !important;
+	outline: hidden;
 }
 
 .myleftpills {
-
+	border: thin #e3e5e0;
 	text-align: left !important;
 	background: #ffffff !important;
     color: #000054 !important;
@@ -102,24 +83,24 @@ nav {
     transition-duration: 0.2s;
 }
 .myleftpills:hover {
-
+	border: thin #e3e5e0;
 	color: #454545 !important;
 	background: #b3b5b0 !important;
-	outline: none !important;
+	outline: none;
 }
 .myleftpills:focus {
-
+	border: thin #e3e5e0;
 	color: #454545 !important;
 	background: #b3b5b0 !important;
-	outline: none !important;
+	outline: none;
 }
 .myleftpills.active {
-
+	border: thin #e3e5e0;
 	color: #ffffff !important;
 	background: #000054 !important;
-	outline: none !important;	
+	outline: none;
+	
 }
-
 .easyaccbutton {
 	background: #e3e5e0 !important;
 	color: #000054 !important;
@@ -258,10 +239,10 @@ a.atooltip:before {
   border-width: 6px 6px 0 6px;
   border-color: rgba(0,0,0,0.85) transparent transparent transparent;
 }
-a.atooltip:hover:after{ visibility: visible; opacity: 1; bottom: 30px; }
-a.atooltip:hover:before{ visibility: visible; opacity: 1; bottom: 24px; }
-a.atooltip:focus:after{ visibility: visible; opacity: 1; bottom: 30px; }
-a.atooltip:focus:before{ visibility: visible; opacity: 1; bottom: 24px; }
+a.atooltip:hover:after{ visibility: visible; opacity: 1; bottom: 20px; }
+a.atooltip:hover:before{ visibility: visible; opacity: 1; bottom: 14px; }
+a.atooltip:focus:after{ visibility: visible; opacity: 1; bottom: 20px; }
+a.atooltip:focus:before{ visibility: visible; opacity: 1; bottom: 14px; }
 
 a.atooltip.aanimate:after, a.atooltip.aanimate:before {
   -webkit-transition: all 0.2s ease-in-out;
@@ -274,4 +255,11 @@ a.atooltip.aanimate:after, a.atooltip.aanimate:before {
 .fade:not(.show) {
   height: 0;
 }
-
+.btn:hover:after {
+	border: medium !important;
+	border-color: #000054 !important;
+}
+.btn:focus:after {
+	border: medium !important;
+	border-color: #000054 !important;
+}
