@@ -27,7 +27,7 @@ nav {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    border-bottom: solid #e61e2a !important;
+    border-bottom: solid 4px #e61e2a !important;
 	border-width: 0px 0px 4px 0px !important;
 	border-top: hidden !important;
 	border-bottom-style: inset !important;
@@ -81,17 +81,18 @@ nav {
 	outline: hidden !important;
 }
 .nav-tabs, .nav-tabs:focus,
-.nav-item, .nav-item:focus,
+li.nav-item, li.nav-item:focus,
 .nav-link, .nav-link:focus {
 	outline: hidden !important;
+	border: none !important;
 }
 .nav-link.active {
 	background: #e61e2a !important;
     color: #ffffff !important;
 	text-decoration: none !important;
-	outline: hidden !important;
-	border-top: hidden !important;
+
 }
+
 .myleftpills {
 	text-align: left !important;
 	background: #ffffff !important;
@@ -102,31 +103,27 @@ nav {
 .myleftpills:hover {
 	color: #454545 !important;
 	background: #b3b5b0 !important;
-	outline: none !important;
+	border: hidden;
 }
 .myleftpills:focus {
 	color: #454545 !important;
 	background: #b3b5b0 !important;
-	outline: none !important;
+	border: #FAC800 2px thick !important;
+	outline: #fac800 2px thick !important;
 }
-.btn-outline:focus{
-	border: #fac800 thick;
-	outline: #fac800 thick;
+.btn:focus {
+	border: #FAC800 2px thick !important;
+	outline: #fac800 2px thick !important;
 }
 .myleftpills.active {
 	color: #ffffff !important;
 	background: #000054 !important;
-	outline: none !important;	
 }
-
 .easyaccbutton {
 	background: #e3e5e0 !important;
 	color: #000054 !important;
 }
-.easyaccbutton:hover {
-	background:#b3b5b0 !important;
-	color: #454545 !important;
-}
+.easyaccbutton:hover, 
 .easyaccbutton:focus {
 	background:#b3b5b0 !important;
 	color: #454545 !important;
@@ -175,13 +172,10 @@ blockquote{
       font-size: 0.9rem;
       transition-duration: 0.4s;
   }
-.rmitbutton:hover{
-      background: #fac800;
-      color: #000054;	
-  }
+.rmitbutton:hover, 
 .rmitbutton:focus {
       background-color: #fac800 !important;
-      color: #000058 !important;
+      color: #000054 !important;
   }
 .notabutton{
       border: hidden;
@@ -190,9 +184,7 @@ blockquote{
       font-size: 0.9rem;
       transition-duration: 0.2s;
   }
-.notabutton:hover{
-      color: #E61E2A;	
-  }
+.notabutton:hover,
 .notabutton:focus {
       color: #E61E2A;
   }
@@ -208,10 +200,7 @@ blockquote{
 	text-decoration: none;
 	font-size: 0.9rem;
 }
-.footerlinks:hover {
-	color: #e61e2a;
-	text-decoration: underline;
-}
+.footerlinks:hover,
 .footerlinks:focus {
 	color: #e61e2a;
 	text-decoration: underline;
