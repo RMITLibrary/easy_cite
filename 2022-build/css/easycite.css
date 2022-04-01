@@ -273,4 +273,10 @@ a.atooltip.aanimate:after, a.atooltip.aanimate:before {
 .fade:not(.show) {
   height: 0;
 }
+/* bugfix to stop generating button styles in safari for things called buttons but are not. Maybe we rename button elements as <a class=""> */
+button, [type="button"], [type="submit"]
+{
+-webkit-appearance: caret;
+}
+
 
