@@ -16,10 +16,11 @@
 	
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-	<!-- Easy Cite stylesheet-->
-    <link href="css/easycite.css" rel="stylesheet">
+
 	<!-- RMIT stylesheet-->
 	<link href="css/main.css" rel="stylesheet">
+	<!-- Easy Cite stylesheet-->
+	<link href="css/easycite.css" rel="stylesheet">
 	
 	<!--<link rel="stylesheet" href="https://rmitlibrary.github.io/rmit-ui/main.a6920974bb956370c6f620c64120f27b3809b38bc662ffc4d0c3e8b31e4bfab58d15e2b021b2fbb83b9eb476dfdf4e39c24a4c853170bcf8f0e37a0369af15ad.css">-->
 	
