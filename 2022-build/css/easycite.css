@@ -84,6 +84,7 @@ nav {
 .nav-item, .nav-item:focus,
 .nav-link, .nav-link:focus {
 	outline: hidden !important;
+  border-bottom: 0px; /* kills grey border bottom bug */
 }
 .nav-link.active {
 	background: #e61e2a !important;
