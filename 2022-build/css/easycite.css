@@ -83,9 +83,10 @@ nav {
 .nav-tabs, .nav-tabs:focus,
 .nav-item, .nav-item:focus,
 .nav-link, .nav-link:focus {
-	outline: hidden !important;
+ /*outline: hidden !important; */
   border-bottom: 0px; /* kills grey border bottom bug */
 }
+
 .nav-link.active {
 	background: #e61e2a !important;
     color: #ffffff !important;
@@ -280,4 +281,12 @@ button, [type="button"], [type="submit"]
 -webkit-appearance: caret;
 }
 
-
+/* reapplies focus outline on left pills */
+button.nav-link:focus 
+{
+outline: 1px solid #000054 !important;
+}
+button.nav-link.active:focus
+{
+outline: 1px solid red;;
+}
