@@ -100,6 +100,7 @@ nav {
     color: #000054 !important;
     font-size: 1.1rem;
     transition-duration: 0.2s;
+	margin-bottom: 3px;
 }
 .myleftpills:hover {
 	color: #454545 !important;
@@ -120,28 +121,33 @@ nav {
 	background: #000054 !important;
 	outline: none !important;	
 }
-
 .easyaccbutton {
 	background: #e3e5e0 !important;
 	color: #000054 !important;
+	outline: none !important;
 }
 .easyaccbutton:hover {
 	background:#b3b5b0 !important;
 	color: #454545 !important;
+	outline: none !important;
 }
 .easyaccbutton:focus {
 	background:#b3b5b0 !important;
 	color: #454545 !important;
+	outline: none !important;
 }
 .easyaccbutton.active {
 	background: #fac800 !important;
 	color: #000054 !important;
 	font-weight: 600;
+	outline: none !important;
 }
-button.easyaccbutton:not(.collapsed) {
-background: #fac800 !important;
-color: #000054 !important;
+button.easyaccbutton:not(.collapsed),
+button.easyaccbutton:focus:not(.collapsed) {
+	background: #fac800 !important;
+	color: #000054 !important;
 	font-weight: 600;
+	outline: none !important;
 }
 .accordion-item {
 	border: hidden !important;
@@ -178,25 +184,27 @@ blockquote{
       transition-duration: 0.4s;
   }
 .rmitbutton:hover{
-      background: #fac800;
-      color: #000054;	
+    background: #fac800;
+    color: #000054;	
   }
 .rmitbutton:focus {
-      background-color: #fac800 !important;
-      color: #000058 !important;
+    background-color: #fac800 !important;
+    color: #000058 !important;
   }
 .notabutton{
-      border: hidden;
-      background: #ffffff;
-      color: #000054;
-      font-size: 0.9rem;
-      transition-duration: 0.2s;
+    border: hidden;
+    background: #ffffff;
+    color: #000054;
+    font-size: 0.9rem;
+    transition-duration: 0.2s;
   }
 .notabutton:hover{
-      color: #E61E2A;	
+    color: #E61E2A;	
   }
-.notabutton:focus {
-      color: #E61E2A;
+.notabutton:focus,
+.notabutton.active:focus {
+    color: #E61E2A;
+	outline: 1px solid #000054 !important;
   }
 .printtitle {
 	display: none;
@@ -222,42 +230,43 @@ blockquote{
   * based on http://www.flatypo.net/tutorials/how-to-create-animated-tooltips-css3-hiperlink/ 
  **/
 a.atooltip{
-  position: relative;
-  display: inline;
+  	position: relative;
+  	display: inline;
+	padding: 3px;
 }
 a.atooltip:after{
-  display: block;
-  visibility: hidden;
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  opacity: 0;
-  content: attr(data-tool); /* might also use attr(title) */
-  height: auto;
-  min-width: 200px;
-  padding: 5px 8px;
-  z-index: 999;
-  color: #fff;
-  text-decoration: none;
-  text-align: center;
-  background: rgba(0,0,0,0.85);
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
+  	display: block;
+  	visibility: hidden;
+  	position: absolute;
+  	bottom: 0;
+  	left: 20%;
+  	opacity: 0;
+  	content: attr(data-tool); /* might also use attr(title) */
+  	height: auto;
+  	min-width: 200px;
+  	padding: 5px 8px;
+  	z-index: 999;
+  	color: #fff;
+  	text-decoration: none;
+  	text-align: center;
+  	background: rgba(0,0,0,0.85);
+  	-webkit-border-radius: 5px;
+  	-moz-border-radius: 5px;
+  	border-radius: 5px;
 }
 
 a.atooltip:before {
-  position: absolute;
-  visibility: hidden;
-  width: 0;
-  height: 0;
-  left: 50%;
-  bottom: 0px;
-  opacity: 0;
-  content: "";
-  border-style: solid;
-  border-width: 6px 6px 0 6px;
-  border-color: rgba(0,0,0,0.85) transparent transparent transparent;
+  	position: absolute;
+  	visibility: hidden;
+  	width: 0;
+  	height: 0;
+  	left: 50%;
+  	bottom: 0px;
+  	opacity: 0;
+  	content: "";
+  	border-style: solid;
+  	border-width: 6px 6px 0 6px;
+  	border-color: rgba(0,0,0,0.85) transparent transparent transparent;
 }
 a.atooltip:hover:after{ visibility: visible; opacity: 1; bottom: 30px; }
 a.atooltip:hover:before{ visibility: visible; opacity: 1; bottom: 24px; }
@@ -265,28 +274,33 @@ a.atooltip:focus:after{ visibility: visible; opacity: 1; bottom: 30px; }
 a.atooltip:focus:before{ visibility: visible; opacity: 1; bottom: 24px; }
 
 a.atooltip.aanimate:after, a.atooltip.aanimate:before {
-  -webkit-transition: all 0.2s ease-in-out;
-  -moz-transition: all 0.2s ease-in-out;
-  -ms-transition: all 0.2s ease-in-out;
-  -o-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
+  	-webkit-transition: all 0.2s ease-in-out;
+  	-moz-transition: all 0.2s ease-in-out;
+  	-ms-transition: all 0.2s ease-in-out;
+  	-o-transition: all 0.2s ease-in-out;
+  	transition: all 0.2s ease-in-out;
+}
+a.atooltip:focus{
+	outline: 1px solid #000054 !important;
 }
 /* accordion fix to resolve whitespace created by opacity: 0 used to improve accessibility over display: none for accordions. */ 
 .fade:not(.show) {
-  height: 0;
+  	height: 0;
 }
 /* bugfix to stop generating button styles in safari for things called buttons but are not. Maybe we rename button elements as <a class=""> */
-button, [type="button"], [type="submit"]
-{
--webkit-appearance: caret;
+button, [type="button"], [type="submit"] {
+	-webkit-appearance: caret;
 }
-
 /* reapplies focus outline on left pills */
-button.nav-link:focus 
-{
-outline: 1px solid #000054 !important;
+button.nav-link:focus,
+.notabutton:focus {
+	outline: 2px solid #5E9ED6 !important;
 }
-button.nav-link.active:focus
-{
-outline: 1px solid red;;
+button.nav-link.active:focus {
+	outline: 2px solid #777777 !important;
+}
+.easyaccbutton:hover:after,
+.easyaccbutton:hover:before,
+button.accordion-button.active:focus {
+	outline: none !important;
 }
