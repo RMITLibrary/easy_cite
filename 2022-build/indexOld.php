@@ -20,8 +20,7 @@
     <link href="css/easycite.css" rel="stylesheet">
 	<!-- RMIT stylesheet-->
 	<link href="css/main.css" rel="stylesheet">
-	
-	<!--<link rel="stylesheet" href="https://rmitlibrary.github.io/rmit-ui/main.a6920974bb956370c6f620c64120f27b3809b38bc662ffc4d0c3e8b31e4bfab58d15e2b021b2fbb83b9eb476dfdf4e39c24a4c853170bcf8f0e37a0369af15ad.css">-->
+	<link href="css/clientlib-webpack.css" rel="stylesheet">
 	
 	<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 </head>
@@ -33,10 +32,10 @@
   		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-				<li class="nav-item"><a class="nav-link topnavbar" aria-current="page" href="#">Home</a></li>
- 				<li class="nav-item"><a class="nav-link topnavbar" href="#">Link</a></li>
+				<li class="nav-item"><a class="nav-link" aria-current="page" href="#">Home</a></li>
+ 				<li class="nav-item"><a class="nav-link" href="#">Link</a></li>
 				<li class="nav-item dropdown">
-					<a class="nav-link topnavbar dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
+					<a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
 					<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
 						<li><a class="dropdown-item" href="#">Action</a></li>
 						<li><a class="dropdown-item" href="#">Another action</a></li>
@@ -109,7 +108,7 @@ $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whic
 //PILLS
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div class="tab-content" id="nav-tabContent-xx"><div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex flex-row flex-wrap">', $mylist);
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
-$mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); //btn btn-outline classes in the nav-link classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
+$mylist = preg_replace("/<h2>/", '<button class="nav-link myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); //btn btn-outline classes in the nav-link classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="v-pills-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	//btn btn-outline classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
 // ACCORDIONS
@@ -433,8 +432,7 @@ function myFunction2(button, thisquery){
 	}
 	//refresh the page...
 	location.reload();
-	//	window.scroll(0,0); //need to scroll window to top of page but not working 	
-	document.getElementById("nav-tab").focus();
+	window.scroll(0,0); //need to scroll window to top of page but not working 	
 }
 // --------------------------
 // ACCORDION FAMILIES
@@ -512,8 +510,5 @@ function printThisGuide(elem) {
    a.focus();
 }
 </script>
-<!--<button type="button" class="btn btn-primary btn-lg">Large button</button>
-<button type="button" class="btn btn-light btn-lg">Large button</button>
-<button type="button" class="btn btn-danger btn-lg">Large button</button>-->
 </body>
 </html>

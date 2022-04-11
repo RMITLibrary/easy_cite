@@ -99,6 +99,9 @@ a::after {
 	display: none !important;
 	visibility: hidden !important;
 }
-
-
+/* this code to ensure background colour prints for page title*/
+* {
+    -webkit-print-color-adjust: exact !important;   /* Chrome, Safari, Edge */
+    color-adjust: exact !important;                 /*Firefox*/
+}
 

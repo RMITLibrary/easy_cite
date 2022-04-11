@@ -4,6 +4,16 @@ body {}
 nav {
 	border:none !important;
 }
+.ectitle{
+	color: #ffffff;
+	margin-left: 20px;
+	font-weight: 500;
+}
+.ecinstructions {
+	margin: 50px;
+	padding: 20px;
+	background-color: #e3e5e0;
+}
 .topnavbar .a {
 	colour: #ffffff !important;
 }
@@ -134,7 +144,6 @@ nav {
 .easyaccbutton:focus {
 	background:#b3b5b0 !important;
 	color: #454545 !important;
-	outline: none !important;
 }
 .easyaccbutton.active {
 	background: #fac800 !important;
@@ -171,26 +180,13 @@ blockquote{
 .accordion-button{
 	background-color: #e3e5e0 !important;
 }
+.accordion-button.active:focus {
+	background-color: #e3e5e0 !important;
+	outline: none !important;
+}
 .collapsed {
 	background-color: #f8f8fa !important;
 }
-.rmitbutton {
-      border: hidden;
-      padding: 10px 24px;
-      border-radius: 36px;
-      background: #000054;
-      color: #ffffff;
-      font-size: 0.9rem;
-      transition-duration: 0.4s;
-  }
-.rmitbutton:hover{
-    background: #fac800;
-    color: #000054;	
-  }
-.rmitbutton:focus {
-    background-color: #fac800 !important;
-    color: #000058 !important;
-  }
 .notabutton{
     border: hidden;
     background: #ffffff;
@@ -254,7 +250,6 @@ a.atooltip:after{
   	-moz-border-radius: 5px;
   	border-radius: 5px;
 }
-
 a.atooltip:before {
   	position: absolute;
   	visibility: hidden;
@@ -272,7 +267,6 @@ a.atooltip:hover:after{ visibility: visible; opacity: 1; bottom: 30px; }
 a.atooltip:hover:before{ visibility: visible; opacity: 1; bottom: 24px; }
 a.atooltip:focus:after{ visibility: visible; opacity: 1; bottom: 30px; }
 a.atooltip:focus:before{ visibility: visible; opacity: 1; bottom: 24px; }
-
 a.atooltip.aanimate:after, a.atooltip.aanimate:before {
   	-webkit-transition: all 0.2s ease-in-out;
   	-moz-transition: all 0.2s ease-in-out;
@@ -294,13 +288,16 @@ button, [type="button"], [type="submit"] {
 /* reapplies focus outline on left pills */
 button.nav-link:focus,
 .notabutton:focus {
-	outline: 2px solid #5E9ED6 !important;
-}
-button.nav-link.active:focus {
 	outline: 2px solid #777777 !important;
 }
-.easyaccbutton:hover:after,
-.easyaccbutton:hover:before,
-button.accordion-button.active:focus {
+button.nav-link.active:focus {
 	outline: none !important;
 }
+.easyaccbutton:focus {
+	outline: 1px solid #777777 !important;
+}
+.easyaccbutton.active:focus {
+	outline: none !important;
+}
+
+
