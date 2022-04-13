@@ -457,6 +457,7 @@ $(function(){
      }
 	else {
 		$("#subtype-0").collapse("show"); // default show first accordion-collapse
+		$("#v-pills-0-tab").tab("show"); // default show first pills
 	};
 });
 </script>
