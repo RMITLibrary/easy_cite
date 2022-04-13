@@ -70,19 +70,19 @@
                   </a>
                
       </div>
-	  <a class="navbar-brand" href="#"><h1 class="ectitle">Easy Cite</h1></a>
+	  <h1 class="ectitle">Easy Cite</h1>
   		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-				<li class="nav-item"><a class="nav-link topnavbar" aria-current="page" href="#">RMIT Australia</a></li>
- 				<li class="nav-item"><a class="nav-link topnavbar" href="#">RMIT Library</a></li>
+				<li class="nav-item"><a class="nav-link topnavbar" aria-current="page" href="https://www.rmit.edu.au" tabindex="0">RMIT Australia&nbsp;&nbsp;&nbsp;</a></li>
+ 				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library" tabindex="0">RMIT Library&nbsp;&nbsp;&nbsp;</a></li>
 				<li class="nav-item dropdown">
-					<a class="nav-link topnavbar dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
+					<a class="nav-link topnavbar dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" tabindex="0">Resources</a>
 					<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-						<li><a class="dropdown-item" href="#">Learning Lab</a></li>
-						<li><a class="dropdown-item" href="#">Study support</a></li>
+						<li><a class="dropdown-item" href="#" tabindex="0">Learning Lab</a></li>
+						<li><a class="dropdown-item" href="#" tabindex="0">Study support</a></li>
  						<li><hr class="dropdown-divider" /></li>
- 						<li><a class="dropdown-item" href="#">Something else here</a></li>
+ 						<li><a class="dropdown-item" href="#" tabindex="0">Something else here</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -90,12 +90,37 @@
 	</div>
 </nav>
 <!-- Page content--> 
-	<div class="ecinstructions">
-		<p>Referencing Style Guides <br />
-         How to use Easy Cite<br>
-         Instructions go here - with show/hide button</p>
-	</div>
 	
+	<!-- Instructions content--> 
+	<div class="ecinstructions">
+		<!-- link to trigger collapse -->
+		<a class="notabutton ectitle" id="ecinstruct" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;&nbsp;How to use Easy Cite referencing resources
+	</a>
+		 <div class="expand_caret caret"></div>
+		<!-- Collapsed content -->
+		<div class="accordion-collapse collapse" id="collapseExample" data-bs-parent="#ecinstruct">
+			<div class="card-body">
+				<div class="d-flex flex-row mb-3">
+  					<div class="col-sm-7">
+						<p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago, IEEE and Vancouver, .</p>
+					<p>Easy Cite is intended as a guide only and developed using relevant style manuals. Some styles are open to interpretation. The Library includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar existing types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
+						<p class="ecsubtitle">Accessibility</p>
+						<p>Easy Cite is keyboard and screen reader accessible...</p>
+					</div>
+  					<div class="col-12 col-sm-5">
+						<div class="plc-hldr">
+						Instructional video placeholder
+							</div>
+					</div>
+  
+				</div>
+  			
+			</div>
+		</div>
+	</div>
+
+<!-- style guides content--> 	
 <div class="container-fluid p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
 <?php 
 // include the parsedown code
@@ -141,7 +166,7 @@ $mylist = $parsedown->text($thestyleguide);
 // NAV TABS
 $mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<ul class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
 $mylist = preg_replace("/<h1>/", '<li id="nav-xx-tab" class="nav-item" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false">
-<a id="nav-link-xx" class="nav-link mynavtabs" href="#" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
+<a id="nav-link-xx" class="nav-link mynavtabs" href="#" tabindex="0" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
 $mylist = preg_replace("/<\/h1>/", '<div class="layer" aria-hidden="true">whichguidetitle</div></a></li>', $mylist);
 $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</ul><p>&nbsp;</p>', $mylist);
 //REPLACE whichguidetitle with the correct title for the animated nav tabs
@@ -367,14 +392,14 @@ if ($whichstyleguide == "styleguide-0"){
 // ISSUES TO BE RESOLVED / Development to-do list
 // change the code from PHP to Javascript to show first accordion item in an accordion then won't need the comment in  markdown
 // DONE!! added an id attribute to the accordion-item div for printing and for first accordion discovery
-// accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
+// DONE!! accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
 // DONE!! PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide
 // DONE!! Format print window content and hide buttons - make an external style sheet for this
-// Improve the print stylesheet with RMIT branding etc.
+// DONE!! Improve the print stylesheet with RMIT branding etc.
 // Stop print content from cropping when scale is more than 100% - CSS issue???
-// create a FOOTER area with links to feedback form, learning lab, other...
+// DONE!! create a FOOTER area with links to feedback form, learning lab, other...
 // Top of page INSTRUCTIONS - show/hide with cookies/session data, print option.
-// STYLE: CSS for Bootstrap - RMIT branding
+// DONE!! STYLE: CSS for Bootstrap - RMIT branding
 // DONE!! move inline styles to external CSS file - easycite.css
 // need to strip all COMMENTS out of $mylist after all replaces are done	
 // DONE!! focus the correct tab depending on the query string.
@@ -385,6 +410,10 @@ if ($whichstyleguide == "styleguide-0"){
 // DONE!! add correct title and accordion headings to print version. Hide print title from web page view.
 // DONE!! fixed accessibility issues: heading hierarchy (removed H4 heading from accordion body) 
 // DONE!! Harvard example reference list was messing up the accordion width due to a URL that wasn't wrapping properly - not a proper fix. Not sure why???
+// tabbing issues across different browsers - how to make it more consistent?
+// 
+	
+	
 //OUTPUT THE PARSED CONTENT TO HTML
 echo($mylist);
 ?>

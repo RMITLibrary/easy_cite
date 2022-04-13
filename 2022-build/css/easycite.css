@@ -9,10 +9,23 @@ nav {
 	margin-left: 20px;
 	font-weight: 500;
 }
+.ecsubtitle{
+	color: #000054;
+	font-weight: 500;
+	Font-size: 1.1rem;
+}
 .ecinstructions {
 	margin: 50px;
-	padding: 20px;
+	padding: 10px;
+	border: 1px solid #737570;
+	font-size: 0.9rem;
+}
+.plc-hldr{
+	width: 80%;
+	height: 80%;
 	background-color: #e3e5e0;
+	margin: 20px;
+	padding: 20px;
 }
 .topnavbar .a {
 	colour: #ffffff !important;
@@ -122,10 +135,6 @@ nav {
 	background: #b3b5b0 !important;
 	outline: none !important;
 }
-.btn-outline:focus{
-	border: #fac800 thick;
-	outline: #fac800 thick;
-}
 .myleftpills.active {
 	color: #ffffff !important;
 	background: #000054 !important;
@@ -144,6 +153,7 @@ nav {
 .easyaccbutton:focus {
 	background:#b3b5b0 !important;
 	color: #454545 !important;
+	outline: none !important;
 }
 .easyaccbutton.active {
 	background: #fac800 !important;
@@ -188,20 +198,23 @@ blockquote{
 	background-color: #f8f8fa !important;
 }
 .notabutton{
-    border: hidden;
-    background: #ffffff;
+    border: hidden !important;
+	background-color: #ffffff !important;
     color: #000054;
     font-size: 0.9rem;
     transition-duration: 0.2s;
   }
 .notabutton:hover{
     color: #E61E2A;	
+	text-decoration: none;
   }
-.notabutton:focus,
-.notabutton.active:focus {
+.notabutton:focus {
     color: #E61E2A;
 	outline: 1px solid #000054 !important;
   }
+.notabutton.active:focus{
+	outline: none !important;
+}
 .printtitle {
 	display: none;
 	visibility: hidden;
@@ -300,4 +313,11 @@ button.nav-link.active:focus {
 	outline: none !important;
 }
 
-
+.expand_caret {
+    transform: scale(1.6);
+    margin-left: 8px;
+    margin-top: -4px;
+}
+a[aria-expanded='false'] > .expand_caret {
+    transform: scale(1.6) rotate(-90deg);
+}
