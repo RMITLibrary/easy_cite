@@ -74,7 +74,7 @@
   		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-				<li class="nav-item"><a class="nav-link topnavbar" aria-current="page" href="https://www.rmit.edu.au" tabindex="0">RMIT Australia&nbsp;&nbsp;&nbsp;</a></li>
+				<li class="nav-item"><a class="nav-link topnavbar ecnavsubtitle" aria-current="page" href="https://www.rmit.edu.au" tabindex="0">RMIT Australia&nbsp;&nbsp;&nbsp;</a></li>
  				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library" tabindex="0">RMIT Library&nbsp;&nbsp;&nbsp;</a></li>
 				<li class="nav-item dropdown">
 					<a class="nav-link topnavbar dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" tabindex="0">Resources</a>
@@ -91,34 +91,36 @@
 </nav>
 <!-- Page content--> 
 	
-	<!-- Instructions content--> 
-	<div class="ecinstructions">
-		<!-- link to trigger collapse -->
-		<a class="notabutton ectitle" id="ecinstruct" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;&nbsp;How to use Easy Cite referencing resources
-	</a>
-		 <div class="expand_caret caret"></div>
-		<!-- Collapsed content -->
-		<div class="accordion-collapse collapse" id="collapseExample" data-bs-parent="#ecinstruct">
-			<div class="card-body">
-				<div class="d-flex flex-row mb-3">
-  					<div class="col-sm-7">
-						<p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago, IEEE and Vancouver, .</p>
-					<p>Easy Cite is intended as a guide only and developed using relevant style manuals. Some styles are open to interpretation. The Library includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar existing types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
-						<p class="ecsubtitle">Accessibility</p>
-						<p>Easy Cite is keyboard and screen reader accessible...</p>
-					</div>
-  					<div class="col-12 col-sm-5">
-						<div class="plc-hldr">
-						Instructional video placeholder
-							</div>
-					</div>
-  
-				</div>
-  			
-			</div>
-		</div>
-	</div>
+<!-- Instructions content--> 
+<div class="ecinstructions">
+    <!-- link to trigger collapse -->
+    <a class="notabutton ectitle" id="ecinstruct" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;&nbsp;How to use Easy Cite referencing resources</a>
+
+    <!-- Collapsed content -->
+    <div class="accordion-collapse collapse" id="collapseExample" data-bs-parent="#ecinstruct">
+        <div class="card-body">
+            <div class="d-flex flex-row flex-wrap">
+                <div class="col-12 col-sm-7">
+                    <div class="ecinstructbox">
+                    <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago, IEEE and Vancouver, .</p>
+                    <p>Easy Cite is intended as a guide only. This resource uses current relevant style manuals. Some styles are open to interpretation. Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar existing types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
+                    <p class="ecsubtitle">Accessibility</p>
+                    <p>Easy Cite is keyboard and screen reader accessible...</p>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-5">
+                    <div class="ecinstructbox">
+                    <p>View this instructional video for using Easy Cite referencing resources</p>
+                    <div class="plc-hldr">
+                    Instructional video placeholder
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- style guides content--> 	
 <div class="container-fluid p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
@@ -181,23 +183,23 @@ $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whic
 //PILLS
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div class="tab-content" id="nav-tabContent-xx"><div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex flex-row flex-wrap">', $mylist);
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
-$mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); //btn btn-outline classes in the nav-link classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
+$mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" tabindex="0" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); //btn btn-outline classes in the nav-link classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="v-pills-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	//btn btn-outline classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
 // ACCORDIONS
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-12 col-sm-9 flex-grow-1"><div id="printable-guide"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
-$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer partprint" id="printthistype" type="button" onclick="printThisGuide(this);">Print this part of the style guide (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print this part of the style guide (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
 </svg></button></div>', $mylist);	
 // ACCORDION ITEMS
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item" id="accordion-item-zz">', $mylist);
-$mylist = preg_replace("/<h3>/s", '<h3 class="accordion-header mt-1" id="heading-zz"><button class="accordion-button easyaccbutton collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
+$mylist = preg_replace("/<h3>/s", '<h3 class="accordion-header mt-1" id="heading-zz"><button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button></h3>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
       <div class="accordion-body">', $mylist);
-$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer sectionprint" onClick="printThisGuide(this)">Print this section only (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer sectionprint" tabindex="0" onClick="printThisGuide(this)">Print this section only (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
 </svg></button></div></div></div>', $mylist);
