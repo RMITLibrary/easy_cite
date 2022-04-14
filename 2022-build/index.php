@@ -94,7 +94,7 @@
 <!-- Instructions content--> 
 <div class="ecinstructions">
     <!-- link to trigger collapse -->
-    <a class="notabutton ectitle" id="ecinstruct" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" onClick="textToggle(this)">
+    <a class="notabutton ectitle" id="ecinstruct" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" onClick="textToggle(this)" ondblclick="textToggle(this)">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;&nbsp;How to use Easy Cite referencing resources - <span id="textoggle">open</span>
   		
 	</a>
@@ -593,17 +593,25 @@ function printThisGuide(elem) {
    a.focus();
 }
 // toggle the instructions box text - open/close
+var clickAllowed = true;
 function textToggle(elem){
+	//if (!clickAllowed) {
+    	//return;
+  	//}
 	var thiscol = document.getElementById('collapseExample');
 	var colstatus = thiscol.getAttribute('aria-expanded');
 	if (colstatus == 'false'){
 		document.getElementById('textoggle').innerHTML = "close";
 		thiscol.setAttribute("aria-expanded", "true");
 		console.log("open");
+		//clickAllowed = false;
+  		//setTimeout(() => clickAllowed = true, 500);
 	} else if (colstatus == 'true') {
 		document.getElementById('textoggle').innerHTML = "open";	
 		thiscol.setAttribute("aria-expanded", "false");
 		console.log("close");
+		//clickAllowed = false;
+  		//setTimeout(() => clickAllowed = true, 500);
 	}
 }
 </script>
