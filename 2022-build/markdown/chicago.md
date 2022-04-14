@@ -72,6 +72,17 @@
 - If the publication date of a reference is unknown, use n.d.
 - If the publication date is unknown but can be reliably estimated or inferred from the text then use c. (meaning 'circa') before the year
 
+this is how you do a hanging indent - use the following tags around your whole referencing section
+<hanging-indent>
+
+Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.
+
+Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.
+
+Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.
+
+</hanging-indent>
+
 &nbsp;
 #### Direct quote
 

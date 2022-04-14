@@ -193,6 +193,10 @@ blockquote{
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
 	margin-left: 30px;
 }
+.hanging-indent{
+	padding-left: 4em !important;
+ 	text-indent: -4em !important;
+}
 .accordion-button{
 	background-color: #e3e5e0 !important;
 }

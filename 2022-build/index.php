@@ -210,6 +210,9 @@ $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div>', $mylist);
+// HANGING INDENTS
+$mylist = preg_replace("/<hanging-indent>/s", '<div class="hanging-indent">', $mylist);
+$mylist = preg_replace("/<\/hanging-indent>/s", '</div>', $mylist);
 // END CONTENT
 // REPLACE FOR FIRST
 //replace property for the first tab, pill, accordion only - to show, true or active
@@ -593,7 +596,7 @@ function printThisGuide(elem) {
    a.focus();
 }
 // toggle the instructions box text - open/close
-var clickAllowed = true;
+	//var clickAllowed = true;
 function textToggle(elem){
 	//if (!clickAllowed) {
     	//return;
@@ -614,6 +617,18 @@ function textToggle(elem){
   		//setTimeout(() => clickAllowed = true, 500);
 	}
 }
+/*function textToggle(elem){
+	const thiscol = document.getElementById('collapseExample');
+	//var colstatus = thiscol.getAttribute('class');
+	if (thiscol.classList.contains("show")){
+		document.getElementById('textoggle').innerHTML = "close";
+		console.log("close");
+	} else {
+		document.getElementById('textoggle').innerHTML = "open";	
+		console.log("open");
+	}
+}
+*/
 </script>
 </body>
 </html>
