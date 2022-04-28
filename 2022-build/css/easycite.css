@@ -4,6 +4,9 @@ body {}
 nav {
 	border:none !important;
 }
+h4 {
+	font-size: 1.2rem !important;
+}
 .ectitle{
 	color: #ffffff;
 	margin-left: 20px;
@@ -196,6 +199,9 @@ blockquote{
 .hanging-indent{
 	padding-left: 4em !important;
  	text-indent: -4em !important;
+}
+.centre-align{
+	text-align: center !important;
 }
 .accordion-button{
 	background-color: #e3e5e0 !important;

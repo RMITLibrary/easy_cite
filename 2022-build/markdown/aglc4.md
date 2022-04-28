@@ -1,9 +1,9 @@
-<!-- RMIT Harvard Style Guide -->
+<!-- AGLC4 Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-
+<!-- -->
 <!-- start the top style guide menu -->
 <!-- the STYLE GUIDE menu list must use heading 1 (#) -->
 <!-- add additional style guides if needed -->
@@ -15,42 +15,49 @@
 # IEEE
 # Vancouver
 ###### end-style-menu
-
+<!-- -->
 ###### start-style-guide
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
 ## Using AGLC4
-## Books
-## Journal articles
-## Newspaper articles
-## Social media, web pages
-## Reports and standards
-## Audiovisual materials
-## Images
+## Case law
+## Legislation
+## Books and e-books
+## Articles
+## Online sources
+## Audio visual material
 ## Other sources
 ###### end-type-menu
-
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
-
-<!-- Using Harvard - links to the first TYPE menu item -->
+<!-- Using AGLC4 - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
 ###### start-type-content
-
+<!-- -->
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 ###### start-subtype
 <!-- start SUB_TYPE-ITEM - accordion item -->
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Using AGLC4 - Introduction
+### Introduction to the AGLC4 referencing style
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Cillum ad ut irure tempor velit** nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id *reprehenderit* sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat.
+Important: This is a guide only. To avoid losing marks:
+
+-	Confirm referencing requirements of your school with your lecturer.
+
+-	The Australian Guide to Legal Citation (AGLC) 4th ed, 2018 is a required referencing style for students enrolled in the Juris Doctor program at RMIT University.
+
+-	Use [*Australian Guide to Legal Citation* (4th ed, 2018)](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/tcai14/alma9921686693101341), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
+
+##### Additional resources
+Download the [*Australian Guide to Legal Citation (AGLC)* 4th ed, 2018](target _blank https://law.unimelb.edu.au/mulr/aglc)
 
 ###### end-subtype-content
 
@@ -58,77 +65,84 @@
 
 ###### start-subtype-item
 
-### General rules for in-text references
+### General principals
 
 ###### start-subtype-content
 
-- Use in-text references to acknowledge each author or source of information (print or online) used within your writing either by paraphrasing or using a direct quote.
-- In-text reference details include the author(s) family name (or company or organisation name, if the author is a company or organisation) and year of publication, with extra information if required, such as page numbers.
-- An in-text reference can be inserted at the beginning, middle or end of a sentence.  If the author is integrated as part of the sentence, only the date (and page number for direct quote) is in parentheses immediately after the author's name.
-- Use an ampersand (&amp;) when listing authors in parentheses. For example: (Lewis &amp; Lewis 2015). Use the full word 'and' when mentioning an author(s) in a sentence. For example: Lewis and Lewis (2015) ... .
-- When a work has two or three authors, always list all author(s) names every time the reference occurs in the text.
-- When a work has four or more authors, list the first author(s) name followed by et al. For example: Haslam et al. (2013) ... or (Haslam et al. 2013).
-- If the author of a reference is unknown, list the reference based on the title of the work.
-- If the publication date of a reference is unknown, use n.d.
-- If the publication date is unknown but can be reliably estimated or inferred from the text then use c. (meaning 'circa') before the year
+The AGLC4 style consists of:
 
-&nbsp;
-#### Direct quote
+-	Footnotes to provide information about sources used in your work.
 
-A direct quote is when you are using the exact words of the author(s).
+-	Within the text of your work, footnote numbers (using a superscript) are positioned after punctuation.
 
-Do not overuse direct quotes.
+-	Footnotes appear at the end of each page of your work.
 
-Put direct quotes between single inverted commas (quotation marks), and add a page number.
+-	Use a full stop at the end of each footnote.
 
-If no page number is available, include the location of the quote using a paragraph number or section heading. Abbreviate the word paragraph to para. with a period afterward.
+-	Separate multiple sources in a footnote with a semicolon (;).
 
-If you omit words from a direct quote, you will need to add a space followed by three ellipsis dots (...) and another space. For example: Cannon (2012, p. 165) argues that 'changes in corporate approaches to such sensitive areas ... will require coherent change strategies'.
+-	A **Pinpoint** is the particular page, paragraph or chapter number from which you have sourced information.
 
-An in-text reference can be inserted at the beginning, middle or end of a sentence.
+-	The first time a source is cited, it is cited in full. Thereafter, it is appropriate to use either '**ibid**' or '**n**'. See AGLC section 1.4.
 
-##### Beginning of a sentence
+-	If a bibliography is required it should be provided at the end of the paper. Give details of each source mentioned in the text, as well as details of other sources consulted in preparing the paper.
 
-> Cannon (2012, p. 165) argues that 'changes in corporate approaches to such sensitive areas as hazard reduction, resource use, waste, pollution, etc. will require coherent change strategies'.
+**In-text example**
 
-##### Middle of a sentence
+>  Recent developments in Australian law following the decision of the High Court in *IceTV Pty Ltd v Network Nine Australia Pty Ltd* illustrate a fundamental shift in the approach of courts regarding the importance and form of authorship.1
 
-> In a post about the emotions involved in undertaking a literature review, the Thesis Whisper (2013, para. 16) notes that 'elation when you realise you know more than your supervisor about your topic and you feel brave enough to argue about it' is one of the top five PhD emotions.
+**Footnote example**
 
-##### End of a sentence
+>  <sup>1</sup> *IceTV Pty Ltd v Nine Network Australia Pty Ltd* [2009] HCA 14.
 
-> 'Results broadly apply to managers in the tourism, hospitality, and service industries' (Hosany &amp; Martin 2012, Managerial implications section).
+#### Pinpoint references
 
-&nbsp;
-#### Block quotations
+A pinpoint reference within a footnote directs the reader to a particular place in the cited work:
 
-Quotes of more than 30 words in length are known as block quotations.
+-	For sources such as cases, books or journal articles, a pinpoint reference might refer the reader to a particular chapter, page or paragraph.
 
-Block quotes need to start on a new line, be indented from the text margin and set in smaller text size without single inverted commas (quotation marks).
+-	For legislative materials, pinpoint references can also refer to parts, sections, clauses or divisions.
 
-At the end of the quote, include the reference details such as author name, year and page number(s) in parentheses.
+-	A pinpoint reference is provided at the end of the footnote.
 
-> Khoo's PhD research project in the area of architecture investigated:
+See section 3.1.4 of the [AGLC4](target _blank http://law.unimelb.edu.au/mulr/aglc)  for a full list of abbreviations used in pinpoint references for legislative materials.
 
->>the application of alternative multifunctional material systems with possible form-changing and responsive capacities. These are integrated with physical computational processes for responsive morphing architectural design as an ‘integrated’ and ‘synergetic’ entity identical to single moulded devices such as the solid-state door handles developed by the automobile industry (2013, p. 10).
+#### Repeat citations
 
-##### Paraphrasing
+When a source is cited more than once in a paper the full bibliographic details should only be provided in the first instance.
 
-Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
+The terms '**Ibid**' and '**n**' are used for repeat citations of the same work. In some circumstances, '**above (n)**' or '**below (n)**' are used to direct the reader to a specific part or reference within a text.
 
-An in-text reference can be inserted at the beginning, middle or end of a sentence.
+**Using 'Ibid'**
 
-##### Beginning of a sentence
+Use 'Ibid' in a footnote where the immediately preceding footnote refers to the same work. The exception to this rule is if a footnote lists more than one source (in this case use 'n').
+If a footnote refers to the same work and to the same pinpoint reference, simply use 'Ibid'. The pinpoint reference does not need to be repeated in this case.
+If a footnote refers to the same work but to a different pinpoint reference, use 'Ibid' followed by the pinpoint reference.
 
-> Ahmadjian (2006) noted that there has been disagreement over the influence of Japanese business groups on the economy.
+> <sup>1</sup> *IceTV Pty Ltd v Nine Network Australia Pty Ltd* [2009] HCA 14.
 
-##### Middle of a sentence
+> <sup>2</sup> Ibid.
 
-> Based on the novel of the same name, <em>Coco Chanel &amp; Igor Stravinsky</em> (2010) follows the relationship between Coco Chanel and Igor Stravinsky.
+> <sup>3</sup> Ibid HCA 15-16.
 
-##### End of a sentence
+**Using 'n'**
 
-> The City of Melbourne's population increased by 10.5 percent in the period between July 2012 and June 2013 (Martin 2014).
+Use ‘n’ to refer to a source that has been cited in a previous footnote other than the immediately preceding one.
+
+If citing a source that has already been referred to then a shortened form of the citation should be provided (e.g. shortened author name or title), along with the footnote number **(n)** in parentheses. Also include the pinpoint if different from the first citation.
+
+> <sup>1</sup> *IceTV Pty Ltd v Nine Network Australia Pty Ltd* [2009] HCA 14.
+
+> ...
+
+> <sup>4</sup> *IceTV* (n 1) HCA 17.
+
+Note: If referring to a specific part/s or reference/s within a text then use 'above (n)' or 'below (n)' where appropriate. See AGLC section 1.4.2 for further details.
+
+> <sup>5</sup> See above n 1 and accompanying text.
+
+> <sup>6</sup> See below n 7 Part II(A).
+
 
 ###### end-subtype-content
 
@@ -137,11 +151,306 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 
 ###### start-subtype-item
 
-### Multiple works by the same author(s) in the same year
+### General rules for the bibliography
 
 ###### start-subtype-content
 
-**Eu dolore ea ullamco dolore** Lorem id cupidatat excepteur reprehenderit consectetur elit id dolor proident in cupidatat officia. Voluptate excepteur commodo labore nisi cillum duis aliqua do. Aliqua amet qui mollit consectetur nulla mollit velit aliqua veniam nisi id do Lorem deserunt amet. Culpa ullamco sit adipisicing labore officia magna elit nisi in aute tempor commodo eiusmod.
+If a bibliography is required list all works referred to both in footnotes and in the body of your assignment, as well as all works consulted in writing your assignment.
+
+The bibliography is divided into sections as outlined in AGLC 1.13:
+
+> A. *Articles/Books/Reports*
+
+> B. *Cases*
+
+> C. *Legislation*
+
+> D. *Treaties*
+
+> E. *Other*
+
+Note: Organise items alphabetically under each heading.
+
+Note that details provided in the bibliography are almost identical to details provided in the footnotes, with the following exceptions:
+
+-	Invert the first author’s first name and family name and separate these with a comma.
+
+-	Pinpoint references are not included; however, note that the starting page number for journal articles and cases is **not** a pinpoint and remains part of the citation.
+
+-	There is **no** full stop at the end of a bibliography entry.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Example of a bibliography
+
+###### start-subtype-content
+
+<centre-align>BIBLIOGRAPHY</centre-align>
+
+<centre-align> A *Articles/Books* </centre-align>
+
+Bodkin, Colin, *Patent Law in Australia* (Thomson Reuters, 2nd ed, 2014)
+
+Meagher, Dan, ‘Digital Sampling/Remix Culture Forum’ (2012) 17(2) *Deakin Law Review* 307
+
+<centre-align>B *Cases*</centre-align>
+
+*Roadshow Films Pty Limited v iiNet Limited* [2012] HCA 16; (2012) 248 CLR 42
+
+*Walton v Gardiner* (1993) 112 ALR 289
+
+<centre-align>C *Legislation*</centre-align>
+
+*Copyright Act 1968* (Cth)
+
+*Wrongs Act 1958* (Vic)
+
+<centre-align>D *Other*</centre-align>
+
+Board of Examiners, *Admission Requirements* (18 February 2010)[Council of Legal Information](http://www.lawadmissions.vic.gov.au)
+
+#### How to videos
+
+Refer to Swinburne University video clips:
+
+-	[‘AGLC3 referencing style - Get started’](https://commons.swinburne.edu.au/items/39409a7d-043f-4372-a43f-59841e3e0db3/1/) provides an introduction to legal citation using the Australian Guide to Legal Citation (AGLC3).
+
+-	[‘AGLC3 referencing style - Footnotes’](https://commons.swinburne.edu.au/items/67b565d3-b5d9-4976-ac93-f40f0e216644/1/) explains more about Footnotes in the Australian Guide to Legal Citation (AGLC3).
+
+Note: These videos are intended as guides only (they demonstrate the AGLC3 referencing style, which has now been superseded by AGLC4).
+
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
+
+<!-- Case law - links to the second type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Case law - reported decision
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+| **Case name** | **Year** | **Volume** | **Report series** | **Starting page** |
+| ------ | ------ | ------ | ------ | ------ |
+| Village Films Pty Ltd v iiNet Ltd | (2012) | 286 | ALR | 466 |
+
+-	Party names are italicised.
+
+-	Where parties are individuals, given names and initials are omitted.
+
+-	Where a party is a business corporation or firm, abbreviations such as Co (company), Ltd (Limited), and Pty (proprietary) are used.
+
+-	Where the Crown is the first named party, Rex (the 'King') or Regina (the 'Queen') is abbreviated to 'R'.
+
+-	Where the Crown is the respondent 'The King' or 'The Queen' is written in full.
+
+-	Law report series are abbreviated.
+
+-	The first page of the case should appear after the series details.
+
+-	A full stop is used at the end of a footnote.
+
+-	A full stop is not used in a bibliography.
+
+
+**Footnote examples**
+
+| **Type** | **Footnote example** |
+| ------ | ------ |
+| Individual party names | <sup>1</sup> Smith v Smith [1948] 2 ALR 475. |
+| Company party names | <sup>1</sup> Village Films Pty Ltd v iiNet Ltd (2012) 286 ALR 466. |
+| The Crown as the first party | <sup>1</sup> R v Milat (2005) 157 A Crim R 565. |
+| The Crown as respondent | <sup>1</sup> Smith v The Queen [2010] NSWCCA 325. |
+
+**Bibliography examples**
+
+| **Type** | **Bibliography example** |
+| ------ | ------ |
+| Individual party names | Smith v Smith [1948] 2 ALR 475 |
+| Company party names | Village Films Pty Ltd v iiNet Ltd (2012) 286 ALR 466 |
+| The Crown as the first party | R v Milat (2005) 157 A Crim R 565 |
+| The Crown as respondent | Smith v The Queen [2010] NSWCCA 325 |
+
+#### Pinpoint references
+
+A pinpoint reference is a reference to a specific page, paragraph or other section of a decision:
+
+-	A pinpoint reference to a page should appear as a number – do not use 'p' or 'pg'.
+
+-	A pinpoint reference to a paragraph should appear as a number in square brackets '[ ]'.
+
+Example of a pinpoint reference to a page
+
+> <sup>1</sup> *Village Films Pty Ltd v iiNet Ltd* (2012) 286 ALR 466, 3.
+
+Example of a pinpoint reference to a paragraph
+
+> <sup>1</sup> *Village Films Pty Ltd v iiNet Ltd* (2012) 286 ALR 466, 488 [95].
+
+#### Law report abbreviations
+
+Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the [Monash University website](https://guides.lib.monash.edu/legal-abbreviations).
+
+Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the [Cardiff University database](http://www.legalabbrevs.cardiff.ac.uk/).
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### Case law - unreported decision
+
+###### start-subtype-content
+
+| **Case name** | **[Year]** | **Court** | **Judgement no.** | **Full date** |
+| ------ | ------ | ------ | ------ | ------ |
+| *Rowland v Alfred Health* | [2014] | FCA | 2 | (15 January 2014) |
+
+-	Unreported decisions utilise a 'medium neutral citation' that does not depend on a publisher or medium.
+
+-	The party names are listed first and italicised.
+
+-	The year is enclosed in square brackets '[ ]'.
+
+-	Court identifiers are abbreviated. For example, FCA is used for Federal Court of Australia and HCA for the High Court of Australia.
+
+-	Judgement numbers are commonly used, these are applied by the relevant court.
+
+-	The full date of the judgement is in parentheses '( )'.
+
+-	A full stop **is used** at the end of a footnote.
+
+-	A full stop is **not** used in a bibliography.
+
+
+**Footnote examples**
+
+|**Type** | **Footnote example** |
+| ------ | ------ |
+| Individual party names | <sup>1</sup> *Stanford v Stanford* [2012] HCA 52 (15 November 2012). |
+| Company party names | <sup>1</sup> *Trusted Cloud Pty Ltd v Core Desktop Pty Ltd* [2015] FCA 33 (3 February 2015). |
+| The Crown as the first party | <sup>1</sup> *R v Coulter* [2014] VSC 42 (27 February 2014). |
+| The Crown as respondent | <sup>1</sup> [2015] *VSCA 5* (5 February 2015). |
+
+**Bibliography examples**
+
+| **Type** | **Bibliography example** |
+| ------ | ------ |
+| Individual party names | *Stanford v Stanford* [2012] HCA 52 (15 November 2012) |
+| Company party names | *Trusted Cloud Pty Ltd v Core Desktop Pty Ltd* [2015] FCA 33 (3 February 2015) |
+| The Crown as the first party | *R v Coulter* [2014] VSC 42 (27 February 2014) |
+| The Crown as respondent | *Picone v The Queen* [2015] VSCA 5 (5 February 2015) |
+
+#### Pinpoint references
+
+A pinpoint reference is a reference to a specific page, paragraph or other section of a decision:
+
+-	A pinpoint reference to a page should appear as a number – do not use '**p**' or '**pg**'.
+
+-	A pinpoint reference to a paragraph should appear as a number in square brackets '**[ ]**'.
+
+**Example of a pinpoint reference to a page**
+
+> <sup>1</sup> *Stanford v Stanford* [2012] HCA 52 (15 November 2012) 22.
+
+**Example of a pinpoint reference to a paragraph**
+
+> <sup>1</sup> *Stanford v Stanford* [2012] HCA 52 (15 November 2012) [12].
+
+#### Law report abbreviations
+Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the [Monash University website](https://guides.lib.monash.edu/legal-abbreviations).
+
+Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the [Cardiff University database](http://www.legalabbrevs.cardiff.ac.uk/).
+
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
+
+<!-- Legislation - links to the third type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Legislation - statute or regulation (Act of Parliament)
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+| Title | Year | Jurisdiction | Pinpoint |
+| ------ | ------ | ------ | ------ |
+| *Copyright Act* | 1968 | (Cth) | s 1 |
+
+- Both the title of the act and the year in which the act was passed appear in italics.
+- The jurisdiction is abbreviated and within parentheses '( )'.
+- Regulations, rules and orders should be cited in the same manner as primary legislation: title; year; jurisdiction (in parentheses).
+- Both the title of the act and the year in which the regulation was passed appear in italics.
+
+**Footnote example**
+
+> <sup>1</sup> *Climate Change Act 2010* (Vic).
+
+**Bibliography example**
+
+> *Climate Change Act 2010* (Vic)
+
+#### Pinpoint references
+
+- A pinpoint reference is a reference to a specific page, paragraph or other section of an Act, or regulation.
+
+- Pinpoint references should appear as abbreviations and a number separated by a space.
+
+- Where referencing a section, separate the relevant reference with a space with an 's' but do not use a full stop.
+
+**Pinpoint example**
+
+> *Climate Change Act 2010* (Vic) pt 3 div 2 s 16
+
+#### Abbreviations for Australian jurisdictions
+
+- Commonwealth – Cth
+
+- Australian Capital Territory – ACT
+
+- New South Wales – NSW
+
+- Northern Territory – NT
+
+- Queensland – QLD
+
+- South Australia – SA
+
+- Tasmania – Tas
+
+- Victoria – Vic
+
+- Western Australia – WA
 
 ###### end-subtype-content
 
@@ -153,7 +462,7 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 ###### end-type-content
 
 
-<!-- Books - links to the second type menu item -->
+<!-- Books and e-books - links to the fourth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -161,12 +470,12 @@ An in-text reference can be inserted at the beginning, middle or end of a senten
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Books - part 1
+### BUTTON
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-some text here about books
+CONTENT
 
 ###### end-subtype-content
 
@@ -174,12 +483,12 @@ some text here about books
 
 
 ###### start-subtype-item
-
-### Books - part 2
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### BUTTON
 
 ###### start-subtype-content
 
-some more text here about books
+CONTENT
 
 ###### end-subtype-content
 
@@ -187,12 +496,75 @@ some more text here about books
 
 
 ###### start-subtype-item
-
-### Books - part 3
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### BUTTON
 
 ###### start-subtype-content
 
-even more text here about books
+CONTENT
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### BUTTON
+
+###### start-subtype-content
+
+CONTENT
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
+
+<!-- Articles - links to the fifth type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### BUTTON
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+CONTENT
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### BUTTON
+
+###### start-subtype-content
+
+CONTENT
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### BUTTON
+
+###### start-subtype-content
+
+CONTENT
 
 ###### end-subtype-content
 
@@ -204,7 +576,7 @@ even more text here about books
 ###### end-type-content
 
 
-<!-- Journal articles - links to the third type menu item -->
+<!-- Online sources - links to the sixth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -212,12 +584,12 @@ even more text here about books
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Journals - part 1
+### BUTTON
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-some text here about books
+CONTENT
 
 ###### end-subtype-content
 
@@ -229,7 +601,7 @@ some text here about books
 ###### end-type-content
 
 
-<!-- Newspaper articles - links to the fourth type menu item -->
+<!-- Audiovisual material - links to the seventh type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -237,12 +609,25 @@ some text here about books
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Newspapers - part 1
+### BUTTON
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-some text here about books
+CONTENT
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### BUTTON
+
+###### start-subtype-content
+
+CONTENT
 
 ###### end-subtype-content
 
@@ -254,7 +639,8 @@ some text here about books
 ###### end-type-content
 
 
-<!-- Social media, web pages - links to the fifth type menu item -->
+
+<!-- Other sources - links to the eighth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -262,111 +648,12 @@ some text here about books
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Socials - part 1
+### BUTTON
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-some text here about books
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### end-subtype
-
-###### end-type-content
-
-
-<!-- Reports and standards - links to the sixth type menu item -->
-###### start-type-content
-
-###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### Reports - part 1
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-some text here about books
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### end-subtype
-
-###### end-type-content
-
-
-<!-- Audiovisual materials - links to the seventh type menu item -->
-###### start-type-content
-
-###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### AV - part 1
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-some text here about books
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### end-subtype
-
-###### end-type-content
-
-
-<!-- Images - links to the eighth type menu item -->
-###### start-type-content
-
-###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### Images - part 1
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-some text here about books
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### end-subtype
-
-###### end-type-content
-
-<!-- Other sources - links to the ninth type menu item -->
-###### start-type-content
-
-###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### Other - part 1
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-some text here about books
+CONTENT
 
 ###### end-subtype-content
 

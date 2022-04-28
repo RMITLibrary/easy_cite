@@ -40,7 +40,6 @@
 <!-- add types at the end of this section if you have created new TYPE menu items -->
 ###### start-type-content
 
-
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 ###### start-subtype
 <!-- start SUB_TYPE-ITEM - accordion item -->
@@ -1134,11 +1133,11 @@ If there is no author, cite the newspaper title and the full publication date (e
 
 **Rule**
 
-  *Newspaper Name* (Day Month Year) ‘Title of article: subtitle of article’.
+  > *Newspaper Name* (Day Month Year) ‘Title of article: subtitle of article’.
 
 **Example**
 
-  *Financial Review* (7 August 2021) ‘Small business response to COVID-19’.
+  > *Financial Review* (7 August 2021) ‘Small business response to COVID-19’.
 
 ###### end-subtype-content
 

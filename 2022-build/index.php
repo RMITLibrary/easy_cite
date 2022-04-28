@@ -213,6 +213,9 @@ $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div>', $my
 // HANGING INDENTS
 $mylist = preg_replace("/<hanging-indent>/s", '<div class="hanging-indent">', $mylist);
 $mylist = preg_replace("/<\/hanging-indent>/s", '</div>', $mylist);
+// CENTRE ALIGN
+$mylist = preg_replace("/<centre-align>/s", '<p class="centre-align">', $mylist);
+$mylist = preg_replace("/<\/centre-align>/s", '</p>', $mylist);
 // END CONTENT
 // REPLACE FOR FIRST
 //replace property for the first tab, pill, accordion only - to show, true or active
