@@ -734,7 +734,7 @@ List both authors, and separate the names with an ampersand symbol &.
 
 When including journal articles in the reference list, you must italicise the title of the Journal and volume number, and include the **digital object identifier (DOI)** at the end of the reference (if stated).
 
-> {.hanging-indent}Felton, A., & Royal, J. (2015). Skills for nursing practice: Development of clinical skills in pre-registration nurse education. Nurse Education in Practice, 15(1), 38-43. https<nolink>://doi.org/10.1016/j.nepr.2014.11.009 {/.hanging-indent}
+> {.hanging-indent}Felton, A., & Royal, J. (2015). Skills for nursing practice: Development of clinical skills in pre-registration nurse education. *Nurse Education in Practice*, 15(1), 38-43. https<nolink>://doi.org/10.1016/j.nepr.2014.11.009 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -743,11 +743,31 @@ When including journal articles in the reference list, you must italicise the ti
 
 ###### start-subtype-item
 
-### BUTTON
+### Journal article with 3 to 20 authors
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+Cite the first family name listed followed by et al.
+
+> . . . outlining the thought processes (Demacheva et al., 2012).
+
+> Demacheva et al. (2012) note that . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number(s) from the journal.
+
+> "Our findings suggest that decoupling the when and the where attention modules may play an important role in creating magic effects" (Demacheva et al., 2012, p. 547).
+
+#### Reference list
+
+List all authors (up to 20), placing an ampersand symbol & before the last name.
+
+When including journal articles in the reference list, you must italicise the title of the Journal and volume number, and include the digital object identifier (DOI) at the end of the reference (if stated).
+
+> {.hanging-indent}Demacheva, I., Ladouceur, M., Steinberg, E., Pogossova, G., & Raz, A. (2012). The applied cognitive psychology of attention: A step closer to understanding magic tricks. *Applied Cognitive Psychology*, 26, 541-549. https<nolink>://doi.org/10.1002/acp.2825 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -756,11 +776,27 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Journal article with 21 or more authors
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+Use only the first listed family name followed by et al. and year of publication.
+
+> Kalnay et al. (1996) comment . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number(s) from the journal.
+
+> "As a result, the NCEP/NCAR reanalysis system has many novel features not yet present in operational or research numerical weather forecasting systems" (Kalnay et al., 1996, p. 439).
+
+#### Reference list
+
+List the first 19 authors followed by three ellipsis points (. . .) then the last author.
+
+> {.hanging-indent}Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., . . . Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. Bulletin of the American Meteorological Society, 77(3), 437-472. https<nolink>://doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -769,11 +805,29 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Journal article without a DOI
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the author family name(s) and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+
+> Recent studies indicate that . . . (Walker & Buchbinder, 1997).
+
+> Walker and Buchbinder (1997) contend that . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number(s) from the journal. If no pages are stated, then include the section heading and paragraph number.
+
+> Walker and Buchbinder (1997) noted that "analysis of the determinants of frequency of use of the various diagnostic methods revealed that motion palpation was more commonly employed by younger chiropractors" (Discussion section, para. 6).
+
+#### Reference list
+
+If citing a journal article without a DOI, include the volume, issue number (if available), and page number(s).
+
+> {.hanging-indent}Walker, B., & Buchbinder, R. (1997). Most commonly used methods of detecting spinal subluxation and the preferred term for its description: A survey of chiropractors in Victoria, Australia. *Journal of Manipulative & Physiological Therapeutics*, 20(9), 583-589. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -793,12 +847,32 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Newspapers - part 1
+### Newspaper article from a library database
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-some text here about books
+#### Paraphrasing in-text
+
+When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+
+> The results of the study indicate . . . (Evans, 2015).
+
+> Evans (2015) states that . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number(s) from the newspaper. If no page numbers are provided, then include the paragraph number.
+
+> Evans (2015) notes that "aspirin's miracle properties revolve around its ability to stop blood platelets clumping together, reducing the risk of heart attacks and strokes" (p. 11).
+
+#### Reference list
+
+Do NOT italicise the title of the article, only the title of the newspaper.
+
+Include the day, month and year, as well as the exact URL of the article.
+
+> {.hanging-indent}Evans, K. (2015, January 5). Aspirin study raises hopes for dementia prevention. The Age. http<nolink>://search.proquest.com/docview/1641732086?accountid=13552 {/.hanging-indent}
 
 ###### end-subtype-content
 

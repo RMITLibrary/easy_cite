@@ -71,16 +71,21 @@ p {
 	display: block;
 }
 blockquote p {
-	font-family: Baskerville, "Palatino Linotype", "serif" !important;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
 	margin-left: 20px;
-	font-size: 12px;
+	font-size: 14px;
 	page-break-inside: avoid;
-	background-color: #f0f0f0 !important;
 	padding: 10px;
 }
-.grey {
-	background-color: #f0f0f0 !important;
-	padding: 10px;
+.hanging-indent{
+	padding-left: 4em !important;
+ 	text-indent: -4em !important;
+	font-family: Baskerville, "Palatino Linotype", "serif" !important;
+	margin-left: 20px;
+	font-size: 14px;
+}
+.centre-align{
+	text-align: center !important;
 }
 ul, img {
    page-break-inside: avoid;
