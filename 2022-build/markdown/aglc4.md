@@ -10,7 +10,7 @@
 ###### start-style-menu
 # RMIT Harvard
 # AGLC4
-# APA 7th Ed.
+# APA 7th ed.
 # Chicago
 # IEEE
 # Vancouver
@@ -57,7 +57,7 @@ Important: This is a guide only. To avoid losing marks:
 -	Use [*Australian Guide to Legal Citation* (4th ed, 2018)](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/tcai14/alma9921686693101341), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
 ##### Additional resources
-Download the [*Australian Guide to Legal Citation (AGLC)* 4th ed, 2018](target _blank https://law.unimelb.edu.au/mulr/aglc)
+Download the [*Australian Guide to Legal Citation (AGLC)* 4th ed, 2018](https://law.unimelb.edu.au/mulr/aglc)
 
 ###### end-subtype-content
 
@@ -105,7 +105,7 @@ A pinpoint reference within a footnote directs the reader to a particular place 
 
 -	A pinpoint reference is provided at the end of the footnote.
 
-See section 3.1.4 of the [AGLC4](target _blank http://law.unimelb.edu.au/mulr/aglc)  for a full list of abbreviations used in pinpoint references for legislative materials.
+See section 3.1.4 of the [AGLC4](http://law.unimelb.edu.au/mulr/aglc)  for a full list of abbreviations used in pinpoint references for legislative materials.
 
 #### Repeat citations
 
@@ -119,10 +119,8 @@ Use 'Ibid' in a footnote where the immediately preceding footnote refers to the 
 If a footnote refers to the same work and to the same pinpoint reference, simply use 'Ibid'. The pinpoint reference does not need to be repeated in this case.
 If a footnote refers to the same work but to a different pinpoint reference, use 'Ibid' followed by the pinpoint reference.
 
-> <sup>1</sup> *IceTV Pty Ltd v Nine Network Australia Pty Ltd* [2009] HCA 14.
-
-> <sup>2</sup> Ibid.
-
+> <sup>1</sup> *IceTV Pty Ltd v Nine Network Australia Pty Ltd* [2009] HCA 14.<br>
+> <sup>2</sup> Ibid. <br>
 > <sup>3</sup> Ibid HCA 15-16.
 
 **Using 'n'**
@@ -131,16 +129,13 @@ Use ‘n’ to refer to a source that has been cited in a previous footnote othe
 
 If citing a source that has already been referred to then a shortened form of the citation should be provided (e.g. shortened author name or title), along with the footnote number **(n)** in parentheses. Also include the pinpoint if different from the first citation.
 
-> <sup>1</sup> *IceTV Pty Ltd v Nine Network Australia Pty Ltd* [2009] HCA 14.
-
-> ...
-
+> <sup>1</sup> *IceTV Pty Ltd v Nine Network Australia Pty Ltd* [2009] HCA 14.<br>
+> ...<br>
 > <sup>4</sup> *IceTV* (n 1) HCA 17.
 
 Note: If referring to a specific part/s or reference/s within a text then use 'above (n)' or 'below (n)' where appropriate. See AGLC section 1.4.2 for further details.
 
-> <sup>5</sup> See above n 1 and accompanying text.
-
+> <sup>5</sup> See above n 1 and accompanying text.<br>
 > <sup>6</sup> See below n 7 Part II(A).
 
 
@@ -159,15 +154,15 @@ If a bibliography is required list all works referred to both in footnotes and i
 
 The bibliography is divided into sections as outlined in AGLC 1.13:
 
-> A. *Articles/Books/Reports*
+A. *Articles/Books/Reports*
 
-> B. *Cases*
+B. *Cases*
 
-> C. *Legislation*
+C. *Legislation*
 
-> D. *Treaties*
+D. *Treaties*
 
-> E. *Other*
+E. *Other*
 
 Note: Organise items alphabetically under each heading.
 
@@ -189,31 +184,39 @@ Note that details provided in the bibliography are almost identical to details p
 
 ###### start-subtype-content
 
-<centre-align>BIBLIOGRAPHY</centre-align>
+{.centre-align}BIBLIOGRAPHY{/.centre-align}
 
-<centre-align> A *Articles/Books* </centre-align>
+{.centre-align} A *Articles/Books* {/.centre-align}
 
 Bodkin, Colin, *Patent Law in Australia* (Thomson Reuters, 2nd ed, 2014)
 
 Meagher, Dan, ‘Digital Sampling/Remix Culture Forum’ (2012) 17(2) *Deakin Law Review* 307
 
-<centre-align>B *Cases*</centre-align>
+{.centre-align}B *Cases*{/.centre-align}
 
 *Roadshow Films Pty Limited v iiNet Limited* [2012] HCA 16; (2012) 248 CLR 42
 
 *Walton v Gardiner* (1993) 112 ALR 289
 
-<centre-align>C *Legislation*</centre-align>
+{.centre-align}C *Legislation*{/.centre-align}
 
 *Copyright Act 1968* (Cth)
 
 *Wrongs Act 1958* (Vic)
 
-<centre-align>D *Other*</centre-align>
+{.centre-align}D *Other*{/.centre-align}
 
-Board of Examiners, *Admission Requirements* (18 February 2010)[Council of Legal Information](http://www.lawadmissions.vic.gov.au)
+Board of Examiners, *Admission Requirements* (18 February 2010) [Council of Legal Information](http://www.lawadmissions.vic.gov.au)
 
-#### How to videos
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### How to videos
+
+###### start-subtype-content
 
 Refer to Swinburne University video clips:
 
@@ -248,7 +251,7 @@ Note: These videos are intended as guides only (they demonstrate the AGLC3 refer
 
 | **Case name** | **Year** | **Volume** | **Report series** | **Starting page** |
 | ------ | ------ | ------ | ------ | ------ |
-| Village Films Pty Ltd v iiNet Ltd | (2012) | 286 | ALR | 466 |
+| *Village Films Pty Ltd v iiNet Ltd* | (2012) | 286 | ALR | 466 |
 
 -	Party names are italicised.
 
@@ -268,24 +271,25 @@ Note: These videos are intended as guides only (they demonstrate the AGLC3 refer
 
 -	A full stop is not used in a bibliography.
 
+&nbsp;
 
 **Footnote examples**
 
 | **Type** | **Footnote example** |
 | ------ | ------ |
-| Individual party names | <sup>1</sup> Smith v Smith [1948] 2 ALR 475. |
-| Company party names | <sup>1</sup> Village Films Pty Ltd v iiNet Ltd (2012) 286 ALR 466. |
-| The Crown as the first party | <sup>1</sup> R v Milat (2005) 157 A Crim R 565. |
-| The Crown as respondent | <sup>1</sup> Smith v The Queen [2010] NSWCCA 325. |
+| Individual party names | <grey><sup>1</sup> *Smith v Smith* [1948] 2 ALR 475.</grey> |
+| Company party names | <grey><sup>1</sup> *Village Films Pty Ltd v iiNet Ltd* (2012) 286 ALR 466.</grey> |
+| The Crown as the first party | <grey><sup>1</sup> *R v Milat* (2005) 157 A Crim R 565.</grey> |
+| The Crown as respondent | <grey><sup>1</sup> *Smith v The Queen* [2010] NSWCCA 325.</grey> |
 
 **Bibliography examples**
 
 | **Type** | **Bibliography example** |
 | ------ | ------ |
-| Individual party names | Smith v Smith [1948] 2 ALR 475 |
-| Company party names | Village Films Pty Ltd v iiNet Ltd (2012) 286 ALR 466 |
-| The Crown as the first party | R v Milat (2005) 157 A Crim R 565 |
-| The Crown as respondent | Smith v The Queen [2010] NSWCCA 325 |
+| Individual party names | <grey>*Smith v Smith* [1948] 2 ALR 475</grey> |
+| Company party names | <grey>*Village Films Pty Ltd v iiNet Ltd* (2012) 286 ALR 466</grey> |
+| The Crown as the first party | <grey>*R v Milat* (2005) 157 A Crim R 565</grey> |
+| The Crown as respondent | <grey>*Smith v The Queen* [2010] NSWCCA 325</grey> |
 
 #### Pinpoint references
 
@@ -328,36 +332,37 @@ Legal abbreviations for English language legal publications, from the British Is
 
 -	The party names are listed first and italicised.
 
--	The year is enclosed in square brackets '[ ]'.
+-	The year is enclosed in square brackets '**[ ]**'.
 
 -	Court identifiers are abbreviated. For example, FCA is used for Federal Court of Australia and HCA for the High Court of Australia.
 
 -	Judgement numbers are commonly used, these are applied by the relevant court.
 
--	The full date of the judgement is in parentheses '( )'.
+-	The full date of the judgement is in parentheses '**( )**'.
 
 -	A full stop **is used** at the end of a footnote.
 
 -	A full stop is **not** used in a bibliography.
 
+&nbsp;
 
 **Footnote examples**
 
 |**Type** | **Footnote example** |
 | ------ | ------ |
-| Individual party names | <sup>1</sup> *Stanford v Stanford* [2012] HCA 52 (15 November 2012). |
-| Company party names | <sup>1</sup> *Trusted Cloud Pty Ltd v Core Desktop Pty Ltd* [2015] FCA 33 (3 February 2015). |
-| The Crown as the first party | <sup>1</sup> *R v Coulter* [2014] VSC 42 (27 February 2014). |
-| The Crown as respondent | <sup>1</sup> [2015] *VSCA 5* (5 February 2015). |
+| Individual party names | <grey><sup>1</sup> *Stanford v Stanford* [2012] HCA 52 (15 November 2012).</grey> |
+| Company party names | <grey><sup>1</sup> *Trusted Cloud Pty Ltd v Core Desktop Pty Ltd* [2015] FCA 33 (3 February 2015).</grey> |
+| The Crown as the first party | <grey><sup>1</sup> *R v Coulter* [2014] VSC 42 (27 February 2014).</grey> |
+| The Crown as respondent | <grey><sup>1</sup> [2015] *VSCA 5* (5 February 2015).</grey> |
 
 **Bibliography examples**
 
 | **Type** | **Bibliography example** |
 | ------ | ------ |
-| Individual party names | *Stanford v Stanford* [2012] HCA 52 (15 November 2012) |
-| Company party names | *Trusted Cloud Pty Ltd v Core Desktop Pty Ltd* [2015] FCA 33 (3 February 2015) |
-| The Crown as the first party | *R v Coulter* [2014] VSC 42 (27 February 2014) |
-| The Crown as respondent | *Picone v The Queen* [2015] VSCA 5 (5 February 2015) |
+| Individual party names | <grey>*Stanford v Stanford* [2012] HCA 52 (15 November 2012)</grey> |
+| Company party names | <grey>*Trusted Cloud Pty Ltd v Core Desktop Pty Ltd* [2015] FCA 33 (3 February 2015)</grey> |
+| The Crown as the first party | <grey>*R v Coulter* [2014] VSC 42 (27 February 2014)</grey> |
+| The Crown as respondent | <grey>*Picone v The Queen* [2015] VSCA 5 (5 February 2015)</grey> |
 
 #### Pinpoint references
 
@@ -379,7 +384,6 @@ A pinpoint reference is a reference to a specific page, paragraph or other secti
 Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the [Monash University website](https://guides.lib.monash.edu/legal-abbreviations).
 
 Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the [Cardiff University database](http://www.legalabbrevs.cardiff.ac.uk/).
-
 
 ###### end-subtype-content
 
@@ -470,12 +474,52 @@ Legal abbreviations for English language legal publications, from the British Is
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Books and e-books: single author
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+These rules apply when referencing both printed books and e-books.
+
+| Author | Title | Publication details | Pinpoint |
+| ------ | ------ | ------ | ------ |
+| Mathew Rimmer, | *Intellectual Property and Bio­technology: Bio­logical Inventions* | (Edward Elgar, 2008) | 120-123 |
+
+- The name of the author should appear exactly as it does in the source.
+
+- If the publication is authored by a body (government department, corporation etc.) use that as the author.
+
+- The title of the book should appear in italics as it does on the title page.
+
+- A brief version of the publisher’s name should appear in parenthesis followed by publication year.
+
+- Where there are multiple editions of a book an edition number should be included after the publisher’s name (i.e. 3rd).
+
+&nbsp;
+
+#### Footnote example
+
+> <sup>1</sup> Mathew Rimmer, *Intellectual Property and Biotechnology: Biological Inventions* (Edward Elgar, 2008).
+
+#### Pinpoint example
+
+> <sup>1</sup> Mathew Rimmer, *Intellectual Property and Biotechnology: Biological Inventions* (Edward Elgar, 2008) 120-123.
+
+#### Bibliography example
+
+When the citation appears in a bibliography, list the family name first. Sources should be listed in alphabetical order by family name.
+
+> Rimmer, Mathew, *Intellectual Property and Biotechnology: Biological Inventions* (Edward Elgar, 2008)
+
+#### Other examples
+
+**Use of edition number**
+
+> Colin Bodkin, *Patent Law in Australia* (Thomson Reuters, 2nd ed, 2014)
+
+**Corporate author**
+
+> Australian Law Reform Commission, *Family Violence: a Legal Response: Summary Report* (Australian Law Reform Commission, 2010)
 
 ###### end-subtype-content
 
@@ -484,11 +528,45 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Books and e-books: multiple authors or edited work
 
 ###### start-subtype-content
 
-CONTENT
+These rules apply when referencing both printed books and e-books.
+
+| Author | Title | Publication details |
+| ------ | ------ | ------ |
+| Geoffrey A. Manne and Joshua D Wright, | Competition Policy and Patent Law under Un­certainty Regulating Innovation | (Cambridge University Press, 2011) |
+
+- Where there are two or three authors, the names of all authors should be included and the word 'and' should separate the names of the last two authors.
+
+- If there are more than three authors, list the first named author followed by 'et al'.
+
+&nbsp;
+
+#### Footnote examples
+
+**Edited book**
+
+> <sup>1</sup> Belinda Bennett (ed), *Globalization and Health* (Springer, 2008).
+
+**Book with three authors**
+
+> <sup>1</sup> Damien J Cremean, Michael H Whitten and Michael F. Sharkey, *Brooking on building contracts: the law and practice relating to building and engineering agreements* (LexisNexis Butterworths, 5th ed, 2014).
+
+**Book with four or more authors**
+
+> <sup>1</sup> Patrick Thomas George et al, *Social Media and the Law* (LexisNexis Butterworths, 2010).
+
+#### Pinpoint example
+
+> <sup>1</sup> Belinda Bennett (ed), *Globalization and Health* (Springer, 2008) 21.
+
+#### Bibliography example
+
+When the citation appears in a bibliography, list the family name first. Sources should be listed in alphabetical order by family name.
+
+> Bennett, Belinda (ed), *Globalization and Health* (Springer, 2008)
 
 ###### end-subtype-content
 
@@ -497,11 +575,33 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Chapter in an edited book
 
 ###### start-subtype-content
 
-CONTENT
+These rules apply when referencing both printed books and e-books.
+
+| Author | Chapter title | in Author | Title Details |
+| ------ | ------ | ------ | ------ |
+| William Gough, | 'Securities over Debts' | in Gregory Burton (ed), | Directions in Finance Law | (Butterworths, 1990) |
+
+When citing chapters in a book list the author and enclose the title of the chapter in single inverted commas - do not italicise the title.
+
+Details of the book follow the same conventions for books with a single or multiple authors.
+
+#### Footnote example
+
+> <sup>1</sup> William Gough, 'Securities over Debts' in Gregory Burton (ed), *Directions in Finance Law* (Butterworths, 1990).
+
+#### Pinpoint example
+
+> <sup>1</sup> William Gough, 'Securities over Debts' in Gregory Burton (ed), *Directions in Finance Law* (Butterworths, 1990) 223.
+
+#### Bibliography example
+
+When the citation appears in a bibliography, list the family name first. Sources should be listed in alphabetical order by family name.
+
+> Gough, William, 'Securities over Debts' in Gregory Burton (ed), *Directions in Finance Law* (Butterworths, 1990)
 
 ###### end-subtype-content
 
@@ -510,11 +610,21 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Encyclopaedia
 
 ###### start-subtype-content
 
-CONTENT
+| Publisher | Title | Date | Title no. and name | Chapter no. and name | Paragraph |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| LexisNexis, | *Halsbury's Laws of Australia* | (at 1 June 2011) | 90 Constitutional Law, | '6 Limitations on Legislative Powers' | [90-2226] |
+
+#### Footnote example
+
+> <sup>1</sup> LexisNexis, *Halsbury's Laws of Australia* (at 1 June 2011) 90 Constitutional Law, '6 Limitations on Legislative Powers' [90-2226].
+
+#### Bibliography example
+
+> LexisNexis, *Halsbury's Laws of Australia* (at 1 June 2011) 90 Constitutional Law, '6 Limitations on Legislative Powers'
 
 ###### end-subtype-content
 
@@ -533,12 +643,44 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Journal article with single author
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+| Author | Title | Year | Vol. & Issue | Journal | Page |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Dan Meagher, | 'Digital Sampling/Remix Culture Forum' | (2012) | 17 (2) | *Deakin Law Review* | 307 |
+
+- The name of the author appears first.
+
+- The title appears within single quotation marks (un-italicised).
+
+- The year appears in parentheses '( )'.
+
+- For journals organised by volume number, the volume number should follow the year.
+
+- The full title of the journal as it appears on the title page should appear in italics.
+
+- The number of the first page of an article should follow the title of the journal. No punctuation should separate the starting page from the title.
+
+- Do not use abbreviations for titles (use 'Australian Law Review' not ALR).
+
+- Articles from electronic journals should only be cited where a printed edition does not exist.
+
+&nbsp;
+
+#### Footnote example
+
+> <sup>1</sup> Dan Meagher, 'Digital Sampling/Remix Culture' (2012) 17(2) Deakin Law Review, 307.
+
+#### Pinpoint example
+
+> <sup>1</sup> Dan Meagher, 'Digital Sampling/Remix Culture' (2012) 17(2) Deakin Law Review 307, 22.
+
+#### Bibliography example
+
+> Meagher, Dan, 'Digital Sampling/Remix Culture' (2012) 17(2) Deakin Law Review 307
 
 ###### end-subtype-content
 
@@ -547,11 +689,51 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Journal article with multiple authors
 
 ###### start-subtype-content
 
-CONTENT
+| Two authors | Title | Year | Vol. & Issue | Journal | Page |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Samantha Joseph and Erin Mackay, | 'Moral Rights and Indigenous Communities' | 2006 | 3 | Art and Law, | 6 |
+
+- When citing the names of the authors, they should appear in the exact order as they are listed in the source material.
+
+- Where there are two or three authors, the names of all authors should be included and the word 'and' should separate the names of the last two authors.
+
+- Where there are more than three authors, the family name of the author appearing first on the source should be included, followed by 'et al'.
+
+- The title appears within single quotation marks (un-italicised).
+
+- The full title of the journal should appear as it does on the title page in italics.
+
+#### Two or three authors
+
+**Footnote example**
+
+> <sup>1</sup> Benjamin Hayward, John Morss and Oscar Roos, 'Beyond the Separation of Powers: Judicial Review and the Regulatory Proscription of Terrorist Organisations' (2010) 35 (1) *University of Western Australia Law Review*, 81.
+
+**Pinpoint example**
+
+> <sup>1</sup> Benjamin Hayward, John Morss and Oscar Roos, 'Beyond the Separation of Powers: Judicial Review and the Regulatory Proscription of Terrorist Organisations' (2010) 35 (1) *University of Western Australia Law Review* 81, 83.
+
+**Bibliography example**
+
+> Hayward, Benjamin, Morss, John and Roos, Oscar, 'Beyond the Separation of Powers: Judicial Review and the Regulatory Proscription of Terrorist Organisations' (2010) 35 (1) *University of Western Australia Law Review* 81
+
+#### Three or more authors
+
+**Footnote example**
+
+> <sup>1</sup> Gary Edmond et al, 'Law’s Looking Glass: Expert Identification Evidence Derived from Photographic and Video Images' (2009) 20 *Current issues in Criminal Justice*, 337.
+
+**Pinpoint example**
+
+> <sup>1</sup> Gary Edmond et al, 'Law’s Looking Glass: Expert Identification Evidence Derived from Photographic and Video Images' (2009) 20 *Current issues in Criminal Justice*, 337, 338.
+
+**Bibliography example**
+
+> Edmond, Gary et al, 'Law’s Looking Glass: Expert Identification Evidence Derived from Photographic and Video Images' (2009) 20 *Current issues in Criminal Justice* 337
 
 ###### end-subtype-content
 
@@ -560,11 +742,37 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Newspaper article
 
 ###### start-subtype-content
 
-CONTENT
+| Author | Title | Newspaper | (Place) | Date | Pinpoint |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Laura Tingle | 'Norway fund ponders dumping coal', | *The Australian Financial Review*, | (Sydney) | 24 February 2015, | 8 |
+
+- The title of the article should appear un-italicised within single quotation marks.
+
+- The title of the newspaper should be italicised.
+
+- The place of publication is in parentheses '( )'.
+
+- The full date is noted.
+
+&nbsp;
+
+#### Footnote example
+
+> <sup>1</sup> Laura Tingle, 'Norway fund ponders dumping coal', *The Australian Financial Review*, (Sydney), 24 February 2015.
+
+#### Pinpoint example
+
+> <sup>1</sup> Laura Tingle, 'Norway fund ponders dumping coal', *The Australian Financial Review*, (Sydney), 24 February 2015, 8.
+
+#### Bibliography example
+
+> Tingle, Laura, 'Norway fund ponders dumping coal', *The Australian Financial Review*, (Sydney), 24 February 2015
+
+
 
 ###### end-subtype-content
 
@@ -584,12 +792,36 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Internet source
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+| Author | Document title | Full date | Website name | URL |
+| ------ | ------ | ------ | ------ | ------ |
+| Board of Examiners, | *Admission Requirements* | (18 February 2010) | Council of Legal Information | <http<nolink>://lawadmissions.vic.gov.au> |
+
+- A source should only be cited like this if it does not exist in published form.
+
+- The author's name should be included if available on the webpage or document.
+
+- The title of the page or document cited should be included in italics after the author’s name.
+
+- Where available, the full date of the last update of the page or document should be included.
+
+- The name of the general website where the document resides should be included if available.
+
+- The website address (URL) should be enclosed within '< >' symbols.
+
+&nbsp;
+
+**Footnote example**
+
+> <sup>1</sup> Board of Examiners, *Admission Requirements* (18 February 2010) Council of Legal Information <http<nolink>://www.lawadmissions.vic.gov.au>
+
+**Bibliography example**
+
+> Board of Examiners, *Admission Requirements* (18 February 2010) Council of Legal Information <http<nolink>://www.lawadmissions.vic.gov.au>
 
 ###### end-subtype-content
 
@@ -609,12 +841,36 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Film and audiovisual material
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+| Title | (Directed by Name, Production Company, Year) | Pinpoint |
+| ------ | ------ | ------ |
+| *A Few Good Men* | (Directed by Rob Reiner, Castle Rock Entertainment, 1992) | 1:15:25 |
+
+- The same convention applies for both film and sound recordings.
+
+- List the title first in italics.
+
+- Enclose the name of the director, production company and year of the recording in parentheses '( )'.
+
+- Pinpoint references should be at the point of time of the recording, and appear in the following format - hours: minutes: seconds.
+
+&nbsp;
+
+#### Footnote example
+
+> <sup>1</sup> *A Few Good Men* (Directed by Rob Reiner, Castle Rock Entertainment, 1992).
+
+#### Pinpoint example
+
+> <sup>1</sup> *A Few Good Men* (Directed by Rob Reiner, Castle Rock Entertainment, 1992) 1:15:25.
+
+#### Bibliography example
+
+> *A Few Good Men* (Directed by Rob Reiner, Castle Rock Entertainment, 1992)
 
 ###### end-subtype-content
 
@@ -623,11 +879,35 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Television or radio script
 
 ###### start-subtype-content
 
-CONTENT
+| Broadcaster | Title of segment | Name of program | Full date | Name of speaker |
+| ------ | ------ | ------ | ------ | ------ |
+| ABC Radio National, | 'Using evidence obtained in search warrants', | *The Law Report*, | 3 February 2015 | (Damian Carrick) |
+
+- List the name of the broadcaster first.
+
+- Enclose the title of the segment in single quotation marks.
+
+- Italicise the name of the program.
+
+- List the full date of the program.
+
+- The name of the speaker should be included in parentheses '( )'.
+
+- A URL may be included after the speaker’s name where the transcript is available online.
+
+- The webpage address (URL) should be enclosed within ‘< >’ symbols.
+
+**Footnote example**
+
+> <sup>1</sup> ABC Radio National, 'Using evidence obtained in search warrants', *The Law Report*, 3 February 2015, (Damian Carrick) <http<nolink>://www.abc.net.au/radionational/programs/lawreport/surfers-paradise/6028122#transcript>
+
+**Bibliography example**
+
+> ABC Radio National, 'Using evidence obtained in search warrants', *The Law Report*, 3 February 2015, (Damian Carrick) <http<nolink>://www.abc.net.au/radionational/programs/lawreport/surfers-paradise/6028122#transcript>
 
 ###### end-subtype-content
 
@@ -648,12 +928,48 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Student's own work
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+You should include the use of scholarly sources in your written assessments to adhere to best academic integrity practice. Citing yourself as an authority on your own opinion should be avoided.
+
+Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
+
+Remember that when submitting work, you will be asked to agree to the [Assessment Declaration](https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration).
+
+The publication, *Australian Guide to Legal Citation* (4th ed, 2018) does not provide guidelines on how to cite your own work. The following examples show how to cite your own work that you have previously submitted for assessment.
+
+If you cite or quote your own previous work, treat yourself as the author and the title of your previous assessment as an unpublished paper.
+
+Note: If your original work contained citations from other sources, you would need to include those same citations in the new work as well.
+
+Include the following details:
+
+- Student name
+
+- 'Title of previous work'
+
+- Unpublished paper
+
+- University
+
+- Month Year
+
+#### Footnote example
+
+For example, if Geoffrey Smith wanted to cite a paper they wrote at RMIT University in 2019, their footnote reference may look like this:
+
+> <sup>1</sup> Geoffrey Smith, 'Australia's copyright law reforms' (unpublished paper, RMIT University, October 2019).
+
+#### Pinpoint example
+
+> <sup>1</sup> Geoffrey Smith, 'Australia's copyright law reforms' (unpublished paper, RMIT University, October 2019) 5.
+
+#### Bibliography example
+
+> Smith, Geoffrey, 'Australia's copyright law reforms' (unpublished paper, RMIT University, October 2019)
 
 ###### end-subtype-content
 

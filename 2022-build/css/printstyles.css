@@ -71,13 +71,35 @@ p {
 	display: block;
 }
 blockquote p {
-	font-family: Palatino, "Times New Roman", Baskerville, "Palatino Linotype", "serif" !important;
+	font-family: Baskerville, "Palatino Linotype", "serif" !important;
 	margin-left: 20px;
 	font-size: 12px;
 	page-break-inside: avoid;
+	background-color: #f0f0f0 !important;
+	padding: 10px;
+}
+.grey {
+	background-color: #f0f0f0 !important;
+	padding: 10px;
 }
 ul, img {
    page-break-inside: avoid;
+}
+table, tr {
+	border: thin solid #dddddd !important;
+	border-collapse: collapse;
+}
+td, th {
+	text-align: left !important;
+	font-family: Helvetica, Arial, "sans-serif" !important;	
+	font-size: 12px;
+	padding-left: 10px !important;
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+	padding-right: 15px !important;
+}
+thead {
+	border-bottom: 2px solid #2B2B2B !important;
 }
 li {
 	font-family: Helvetica, Arial, "sans-serif";

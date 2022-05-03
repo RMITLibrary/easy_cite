@@ -177,7 +177,7 @@ $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</ul><p>&nbsp;</p>', $myli
 //RMIT Harvard<div class="layer" aria-hidden="true">whichguidetitle</div>
 $mylist = preg_replace("/RMIT Harvard<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'RMIT Harvard<div class="layer" aria-hidden="true">RMIT Harvard</div>', $mylist);
 $mylist = preg_replace("/AGLC4<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'AGLC4<div class="layer" aria-hidden="true">AGLC4</div>', $mylist);
-$mylist = preg_replace("/APA 7th Ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7th Ed.<div class="layer" aria-hidden="true">APA 7th Ed.</div>', $mylist);
+$mylist = preg_replace("/APA 7th ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7th ed.<div class="layer" aria-hidden="true">APA 7th ed.</div>', $mylist);
 $mylist = preg_replace("/Chicago<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago<div class="layer" aria-hidden="true">Chicago</div>', $mylist);
 $mylist = preg_replace("/IEEE<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'IEEE<div class="layer" aria-hidden="true">IEEE</div>', $mylist);
 $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Vancouver<div class="layer" aria-hidden="true">Vancouver</div>', $mylist);
@@ -210,12 +210,22 @@ $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div>', $mylist);
+// CUSTOM TAGS TO CLASSES
+// these custom tags are used in the markdown (.md) files where markdown limitations required inventing 
+// tags that could then be replaced with <p> or <div> and classes that have specific styles in the CSS
 // HANGING INDENTS
-$mylist = preg_replace("/<hanging-indent>/s", '<div class="hanging-indent">', $mylist);
+$mylist = preg_replace("/{.hanging-indent}/s", '<div class="hanging-indent">', $mylist);
+$mylist = preg_replace("/{\/.hanging-indent}/s", '</div>', $mylist);
+	$mylist = preg_replace("/<hanging-indent>/s", '<div class="hanging-indent">', $mylist);
 $mylist = preg_replace("/<\/hanging-indent>/s", '</div>', $mylist);
-// CENTRE ALIGN
-$mylist = preg_replace("/<centre-align>/s", '<p class="centre-align">', $mylist);
+// CENTRE ALIGN TEXT
+$mylist = preg_replace("/{.centre-align}/s", '<p class="centre-align">', $mylist);
+$mylist = preg_replace("/{\/.centre-align}/s", '</p>', $mylist);
+	$mylist = preg_replace("/<centre-align>/s", '<p class="centre-align">', $mylist);
 $mylist = preg_replace("/<\/centre-align>/s", '</p>', $mylist);
+// GREY BACKGROUND FOR TABLE CELL CONTENT
+$mylist = preg_replace("/<grey>/s", '<div class="grey">', $mylist);
+$mylist = preg_replace("/<\/grey>/s", '</div>', $mylist);
 // END CONTENT
 // REPLACE FOR FIRST
 //replace property for the first tab, pill, accordion only - to show, true or active

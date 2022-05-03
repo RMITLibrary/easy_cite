@@ -10,7 +10,7 @@
 ###### start-style-menu
 # RMIT Harvard
 # AGLC4
-# APA 7th Ed.
+# APA 7th ed.
 # Chicago
 # IEEE
 # Vancouver

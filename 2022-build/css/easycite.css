@@ -4,9 +4,6 @@ body {}
 nav {
 	border:none !important;
 }
-h4 {
-	font-size: 1.2rem !important;
-}
 .ectitle{
 	color: #ffffff;
 	margin-left: 20px;
@@ -183,8 +180,8 @@ button.easyaccbutton:focus:not(.collapsed) {
 	margin-bottom: 0 !important;
 }
 h4{
-	font-size: 1.1rem;
-	font-weight: 500;
+	font-size: 1.3rem !important;
+	font-weight: 400;
 	color: #000054;
 }
 h5{
@@ -193,8 +190,27 @@ h5{
 	color: #000054;
 }
 blockquote{
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
-	margin-left: 30px;
+	font-family: Baskerville, "Times New Roman", "serif" !important;
+	margin-left: 30px; 
+	background-color: #f0f0f0 !important;
+	padding: 10px;
+}
+.grey {
+	background-color: #f0f0f0 !important;
+	padding: 10px;
+}
+table {
+	border: hidden  !important;
+	border-collapse: collapse;
+	margin-left: 10px;
+}
+td {
+	text-align: left !important;
+	font-family: Helvetica, Arial, "sans-serif" !important;
+	
+}
+th {
+	vertical-align: top !important;
 }
 .hanging-indent{
 	padding-left: 4em !important;
