@@ -881,11 +881,31 @@ Include the day, month and year, as well as the exact URL of the article.
 
 ###### start-subtype-item
 
-### BUTTON
+### Newspaper article, online
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+
+> The debate around health reform involves . . . (Baird, 2016).
+
+> Baird (2016) states that . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number(s) from the newspaper. If no page numbers are provided, then include the paragraph number.
+
+> Baird (2016) points out that "recent studies have found much of our nursing population is approaching retirement – and quite alarmingly burnt out – at precisely the time the nursing needs of a broader ageing population is increasing" (para. 8).
+
+#### Reference list
+
+Do NOT italicise the title of the article, only the title of the newspaper.
+
+Include the day, month and year of the article, as well as the URL.
+
+> {.hanging-indent}Baird, J. (2016, November 4). There’s no such thing as ‘just a nurse’. The Sydney Morning Herald. https<nolink>://www.smh.com.au/opinion/why-we-need-to-listen-to-nurses-when-talking-about-health-20161103-gshfq1.html {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -894,11 +914,33 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Newspaper article, print
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+
+> Official survey results indicate . . . (Parnell, 2016).
+
+> Parnell (2016) states that . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number(s) from the newspaper. If no page numbers are provided, then include the paragraph number.
+
+> "The latest Medicare figures, also released yesterday, show the proportion of non-referred GP services, excluding practice nurses, bulk-billed in the last quarter was 85.4 per cent" (Parnell, 2016, p. 1).
+
+#### Reference list
+
+Do NOT italicise the title of the article, only the title of the newspaper.
+
+Include the day, month and year of the article.
+
+If the article is spread across discontinuous pages, provide all page numbers separated by a comma e.g. 2, 4, 8-9.
+
+> {.hanging-indent}Parnell, S. (2016, November 16). Medicare freeze no check on GP visits. The Australian, 1, 5. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -918,12 +960,44 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Socials - part 1
+### Act of Parliament
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-some text here about books
+*Note: The APA referencing style does NOT cover Australian legal material. The citation details below are based on the Australian Guide to Legal Citation (AGLC) referencing style examples.*
+
+#### Paraphrasing in-text
+
+Include the title of the legislation and the year in italics if referring to an Act in the body of the text. Otherwise, place the year and section number s. (if applicable) in brackets.
+
+It is necessary to also state the jurisdiction of the legislation, either in the body of the text, or enclosed in brackets e.g. (Cth) for Commonwealth, (Vic) for Victoria, (UK) for United Kingdom etc.
+
+*Note: Include the jurisdiction the first time the act is cited. The jurisdiction can be dropped with subsequent citations.*
+
+> According to the Victorian Mental Health Act (2014, s. 29) . . .
+
+> Victoria’s Mental Health Act (2014, s. 29) states that . . .
+
+> By virtue of s. 130.1 of the Mental Health Act 2014 (Vic) . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the title of the Act, year, jurisdiction and section number(s) (if applicable).
+
+> "A person receiving mental health services in a designated mental health service may be kept in seclusion if seclusion is necessary to prevent imminent and serious harm to the person or to another person" (Mental Health Act 2014 (Vic), s. 110).
+
+#### Reference list
+
+The title of the legislation and year are to be italicised.
+
+Include the jurisdiction of the legislation in brackets e.g. (Cth) for Commonwealth, or the State abbreviation.
+
+If a specific section of the legislation is used, this can be highlighted by using an s. for section.
+
+If the legislation is obtained from an electronic source, add a retrieval statement to the reference.
+
+> {.hanging-indent}Mental Health Act 2014 (Vic) s. 115.1. http<nolink>://www.legislation.vic.gov.au/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -932,11 +1006,35 @@ some text here about books
 
 ###### start-subtype-item
 
-### BUTTON
+### Legal cases
 
 ###### start-subtype-content
 
-CONTENT
+*Note: The APA referencing style does NOT cover Australian legal material. The citation details below are based on the Australian Guide to Legal Citation (AGLC) referencing style examples.*
+
+#### Paraphrasing in-text
+
+When citing a Case in-text, it is necessary to include the title of the case in italics followed by the year in brackets. Alternatively, it is also acceptable to include all case details enclosed in brackets; italicise only the case title, followed by the year.
+
+*Note: Include the year with the first citation. The year can be dropped in subsequent citations.*
+
+> According to the case of Drew v Minister for Health and Ageing (2011) . . .
+
+> . . . (Drew v Minister for Health and Ageing, 2011).
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the title of the case, year, page number, section heading (if applicable) and paragraph number.
+
+> "The Tribunal lacks the jurisdiction to consider the decisions made by the Secretary in relation to the drug Clozapine" (Drew v Minister for Health and Ageing, 2011, Held section, para. 5).
+
+#### Reference list
+
+For court decisions the elements to include are: title of the case in italics, year in brackets, volume number, reporter abbreviation, and starting page number.
+
+If a case is obtained from an electronic database, add a retrieval statement.
+
+> {.hanging-indent}Drew v Minister for Health and Ageing (2011) 56 AAR 227. http<nolink>://www.westlaw.com.au/maf/wlau/app/document?docguid=I49472f517b6911e18eefa443f89988a0 {.hanging-indent}
 
 ###### end-subtype-content
 
@@ -956,12 +1054,36 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Reports - part 1
+### Audio podcast
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-some text here about books
+#### Paraphrasing in-text
+
+When paraphrasing, include the host’s family name and year of publication in brackets. Or, if referring to the host's family name in the body of the text, then just include the year of publication in brackets immediately after the family name. If there is no host listed, then use either the executive producer or producer as author instead.
+
+> Current research shows that . . . (Swannell, 2019).
+
+> Swannell (2019) comments that . . .
+
+*Note: If referring to the interviewee in-text, then incorporate them into the sentence e.g. On the topic of codeine rescheduling, Harris (Swannell, 2019) discusses . . .*
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the year and a timestamp to indicate the exact starting point of the quote.
+
+> "Since the first of February 2018, codeine containing products have been rescheduled as prescription only" (Swannell, 2019, 00:13).
+
+#### Reference list
+
+Include details of the host or executive producer in the author position and their title.
+
+Italicise the podcast title and describe the form type inside square brackets e.g. [Audio podcast].
+
+Provide the exact URL.
+
+> {.hanging-indent}Swannell, C. (Host). (2019, November 25). The effect of codeine rescheduling, with Dr Keith Harris [Audio podcast]. https<nolink>://staging.mja.com.au/podcast/211/11/mja-podcasts-2019-episode-51-effect-codeine-rescheduling-dr-keith-harris {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -970,11 +1092,35 @@ some text here about books
 
 ###### start-subtype-item
 
-### BUTTON
+### Video podcast
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the host's family name and year of publication in brackets. Or, if referring to the host’s family name in the body of the text, then just include the year of publication in brackets immediately after the family name. If there is no host listed, then use either the executive producer or producer as author instead.
+
+> Current research indicates . . . (Taylor, 2016).
+
+> Taylor (2016) states that . . .
+
+*Note: If referring to the interviewee in-text, then incorporate them into the sentence e.g. On the subject of gene editing, Tizard (Taylor, 2016) states . . .*
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the year and a timestamp to indicate the exact starting point of the quote.
+
+> "By editing DNA, we can not only eliminate the chance of disease, but also change how a person develops. . .and fundamentally understand what a single gene does" (Taylor, 2016, 2:00).
+
+#### Reference list
+
+Include details of the host or executive producer in the author position and their title.
+
+Italicise the podcast title and describe the form type inside square brackets e.g. [Video podcast].
+
+Provide the exact URL.
+
+> {.hanging-indent}Taylor, A. (Host). (2016, August 30). Gene editing made simple [Video podcast]. https<nolink>://www.abc.net.au/catalyst/gene-editing-made-simple/11016800 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -983,11 +1129,31 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Streaming video from a library database
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the database name and year of publication in brackets.
+
+> According to the latest research . . . (Informit EduTV, 2016).
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the year and a timestamp to indicate the exact starting point of the quote.
+
+> "Australia's education system is falling behind. 15 years ago our schools were ranked sixth in the world, but now we're struggling to make the top 20" (Informit EduTV, 2016, 00:13).
+
+#### Reference list
+
+Include the database name in the author position.
+
+Include the video title in italics and describe the form type inside square brackets e.g. [Video].
+
+Provide the URL login page.
+
+> {.hanging-indent}Informit EduTV. (2016, May 31). Revolution school: Ep. 1 of 4 [Video]. http<nolink>://edutv.informit.com.au {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -996,11 +1162,31 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### YouTube video
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include either the author/company/organisation name and year of publication in brackets.
+
+> . . . anatomical structures are highly detailed and annotated (Primal Pictures, 2014).
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the year and a timestamp to indicate the exact starting point of the quote.
+
+> "Renowned for accuracy, Primal's hugely detailed anatomy models are built from real scanned data" (Primal Pictures, 2014, 00:27).
+
+#### Reference list
+
+Include either the author/company/organisation name in the author position.
+
+Include the video title in italics and describe the form type inside square brackets e.g. [Video].
+
+Provide the exact URL in the retrieval statement.
+
+> {.hanging-indent}Primal Pictures. (2014, September 19). Primal’s 3D atlas of human anatomy [Video]. YouTube. https<nolink>://youtu.be/g-BtsX3bGvs {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1020,12 +1206,32 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### AV - part 1
+### Webpage
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-some text here about books
+#### Paraphrasing in-text
+
+When paraphrasing, include either the author/company/organisation name and year of publication in brackets.
+
+> Organisational values are defined by . . . (Early Childhood Australia, 2016).
+
+#### Direct quote in-text
+
+Many electronic sources do not provide page numbers, unless they are in PDF format.
+
+Place direct quotes between double quotation marks " " and use the name of the section and the paragraph number as part of the in-text reference if quoting from a website that is NOT a PDF document.
+
+> "As the national peak body for early childhood, ECA is a regular, and trusted, contributor to the public policy debate on all matters affecting young children (birth to eight years) and their families" (Early Childhood Australia, 2016, Advocacy section, para. 1).
+
+#### Reference list
+
+If citing information taken directly from a webpage include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year in brackets, webpage title in italics, website name and URL.
+
+If no year is stated then use n.d. for no date.
+
+> {.hanging-indent}Early Childhood Australia. (2016). Early Childhood Australia’s advocacy: Advocacy goals. http<nolink>://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1034,11 +1240,33 @@ some text here about books
 
 ###### start-subtype-item
 
-### BUTTON
+### Webpage document
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include either the author/company/organisation name and year of publication in brackets.
+
+> Preventative measures are determined by . . . (World Health Organization, 2016).
+
+#### Direct quote in-text
+
+Many electronic sources do not provide page numbers, unless they are in PDF format.
+
+Place direct quotes between double quotation marks " " and provide the page number(s) of the direct quote if taken from a PDF document.
+
+If the document does NOT contain page numbers, then use the name of the section and the paragraph number as part of the in-text reference.
+
+> "Re-using syringes to access multi-dose medication vials/containers that are used for multiple patients can also lead to the spread of viruses, bacteria and other pathogens" (World Health Organization, 2016, p. 16).
+
+#### Reference list
+
+If citing information taken directly from a webpage document include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year in brackets, title of document in italics and retrieval statement in the form of a URL.
+
+If no year is stated then use n.d. for no date.
+
+> {.hanging-indent}World Health Organization. (2016). WHO guideline on the use of safety-engineered syringes for intramuscular, intradermal and subcutaneous injections in health-care settings. http<nolink>://apps.who.int/iris/bitstream/10665/250144/1/9789241549820-eng.pdf {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1047,11 +1275,29 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Facebook
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include either the author/company/organisation name and year of the Facebook post in brackets.
+
+> Australian Nursing and Midwifery Federation (2020) states that workplace mental health hazards are responsible for . . .
+
+#### Direct quote in-text
+
+Many electronic sources do not provide page numbers, unless they are in PDF format.
+
+Place direct quotes between double quotation marks " " and provide the author and year.
+
+> "A mental hazard at work can be poor support to workers" (Australian Nursing and Midwifery Federation, 2019).
+
+#### Reference list
+
+If citing information taken directly from a Facebook post include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year, month and day in brackets, include the first 20 words of the post as the title in italics, if the post contains an image or video include it in square brackets, describe the form type in square brackets e.g. [Status update], include Facebook as the source and provide a URL to the post.
+
+> {.hanging-indent}Australian Nursing and Midwifery Federation. (2020, November 28). Workplace mental health hazards injure thousands of workers each year, just like physical hazards but they often fly under the [Image attached] [Status update]. Facebook. https<nolink>://www.facebook.com/AustralianNursingandMidwiferyFederation/photos/a.136188899856341/1935273223281224/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1060,11 +1306,60 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Twitter
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include either the author/company/organisation name and year of tweet in brackets.
+
+> Barack Obama (2016) tweeted his concerns over the Supreme Court vacancy.
+
+#### Direct quote in-text
+
+Many electronic sources do not provide page numbers, unless they are in PDF format.
+
+Place direct quotes between double quotation marks " " and provide the author and year.
+
+> In relation to the Supreme Court vacancy in the United States, Barack Obama (2016) tweeted that "it's time for Senate leaders to put politics aside and fill the Supreme Court vacancy."
+
+#### Reference list
+
+If citing information taken directly from a tweet include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the Twitter handle in square brackets, include the year, month and day in brackets, followed by the first 20 words of the tweet as the title and hashtag(s) in italics, if the post contains an image or video include it in square brackets, describe the form type in square brackets e.g. [Tweet], include Twitter as the source and provide a URL to the tweet.
+
+> {.hanging-indent}Obama, B. [@BarackObama]. (2016, May 18). It's time for Senate leaders to put politics aside and fill the Supreme Court vacancy #DoYourJob [Image attached] [Tweet]. Twitter. https<nolink>://twitter.com/BarackObama/status/732589315478290432 {/.hanging-indent}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### Blog post
+
+###### start-subtype-content
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+
+> Workplace stress is increasing . . . (Bratianu, 2015).
+
+> Bratianu (2015) states that . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the paragraph number.
+
+> "Budgetary constraints may require nurses to do their work with inadequate resources, while an increased emphasis on billing and adherence to regulations can also create stress" (Bratianu, 2015, para. 5).
+
+#### Reference list
+
+If referencing a blog post include the following: the author(s) name, year of publication, month, day, title of blog post, blog title (italicised) and a retrieval statement in the form of a URL.
+
+> {.hanging-indent}Bratianu, P. (2015, June 10). Why workplace stress impacts nurses. Ausmed. https<nolink>://www.ausmed.com/articles/stress-in-nursing/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1084,12 +1379,30 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Images - part 1
+### General rules for images
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-some text here about books
+APA includes the following within the definition of images and figures:
+
+graphs
+charts
+maps
+posters
+drawings
+photographs
+tables
+General rules
+Number figures consecutively in italics throughout your work using Arabic numerals, 1, 2, 3 and so on, taking care to order them as they appear within the text.
+The first figure is labelled Figure 1, the second, Figure 2, the third, Figure 3 and so on.
+Do NOT label figures with suffix letters such as Figure 5a, instead use, Figure 5.1.
+Above the figure include:
+the figure number (in bold)
+a brief title of the image (in italics)
+Below the figure place a caption that includes:
+a note providing a brief description
+if the image is not original work, then source details from where it was derived
 
 ###### end-subtype-content
 
@@ -1098,11 +1411,51 @@ some text here about books
 
 ###### start-subtype-item
 
-### BUTTON
+### Images from book / journal article
 
 ###### start-subtype-content
 
-CONTENT
+In-text citation
+When citing figures in the text of your work, you need to acknowledge them in two places:
+
+1. within the written body of your paper, as you would for a normal in-text reference, and
+
+2. in the figure layout include figure number, brief title and notes
+
+Refer to the figure by its assigned number. Do NOT refer to the figure as “the Figure above/below”, or “the Figure on page 17”.
+
+As shown in Figure 1 . . . (Fernandez-Lizarbe et al., 2013).
+
+Figure 1 illustrates . . . (Fernandez-Lizarbe et al., 2013).
+
+The data shows . . . (Fernandez-Lizarbe et al., 2013, Figure 1).
+
+Figure layout
+A figure from a book/journal article will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. Figure 1) followed by the title of the figure (in italics).
+
+Below the figure, include a note that has a brief but descriptive phrase, as well as:
+
+book title in italics with proper nouns capitalised, or article title in double quotation marks " " and preceded with the word From
+author(s) initials followed by family name, preceded with the word by
+year of publication
+journal title in italics (if applicable)
+volume number in italics (if applicable)
+issue number (if applicable)
+page number(s)
+DOI
+copyright year and owner
+Figure 1
+
+Dose Distributions for a Left-Breast Tumor
+
+[Sample image] LINK HERE
+
+Note. Dose distributions for a left-breast tumor (a, b) at the level of surgical bed defined by titanium clips (arrows) and the corresponding DVH (c, d) for supine (left) and prone (right) positions. From “Pilot Study of Feasibility and Dosimetric Comparison of Prone Versus Supine Breast Radiotherapy,” by E. Fernandez-Lizarbe, A. Montero, A. Polo, R. Hernanz, R. Moris, S. Formenti, and A. Ramos, 2013, Clinical and Translational Oncology, 15, p. 453 (https://doi.org/10.1007/s12094-012-0950-8). Copyright 2013 by Springer International Publishing.
+
+Reference list
+The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
+
+Fernandez-Lizarbe, E., Montero, A., Polo, A., Hernanz, R., Moris, R., Formenti, S., & Ramos, A. (2013). Pilot study of feasibility and dosimetric comparison of prone versus supine breast radiotherapy. Clinical and Translational Oncology, 15, 450-459. https://doi.org/10.1007/s12094-012-0950-8
 
 ###### end-subtype-content
 
@@ -1111,11 +1464,58 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Images from webpage
 
 ###### start-subtype-content
 
-CONTENT
+In-text citation
+When citing figures in the text of your work, you need to acknowledge them in two places:
+
+1. within the written body of your paper, as you would for a normal in-text reference, and
+
+2. in the figure layout include figure number, brief title and notes
+
+Refer to the figure by its assigned number. Do NOT refer to the figure as “the Figure above/below”, or “the Figure on page 17”.
+
+As shown in Figure 2 . . . (National Cancer Institute, 2016).
+
+Figure 2 illustrates . . . (National Cancer Institute, 2016).
+
+The diagram shows . . . (National Cancer Institute, 2016, Figure 2).
+
+Figure layout
+A figure from a webpage will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. Figure 2) followed by the title of the figure (in italics).
+
+Below the figure, include a note that has a brief but descriptive phrase, as well as:
+
+title of webpage preceded with the word From
+author(s) initials followed by family name, or institute/organisation, preceded with the word by
+year of webpage
+retrieval statement in the form of a URL
+copyright year and owner
+Figure 2
+
+Anatomy of the Thyroid and Parathyroid Glands
+
+[anatomical illustration showing thyroid and parathroid glands] LINK HERE
+
+Note. Anatomy of the thyroid and parathyroid glands. From "Parathyroid cancer Treatment (PDQ®) – Patient Version," by National Cancer Institute, 2016, (https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq). Copyright 2012 by Terese Winslow LLC. Reprinted with permission.
+
+Acknowledgement for the use of the image in this guide: For the National Cancer Institute © 2012 Terese Winslow LLC, U.S. Govt. has certain rights.
+
+Reference list
+The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
+
+National Cancer Institute. (2016). Anatomy of the thyroid and parathyroid glands. https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq
+
+Copyright information for the Anatomy of the Thyroid image
+For the National Cancer Institute © 2012 Terese Winslow LLC, U.S. Govt. has certain rights
+
+License Granted: Terese Winslow LLC hereby grants limited, non-exclusive worldwide print and electronic rights only for use in the work specified. Terese Winslow LLC grants such rights “AS IS” without representation or warranty of any kind and shall have no liability in connection with such license.
+
+Restrictions: Reproduction for use in any other work or derivative works is prohibited. Ownership of original artwork, copyright, and all rights not specifically transferred herein remain the exclusive property of Terese Winslow LLC. Additional license(s) are required for ancillary usage(s).
+
+
 
 ###### end-subtype-content
 
@@ -1124,11 +1524,47 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Images from library database
 
 ###### start-subtype-content
 
-CONTENT
+In-text citation
+When citing figures in the text of your work, you need to acknowledge them in two places:
+
+1. within the written body of your paper, as you would for a normal in-text reference, and
+
+2. in the figure layout include figure number, brief title and notes
+
+Refer to the figure by its assigned number. Do NOT refer to the figure as “the Figure above/below”, or “the Figure on page 17”.
+
+As shown in Figure 3 . . . (Ross, 2017).
+
+Figure 3 illustrates . . . (Ross, 2017).
+
+The diagram shows . . . (Ross, 2017, Figure 3).
+
+Figure layout
+A figure from a library database will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. Figure 3) followed by the title of the figure (in italics).
+
+Below the figure, include a note that has a brief but descriptive phrase, as well as:
+
+title of library database preceded with the word From
+author(s) initials followed by family name, or institute/organisation, preceded with the word by
+year of image
+retrieval statement in the form of the library database homepage URL
+copyright year and owner
+Figure 3
+
+Lumbar Intervertebral Disc Herniation
+
+[Sample image] LINK HERE
+
+Note. Graphic of large recurrent disc herniation shows displacement of the nuclear material through a large defect in the posterior annular fibers with effacement of the ventral thecal sac and displacement of the intrathecal nerve roots. From "Lumbar Intervertebral Disc Herniation," by J. S. Ross, 2017, Imaging Reference Center (https://app.imagingreferencecenter.com). Copyright 2017 by J. S. Ross.
+
+Reference list
+The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
+
+Ross, J. S. (2017). Lumbar intervertebral disc herniation. Imaging Reference Center. https://app.imagingreferencecenter.com
 
 ###### end-subtype-content
 
@@ -1137,11 +1573,50 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Images from creative commons source
 
 ###### start-subtype-content
 
-CONTENT
+In-text citation
+When citing figures in the text of your work, you need to acknowledge them in two places:
+
+1. within the written body of your paper, as you would for a normal in-text reference, and
+
+2. in the figure layout include figure number, brief title and notes
+
+Refer to the figure by its assigned number. Do NOT refer to the figure as “the Figure above/below”, or “the Figure on page 17”.
+
+As shown in Figure 4 . . . (West, 2012).
+
+Figure 4 illustrates . . . (West, 2012).
+
+The diagram shows . . . (West, 2012, Figure 4).
+
+Figure layout
+A figure from a creative commons source will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. Figure 4) followed by the title of the figure (in italics).
+
+Below the figure, include a note that has a brief but descriptive phrase, as well as:
+
+title of the creative commons source preceded with the word From
+author(s) initials followed by family name, or institute/organisation, preceded with the word by
+year of image
+retrieval statement in the form of a URL
+copyright year and owner and Creative Commons license
+Figure 4
+
+MRI
+
+[MRI] LINK HERE
+
+Note. A magnetic resonance imaging machine. From "MRI," by L. West, 2012, (https://www.flickr.com/photos/calliope/7694882446). Copyright 2012 by L. West. CC BY 2.0.
+
+Reference list
+The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
+
+West, L. (2012). MRI. Flickr. https://www.flickr.com/photos/calliope/7694882446
+
+Copyright information for the MRI image
+"MRI" Opens in new windowby Liz West Opens in new windowcan be reused under the CC BY 2.0 license.
 
 ###### end-subtype-content
 
@@ -1150,11 +1625,129 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Citing image sources in a table
 
 ###### start-subtype-content
 
-CONTENT
+Citing sources in a table
+The information and examples below outline how to reference a table where the information in the table has been derived from another source or sources.
+
+Note: If a table that you create in your written work is entirely your own and does not include information from other sources, you should include a table number (in bold) and a brief title (italicised).
+
+Note: If you are copying an entire table from another source without altering the layout or combining its data from other sources, you should then reference it as per the other examples in the Images section e.g. book/journal article, webpage etc.
+
+In-text citation
+When citing tables in the text of your work, you need to acknowledge them in two places:
+
+1. within the written body of your paper, as you would for a normal in-text reference, and
+
+2. in the table layout include table number, brief title and notes
+
+Refer to the table by its assigned number. Do NOT refer to the table as “the Table above/below”, or “the Table on page 17”.
+
+As shown in Table 5 . . .
+
+Table 5 illustrates . . .
+
+The data shows . . . (Table 5).
+
+Table layout
+Table caption
+
+A table that cites other sources will include a double-spaced caption with the following elements above the table: label of table in bold (e.g. Table 5) followed by the title of the table (in italics).
+
+Names of studies included within table
+
+If the information in the table includes references to relevant sources, then notes below the table are not required (this is commonly the case with summary tables of previous studies).
+
+Table 5
+
+Summary of studies about gait rehabilitation after stroke
+
+Study
+
+Heading 1
+
+Heading 2
+
+Heading 3
+
+Bonini-Rocha et al., 2018
+
+cell content
+
+cell content
+
+cell content
+
+Bortole et al., 2015
+
+cell content
+
+cell content
+
+cell content
+
+Kal et al., 2018
+
+cell content
+
+cell content
+
+cell content
+
+Liu, 2018
+
+cell content
+
+cell content
+
+cell content
+
+Superscript letters representing sources used
+
+Use a superscript lower-case letter to indicate in the table any in-text citations used.
+If direct quotes are used, quotation marks should be used in the table.
+Provide a note below the table organised according to where the superscripts appear in the table following the left-to-right, top-to-bottom order.
+If direct quotes are used, page numbers must be included in the in-text citation.
+Table 6
+
+Summary of studies about gait rehabilitation after stroke
+
+Heading 1
+
+Heading 2
+
+Heading 3
+
+cell content
+
+cell content<sup>a</sup>
+
+cell content
+
+cell content
+
+"cell content"<sup>b</sup>
+
+cell content<sup>d</sup>
+
+cell content
+
+cell content
+
+cell content<sup>a</sup>
+
+cell content
+
+cell content<sup>c</sup>
+
+cell content<sup>c</sup>
+
+Note. aKal et al. (2018). bBonini-Rocha et al. (2018, p. 402). cLiu (2018). dBortole et al. (2015).
+
+Reference list
+All reference list entries should appear as per the convention of the source being referenced. Please refer to the relevant section(s) within Easy Cite.
 
 ###### end-subtype-content
 
