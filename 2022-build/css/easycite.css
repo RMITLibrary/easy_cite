@@ -194,6 +194,9 @@ blockquote{
 	margin-left: 30px; 
 	background-color: #f0f0f0 !important;
 	padding: 10px;
+	font-size: 1rem !important;
+	line-height: 200%;
+	overflow-wrap: break-word;
 }
 .grey {
 	background-color: #f0f0f0 !important;
@@ -212,12 +215,23 @@ td {
 th {
 	vertical-align: top !important;
 }
+img {
+	width: 80% !important;
+}
 .hanging-indent{
 	padding-left: 4em !important;
  	text-indent: -4em !important;
+	font-size: 1rem !important;
+	line-height: 200%;
+	overflow-wrap: break-word;
 }
 .centre-align{
 	text-align: center !important;
+}
+.figure-text {
+	font-size: 1rem !important;
+	line-height: 200%;
+	overflow-wrap: break-word;
 }
 .accordion-button{
 	background-color: #e3e5e0 !important;

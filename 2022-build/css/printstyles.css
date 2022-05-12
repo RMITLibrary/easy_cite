@@ -76,16 +76,29 @@ blockquote p {
 	font-size: 14px;
 	page-break-inside: avoid;
 	padding: 10px;
+	line-height: 200%;
+	overflow-wrap: break-word;
 }
 .hanging-indent{
 	padding-left: 4em !important;
  	text-indent: -4em !important;
-	font-family: Baskerville, "Palatino Linotype", "serif" !important;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
 	margin-left: 20px;
 	font-size: 14px;
+	line-height: 200%;
+	overflow-wrap: break-word;
 }
 .centre-align{
 	text-align: center !important;
+}
+.figure-text {
+	font-size: 14px;
+	line-height: 200%;
+	overflow-wrap: break-word;
+}
+img {
+	width: 80% !important;
+	border: thin #2A2A2A;
 }
 ul, img {
    page-break-inside: avoid;

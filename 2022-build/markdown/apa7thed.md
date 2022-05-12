@@ -1386,23 +1386,39 @@ If referencing a blog post include the following: the author(s) name, year of pu
 
 APA includes the following within the definition of images and figures:
 
-graphs
-charts
-maps
-posters
-drawings
-photographs
-tables
-General rules
-Number figures consecutively in italics throughout your work using Arabic numerals, 1, 2, 3 and so on, taking care to order them as they appear within the text.
-The first figure is labelled Figure 1, the second, Figure 2, the third, Figure 3 and so on.
-Do NOT label figures with suffix letters such as Figure 5a, instead use, Figure 5.1.
-Above the figure include:
-the figure number (in bold)
-a brief title of the image (in italics)
-Below the figure place a caption that includes:
-a note providing a brief description
-if the image is not original work, then source details from where it was derived
+- graphs
+
+- charts
+
+- maps
+
+- posters
+
+- drawings
+
+- photographs
+
+- tables
+
+#### General rules
+
+- Number figures consecutively in italics throughout your work using Arabic numerals, 1, 2, 3 and so on, taking care to order them as they appear within the text.
+
+- The first figure is labelled Figure 1, the second, Figure 2, the third, Figure 3 and so on.
+
+- Do NOT label figures with suffix letters such as Figure 5a, instead use, Figure 5.1.
+
+- Above the figure include:
+
+  1. the figure number (in bold)
+
+  2. a brief title of the image (in italics)
+
+- Below the figure place a caption that includes:
+
+  1. a note providing a brief description
+
+  2. if the image is not original work, then source details from where it was derived
 
 ###### end-subtype-content
 
@@ -1415,7 +1431,8 @@ if the image is not original work, then source details from where it was derived
 
 ###### start-subtype-content
 
-In-text citation
+#### In-text citation
+
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
 1. within the written body of your paper, as you would for a normal in-text reference, and
@@ -1424,38 +1441,46 @@ When citing figures in the text of your work, you need to acknowledge them in tw
 
 Refer to the figure by its assigned number. Do NOT refer to the figure as “the Figure above/below”, or “the Figure on page 17”.
 
-As shown in Figure 1 . . . (Fernandez-Lizarbe et al., 2013).
+> As shown in Figure 1 . . . (Fernandez-Lizarbe et al., 2013).
 
-Figure 1 illustrates . . . (Fernandez-Lizarbe et al., 2013).
+> Figure 1 illustrates . . . (Fernandez-Lizarbe et al., 2013).
 
-The data shows . . . (Fernandez-Lizarbe et al., 2013, Figure 1).
+> The data shows . . . (Fernandez-Lizarbe et al., 2013, Figure 1).
 
-Figure layout
-A figure from a book/journal article will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. Figure 1) followed by the title of the figure (in italics).
+#### Figure layout
+
+A figure from a book/journal article will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. **Figure 1**) followed by the title of the figure (in italics).
 
 Below the figure, include a note that has a brief but descriptive phrase, as well as:
 
-book title in italics with proper nouns capitalised, or article title in double quotation marks " " and preceded with the word From
-author(s) initials followed by family name, preceded with the word by
-year of publication
-journal title in italics (if applicable)
-volume number in italics (if applicable)
-issue number (if applicable)
-page number(s)
-DOI
-copyright year and owner
-Figure 1
+- book title in italics with proper nouns capitalised, or article title in double quotation marks " " and preceded with the word **From**
 
-Dose Distributions for a Left-Breast Tumor
+- author(s) initials followed by family name, preceded with the word **by**
 
-[Sample image] LINK HERE
+- year of publication
 
-Note. Dose distributions for a left-breast tumor (a, b) at the level of surgical bed defined by titanium clips (arrows) and the corresponding DVH (c, d) for supine (left) and prone (right) positions. From “Pilot Study of Feasibility and Dosimetric Comparison of Prone Versus Supine Breast Radiotherapy,” by E. Fernandez-Lizarbe, A. Montero, A. Polo, R. Hernanz, R. Moris, S. Formenti, and A. Ramos, 2013, Clinical and Translational Oncology, 15, p. 453 (https://doi.org/10.1007/s12094-012-0950-8). Copyright 2013 by Springer International Publishing.
+- journal title in italics (if applicable)
 
-Reference list
+- volume number in italics (if applicable)
+
+- issue number (if applicable)
+
+- page number(s)
+
+- DOI
+
+- copyright year and owner
+
+> {.figure-text}**Figure 1**<br>
+> *Dose Distributions for a Left-Breast Tumor*<br>
+> ![Sample image](markdown/images/sample-image.gif)<br>
+> Note. Dose distributions for a left-breast tumor (a, b) at the level of surgical bed defined by titanium clips (arrows) and the corresponding DVH (c, d) for supine (left) and prone (right) positions. From “Pilot Study of Feasibility and Dosimetric Comparison of Prone Versus Supine Breast Radiotherapy,” by E. Fernandez-Lizarbe, A. Montero, A. Polo, R. Hernanz, R. Moris, S. Formenti, and A. Ramos, 2013, *Clinical and Translational Oncology*, 15, p. 453 (https<nolink>://doi.org/10.1007/s12094-012-0950-8). Copyright 2013 by Springer International Publishing. {/.figure-text}
+
+#### Reference list
+
 The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
 
-Fernandez-Lizarbe, E., Montero, A., Polo, A., Hernanz, R., Moris, R., Formenti, S., & Ramos, A. (2013). Pilot study of feasibility and dosimetric comparison of prone versus supine breast radiotherapy. Clinical and Translational Oncology, 15, 450-459. https://doi.org/10.1007/s12094-012-0950-8
+> {.hanging-indent}Fernandez-Lizarbe, E., Montero, A., Polo, A., Hernanz, R., Moris, R., Formenti, S., & Ramos, A. (2013). Pilot study of feasibility and dosimetric comparison of prone versus supine breast radiotherapy. *Clinical and Translational Oncology*, 15, 450-459. https<nolink>://doi.org/10.1007/s12094-012-0950-8 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1468,7 +1493,8 @@ Fernandez-Lizarbe, E., Montero, A., Polo, A., Hernanz, R., Moris, R., Formenti, 
 
 ###### start-subtype-content
 
-In-text citation
+#### In-text citation
+
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
 1. within the written body of your paper, as you would for a normal in-text reference, and
@@ -1477,43 +1503,48 @@ When citing figures in the text of your work, you need to acknowledge them in tw
 
 Refer to the figure by its assigned number. Do NOT refer to the figure as “the Figure above/below”, or “the Figure on page 17”.
 
-As shown in Figure 2 . . . (National Cancer Institute, 2016).
+> As shown in Figure 2 . . . (National Cancer Institute, 2016).
 
-Figure 2 illustrates . . . (National Cancer Institute, 2016).
+> Figure 2 illustrates . . . (National Cancer Institute, 2016).
 
-The diagram shows . . . (National Cancer Institute, 2016, Figure 2).
+> The diagram shows . . . (National Cancer Institute, 2016, Figure 2).
 
-Figure layout
-A figure from a webpage will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. Figure 2) followed by the title of the figure (in italics).
+#### Figure layout
+
+A figure from a webpage will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. **Figure 2**) followed by the title of the figure (in italics).
 
 Below the figure, include a note that has a brief but descriptive phrase, as well as:
 
-title of webpage preceded with the word From
-author(s) initials followed by family name, or institute/organisation, preceded with the word by
-year of webpage
-retrieval statement in the form of a URL
-copyright year and owner
-Figure 2
+- title of webpage preceded with the word **From**
 
-Anatomy of the Thyroid and Parathyroid Glands
+- author(s) initials followed by family name, or institute/organisation, preceded with the word **by**
 
-[anatomical illustration showing thyroid and parathroid glands] LINK HERE
+- year of webpage
 
-Note. Anatomy of the thyroid and parathyroid glands. From "Parathyroid cancer Treatment (PDQ®) – Patient Version," by National Cancer Institute, 2016, (https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq). Copyright 2012 by Terese Winslow LLC. Reprinted with permission.
+- retrieval statement in the form of a URL
+
+- copyright year and owner
+
+> {.figure-text}**Figure 2**<br>
+*Anatomy of the Thyroid and Parathyroid Glands*<br>
+![anatomical illustration showing thyroid and parathroid glands](markdown/images/ThyroidParathyroidAnatomy96dpi.jpeg)<br>
+*Note*. Anatomy of the thyroid and parathyroid glands. From "Parathyroid cancer Treatment (PDQ®) – Patient Version," by National Cancer Institute, 2016, (https<nolink>://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq). Copyright 2012 by Terese Winslow LLC. Reprinted with permission. {/.figure-text}
 
 Acknowledgement for the use of the image in this guide: For the National Cancer Institute © 2012 Terese Winslow LLC, U.S. Govt. has certain rights.
 
-Reference list
+#### Reference list
+
 The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
 
-National Cancer Institute. (2016). Anatomy of the thyroid and parathyroid glands. https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq
+> {.hanging-indent}National Cancer Institute. (2016). *Anatomy of the thyroid and parathyroid glands*. https<nolink>://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq {/.hanging-indent}
 
-Copyright information for the Anatomy of the Thyroid image
+**Copyright information for the Anatomy of the Thyroid image**
+
 For the National Cancer Institute © 2012 Terese Winslow LLC, U.S. Govt. has certain rights
 
-License Granted: Terese Winslow LLC hereby grants limited, non-exclusive worldwide print and electronic rights only for use in the work specified. Terese Winslow LLC grants such rights “AS IS” without representation or warranty of any kind and shall have no liability in connection with such license.
+**License Granted:** Terese Winslow LLC hereby grants limited, non-exclusive worldwide print and electronic rights only for use in the work specified. Terese Winslow LLC grants such rights “AS IS” without representation or warranty of any kind and shall have no liability in connection with such license.
 
-Restrictions: Reproduction for use in any other work or derivative works is prohibited. Ownership of original artwork, copyright, and all rights not specifically transferred herein remain the exclusive property of Terese Winslow LLC. Additional license(s) are required for ancillary usage(s).
+**Restrictions:** Reproduction for use in any other work or derivative works is prohibited. Ownership of original artwork, copyright, and all rights not specifically transferred herein remain the exclusive property of Terese Winslow LLC. Additional license(s) are required for ancillary usage(s).
 
 
 
@@ -1528,7 +1559,8 @@ Restrictions: Reproduction for use in any other work or derivative works is proh
 
 ###### start-subtype-content
 
-In-text citation
+#### In-text citation
+
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
 1. within the written body of your paper, as you would for a normal in-text reference, and
@@ -1537,34 +1569,38 @@ When citing figures in the text of your work, you need to acknowledge them in tw
 
 Refer to the figure by its assigned number. Do NOT refer to the figure as “the Figure above/below”, or “the Figure on page 17”.
 
-As shown in Figure 3 . . . (Ross, 2017).
+> As shown in Figure 3 . . . (Ross, 2017).
 
-Figure 3 illustrates . . . (Ross, 2017).
+> Figure 3 illustrates . . . (Ross, 2017).
 
-The diagram shows . . . (Ross, 2017, Figure 3).
+> The diagram shows . . . (Ross, 2017, Figure 3).
 
-Figure layout
-A figure from a library database will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. Figure 3) followed by the title of the figure (in italics).
+#### Figure layout
+
+A figure from a library database will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. **Figure 3**) followed by the title of the figure (in italics).
 
 Below the figure, include a note that has a brief but descriptive phrase, as well as:
 
-title of library database preceded with the word From
-author(s) initials followed by family name, or institute/organisation, preceded with the word by
-year of image
-retrieval statement in the form of the library database homepage URL
-copyright year and owner
-Figure 3
+- title of library database preceded with the word **From**
 
-Lumbar Intervertebral Disc Herniation
+- author(s) initials followed by family name, or institute/organisation, preceded with the word **by**
 
-[Sample image] LINK HERE
+- year of image
 
-Note. Graphic of large recurrent disc herniation shows displacement of the nuclear material through a large defect in the posterior annular fibers with effacement of the ventral thecal sac and displacement of the intrathecal nerve roots. From "Lumbar Intervertebral Disc Herniation," by J. S. Ross, 2017, Imaging Reference Center (https://app.imagingreferencecenter.com). Copyright 2017 by J. S. Ross.
+- retrieval statement in the form of the library database homepage URL
 
-Reference list
+- copyright year and owner
+
+> {.figure-text}**Figure 3**<br>
+*Lumbar Intervertebral Disc Herniation*<br>
+![Sample image](markdown/images/sample-image.gif)<br>
+*Note*. Graphic of large recurrent disc herniation shows displacement of the nuclear material through a large defect in the posterior annular fibers with effacement of the ventral thecal sac and displacement of the intrathecal nerve roots. From "Lumbar Intervertebral Disc Herniation," by J. S. Ross, 2017, Imaging Reference Center (https<nolink>://app.imagingreferencecenter.com). Copyright 2017 by J. S. Ross. {/.figure-text}
+
+#### Reference list
+
 The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
 
-Ross, J. S. (2017). Lumbar intervertebral disc herniation. Imaging Reference Center. https://app.imagingreferencecenter.com
+> {.hanging-indent}Ross, J. S. (2017). *Lumbar intervertebral disc herniation*. Imaging Reference Center. https<nolink>://app.imagingreferencecenter.com {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1577,7 +1613,8 @@ Ross, J. S. (2017). Lumbar intervertebral disc herniation. Imaging Reference Cen
 
 ###### start-subtype-content
 
-In-text citation
+#### In-text citation
+
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
 1. within the written body of your paper, as you would for a normal in-text reference, and
@@ -1586,37 +1623,42 @@ When citing figures in the text of your work, you need to acknowledge them in tw
 
 Refer to the figure by its assigned number. Do NOT refer to the figure as “the Figure above/below”, or “the Figure on page 17”.
 
-As shown in Figure 4 . . . (West, 2012).
+> As shown in Figure 4 . . . (West, 2012).
 
-Figure 4 illustrates . . . (West, 2012).
+> Figure 4 illustrates . . . (West, 2012).
 
-The diagram shows . . . (West, 2012, Figure 4).
+> The diagram shows . . . (West, 2012, Figure 4).
 
-Figure layout
-A figure from a creative commons source will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. Figure 4) followed by the title of the figure (in italics).
+#### Figure layout
+
+A figure from a creative commons source will include a double-spaced caption with the following elements above the figure: label of figure in bold (e.g. **Figure 4**) followed by the title of the figure (in italics).
 
 Below the figure, include a note that has a brief but descriptive phrase, as well as:
 
-title of the creative commons source preceded with the word From
-author(s) initials followed by family name, or institute/organisation, preceded with the word by
-year of image
-retrieval statement in the form of a URL
-copyright year and owner and Creative Commons license
-Figure 4
+- title of the creative commons source preceded with the word **From**
 
-MRI
+- author(s) initials followed by family name, or institute/organisation, preceded with the word **by**
 
-[MRI] LINK HERE
+- year of image
 
-Note. A magnetic resonance imaging machine. From "MRI," by L. West, 2012, (https://www.flickr.com/photos/calliope/7694882446). Copyright 2012 by L. West. CC BY 2.0.
+- retrieval statement in the form of a URL
 
-Reference list
+- copyright year and owner and Creative Commons license
+
+> {.figure-text}**Figure 4**<br>
+*MRI*<br>
+![MRI](markdown/images/MRI_machine.jpeg)<br>
+*Note*. A magnetic resonance imaging machine. From "MRI," by L. West, 2012, (https<nolink>://www.flickr.com/photos/calliope/7694882446). Copyright 2012 by L. West. CC BY 2.0.{/.figure-text}
+
+#### Reference list
+
 The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
 
-West, L. (2012). MRI. Flickr. https://www.flickr.com/photos/calliope/7694882446
+> West, L. (2012). MRI. Flickr. https<nolink>://www.flickr.com/photos/calliope/7694882446
 
-Copyright information for the MRI image
-"MRI" Opens in new windowby Liz West Opens in new windowcan be reused under the CC BY 2.0 license.
+**Copyright information for the MRI image**
+
+["MRI"](https://www.flickr.com/photos/calliope/7694882446) by [Liz West](https://www.flickr.com/photos/calliope/) can be reused under the [CC BY 2.0 license](https://creativecommons.org/licenses/by/2.0/).
 
 ###### end-subtype-content
 
@@ -1625,18 +1667,20 @@ Copyright information for the MRI image
 
 ###### start-subtype-item
 
-### Citing image sources in a table
+### Citing sources in a table
 
 ###### start-subtype-content
 
-Citing sources in a table
+#### Citing sources in a table
+
 The information and examples below outline how to reference a table where the information in the table has been derived from another source or sources.
 
-Note: If a table that you create in your written work is entirely your own and does not include information from other sources, you should include a table number (in bold) and a brief title (italicised).
+*Note: If a table that you create in your written work is entirely your own and does not include information from other sources, you should include a table number (in bold) and a brief title (italicised).*
 
-Note: If you are copying an entire table from another source without altering the layout or combining its data from other sources, you should then reference it as per the other examples in the Images section e.g. book/journal article, webpage etc.
+*Note: If you are copying an entire table from another source without altering the layout or combining its data from other sources, you should then reference it as per the other examples in the Images section e.g. book/journal article, webpage etc.*
 
-In-text citation
+#### In-text citation
+
 When citing tables in the text of your work, you need to acknowledge them in two places:
 
 1. within the written body of your paper, as you would for a normal in-text reference, and
@@ -1645,108 +1689,58 @@ When citing tables in the text of your work, you need to acknowledge them in two
 
 Refer to the table by its assigned number. Do NOT refer to the table as “the Table above/below”, or “the Table on page 17”.
 
-As shown in Table 5 . . .
+> As shown in Table 5 . . .
 
-Table 5 illustrates . . .
+> Table 5 illustrates . . .
 
-The data shows . . . (Table 5).
+> The data shows . . . (Table 5).
 
-Table layout
-Table caption
+#### Table layout
+
+##### Table caption
 
 A table that cites other sources will include a double-spaced caption with the following elements above the table: label of table in bold (e.g. Table 5) followed by the title of the table (in italics).
 
-Names of studies included within table
+##### Names of studies included within table
 
 If the information in the table includes references to relevant sources, then notes below the table are not required (this is commonly the case with summary tables of previous studies).
 
-Table 5
+**Table 5**
 
-Summary of studies about gait rehabilitation after stroke
+*Summary of studies about gait rehabilitation after stroke*
 
-Study
+| Study | Heading 1 | Heading 2 | Heading 3 |
+| ----- | ----- | ----- | ----- |
+| Bonini-Rocha et al., 2018 | cell content | cell content | cell content |
+| Bortole et al., 2015 | cell content | cell content | cell content |
+| Kal et al., 2018 | cell content | cell content | cell content |
+| Liu, 2018 | cell content | cell content | cell content |
 
-Heading 1
+##### Superscript letters representing sources used
 
-Heading 2
+- Use a superscript lower-case letter to indicate in the table any in-text citations used.
 
-Heading 3
+- If direct quotes are used, quotation marks should be used in the table.
 
-Bonini-Rocha et al., 2018
+- Provide a note below the table organised according to where the superscripts appear in the table following the left-to-right, top-to-bottom order.
 
-cell content
+- If direct quotes are used, page numbers must be included in the in-text citation.
 
-cell content
+**Table 6**
 
-cell content
+*Summary of studies about gait rehabilitation after stroke*
 
-Bortole et al., 2015
+| Heading 1 | Heading 2 | Heading 3 |
+| ----- | ----- | ----- |
+| cell content | cell content<sup>a</sup> | cell content |
+| cell content | "cell content"<sup>b</sup> | cell content<sup>d</sup> |
+| cell content | cell content | cell content<sup>a</sup> |
+| cell content | cell content<sup>c</sup> | cell content<sup>c</sup> |
 
-cell content
+*Note*. <sup>a</sup>Kal et al. (2018). <sup>b</sup>Bonini-Rocha et al. (2018, p. 402). <sup>c</sup>Liu (2018). <sup>d</sup>Bortole et al. (2015).
 
-cell content
+#### Reference list
 
-cell content
-
-Kal et al., 2018
-
-cell content
-
-cell content
-
-cell content
-
-Liu, 2018
-
-cell content
-
-cell content
-
-cell content
-
-Superscript letters representing sources used
-
-Use a superscript lower-case letter to indicate in the table any in-text citations used.
-If direct quotes are used, quotation marks should be used in the table.
-Provide a note below the table organised according to where the superscripts appear in the table following the left-to-right, top-to-bottom order.
-If direct quotes are used, page numbers must be included in the in-text citation.
-Table 6
-
-Summary of studies about gait rehabilitation after stroke
-
-Heading 1
-
-Heading 2
-
-Heading 3
-
-cell content
-
-cell content<sup>a</sup>
-
-cell content
-
-cell content
-
-"cell content"<sup>b</sup>
-
-cell content<sup>d</sup>
-
-cell content
-
-cell content
-
-cell content<sup>a</sup>
-
-cell content
-
-cell content<sup>c</sup>
-
-cell content<sup>c</sup>
-
-Note. aKal et al. (2018). bBonini-Rocha et al. (2018, p. 402). cLiu (2018). dBortole et al. (2015).
-
-Reference list
 All reference list entries should appear as per the convention of the source being referenced. Please refer to the relevant section(s) within Easy Cite.
 
 ###### end-subtype-content
@@ -1766,12 +1760,32 @@ All reference list entries should appear as per the convention of the source bei
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Other - part 1
+### Conference proceedings
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-some text here about books
+#### Paraphrasing in-text
+
+When paraphrasing, include the author(s) family name and year of publication in brackets.
+
+If there are three or more authors list the first family name followed by et al.
+
+> It is suggested that . . . (Katashev et al., 2015).
+
+> Katashev et al. (2015) state that . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number(s) from the conference proceedings.
+
+> "For the data acquisition, patients were asked to perform 3 deep breath cycles with hands placed on the back of their heads" (Katashev et al., 2015, pp. 63-64).
+
+#### Reference list
+
+For proceedings sourced from a print book or e-book, use the same format for a book or book chapter e.g. author(s), year of publication, title of conference paper, editor(s), title of book in italics, page number(s) in brackets, publisher and DOI.
+
+> {.hanging-indent}Katashev, A., Romberg, K., Danielsson, A., & Saraste, H. (2015). Application of 3D scanner for estimation of chest movement in scoliotic patients. In H. Mindedal & M. Persson (Eds.). *16th Nordic-Baltic Conference on Biomedical Engineering: 16 NBC & 10. MTD 2014 joint conferences* (pp. 63-66). Springer International Publishing. https<nolink>://doi.org/10.1007/978-3-319-12967-9 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1780,11 +1794,33 @@ some text here about books
 
 ###### start-subtype-item
 
-### BUTTON
+### Thesis
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+
+> The characteristics of insulin deficiency are . . . (Wang, 2015).
+
+> Wang (2015) argues that . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number(s) from the thesis.
+
+> "Both ectopic lipids and ER stress have been suggested to be responsible for the inhibition of insulin signalling" (Wang, 2015, p. 129).
+
+#### Reference list
+
+For a thesis sourced from an institutional repository, use the following format: author, year of publication in brackets, title in italics, identify the type of work and institution in square brackets e.g. [Doctoral dissertation, RMIT University] or [Master's thesis, RMIT University], repository/archive/database name and include a retrieval statement in the form of a URL.
+
+> {.hanging-indent}Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance* [Doctoral dissertation, RMIT University]. RMIT Research Repository. http<nolink>://researchbank.rmit.edu.au/view/rmit:161444 {/.hanging-indent}
+
+For a thesis sourced from a library database include the following information: author, year of publication in brackets, title in italics, accession or order number in brackets, type of work and institution in square brackets, and the name of the database.
+
+> {.hanging-indent}Sutherland, A. M. (2016). *Technology for single cell protein analysis in immunology and cancer prognostics* (Order No. 3738948) [Doctoral dissertation, California Institute of Technology]. ProQuest Dissertations and Theses Global. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1793,11 +1829,29 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Standards
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the organisation name (in this instance, Standards Australia) and year of publication in brackets.
+
+> Needle tip evaluation methods are determined by . . . (Standards Australia, 2014).
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number(s) from the Standard.
+
+> "Sterile acupuncture needles for single use shall be sterilized through a validated sterilization process in order to ensure that the products are sterile" (Standards Australia, 2014, p. 9).
+
+#### Reference list
+
+Provide the title in italics, the standard number in brackets and a URL.
+
+> {.hanging-indent}Standards Australia. (2014). *Sterile acupuncture needles for single use* (AS ISO Standard No. 17218:2014). https<nolink>://infostore.saiglobal.com/en-us/Standards/AS-ISO-17218-2014-111547_SAIG_AS_AS_233329/ {/.hanging-indent}
+
+
 
 ###### end-subtype-content
 
@@ -1806,11 +1860,37 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### PowerPoint slides
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+If referencing a PowerPoint presentation that has been published and sourced online (e.g. SlideShare) then it must be cited both in-text, and in the reference list.
+
+To reference a PowerPoint presentation that was taken from a university learning management system (e.g. Canvas), refer to the **Other sources > Course materials** section.
+
+When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+
+> Chiropractic improves . . . (Haavik, 2014).
+
+> Haavik (2014) states that . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the slide number(s) from the slide.
+
+Use **s.** to denote slide number. If there is no assigned slide number then count the number of slides from the beginning.
+
+> "Spinal function impacts integration of sensory information" (Haavik, 2014, s. 85).
+
+> Haavik (2014) notes that "spinal function impacts integration of sensory information" (s. 85).
+
+#### Reference list
+
+The reference list citation should include: the author(s) name, year of publication, title of the slide presentation in italics, a description of the form type inside square brackets e.g. [PowerPoint slides], Publisher name, and a retrieval statement in the form of a URL.
+
+> {.hanging-indent}Haavik, H. (2014). *How to confidently communicate the science of chiropractic* [PowerPoint slides]. SlideShare. https<nolink>://www.slideshare.net/heidihaavik/how-to-confidently-communicate-the-science-of-chiropractic {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1819,11 +1899,61 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Course materials
 
 ###### start-subtype-content
 
-CONTENT
+Only include a full reference to lecture notes or class materials that are behind a login screen (such as Canvas) if you are writing for an audience that will be able to retrieve them. Otherwise, cite it as a personal communication.
+
+Examples of course materials are:
+
+- lecture recordings
+
+- PowerPoint slides from lectures
+
+- practical/laboratory manuals
+
+#### Lecture recording
+
+**Paraphrasing in-text**
+
+When citing in-text, include the author family name and year.
+
+> Lee's (2017) lecture outlined the differences between . . .
+
+**Reference list**
+
+The reference list citation should include: the author(s) name, year, month and day of lecture, title of the lecture in italics, a description of the form type inside square brackets e.g. [Lecture recording], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
+
+> {.hanging-indent}Lee, M. (2017, May 10). *Maslow's hierarchy* [Lecture recording]. Canvas@RMIT University. https<nolink>://rmit.instructure.com {/.hanging-indent}
+
+#### PowerPoint slides from lectures
+
+**Paraphrasing in-text**
+
+When citing in-text, be sure to include the author family name and year
+
+> The topic of postural assessment was examined and found that . . . (Draper, 2017).
+
+**Reference list**
+
+The reference list citation should include: the author(s) name, year of publication, title of the slide presentation in italics, a description of the form type inside square brackets e.g. [PowerPoint slides], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
+
+> {.hanging-indent}Draper, B. (2017). *Postural assessment* [PowerPoint slides]. Canvas@RMIT University. https<nolink>://rmit.instructure.com {/.hanging-indent}
+
+#### Practical / Laboratory manual
+
+**Paraphrasing in-text**
+
+When citing in-text, be sure to include the author family name and year.
+
+> Mouradov (2017) explains the process of plasmid transferral is . . .
+
+**Reference list**
+
+The reference list citation should include: the author(s) name, year of publication, title of the practical/laboratory manual in italics, a description of the form type inside square brackets e.g. [Practical manual], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
+
+> {.hanging-indent}Mouradov, A. (2017). *ONPS1052 gene technologies 1 - practical class* [Practical manual]. Canvas@RMIT University. https<nolink>://rmit.instructure.com {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1832,11 +1962,37 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Report, government or corporate
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include either the author/company/government department name and year of publication in brackets.
+
+> Public hospital expenditure increased dramatically . . . (Australian Institute of Health and Welfare, 2016).
+
+#### Direct quote in-text
+
+Many electronic sources do not provide page numbers, unless they are in PDF format.
+
+Place direct quotes between double quotation marks " " and provide the page number(s) of the direct quote if taken from a PDF document.
+
+If the document does NOT contain page numbers, then use the name of the section and the paragraph number as part of the in-text reference.
+
+> "For private hospitals, the recurrent expenditure data provided for 2014–15 are considered comparable with the data provided for 2010–11 to 2013–14" (Australian Institute of Health and Welfare, 2016, p. 47).
+
+#### Reference list
+
+Include the author(s) if stated; otherwise add the company, organisation or government department, followed by the year of publication in brackets.
+
+As the document is a report, the title is italicised and, if there is a report number, place it in brackets immediately after the title. If the report has been sourced online make sure to include the retrieval statement.
+
+Only identify the publisher as part of the retrieval statement if the publisher has NOT been identified as the author.
+
+> {.hanging-indent}Australian Institute of Health and Welfare. (2016). *Hospital resources 2014–15: Australian hospital statistics* (Health services series No. 71, Cat. No. HSE 176). http<nolink>://www.aihw.gov.au/publication-detail/?id=60129556122 {/.hanging-indent}
+
+
 
 ###### end-subtype-content
 
@@ -1845,11 +2001,55 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Student's own work
 
 ###### start-subtype-content
 
-CONTENT
+You should include the use of scholarly sources in your written assessments to adhere to best academic integrity practice. Citing yourself as an authority on your own opinion should be avoided.
+
+Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
+
+Remember that when submitting work, you will be asked to agree to the [Assessment Declaration](https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration).
+
+The Publication manual of the American Psychological Association does not provide information on how to cite your own work. The following is based on how to cite dissertations and theses.
+
+If you cite or quote your previous work, treat yourself as the author and your own previous course work as an unpublished paper.
+
+#### Paraphrasing in-text
+
+When paraphrasing, include your family name and year of previous work in brackets. Or, if referring to your family name in the body of the text, then just include the year of previous work in brackets immediately after your family name.
+
+For example, if Jane Smith wanted to cite a paper she wrote at RMIT University in 2018 her in-text reference may look like this:
+
+> Studies indicate that . . . (Smith, 2018).
+
+> Smith (2018) noted that . . .
+
+If your original work contained citations from other sources, you would need to include those same citations in the new work as well. If Jane Smith's earlier paper had cited Presley and Johnson, for example, it may look like this:
+
+> According to Smith (2018), psychologists such as Presley and Johnson (2009) . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number from the previous work.
+
+> "Risk taking behaviours align neatly with certain personality traits or disorders" (Smith, 2018, p. 3).
+
+#### Reference list
+
+In the Reference list include:
+
+- Student name
+
+- Year of previous work
+
+- Title of previous work (italicised)
+
+- Unpublished paper (in square brackets)
+
+- Institution name
+
+> {.hanging-indent}Smith, J. (2018). *An analysis of personality theory* [Unpublished paper]. RMIT University. {/.hanging-indent}
 
 ###### end-subtype-content
 

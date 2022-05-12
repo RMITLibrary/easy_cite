@@ -216,13 +216,12 @@ $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div>', $my
 // HANGING INDENTS
 $mylist = preg_replace("/{.hanging-indent}/s", '<div class="hanging-indent">', $mylist);
 $mylist = preg_replace("/{\/.hanging-indent}/s", '</div>', $mylist);
-	$mylist = preg_replace("/<hanging-indent>/s", '<div class="hanging-indent">', $mylist);
-$mylist = preg_replace("/<\/hanging-indent>/s", '</div>', $mylist);
 // CENTRE ALIGN TEXT
 $mylist = preg_replace("/{.centre-align}/s", '<p class="centre-align">', $mylist);
 $mylist = preg_replace("/{\/.centre-align}/s", '</p>', $mylist);
-	$mylist = preg_replace("/<centre-align>/s", '<p class="centre-align">', $mylist);
-$mylist = preg_replace("/<\/centre-align>/s", '</p>', $mylist);
+// FIGURE TEXT
+$mylist = preg_replace("/{.figure-text}/s", '<p class="figure-text">', $mylist);
+$mylist = preg_replace("/{\/.figure-text}/s", '</p>', $mylist);
 // GREY BACKGROUND FOR TABLE CELL CONTENT
 $mylist = preg_replace("/<grey>/s", '<div class="grey">', $mylist);
 $mylist = preg_replace("/<\/grey>/s", '</div>', $mylist);
