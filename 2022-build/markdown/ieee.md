@@ -370,29 +370,29 @@ Cities in other countries (outside the USA and UK) just need to include the city
 #### Reference List
 
 {.ieee-refs}
-[1]    J. L. Blackburn, Protective Relaying: *Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014.
+[1] &nbsp; J. L. Blackburn, Protective Relaying: *Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014.
 
-[2]    H. F. Lodish *et al.*, *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012.
+[2] &nbsp; H. F. Lodish *et al.*, *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012.
 
-[3]    A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del.*, vol. 31, no. 2, pp. 428-436, Apr. 2016.
+[3] &nbsp; A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del.*, vol. 31, no. 2, pp. 428-436, Apr. 2016.
 
-[4]    S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transportation Research Part D: Transport and Environment*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013.
+[4] &nbsp; S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transportation Research Part D: Transport and Environment*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013.
 
-[5]    K. A. Burke, “High energy density regenerative fuel cells systems for terrestrial applications,” *IEEE Aerosp. Syst.* Mag., vol. 14, no. 12, pp. 23-34, Dec. 1999.
+[5] &nbsp; K. A. Burke, “High energy density regenerative fuel cells systems for terrestrial applications,” *IEEE Aerosp. Syst.* Mag., vol. 14, no. 12, pp. 23-34, Dec. 1999.
 
-[6]    B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Computational Intelligence and Communication Networks (CICN)*, Los Alamitos, CA, USA, pp. 1354-1357, doi: 10.1109/62.811091.
+[6] &nbsp; B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Computational Intelligence and Communication Networks (CICN)*, Los Alamitos, CA, USA, pp. 1354-1357, doi: 10.1109/62.811091.
 
-[7]    Energy Networks Australia, "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017).
+[7] &nbsp; Energy Networks Australia, "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017).
 
-[8]    nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow
+[8] &nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow
 
-[9]   Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, doi: http<nolink>://doi.org/10.4225/08/5913e0247881b.
+[9] &nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, doi: http<nolink>://doi.org/10.4225/08/5913e0247881b.
 
-[10]  K. Deby, “Multinode temperature sensor,” Patent 2016102110, 2016. [Online]. Available: https<nolink>://www.austpat/189907465454.com
+[10] &nbsp; K. Deby, “Multinode temperature sensor,” Patent 2016102110, 2016. [Online]. Available: https<nolink>://www.austpat/189907465454.com
 
-[11]  *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: https<nolink>://www.saiglobal/ieee2743287647644
+[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: https<nolink>://www.saiglobal/ieee2743287647644
 
-[12]  M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: https<nolink>://researchrepository.rmit.edu.au/esploro/outputs/doctoral/A-model-formulation-approach-for-system/9921863821301341?institution=61RMIT_INST#file-0
+[12] &nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: https<nolink>://researchrepository.rmit.edu.au/esploro/outputs/doctoral/A-model-formulation-approach-for-system/9921863821301341?institution=61RMIT_INST#file-0
 {/.ieee-refs}
 
 ###### end-subtype-content
@@ -418,26 +418,29 @@ Cities in other countries (outside the USA and UK) just need to include the city
 <!-- first accordion item -->
 ###### start-subtype-content
 
-Paraphrasing in-text
+#### Paraphrasing in-text
+
 When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
 
-As discussed in [2], relays are used in everyday life.
+> As discussed in [2], relays are used in everyday life.
 
-Blackburn [2] states that . . .
+> Blackburn [2] states that . . .
 
-Direct quote in-text
+#### Direct quote in-text
+
 When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
 
-"Symmetrical components can be called the language of the relay engineer or technician" [2, p. 71].
+> "Symmetrical components can be called the language of the relay engineer or technician" [2, p. 71].
 
-Blackburn notes that "Symmetrical components can be called the language of the relay engineer or technician" [2, p. 71].
+> Blackburn notes that "Symmetrical components can be called the language of the relay engineer or technician" [2, p. 71].
 
-Reference list
+#### Reference list
+
 When citing books make sure to include the following information where available:
 
-Author(s) initials. Family name(s), or name of organisation/company, Title of Book, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-[2]    J. L. Blackburn, Protective Relaying: Principles and Applications, 4th ed. Boca Raton, FL, USA: CRC Press, 2014.
+> {.ieee-refs}[2] &nbsp; J. L. Blackburn, *Protective Relaying: Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -450,28 +453,31 @@ Author(s) initials. Family name(s), or name of organisation/company, Title of Bo
 
 ###### start-subtype-content
 
-Paraphrasing in-text
+#### Paraphrasing in-text
+
 When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
 
 State both authors using ‘and’ between the two author family names when citing in-text.
 
-Battery load calculation is discussed in [2].
+> Battery load calculation is discussed in [2].
 
-Bayliss and Hardy [2] state that batteries . . .
+> Bayliss and Hardy [2] state that batteries . . .
 
-Direct quote in-text
+#### Direct quote in-text
+
 When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
 
-"The load on the battery is calculated from the power consumption characteristics" [2, p. 139].
+> "The load on the battery is calculated from the power consumption characteristics" [2, p. 139].
 
-Reference list
+#### Reference list
+
 List both authors, separating the two author names with ‘and’.
 
 When citing books make sure to include the following information where available:
 
-Author(s) initials. Family name(s), or name of organisation/company, Title of Book, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-[2]    C. R. Bayliss and B. J. Hardy, Transmission and Distribution Electrical Engineering, 4th ed. Oxford, U.K.: Newnes, 2012.
+> {.ieee-refs}[2] &nbsp; C. R. Bayliss and B. J. Hardy, *Transmission and Distribution Electrical Engineering*, 4th ed. Oxford, U.K.: Newnes, 2012. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -484,28 +490,31 @@ Author(s) initials. Family name(s), or name of organisation/company, Title of Bo
 
 ###### start-subtype-content
 
-Paraphrasing in-text
+#### Paraphrasing in-text
+
 When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
 
-If citing more than two authors in-text, use the first family name listed followed by et al. (in italics).
+If citing more than two authors in-text, use the first family name listed followed by *et al*. (in italics).
 
-Utilisation of digital circuits enables . . . [2].
+> Utilisation of digital circuits enables . . . [2].
 
-Radulov et al. [2] discuss the use of digital circuits.
+> Radulov *et al*. [2] discuss the use of digital circuits.
 
-Direct quote in-text
+#### Direct quote in-text
+
 When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
 
-"Digital circuits can only be utilized providing an appropriate translation" [2, p. 11].
+> "Digital circuits can only be utilized providing an appropriate translation" [2, p. 11].
 
-Reference list
+#### Reference list
+
 List all authors (up to six), separating the last two author names with ‘and’.
 
 When citing books make sure to include the following information where available:
 
-Author(s) initials. Family name(s), or name of organisation/company, Title of Book, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-[2]    G. Radulov, P. Quinn, H. Hegt, and A. van Roermund, Smart and Flexible Digital-to-Analog Converters. Dordrecht, The Netherlands: Springer, 2011.
+> {.ieee-refs}[2] &nbsp; G. Radulov, P. Quinn, H. Hegt, and A. van Roermund, *Smart and Flexible Digital-to-Analog Converters*. Dordrecht, The Netherlands: Springer, 2011. {/.ieee.refs}
 
 ###### end-subtype-content
 
@@ -519,32 +528,35 @@ Author(s) initials. Family name(s), or name of organisation/company, Title of Bo
 
 ###### start-subtype-content
 
+#### Paraphrasing in-text
+
 When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
 
-If citing more than two authors in-text, use the first family name listed followed by et al. (in italics).
+If citing more than two authors in-text, use the first family name listed followed by *et al*. (in italics).
 
-Centrifugation is the first process in protein purification [2].
+> Centrifugation is the first process in protein purification [2].
 
-Lodish et al. [2] discuss methods for polymer and particle separation.
+> Lodish *et al*. [2] discuss methods for polymer and particle separation.
 
-Direct quote in-text
+#### Direct quote in-text
+
 When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
 
-"Rate-zonal centrifugation has proved to be a practical method for separating many different types of polymers and particles" [2, p. 93].
+> "Rate-zonal centrifugation has proved to be a practical method for separating many different types of polymers and particles" [2, p. 93].
 
-Reference list
-If there are more than six authors listed, use et al. (in italics) after the first author’s family name.
+#### Reference list
+
+If there are more than six authors listed, use *et al*. (in italics) after the first author’s family name.
 
 When citing books make sure to include the following information where available:
 
-Author initials. Family name, or name of organisation/company, Title of Book, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+Author initials. Family name, or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-[2]    H. F. Lodish et al., Molecular Cell Biology, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012.
+> {.ieee-refs}[2] &nbsp; H. F. Lodish *et al*., *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012. {/.ieee-refs}
 
 ###### end-subtype-content
 
 ###### end-subtype-item
-
 
 
 ###### start-subtype-item
@@ -553,26 +565,29 @@ Author initials. Family name, or name of organisation/company, Title of Book, ed
 
 ###### start-subtype-content
 
-Paraphrasing in-text
+#### Paraphrasing in-text
+
 When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name/corporate name in the body of the text, then include the citation number in square brackets immediately after the family/corporate name.
 
-Arthropods have exoskeletons that are considered to be . . .[2].
+> Arthropods have exoskeletons that are considered to be . . .[2].
 
-The Commonwealth Scientific and Industrial Research Organisation (CSIRO) Division of Entomology [2] consider the exoskeletons of arthropods to be . . .
+> The Commonwealth Scientific and Industrial Research Organisation (CSIRO) Division of Entomology [2] consider the exoskeletons of arthropods to be . . .
 
-Direct quote in-text
+#### Direct quote in-text
+
 When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
 
-"Arthropods are metamerically segmented invertebrates" [2, p. 3].
+> "Arthropods are metamerically segmented invertebrates" [2, p. 3].
 
-Reference list
+#### Reference list
+
 Place corporate name in the author position.
 
 When citing a book by a corporate author make sure to include the following information where available:
 
-Author(s) initials. Family name(s), or name of organisation/company, Title of Book, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-[2]    Commonwealth Scientific and Industrial Research Organisation Division of Entomology, The Insects of Australia: A Textbook for Students and Research Workers, 2nd ed. Carlton South, Australia: Melbourne University Press, 1991.
+> {.ieee-refs}[2] &nbsp; Commonwealth Scientific and Industrial Research Organisation Division of Entomology, *The Insects of Australia: A Textbook for Students and Research Workers*, 2nd ed. Carlton South, Australia: Melbourne University Press, 1991. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -586,26 +601,29 @@ Author(s) initials. Family name(s), or name of organisation/company, Title of Bo
 
 ###### start-subtype-content
 
-Paraphrasing in-text
+#### Paraphrasing in-text
+
 When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
 
-The mobility of hydrogen atoms cause . . .[2].
+> The mobility of hydrogen atoms cause . . .[2].
 
-Kupriyanov [2] recommends alternatives to oil and mercury vacuum pumps.
+> Kupriyanov [2] recommends alternatives to oil and mercury vacuum pumps.
 
-Direct quote in-text
+#### Direct quote in-text
+
 When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
 
-"Hydrogen atoms are the simplest donor particles" [2, p. 185].
+> "Hydrogen atoms are the simplest donor particles" [2, p. 185].
 
-Reference list
+#### Reference list
+
 Include the translated title and details such as language directly after the publisher.
 
 When citing a translated book make sure to include the following information where available:
 
-Author(s) initials. Family name(s), Title of Book, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher (in Language), Year of Publication.
+Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher (in Language), Year of Publication.
 
-[2]    L. Y. Kupriyanov, Semiconductor Sensors in Physico-Chemical Studies. Burlington, VT, USA: Elsevier Science (in English), 1996.
+> {.ieee-refs}[2] &nbsp; L. Y. Kupriyanov, *Semiconductor Sensors in Physico-Chemical Studies*. Burlington, VT, USA: Elsevier Science (in English), 1996. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -619,24 +637,27 @@ Author(s) initials. Family name(s), Title of Book, ed. (edition, except the firs
 
 ###### start-subtype-content
 
-Paraphrasing in-text
+#### Paraphrasing in-text
+
 When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
 
-There are two determining factors for the necessary length of insulators [2].
+> There are two determining factors for the necessary length of insulators [2].
 
-Wagenaar [2] contends that mineral oil . . .
+> Wagenaar [2] contends that mineral oil . . .
 
-Direct quote in-text
+#### Direct quote in-text
+
 When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
 
-"Mineral oil expands and contracts with temperature" [2, p. 9].
+> "Mineral oil expands and contracts with temperature" [2, p. 9].
 
-Reference list
+#### Reference list
+
 When citing a book chapter make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of the chapter," in Title of the Book, Ed., (editor if available), ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication, pp. chapter/s or first and last pages of the article.
+Author(s) initials. Family name(s), "Title of the chapter," in *Title of the Book*, Ed., (editor if available), ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication, pp. chapter/s or first and last pages of the article.
 
-[2]    L. B. Wagenaar, "Electrical bushings," in Electric Power Transformer Engineering, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, pp. 1-24.
+> {.ieee-refs}[2] &nbsp; L. B. Wagenaar, "Electrical bushings," in *Electric Power Transformer Engineering*, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, pp. 1-24. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -650,26 +671,27 @@ Author(s) initials. Family name(s), "Title of the chapter," in Title of the Book
 
 ###### start-subtype-content
 
-Paraphrasing in-text
+#### Paraphrasing in-text
+
 When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
 
-Handset competition is discussed by [2].
+> Handset competition is discussed by [2].
 
-Curwen and Whaley [2] evaluate the complexity of the mobile industry . . .
+> Curwen and Whaley [2] evaluate the complexity of the mobile industry . . .
 
-Direct quote in-text
+#### Direct quote in-text
+
 When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
 
-"The handset market is extremely competitive" [2, p. 77].
+> "The handset market is extremely competitive" [2, p. 77].
 
-Reference list
+#### Reference list
+
 When citing e-books from a database make sure to include the following information where available:
 
-Author(s) initials. Family name(s), Title of Book, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication. [Online]. Available: database homepage URL
+Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication. [Online]. Available: database homepage URL
 
-[2]    P. Curwen and J. Whalley, Mobile Telecommunications in a High-Speed World: Industry Structure, Strategic Behaviour and Socio-Economic Impact. Farnham, U.K.: Ashgate Publishing Ltd, 2011. [Online]. Available: https://ebookcentral.proquest.com
-
-
+> {.ieee-refs}[2] &nbsp; P. Curwen and J. Whalley, *Mobile Telecommunications in a High-Speed World: Industry Structure, Strategic Behaviour and Socio-Economic Impact*. Farnham, U.K.: Ashgate Publishing Ltd, 2011. [Online]. Available: https<nolink>://ebookcentral.proquest.com {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -683,26 +705,29 @@ Author(s) initials. Family name(s), Title of Book, ed. (edition, except the firs
 
 ###### start-subtype-content
 
-Paraphrasing in-text
+#### Paraphrasing in-text
+
 When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
 
-Impulse, step and sinusoid signals are used in the design and analysis of electrical and mechanical circuits [2].
+> Impulse, step and sinusoid signals are used in the design and analysis of electrical and mechanical circuits [2].
 
-The signals used in the design and analysis of electrical and mechanical circuits are detailed by Scharf [2].
+> The signals used in the design and analysis of electrical and mechanical circuits are detailed by Scharf [2].
 
-Direct quote in-text
+#### Direct quote in-text
+
 When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
 
-Note: If no page numbers are listed then use chapter numbers, section headings and paragraph numbers where appropriate.
+*Note: If no page numbers are listed then use chapter numbers, section headings and paragraph numbers where appropriate.*
 
-"The sinusoid is an idealized signal that models excitations that oscillate with a regular frequency" [2, Ch. 5, para. 5].
+> "The sinusoid is an idealized signal that models excitations that oscillate with a regular frequency" [2, Ch. 5, para. 5].
 
-Reference list
+#### Reference list
+
 When citing e-books from the internet make sure to include the following information where available:
 
-Author(s) initials. Family name(s), Title of Book, ed. (edition, except the first). Year of Publication. [Online]. Available: site/path/file
+Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Year of Publication. [Online]. Available: site/path/file
 
-[2]    L. Scharf, A First Course in Electrical and Computer Engineering, 2012. [Online]. Available: http://www.freetechbooks.com/a-first-course-in-electrical-and-computer-engineering-t1038.html
+> {.ieee-refs}[2] &nbsp; L. Scharf, *A First Course in Electrical and Computer Engineering*, 2012. [Online]. Available: http<nolink>://www.freetechbooks.com/a-first-course-in-electrical-and-computer-engineering-t1038.html {/.ieee-refs}
 
 
 
@@ -724,12 +749,44 @@ Author(s) initials. Family name(s), Title of Book, ed. (edition, except the firs
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Journal article with single author
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+
+Other examples include:
+
+- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
+
+- Chemistry in Microelectronics = Chem. Microelectron.
+
+*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> A liquid level sensor circuit is designed . . .[3].
+
+> Ibrahim [3] carried out tests . . .
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> Ibrahim concluded that the "Accuracy of the sensor can be improved by increasing the microcontroller clock frequency or value of the charging resistor" [3, p. 179].
+
+#### Reference list
+
+When citing journal articles make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
+
+> {.ieee-refs}[3] &nbsp; D. Ibrahim, “Development of a low-cost educational liquid-level sensor circuit,” *International Journal of Electrical Engineering Education*, vol. 52, no. 2, pp. 168-181, 2015. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -739,11 +796,47 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Journal article with two authors
 
 ###### start-subtype-content
 
-CONTENT
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+
+Other examples include:
+
+- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
+
+- Chemistry in Microelectronics = Chem. Microelectron.
+
+*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+State both authors, using ‘and’ between the two author family names when citing in-text.
+
+> Atmospheric effects such as rain and fog can affect the transmission of free-space optical signals [3].
+
+> Song and Kam [3] contend that atmospheric effects such as rain and fog can affect the transmission of free-space optical signals.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> "Free-space optical (FSO) communications provide high data rate transmission with higher security and higher flexibility compared with conventional wireless communications." [3, p. 1120].
+
+#### Reference list
+
+List both authors, separating the two author names with ‘and’.
+
+When citing journal articles make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
+
+> {.ieee-refs}[3] &nbsp; T. Song and P. Y. Kam, “Robust data detection for the photon-counting free-space optical system with implicit CSI acquisition and background radiation compensation,” *J. Lightwave Technol*., vol. 34, no. 4, pp. 1120-1132, Feb. 2016. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -753,11 +846,47 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Journal article with three to six authors
 
 ###### start-subtype-content
 
-CONTENT
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+
+Other examples include:
+
+- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
+
+- Chemistry in Microelectronics = Chem. Microelectron.
+
+*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+If citing more than two authors in-text, use the first family name listed followed by *et al*. (in italics).
+
+> Repair time and financial losses can be minimised by using the fault diagnosis system to restore a system to normal operation [3].
+
+> Biscaro *et al*. [3] contend that repair time and financial losses can be minimised by using the fault diagnosis system to restore a system to normal operation.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> Biscaro *et al*. concluded that “The integrated system diagnosis and fault location will assist the electric utility personnel in their daily job in providing important information for operation and maintenance” [3, p. 435].
+
+#### Reference list
+
+List all authors (up to six), separating the last two author names with ‘and’.
+
+When citing journal articles make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
+
+> {.ieee-refs}[3] &nbsp; A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del*., vol. 31, no. 2, pp. 428-436, Apr. 2016. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -767,11 +896,47 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Journal article with more than six authors
 
 ###### start-subtype-content
 
-CONTENT
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+
+Other examples include:
+
+- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
+
+- Chemistry in Microelectronics = Chem. Microelectron.
+
+*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+If citing more than two authors in-text, use the first family name listed followed by *et al*. (in italics).
+
+> Simplicity in relation to the SOC estimation process is an important factor for portable devices using a small or single battery [3].
+
+> Chun *et al*. [3] concluded that simplicity in relation to the SOC estimation process is an important factor for portable devices using a small or single battery.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> Chun *et al*. concluded that "In portable devices using a single or small-sized battery, simplicity and low power dissipation of the state of charge estimation process are important factors" [3, p. 262].
+
+#### Reference list
+
+If there are more than six authors listed, use *et al*. (in italics) after the first author’s family name.
+
+When citing journal articles make sure to include the following information where available:
+
+Author initials. Family name, "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
+
+> {.ieee-refs}[3] &nbsp; C. Y. Chun *et al*., “Current sensor-less state-of-charge estimation algorithm for lithium-ion batteries utilizing filtered terminal voltage,” *J. Power Sources*, vol. 273, pp. 255-263, Jan. 2015. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -781,11 +946,43 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### E-journal article with a DOI
 
 ###### start-subtype-content
 
-CONTENT
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+
+Other examples include:
+
+- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
+
+- Chemistry in Microelectronics = Chem. Microelectron.
+
+*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> The static characteristics of the battery system are . . .[3].
+
+> Shao *et al*. [3] propose that a battery’s temperature, state of health and age can affect . . .
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> "The observation equation needs to reflect the static and dynamic characteristics of the battery system" [3, p. 209].
+
+#### Reference list
+
+When citing e-journal articles with a DOI make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year, doi:.
+
+> {.ieee-refs}[3] &nbsp; S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transportation Research Part D: Transport and Environment*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -795,11 +992,43 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### E-journal article from a library database
 
 ###### start-subtype-content
 
-CONTENT
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+
+Other examples include:
+
+- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
+
+- Chemistry in Microelectronics = Chem. Microelectron.
+
+*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> The United States and Europe contribute to . . .[3].
+
+> Blau [3] contends that the United States and Europe contribute to . . .
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> "When it comes to the internet, Europe still plays a supporting role to the United States" [3, p. 4].
+
+#### Reference list
+
+When citing e-journal articles from a library database make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year. [Online]. Available: database homepage URL
+
+> {.ieee-refs}[3] &nbsp; J. Blau, “Big demand for big data scientists in Europe,” *Research Technology Management*, vol. 58, no. 3, pp. 3-6, May/June 2015. [Online]. Available: http://ebscohost.com {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -809,11 +1038,43 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### E-journal article from the internet
 
 ###### start-subtype-content
 
-CONTENT
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+
+Other examples include:
+
+- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
+
+- Chemistry in Microelectronics = Chem. Microelectron.
+
+*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> The elements in optical systems are outlined in [3].
+
+> The waveguide element is claimed as critical by Song and Tan [3].
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> "Waveguide is one of the key elements on optical systems for the confinement and transmission of light" [3, p. 4].
+
+#### Reference list
+
+When citing e-journal articles from the internet make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year. [Online]. Available: site/path/file
+
+> {.ieee-refs}[3] &nbsp; C. Song and S. W. Tan, “A perspective on the rise of optofluidics and the future,” *Micromachines*, vol. 8, no. 5, pp. 1-17, May 2017. [Online]. Available: http://www.mdpi.com/2072-666X/8/5/152 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -833,12 +1094,44 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Magazine article, print
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+
+Other examples include:
+
+- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
+
+- Chemistry in Microelectronics = Chem. Microelectron.
+
+*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> The plane will have greater payload capacity if the energy storage system is lighter [4].
+
+> When considering reduction of payload capacity, Burke [4] concluded that the weight reduction of the energy storage system would be beneficial.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> "The lighter the energy storage system, the greater the payload the plane will be able to carry and sustain in flight" [4, p. 33].
+
+#### Reference list
+
+When citing magazine articles from a print source make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazine*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
+
+> {.ieee-refs}[4] &nbsp; K. A. Burke, “High energy density regenerative fuel cells systems for terrestrial applications,” *IEEE Aerosp. Electron. Syst. Mag*., vol. 14, no. 12, pp. 23-34, Dec. 1999. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -848,11 +1141,43 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Magazine article, online
 
 ###### start-subtype-content
 
-CONTENT
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+
+Other examples include:
+
+- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
+
+- Chemistry in Microelectronics = Chem. Microelectron.
+
+*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> As mentioned in [4], new machines will be as adaptable as our brains.
+
+> It is Rothganger’s [4] hypothesis that machines will become more like humans.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> Rothganger describes artificial intelligence as "the dream of a thinking machine" [4, p. 24].
+
+#### Reference list
+
+When citing magazine articles from an online source make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazine*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year. [Online]. Available: name of database
+
+> {.ieee-refs}[4] &nbsp; F. Rothganger, “Special report: Can we copy the brain? The dawn of the real thinking machine,” *IEEE Spectr*., vol. 54, no. 6, pp. 22-25, May 2017. [Online]. Available: IEEE database {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -872,12 +1197,32 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Conference paper, published in proceedings
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> Adaptive filtering technology applied to engineering, is based on the implementation of adaptive algorithm [5].
+
+> Adaptive filtering technology applied to engineering, is based on the implementation of adaptive algorithm, as Lin, Tang and Huang [5] explain.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> According to researchers, "The realization of adaptive algorithm is the basis of application of adaptive filtering technology to engineering practice" [5, p. 1354].
+
+#### Reference list
+
+When citing a conference paper that has been published in proceedings make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of paper," in abbrev. *Title of Proceedings*, Place of Publication, Year (only if not already stated in title), pp. first and last pages of paper, doi:. (if available)
+
+> {.ieee-refs}[5] &nbsp; B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Computational Intelligence and Communication Networks (CICN)*, Los Alamitos, CA, USA, pp. 1354-1357, doi:10.1109/62.811091. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -887,11 +1232,31 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Conference paper, presented (not published in proceedings)
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> Once data packets have come into the internet network, users cannot control the path these packets take, even though users can select an ISP of their own choice [5].
+
+> Yang [5] explains that once data packets have come into the internet network, users cannot control the path these packets take, even though users can select an ISP of their own choice.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> "Today, users can pick their own ISPs, but once the packets have entered the network, the users have no control over the overall routes their packets take" [5, p. 1].
+
+#### Reference list
+
+When citing a conference paper that has been presented make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of paper," presented at the abbrev. Title and Year of Conference. [Online]. Available: site/path/file
+
+> {.ieee-refs}[5] &nbsp; X. Yang, "NIRA: A new internet routing architecture," presented at the ACM SIGCOMM FDNA 2003 Workshop. [Online]. Available: http<nolink>://www.isi.edu/newarch/DOCUMENTS/yang.nira.pdf {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -911,12 +1276,32 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Report, print
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> The Black Knight program was purposely designed to test the aerodynamic behaviour of re-entry nose cones [6].
+
+> The aerodynamic behaviour of re-entry nose cones is discussed by James [6].
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> "The surfaces of a boomerang have similar characteristics to an aircraft wing" [6, p. 3].
+
+#### Reference list
+
+When citing reports from a print source with an author(s) make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if available), Month Day (if available), Year of Publication.
+
+> {.ieee-refs}[6] &nbsp; M. L. James, “A history of Australia’s space involvement,” Australian National University, Canberra, Australia, Working Paper 241, Nov. 1991. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -926,11 +1311,31 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Report, print (corporate author)
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> Skylab’s features and lifespan are fully discussed in [6].
+
+> The Apollo Telescope Mount was the largest piece of scientific equipment on Skylab, according to NASA [6].
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> "The ATM had its own electricity-generating solar panels" [6, p. 18].
+
+#### Reference list
+
+When citing reports from a print source with an corporate author make sure to include the following information where available:
+
+Organisation/company name, "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if available), Month Day (if available), Year of Publication.
+
+> {.ieee-refs}[6] &nbsp; National Aeronautics and Space Administration, “Space flight: The first 30 years,” NASA, Washington, DC, USA, Report 1, 1991. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -940,11 +1345,31 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Report, online
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> The experimental design described in [6] allowed the engineer to measure the number of words correctly received by each listener.
+
+> Catellier and Voran [6] describe the design, implementation and analysis of a speech intelligibility test.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> Catellier and Voran state that "There may be negative consequences for speech intelligibility even as it becomes particularly important to coordinate the new personnel" [6, p. 3].
+
+#### Reference list
+
+When citing reports from an online source with an author(s) make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if not in title), Month Day, Year of Publication. [Online]. Available: site/path/file
+
+> {.ieee-refs}[6] &nbsp; A. A. Catellier and S. D. Voran, “NTIA technical report TR-17-522: Intelligibility of selected speech codecs in frame-erasure conditions,” NTIA, Washington, DC, USA, May 5, 2016. [Online]. Available: https<nolink>://www.its.bldrdoc.gov/publications/3165.aspx {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -954,11 +1379,33 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Report, online (corporate author)
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> Water supply systems are being impacted due to Victoria's population growth [6].
+
+> Water saving initiatives are already being implemented such as large reservoirs, desalination plants and pipelines, according to the Victorian State Government [6].
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> The report states that "a key challenge for engineers is helping protect and enhance our state's biodiversity, together with maintaining the viability of the agricultural sector, which is essential to all Victorians" [6, p.12].
+
+#### Reference list
+
+When citing reports from an online source with a corporate author make sure to include the following information where available:
+
+Organisation/company name, "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report number/Type, Month Day (if available), Year of Publication. [Online]. Available: name of database or site/path/file
+
+> {.ieee-refs}[6] &nbsp; State of Victoria (Department of Treasury and Finance), “Victorian state of engineering 2018,” Victoria State Government, Melbourne, Australia, 2018. [Online]. Available: http<nolink>://www.opv.vic.gov.au/Office-of-Victorian-Chief-Engineer/The-State-of-Engineering {/.ieee-refs}
+
+
 
 ###### end-subtype-content
 
@@ -978,12 +1425,34 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Webpage
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> There are two instabilities which contribute to the poor efficiency of lithium-oxygen fuel cells [7].
+
+> Fleischman [7] describes the capacity fade which occurs when the electrolyte reacts with the electrodes.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+*Note: If no page numbers are listed then use chapter numbers, section headings and paragraph numbers where appropriate.*
+
+> Fleischman reports that lithium-oxygen fuel cells are "seen as a promising candidate for future transportation-related energy needs" [7, para. 1].
+
+#### Reference list
+
+When citing webpages make sure to include the following information where available:
+
+Author(s) initials. Family name(s). "Title of Webpage." Title of Website (if available). URL (accessed Month Day, Year).
+
+> {.ieee-refs}[7] &nbsp; T. Fleischman. "Stabilizing molecule could pave way for lithium-air fuel cell." CNN.com. https<nolink>://www.news.cornell.edu/stories/2017/04/stabilizing-molecule-could-pave-way-lithium-air-fuel-cell (accessed Apr. 30, 2017). {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -993,11 +1462,33 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Webpage (corporate author)
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> It is reported in [7] that the Australian Energy Regulator (AER) will need to make new decisions regarding gas and electricity network pricing.
+
+> Energy Networks Australia [7] concludes that poor regulation will have impacts on service and reliability.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+*Note: If no page numbers are listed then use chapter numbers, section headings and paragraph numbers where appropriate.*
+
+> Energy Networks Australia reports that "Neither the Court nor the Tribunal took the decision out of the hands of the AER" [7, para. 4].
+
+#### Reference list
+
+When citing webpages with a corporate author make sure to include the following information where available:
+
+> Organisation/company name. "Title of Webpage." Title of Website (if available). URL (accessed Month Day, Year).
+
+> {.ieee-refs}[7] &nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017). {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1017,12 +1508,34 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Streaming video / YouTube video
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> Nanotechnology explores how matter is built on a small scale, from atoms to molecules [8].
+
+> As explained by nottinghamscience [8], nanotechnology explores how matter is built on a small scale, from atoms to molecules.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: A timestamp is NOT required when directly quoting from this type of source.*
+
+> "Nanotechnology is not only about making things small, but actually having a new function" [8].
+
+#### Reference list
+
+When citing a streaming video / YouTube video make sure to include the following information where available:
+
+Video Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Video. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file
+
+> {.ieee-refs}[8] &nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. [Online Video]. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1032,11 +1545,33 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Video tutorial
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> When software is being developed, it needs to consider new additions, error fixing and an ongoing process of improvement or development [8].
+
+> Allardice [8] asserts that when software is being developed, it needs to consider new additions, error fixing and an ongoing process of improvement or development.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: A timestamp is NOT required when directly quoting from this type of source.*
+
+> As explained in [8, para. 6], "Software development needs to be responsive. We need to add new features, we need to fix bugs, we need to support continual development".
+
+#### Reference list
+
+When citing a video tutorial make sure to include the following information where available:
+
+Video Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Video. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file
+
+> {.ieee-refs}[8] &nbsp; S. Allardice, Reviewing Software Development Methodologies. (May 22, 2012). Accessed June 2, 2017. [Online Video]. Available: https<nolink>://www.linkedin.com/learning?trk=learning-topics_nav-header-logo&upsellOrderOrigin=default_guest_learning {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1046,11 +1581,35 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Audio podcast
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> At a tiny scale, and contrary to our expectations, material acts differently than at a larger scale [8].
+
+> Schiffrin [8] states that at a tiny scale, and contrary to our expectations, material acts differently than at a larger scale.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: A timestamp is NOT required when directly quoting from this type of source.*
+
+> According to Schiffrin, "We can look at a chunk of material, but at a small scale, and it behaves completely differently than what we might expect" [8].
+
+#### Reference list
+
+When citing an audio podcast make sure to include the following information where available:
+
+Podcast Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Podcast. Release date (Month Day if available, Year). Accessed Month Day, Year. [Podcast]. Available: site/path/file
+
+> {.ieee-refs}[8] &nbsp; A. Schiffrin, Sydney, Australia. Materials go Nano. (Jan. 8, 2017). Accessed May 12, 2017. [Podcast]. Available: http<nolink>://www.abc.net.au/radionational/programs/scienceextra/materials-go-nano/8117286 {/.ieee-refs}
+
+
 
 ###### end-subtype-content
 
@@ -1069,12 +1628,34 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Blog
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> Updating the Kinect software has enabled the creators to track a maximum of 25 body joints; 20% more than the first version, and now including fists and thumbs [9].
+
+> Pterneas [9] relates that updating the Kinect software has enabled the creators to track a maximum of 25 body joints; 20% more than the first version, and now including fists and thumbs.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: Page numbers are NOT required for this format type.*
+
+> "The initial version of Kinect allowed us to track up to 20 body joints. The second version allows up to 25 joints. The new joints include the fists and thumbs!" [9].
+
+#### Reference list
+
+When citing a blog make sure to include the following information where available:
+
+Author(s) initials. Family name(s), Place of Publication City, abbrev. US State (if applicable), Country. Title of Blog. Release date (Month Day if available, Year). Accessed Month Day, Year. [Blog]. Available: site/path/file
+
+> {.ieee-refs}[9] &nbsp; V. Pterneas, Kinect for windows version 2: Body tracking, (Mar. 13, 2014). Accessed June 2, 2017. [Blog]. Available: https<nolink>://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/ {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1084,11 +1665,33 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Dataset (with a DOI)
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> The generated image [9] shows . . .
+
+> Ren *et al*. [9] generated an image of cold-sprayed titanium.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: Page numbers are NOT required for this format type.*
+
+>The image displays "3D Compositional distribution of cold spray Ti after HT" [9].
+
+#### Reference list
+
+When citing a dataset with a DOI make sure to include the following information where available:
+
+Author(s) initials. Family name(s), *Title of dataset*, vol. (volume number, if applicable), Publisher, Month Day, Year, doi:.
+
+> {.ieee-refs}[9] &nbsp; Y. Ren *et al*. *Microstructures of cold-sprayed titanium before and after heat treatment*, vol. 7, CSIRO Data Collection, 2017, doi:https<nolink>://doi.org/10.4225/08/5913e0247881b. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1098,11 +1701,33 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Dataset (with a URL)
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> The use of granular materials creates . . .[9].
+
+> Gore [9] discusses the method of freezing and thawing in order to create subsurface channels.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: Page numbers are NOT required for this format type.*
+
+> "These experiments were extended from 5 f/t cycles to 40 f/t cycles to further explore the trends" [9].
+
+#### Reference list
+
+When citing a dataset with a URL make sure to include the following information where available:
+
+Author(s) initials. Family name(s), *Title of dataset*, vol. (volume number, if applicable), Publisher, Month Day, Year. [Online]. Available: site/path/file
+
+> {.ieee-refs}[9] &nbsp; D. Gore, *The hydraulic behaviour of permeable reactive barrier materials under freeze-thaw conditions*, Australian Antarctic Data Centre, 2005. [Online]. Available: http<nolink>://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=ASAC_2576 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1112,11 +1737,35 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Figures and tables
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets.
+
+> The developed fuzzy system cost model is displayed [9].
+
+> If citing a Figure in-text: For more details, refer to [9, Fig. 7].
+
+> Or, if citing a table in-text: For more details, refer to [9, Tab. 7].
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> "Multiplying the outputs of the four cost models by the weighting factors and summing them up yields an interim level estimation, which is then fed into the fuzzy rule-based inference engine for further processing" [9, p. 32].
+
+#### Reference list
+
+If citing a figure or table make sure to reference it according to its original source type i.e. book, journal article, report etc.
+
+When citing figures and tables make sure to include the following information where available:
+
+Author(s) initials. Family name(s), “Title of figure/table,” abbrev. *Title of Publication*, vol. (volume number), no. (issue number), p. or pp. page(s) of figure, Month Year of Publication.
+
+> {.ieee-refs}[9] &nbsp; Y. Karatas and F. Ince, "Fuzzy system with two inputs and one output," *IEEE Aerosp. Electron. Syst. Mag.*, vol. 31, no. 5, p. 32, May 2016. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1126,11 +1775,33 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Patent
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> A better multinode temperature sensor is proposed [9].
+
+> Deby [9] recognised that improvements are possible.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+*Note: If no page numbers are listed then use chapter numbers, section headings and paragraph numbers where appropriate.*
+
+> "The multi-node temperature sensor probe provides manifold advantages" [9, Desc. Sec.].
+
+#### Reference list
+
+When citing a patent make sure to include the following information where available:
+
+Author(s) initials. Family name(s), “Title of patent,” abbrev. Country (if applicable) Patent Number, Month Day (if available), Year. [Online]. Available: site/path/file
+
+> {.ieee-refs}[9] &nbsp; K. Deby, "Multinode temperature sensor," Aus. Patent 2016102110, 2016. [Online]. Available: http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2016102110 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1140,11 +1811,45 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Personal communication
 
 ###### start-subtype-content
 
-CONTENT
+Examples of personal communication include:
+
+- Interviews
+
+- Conversations
+
+- Telephone calls
+
+- Letters
+
+- Emails
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> Engineers can develop long-term professional partnerships and contribute ideas with others when networking with peers in their industry [9].
+
+> Nguyen [9] stresses the importance of engineers developing long-term professional partnerships and contributing ideas with others, when networking with peers in their industry.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: Page numbers are NOT required for this format type.*
+
+> "Networking with other engineers allows you to build long-term collaborations, as well as share ideas and experiences" [9].
+
+#### Reference list
+
+When citing a personal communication make sure to include the following information where available:
+
+Author(s) initials. Family name(s), private communication, Month Year.
+
+> {.ieee-refs}[9] &nbsp; L. Nguyen, private communication, Aug. 2016. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1154,11 +1859,33 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Standard
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the organisation in the body of the text, then include the citation number in square brackets immediately after the organisation name.
+
+> Interoperability between sensors and clients was outlined in [9].
+
+> IEEE Standards Association [9] addressed the requirement for new technology.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: Page numbers are NOT required for this format type.*
+
+The standard "elaborates on the service access points, serv> ice primitives, as well as generic procedures used to realize this information exchange" [9].
+
+#### Reference list
+
+When citing a standard make sure to include the following information where available:
+
+*Title of Standard*, Standard Number, Publisher (if applicable), Year. [Online]. Available: site/path/file
+
+> {.ieee-refs}[9] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: http<nolink>://www.saiglobal/ieee2743287647644 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1168,11 +1895,31 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Thesis
 
 ###### start-subtype-content
 
-CONTENT
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> Uncontrolled events are challenging [9].
+
+> The model discussed by Al-Saidi [9] states . . .
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
+
+> According to Al-Saidi, "Uncontrolled events are the supreme challenge that any system designer or operator could face" [9, p. 80].
+
+#### Reference list
+
+When citing a thesis make sure to include the following information where available:
+
+Author(s) initials. Family name(s), "Title of thesis," Type of thesis (Ph.D. dissertation or M.S. thesis), abbrev. Department, abbrev. University, Place of Publication City, abbrev. US State (if applicable), Country, Year of Publication. [Online]. Available: site/path/file
+
+>? {.ieee-refs}[9] &nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: http<nolink>://researchbank.rmit.edu.au/eserv/rmit:161152/Al_Saidi.pdf {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1182,11 +1929,55 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Student's own work
 
 ###### start-subtype-content
 
-CONTENT
+You should include the use of scholarly sources in your written assessments to adhere to best academic integrity practice. Citing yourself as an authority on your own opinion should be avoided.
+
+Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
+
+Remember that when submitting work, you will be asked to agree to the [Assessment Declaration](https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration).
+
+The publication, IEEE Reference Guide (2020) does not provide guidelines on how to cite your own work. The following examples show how to cite your own work that you have previously submitted for assessment.
+
+If you cite or quote your own previous work, treat yourself as the author and the title of your previous assessment as an unpublished paper.
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to your family name in the body of the text, then include the citation number in square brackets immediately after your family name.
+
+For example, if Brad Smith wanted to cite a paper they wrote at RMIT University in 2019, their in-text reference may look like this:
+
+> Studies indicate that . . . [9].
+
+> Smith [9] noted that . . .
+
+If your original work contained citations from other sources, you would need to include those same citations in the new work as well.
+
+For example, if Brad Smith's earlier paper had cited Nisbet and Rostow, for example, it may look like this:
+
+> According to Smith [9], Nisbet and Rostow [18] argue . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the page number from the previous work.
+
+> "There are three forms of linear graphs: point-slope, standard and slope-intercept" [9, p. 3].
+
+#### Reference list
+
+In the Reference list include:
+
+- Student name
+
+- "Title of previous work"
+
+- Unpublished
+
+- Month and year
+
+> {.ieee-refs}[9] &nbsp; B. Smith, "An approach to graphs of linear form," unpublished, Oct. 2019. {/.ieee-refs}
 
 ###### end-subtype-content
 
