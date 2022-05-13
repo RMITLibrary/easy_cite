@@ -216,6 +216,9 @@ $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div>', $my
 // HANGING INDENTS
 $mylist = preg_replace("/{.hanging-indent}/s", '<div class="hanging-indent">', $mylist);
 $mylist = preg_replace("/{\/.hanging-indent}/s", '</div>', $mylist);
+// IEEE reference list
+$mylist = preg_replace("/{.ieee-refs}/s", '<div class="ieee-refs">', $mylist);
+$mylist = preg_replace("/{\/.ieee-refs}/s", '</div>', $mylist);
 // CENTRE ALIGN TEXT
 $mylist = preg_replace("/{.centre-align}/s", '<p class="centre-align">', $mylist);
 $mylist = preg_replace("/{\/.centre-align}/s", '</p>', $mylist);

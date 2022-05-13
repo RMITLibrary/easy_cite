@@ -222,15 +222,20 @@ img {
 	padding-left: 4em !important;
  	text-indent: -4em !important;
 	font-size: 1rem !important;
-	line-height: 200%;
+	line-height: 1.5;
 	overflow-wrap: break-word;
+}
+.ieee-refs {
+	line-height: 1.5;
+    padding-left: 22pt;
+    text-indent: -22pt;
 }
 .centre-align{
 	text-align: center !important;
 }
 .figure-text {
 	font-size: 1rem !important;
-	line-height: 200%;
+	line-height: 1.5;
 	overflow-wrap: break-word;
 }
 .accordion-button{

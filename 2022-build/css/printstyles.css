@@ -76,7 +76,7 @@ blockquote p {
 	font-size: 14px;
 	page-break-inside: avoid;
 	padding: 10px;
-	line-height: 200%;
+	line-height: 1.5;
 	overflow-wrap: break-word;
 }
 .hanging-indent{
@@ -85,15 +85,20 @@ blockquote p {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
 	margin-left: 20px;
 	font-size: 14px;
-	line-height: 200%;
+	line-height: 1.5;
 	overflow-wrap: break-word;
+}
+.ieee-refs {
+	line-height: 1.5;
+    padding-left: 22pt;
+    text-indent: -22pt;
 }
 .centre-align{
 	text-align: center !important;
 }
 .figure-text {
 	font-size: 14px;
-	line-height: 200%;
+	line-height: 1.5;
 	overflow-wrap: break-word;
 }
 img {
