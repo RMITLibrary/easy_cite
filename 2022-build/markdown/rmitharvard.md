@@ -1962,11 +1962,11 @@ After the accessed date, put a full stop, a space then the URL. No full stop aft
 
 **Examples**
 
-  > ABC News (16 June 2021) ‘The Business: Cryptocurrency special’ [video], *ABC News (Australian Broadcasting Corporation)*, ABC iview website, accessed 30 November 2021. https://iview.abc.net.au/video/NS2157H001S00
+  > ABC News (16 June 2021) ‘The Business: Cryptocurrency special’ [video], *ABC News (Australian Broadcasting Corporation)*, ABC iview website, accessed 30 November 2021. https<nolink>://iview.abc.net.au/video/NS2157H001S00
 
-  > ABC News In-depth (16 June 2021) ‘Bitcoin explained: Everything you need to know about the crypto craze l The Business’ [video], *ABC News In-depth*, YouTube website, accessed 30 November 2021. https://www.youtube.com/watch?v=MlGLpSvs34Q
+  > ABC News In-depth (16 June 2021) ‘Bitcoin explained: Everything you need to know about the crypto craze l The Business’ [video], *ABC News In-depth*, YouTube website, accessed 30 November 2021. https<nolink>://www.youtube.com/watch?v=MlGLpSvs34Q
 
-  > Derham L, Groner M and Kerridge G (n.d.) ‘Interview questions’ [video], *AASW (Australian Association of Social Workers)*, AASW website, accessed 30 November 2021. https://www.aasw.asn.au/careers-study/new-graduate-resources/finding-your-job-and-thriving-in-it
+  > Derham L, Groner M and Kerridge G (n.d.) ‘Interview questions’ [video], *AASW (Australian Association of Social Workers)*, AASW website, accessed 30 November 2021. https<nolink>://www.aasw.asn.au/careers-study/new-graduate-resources/finding-your-job-and-thriving-in-it
 
 ###### end-subtype-content
 
@@ -2528,7 +2528,7 @@ Depending on the context, you might need to refer to specific sections, paragrap
 
 The units are written in lower case unless they begin a sentence. Units of an Act can be written in long or abbreviated form. Do not begin sentences with the abbreviated form.
 
-The **Australian Government Style Manual**[https://www.stylemanual.gov.au/referencing-and-attribution/legal-material] provides more detail and examples regarding the use of legal materials.
+The [**Australian Government Style Manual**](https://www.stylemanual.gov.au/referencing-and-attribution/legal-material) provides more detail and examples regarding the use of legal materials.
 
 **Paraphrases**
 

@@ -1233,7 +1233,7 @@ Include in the reference list:
 
 - The URL (prefacing it with "Available from: ").
 
-> 13. CSIRO [Internet]. Canberra (Australia): Commonwealth Scientific and Industrial Research Organisation; c2015-2017. Wheat a kick in the guts for fighting diseases; 2017 Dec 14 [cited 2018 Jan 15]; [about 2 screens]. Available from: https://www.csiro.au/en/News/News-releases/2017/Wheat-a-kick-in-the-guts-for-fighting-diseases?featured=F29EDEB1728C4A92B579C7A5DC28BAD5
+> 13. CSIRO [Internet]. Canberra (Australia): Commonwealth Scientific and Industrial Research Organisation; c2015-2017. Wheat a kick in the guts for fighting diseases; 2017 Dec 14 [cited 2018 Jan 15]; [about 2 screens]. Available from: https<nolink>://www.csiro.au/en/News/News-releases/2017/Wheat-a-kick-in-the-guts-for-fighting-diseases?featured=F29EDEB1728C4A92B579C7A5DC28BAD5
 
 ###### end-subtype-content
 
@@ -1274,7 +1274,7 @@ Include in the reference list:
 
 - The URL (prefacing it with "Available from: ").
 
-> 14. Institute of Biomedical Science. Guidance on quality management in laboratories [Internet]. London (England): Institute of Biomedical Science; 2015 [updated 2015 Jun; cited 2016 Sep 1]; [8 p.]. Available from: https://www.ibms.org/resources/documents/quality-management-in-laboratories/guidance-on-quality-management-in-laboratories.pdf
+> 14. Institute of Biomedical Science. Guidance on quality management in laboratories [Internet]. London (England): Institute of Biomedical Science; 2015 [updated 2015 Jun; cited 2016 Sep 1]; [8 p.]. Available from: https<nolink>://www.ibms.org/resources/documents/quality-management-in-laboratories/guidance-on-quality-management-in-laboratories.pdf
 
 ###### end-subtype-content
 

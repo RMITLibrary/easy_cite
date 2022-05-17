@@ -370,23 +370,23 @@ Cities in other countries (outside the USA and UK) just need to include the city
 #### Reference List
 
 {.ieee-refs}
-[1] &nbsp; J. L. Blackburn, Protective Relaying: *Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014.
+[1] &nbsp;&nbsp; J. L. Blackburn, Protective Relaying: *Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014.
 
-[2] &nbsp; H. F. Lodish *et al.*, *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012.
+[2] &nbsp;&nbsp; H. F. Lodish *et al.*, *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012.
 
-[3] &nbsp; A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del.*, vol. 31, no. 2, pp. 428-436, Apr. 2016.
+[3] &nbsp;&nbsp; A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del.*, vol. 31, no. 2, pp. 428-436, Apr. 2016.
 
-[4] &nbsp; S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transportation Research Part D: Transport and Environment*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013.
+[4] &nbsp;&nbsp; S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transportation Research Part D: Transport and Environment*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013.
 
-[5] &nbsp; K. A. Burke, “High energy density regenerative fuel cells systems for terrestrial applications,” *IEEE Aerosp. Syst.* Mag., vol. 14, no. 12, pp. 23-34, Dec. 1999.
+[5] &nbsp;&nbsp; K. A. Burke, “High energy density regenerative fuel cells systems for terrestrial applications,” *IEEE Aerosp. Syst.* Mag., vol. 14, no. 12, pp. 23-34, Dec. 1999.
 
-[6] &nbsp; B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Computational Intelligence and Communication Networks (CICN)*, Los Alamitos, CA, USA, pp. 1354-1357, doi: 10.1109/62.811091.
+[6] &nbsp;&nbsp; B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Computational Intelligence and Communication Networks (CICN)*, Los Alamitos, CA, USA, pp. 1354-1357, doi: 10.1109/62.811091.
 
-[7] &nbsp; Energy Networks Australia, "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017).
+[7] &nbsp;&nbsp; Energy Networks Australia, "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017).
 
-[8] &nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow
+[8] &nbsp;&nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow
 
-[9] &nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, doi: http<nolink>://doi.org/10.4225/08/5913e0247881b.
+[9] &nbsp;&nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, doi: http<nolink>://doi.org/10.4225/08/5913e0247881b.
 
 [10] &nbsp; K. Deby, “Multinode temperature sensor,” Patent 2016102110, 2016. [Online]. Available: https<nolink>://www.austpat/189907465454.com
 
@@ -440,7 +440,7 @@ When citing books make sure to include the following information where available
 
 Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-> {.ieee-refs}[2] &nbsp; J. L. Blackburn, *Protective Relaying: Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014. {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; J. L. Blackburn, *Protective Relaying: Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -477,7 +477,7 @@ When citing books make sure to include the following information where available
 
 Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-> {.ieee-refs}[2] &nbsp; C. R. Bayliss and B. J. Hardy, *Transmission and Distribution Electrical Engineering*, 4th ed. Oxford, U.K.: Newnes, 2012. {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; C. R. Bayliss and B. J. Hardy, *Transmission and Distribution Electrical Engineering*, 4th ed. Oxford, U.K.: Newnes, 2012. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -514,7 +514,7 @@ When citing books make sure to include the following information where available
 
 Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-> {.ieee-refs}[2] &nbsp; G. Radulov, P. Quinn, H. Hegt, and A. van Roermund, *Smart and Flexible Digital-to-Analog Converters*. Dordrecht, The Netherlands: Springer, 2011. {/.ieee.refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; G. Radulov, P. Quinn, H. Hegt, and A. van Roermund, *Smart and Flexible Digital-to-Analog Converters*. Dordrecht, The Netherlands: Springer, 2011. {/.ieee.refs}
 
 ###### end-subtype-content
 
@@ -552,7 +552,7 @@ When citing books make sure to include the following information where available
 
 Author initials. Family name, or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-> {.ieee-refs}[2] &nbsp; H. F. Lodish *et al*., *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012. {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; H. F. Lodish *et al*., *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -587,7 +587,7 @@ When citing a book by a corporate author make sure to include the following info
 
 Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-> {.ieee-refs}[2] &nbsp; Commonwealth Scientific and Industrial Research Organisation Division of Entomology, *The Insects of Australia: A Textbook for Students and Research Workers*, 2nd ed. Carlton South, Australia: Melbourne University Press, 1991. {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; Commonwealth Scientific and Industrial Research Organisation Division of Entomology, *The Insects of Australia: A Textbook for Students and Research Workers*, 2nd ed. Carlton South, Australia: Melbourne University Press, 1991. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -623,7 +623,7 @@ When citing a translated book make sure to include the following information whe
 
 Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher (in Language), Year of Publication.
 
-> {.ieee-refs}[2] &nbsp; L. Y. Kupriyanov, *Semiconductor Sensors in Physico-Chemical Studies*. Burlington, VT, USA: Elsevier Science (in English), 1996. {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; L. Y. Kupriyanov, *Semiconductor Sensors in Physico-Chemical Studies*. Burlington, VT, USA: Elsevier Science (in English), 1996. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -657,7 +657,7 @@ When citing a book chapter make sure to include the following information where 
 
 Author(s) initials. Family name(s), "Title of the chapter," in *Title of the Book*, Ed., (editor if available), ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication, pp. chapter/s or first and last pages of the article.
 
-> {.ieee-refs}[2] &nbsp; L. B. Wagenaar, "Electrical bushings," in *Electric Power Transformer Engineering*, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, pp. 1-24. {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; L. B. Wagenaar, "Electrical bushings," in *Electric Power Transformer Engineering*, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, pp. 1-24. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -691,7 +691,7 @@ When citing e-books from a database make sure to include the following informati
 
 Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication. [Online]. Available: database homepage URL
 
-> {.ieee-refs}[2] &nbsp; P. Curwen and J. Whalley, *Mobile Telecommunications in a High-Speed World: Industry Structure, Strategic Behaviour and Socio-Economic Impact*. Farnham, U.K.: Ashgate Publishing Ltd, 2011. [Online]. Available: https<nolink>://ebookcentral.proquest.com {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; P. Curwen and J. Whalley, *Mobile Telecommunications in a High-Speed World: Industry Structure, Strategic Behaviour and Socio-Economic Impact*. Farnham, U.K.: Ashgate Publishing Ltd, 2011. [Online]. Available: https<nolink>://ebookcentral.proquest.com {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -727,7 +727,7 @@ When citing e-books from the internet make sure to include the following informa
 
 Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Year of Publication. [Online]. Available: site/path/file
 
-> {.ieee-refs}[2] &nbsp; L. Scharf, *A First Course in Electrical and Computer Engineering*, 2012. [Online]. Available: http<nolink>://www.freetechbooks.com/a-first-course-in-electrical-and-computer-engineering-t1038.html {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; L. Scharf, *A First Course in Electrical and Computer Engineering*, 2012. [Online]. Available: http<nolink>://www.freetechbooks.com/a-first-course-in-electrical-and-computer-engineering-t1038.html {/.ieee-refs}
 
 
 
@@ -786,7 +786,7 @@ When citing journal articles make sure to include the following information wher
 
 Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
 
-> {.ieee-refs}[3] &nbsp; D. Ibrahim, “Development of a low-cost educational liquid-level sensor circuit,” *International Journal of Electrical Engineering Education*, vol. 52, no. 2, pp. 168-181, 2015. {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; D. Ibrahim, “Development of a low-cost educational liquid-level sensor circuit,” *International Journal of Electrical Engineering Education*, vol. 52, no. 2, pp. 168-181, 2015. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -836,7 +836,7 @@ When citing journal articles make sure to include the following information wher
 
 Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
 
-> {.ieee-refs}[3] &nbsp; T. Song and P. Y. Kam, “Robust data detection for the photon-counting free-space optical system with implicit CSI acquisition and background radiation compensation,” *J. Lightwave Technol*., vol. 34, no. 4, pp. 1120-1132, Feb. 2016. {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; T. Song and P. Y. Kam, “Robust data detection for the photon-counting free-space optical system with implicit CSI acquisition and background radiation compensation,” *J. Lightwave Technol*., vol. 34, no. 4, pp. 1120-1132, Feb. 2016. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -886,7 +886,7 @@ When citing journal articles make sure to include the following information wher
 
 Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
 
-> {.ieee-refs}[3] &nbsp; A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del*., vol. 31, no. 2, pp. 428-436, Apr. 2016. {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del*., vol. 31, no. 2, pp. 428-436, Apr. 2016. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -936,7 +936,7 @@ When citing journal articles make sure to include the following information wher
 
 Author initials. Family name, "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
 
-> {.ieee-refs}[3] &nbsp; C. Y. Chun *et al*., “Current sensor-less state-of-charge estimation algorithm for lithium-ion batteries utilizing filtered terminal voltage,” *J. Power Sources*, vol. 273, pp. 255-263, Jan. 2015. {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; C. Y. Chun *et al*., “Current sensor-less state-of-charge estimation algorithm for lithium-ion batteries utilizing filtered terminal voltage,” *J. Power Sources*, vol. 273, pp. 255-263, Jan. 2015. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -982,7 +982,7 @@ When citing e-journal articles with a DOI make sure to include the following inf
 
 Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year, doi:.
 
-> {.ieee-refs}[3] &nbsp; S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transportation Research Part D: Transport and Environment*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013. {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transportation Research Part D: Transport and Environment*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1028,7 +1028,7 @@ When citing e-journal articles from a library database make sure to include the 
 
 Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year. [Online]. Available: database homepage URL
 
-> {.ieee-refs}[3] &nbsp; J. Blau, “Big demand for big data scientists in Europe,” *Research Technology Management*, vol. 58, no. 3, pp. 3-6, May/June 2015. [Online]. Available: http://ebscohost.com {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; J. Blau, “Big demand for big data scientists in Europe,” *Research Technology Management*, vol. 58, no. 3, pp. 3-6, May/June 2015. [Online]. Available: http<nolink>://ebscohost.com {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1074,7 +1074,7 @@ When citing e-journal articles from the internet make sure to include the follow
 
 Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year. [Online]. Available: site/path/file
 
-> {.ieee-refs}[3] &nbsp; C. Song and S. W. Tan, “A perspective on the rise of optofluidics and the future,” *Micromachines*, vol. 8, no. 5, pp. 1-17, May 2017. [Online]. Available: http://www.mdpi.com/2072-666X/8/5/152 {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; C. Song and S. W. Tan, “A perspective on the rise of optofluidics and the future,” *Micromachines*, vol. 8, no. 5, pp. 1-17, May 2017. [Online]. Available: http<nolink>://www.mdpi.com/2072-666X/8/5/152 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1131,7 +1131,7 @@ When citing magazine articles from a print source make sure to include the follo
 
 Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazine*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
 
-> {.ieee-refs}[4] &nbsp; K. A. Burke, “High energy density regenerative fuel cells systems for terrestrial applications,” *IEEE Aerosp. Electron. Syst. Mag*., vol. 14, no. 12, pp. 23-34, Dec. 1999. {/.ieee-refs}
+> {.ieee-refs}[4] &nbsp;&nbsp; K. A. Burke, “High energy density regenerative fuel cells systems for terrestrial applications,” *IEEE Aerosp. Electron. Syst. Mag*., vol. 14, no. 12, pp. 23-34, Dec. 1999. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1177,7 +1177,7 @@ When citing magazine articles from an online source make sure to include the fol
 
 Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazine*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year. [Online]. Available: name of database
 
-> {.ieee-refs}[4] &nbsp; F. Rothganger, “Special report: Can we copy the brain? The dawn of the real thinking machine,” *IEEE Spectr*., vol. 54, no. 6, pp. 22-25, May 2017. [Online]. Available: IEEE database {/.ieee-refs}
+> {.ieee-refs}[4] &nbsp;&nbsp; F. Rothganger, “Special report: Can we copy the brain? The dawn of the real thinking machine,” *IEEE Spectr*., vol. 54, no. 6, pp. 22-25, May 2017. [Online]. Available: IEEE database {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1222,7 +1222,7 @@ When citing a conference paper that has been published in proceedings make sure 
 
 Author(s) initials. Family name(s), "Title of paper," in abbrev. *Title of Proceedings*, Place of Publication, Year (only if not already stated in title), pp. first and last pages of paper, doi:. (if available)
 
-> {.ieee-refs}[5] &nbsp; B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Computational Intelligence and Communication Networks (CICN)*, Los Alamitos, CA, USA, pp. 1354-1357, doi:10.1109/62.811091. {/.ieee-refs}
+> {.ieee-refs}[5] &nbsp;&nbsp; B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Computational Intelligence and Communication Networks (CICN)*, Los Alamitos, CA, USA, pp. 1354-1357, doi:10.1109/62.811091. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1256,7 +1256,7 @@ When citing a conference paper that has been presented make sure to include the 
 
 Author(s) initials. Family name(s), "Title of paper," presented at the abbrev. Title and Year of Conference. [Online]. Available: site/path/file
 
-> {.ieee-refs}[5] &nbsp; X. Yang, "NIRA: A new internet routing architecture," presented at the ACM SIGCOMM FDNA 2003 Workshop. [Online]. Available: http<nolink>://www.isi.edu/newarch/DOCUMENTS/yang.nira.pdf {/.ieee-refs}
+> {.ieee-refs}[5] &nbsp;&nbsp; X. Yang, "NIRA: A new internet routing architecture," presented at the ACM SIGCOMM FDNA 2003 Workshop. [Online]. Available: http<nolink>://www.isi.edu/newarch/DOCUMENTS/yang.nira.pdf {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1301,7 +1301,7 @@ When citing reports from a print source with an author(s) make sure to include t
 
 Author(s) initials. Family name(s), "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if available), Month Day (if available), Year of Publication.
 
-> {.ieee-refs}[6] &nbsp; M. L. James, “A history of Australia’s space involvement,” Australian National University, Canberra, Australia, Working Paper 241, Nov. 1991. {/.ieee-refs}
+> {.ieee-refs}[6] &nbsp;&nbsp; M. L. James, “A history of Australia’s space involvement,” Australian National University, Canberra, Australia, Working Paper 241, Nov. 1991. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1335,7 +1335,7 @@ When citing reports from a print source with an corporate author make sure to in
 
 Organisation/company name, "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if available), Month Day (if available), Year of Publication.
 
-> {.ieee-refs}[6] &nbsp; National Aeronautics and Space Administration, “Space flight: The first 30 years,” NASA, Washington, DC, USA, Report 1, 1991. {/.ieee-refs}
+> {.ieee-refs}[6] &nbsp;&nbsp; National Aeronautics and Space Administration, “Space flight: The first 30 years,” NASA, Washington, DC, USA, Report 1, 1991. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1369,7 +1369,7 @@ When citing reports from an online source with an author(s) make sure to include
 
 Author(s) initials. Family name(s), "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if not in title), Month Day, Year of Publication. [Online]. Available: site/path/file
 
-> {.ieee-refs}[6] &nbsp; A. A. Catellier and S. D. Voran, “NTIA technical report TR-17-522: Intelligibility of selected speech codecs in frame-erasure conditions,” NTIA, Washington, DC, USA, May 5, 2016. [Online]. Available: https<nolink>://www.its.bldrdoc.gov/publications/3165.aspx {/.ieee-refs}
+> {.ieee-refs}[6] &nbsp;&nbsp; A. A. Catellier and S. D. Voran, “NTIA technical report TR-17-522: Intelligibility of selected speech codecs in frame-erasure conditions,” NTIA, Washington, DC, USA, May 5, 2016. [Online]. Available: https<nolink>://www.its.bldrdoc.gov/publications/3165.aspx {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1403,7 +1403,7 @@ When citing reports from an online source with a corporate author make sure to i
 
 Organisation/company name, "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report number/Type, Month Day (if available), Year of Publication. [Online]. Available: name of database or site/path/file
 
-> {.ieee-refs}[6] &nbsp; State of Victoria (Department of Treasury and Finance), “Victorian state of engineering 2018,” Victoria State Government, Melbourne, Australia, 2018. [Online]. Available: http<nolink>://www.opv.vic.gov.au/Office-of-Victorian-Chief-Engineer/The-State-of-Engineering {/.ieee-refs}
+> {.ieee-refs}[6] &nbsp;&nbsp; State of Victoria (Department of Treasury and Finance), “Victorian state of engineering 2018,” Victoria State Government, Melbourne, Australia, 2018. [Online]. Available: http<nolink>://www.opv.vic.gov.au/Office-of-Victorian-Chief-Engineer/The-State-of-Engineering {/.ieee-refs}
 
 
 
@@ -1452,7 +1452,7 @@ When citing webpages make sure to include the following information where availa
 
 Author(s) initials. Family name(s). "Title of Webpage." Title of Website (if available). URL (accessed Month Day, Year).
 
-> {.ieee-refs}[7] &nbsp; T. Fleischman. "Stabilizing molecule could pave way for lithium-air fuel cell." CNN.com. https<nolink>://www.news.cornell.edu/stories/2017/04/stabilizing-molecule-could-pave-way-lithium-air-fuel-cell (accessed Apr. 30, 2017). {/.ieee-refs}
+> {.ieee-refs}[7] &nbsp;&nbsp; T. Fleischman. "Stabilizing molecule could pave way for lithium-air fuel cell." CNN.com. https<nolink>://www.news.cornell.edu/stories/2017/04/stabilizing-molecule-could-pave-way-lithium-air-fuel-cell (accessed Apr. 30, 2017). {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1488,7 +1488,7 @@ When citing webpages with a corporate author make sure to include the following 
 
 > Organisation/company name. "Title of Webpage." Title of Website (if available). URL (accessed Month Day, Year).
 
-> {.ieee-refs}[7] &nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017). {/.ieee-refs}
+> {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017). {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1535,7 +1535,7 @@ When citing a streaming video / YouTube video make sure to include the following
 
 Video Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Video. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file
 
-> {.ieee-refs}[8] &nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. [Online Video]. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow {/.ieee-refs}
+> {.ieee-refs}[8] &nbsp;&nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. [Online Video]. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1571,7 +1571,7 @@ When citing a video tutorial make sure to include the following information wher
 
 Video Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Video. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file
 
-> {.ieee-refs}[8] &nbsp; S. Allardice, Reviewing Software Development Methodologies. (May 22, 2012). Accessed June 2, 2017. [Online Video]. Available: https<nolink>://www.linkedin.com/learning?trk=learning-topics_nav-header-logo&upsellOrderOrigin=default_guest_learning {/.ieee-refs}
+> {.ieee-refs}[8] &nbsp;&nbsp; S. Allardice, Reviewing Software Development Methodologies. (May 22, 2012). Accessed June 2, 2017. [Online Video]. Available: https<nolink>://www.linkedin.com/learning?trk=learning-topics_nav-header-logo&upsellOrderOrigin=default_guest_learning {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1607,7 +1607,7 @@ When citing an audio podcast make sure to include the following information wher
 
 Podcast Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Podcast. Release date (Month Day if available, Year). Accessed Month Day, Year. [Podcast]. Available: site/path/file
 
-> {.ieee-refs}[8] &nbsp; A. Schiffrin, Sydney, Australia. Materials go Nano. (Jan. 8, 2017). Accessed May 12, 2017. [Podcast]. Available: http<nolink>://www.abc.net.au/radionational/programs/scienceextra/materials-go-nano/8117286 {/.ieee-refs}
+> {.ieee-refs}[8] &nbsp;&nbsp; A. Schiffrin, Sydney, Australia. Materials go Nano. (Jan. 8, 2017). Accessed May 12, 2017. [Podcast]. Available: http<nolink>://www.abc.net.au/radionational/programs/scienceextra/materials-go-nano/8117286 {/.ieee-refs}
 
 
 
@@ -1655,7 +1655,7 @@ When citing a blog make sure to include the following information where availabl
 
 Author(s) initials. Family name(s), Place of Publication City, abbrev. US State (if applicable), Country. Title of Blog. Release date (Month Day if available, Year). Accessed Month Day, Year. [Blog]. Available: site/path/file
 
-> {.ieee-refs}[9] &nbsp; V. Pterneas, Kinect for windows version 2: Body tracking, (Mar. 13, 2014). Accessed June 2, 2017. [Blog]. Available: https<nolink>://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/ {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; V. Pterneas, Kinect for windows version 2: Body tracking, (Mar. 13, 2014). Accessed June 2, 2017. [Blog]. Available: https<nolink>://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/ {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1691,7 +1691,7 @@ When citing a dataset with a DOI make sure to include the following information 
 
 Author(s) initials. Family name(s), *Title of dataset*, vol. (volume number, if applicable), Publisher, Month Day, Year, doi:.
 
-> {.ieee-refs}[9] &nbsp; Y. Ren *et al*. *Microstructures of cold-sprayed titanium before and after heat treatment*, vol. 7, CSIRO Data Collection, 2017, doi:https<nolink>://doi.org/10.4225/08/5913e0247881b. {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; Y. Ren *et al*. *Microstructures of cold-sprayed titanium before and after heat treatment*, vol. 7, CSIRO Data Collection, 2017, doi:https<nolink>://doi.org/10.4225/08/5913e0247881b. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1727,7 +1727,7 @@ When citing a dataset with a URL make sure to include the following information 
 
 Author(s) initials. Family name(s), *Title of dataset*, vol. (volume number, if applicable), Publisher, Month Day, Year. [Online]. Available: site/path/file
 
-> {.ieee-refs}[9] &nbsp; D. Gore, *The hydraulic behaviour of permeable reactive barrier materials under freeze-thaw conditions*, Australian Antarctic Data Centre, 2005. [Online]. Available: http<nolink>://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=ASAC_2576 {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; D. Gore, *The hydraulic behaviour of permeable reactive barrier materials under freeze-thaw conditions*, Australian Antarctic Data Centre, 2005. [Online]. Available: http<nolink>://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=ASAC_2576 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1765,7 +1765,7 @@ When citing figures and tables make sure to include the following information wh
 
 Author(s) initials. Family name(s), “Title of figure/table,” abbrev. *Title of Publication*, vol. (volume number), no. (issue number), p. or pp. page(s) of figure, Month Year of Publication.
 
-> {.ieee-refs}[9] &nbsp; Y. Karatas and F. Ince, "Fuzzy system with two inputs and one output," *IEEE Aerosp. Electron. Syst. Mag.*, vol. 31, no. 5, p. 32, May 2016. {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; Y. Karatas and F. Ince, "Fuzzy system with two inputs and one output," *IEEE Aerosp. Electron. Syst. Mag.*, vol. 31, no. 5, p. 32, May 2016. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1801,7 +1801,7 @@ When citing a patent make sure to include the following information where availa
 
 Author(s) initials. Family name(s), “Title of patent,” abbrev. Country (if applicable) Patent Number, Month Day (if available), Year. [Online]. Available: site/path/file
 
-> {.ieee-refs}[9] &nbsp; K. Deby, "Multinode temperature sensor," Aus. Patent 2016102110, 2016. [Online]. Available: http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2016102110 {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; K. Deby, "Multinode temperature sensor," Aus. Patent 2016102110, 2016. [Online]. Available: http<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2016102110 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1849,7 +1849,7 @@ When citing a personal communication make sure to include the following informat
 
 Author(s) initials. Family name(s), private communication, Month Year.
 
-> {.ieee-refs}[9] &nbsp; L. Nguyen, private communication, Aug. 2016. {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; L. Nguyen, private communication, Aug. 2016. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1885,7 +1885,7 @@ When citing a standard make sure to include the following information where avai
 
 *Title of Standard*, Standard Number, Publisher (if applicable), Year. [Online]. Available: site/path/file
 
-> {.ieee-refs}[9] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: http<nolink>://www.saiglobal/ieee2743287647644 {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: http<nolink>://www.saiglobal/ieee2743287647644 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1919,7 +1919,7 @@ When citing a thesis make sure to include the following information where availa
 
 Author(s) initials. Family name(s), "Title of thesis," Type of thesis (Ph.D. dissertation or M.S. thesis), abbrev. Department, abbrev. University, Place of Publication City, abbrev. US State (if applicable), Country, Year of Publication. [Online]. Available: site/path/file
 
->? {.ieee-refs}[9] &nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: http<nolink>://researchbank.rmit.edu.au/eserv/rmit:161152/Al_Saidi.pdf {/.ieee-refs}
+>? {.ieee-refs}[9] &nbsp;&nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: http<nolink>://researchbank.rmit.edu.au/eserv/rmit:161152/Al_Saidi.pdf {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1977,7 +1977,7 @@ In the Reference list include:
 
 - Month and year
 
-> {.ieee-refs}[9] &nbsp; B. Smith, "An approach to graphs of linear form," unpublished, Oct. 2019. {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; B. Smith, "An approach to graphs of linear form," unpublished, Oct. 2019. {/.ieee-refs}
 
 ###### end-subtype-content
 

@@ -184,9 +184,9 @@ Identify works by the same author(s) in the same year by the suffixes a, b, c, e
 
 References by the same author(s) with the same publication year are arranged alphabetically by the title (excluding A or The) that follows the date.
 
-> Dean, E. (2017a). Practice nursing: An action plan for a disparate workforce. *Nursing Standard*, 32(3), 25. https://doi.org/10.7748/ns.32.3.25.s24
+> Dean, E. (2017a). Practice nursing: An action plan for a disparate workforce. *Nursing Standard*, 32(3), 25. https<nolink>://doi.org/10.7748/ns.32.3.25.s24
 
-> Dean, E. (2017b). Top nursing universities fall short in new ratings. *Nursing Standard*, 31(44), 9. https://doi.org/10.7748/ns.31.44.9.s8
+> Dean, E. (2017b). Top nursing universities fall short in new ratings. *Nursing Standard*, 31(44), 9. https<nolink>://doi.org/10.7748/ns.31.44.9.s8
 
 &nbsp;
 #### Lead authors are the same in the same year
@@ -203,9 +203,9 @@ If there are more than 3 authors and the lead author(s) are the same, but there 
 
 The reference list would include all authors.
 
-> Arnaiz, M., Cochrane, T., Calizaya, A., & Shrestha, M. (2018). A framework for evaluating the current level of success of micro-hydropower schemes in remote communities of developing countries. *Energy for Sustainable Development*, 44, 55-63. https://doi.org/10.1016/j.esd.2018.03.002
+> Arnaiz, M., Cochrane, T., Calizaya, A., & Shrestha, M. (2018). A framework for evaluating the current level of success of micro-hydropower schemes in remote communities of developing countries. *Energy for Sustainable Development*, 44, 55-63. https<nolink>://doi.org/10.1016/j.esd.2018.03.002
 
-> Arnaiz, M., Cochrane, T., Hastie, R., & Bellen, C. (2018). Micro-hydropower impact on communities' livelihood analysed with the capability approach. *Energy for Sustainable Development*, 45, 206-210. https://doi.org/10.1016/j.esd.2018.07.003
+> Arnaiz, M., Cochrane, T., Hastie, R., & Bellen, C. (2018). Micro-hydropower impact on communities' livelihood analysed with the capability approach. *Energy for Sustainable Development*, 45, 206-210. https<nolink>://doi.org/10.1016/j.esd.2018.07.003
 
 ###### end-subtype-content
 
@@ -273,7 +273,7 @@ If the reference work is continously updated use **n.d.** as the year of publica
 
 If the reference work is taken from an archived page then no retrieval date is needed.
 
-> {.hanging-indent}Achromatopsia. (2005). In *Van Nostrand's scientific encyclopedia* (10th ed.). <br> https://www.wiley.com/en-au/Van+Nostrand%27s+Scientific+Encyclopedia%2C+3+Volume+Set%2C+10th+Edition-p-9780471743385{/.hanging-indent}
+> {.hanging-indent}Achromatopsia. (2005). In *Van Nostrand's scientific encyclopedia* (10th ed.). <br> https<nolink>://www.wiley.com/en-au/Van+Nostrand%27s+Scientific+Encyclopedia%2C+3+Volume+Set%2C+10th+Edition-p-9780471743385{/.hanging-indent}
 
 #### Book or report with no author
 
@@ -322,7 +322,7 @@ For example, if you read an article written by Hosany and Martin and they cite i
 
 In the reference list, you need to include the citation information for the Hosany and Martin article as that is where the Heath and Scott information was sourced:
 
-> {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, 65(5), 685-691. https://doi.org/10.1016/j.jbusres.2011.03.015{/.hanging-indent}
+> {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, 65(5), 685-691. https<nolink>://doi.org/10.1016/j.jbusres.2011.03.015{/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -388,7 +388,7 @@ When citing electronic journal articles, you **MUST** include a digital object i
 
 The recommended DOI format should appear in your reference list as:
 
-> https://doi.org/xxxxxxxxxxxxxxx
+> https<nolink>://doi.org/xxxxxxxxxxxxxxx
 
 If no DOI is assigned, include the journal’s homepage URL instead.
 
