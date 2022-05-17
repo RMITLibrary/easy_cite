@@ -56,7 +56,7 @@ Important: This is a guide only. To avoid losing marks:
 
 -	Use [*Australian Guide to Legal Citation* (4th ed, 2018)](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/tcai14/alma9921686693101341), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
-##### Additional resources
+#### Additional resources
 Download the [*Australian Guide to Legal Citation (AGLC)* 4th ed, 2018](https://law.unimelb.edu.au/mulr/aglc)
 
 ###### end-subtype-content

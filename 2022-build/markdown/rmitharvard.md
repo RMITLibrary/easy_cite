@@ -59,6 +59,11 @@ It is recommended that you read the general rules for each section before lookin
 
 **Note:** Although the AGSM states that title of online sources should be hyperlinked for electronic formats, RMIT Harvard style does not do this because hyperlinks are not compatible with the EndNote program and other referencing software. In addition, the links would not be available when the work is printed.
 
+#### Additional resources
+
+Download the RMIT University Harvard referencing guide (DOCX, 50.8 KB) from: 
+
+[Referencing guides for printing list](https://www.rmit.edu.au/library/study/referencing/referencing-guides-for-printing)
 
 ###### end-subtype-content
 

@@ -57,7 +57,9 @@ The Vancouver referencing style is a **numbered system**, predominantly used in 
 
 #### Additional resources
 
-Download the [RMIT Vancouver referencing guide (DOCX, 130 KB, 16 pages)](https://www.rmit.edu.au/content/dam/rmit/documents/library/referencing/Vancouver-referencing-examples.docx) - MS Word document for downloading or printing
+Download:
+
+[RMIT Vancouver referencing guide (DOCX, 130 KB, 16 pages)](https://www.rmit.edu.au/content/dam/rmit/documents/library/referencing/Vancouver-referencing-examples.docx) - MS Word document for downloading or printing
 
 [RMIT University Library Referencing Guides for printing](https://www.rmit.edu.au/library/study/referencing) - a full list of style guides used at RMIT
 
