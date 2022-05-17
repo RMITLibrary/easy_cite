@@ -82,7 +82,7 @@ Download the [RMIT Vancouver referencing guide (DOCX, 130 KB, 16 pages)](https:/
 
 > The theory was first put forward in 1987. [1]
 
-> The theory was first put forward in 1987.1
+> The theory was first put forward in 1987.<sup>1</sup>
 
 #### Paraphrasing
 
