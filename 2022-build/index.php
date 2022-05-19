@@ -76,15 +76,9 @@
 			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 				<li class="nav-item"><a class="nav-link topnavbar ecnavsubtitle" aria-current="page" href="https://www.rmit.edu.au" tabindex="0">RMIT Australia&nbsp;&nbsp;&nbsp;</a></li>
  				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library" tabindex="0">RMIT Library&nbsp;&nbsp;&nbsp;</a></li>
-				<li class="nav-item dropdown">
-					<a class="nav-link topnavbar dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" tabindex="0">Resources</a>
-					<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-						<li><a class="dropdown-item" href="#" tabindex="0">Learning Lab</a></li>
-						<li><a class="dropdown-item" href="#" tabindex="0">Study support</a></li>
- 						<li><hr class="dropdown-divider" /></li>
- 						<li><a class="dropdown-item" href="#" tabindex="0">Something else here</a></li>
-					</ul>
-				</li>
+				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library/study/referencing" tabindex="0">Referencing&nbsp;&nbsp;&nbsp;</a></li>
+				<li class="nav-item"><a class="nav-link " href="https://www.rmit.edu.au/library/study/referencing" tabindex="0" id="ecinstruct" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" onClick="textToggle(this)" ondblclick="textToggle(this)"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg> How to use Easy Cite</a></li>
+				
 			</ul>
 		</div>
 	</div>
@@ -93,14 +87,20 @@
 	
 <!-- Instructions content--> 
 <div class="ecinstructions">
-    <!-- link to trigger collapse -->
-    <a class="notabutton ectitle" id="ecinstruct" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" onClick="textToggle(this)" ondblclick="textToggle(this)">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;&nbsp;How to use Easy Cite referencing resources - <span id="textoggle">open</span>
-  		
-	</a>
+    
 
     <!-- Collapsed content -->
-    <div class="accordion-collapse collapse" id="collapseExample" data-bs-parent="#ecinstruct" aria-expanded="false"s>
+    <div class="accordion-collapse collapse" id="collapseExample" data-bs-parent="#ecinstruct" aria-expanded="false">
+		
+		<!-- link to trigger collapse -->
+   <div class="trighty"> 
+	   <a class="notabutton ectitle" tabindex="0" id="ecinstruct2" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" onClick="textToggle(this)" ondblclick="textToggle(this)">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;&nbsp;How to use Easy Cite referencing resources - <span id="textoggle">open</span>
+  		
+	   </a>
+	</div>
+		
+		
         <div class="card-body">
             <div class="d-flex flex-row flex-wrap">
                 <div class="col-12 col-sm-7">
@@ -148,8 +148,8 @@ if ($whichstyleguide == "styleguide-0"){
 	$thestyleguide = file_get_contents('markdown/apa7thed.md');
 	$thestyleguidetitle = "APA 7<sup>th</sup> Edition";
 }	else if ($whichstyleguide == "styleguide-3"){
-	$thestyleguide = file_get_contents('markdown/chicago.md');
-	$thestyleguidetitle = "Chicago";
+	$thestyleguide = file_get_contents('markdown/chicago17.md');
+	$thestyleguidetitle = "Chicago 17";
 }	else if ($whichstyleguide == "styleguide-4"){
 	$thestyleguide = file_get_contents('markdown/ieee.md');
 	$thestyleguidetitle = "IEEE";
@@ -178,7 +178,7 @@ $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</ul><p>&nbsp;</p>', $myli
 $mylist = preg_replace("/RMIT Harvard<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'RMIT Harvard<div class="layer" aria-hidden="true">RMIT Harvard</div>', $mylist);
 $mylist = preg_replace("/AGLC4<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'AGLC4<div class="layer" aria-hidden="true">AGLC4</div>', $mylist);
 $mylist = preg_replace("/APA 7th ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7th ed.<div class="layer" aria-hidden="true">APA 7th ed.</div>', $mylist);
-$mylist = preg_replace("/Chicago<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago<div class="layer" aria-hidden="true">Chicago</div>', $mylist);
+$mylist = preg_replace("/Chicago 17<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago 17<div class="layer" aria-hidden="true">Chicago 17</div>', $mylist);
 $mylist = preg_replace("/IEEE<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'IEEE<div class="layer" aria-hidden="true">IEEE</div>', $mylist);
 $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Vancouver<div class="layer" aria-hidden="true">Vancouver</div>', $mylist);
 	

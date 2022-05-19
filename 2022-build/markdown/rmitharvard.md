@@ -11,7 +11,7 @@
 # RMIT Harvard
 # AGLC4
 # APA 7th ed.
-# Chicago
+# Chicago 17
 # IEEE
 # Vancouver
 ###### end-style-menu
@@ -69,6 +69,7 @@ Download the RMIT University Harvard referencing guide (DOCX, 50.8 KB) from:
 
 ###### end-subtype-item
 
+
 ###### start-subtype-item
 
 ### General rules for in-text references
@@ -99,7 +100,6 @@ If the publication date is unknown, use n.d.
 
 If the publication date is unknown but can be reliably estimated or inferred from the text, then place c. (meaning 'circa' or about) before the year.
 
-
 ###### end-subtype-content
 
 ###### end-subtype-item
@@ -121,7 +121,6 @@ For example, if you use Vanna’s ideas which you read about an article by Marti
 
 In the examples, the ideas/information belong to Vanna, but you paraphrased them from your reading of Martin and Rodriguez’s work.
 In the reference list, include the source you read. For this example, you would only need to put Martin and Rodríguez in the reference list.
-
 
 ###### end-subtype-content
 
@@ -180,11 +179,9 @@ If you **change the wording of a quote**, follow the steps below to ensure that 
 
 - If the source contains grammatical or spelling errors, you must copy the quote exactly as it appears in the original source (including the errors). Then put sic in parentheses **(sic)** immediately after the error.
 
-
 ###### end-subtype-content
 
 ###### end-subtype-item
-
 
 
 ###### start-subtype-item
@@ -202,7 +199,6 @@ As Smithers (2020:57) points out:
 ###### end-subtype-content
 
 ###### end-subtype-item
-
 
 
 ###### start-subtype-item
@@ -264,7 +260,6 @@ As Smithers (2020:57) points out:
 ###### end-subtype-item
 
 
-
 ###### start-subtype-item
 
 ### Example reference list
@@ -315,7 +310,6 @@ WHO (World Health Organization) (2021) *WHO accelerates work on nutrition target
 ###### end-subtype-item
 
 
-
 ###### end-subtype
 
 ###### end-type-content
@@ -325,7 +319,6 @@ WHO (World Health Organization) (2021) *WHO accelerates work on nutrition target
 ###### start-type-content
 
 ###### start-subtype
-
 
 
 ###### start-subtype-item
@@ -346,7 +339,6 @@ Include the name of the publisher, followed by the Digital Object Identifier (DO
 ###### end-subtype-content
 
 ###### end-subtype-item
-
 
 
 ###### start-subtype-item
