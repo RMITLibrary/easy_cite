@@ -5,10 +5,27 @@ nav {
 	border:none !important;
 }
 .ectitle{
+
+	margin-left: 20px;
+	font-weight: 500;
+	text-align: right !important;
+}
+.echeadtitle{
 	color: #ffffff;
 	margin-left: 20px;
 	font-weight: 500;
 	text-align: right !important;
+}
+.ectitle:hover{
+    color: #E61E2A;	
+	text-decoration: none;
+  }
+.ectitle:focus {
+    color: #E61E2A;
+	outline: 1px solid #000054 !important;
+  }
+.ectitle.active:focus{
+	outline: none !important;
 }
 .trighty{
 	align-content: flex-end !important;
@@ -19,9 +36,10 @@ nav {
 	Font-size: 1.1rem;
 }
 .ecinstructions {
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 	padding: 10px;
 	font-size: 0.9rem;
+	background-color: #f3f3f3;
 }
 .ecinstructbox{
 	padding: 20px;
@@ -44,6 +62,7 @@ nav {
 	font-family: Helvetica, Arial, 'sans-serif' !important;
 	colour: #ffffff;
 	border:hidden !important;
+	height: 100px !important;
 }
 .mynavtabs {
 	margin-top: 3px !important;
@@ -250,9 +269,7 @@ img {
 	background-color: #e3e5e0 !important;
 	outline: none !important;
 }
-.collapsed {
-	background-color: #f8f8fa !important;
-}
+
 .notabutton{
     border: hidden !important;
 	background-color: #ffffff !important;
