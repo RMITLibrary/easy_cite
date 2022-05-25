@@ -32,7 +32,7 @@
 	<div class="container-fluid">
 		<div class="topnav-logosection">
                
-                  <a href="#" aria-label="Royal Melbourne Institute of Technology University Logo" tabindex="-1" class="rmit-logo">
+                  <a href="https://www.rmit.edu.au" aria-label="Royal Melbourne Institute of Technology University Logo" tabindex="0" class="rmit-logo">
                      <span class="no-focus" tabindex="-1"><svg width="164px" height="57px" viewBox="0 0 469 163" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"> 
     
  <defs> 
@@ -74,8 +74,7 @@
   		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-				<li class="nav-item"><a class="nav-link topnavbar ecnavsubtitle" aria-current="page" href="https://www.rmit.edu.au" tabindex="0">RMIT Australia&nbsp;&nbsp;&nbsp;</a></li>
- 				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library" tabindex="0">RMIT Library&nbsp;&nbsp;&nbsp;</a></li>
+ 				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library" tabindex="0">Library&nbsp;&nbsp;&nbsp;</a></li>
 				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library/study/referencing" tabindex="0">Referencing&nbsp;&nbsp;&nbsp;</a></li>
 				<li class="nav-item"><a class="nav-link topnavbar" href="#" tabindex="0" id="ecinstruct" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" onClick="textToggle(this)" ondblclick="textToggle(this)"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg> How to use Easy Cite</a></li>
 				
@@ -108,8 +107,7 @@
 						<h3>How to use Easy Cite referencing resources</h3>
                     <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago, IEEE and Vancouver, .</p>
                     <p>Easy Cite is intended as a guide only. This resource uses current relevant style manuals. Some styles are open to interpretation. Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar existing types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
-                    <p class="ecsubtitle">Accessibility</p>
-                    <p>Easy Cite is keyboard and screen reader accessible...</p>
+                
                     </div>
                 </div>
                 <div class="col-12 col-sm-5">

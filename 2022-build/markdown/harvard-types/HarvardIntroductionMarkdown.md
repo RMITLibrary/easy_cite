@@ -16,6 +16,7 @@ RMIT Harvard style requires in-text references and the reference list.
 
 **Note:** Although the AGSM states that the title of online sources should be hyperlinked for electronic formats, RMIT Harvard style does not do this because hyperlinked titles are not compatible with the EndNote program. In addition, the links would not be available when the work is printed.
 
+
 ### General rules for in-text references
 
 - Use in-text references to acknowledge each author or source of information (print or online) used within your writing either by paraphrasing or using a direct quote.  
@@ -145,6 +146,7 @@ Identify works by the same author in the same year by inserting a letter after t
 > 
 > Ayoob M (2021b) *What will happen to the nuclear deal under Iran’s new president?*, Australian Strategic Policy Institute: The Strategist website, accessed 9 December 2021. https<nolink>://www.aspistrategist.org.au/what-will-happen-to-the-nuclear-deal-under-irans-new-president/
 
+
 ### Referencing Works by different first authors with the same family name
 
 To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text references. In the reference list, order their works by the year of publication.
@@ -156,6 +158,7 @@ To identify the works of different first authors with the same family name, inse
 #### Reference list entry
 
 In the reference list, order the works of each author by the year of publication. For this example, since Peterson M published their work in 2019 and Peterson JR in 2021, you need to list the Peterson M (2019) reference **before** that of Peterson JR (2021).
+
 
 ### Multiple references in the same parentheses
 
@@ -169,23 +172,6 @@ When including two or more references in the same parentheses in a sentence, lis
 
 In the reference list, include the sources you referenced in the parentheses.
 
-### Personal communication
-
-Personal communication, such as face-to-face interviews, conversations, telephone calls, letters or emails, is only cited an in-text reference.
-
-Information about personal communication must be included in the in-text reference. Include the type of personal communication (for example, personal conversation, email, interview, telephone conversation) and the date in a date month year format.
-
-Personal communication is not published and therefore unavailable for verification. For this reason, it is **not** included in the reference list.
-
-#### Paraphrase
-
-> Ms Merrick, Melville Shire Council CEO, confirmed the accuracy of the claims by email on 25 April 2022.
-
-#### Direct quotes
-
-> My field placement supervisor commented '...' (Lee, personal communication, 14 May 2022).
-
-> Rowlands (personal communication, 20 February 2022) stated '...'
 
 ### Secondary citation
 
@@ -204,6 +190,7 @@ In the examples, the ideas/information belong to Vanna, but you paraphrased them
 #### Reference list entry
 
 In the reference list, include the source you read. For this example, you would **only** need to put the Martin and Rodríguez (2021) reference.
+
 
 ### General rules for the reference list
 
@@ -249,6 +236,7 @@ In the reference list, include the source you read. For this example, you would 
 - If the publication has a **DOI** (Digital Object Identifier), include it in the reference list, at the end of the citation using the short form ‘doi’ in lower case, e.g. Zufferey C, Yu N and Hand T (2020) ‘Researching home in social work’, *Qualitative Social Work*, 19(5-6):1095-1110, doi:10.1177/1473325019880244.
 
 - If the work is in a **language other than English**, put the title in the original language followed by the English translation, e.g. *Gabrielle Chanel. Manifeste de Mode (Gabrielle Chanel. Fashion Manifesto)*.
+
 
 ### Example of a reference list
 
