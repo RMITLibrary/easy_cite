@@ -33,7 +33,9 @@
 		<div class="topnav-logosection">
                
                   <a href="https://www.rmit.edu.au" aria-label="Royal Melbourne Institute of Technology University Logo" tabindex="0" class="rmit-logo">
-                     <span class="no-focus" tabindex="-1"><svg width="164px" height="57px" viewBox="0 0 469 163" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"> 
+                     <span class="no-focus" tabindex="-1">
+
+						 <svg width="115px" height="40px" viewBox="0 0 469 163" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"> 
     
  <defs> 
   <polygon id="path-1" points="0.3133 0.8953 24.8973 0.8953 24.8973 40 0.3133 40"></polygon> 
@@ -447,9 +449,6 @@ echo($mylist);
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 	<div class="footerarea">
-		
-			<a href="https://emedia.rmit.edu.au/learninglab/content/referencing" class="footerlinks atooltip aanimate" data-tool="Visit the Learning Lab for information and tutorials on referencing">Learning Lab: referencing</a>&nbsp; | &nbsp; 
-			<a href="https://www.rmit.edu.au/students/support-services/study-support" class="footerlinks atooltip aanimate" data-tool="Get help with academic writing">Study suport</a>&nbsp;  | &nbsp; 
 			<a href="https://rmit-au.libwizard.com/f/easy-cite-feedback" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here " >Send us feedback</a>&nbsp;  | &nbsp; 
 			<a href="#" class="footerlinks atooltip aanimate" data-tool="This resource created by RMIT Library Digital Learning" >&copy; RMIT University</a>
 	

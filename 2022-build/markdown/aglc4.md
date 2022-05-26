@@ -65,7 +65,7 @@ Download the [*Australian Guide to Legal Citation (AGLC)* 4th ed, 2018](https://
 
 ###### start-subtype-item
 
-### General principals
+### General principles
 
 ###### start-subtype-content
 

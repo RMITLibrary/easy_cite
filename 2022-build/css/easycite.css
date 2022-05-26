@@ -9,12 +9,15 @@ nav {
 	margin-left: 20px;
 	font-weight: 500;
 	text-align: right !important;
+
 }
 .echeadtitle{
 	color: #ffffff;
-	margin-left: 20px;
+	margin-left: 40px;
+	margin-top: 20px;
 	font-weight: 500;
 	text-align: right !important;
+	font-size: 1.8rem !important;
 }
 .ectitle:hover{
     color: #E61E2A;	
@@ -62,7 +65,7 @@ nav {
 	font-family: Helvetica, Arial, 'sans-serif' !important;
 	colour: #ffffff;
 	border:hidden !important;
-	height: 100px !important;
+
 }
 .mynavtabs {
 	margin-top: 3px !important;
