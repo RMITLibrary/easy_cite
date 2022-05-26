@@ -1273,12 +1273,40 @@ Composer’s Family Name, Given Name. Year of publication. *Title of Score*. Pla
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Webpages
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+- Chicago requires an access date in citations of websites and other sources consulted online only if no date of publication or revision can be determined from the source (see 14.12 of the Chicago Manual). In those cases that is, when only an access date is used record n.d. as the date of publication in the reference list entry and for the in-text citation. To avoid conflation with the name of the author, n.d. is always lowercase.
+
+- Websites are created by individuals, companies, governments and other organisations. If no individual author is identified, use the organisation name as the author. If no organisation is identified either, use the webpage title in the place of the author name.
+
+#### In-Text Citation: Direct quote
+
+- If directly quoting from a source without a page number, use a paragraph number or section heading instead.
+
+(Author’s Family Name or Organisation Year of publication, page number or paragraph number or heading name).
+
+> "The facade is dramatic but also mysterious, faceless, presenting white-painted brick and pine battens and with no visible openings" (Scrubt 2017, para. 3).
+
+#### In-Text Citation: Paraphrase
+
+(Author’s Family Name or Organisation Year of publication)
+
+> Scrubt (2017) commented on the façade of the building…  
+
+> The façade of the building has a mysterious look (Scrubt 2017).
+
+#### Reference list
+
+Author. Year. "Title of Webpage." Website name (owning organisation). Date viewed/accessed. URL.
+
+> Alliance for Linguistic Diversity. n.d. “Balkan Romani.” Endangered Languages. Accessed April 6, 2016. http<nolink>://www.endangeredlanguages.com/lang/5342.
+> 
+> Australian Society for Indigenous Languages. n.d. "Supporting Indigenous Language Communities." Australian Society for Indigenous Languages. Accessed July 26, 2018. http<nolink>://www.ausil.org.au/.
+> 
+> Scrubt, Mark. 2017. "Iceberg Palace: Halo House." ArchitectureAU. Accessed September 30, 2017. https<nolink>://architectureau.com/articles/halo-house/.
 
 ###### end-subtype-content
 
@@ -1287,11 +1315,39 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Web documents
 
 ###### start-subtype-content
 
-CONTENT
+- Use for stand-alone documents that are downloaded from a website.
+
+- If page numbers are not given, use paragraph number or section headings.
+
+- Web documents are created by individuals, companies, governments and other organisations. If no individual author is identified, use the organisation name as the author. If no organisation is identified either, use the webpage title in the place of the author name.
+
+- If no publication date can be identified, use n.d. in lowercase in place of a year in both the intext citation and the reference list.
+
+#### In-Text Citation: Direct Quote
+
+(Author's Family Name OR Organisation Name Year, page)
+
+> "Epidemiology can inform or drive implementation science by supplying evidence on causes of disease and effective interventions as well as informing study methods, measurement, and designs" (Centre for Epidemiology and Evidence 2017, 23).
+
+> "Several respondents questioned the reason for inclusion of ectromelia virus as an agent of quarantine concern" (Department of Agriculture, Fisheries and Forestry 2003, para. 2).
+
+#### In-Text Citation: Paraphrase
+
+(Author's Family Name OR Organisation Name Year)
+
+> Unlike laboratory experiments, epidemiology provides evidence based on studies of human populations under real-world conditions (Centre for Epidemiology and Evidence 2017).
+
+#### Reference List
+
+Author's Family Name, Given Name OR Organisation Name. Year. *Document Title: Subtitle*. Document No. Place of Publication: Publisher. DOI or URL.
+
+> Australia. Department of Agriculture, Fisheries and Forestry. 2003. *Quarantine Requirements for the Importation of Live Laboratory Rats and Mice and Their Reproductive Material*. http<nolink>://www.daff.gov.au/\_\_data/assets/pdf\_file/0016/13822/2003-06a.pdf.
+> 
+> Centre for Epidemiology and Evidence. 2017. *NSW Mothers and Babies Report 2016*. Sydney: NSW Health. http<nolink>://www.health.nsw.gov.au/hsnsw/Publications/mothers-and-babies-2016.pdf.
 
 ###### end-subtype-content
 
@@ -1300,11 +1356,45 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Blog post
 
 ###### start-subtype-content
 
-CONTENT
+For a blog post with no author, the title should be used instead.
+
+#### In-Text Citation: Direct quote
+
+If directly quoting from a source without a page number, use a paragraph number or section heading instead.
+
+(Author’s Family Name Year of Publication, page number paragraph number or section heading)
+
+> “Subcultures have been allowed to flourish online, growing at unprecedented speed thanks to the reach of social media” (Lai and Bakshi 2021, para. 2).
+
+> “During the enforced stay in Melbourne, Charles explored the region and realised that there was potential for his business here” (“Aerial Views of Melbourne by Charles Daniel Pratt” 2017, para. 3).
+
+> “The local version goes one step further, adding six campaign buttons pinned to Fraser’s lapel: fellow conservative politicians ... each with an ice cream stuck to their forehead” (Riley 2022, under “Brain freeze”).
+
+#### In-Text Citation: Paraphrase
+
+(Author’s Family Name Year of Publication).
+
+> Subcultures such as regencycore, VSCO girl, and dark academia have grown quickly due to social media sites such as TikTok (Lai and Bakshi 2021).
+
+> … originated in 1972 when Stanley Mouse and Alton Kelley designed an album cover for The Grateful Dead (Riley 2022).
+
+> Over 1300 of Pratt’s aerial photographs were digitised and shared online by the State Library of Victoria (“Aerial Views of Melbourne by Charles Daniel Pratt” 2017).
+
+#### Reference list
+
+Author Family Name, Given Name. Year Posted. "Title of Blog Post." *Title of Blog* (blog). Month day, year posted. Accessed Month day, Year. URL.
+
+The word blog is added in brackets after the title of the blog, unless the word blog is part of the title.
+
+> “Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. *State Library of Victoria Blog*. June 26, 2017. Accessed April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt.
+> 
+> Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue* (blog). May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db.
+> 
+> Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs*. January 28, 2022. Accessed April 12, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams.
 
 ###### end-subtype-content
 
@@ -1313,11 +1403,49 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Social Media
 
 ###### start-subtype-content
 
-CONTENT
+As social media content is usually untitled, use the text of the post itself (up to 160 characters) in place of a title.
+
+If an author's screen-name is available, include it in parentheses after their name. If only the screen-name is known, use that instead of the author's name.
+
+Include the name of the social media site, and if relevant, include the type of post (photo, video) as in the Twitter example below.
+
+Social media comments should be cited in reference to the related post.
+
+Private content, including direct messages, should be cited as personal communication.
+
+#### In-Text Citation: Direct quote
+
+(Author’s Family Name Year posted)
+
+> “At the most important moments leading actors froze in a dramatic pose and extreme facial expression known as mie” (National Gallery of Victoria 2021).
+
+> “How fitting, and symbolic of progress” (Tame 2021).
+
+> “Consent isn’t about milkshakes or shifting lines. It’s an ongoing conversation with respect at its core” (Ford 2021).
+
+#### In-Text Citation: Paraphrase
+
+(Author’s Family Name Year posted)
+
+> Kabuki theatre began in the seventeenth century in Kyoto (National Gallery of Victoria 2021).
+
+> For the first time in the 100 year history of the Archibald prize, the finalists included an equal number of men and women (Tame 2021).
+
+> In her post, Ford (2021) implied that the Australian government’s video regarding consent was confusing.
+
+#### Reference List
+
+Author’s Family Name, Given Name (Author’s Screen Name). Year Posted. "Quote up to the first 160 characters of the post". Name of Social Media Site, Month day, Year posted. URL.
+
+> National Gallery of Victoria. 2021. “1 MIN READ: Take a moment to learn about Kabuki theatre with NGV Senior Curator of Asian Art, Wayne Crothers.” Facebook, August 25, 2021. https<nolink>://www.facebook.com/NGVMelbourne/posts/10159547500576163.
+> 
+> Tame, Grace (@tamepunk). 2021. "“Making Noise” Kirsty Neilson—for this year’s Archibald Prize". Instagram photo, May 27, 2021. https<nolink>://www.instagram.com/p/CPXh8CRLJTE/.
+> 
+> Ford, Clementine (@clementine\_ford). 2021. “Let’s have a conversation about consent! with Clementine Ford." Twitter video, April 27, 2021. https<nolink>://twitter.com/clementine\_ford/status/1386832309777616898.
 
 ###### end-subtype-content
 
@@ -1337,12 +1465,58 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Government report
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+An author can be a person, a group of persons (a committee or named individuals), a government department or a government agency.
+
+Government departments and agencies may be cited in-text using their acronym; in which case the matching reference list entry must also use the acronym in place of the organisation-as-author, followed by the full name in brackets; the reference list entry must be alphabetised using the abbreviation (rather than the spelled-out name), as in the ARC example.
+
+However, where an organisation is commonly known by its acronym (such as CSIRO, Qantas, NASA), list the acronym in the reference list without the full name in brackets, as in the CSIRO example.
+
+The publisher and author should be recorded as they appeared when the document was originally published. Do not alter the name of the government department or agency if they have changed since it was published.
+
+#### In-Text Citation: Direct Quote
+
+(Author's Family Name or Organisation Name or Organisation acronym year, page)
+
+> Additionally, “the impact on older carers may be exacerbated by factors such as their own age-related health problems, given that around half of all older carers (55%) had a disability themselves” (Australian Bureau of Statistics 2012, 17).
+
+> “Data improvement, including new and improved data capture and linkage of available data, is crucial in order to provide a reliable basis for further policy development and for service delivery models aimed at supporting older people” (AIHW 2021, 223).
+
+> According to the Australian Bureau of Statistics, between 1981 and 2011 “the proportion of farmers aged 55 years and over increased from 26% to 47%, while the proportion of farmers aged less than 35 years fell from 28% to just 13%” (2012, 3).
+
+#### In-Text Citation: Paraphrase
+
+(Author's Family Name or Organisation Name or Organisation acronym year)
+
+> A large majority of Australians who intended to migrate permanently overseas actually returned to Australia (Australian Bureau of Statistics 2012).
+
+> … thereby meeting the open access requirements for research outputs (ARC 2017).
+
+> In terms of women in leadership, whether in business or government, Australia has been left behind by other countries, as reported by the Australian Bureau of Statistics (2012).
+
+#### Reference list
+
+Author's Family Name, Given Name or Committee or Department or Organisation Name. Year. *Title of Publication*. Document ID or version number if any. City, State abbreviation: Publisher. URL.
+
+The report or document title must be in *italics*.
+
+When the organisation-as-author and publisher are the same entity, include it in both places in the reference list entry.
+
+For hard copy versions of government publications, omit the URL.
+
+If there is no place of publication, publisher or report number for a report, leave it out of your reference.
+
+> AIHW (Australian Institute of Health and Welfare). 2021. *Australia’s welfare 2021 data insights*. Australia’s welfare series no. 15. Cat. no. AUS 236. Canberra, ACT: Australian Institute of Health and Welfare. https<nolink>://www.aihw.gov.au/getmedia/ef5c05ee-1e4a-4b72-a2cd-184c2ea5516e/aihw-aus-236.pdf.aspx.
+> 
+> ARC (Australian Research Council). 2017. *ARC Open Access Policy*. Version 2017.1. Canberra, ACT: Australian Research Council. https<nolink>://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy.
+> 
+> Australian Bureau of Statistics. 2012. *Australian Social Trends, December 2012*. Cat. no. 4102.0. Canberra, ACT: Australian Bureau of Statistics. http<nolink>://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4102.0Main+Features1Dec%202012?OpenDocument.
+> 
+> CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future*. Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030.
 
 ###### end-subtype-content
 
@@ -1351,11 +1525,35 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Standards
 
 ###### start-subtype-content
 
-CONTENT
+If there are no personal author details, list the publishing organisation as the author.
+
+If the resource can only be accessed with an account login, provide the web address of the publisher's homepage or provide database name.
+
+If using a print standard, omit the URL or database name.
+
+#### In-text Citation: Direct Quote
+
+(Author’s Family Name Year of publication, page number)
+
+> As specified in Standards Australia (2009, 12) "each thimble in a sling shall comply with AS 1138."
+
+#### In-Text Citation: Paraphrase
+
+(Author’s Family Name Year of publication)
+
+> (Standards Australia 2009) Or As claimed in Standards Australia (2009) ...
+
+#### Reference list
+
+Standard Issuer Name. Year. *Title of Standard*. Standard Number. Place: Publisher. URL or database name.
+
+> Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. Sydney: SAI Global. https<nolink>://www.saiglobal.com.
+> 
+> Standards Australia. 2009. *Wire-Rope Slings: Product Specification*. AS 1666.1-2009. Sydney: SAI Global. https<nolink>://www.saiglobal.com.
 
 ###### end-subtype-content
 
@@ -1364,11 +1562,71 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Patent
 
 ###### start-subtype-content
 
-CONTENT
+Patents are cited under the names of the creators and dated by the year of issue.
+
+If you are directly quoting from an original source, include a page number or timestamp for the in-text citation. If you are paraphrasing into your own words, do not include a page number for the in-text citation.
+
+#### In-text Citation: Direct Quote
+
+(Creator's Family Name Year issued, Page number or Timestamp) OR Creator's Family Name (Year issued, Page number or Timestamp)
+
+For more than four (4) Creators, use Creator1 Family Name et al
+
+> Limiting pins are needed to “...limit the movement of a given hinge track with respect to the neighboring hinge track...” (Cook and Donaldson 2010, 11).
+
+> Bell (1876, 3) describes the first part of this invention as “ employment of a vibratory or undulatory current of electricity in contradistinction to a merely intermittent or pulsatory current...".
+
+> (Estrada et al 2017, 15)
+
+#### In-text Citation: Paraphrase
+
+(Creator's Family Name year issued) OR Creator's Family Name within text (Year) OR Creator's Family Name within text and (Year) at end of text.
+
+For more than four (4) Creators, use Creator1 Family Name et al
+
+> The invention addresses the difficulties in furling and reefing large sails (Cook and Donaldson 2010).
+
+> Bell’s invention (1876) brought the transmission of electricity into the modern age.
+
+> Kinloch, Young and Gong’s experiments with the combining of various materials resulted in their creation of, and subsequent patent application for, the invention of graphene composites (2016).
+
+> (Estrada et al 2017)
+
+#### Reference list
+
+For one (1) Creator:
+
+Creator's Family Name, First Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+
+> Bell, Alexander Graham. 1876. Improvement in telegraphy. U.S. Patent 174465A, filed February 14, 1876, and issued March 7, 1876. https<nolink>://www.google.com/patents/US174465.
+
+For two (2) Creators:
+
+Creator1 Family Name, First Name, Creator2 First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+
+> Cook, Fred C., and William H. Donaldson. 2010. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, filed May 7, 2009, and issued November 11, 2010.https<nolink>://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=%22mega+yacht%22&s2=%22sail+feeder%22&OS=%22mega+yacht%22+AND+%22sail+feeder%22&RS=%22mega+yacht%22+AND+%22sail+feeder%22.
+
+For three (3) Creators:
+
+Creator1 Family Name, First Name, Creator2 First Name Family Name, and Creator3 First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+
+> Kinloch, Ian, Robert Young, and Lei Gong. 2016. Graphene Composites. Australian application number 2016222482, filed September 2, 2016, and issued September 22, 2016. https<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2016222482.
+
+For four (4) to ten (10) Creators:
+
+Creator1's Family Name, First Name, Creator2 First Name Family Name, Creator3 First Name Family Name, Creator4 First Name Family Name.......and Last Creator First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+
+> Estrada, Diana, Pilar Jones, Mark Taylor, Joseph Stopp, Matthew Highton, and Raymond Depp. 2017. Turbine for hair dryer. AU12345678A1, filed January 1, 2016, and issued January 30, 2017. https<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo+12345678.
+
+For eleven (11) or more Creators, list up to seven (7) Creators and end with et al:
+
+Creator1 Family Name, First Name, Creator2 First Name Family Name, Creator3 First Name Family Name, Creator4 First Name Family Name.......Creator7 First Name Family Name et al. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+
+> Tamworth, Natalie, Oliver Poole, Hugh McCrae, Brian Webber, Marian Kwok, Caroline Skims, Paul Romany et al. 2020. Method for cultivating seeds. U.S. Patent 123456789A1, filed October 1, 2019, and issued October 31, 2020. https<nolink>://www.google.com/patents/US123456789A1.
 
 ###### end-subtype-content
 
@@ -1389,12 +1647,48 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### General Rules for Images
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+Chicago style uses the terminology 'illustrations' or 'figures' when including visual images presented separately from text sources.
+
+'Figures' includes the following image types:
+
+- Charts or Graphs
+
+- Paintings, drawings, photographs, or other art works
+
+When including reproduced images of diagrams, graphs, maps, photographs within your work, a caption provides a description or an explanation of the contents of the illustration. Captions are usually positioned below the illustration and include a figure number. See Captions section of this guide for further information.
+
+When referring to an image in the text of your assignment, give a short citation consisting of the name of the artist/creator/author and the date.
+
+Citations are also influenced by the location of where you found the image or creative work. Where possible, cite the original rather than a reproduction.
+
+Visual images from books, articles, and other sources that you refer to but do not reproduce should be cited in the standard format of the source as described in the other sections of this guide.
+
+Visual materials that you use in your assignment or for study purposes do not need the copyright permissions that are required for publishing or commercial use. However, it is essential that you give credit to the creator of the work and reference it in your work.
+
+If you refer to any visual material, i.e. art, design or architecture, you have seen in person and you are not including an image of it in your document, provide a detailed in-text citation ie.(Georgia O'Keeffe, The Cliff Chimneys, 1938, Milwaukee Art Museum, Wisconsin)
+
+#### Rules for Reference List
+
+##### Image reproduced in a book
+
+> Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book*. Place of Publication: Publisher's Name.
+
+##### Image from a database
+
+> Artist Family Name, First name. Year. *Title: Subtitle.* Place: Publisher. medium (if appropriate), length of work (if appropriate). Database Name.
+
+##### Online image/artwork
+
+> Artist or Creator, A. Year. *Title: Subtitle.* medium (if appropriate). Place: Publisher. URL.
+
+##### Original image/artwork (viewed in a gallery or collection)
+
+> Artist Family Name, Artist Given Name. Year of production. *Title of Artwork*. Medium, dimensions (if available). Collection or exhibition, Place of collection or exhibition.
 
 ###### end-subtype-content
 
@@ -1403,11 +1697,87 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Artwork
 
 ###### start-subtype-content
 
-CONTENT
+#### Artwork viewed online
+
+##### In-Text Citation
+
+Artist’s Family Name Year of publication
+
+> Max Dupain's (1937) photographic work *Sunbaker* captures the head and shoulders of a man lying on a beach in New South Wales.
+
+> Burn (1861) captures Swanston Street in the 1800's and the neoclassical architecture of the time.
+
+##### Reference list
+
+Artist's Family Name, Given Name. Year. *Title: Subtitle.* Medium (if appropriate). Place: Publisher. URL or database name
+
+> Burn, Henry. 1861. *Swanston Street from the Bridge*. Oil on canvas. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/.
+> 
+> Dupain, Max. 1937. *Sunbaker. Photograph.* Photograph. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/7621/.
+> 
+> Pinkston, Wayne, 2017.*The Elephant Walks at Night*. Flickr. https<nolink>://www.flickr.com/photos/pinks2000/38054867995/in/explore-2017-12-09/.
+
+#### Artwork viewed in person
+
+If you are referring to the actual artwork and you are not including the image in your document, you only need to provide a detailed in text citation. Include the following information:
+
+- artist or designer
+
+- title of the work
+
+- year of creation of work
+
+- type of materials (optional)
+
+- dimensions of the work (if available)
+
+- location of item, e.g. name institution that houses the work, or city the building is in
+
+Works viewed in person, e.g. at art galleries, museums, and public spaces, are cited to acknowledge their influence on the development of your own ideas or work.
+
+##### In-Text Citation
+
+Artist’s Family Name, *Title of work*, Year of production, type of materials (optional), dimensions of the work (if available), location of item, e.g. name institution that houses the work, or city the building is in
+
+> *The Cliff Chimneys* is an oil on canvas painting depicting the form of the cliffs using bushes, trees, branches, ponds..(Georgia O'Keeffe, The Cliff Chimneys, 1938, Milwaukee Art Museum, Wisconsin).
+
+##### Reference list
+
+Artist’s Family Name, Given Name. Year of production. *Title of Artwork*. Medium, dimensions (if available). Collection or exhibition, Place of collection or exhibition.
+
+> Anadol, Refik. 2020. *Quantum Memories.* AI Data Sculpture, Custom software, quantum computing data, generative algorithm with artificial intelligence (AI), real time digital animation on LED screen, 4 channel sound, 10m x 10m x 2.5m. National Gallery of Victoria, Melbourne.
+> 
+> O'Keeffe,Georgia. 1938. *The Cliff Chimneys*. Milwaukee Art Museum, Wisconsin.
+> 
+> Pollock, Jackson. 1952. *Blue poles*. Oil, enamel, aluminium paint, glass on canvas. National Gallery of Australia.
+
+#### Artwork from a publication
+
+When citing an image or artwork from a book, article, or other publication, cite the author of that source and provide the page number where the image is located. You may wish to refer to the artist’s name in the text of your work.
+
+##### In-Text Citation
+
+Author’s Family Name Year of publication
+
+> "O'Keeffe became inspired by New Mexico's natural beauty in 1917 when she travelled from Texas to vacation in Colorado" (Buhler, Poling-Kempes and Turner 2004, 89).
+
+> *Captured Lives: Australian Captivity Narrative* explores attitudes and emotional responses to contemporary challenges (Darian-Smith 1993).
+
+##### Reference list
+
+Create the reference list entry according to the rules for the source. List authors in the order in which they appear in the source. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
+
+Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book*. Place of Publication: Publisher's Name.
+
+> Baratay, Eric and Elisabeth Hardouin Fugier. 2002. *Zoo*. London: Reaktion Books.
+> 
+> Buhler Lynes, Barbara, Lesley Poling-Kempes and Frederick W. Turner. 2004. *Georgia O'Keeffe and New Mexico: A Sense of Place*. Princeton: Princeton University Press.
+> 
+> Darian-Smith, Kate, Kay Schaffer, and Roslyn Poignant. 1993. *Captured Lives: Australian Captivity Narratives*. London: Menzies Centre for Australian Studies Monograph, University of London.
 
 ###### end-subtype-content
 
@@ -1416,11 +1786,59 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Captions/Figures
 
 ###### start-subtype-content
 
-CONTENT
+- When including diagrams, graphs, maps, photographs, etc. within your assignment, a caption provides a description or an explanation of the contents of the visual image. Captions provide a description of the visual images in your work.
+
+- A figure number is used in the caption to identify each visual work. These figures are numbered sequentially in the order in which they appear.
+
+- Number figures consecutively in italics throughout your work using Arabic numerals, 1, 2, 3 and so on, taking care to order them as they appear within the text.
+
+- The first figure is labelled Figure 1, the second, Figure 2, the third, Figure 3 and so on.
+
+#### Captions for Artworks/Images
+
+Figure number. Artist’s Given Name Artist’s Family Name, *Title of work*, Year produced. Medium, Dimensions, Source - Publishing details of where you found it, URL.
+
+##### Example 1
+
+> ![Sample image](images/Design-for-Coach-no.3022.jpg)
+> 
+> Figure 1. Author unknown, *Design for Coach: no. 3022*, 1874. Pen and black ink, watercolor and gouache with gum arabic, 18.1 x 24.8 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/378235
+
+##### Example 2
+
+> ![Sample image](images/Dragon_tapestry.jpg)
+> 
+> Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733? 
+
+Or if located in a book  
+
+> Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, in Alicia Jaynes and James Liaw, Weaving in silk, (London: Periwinkle Press: 1968), 37.
+
+#### In-Text Citation
+
+Make sure you refer to the figure in your writing and include the figure number. The word figure is always written in full and lower case, except when in parentheses when it is abbreviated (fig. 1).
+
+> American carriage manufacturers Brewster & Co., were highly regarded for design, finish and quality as illustrated in the drawing *Design for Coach, no. 3022* (1874, fig.1)
+
+#### Captions for your own Work
+
+- Images you create of your own work are not usually referenced. However, a caption such as “Figure 2. Illustration by author” or “Figure 3. Draft sketches” might be appropriate when other images in your assignment are referenced.
+
+Figure number. Description or explanation.
+
+> Figure 1. Author’s photograph showing design development.
+
+#### Copyright information for the coach image
+
+This [coach image](https://www.metmuseum.org/art/collection/search/378235) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
+
+#### Copyright information for the tapestry image
+
+This [Dragon tapestry image](https://www.metmuseum.org/art/collection/search/39733) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
 ###### end-subtype-content
 
@@ -1429,11 +1847,79 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Tables and Graphs
 
 ###### start-subtype-content
 
-CONTENT
+#### Reproducing a table
+
+- When referencing a table from a book, an article or other sources, provide the page number where the table is located in text citation.
+
+- Assign a table number, title and description to each table you place in your document. The table number, title and description go above the table ie. Table 1, 2, 3 etc.
+
+- Acknowledge the original citation directly underneath the table.
+
+Begin with the word 'Source: ' or Sources:', in italics, followed by a colon, then followed by:
+
+- 'Reprinted from' if you copy the table exactly as found in the original source; or
+
+- 'Adapted from' if you have adapted or changed the table from the original source; or
+
+- 'Data from' if you have used the data from another source in your own table.
+
+- If you are writing for a journal, conference paper, thesis, website, etc. you must obtain written permission from the copyright owner to reuse the table in your work, and state the permission in the source note as: Source: Reprinted with permission from ...
+
+- Tables should be referred to in the text of your assignment by the table number you have used in your assignment so that your reader understands why you have included them.
+
+> Example - Adapting a table from a published journal article:
+> 
+> Table 1: Data for end of life nursing care
+> 
+> ![Sample image](images/sample-image.gif)
+> 
+> *Source*: Reprinted from Susan E. Lowey, *Nursing Care at the End of Life* (Geneseo, NY: Open SUNY Textbooks, 2015), table 3.1, http<nolink>://pressbooks.opensuny.org/nursingcare. Copyright 2015 by Susan E. Lowey (Creative Commons).
+
+##### In-Text Citation
+
+Author's Last Name/s Year of Publication, page number, table or graph number
+
+> As shown in Table 1, a basic foundation of understanding death and dying, including a brief historical examination of some main conceptual models associated with how patients cope with impending loss (Lowey 2015, 205, table 3.1).
+
+> As shown in Table 1, the average rainfall in Brisbane …
+
+> The average rainfall in Brisbane in February (see Table 1)…
+
+##### Reference List
+
+If for a book: First Author's Family Names, First Name, Other Author's First and Family Names. Year. Book Title: Subtitle. edition. Place of Publication: Publisher.
+
+> Chavas, Jean-Paul, David Hummels, and Brian D. Wright, eds. 2014. The Economics of Food Price Volatility. Chicago: University of Chicago Press.
+
+#### Reproducing or adapting a figure (chart, graph or other visual representation of data)
+
+Below the figure insert a caption begin with the word 'Source: ' or Sources:', in italics, followed by a colon, then followed by:
+
+- 'Reprinted from' if you copy the exactly as found in the original source; or
+
+- 'Adapted from' if you have adapted the data from the original source in your own chart or graph; or
+
+- 'Data from' if you have used the data from another source in your own chart or graph.
+
+##### In-Text Citation
+
+When citing a figure in-text include a reference to your own figure number and credit the author's figure as it appeared in the original source.
+
+(Author’s or Editor’s Surname Year of publication, page or pages, figure number)
+
+As shown in Figure 1, ... (Sobel 1993, 87, figure 5.3).
+
+##### Reference List
+
+Follow the reference list rules for the type of resource you are citing ie. book, journal etc.
+
+Author’s or Editor’s Surname, Given Name their role. Year of publication. *Title of Publication: Subtitle of Publication.* Place of publication: Publisher’s name.
+
+> Sobel, Richard ed., 1993. *Public Opinion in US Foreign Policy: The Controversy over Contra Aid.* Boston: Rowman and Littlefield.
 
 ###### end-subtype-content
 
@@ -1455,12 +1941,34 @@ CONTENT
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### BUTTON
+### Dataset
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-CONTENT
+An access date is only included in the reference list entry if no date of publication or revision can be determined from the source. In those cases—that is, when only an access date is used—record n.d. as the date of publication.
+
+#### In-Text Citation: Direct Quote
+
+(Author family name OR Organisation name Year of publication, page number or section heading)
+
+> … lowest annual rainfall of 388.7 millilitres recorded in 1967 at Melbourne Botanical Gardens weather station (Bureau of Meteorology 2022, 1).
+
+> “The difference between the Average Weekly Cash Earnings and Average Weekly Earnings series is the average weekly amount salary sacrificed” (Australian Bureau of Statistics 2020, under “Explanatory notes”).
+
+#### In-Text Citation: Paraphrase
+
+(Author family name OR Organisation name Year of publication)
+
+> Rainfall in February 2022 was amongst the lowest recorded for the month since 1964 when measurements began at the Melbourne Botanical Gardens weather station (Bureau of Meteorology 2022).
+
+#### Reference List
+
+Author family name, First name OR Organisation name. Year of publication. ‘Title of dataset.’ Identifying number if applicable. *Title of series if applicable*. Dataset. Accessed Month Day, Year if applicable. URL.
+
+> Australian Bureau of Statistics. 2020. ‘Table 15: Average weekly cash earnings, Australia by sector (dollars) – original.’ *6302.0 Average Weekly Earnings, Australia, May 2020.* Dataset. https<nolink>://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/may-2020
+> 
+> Bureau of Meteorology. 2022. ‘Melbourne Botanical Gardens.’ Station number 86232. *Monthly rainfall*. Dataset. http<nolink>://www.bom.gov.au/climate/data/?ref=ftr.
 
 ###### end-subtype-content
 
@@ -1469,11 +1977,45 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Fact sheet
 
 ###### start-subtype-content
 
-CONTENT
+Fact sheets are often authored and published by government departments, government agencies and organisations. They can be cited and referenced using their acronym, as for government reports.
+
+#### In-text Citation: Direct Quote
+
+(Author Family Name or Organisation Name or Organisation acronym year, page)
+
+> “With one of the fastest uptakes of internet and smartphone technology, significant opportunities have opened up for Melbourne tech businesses and startups to assist India's digital transformation” (Trade Victoria 2016, 2).
+
+> "NASA is researching prototype technologies such as airspace design, dynamic geofencing, congestion management and terrain avoidance for a UAS Traffic Management (UTM) system” (NASA 2017, 1).
+
+> At the time, NASA was collaborating with several partners to develop a safety system to ensure drones “do not collide with buildings, larger aircraft, or one another" (2017, 1).
+
+#### In-text citation: Paraphrase
+
+(Author Family Name or Organisation Name or Organisation acronym year)
+
+> The Indian market’s desire for agricultural products represents an export opportunity for Victorian businesses (Trade Victoria 2016).
+
+> At the time of the 2016 Census 4.1% of Melbournians spoke Mandarin at home (ABS, n.d.).
+
+> Trade Victoria (2016) promoted opportunities for the state’s medical and pharmaceutical industries in India.
+
+#### Reference list
+
+Author Family Name, First Name or Organisation Name. Year. *Title in italics*. City, State abbreviation: Publisher. URL.
+
+When the organisation-as-author and publisher are the same entity, include the organisation name in both places in the reference list entry.
+
+For hard copy fact sheets, omit the URL.
+
+> ABS (Australian Bureau of Statistics). n.d. *2016 Census data summary: cultural and language diversity fact sheet (Melbourne)*. Canberra, ACT: Australian Bureau of Statistics. https<nolink>://www.abs.gov.au/websitedbs/d3310114.nsf/home/Census+Data+Seminars/$File/Melbourne+Fact+Sheet.pdf.
+> 
+> NASA. 2017. *UTM: Air traffic management for low-altitude drones*. Washington, DC: NASA. https<nolink>://www.nasa.gov/sites/default/files/atoms/files/utm-factsheet-09-06-16.pdf.
+> 
+> Trade Victoria. 2016. *India*. Melbourne, VIC: State Government of Victoria. https<nolink>://global.vic.gov.au/\_\_data/assets/pdf\_file/0009/87039/India-Fact-Sheet.pdf.
 
 ###### end-subtype-content
 
@@ -1482,11 +2024,85 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Course materials
 
 ###### start-subtype-content
 
-CONTENT
+Examples of course materials are:
+
+- lectures
+
+- lecture recordings
+
+- PowerPoint slides from lectures
+
+#### Lectures
+
+##### In-text citation: Direct Quote
+
+(Lecturer’s Family Name Year of lecture)
+
+> The lecture focused on literature with the "recurring themes of individualism, collectivism, and questioning authority" (Hong 2015).
+
+##### In-text citation: Paraphrase
+
+(Lecturer’s Family Name Year of lecture)
+
+> Overall, the message in the children's literature was deemed to be a threat to the dictatorship (Hong 2015).
+
+##### Reference list
+
+Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date. Format.
+
+> Hong, Viviana. 2015. “Censorship in Children’s Literature during Argentina’s Dirty War (1976–1983)” EDU1234: Issues in Children’s Literature. Chicago: University of Chicago. April 30, 2015. Lecture.
+
+#### Lecture recordings
+
+##### In-text citation: Direct Quote
+
+Add a time stamp in the format of HH:MM:SS when quoting directly from a lecture recording.
+
+(Lecturer’s Family Name Year of lecture, HH:MM:SS)
+
+> Protocols are regarded as "nothing but a set of rules that govern data communication." (Fry 2016, 00:14:32).
+
+##### In-text citation: Paraphrase
+
+(Lecturer’s Family Name Year of lecture)
+
+> The lecture presented data communication and net-centric computing (Fry 2016).
+
+##### Reference list
+
+Include the lecture URL if there is one available. If the course materials can only be accessed with an account login, include a general URL to the site or the database name.
+
+Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date of lecture. Format. URL or Database name.
+
+> Fry, Andrew. 2016. "Lecture 2 - Data Communication and Net-Centric Computing: Lecture 8." COSC1111: *Data Communication and Net-Centric Computing.* Melbourne: RMIT University. March 8, 2016. Lecture recording. Canvas.
+
+#### PowerPoint slides from lectures
+
+##### In-text citation: Direct Quote
+
+Add the slide number when quoting directly from a PowerPoint presentation.
+
+(Lecturer’s Family Name Year of lecture, slide number)
+
+> Giving consideration to the "cultural, economic and social issues of indigenous communities is an important step in the decision making process ... " (Sample 2017, slide 4).
+
+##### In-text citation: Paraphrase
+
+(Lecturer’s Family Name Year of lecture)
+
+> The rights of indigenous people include ... (Sample 2017).
+
+##### Reference list
+
+Include the lecture URL if there is one available. If the course materials can only be accessed with an account login, include a general URL to the site or the database name.
+
+Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date accessed. Format. URL or Database name.
+
+> Sample, Sara. 2017. "Human rights in indigenous communities: Lecture 8." HUSO2301: *Applied Human Rights and indigenous Peoples.* Melbourne: RMIT University. Accessed April 10, 2017. Powerpoint presentation. Canvas.
 
 ###### end-subtype-content
 
@@ -1495,11 +2111,45 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Personal communication
 
 ###### start-subtype-content
 
-CONTENT
+Examples of personal communication include:
+
+- private conversations
+
+- phone calls
+
+- letters
+
+- emails
+
+- direct messages on social media
+
+Personal communication is best cited in-text only and does not need to be included in the reference list.
+
+#### In-text citation
+
+For in-text citations:
+
+- Include the correspondent’s full name, type of communication, and date.
+
+- Use “author” instead of your name.
+
+- Request permission from the correspondent to directly quote if possible.
+
+Include the correspondent’s names, medium if relevant, and date of communication.
+
+> In conversation with the author on May 5, 2020, a contact tracer confirmed that
+
+> "There was no indication of any sickness" (V. Smith, personal communication September 10, 2017).
+
+> (Diane Evans, Instagram message to author, February 24, 2019).
+
+#### Reference list
+
+Information obtained from personal communication does not need to be included in the reference list, and should only be referenced in-text.
 
 ###### end-subtype-content
 
@@ -1508,11 +2158,61 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Published interviews
 
 ###### start-subtype-content
 
-CONTENT
+##### In-Text Citation
+
+The interviewees family name and year of publication are needed for an in-text citation.
+
+> (Herndon and Dryhurst 2020)
+
+> In the interview Stamper describes… (2017)
+
+##### Reference list
+
+For the reference list:
+
+- Published interviews follow the same rules as the relevant type of publication, except that the interviewee is treated as the author, and the interviewer is included after the title of content.
+
+- Include an accessed date, followed by URL for any online material.
+
+Interviewee’s Family Name, Given Name. Year of publication. “Title of content”. Interview by Interviewer’s Full Name. *Title of Publication*. Date of publication. Format. Accessed date. URL.
+
+> Herndon, Holly and Mat Dryhurst. 2020. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening).” Interview by Sean Dockray. *Liquid Architecture*. January 20, 2020. Podcast, 1:11:00. Accessed July 9, 2021. https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474.
+> 
+> Stamper, Kory. 2017. “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English.” Interview by Terry Gross. *Fresh Air*, NPR, April 19, 2017. Audio, 35:25. Accessed July 9, 2021. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english.
+
+#### Unpublished interviews
+
+Unpublished interviews are usually treated as personal communication, and are best cited in-text without a reference list entry.
+
+##### In-Text Citation
+
+The interviewee’s family name and year of interview are needed for an in-text citation.
+
+If the interviewee is anonymous or you cannot reveal their name, include an explanation (e.g. all interviews were confidential) and cite in-text only.
+
+> (Artcore 2019)
+
+> In an interview with a contact tracer on August 4, 2020, it was revealed that…
+
+##### Reference list
+
+For the reference list:
+
+- If you have conducted the interview yourself, use “author” instead of your full name.
+
+- Include the location of any recordings or transcripts if available.
+
+- If the interviewee is not identified do not included a reference list entry, and instead cite in-text only.
+
+
+Interviewee’s Family Name, Given Name. Interview by Interviewer’s Full Name. Date of interview. Place.
+
+> Artcore, Lance. 2019. Interview by author. April 23, 2019. Melbourne.
+
 
 ###### end-subtype-content
 
@@ -1521,11 +2221,40 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Student's own work
 
 ###### start-subtype-content
 
-CONTENT
+- Citing yourself as an authority on your own opinion should be avoided.
+
+- Check first with your lecturer or teacher if it is permissible to cite your own previously submitted work.
+
+- Using parts of your old assignments in new assignments without referencing is self-plagiarism.
+
+If you copy and paste parts of your old assignments, make sure you reference them the same way you would reference any other source.
+
+If you cite or quote your previous work, treat yourself as the author and your own previous course work as an unpublished manuscript.
+
+#### In-Text Citation: Direct Quote
+
+(Student Family Name year, page)
+
+> "Risk-taking behaviours are characteristic of this personality trait" (Smith 2018, 3).
+
+#### In-Text Citation: Paraphrase
+
+(Student Family Name year)
+
+> It is noteworthy that risk-taking behaviours … (Smith 2018).
+
+> Smith (2018) argued that without insight …
+
+#### Reference list
+
+Student Family Name, Given Name. Year. "Title of work." Unpublished manuscript, last modified Month Day, Year. University, City. Format.
+
+> Smith, Jane. 2018. "An analysis of personality theory." Unpublished manuscript, last modified September 4, 2018. RMIT University, Melbourne. Microsoft Word file.
+
 
 ###### end-subtype-content
 
@@ -1534,11 +2263,35 @@ CONTENT
 
 ###### start-subtype-item
 
-### BUTTON
+### Thesis or dissertation
 
 ###### start-subtype-content
 
-CONTENT
+#### In-text citation: Direct Quote
+
+(Author’s Family Name Year of award, page/s).
+
+> “Human activity has shaped landscapes to such an extent for so many thousands of years that managing landscapes is now a given” (Court 2019, 34).
+
+#### In-text citation: Paraphrase
+
+(Author’s Family Name Year of award).
+
+> Landscape management has naturally evolved from humans shaping the landscape over thousands of years. (Court 2019).
+
+#### Reference list
+
+If the thesis or dissertation is accessed online, include a URL. However, if the URL requires an account login, include only the database or repository name.
+
+Hard copy theses or dissertations do not require a URL or database/repository name.
+
+When the document is labelled PhD dissertation, use the abbreviation PhD diss.
+
+Author’s Family Name, Author’s Given Name. Year of Award. “Title of Thesis or Dissertation: Subtitle.” Master's thesis, PhD thesis or PhD diss., University’s Name. URL or Database/Repository name (Document identifier).
+
+> Court, Tanya. 2019. "The Site Re-Presented: Everyday Civic Landscapes." PhD diss., RMIT University. RMIT Research Repository (9921864000901341).
+> 
+> Rutz, Cynthia Lillian. 2013. “King Lear and Its Folktale Analogues.” PhD diss., University of Chicago.
 
 ###### end-subtype-content
 

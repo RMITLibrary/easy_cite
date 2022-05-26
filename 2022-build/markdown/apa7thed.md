@@ -1473,7 +1473,7 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 
 > {.figure-text}**Figure 1**<br>
 > *Dose Distributions for a Left-Breast Tumor*<br>
-> ![Sample image](markdown/images/sample-image.gif)<br>
+> ![Sample image](images/sample-image.gif)<br>
 > Note. Dose distributions for a left-breast tumor (a, b) at the level of surgical bed defined by titanium clips (arrows) and the corresponding DVH (c, d) for supine (left) and prone (right) positions. From “Pilot Study of Feasibility and Dosimetric Comparison of Prone Versus Supine Breast Radiotherapy,” by E. Fernandez-Lizarbe, A. Montero, A. Polo, R. Hernanz, R. Moris, S. Formenti, and A. Ramos, 2013, *Clinical and Translational Oncology*, 15, p. 453 (https<nolink>://doi.org/10.1007/s12094-012-0950-8). Copyright 2013 by Springer International Publishing. {/.figure-text}
 
 #### Reference list
@@ -1527,7 +1527,7 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 
 > {.figure-text}**Figure 2**<br>
 *Anatomy of the Thyroid and Parathyroid Glands*<br>
-![anatomical illustration showing thyroid and parathroid glands](markdown/images/ThyroidParathyroidAnatomy96dpi.jpeg)<br>
+![anatomical illustration showing thyroid and parathroid glands](images/ThyroidParathyroidAnatomy96dpi.jpeg)<br>
 *Note*. Anatomy of the thyroid and parathyroid glands. From "Parathyroid cancer Treatment (PDQ®) – Patient Version," by National Cancer Institute, 2016, (https<nolink>://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq). Copyright 2012 by Terese Winslow LLC. Reprinted with permission. {/.figure-text}
 
 Acknowledgement for the use of the image in this guide: For the National Cancer Institute © 2012 Terese Winslow LLC, U.S. Govt. has certain rights.
@@ -1593,7 +1593,7 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 
 > {.figure-text}**Figure 3**<br>
 *Lumbar Intervertebral Disc Herniation*<br>
-![Sample image](markdown/images/sample-image.gif)<br>
+![Sample image](images/sample-image.gif)<br>
 *Note*. Graphic of large recurrent disc herniation shows displacement of the nuclear material through a large defect in the posterior annular fibers with effacement of the ventral thecal sac and displacement of the intrathecal nerve roots. From "Lumbar Intervertebral Disc Herniation," by J. S. Ross, 2017, Imaging Reference Center (https<nolink>://app.imagingreferencecenter.com). Copyright 2017 by J. S. Ross. {/.figure-text}
 
 #### Reference list
@@ -1647,7 +1647,7 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 
 > {.figure-text}**Figure 4**<br>
 *MRI*<br>
-![MRI](markdown/images/MRI_machine.jpeg)<br>
+![MRI](images/MRI_machine.jpeg)<br>
 *Note*. A magnetic resonance imaging machine. From "MRI," by L. West, 2012, (https<nolink>://www.flickr.com/photos/calliope/7694882446). Copyright 2012 by L. West. CC BY 2.0.{/.figure-text}
 
 #### Reference list

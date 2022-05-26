@@ -831,7 +831,7 @@ The caption beneath the image should include:
 
 - a reference number in parentheses. For example, if it is the 15th source cited in your document, the reference number will be (15).
 
-> ![Sample image](markdown/images/sample-image.gif)<br>
+> ![Sample image](images/sample-image.gif)<br>
 > Figure 1. Glenohumeral joint. (15)
 
 #### Reference list
@@ -878,7 +878,7 @@ the description used in the original source
 
 - a reference number in parentheses. For example, if it is the 11th source cited in your document, the reference number will be (11).
 
-> ![Sample image](markdown/images/sample-image.gif)<br>
+> ![Sample image](images/sample-image.gif)<br>
 > Figure 1. Dose distributions for a left-breast tumor (a, b) at the level of surgical bed defined by titanium clips (arrows) and the corresponding DVH (c, d) for supine (left) and prone (right) positions. (11)
 
 #### Reference list
@@ -928,7 +928,7 @@ The caption beneath the image should include:
 
 - its reference number in parentheses. For example, if it is the 12th source cited in your document, the reference number will be (12).
 
-> ![anatomical illustration showing thyroid and parathroid glands](markdown/images/ThyroidParathyroidAnatomy96dpi.jpeg)<br>
+> ![anatomical illustration showing thyroid and parathroid glands](images/ThyroidParathyroidAnatomy96dpi.jpeg)<br>
 > Figure 2. Anatomy of the thyroid and parathyroid glands. (12)
 
 #### Images not given a title in the original source
@@ -1001,7 +1001,7 @@ The caption beneath the image should include:
 
 - its reference number in parentheses. For example, if it is the 16th source cited in your document, the reference number will be (16).
 
-> ![Sample image](markdown/images/sample-image.gif)<br>
+> ![Sample image](images/sample-image.gif)<br>
 > Figure 3. Graphic of large recurrent disc herniation shows displacement of the nuclear material through a large defect in the posterior annular fibers with effacement of the ventral thecal sac and displacement of the intrathecal nerve roots. (16)
 
 #### Reference list
@@ -1071,7 +1071,7 @@ The caption beneath the image should include:
 
 If an image has not been given a title or a description, e.g. a photograph, create an appropriate title and enter it in square brackets. For example, [Scar tissue on knee].
 
-> ![MRI](markdown/images/MRI_machine.jpeg)<br>
+> ![MRI](images/MRI_machine.jpeg)<br>
 > Figure 4. MRI. (17)
 
 #### Reference list

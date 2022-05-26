@@ -26,7 +26,7 @@ Author. Year. "Title of Webpage." Website name (owning organisation). Date viewe
 
 > Alliance for Linguistic Diversity. n.d. “Balkan Romani.” Endangered Languages. Accessed April 6, 2016. http<nolink>://www.endangeredlanguages.com/lang/5342.
 > 
-> Australian Society for Indigenous Languages. n.d. "Supporting Indigenous Language Communities." Australian Society for Indigenous Languages. Accessed July 26, 2018. http://www.ausil.org.au/.
+> Australian Society for Indigenous Languages. n.d. "Supporting Indigenous Language Communities." Australian Society for Indigenous Languages. Accessed July 26, 2018. http<nolink>://www.ausil.org.au/.
 > 
 > Scrubt, Mark. 2017. "Iceberg Palace: Halo House." ArchitectureAU. Accessed September 30, 2017. https<nolink>://architectureau.com/articles/halo-house/.
 
@@ -56,11 +56,11 @@ Author. Year. "Title of Webpage." Website name (owning organisation). Date viewe
 
 #### Reference List
 
-Author's Family Name, Given Name OR Organisation Name. Year. _Document Title: Subtitle_. Document No. Place of Publication: Publisher. DOI or URL.
+Author's Family Name, Given Name OR Organisation Name. Year. *Document Title: Subtitle*. Document No. Place of Publication: Publisher. DOI or URL.
 
-> Australia. Department of Agriculture, Fisheries and Forestry. 2003. _Quarantine Requirements for the Importation of Live Laboratory Rats and Mice and Their Reproductive Material_. http<nolink>://www.daff.gov.au/\_\_data/assets/pdf\_file/0016/13822/2003-06a.pdf.
+> Australia. Department of Agriculture, Fisheries and Forestry. 2003. *Quarantine Requirements for the Importation of Live Laboratory Rats and Mice and Their Reproductive Material*. http<nolink>://www.daff.gov.au/\_\_data/assets/pdf\_file/0016/13822/2003-06a.pdf.
 > 
-> Centre for Epidemiology and Evidence. 2017. _NSW Mothers and Babies Report 2016_. Sydney: NSW Health. http<nolink>://www.health.nsw.gov.au/hsnsw/Publications/mothers-and-babies-2016.pdf.
+> Centre for Epidemiology and Evidence. 2017. *NSW Mothers and Babies Report 2016*. Sydney: NSW Health. http<nolink>://www.health.nsw.gov.au/hsnsw/Publications/mothers-and-babies-2016.pdf.
 
 ### Blog post
 
@@ -90,15 +90,15 @@ If directly quoting from a source without a page number, use a paragraph number 
 
 #### Reference list
 
-Author Family Name, Given Name. Year Posted. "Title of Blog Post." _Title of Blog_ (blog). Month day, year posted. Accessed Month day, Year. URL.
+Author Family Name, Given Name. Year Posted. "Title of Blog Post." *Title of Blog* (blog). Month day, year posted. Accessed Month day, Year. URL.
 
 The word blog is added in brackets after the title of the blog, unless the word blog is part of the title.
 
-> “Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. _State Library of Victoria Blog_. June 26, 2017. Accessed April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt.
+> “Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. *State Library of Victoria Blog*. June 26, 2017. Accessed April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt.
 > 
-> Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." _Vogue_ (blog). May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db.
+> Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue* (blog). May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db.
 > 
-> Riley, Margot. 2022. “Take 5 ice creams.” _State Library of New South Wales: Blogs_. January 28, 2022. Accessed April 12, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams.
+> Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs*. January 28, 2022. Accessed April 12, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams.
 
 ### Social Media
 
