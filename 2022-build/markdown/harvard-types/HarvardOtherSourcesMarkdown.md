@@ -46,7 +46,7 @@ In your reference list:
 
 Take care to give accurate and complete details about legislation (Acts) and legal cases. The *Legal Material* section of the [Australian Government Style Manual](https://www.stylemanual.gov.au/referencing-and-attribution/legal-material) provides more detail and examples regarding the use of legal materials.
 
-### Legislation (Act)
+#### Legislation (Act)
 
 When discussing government policies and services that require you to refer to the relevant law(s), the title of legislation (Act) is generally placed first, followed by the relevant subsections.
 
@@ -56,7 +56,7 @@ Depending on the context, you might need to refer to specific sections, paragrap
 
 The units are written in lower case unless they begin a sentence. Units of an Act can be written in long or abbreviated form. Do not begin sentences with the abbreviated form.
 
-#### In-text reference: Direct quotes
+##### In-text reference: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available) or pinpoint reference.
 
@@ -64,7 +64,7 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 > Section 55 of the *Competition and Consumer Act 2010* (Cth) states that 'there is a guarantee that the goods are reasonably fit for any disclosed purpose, and for any purpose for which the supplier represents that they are reasonably fit'.
 
-#### In-text reference: Paraphrasing
+##### In-text reference: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -76,47 +76,47 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 > Multiple jurisdictions have laws pertaining to the management of water supply in the Murray-Darling Basin, including the *Water Act 1989* (Vic), *Natural Resources Management Act 2004* (SA) and *Water Act 2007* (Cth).
 
-#### Reference list entry
+##### Reference list entry
 
 In your reference list: For a piece of **legislation (Act)**, include the title of the Act and year in italics, followed by the abbreviated jurisdiction in parentheses (e.g. Vic, Cth, etc.). For example, 'Commonwealth' is abbreviated to (Cth). Do not italicise the jurisdiction.
 
-##### Rule
+**Rule**
 
 > *Title of Act Year* (abbreviated jurisdiction).
 
-##### Examples
+**Examples**
 
 > *Child Wellbeing and Safety Act 2005* (Vic).
 > 
 > *Water Act 2007* (Cth).
 
-### Legal case
+#### Legal case
 
 For a legal case, include the name of the case (parties) in italics, followed by the year in parentheses (e.g. 1975, 2008). Then put the volume number of the report series (e.g. 133, 237), the report series abbreviation (e.g. CLR, FCR, IR, HCA, FCA, FWC), and the page number where the case begins (e.g. 1). Only italicise the case name, not the other sections.
 
 With direct quotes, include the location of the quote using a page number (if available). To specify a page number, use the word **at** rather than **p**, e.g. 'at 72'.
 
-#### In-text reference: Direct quotes
+##### In-text reference: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
 > It was identified that '...' (*Beasley v Francis* (2008) 237 CLR 1 at 72).
 
-#### In-text reference: Paraphrasing
+##### In-text reference: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
 > The case examined...(*University of New South Wales v Moorhouse and Angus & Robertson (Publishers) Pty Ltd* (1975) 133 CLR 1).
 
-#### Reference list entry
+##### Reference list entry
 
 In your reference list: For a **legal case**, include the name of the case (parties) in italics, followed by the year in parentheses (e.g. 1975). Then put the volume number of the report series (e.g. 133), the report series abbreviation (e.g. CLR, FCR, IR, HCA, FCA, FWC), and the page number where the case begins (e.g. 1). Only italicise the case name, not the other sections.
 
-##### Rule
+**Rule**
 
 > *Name of case* (Year) Volume number of report series Abbreviation of report series Page number where case begins.
 
-##### Example
+**Example**
 
 > *University of New South Wales v Moorhouse and Angus & Robertson (Publishers) Pty Ltd* (1975) 133 CLR 1.
 

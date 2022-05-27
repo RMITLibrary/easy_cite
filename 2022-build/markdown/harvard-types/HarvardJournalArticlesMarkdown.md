@@ -244,8 +244,8 @@ In your reference list:
 
 - For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
-> ##### Examples
-> 
+##### Examples
+
 > Barkela B (2021) 'Leadership communication and knowledge integration across the artistic, technical and administration area in theaters', *Journal of Arts Management, Law, and Society*, 51(6):393-409, doi:10.1080/10632921.2021.1974628.
 > 
 > Llaha F, Gil-Lespinard M, Unal P, de Villasante I, Castañeda J and Zamora-Ros R (2021) 'Consumption of sweet beverages and cancer risk. A systematic review and meta-analysis of observational studies', *Nutrients*, 13(2):516, accessed 26 November 2021. https<nolink>://www.mdpi.com/2072-6643/13/2/516/htm
