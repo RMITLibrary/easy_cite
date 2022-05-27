@@ -34,7 +34,7 @@ In your reference list:
 
 ##### Example
 
-> Mewburn I (10 June 2020) 'Why academic writing sucks (and how we can fix it)', *The Thesis Whisperer*, accessed 31 November 2021. https://thesiswhisperer.com/2020/06/10/why-academic-writing-sucks-and-how-we-can-fix-it/
+> Mewburn I (10 June 2020) 'Why academic writing sucks (and how we can fix it)', *The Thesis Whisperer*, accessed 31 November 2021. https<nolink>://thesiswhisperer.com/2020/06/10/why-academic-writing-sucks-and-how-we-can-fix-it/
 
 ##### Rule (no author)
 
@@ -42,7 +42,7 @@ In your reference list:
 
 ##### Example
 
-> Welcome to Country (6 August 2021), 'Bush food of Australia aka bush tucker', *Welcome to Country*, accessed 2 November 2021. https://www.welcometocountry.com/blog/an-introduction-to-bush-foods/
+> Welcome to Country (6 August 2021), 'Bush food of Australia aka bush tucker', *Welcome to Country*, accessed 2 November 2021. https<nolink>://www.welcometocountry.com/blog/an-introduction-to-bush-foods/
 
 ### Social media post
 

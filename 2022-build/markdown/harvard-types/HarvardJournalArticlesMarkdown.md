@@ -173,11 +173,17 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 In your reference list:
 
 - In place of the author, put the article title and the publication year in brackets. Enclose the title of the article in single inverted commas (quotation marks).
+
 - If no publication year supplied, write **n.d.** (for 'no date'). If the year can be reliably estimated or inferred from the text, then write **c.** (meaning ‘circa’ or approximately) followed by the year.
+
 - Italicise the journal title.
+
 - After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
+
 - If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop if the work was sourced from a print (physical) journal. If the work was sourced from an online e-Journal and there is no DOI, add the database name (if sourced from library database) or URL (if sourced from website) instead. Please see section on **e-Journal article** for more details.
+
 - For database names, leave out the accessed date and add the database name at the end, followed by the word **database**.
+
 - For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule

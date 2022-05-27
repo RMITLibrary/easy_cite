@@ -21,7 +21,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 The examples below come from sources that do not have page numbers:
 
 > COVID-19 and climate change have had such a huge impact on the world that they both 'have exacerbated malnutrition in all its forms and threatened the sustainability and resilience of food systems around the world' (WHO 2021).
-> 
+
 > Heath (2021) explains that artificial intelligence is seen as being 'tied to a system's ability to adapt and improvise in a new environment, to generalise its knowledge and apply it to unfamiliar scenarios'.
 
 #### In-text reference: Paraphrasing
