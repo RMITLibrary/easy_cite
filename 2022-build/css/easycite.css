@@ -388,3 +388,46 @@ button.nav-link.active:focus {
 .easyaccbutton.active:focus {
 	outline: 1px solid #777777 !important;
 }
+@media (max-width: 767.98px) {
+/* for modifying for mobile */
+
+/* hamburger collapse styling */
+ul.navbar-nav 
+{
+	flex-direction: column;
+/*
+	display:none;*/
+}
+ul.navbar-nav  > li 
+{
+/* 
+	display:none;*/
+}
+ul.navbar-nav  > li > a
+{
+/* 
+	display:none;*/
+}
+
+ 
+	#nav-tab /* red tabs */ > li 
+{
+	
+
+	
+	
+	
+}
+#pills /* blue pills */
+{
+	/* display:none; */
+}
+
+.notabutton /* probably hide the print option on mobile */
+{
+	display:none;
+}
+
+	 /* display:none; */
+ }
+	

@@ -434,7 +434,7 @@ if ($whichstyleguide == "styleguide-0"){
 // DONE!! fixed accessibility issues: heading hierarchy (removed H4 heading from accordion body) 
 // DONE!! Harvard example reference list was messing up the accordion width due to a URL that wasn't wrapping properly - not a proper fix. Not sure why???
 // tabbing issues across different browsers - how to make it more consistent?
-// 
+// Make media queries all the same pixel value
 	
 	
 //OUTPUT THE PARSED CONTENT TO HTML
