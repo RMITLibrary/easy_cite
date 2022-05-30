@@ -68,7 +68,7 @@ This guide is based on the Chicago Manual of Style 17th edition [The Chicago man
 
 ###### start-subtype-item
 
-### General rules for Chicago notes - Footnotes and endnotes
+### General rules for Chicago notes - footnotes and endnotes
 
 ###### start-subtype-content
 
@@ -264,7 +264,7 @@ In the note, cite only the name of the first-listed author followed by et al. Au
 
 ###### start-subtype-item
 
-### General rules for multiple authors - Bibliography
+### General rules for multiple authors - bibliography
 
 ###### start-subtype-content
 
@@ -311,7 +311,7 @@ List authors in the order in which they appear in the source. List the first sev
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
 ### Books
 
 <!-- first accordion item -->
@@ -645,7 +645,7 @@ As exhibition catalogues and brochures are often published like a book, referenc
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
 ### BUTTON
 
 <!-- first accordion item -->
@@ -683,7 +683,7 @@ CONTENT
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
 ### BUTTON
 
 <!-- first accordion item -->
@@ -722,7 +722,7 @@ CONTENT
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
 ### BUTTON
 
 <!-- first accordion item -->
@@ -825,7 +825,7 @@ CONTENT
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
 ### BUTTON
 
 <!-- first accordion item -->
@@ -889,7 +889,7 @@ CONTENT
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
 ### BUTTON
 
 <!-- first accordion item -->
@@ -940,7 +940,7 @@ CONTENT
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
 ### BUTTON
 
 <!-- first accordion item -->
@@ -1006,7 +1006,7 @@ CONTENT
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
 ### BUTTON
 
 <!-- first accordion item -->
