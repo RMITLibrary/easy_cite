@@ -108,7 +108,7 @@
                     <div class="ecinstructbox">
 						<h3>How to use Easy Cite referencing resources</h3>
                     <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago author-date (Chicago A) and Chicago notes/bibliography (Chicago B), IEEE and Vancouver.</p>
-                    <p>Easy Cite is intended as a guide only sand some styles are open to interpretation. Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar existing types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
+                    <p>Easy Cite is intended as a guide only and some styles are open to interpretation. Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar existing types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
 					<p>You should always check with your teacher or lecturer to ensure you are using the correct style for your assignments and assessment tasks.</p>
                 
                     </div>
@@ -222,7 +222,7 @@ $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div>', $my
 // HANGING INDENTS
 $mylist = preg_replace("/{.hanging-indent}/s", '<div class="hanging-indent">', $mylist);
 $mylist = preg_replace("/{\/.hanging-indent}/s", '</div>', $mylist);
-// footnote INDENTS
+// FOOTNOTE INDENTS
 $mylist = preg_replace("/{.footnote-indent}/s", '<div class="footnote-indent">', $mylist);
 $mylist = preg_replace("/{\/.footnote-indent}/s", '</div>', $mylist);
 // IEEE reference list
