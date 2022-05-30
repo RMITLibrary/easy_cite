@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,13 +8,6 @@
     <title>EasyCite</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.png" />
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-MBF5VGG');</script>
-	<!-- End Google Tag Manager -->
     <!-- Core theme CSS, JS & JQUERY (includes Bootstrap)-->
     <!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 	<link href="css/main.css" rel="stylesheet">
@@ -80,7 +72,7 @@
                   </a>
                
       </div>
-	  <h1 class="echeadtitle">Easy Cite - V2 (Beta)</h1>
+	  <h1 class="echeadtitle">Easy Cite - beta</h1>
   		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -198,13 +190,13 @@ $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whic
 	
 //PILLS
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div class="tab-content" id="nav-tabContent-xx"><div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex flex-row flex-wrap">', $mylist);
-$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
-$mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); //btn btn-outline classes in the nav-link classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
+$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">', $mylist);
+$mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="v-pills-yy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-yy" type="button" role="tab" tabindex="0" aria-controls="v-pills-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); //btn btn-outline classes in the nav-link classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	//btn btn-outline classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
+$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="v-pills-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	//btn btn-outline classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
 // ACCORDIONS
-$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-12 col-sm-9 flex-grow-1"><div id="printable-guide"><div class="tab-content" id="stnContent-yy">', $mylist);
-$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print this part of the style guide (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
+$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-12 col-sm-9 flex-grow-1"><div id="printable-guide"><div class="tab-content" id="v-pills-tabContent-yy">', $mylist);
+$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="v-pills-yy" role="tabpanel" aria-labelledby="v-pills-yy-tab"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print this part of the style guide (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
 </svg></button></div>', $mylist);	
@@ -303,40 +295,40 @@ foreach($matches5[0] as $titles5){
 }
 //set unique ID names for PILLS
 $counter60 = 0;
-preg_match_all("/id=\"stnContent-yy\"/", $mylist, $matches60 );
+preg_match_all("/id=\"v-pills-tabContent-yy\"/", $mylist, $matches60 );
 foreach($matches60[0] as $titles60){
-	$mylist = preg_replace("/id=\"stnContent-yy\"/", "id=\"stnContent-$counter60\"", $mylist, 1);
+	$mylist = preg_replace("/id=\"v-pills-tabContent-yy\"/", "id=\"v-pills-tabContent-$counter60\"", $mylist, 1);
 	++$counter60;
 }		
 $counter6 = 0;
-preg_match_all("/id=\"stn-yy\"/", $mylist, $matches6 );
+preg_match_all("/id=\"v-pills-yy-tab\"/", $mylist, $matches6 );
 foreach($matches6[0] as $titles6){
-	$mylist = preg_replace("/id=\"stn-yy\"/", "id=\"stn-$counter6\"", $mylist, 1);
+	$mylist = preg_replace("/id=\"v-pills-yy-tab\"/", "id=\"v-pills-$counter6-tab\"", $mylist, 1);
 	++$counter6;
 }
 
 $counter7 = 0;
-preg_match_all("/data-bs-target=\"#sgt-yy\"/", $mylist, $matches7 );
+preg_match_all("/data-bs-target=\"#v-pills-yy\"/", $mylist, $matches7 );
 foreach($matches7[0] as $titles7){
-	$mylist = preg_replace("/data-bs-target=\"#sgt-yy\"/", "data-bs-target=\"#sgt-$counter7\"", $mylist, 1);
+	$mylist = preg_replace("/data-bs-target=\"#v-pills-yy\"/", "data-bs-target=\"#v-pills-$counter7\"", $mylist, 1);
 	++$counter7;
 }
 $counter8 = 0;
-preg_match_all("/aria-controls=\"sgt-yy\"/", $mylist, $matches8 );
+preg_match_all("/aria-controls=\"v-pills-yy\"/", $mylist, $matches8 );
 foreach($matches8[0] as $titles8){
-	$mylist = preg_replace("/aria-controls=\"sgt-yy\"/", "aria-controls=\"sgt-$counter8\"", $mylist, 1);
+	$mylist = preg_replace("/aria-controls=\"v-pills-yy\"/", "aria-controls=\"v-pills-$counter8\"", $mylist, 1);
 	++$counter8;
 }
 $counter9 = 0;
-preg_match_all("/id=\"sgt-yy\"/", $mylist, $matches9 );
+preg_match_all("/id=\"v-pills-yy\"/", $mylist, $matches9 );
 foreach($matches9[0] as $titles9){
-	$mylist = preg_replace("/id=\"sgt-yy\"/", "id=\"sgt-$counter9\"", $mylist, 1);
+	$mylist = preg_replace("/id=\"v-pills-yy\"/", "id=\"v-pills-$counter9\"", $mylist, 1);
 	++$counter9;
 }
 $counter10 = 0;
-preg_match_all("/aria-labelledby=\"stn-yy\"/", $mylist, $matches10 );
+preg_match_all("/aria-labelledby=\"v-pills-yy-tab\"/", $mylist, $matches10 );
 foreach($matches10[0] as $titles10){
-	$mylist = preg_replace("/aria-labelledby=\"stn-yy\"/", "aria-labelledby=\"stn-$counter10\"", $mylist, 1);
+	$mylist = preg_replace("/aria-labelledby=\"v-pills-yy-tab\"/", "aria-labelledby=\"v-pills-$counter10-tab\"", $mylist, 1);
 	++$counter10;
 }		
 //set unique id names for ACCORDION
@@ -392,7 +384,7 @@ foreach($matches15[0] as $titles15){
 $counter18 = 0;
 preg_match_all("/thishash1/", $mylist, $matches18 );
 foreach($matches18[0] as $titles18){
-	$mylist = preg_replace("/thishash1/", "#stn-$counter18", $mylist, 1);
+	$mylist = preg_replace("/thishash1/", "#v-pills-$counter18-tab", $mylist, 1);
 	++$counter18;
 }
 // REPLACE accordion buttons javascript with unique ID
@@ -424,8 +416,6 @@ if ($whichstyleguide == "styleguide-0"){
 	$mylist = preg_replace("/id=\"nav-link-4\" class=\"nav-link/", 'id="nav-link-4" class="nav-link active', $mylist, 1);  
 }	else if ($whichstyleguide == "styleguide-5"){
 	$mylist = preg_replace("/id=\"nav-link-5\" class=\"nav-link/", 'id="nav-link-5" class="nav-link active', $mylist, 1);  
-}	else if ($whichstyleguide == "styleguide-6"){
-	$mylist = preg_replace("/id=\"nav-link-6\" class=\"nav-link/", 'id="nav-link-6" class="nav-link active', $mylist, 1);  
 }	else {
 	$mylist = preg_replace("/id=\"nav-link-0\" class=\"nav-link/", 'id="nav-link-0" class="nav-link active', $mylist, 1);  
 }
@@ -495,7 +485,7 @@ $(function(){
      }
 	else {
 		$("#subtype-0").collapse("show"); // default show first accordion-collapse
-		$("#stn-0").tab("show"); // default show first pills
+		$("#v-pills-0-tab").tab("show"); // default show first pills
 	};
 });
 </script>
@@ -513,7 +503,7 @@ if (location.hash !== null && location.hash !== "") { //check for hash
 		
 } else {
 	// else default to the first pill and accordion item
-	tabopen = "#stn-0";
+	tabopen = "#v-pills-0-tab";
 	accordopen = "#subtype-0";
 }
 var globalpillshash = tabopen;
@@ -522,7 +512,7 @@ var globalpillshash = tabopen;
 function myFunction(button, sethash){
 	// then add the global pills variable to the accordion variable if selected 
 	// to enable saving the correct pills/accordion position in the URL string.
-	if (sethash.includes("stn")){
+	if (sethash.includes("v-pills")){
 	   	var pillshash = sethash;
 		globalpillshash = sethash;
 		//console.log(pillshash);
@@ -544,7 +534,7 @@ function myFunction2(button, thisquery){
 		params.set('styleguide', thisquery);
 		params.toString(); // => styleguide=styleguide-3;
 		console.log(params.toString());
-		window.history.pushState({}, '', `${location.pathname}?${params.toString()}#stn-0`);
+		window.history.pushState({}, '', `${location.pathname}?${params.toString()}#v-pills-0-tab`);
 	}
 	//refresh the page...
 	location.reload();
