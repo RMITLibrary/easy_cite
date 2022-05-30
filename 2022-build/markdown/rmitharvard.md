@@ -11,7 +11,8 @@
 # RMIT Harvard
 # AGLC4
 # APA 7th ed.
-# Chicago 17
+# Chicago A
+# Chicago B
 # IEEE
 # Vancouver
 ###### end-style-menu

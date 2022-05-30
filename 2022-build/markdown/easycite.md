@@ -1,3 +1,0 @@
-## Easycite
-
-Hello world

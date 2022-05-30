@@ -11,7 +11,8 @@
 # RMIT Harvard
 # AGLC4
 # APA 7th ed.
-# Chicago 17
+# Chicago A
+# Chicago B
 # IEEE
 # Vancouver
 ###### end-style-menu
@@ -58,13 +59,7 @@
 
 The IEEE (Institute of Electrical and Electronics Engineers) citation style is a **numbered** style where references are numbered [1], [2], [3] in-text and so on in the order of appearance in the body of the document. A **Reference List** at the end of the work provides full details of all references cited in-text. The references are ordered as they appear in the in-text references (in order of citation, not in alphabetical order). You need to follow this style when acknowledging your information sources.
 
-#### Additional resources
-
-Download the IEEE referencing guide (DOCX, 74.8 KB, 14 pages) from:
-
-[Referencing guides for printing list](https://www.rmit.edu.au/library/study/referencing/referencing-guides-for-printing)
-
-[IEEE Author Center documents](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/)
+Download the complete IEEE referencing guide from [IEEE Author Center documents](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/)
 
 ###### end-subtype-content
 

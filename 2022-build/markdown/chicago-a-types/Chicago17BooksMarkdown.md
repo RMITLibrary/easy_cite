@@ -144,10 +144,10 @@ Name of Group/Organisation. Year. *Title of Book: Subtitle of Book.* Place of Pu
 
 #### Reference list
 
-*   Other types of editions may include revised edition rev.ed, and Asia-Pacific ed.
-*   Include the edition number followed by the abbreviation "ed." after the book title.
-*   There is no need to include edition information if no edition is mentioned on or in the book.
-*   Edition number is not included for first edition books.
+- Other types of editions may include revised edition rev.ed, and Asia-Pacific ed.
+- Include the edition number followed by the abbreviation "ed." after the book title.
+- There is no need to include edition information if no edition is mentioned on or in the book.
+- Edition number is not included for first edition books.
 
 Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Edition. Place of Publication: Publisher's Name.
 
@@ -199,8 +199,8 @@ Reference in the same way as other published books. If the author is unknown, re
 
 #### Reference list
 
-*   Include the exhibition title and date that the publication is associated with.
-*   For exhibition catalogue with no author or editor, begin with title of exhibition.
+- Include the exhibition title and date that the publication is associated with.
+- For exhibition catalogue with no author or editor, begin with title of exhibition.
 
 Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Place of Publication: Publisher’s Name. Published in conjunction with an exhibition of the same title, exhibition date.
 

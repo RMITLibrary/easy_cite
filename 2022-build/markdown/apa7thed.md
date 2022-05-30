@@ -11,7 +11,8 @@
 # RMIT Harvard
 # AGLC4
 # APA 7th ed.
-# Chicago 17
+# Chicago A
+# Chicago B
 # IEEE
 # Vancouver
 ###### end-style-menu
@@ -57,13 +58,6 @@ Use the American Psychological Association. (2020). Publication manual of the Am
 APA is an author-date referencing style. You need to follow this style when acknowledging your information sources.
 
 - APA style requires that all references in a document are to be cited in-text, and that all in-text citations are compiled in a reference list at the end of the document. In-text citations appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable). The reference list must provide full details of all in-text citations, and be arranged alphabetically by author.
-
-#### Additional resources
-
-[APA referencing examples (DOCX, 135 KB, 22 pages)](https://www.rmit.edu.au/content/dam/rmit/documents/library/referencing/APA-referencing-examples.docx) - MS Word document for downloading or printing
-
-[RMIT University Library Referencing Guides for printing](https://www.rmit.edu.au/library/study/referencing) - a full list of style guides used at RMIT
-
 
 
 ###### end-subtype-content

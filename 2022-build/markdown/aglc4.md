@@ -11,7 +11,8 @@
 # RMIT Harvard
 # AGLC4
 # APA 7th ed.
-# Chicago 17
+# Chicago A
+# Chicago B
 # IEEE
 # Vancouver
 ###### end-style-menu
@@ -54,10 +55,8 @@ Important: This is a guide only. To avoid losing marks:
 
 -	The Australian Guide to Legal Citation (AGLC) 4th ed, 2018 is a required referencing style for students enrolled in the Juris Doctor program at RMIT University.
 
--	Use [*Australian Guide to Legal Citation* (4th ed, 2018)](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/tcai14/alma9921686693101341), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
+-	Use [*Australian Guide to Legal Citation* (4th ed, 2018)](https://law.unimelb.edu.au/mulr/aglc), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
-#### Additional resources
-Download the [*Australian Guide to Legal Citation (AGLC)* 4th ed, 2018](https://law.unimelb.edu.au/mulr/aglc)
 
 ###### end-subtype-content
 

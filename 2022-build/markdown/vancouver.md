@@ -11,7 +11,8 @@
 # RMIT Harvard
 # AGLC4
 # APA 7th ed.
-# Chicago 17
+# Chicago A
+# Chicago B
 # IEEE
 # Vancouver
 ###### end-style-menu
@@ -54,14 +55,6 @@ Confirm the referencing requirements of your school with your lecturer, and
 Use [Citing medicine: the NLM style guide for authors, editors, and publishers (2nd ed.)](http://www.nlm.nih.gov/citingmedicine) to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
 The Vancouver referencing style is a **numbered system**, predominantly used in the medical field. Authorship is acknowledged using a number to represent a reference. From the in-text reference number, the reader may consult the reference list for full publication details.
-
-#### Additional resources
-
-Download:
-
-[RMIT Vancouver referencing guide (DOCX, 130 KB, 16 pages)](https://www.rmit.edu.au/content/dam/rmit/documents/library/referencing/Vancouver-referencing-examples.docx) - MS Word document for downloading or printing
-
-[RMIT University Library Referencing Guides for printing](https://www.rmit.edu.au/library/study/referencing) - a full list of style guides used at RMIT
 
 
 ###### end-subtype-content

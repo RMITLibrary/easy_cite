@@ -1,4 +1,4 @@
-<!-- Chicago v.17 Style Guide -->
+<!-- Chicago Author-Date (A) v.17 Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
@@ -11,7 +11,8 @@
 # RMIT Harvard
 # AGLC4
 # APA 7th ed.
-# Chicago 17
+# Chicago A
+# Chicago B
 # IEEE
 # Vancouver
 ###### end-style-menu
@@ -21,7 +22,7 @@
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
-## Using Chicago
+## Using Chicago A
 ## Books
 ## Journals
 ## Newspaper articles
@@ -64,13 +65,6 @@ There are two systems outlined by the Chicago referencing style: **Author-Date**
 
 This guide use examples in the **author-date** system. The author-date system requires in-text citations within the assignment, along with a full bibliographic entry in the reference list at the end of the assignment.
 
-#### Additional resources
-
-Access the [Chicago Manual Online](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT*INST/1adn3cm/alma9921991311601341) via RMIT's LibrarySearch record. 
-
-A separate guide is available for using the [**Chicago notes and bibliography style**](https://rmit.libguides.com/chicago_notes) 17th edition.
-
-Additional online information about referencing can be found in the [RMIT Learning Lab](https://emedia.rmit.edu.au/learninglab/content/referencing).
 
 ###### end-subtype-content
 

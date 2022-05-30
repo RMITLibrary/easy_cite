@@ -107,8 +107,9 @@
                 <div class="col-12 col-sm-7">
                     <div class="ecinstructbox">
 						<h3>How to use Easy Cite referencing resources</h3>
-                    <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago, IEEE and Vancouver, .</p>
-                    <p>Easy Cite is intended as a guide only. This resource uses current relevant style manuals. Some styles are open to interpretation. Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar existing types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
+                    <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago author-date (Chicago A) and Chicago notes/bibliography (Chicago B), IEEE and Vancouver.</p>
+                    <p>Easy Cite is intended as a guide only sand some styles are open to interpretation. Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar existing types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
+					<p>You should always check with your teacher or lecturer to ensure you are using the correct style for your assignments and assessment tasks.</p>
                 
                     </div>
                 </div>
@@ -149,12 +150,15 @@ if ($whichstyleguide == "styleguide-0"){
 	$thestyleguide = file_get_contents('markdown/apa7thed.md');
 	$thestyleguidetitle = "APA 7<sup>th</sup> Edition";
 }	else if ($whichstyleguide == "styleguide-3"){
-	$thestyleguide = file_get_contents('markdown/chicago17.md');
-	$thestyleguidetitle = "Chicago 17";
+	$thestyleguide = file_get_contents('markdown/chicagoa.md');
+	$thestyleguidetitle = "Chicago A";
 }	else if ($whichstyleguide == "styleguide-4"){
+	$thestyleguide = file_get_contents('markdown/chicagob.md');
+	$thestyleguidetitle = "Chicago B";
+}	else if ($whichstyleguide == "styleguide-5"){
 	$thestyleguide = file_get_contents('markdown/ieee.md');
 	$thestyleguidetitle = "IEEE";
-}	else if ($whichstyleguide == "styleguide-5"){
+}	else if ($whichstyleguide == "styleguide-6"){
 	$thestyleguide = file_get_contents('markdown/vancouver.md');
 	$thestyleguidetitle = "Vancouver";
 }	else {
@@ -179,7 +183,8 @@ $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</ul><p>&nbsp;</p>', $myli
 $mylist = preg_replace("/RMIT Harvard<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'RMIT Harvard<div class="layer" aria-hidden="true">RMIT Harvard</div>', $mylist);
 $mylist = preg_replace("/AGLC4<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'AGLC4<div class="layer" aria-hidden="true">AGLC4</div>', $mylist);
 $mylist = preg_replace("/APA 7th ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7th ed.<div class="layer" aria-hidden="true">APA 7th ed.</div>', $mylist);
-$mylist = preg_replace("/Chicago 17<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago 17<div class="layer" aria-hidden="true">Chicago 17</div>', $mylist);
+$mylist = preg_replace("/Chicago A<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago A<div class="layer" aria-hidden="true">Chicago A</div>', $mylist);
+$mylist = preg_replace("/Chicago B<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago B<div class="layer" aria-hidden="true">Chicago B</div>', $mylist);
 $mylist = preg_replace("/IEEE<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'IEEE<div class="layer" aria-hidden="true">IEEE</div>', $mylist);
 $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Vancouver<div class="layer" aria-hidden="true">Vancouver</div>', $mylist);
 	
@@ -217,6 +222,9 @@ $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div>', $my
 // HANGING INDENTS
 $mylist = preg_replace("/{.hanging-indent}/s", '<div class="hanging-indent">', $mylist);
 $mylist = preg_replace("/{\/.hanging-indent}/s", '</div>', $mylist);
+// footnote INDENTS
+$mylist = preg_replace("/{.footnote-indent}/s", '<div class="footnote-indent">', $mylist);
+$mylist = preg_replace("/{\/.footnote-indent}/s", '</div>', $mylist);
 // IEEE reference list
 $mylist = preg_replace("/{.ieee-refs}/s", '<div class="ieee-refs">', $mylist);
 $mylist = preg_replace("/{\/.ieee-refs}/s", '</div>', $mylist);
@@ -421,7 +429,7 @@ if ($whichstyleguide == "styleguide-0"){
 // DONE!! Improve the print stylesheet with RMIT branding etc.
 // Stop print content from cropping when scale is more than 100% - CSS issue???
 // DONE!! create a FOOTER area with links to feedback form, learning lab, other...
-// Top of page INSTRUCTIONS - show/hide with cookies/session data, print option.
+// DONE!! Top of page INSTRUCTIONS - show/hide with cookies/session data, print option.
 // DONE!! STYLE: CSS for Bootstrap - RMIT branding
 // DONE!! move inline styles to external CSS file - easycite.css
 // need to strip all COMMENTS out of $mylist after all replaces are done	
