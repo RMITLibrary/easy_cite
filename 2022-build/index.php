@@ -37,7 +37,7 @@
 <body>
 <!-- Responsive navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-	<div class="container-fluid">
+	<div class="container">
 		<div class="topnav-logosection">
                
                   <a href="https://www.rmit.edu.au" aria-label="Royal Melbourne Institute of Technology University Logo" tabindex="0" class="rmit-logo">
@@ -135,7 +135,7 @@
 </div>
 
 <!-- style guides content--> 	
-<div class="container-fluid p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
+<div class="container p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
 <?php 
 // include the parsedown code
 require_once 'Parsedown.php';
@@ -173,11 +173,9 @@ if ($whichstyleguide == "styleguide-0"){
 	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
 	$thestyleguidetitle = "RMIT Harvard";
 }
-	//echo($thestyleguidetitle);
-// get the markdown content - which populates the page with content from a particular style guide	
-//$thestyleguide = file_get_contents('rmitharvard.md');
+
+// get the markdown content - populates the page with content from a particular style guide	
 $mylist = $parsedown->text($thestyleguide);
-//need to develop an if/then script so that when the tabs are clicked, the different markdown files are loaded and parsedown to $mylist		
 	
 //replace heading tags with bootstrap layout
 // NAV TABS
@@ -187,7 +185,6 @@ $mylist = preg_replace("/<h1>/", '<li id="nav-xx-tab" class="nav-item" data-bs-t
 $mylist = preg_replace("/<\/h1>/", '<div class="layer" aria-hidden="true">whichguidetitle</div></a></li>', $mylist);
 $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</ul><p>&nbsp;</p>', $mylist);
 //REPLACE whichguidetitle with the correct title for the animated nav tabs
-//RMIT Harvard<div class="layer" aria-hidden="true">whichguidetitle</div>
 $mylist = preg_replace("/RMIT Harvard<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'RMIT Harvard<div class="layer" aria-hidden="true">RMIT Harvard</div>', $mylist);
 $mylist = preg_replace("/AGLC4<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'AGLC4<div class="layer" aria-hidden="true">AGLC4</div>', $mylist);
 $mylist = preg_replace("/APA 7th ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7th ed.<div class="layer" aria-hidden="true">APA 7th ed.</div>', $mylist);
@@ -199,15 +196,17 @@ $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whic
 //PILLS
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div class="tab-content" id="nav-tabContent-xx"><div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex flex-row flex-wrap">', $mylist);
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
-$mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); //btn btn-outline classes in the nav-link classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
+$mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); 
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	//btn btn-outline classes stuff up the keyboard focus and the first pill highlight when the style guide is selected. Remove??
+$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
+	
 // ACCORDIONS
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-12 col-sm-9 flex-grow-1"><div id="printable-guide"><div class="tab-content" id="stnContent-yy">', $mylist);
 $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print this part of the style guide (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
   <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
   <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
 </svg></button></div>', $mylist);	
+	
 // ACCORDION ITEMS
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item" id="accordion-item-zz">', $mylist);
@@ -224,6 +223,7 @@ $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div>', $mylist);
+	
 // CUSTOM TAGS TO CLASSES
 // these custom tags are used in the markdown (.md) files where markdown limitations required inventing 
 // tags that could then be replaced with <p> or <div> and classes that have specific styles in the CSS
@@ -246,9 +246,10 @@ $mylist = preg_replace("/{\/.figure-text}/s", '</p>', $mylist);
 $mylist = preg_replace("/<grey>/s", '<div class="grey">', $mylist);
 $mylist = preg_replace("/<\/grey>/s", '</div>', $mylist);
 // END CONTENT
+	
+	
 // REPLACE FOR FIRST
 //replace property for the first tab, pill, accordion only - to show, true or active
-//$mylist = preg_replace("/nav-link/", 'nav-link active', $mylist, 1); //FIXED THIS so the correct tab is active, not the first one
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fade show active" id="nav', $mylist, 1);
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"v/", 'class="tab-pane fade show active" id="v', $mylist, 1);
 // first accordion button remove collapsed
@@ -256,9 +257,11 @@ $mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-c
 $mylist = preg_replace("/aria-selected=\"false\"/", 'aria-selected="true"', $mylist, 1);
 $mylist = preg_replace("/nav-link myleftpills/", 'nav-link myleftpills active', $mylist, 1);
 $mylist = preg_replace("/aria-expanded=\"false\"/", 'aria-expanded="true"', $mylist, 1);
+	
 // COUNTERS
-//loop through bootstrap classes to allocate unique identifyers to each iteration of that class so that bootstrap tabs, pills and accordians will match and work
-//set unique id names for TABS
+//loop through bootstrap classes to allocate unique identifyers to each iteration of that class 
+// so that bootstrap tabs, pills and accordians will match and work
+//set unique ID names for TABS
 $counter0 = 0;
 preg_match_all("/id=\"nav-tabContent-xx\"/", $mylist, $matches0 );
 foreach($matches0[0] as $titles0){
@@ -339,7 +342,7 @@ foreach($matches10[0] as $titles10){
 	$mylist = preg_replace("/aria-labelledby=\"stn-yy\"/", "aria-labelledby=\"stn-$counter10\"", $mylist, 1);
 	++$counter10;
 }		
-//set unique id names for ACCORDION
+//set unique ID names for ACCORDIONS
 $counter16 = 0;
 preg_match_all("/id=\"accordionExample-zz\"/", $mylist, $matches16 );
 foreach($matches16[0] as $titles16){
@@ -408,10 +411,8 @@ preg_match_all("/thisstyleguide/", $mylist, $matches20 );
 foreach($matches20[0] as $titles20){
 	$mylist = preg_replace("/thisstyleguide/", "styleguide-$counter20", $mylist, 1);
 	++$counter20;
-	//console.log("styleguide-$counter20");
 }
 //make the correct styleguide tab active
-	//id="nav-xx-tab" class="nav-item nav-guide"
 if ($whichstyleguide == "styleguide-0"){
 	$mylist = preg_replace("/id=\"nav-link-0\" class=\"nav-link/", 'id="nav-link-0" class="nav-link active', $mylist, 1); 
 }	else if ($whichstyleguide == "styleguide-1"){
@@ -431,27 +432,27 @@ if ($whichstyleguide == "styleguide-0"){
 }
 	
 // ISSUES TO BE RESOLVED / Development to-do list
-// change the code from PHP to Javascript to show first accordion item in an accordion then won't need the comment in  markdown
 // DONE!! added an id attribute to the accordion-item div for printing and for first accordion discovery
 // DONE!! accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
 // DONE!! PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide
 // DONE!! Format print window content and hide buttons - make an external style sheet for this
 // DONE!! Improve the print stylesheet with RMIT branding etc.
-// Stop print content from cropping when scale is more than 100% - CSS issue???
 // DONE!! create a FOOTER area with links to feedback form, learning lab, other...
 // DONE!! Top of page INSTRUCTIONS - show/hide with cookies/session data, print option.
 // DONE!! STYLE: CSS for Bootstrap - RMIT branding
 // DONE!! move inline styles to external CSS file - easycite.css
-// need to strip all COMMENTS out of $mylist after all replaces are done	
 // DONE!! focus the correct tab depending on the query string.
 // DONE!! need to close the first accordion for the pill if accessed via hash string
-// DONE!! need to highlight the first accordion button/item in each accordion because we removed all the highlights - remove "collapsed" from the first accordion button
+// DONE!! need to highlight first accordion button/item in each accordion because we removed all highlights - remove "collapsed" from first accordion button
 // DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
 // DONE!! solve the praent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
 // DONE!! add correct title and accordion headings to print version. Hide print title from web page view.
 // DONE!! fixed accessibility issues: heading hierarchy (removed H4 heading from accordion body) 
 // DONE!! Harvard example reference list was messing up the accordion width due to a URL that wasn't wrapping properly - not a proper fix. Not sure why???
 // tabbing issues across different browsers - how to make it more consistent?
+// Stop print content from cropping when scale is more than 100% - CSS issue???
+// change the code from PHP to Javascript to show first accordion item in an accordion then won't need the comment in  markdown
+// need to strip all COMMENTS out of $mylist after all replaces are done	
 // 
 	
 	
@@ -487,11 +488,6 @@ $(function(){
 		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show correct pills tab
 		var accordionopen = myArray[2];  //second item of array
 		accordionopen && $('#' + accordionopen).collapse('show'); //show correct accordion-collapse
-		//TBD - need to develop script to 'hide' the other accordion items 
-		// in this visible pills area only - not all accordions in the page
-		// depends on the grand-parent div ID
-		// console.log(tabopen);
-		// console.log(accordionopen);
      }
 	else {
 		$("#subtype-0").collapse("show"); // default show first accordion-collapse
@@ -626,40 +622,22 @@ function printThisGuide(elem) {
 	a.document.close();
    a.focus();
 }
+// -----------------------------
+// INSTRUCTIONS TOGGLE
 // toggle the instructions box text - open/close
-	//var clickAllowed = true;
 function textToggle(elem){
-	//if (!clickAllowed) {
-    	//return;
-  	//}
 	var thiscol = document.getElementById('collapseExample');
 	var colstatus = thiscol.getAttribute('aria-expanded');
 	if (colstatus == 'false'){
 		document.getElementById('textoggle').innerHTML = "close";
 		thiscol.setAttribute("aria-expanded", "true");
 		console.log("open");
-		//clickAllowed = false;
-  		//setTimeout(() => clickAllowed = true, 500);
 	} else if (colstatus == 'true') {
 		document.getElementById('textoggle').innerHTML = "open";	
 		thiscol.setAttribute("aria-expanded", "false");
 		console.log("close");
-		//clickAllowed = false;
-  		//setTimeout(() => clickAllowed = true, 500);
 	}
 }
-/*function textToggle(elem){
-	const thiscol = document.getElementById('collapseExample');
-	//var colstatus = thiscol.getAttribute('class');
-	if (thiscol.classList.contains("show")){
-		document.getElementById('textoggle').innerHTML = "close";
-		console.log("close");
-	} else {
-		document.getElementById('textoggle').innerHTML = "open";	
-		console.log("open");
-	}
-}
-*/
 </script>
 </body>
 </html>

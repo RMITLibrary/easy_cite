@@ -734,7 +734,7 @@ Author's Family Name, Given Name. Year. "Article Title." *Title of Journal* volu
 
 ###### start-subtype-content
 
-CONTA page number is included in the in-text citation for a direct quote. After the author's name and year, add a comma then the page number.
+A page number is included in the in-text citation for a direct quote. After the author's name and year, add a comma then the page number.
 
 #### In-Text Citation: Direct quote
 
