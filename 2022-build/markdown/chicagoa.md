@@ -1668,7 +1668,7 @@ If the image was on a website include the URL, otherwise provide the source deta
 
 ##### Caption example
 
-> ![Image of a silk tapestry of a dragon and flowers](images/Dragon_tapestry.JPG)
+> ![Image of a silk tapestry of a dragon and flowers](images/Dragon_tapestry.jpg)
 > 
 > Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?
 > 
