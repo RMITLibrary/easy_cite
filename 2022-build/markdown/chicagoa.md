@@ -154,7 +154,7 @@ Example;
 
 5. In the footer, place your footnote. Remember that you will need to indent the first line of the footnote by 5 spaces.
 
-![Animated gif showing the above steps to insert the footnote and then indent by 5 spaces.](https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/210269/images/Create_a_footnote_in_Word.gif)
+![Animated gif showing the above steps to insert the footnote and then indent by 5 spaces.](images/Create_a_footnote_in_Word.gif)
 
 ###### end-subtype-content
 
@@ -197,7 +197,7 @@ The second line of each bibliography entry has a hanging indent.
 
 4.  Under the heading, ***Indentation**,* select the drop-down box for ***Special*** and select ***Hanging***.
 
-![Animated gif showing the above steps of creating a hanging indent in word](https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/210269/images/Create_a_hanging_indent_in_Word__1_.gif)
+![Animated gif showing the above steps of creating a hanging indent in word](images/Create_a_hanging_indent_in_Word__1_.gif)
 
 ###### end-subtype-content
 
