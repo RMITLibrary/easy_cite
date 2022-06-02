@@ -210,7 +210,7 @@ The second line of each bibliography entry has a hanging indent.
 
 ###### start-subtype-content
 
-**Bibliography**
+{.centre-align}**Bibliography**{/.centre-align}
 
 {.hanging-indent}
 Bagley,Benjamin. “Loving Someone in Particular,” *Ethics* 125, no. 2 (January 2015): 477–507

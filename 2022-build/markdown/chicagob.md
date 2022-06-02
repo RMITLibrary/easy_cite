@@ -194,9 +194,9 @@ List authors in the order in which they appear in the source. The first-listed n
 
 For two authors: Family Name, Given Name, and Given Name Family Name. Year etc.
 
-> Lai, Gladys, and Pema Bakshi. 2021 "5 TikTok Fashion Trends Everyone is Wearing IRL." Vogue (blog), May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db.
+> {.hanging-indent}Lai, Gladys, and Pema Bakshi. 2021 "5 TikTok Fashion Trends Everyone is Wearing IRL." Vogue (blog), May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
 > 
-> Megginson, William L, Mary Jane Byrd, and Leon C. Megginson. 2000. *Small Business Management: An Entrepreneur's Guidebook.* 3rd ed. Boston: Irwin/McGraw-Hill.
+> {.hanging-indent}Megginson, William L, Mary Jane Byrd, and Leon C. Megginson. 2000. *Small Business Management: An Entrepreneur's Guidebook.* 3rd ed. Boston: Irwin/McGraw-Hill. {/.hanging-indent}
 
 #### Four or more authors
 
@@ -214,9 +214,9 @@ Use a page number for direct quotes. You don’t need a page number when paraphr
 
 List all authors in the reference list entry. List authors in the order in which they appear in the source. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
 
-> Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. 2008. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Durham: Duke University Press.
+> {.hanging-indent}Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. 2008. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Durham: Duke University Press. {/.hanging-indent}
 > 
-> Horngren, Charles, Walter Harrison, Suzanne Oliver, Peter Best, David Fraser, and Rebecca Tan. *Financial accounting*. Pearson Higher Education AU, 2012.
+> {.hanging-indent}Horngren, Charles, Walter Harrison, Suzanne Oliver, Peter Best, David Fraser, and Rebecca Tan. *Financial accounting*. Pearson Higher Education AU, 2012. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -259,9 +259,9 @@ You would acknowledge Jones in the text and add the secondary citation (cited in
 
 Follow the reference list rules for the type of resource you are citing ie. book, journal etc.
 
-> Barbraud, Christophe, Baudouin Des Monstiers, Adrien Chaigne, Cédric Marteau, Henri Weimerskirch, and Karine Delord. 2021. "Predation by Feral Cats Threatens Great Albatrosses." *Biological Invasions* 23, no. 8: 2389-2405.
+> {.hanging-indent}Barbraud, Christophe, Baudouin Des Monstiers, Adrien Chaigne, Cédric Marteau, Henri Weimerskirch, and Karine Delord. 2021. "Predation by Feral Cats Threatens Great Albatrosses." *Biological Invasions* 23, no. 8: 2389-2405. {/.hanging-indent}
 > 
-> Costello, Bonnie. 1981. *Marianne Moore: Imaginary Possessions*. Cambridge, MA: Harvard University Press.
+> {.hanging-indent}Costello, Bonnie. 1981. *Marianne Moore: Imaginary Possessions*. Cambridge, MA: Harvard University Press. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -277,7 +277,7 @@ Follow the reference list rules for the type of resource you are citing ie. book
 Below is an example of a reference list displaying various resource types including a book, DVD, journal article, legislation, newspaper article, social media entry and thesis.
 
 #### Reference List
-
+{.hanging-indent}
 Bell, Adam, and Charles Traub, eds. 2015. *Vision Anew: The Lens and Screen Arts.* Oakland, California: University of California Press.
 
 Burn, Henry. 1861. *Swanston Street from the Bridge.* Oil on canvas. National Gallery of Victoria, Melbourne. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/.
@@ -313,6 +313,7 @@ Tame, Grace (@tamepunk). 2021. “Making Noise” Kirsty Neilson—for this year
 Trask, Steven. 2017. “Adria Village Nursing Home Sanctioned After Aged Care Quality Agency Audit.” *Canberra Times*, August 29, 2017.
 
 Tudor, Ken. 2015. "Protecting Pets in Abusive Human Relationships." *The Daily Vet (blog)*, June 9. http<nolink>://www.petmd.com/blogs/thedailyvet/ken-tudor/2015/june/pets-abusive-human-relationships-32819
+{/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -357,9 +358,9 @@ If no author is listed, use the name of the editor, translator, compiler, or com
 
 Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Place of Publication: Publisher's Name.
 
-> Bell, Adam, and Charles Traub, eds. 2015. *Vision Anew: The Lens and Screen Arts.* Oakland, California: University of California Press.
+> {.hanging-indent}Bell, Adam, and Charles Traub, eds. 2015. *Vision Anew: The Lens and Screen Arts.* Oakland, California: University of California Press. {/.hanging-indent}
 > 
-> Webb, Jela. 2008. *Strategic Information Management: A Practitioner's Guide*. Oxford: Chandos.
+> {.hanging-indent}Webb, Jela. 2008. *Strategic Information Management: A Practitioner's Guide*. Oxford: Chandos. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -392,13 +393,13 @@ Chapter Author’s Family Name Year of publication
 
 Chapter Author’s Family Name, Given Name. Year. "Title of Chapter." In *Title of Book*, edited by Editor's Given name Family name, chapter page range. Place of Publication: Publisher's Name.
 
-> Baldwin, Alistair. 2021. “Hippotherapy.” In *Growing Up Disabled in Australia*, edited by Carly Findlay, 47-52. Melbourne: Black Inc.
+> {.hanging-indent}Baldwin, Alistair. 2021. “Hippotherapy.” In *Growing Up Disabled in Australia*, edited by Carly Findlay, 47-52. Melbourne: Black Inc. {/.hanging-indent}
 > 
-> Higgs, Malcolm. 2013. “Change and Its Leadership: The Role of Positive Emotions.” In *The Oxford Handbook of Positive Psychology and Work*, edited by P. Alex Linley, Susan Harrington,and Nicola Garcea, 67-94. New York: Oxford University Press.
+> {.hanging-indent}Higgs, Malcolm. 2013. “Change and Its Leadership: The Role of Positive Emotions.” In *The Oxford Handbook of Positive Psychology and Work*, edited by P. Alex Linley, Susan Harrington,and Nicola Garcea, 67-94. New York: Oxford University Press. {/.hanging-indent}
 > 
-> Jucker, Lodovico. 2012. "Ten Key Steps Towards Sustainable Fashion." In *The Beautiful and the Good: Reasons for Sustainable Fashion*, edited by Marco Ricchetti and Maria Luisa Frisa, 119-127. Venice: Marsilio Editori.
+> {.hanging-indent}Jucker, Lodovico. 2012. "Ten Key Steps Towards Sustainable Fashion." In *The Beautiful and the Good: Reasons for Sustainable Fashion*, edited by Marco Ricchetti and Maria Luisa Frisa, 119-127. Venice: Marsilio Editori. {/.hanging-indent}
 > 
-> Thoreau, Henry David. 2016. “Walking.” In *The Making of the American Essay*, edited by John D’Agata, 167–95. Minneapolis: Graywolf Press.
+> {.hanging-indent}Thoreau, Henry David. 2016. “Walking.” In *The Making of the American Essay*, edited by John D’Agata, 167–95. Minneapolis: Graywolf Press. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -439,11 +440,11 @@ If there are no page numbers in the ebook, use chapter numbers or section headin
 
 Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Place of Publication: Publisher’s Name. DOI, URL, Application, Device, or File Format.
 
-> Carroll, Henry. 2014. *Read This If You Want To Take Great Photographs.* London: Laurence King. ProQuest Ebook Central.
+> {.hanging-indent}Carroll, Henry. 2014. *Read This If You Want To Take Great Photographs.* London: Laurence King. ProQuest Ebook Central. {/.hanging-indent}
 > 
-> Scott, Clive. 1999. *The Spoken Image: Photography and Language.* London: Reaktion. Kindle ebook.
+> {.hanging-indent}Scott, Clive. 1999. *The Spoken Image: Photography and Language.* London: Reaktion. Kindle ebook. {/.hanging-indent}
 > 
-> Tolstoy, Leo. 1998. *Anna Karenina.* Translated by Constance Garnett. USA: Project Gutenberg. https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm.
+> {.hanging-indent}Tolstoy, Leo. 1998. *Anna Karenina.* Translated by Constance Garnett. USA: Project Gutenberg. https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -480,13 +481,13 @@ When the organisation-as-author and publisher are the same entity, include it in
 
 Name of Group/Organisation. Year. *Title of Book: Subtitle of Book.* Place of Publication: Publisher's Name.
 
-> ARC (Australian Research Council). 2017. *ARC Open Access Policy.* Version 2017.1. Canberra, ACT: Australian Research Council. https<nolink>://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy.
+> {.hanging-indent}ARC (Australian Research Council). 2017. *ARC Open Access Policy.* Version 2017.1. Canberra, ACT: Australian Research Council. https<nolink>://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy. {/.hanging-indent}
 > 
-> CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future.* Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030.
+> {.hanging-indent}CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future.* Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030. {/.hanging-indent}
 > 
-> Gehl Architects. 1994. *Perth 2009: Public Spaces and Public Life.* Perth, WA: Department of Planning and Urban Developments.
+> {.hanging-indent}Gehl Architects. 1994. *Perth 2009: Public Spaces and Public Life.* Perth, WA: Department of Planning and Urban Developments. {/.hanging-indent}
 > 
-> Institute of Contemporary Arts. 2009. *Nought to 60: 60 Projects, 6 months.* London: Institute of Contemporary Art.
+> {.hanging-indent}Institute of Contemporary Arts. 2009. *Nought to 60: 60 Projects, 6 months.* London: Institute of Contemporary Art. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -527,9 +528,9 @@ Name of Group/Organisation. Year. *Title of Book: Subtitle of Book.* Place of Pu
 
 Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Edition. Place of Publication: Publisher's Name.
 
-> Beresford, Quentin, and Gary Partington. 2012. Reform and Resistance in Aboriginal Education: The Australian Experience. Rev. ed. Perth: University of Western Australia Press.
+> {.hanging-indent}Beresford, Quentin, and Gary Partington. 2012. Reform and Resistance in Aboriginal Education: The Australian Experience. Rev. ed. Perth: University of Western Australia Press. {/.hanging-indent}
 > 
-> Lester, Paul Martin. 2020. *Visual Communication: Images with Messages.* 8th ed. Dallas, Texas: Lex Publishing.
+> {.hanging-indent}Lester, Paul Martin. 2020. *Visual Communication: Images with Messages.* 8th ed. Dallas, Texas: Lex Publishing. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -562,9 +563,9 @@ Page number(s) should be included when using a direct quote. Add a comma then th
 
 Author’s Family Name, Author’s Given Name. Year of Publication. *Title of Book: Subtitle of Book.* Translated by Translator’s Full Name. Place of Publication: Publisher’s Name.
 
-> García Márquez, Gabriel. 1988. *Love in the Time of Cholera.* Translated by Edith Grossman. London: Cape.
+> {.hanging-indent}García Márquez, Gabriel. 1988. *Love in the Time of Cholera.* Translated by Edith Grossman. London: Cape. {/.hanging-indent}
 > 
-> Lahiri, Jhumpa. 2016. *In Other Words.* Translated by Ann Goldstein. New York: Alfred A. Knopf.
+> {.hanging-indent}Lahiri, Jhumpa. 2016. *In Other Words.* Translated by Ann Goldstein. New York: Alfred A. Knopf. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -599,11 +600,11 @@ Reference in the same way as other published books. If the author is unknown, re
 
 Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Place of Publication: Publisher’s Name. Published in conjunction with an exhibition of the same title, exhibition date.
 
-> Achaintre, Caroline, Elizabeth Price, George Shaw, and Kirsty Ogg, eds. 2017. *Bloomberg's New Contemporaries 2017.* London: New Contemporaries 1988 Ltd. Published in conjunction with an exhibition of the same title, held at BALTIC Centre for Contemporary Art, Baltic 39, 29 Sep-26 Nov 2017, and Block 336, 27 Jan-3 Mar 2018.
+> {.hanging-indent}Achaintre, Caroline, Elizabeth Price, George Shaw, and Kirsty Ogg, eds. 2017. *Bloomberg's New Contemporaries 2017.* London: New Contemporaries 1988 Ltd. Published in conjunction with an exhibition of the same title, held at BALTIC Centre for Contemporary Art, Baltic 39, 29 Sep-26 Nov 2017, and Block 336, 27 Jan-3 Mar 2018. {/.hanging-indent}
 > 
-> *Chaos & Order: 120 Year of Collecting at RMIT*. 2018. Melbourne: RMIT Gallery, 2018. Published in conjunction with the exhibition of the same title, held at RMIT Gallery, 12 Apr-9 Jun 2018.
+> {.hanging-indent}*Chaos & Order: 120 Year of Collecting at RMIT*. 2018. Melbourne: RMIT Gallery, 2018. Published in conjunction with the exhibition of the same title, held at RMIT Gallery, 12 Apr-9 Jun 2018. {/.hanging-indent}
 > 
-> Witkovsky, Matthew S., ed. 2014. *Sarah Charlesworth: Stills*. Chicago: Art Institute of Chicago. Published in conjunction with an exhibition of the same title, organized by and presented at the Art Institute of Chicago, September 18, 2014–January 4, 2015.
+> {.hanging-indent}Witkovsky, Matthew S., ed. 2014. *Sarah Charlesworth: Stills*. Chicago: Art Institute of Chicago. Published in conjunction with an exhibition of the same title, organized by and presented at the Art Institute of Chicago, September 18, 2014–January 4, 2015. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -646,13 +647,13 @@ When author/editor for a dictionary or encyclopedia section is unknown, use the 
 
 Author of Section Last name, First name. Year. "Title of Section". In *Title of Dictionary or Encyclopedia*, edited by Editor First name Family name, page range if applicable. Place of Publication: Publisher Name. Accessed Month day, year if online. URL, DOI or database name if online.
 
-> Cox, Damian, Marguerite La Caze, and Michael Levine. 2021. "Integrity." In *The Stanford Encyclopedia of Philosophy* , edited by Edward N. Zalta. Palo Alto: Metaphysics Research Lab, Stanford University. Accessed May 5, 2022. https<nolink>://plato.stanford.edu/archives/fall2021/entries/integrity/
+> {.hanging-indent}Cox, Damian, Marguerite La Caze, and Michael Levine. 2021. "Integrity." In *The Stanford Encyclopedia of Philosophy* , edited by Edward N. Zalta. Palo Alto: Metaphysics Research Lab, Stanford University. Accessed May 5, 2022. https<nolink>://plato.stanford.edu/archives/fall2021/entries/integrity/ {/.hanging-indent}
 > 
-> *Macquarie Concise Dictionary*. 2020. 8th edition. Sydney: Macquarie Dictionary Publishers.
+> {.hanging-indent}*Macquarie Concise Dictionary*. 2020. 8th edition. Sydney: Macquarie Dictionary Publishers. {/.hanging-indent}
 > 
-> Moore, Clive, and Martin Crotty. 2007. "Australian masculinities." In *International encyclopedia of men and masculinities*, edited by Michael Flood, Judith Kegan Gardiner, Bob Pease and Keith Pringle, 31-33. London: Routledge.
+> {.hanging-indent}Moore, Clive, and Martin Crotty. 2007. "Australian masculinities." In *International encyclopedia of men and masculinities*, edited by Michael Flood, Judith Kegan Gardiner, Bob Pease and Keith Pringle, 31-33. London: Routledge. {/.hanging-indent}
 > 
-> "Diwungarna." 2021. In *Ngarinyman to English Dictionary*, edited by Caroline Jones, Eva Schultze-Berndt and Jessica Denniss, 93. Canberra: Aboriginal Studies Press. Accessed May 5, 2022. ProQuest Ebook Central.
+> {.hanging-indent}"Diwungarna." 2021. In *Ngarinyman to English Dictionary*, edited by Caroline Jones, Eva Schultze-Berndt and Jessica Denniss, 93. Canberra: Aboriginal Studies Press. Accessed May 5, 2022. ProQuest Ebook Central. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -715,13 +716,13 @@ Chicago does not require access dates in the citations of electronic sources unl
 
 Author's Family Name, Given Name. Year. "Article Title." *Title of Journal* volume, issue no. (Month or Season if applicable): page range. DOI or URL or Database Name.
 
-> Armstrong, Leah. 2021. “Fashions of the Future: Fashion, Gender, and the Professionalization of Industrial Design.” *Design Issues* 37, no. 3: 5-17. https<nolink>://doi.org/10.1162/desi\_a\_00644.
+> {.hanging-indent}Armstrong, Leah. 2021. “Fashions of the Future: Fashion, Gender, and the Professionalization of Industrial Design.” *Design Issues* 37, no. 3: 5-17. https<nolink>://doi.org/10.1162/desi\_a\_00644. {/.hanging-indent}
 > 
-> Conforti, Claudia, Fabio Colonnese, Maria Grazia D'Amelio, and Lorenzo Grieco. 2021. “Designing in Real Scale: The Practice and Afterlife of Full-Size Architectural Models from Renaissance to Fascist Italy.” *Architecture & Culture* 9, no. 3: 442-463. https<nolink>://doi.org/10.1080/20507828.2021.1876490.
+> {.hanging-indent}Conforti, Claudia, Fabio Colonnese, Maria Grazia D'Amelio, and Lorenzo Grieco. 2021. “Designing in Real Scale: The Practice and Afterlife of Full-Size Architectural Models from Renaissance to Fascist Italy.” *Architecture & Culture* 9, no. 3: 442-463. https<nolink>://doi.org/10.1080/20507828.2021.1876490. {/.hanging-indent}
 > 
-> Detlor, Brian. 2010. "Information Management." *International Journal of Information Management* 30, no. 2: 103-108. https<nolink>://doi.org/10.1016/j.ijinfomgt.2009.12.001.
+> {.hanging-indent}Detlor, Brian. 2010. "Information Management." *International Journal of Information Management* 30, no. 2: 103-108. https<nolink>://doi.org/10.1016/j.ijinfomgt.2009.12.001. {/.hanging-indent}
 > 
-> Satterfield, Susan. 2016. “Livy and the Pax Deum.” Classical Philology 111, no. 2 (April): 165–76.https<nolink>://www.jstor.org/stable/26543680.
+> {.hanging-indent}Satterfield, Susan. 2016. “Livy and the Pax Deum.” Classical Philology 111, no. 2 (April): 165–76.https<nolink>://www.jstor.org/stable/26543680. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -762,13 +763,13 @@ Where only the volume and a month or season is available, include this in place 
 
 Author's Family Name, First Name. Year. "Article Title." *Title of Publication* vol, issue no (Month or Season): page number(s).
 
-> Bagley, Benjamin. 2015. “Loving Someone in Particular.” *Ethics* 125, no. 2 (January): 477–507.
+> {.hanging-indent}Bagley, Benjamin. 2015. “Loving Someone in Particular.” *Ethics* 125, no. 2 (January): 477–507. {/.hanging-indent}
 > 
-> Cavell, Stanley. 1978. "What Becomes of Things on Film?" *Philosophy and Literature* 2, no. 2 (Fall): 249-57.
+> {.hanging-indent}Cavell, Stanley. 1978. "What Becomes of Things on Film?" *Philosophy and Literature* 2, no. 2 (Fall): 249-57. {/.hanging-indent}
 > 
-> Zutshi, Ambika, Andrew Creed, Mary Holmes, and Jade Brain. 2016. "Reflections of Environmental Management Implementation in Furniture.” *International Journal of Retail & Distribution Management* 44, no. 8: 840–859.
+> {.hanging-indent}Zutshi, Ambika, Andrew Creed, Mary Holmes, and Jade Brain. 2016. "Reflections of Environmental Management Implementation in Furniture.” *International Journal of Retail & Distribution Management* 44, no. 8: 840–859. {/.hanging-indent}
 > 
-> Escobedo, Frida. 2021. “Architecture Is Forever Unfinished” *Journal of Visual Culture* 20, no. 1: 48–59.ENT
+> {.hanging-indent}Escobedo, Frida. 2021. “Architecture Is Forever Unfinished” *Journal of Visual Culture* 20, no. 1: 48–59.ENT {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -835,9 +836,9 @@ For the reference list:
 
 Author's Family Name, Given Name. Year of publication. "Title of Article." *Name of Newspaper*, Date of publication.
 
-> Carey, Adam. 2015. “Gas wars fire up in Victoria as consumers feel the heat.” *Age* (Melbourne), October 15, 2015.
+> {.hanging-indent}Carey, Adam. 2015. “Gas wars fire up in Victoria as consumers feel the heat.” *Age* (Melbourne), October 15, 2015. {/.hanging-indent}
 > 
-> *New York Times*. 2002. “In Texas, Ad Heats Up Race for Governor.” July 30, 2002.
+> {.hanging-indent}*New York Times*. 2002. “In Texas, Ad Heats Up Race for Governor.” July 30, 2002. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -888,13 +889,13 @@ Sources such as webpages or online newspaper articles do not always include page
 
 Author Family Name, First Name. Year. “Title of Article.” *Newspaper Title*, Month day, year of publication. DOI/URL/Database.
 
-> Pegoraro, Rob. 2007. “Apple’s iPhone Is Sleek, Smart and Simple.” *Washington Post*, July 5, 2007. ProQuest Central.
+> {.hanging-indent}Pegoraro, Rob. 2007. “Apple’s iPhone Is Sleek, Smart and Simple.” *Washington Post*, July 5, 2007. ProQuest Central. {/.hanging-indent}
 > 
-> Poll, Zoey. 2022. "The People Who Draw Rocks." *New York Times*, March 16, 2022. ProQuest Central.
+> {.hanging-indent}Poll, Zoey. 2022. "The People Who Draw Rocks." *New York Times*, March 16, 2022. ProQuest Central. {/.hanging-indent}
 > 
-> Szydlowski, Mike. 2021. “Why do dogs do that?: Discover the science behind your dog's strangest behaviors”. *Asheville Citizen*, June 12, 2021. ProQuest Central.
+> {.hanging-indent}Szydlowski, Mike. 2021. “Why do dogs do that?: Discover the science behind your dog's strangest behaviors”. *Asheville Citizen*, June 12, 2021. ProQuest Central. {/.hanging-indent}
 > 
-> *Washington Post*. 2021. “Work where green grass grows”. September 24, 2021. Thomson Reuters Westlaw.
+> {.hanging-indent}*Washington Post*. 2021. “Work where green grass grows”. September 24, 2021. Thomson Reuters Westlaw. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -960,13 +961,13 @@ For the reference list:
 
 Creator's Family Name, Given Name. Year. “Title of Video.” Additional information. Online video, duration. Accessed date. URL.
 
-> Brown, Brené. 2010. “The Power of Vulnerability.” Filmed June 2010 in Houston, TX. TED video, 20:49. Accessed July 4, 2021. https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability.
+> {.hanging-indent}Brown, Brené. 2010. “The Power of Vulnerability.” Filmed June 2010 in Houston, TX. TED video, 20:49. Accessed July 4, 2021. https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability. {/.hanging-indent}
 > 
-> Jack, Simon. 2022. *BBC News: Business*. “Why your fish and chips may cost a lot more.” Filmed and edited by Samantha Everett. Produced by Ollie Smith. Aired March 17, 2022. Online video, 02:29. Accessed March 21, 2022. https<nolink>://www.bbc.com/news/av/business-60762921.
+> {.hanging-indent}Jack, Simon. 2022. *BBC News: Business*. “Why your fish and chips may cost a lot more.” Filmed and edited by Samantha Everett. Produced by Ollie Smith. Aired March 17, 2022. Online video, 02:29. Accessed March 21, 2022. https<nolink>://www.bbc.com/news/av/business-60762921. {/.hanging-indent}
 > 
-> Never Too Small. 2018. “Never Too Small 1970’s Melbourne Tiny Apartment – 35sqm/370sqft.” YouTube video, 3:06. Accessed July 4, 2021. https<nolink>://youtu.be/l3yHLikvjPU.
+> {.hanging-indent}Never Too Small. 2018. “Never Too Small 1970’s Melbourne Tiny Apartment – 35sqm/370sqft.” YouTube video, 3:06. Accessed July 4, 2021. https<nolink>://youtu.be/l3yHLikvjPU. {/.hanging-indent}
 > 
-> Soddell, Thembi. 2018. “Love Songs.” Featuring Vanessa Godden. Disclaimer video, 39.48. Accessed July 4, 2021. https<nolink>://disclaimer.org.au/contents/love-songs.
+> {.hanging-indent}Soddell, Thembi. 2018. “Love Songs.” Featuring Vanessa Godden. Disclaimer video, 39.48. Accessed July 4, 2021. https<nolink>://disclaimer.org.au/contents/love-songs. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1019,17 +1020,17 @@ For the reference list:
 
 Director’s Family Name, Given Name, dir. Year of release. “Title of Scene.” *Title of Film*. Place of publication: Studio/Distributor, Year of publication. Medium.
 
-> Fellini, Federico, dir. 1960. “Fountain Scene.” *La Dolce Vita*. Sydney, NSW: Umbrella Entertainment, 2005. DVD.
+> {.hanging-indent}Fellini, Federico, dir. 1960. “Fountain Scene.” *La Dolce Vita*. Sydney, NSW: Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
 > 
-> Scott, Ridley, dir. 1982. *Blade Runner*. Burbank, CA: Warner Home Video, 2006. DVD.
+> {.hanging-indent}Scott, Ridley, dir. 1982. *Blade Runner*. Burbank, CA: Warner Home Video, 2006. DVD. {/.hanging-indent}
 
 **Film streamed online:**
 
 Director’s Family Name, Given Name, dir. Year of release. *Title of Film*. Streaming service, duration. Accessed date. URL
 
-> Bricker, Eric, dir. 2009. *Visual Acoustics: The Modernism of Julius Shulman*. Shulman Project Partners. Kanopy video, 01:23:00. Accessed July 4, 2021. https<nolink>://www.kanopy.com/product/visual-acoustics.
+> {.hanging-indent}Bricker, Eric, dir. 2009. *Visual Acoustics: The Modernism of Julius Shulman*. Shulman Project Partners. Kanopy video, 01:23:00. Accessed July 4, 2021. https<nolink>://www.kanopy.com/product/visual-acoustics. {/.hanging-indent}
 > 
-> Teller, Raymond Joseph, dir. 2013. *Tim's Vermeer*. EduTV video, 01:16:27. Accessed July 4, 2021. Informit EduTV.
+> {.hanging-indent}Teller, Raymond Joseph, dir. 2013. *Tim's Vermeer*. EduTV video, 01:16:27. Accessed July 4, 2021. Informit EduTV. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1078,11 +1079,11 @@ For the reference list:
 
 Creator's Family Name, Given Name, role. Year. *Title of Program*. Season number, episode number, “Title of Episode.” Additional contributors. Aired date, on Studio/station. Medium.
 
-> Berger, John, presenter. 1972. *Ways of Seeing*. “Part 1: Reproductions.” Produced by Michael Dibb. Aired January 8, 1972, on BBC. Accessed July 4, 2021. RMIT Digital Collections.
+> {.hanging-indent}Berger, John, presenter. 1972. *Ways of Seeing*. “Part 1: Reproductions.” Produced by Michael Dibb. Aired January 8, 1972, on BBC. Accessed July 4, 2021. RMIT Digital Collections. {/.hanging-indent}
 > 
-> McCloud, Kevin, presenter. 2017. *Grand Designs*. Season 18, episode 7, “Peak District: Post-Industrial House.” Aired October 18, 2017, on Channel 4. Television Broadcast.
+> {.hanging-indent}McCloud, Kevin, presenter. 2017. *Grand Designs*. Season 18, episode 7, “Peak District: Post-Industrial House.” Aired October 18, 2017, on Channel 4. Television Broadcast. {/.hanging-indent}
 > 
-> Perkins, Hetti, writer and presenter. 2014. *Art and Soul*. Season 2, episode 3, “Love and Longing.” Directed by Steven McGregor. Aired July 22, 2014, on ABC TV. Sydney, NSW: Arthouse Films. DVD.
+> {.hanging-indent}Perkins, Hetti, writer and presenter. 2014. *Art and Soul*. Season 2, episode 3, “Love and Longing.” Directed by Steven McGregor. Aired July 22, 2014, on ABC TV. Sydney, NSW: Arthouse Films. DVD. {/.hanging-indent}
 
 
 ###### end-subtype-content
@@ -1116,7 +1117,7 @@ To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preced
 
 Presenter’s Family Name, Given Name. Year broadcast. “Episode Title.” Date broadcast. In *Program Title*. Place produced: Network. Medium.
 
-> Barclay, Paul. 2017. "Julia Gillard Calls for More Preventative Mental Health Care." October 12, 2017. In *Big Ideas*. Adelaide, SA: ABC Radio National. Radio broadcast.
+> {.hanging-indent}Barclay, Paul. 2017. "Julia Gillard Calls for More Preventative Mental Health Care." October 12, 2017. In *Big Ideas*. Adelaide, SA: ABC Radio National. Radio broadcast. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1157,9 +1158,9 @@ To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preced
 
 Presenter’s Family Name, Given Name. Year. “Episode Title.” Episode number. Date aired. In *Podcast Title*. Additional contributors. Podcast, Duration. Accessed date. URL.
 
-> Koenig, Sarah. 2014. “The Alibi.” Season 1, episode 1. October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder, and Dana Chivvis. Podcast, 52:00. Accessed July 9, 2021. https<nolink>://serialpodcast.org/season-one/1/the-alibi.
+> {.hanging-indent}Koenig, Sarah. 2014. “The Alibi.” Season 1, episode 1. October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder, and Dana Chivvis. Podcast, 52:00. Accessed July 9, 2021. https<nolink>://serialpodcast.org/season-one/1/the-alibi. {/.hanging-indent}
 > 
-> Mars, Roman. 2020. “The Smell of Concrete After Rain.” Episode 400. April 28, 2020. In *99% Invisible*. Produced by Avery Trufelman. Podcast, 29:15. Accessed July 9, 2021. https<nolink>://99percentinvisible.org/episode/the-smell-of-concrete-after-rain.
+> {.hanging-indent}Mars, Roman. 2020. “The Smell of Concrete After Rain.” Episode 400. April 28, 2020. In *99% Invisible*. Produced by Avery Trufelman. Podcast, 29:15. Accessed July 9, 2021. https<nolink>://99percentinvisible.org/episode/the-smell-of-concrete-after-rain. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1212,11 +1213,11 @@ For the reference list:
 
 Creator's Family Name, Given Name. Year published. “Title of Track.” Track number on *Title of Recording*. Additional contributors. Publisher. Format. URL.
 
-> Sinatra, Nancy, and Lee Hazelwood. 1968. “Some Velvet Morning.” Track 8 on *Nancy and Lee*. Reprise RS-6273. 33⅓ rpm.
+> {.hanging-indent}Sinatra, Nancy, and Lee Hazelwood. 1968. “Some Velvet Morning.” Track 8 on *Nancy and Lee*. Reprise RS-6273. 33⅓ rpm. {/.hanging-indent}
+>  
+> {.hanging-indent}Strauss, Richard. 1940. *Don Quixote*. With Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy. Recorded February 24, 1940. Biddulph LAB 042, 1991. CD. {/.hanging-indent}
 > 
-> Strauss, Richard. 1940. *Don Quixote*. With Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy. Recorded February 24, 1940. Biddulph LAB 042, 1991. CD.
-> 
-> Yothu Yindi. 1991.“Treaty - Radio Mix.” Track 15 on *Tribal Voice*. Bloodlines, 2012. Spotify streaming audio. https<nolink>://open.spotify.com/track/0RGD7VXcMiPGmnha3vXSt3?si=3a405ec23ae341d5.
+> {.hanging-indent}Yothu Yindi. 1991.“Treaty - Radio Mix.” Track 15 on *Tribal Voice*. Bloodlines, 2012. Spotify streaming audio. https<nolink>://open.spotify.com/track/0RGD7VXcMiPGmnha3vXSt3?si=3a405ec23ae341d5. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1245,9 +1246,9 @@ Include an accessed date and URL/ Database name for online scores.
 
 Composer’s Family Name, Given Name. Year of publication. *Title of Score*. Place of publication: Publisher.
 
-> Reich, Steve. 1980. *Four Organs*. London: Universal Edition. Accessed July 29, 2021. Alexander Street.
+> {.hanging-indent}Reich, Steve. 1980. *Four Organs*. London: Universal Edition. Accessed July 29, 2021. Alexander Street. {/.hanging-indent}
 > 
-> Stravinsky, Igor. 1921. *The Rite of Spring*. New York: Boosey and Hawkes.
+> {.hanging-indent}Stravinsky, Igor. 1921. *The Rite of Spring*. New York: Boosey and Hawkes. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1296,11 +1297,11 @@ Composer’s Family Name, Given Name. Year of publication. *Title of Score*. Pla
 
 Author. Year. "Title of Webpage." Website name (owning organisation). Date viewed/accessed. URL.
 
-> Alliance for Linguistic Diversity. n.d. “Balkan Romani.” Endangered Languages. Accessed April 6, 2016. http<nolink>://www.endangeredlanguages.com/lang/5342.
+> {.hanging-indent}Alliance for Linguistic Diversity. n.d. “Balkan Romani.” Endangered Languages. Accessed April 6, 2016. http<nolink>://www.endangeredlanguages.com/lang/5342. {/.hanging-indent}
 > 
-> Australian Society for Indigenous Languages. n.d. "Supporting Indigenous Language Communities." Australian Society for Indigenous Languages. Accessed July 26, 2018. http<nolink>://www.ausil.org.au/.
+> {.hanging-indent}Australian Society for Indigenous Languages. n.d. "Supporting Indigenous Language Communities." Australian Society for Indigenous Languages. Accessed July 26, 2018. http<nolink>://www.ausil.org.au/. {/.hanging-indent}
 > 
-> Scrubt, Mark. 2017. "Iceberg Palace: Halo House." ArchitectureAU. Accessed September 30, 2017. https<nolink>://architectureau.com/articles/halo-house/.
+> {.hanging-indent}Scrubt, Mark. 2017. "Iceberg Palace: Halo House." ArchitectureAU. Accessed September 30, 2017. https<nolink>://architectureau.com/articles/halo-house/. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1339,9 +1340,9 @@ Author. Year. "Title of Webpage." Website name (owning organisation). Date viewe
 
 Author's Family Name, Given Name OR Organisation Name. Year. *Document Title: Subtitle*. Document No. Place of Publication: Publisher. DOI or URL.
 
-> Australia. Department of Agriculture, Fisheries and Forestry. 2003. *Quarantine Requirements for the Importation of Live Laboratory Rats and Mice and Their Reproductive Material*. http<nolink>://www.daff.gov.au/\_\_data/assets/pdf\_file/0016/13822/2003-06a.pdf.
+> {.hanging-indent}Australia. Department of Agriculture, Fisheries and Forestry. 2003. *Quarantine Requirements for the Importation of Live Laboratory Rats and Mice and Their Reproductive Material*. http<nolink>://www.daff.gov.au/\_\_data/assets/pdf\_file/0016/13822/2003-06a.pdf. {/.hanging-indent}
 > 
-> Centre for Epidemiology and Evidence. 2017. *NSW Mothers and Babies Report 2016*. Sydney: NSW Health. http<nolink>://www.health.nsw.gov.au/hsnsw/Publications/mothers-and-babies-2016.pdf.
+> {.hanging-indent}Centre for Epidemiology and Evidence. 2017. *NSW Mothers and Babies Report 2016*. Sydney: NSW Health. http<nolink>://www.health.nsw.gov.au/hsnsw/Publications/mothers-and-babies-2016.pdf. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1384,11 +1385,11 @@ Author Family Name, Given Name. Year Posted. "Title of Blog Post." *Title of Blo
 
 The word blog is added in brackets after the title of the blog, unless the word blog is part of the title.
 
-> “Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. *State Library of Victoria Blog*. June 26, 2017. Accessed April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt.
+> {.hanging-indent}“Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. *State Library of Victoria Blog*. June 26, 2017. Accessed April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt. {/.hanging-indent}
 > 
-> Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue* (blog). May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db.
+> {.hanging-indent}Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue* (blog). May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
 > 
-> Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs*. January 28, 2022. Accessed April 12, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams.
+> {.hanging-indent}Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs*. January 28, 2022. Accessed April 12, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1435,11 +1436,11 @@ Private content, including direct messages, should be cited as personal communic
 
 Author’s Family Name, Given Name (Author’s Screen Name). Year Posted. "Quote up to the first 160 characters of the post". Name of Social Media Site, Month day, Year posted. URL.
 
-> National Gallery of Victoria. 2021. “1 MIN READ: Take a moment to learn about Kabuki theatre with NGV Senior Curator of Asian Art, Wayne Crothers.” Facebook, August 25, 2021. https<nolink>://www.facebook.com/NGVMelbourne/posts/10159547500576163.
+> {.hanging-indent}National Gallery of Victoria. 2021. “1 MIN READ: Take a moment to learn about Kabuki theatre with NGV Senior Curator of Asian Art, Wayne Crothers.” Facebook, August 25, 2021. https<nolink>://www.facebook.com/NGVMelbourne/posts/10159547500576163. {/.hanging-indent}
 > 
-> Tame, Grace (@tamepunk). 2021. "“Making Noise” Kirsty Neilson—for this year’s Archibald Prize". Instagram photo, May 27, 2021. https<nolink>://www.instagram.com/p/CPXh8CRLJTE/.
+> {.hanging-indent}Tame, Grace (@tamepunk). 2021. "“Making Noise” Kirsty Neilson—for this year’s Archibald Prize". Instagram photo, May 27, 2021. https<nolink>://www.instagram.com/p/CPXh8CRLJTE/. {/.hanging-indent}
 > 
-> Ford, Clementine (@clementine\_ford). 2021. “Let’s have a conversation about consent! with Clementine Ford." Twitter video, April 27, 2021. https<nolink>://twitter.com/clementine\_ford/status/1386832309777616898.
+> {.hanging-indent}Ford, Clementine (@clementine\_ford). 2021. “Let’s have a conversation about consent! with Clementine Ford." Twitter video, April 27, 2021. https<nolink>://twitter.com/clementine\_ford/status/1386832309777616898. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1504,13 +1505,13 @@ For hard copy versions of government publications, omit the URL.
 
 If there is no place of publication, publisher or report number for a report, leave it out of your reference.
 
-> AIHW (Australian Institute of Health and Welfare). 2021. *Australia’s welfare 2021 data insights*. Australia’s welfare series no. 15. Cat. no. AUS 236. Canberra, ACT: Australian Institute of Health and Welfare. https<nolink>://www.aihw.gov.au/getmedia/ef5c05ee-1e4a-4b72-a2cd-184c2ea5516e/aihw-aus-236.pdf.aspx.
+> {.hanging-indent}AIHW (Australian Institute of Health and Welfare). 2021. *Australia’s welfare 2021 data insights*. Australia’s welfare series no. 15. Cat. no. AUS 236. Canberra, ACT: Australian Institute of Health and Welfare. https<nolink>://www.aihw.gov.au/getmedia/ef5c05ee-1e4a-4b72-a2cd-184c2ea5516e/aihw-aus-236.pdf.aspx. {/.hanging-indent}
 > 
-> ARC (Australian Research Council). 2017. *ARC Open Access Policy*. Version 2017.1. Canberra, ACT: Australian Research Council. https<nolink>://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy.
+> {.hanging-indent}ARC (Australian Research Council). 2017. *ARC Open Access Policy*. Version 2017.1. Canberra, ACT: Australian Research Council. https<nolink>://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy. {/.hanging-indent}
 > 
-> Australian Bureau of Statistics. 2012. *Australian Social Trends, December 2012*. Cat. no. 4102.0. Canberra, ACT: Australian Bureau of Statistics. http<nolink>://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4102.0Main+Features1Dec%202012?OpenDocument.
+> {.hanging-indent}Australian Bureau of Statistics. 2012. *Australian Social Trends, December 2012*. Cat. no. 4102.0. Canberra, ACT: Australian Bureau of Statistics. http<nolink>://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4102.0Main+Features1Dec%202012?OpenDocument. {/.hanging-indent}
 > 
-> CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future*. Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030.
+> {.hanging-indent}CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future*. Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1545,9 +1546,9 @@ If using a print standard, omit the URL or database name.
 
 Standard Issuer Name. Year. *Title of Standard*. Standard Number. Place: Publisher. URL or database name.
 
-> Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. Sydney: SAI Global. https<nolink>://www.saiglobal.com.
+> {.hanging-indent}Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. Sydney: SAI Global. https<nolink>://www.saiglobal.com. {/.hanging-indent}
 > 
-> Standards Australia. 2009. *Wire-Rope Slings: Product Specification*. AS 1666.1-2009. Sydney: SAI Global. https<nolink>://www.saiglobal.com.
+> {.hanging-indent}Standards Australia. 2009. *Wire-Rope Slings: Product Specification*. AS 1666.1-2009. Sydney: SAI Global. https<nolink>://www.saiglobal.com. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1594,33 +1595,33 @@ For more than four (4) Creators, use Creator1 Family Name et al
 
 For one (1) Creator:
 
-Creator's Family Name, First Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+{.hanging-indent}Creator's Family Name, First Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL. {/.hanging-indent}
 
-> Bell, Alexander Graham. 1876. Improvement in telegraphy. U.S. Patent 174465A, filed February 14, 1876, and issued March 7, 1876. https<nolink>://www.google.com/patents/US174465.
+> {.hanging-indent}Bell, Alexander Graham. 1876. Improvement in telegraphy. U.S. Patent 174465A, filed February 14, 1876, and issued March 7, 1876. https<nolink>://www.google.com/patents/US174465. {/.hanging-indent}
 
 For two (2) Creators:
 
-Creator1 Family Name, First Name, Creator2 First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+{.hanging-indent}Creator1 Family Name, First Name, Creator2 First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL. {/.hanging-indent}
 
-> Cook, Fred C., and William H. Donaldson. 2010. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, filed May 7, 2009, and issued November 11, 2010.https<nolink>://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=%22mega+yacht%22&s2=%22sail+feeder%22&OS=%22mega+yacht%22+AND+%22sail+feeder%22&RS=%22mega+yacht%22+AND+%22sail+feeder%22.
+> {.hanging-indent}Cook, Fred C., and William H. Donaldson. 2010. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, filed May 7, 2009, and issued November 11, 2010.https<nolink>://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=%22mega+yacht%22&s2=%22sail+feeder%22&OS=%22mega+yacht%22+AND+%22sail+feeder%22&RS=%22mega+yacht%22+AND+%22sail+feeder%22. {/.hanging-indent}
 
 For three (3) Creators:
 
-Creator1 Family Name, First Name, Creator2 First Name Family Name, and Creator3 First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+{.hanging-indent}Creator1 Family Name, First Name, Creator2 First Name Family Name, and Creator3 First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL. {/.hanging-indent}
 
-> Kinloch, Ian, Robert Young, and Lei Gong. 2016. Graphene Composites. Australian application number 2016222482, filed September 2, 2016, and issued September 22, 2016. https<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2016222482.
+> {.hanging-indent}Kinloch, Ian, Robert Young, and Lei Gong. 2016. Graphene Composites. Australian application number 2016222482, filed September 2, 2016, and issued September 22, 2016. https<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2016222482. {/.hanging-indent}
 
 For four (4) to ten (10) Creators:
 
-Creator1's Family Name, First Name, Creator2 First Name Family Name, Creator3 First Name Family Name, Creator4 First Name Family Name.......and Last Creator First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+{.hanging-indent}Creator1's Family Name, First Name, Creator2 First Name Family Name, Creator3 First Name Family Name, Creator4 First Name Family Name.......and Last Creator First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL. {/.hanging-indent}
 
-> Estrada, Diana, Pilar Jones, Mark Taylor, Joseph Stopp, Matthew Highton, and Raymond Depp. 2017. Turbine for hair dryer. AU12345678A1, filed January 1, 2016, and issued January 30, 2017. https<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo+12345678.
+> {.hanging-indent}Estrada, Diana, Pilar Jones, Mark Taylor, Joseph Stopp, Matthew Highton, and Raymond Depp. 2017. Turbine for hair dryer. AU12345678A1, filed January 1, 2016, and issued January 30, 2017. https<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo+12345678. {/.hanging-indent}
 
 For eleven (11) or more Creators, list up to seven (7) Creators and end with et al:
 
-Creator1 Family Name, First Name, Creator2 First Name Family Name, Creator3 First Name Family Name, Creator4 First Name Family Name.......Creator7 First Name Family Name et al. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+{.hanging-indent}Creator1 Family Name, First Name, Creator2 First Name Family Name, Creator3 First Name Family Name, Creator4 First Name Family Name.......Creator7 First Name Family Name et al. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL. {/.hanging-indent}
 
-> Tamworth, Natalie, Oliver Poole, Hugh McCrae, Brian Webber, Marian Kwok, Caroline Skims, Paul Romany et al. 2020. Method for cultivating seeds. U.S. Patent 123456789A1, filed October 1, 2019, and issued October 31, 2020. https<nolink>://www.google.com/patents/US123456789A1.
+> {.hanging-indent}Tamworth, Natalie, Oliver Poole, Hugh McCrae, Brian Webber, Marian Kwok, Caroline Skims, Paul Romany et al. 2020. Method for cultivating seeds. U.S. Patent 123456789A1, filed October 1, 2019, and issued October 31, 2020. https<nolink>://www.google.com/patents/US123456789A1. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1670,19 +1671,19 @@ If you refer to any visual material, i.e. art, design or architecture, you have 
 
 ##### Image reproduced in a book
 
-> Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book*. Place of Publication: Publisher's Name.
+> {.hanging-indent}Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book*. Place of Publication: Publisher's Name. {/.hanging-indent}
 
 ##### Image from a database
 
-> Artist Family Name, First name. Year. *Title: Subtitle.* Place: Publisher. medium (if appropriate), length of work (if appropriate). Database Name.
+> {.hanging-indent}Artist Family Name, First name. Year. *Title: Subtitle.* Place: Publisher. medium (if appropriate), length of work (if appropriate). Database Name. {/.hanging-indent}
 
 ##### Online image/artwork
 
-> Artist or Creator, A. Year. *Title: Subtitle.* medium (if appropriate). Place: Publisher. URL.
+> {.hanging-indent}Artist or Creator, A. Year. *Title: Subtitle.* medium (if appropriate). Place: Publisher. URL. {/.hanging-indent}
 
 ##### Original image/artwork (viewed in a gallery or collection)
 
-> Artist Family Name, Artist Given Name. Year of production. *Title of Artwork*. Medium, dimensions (if available). Collection or exhibition, Place of collection or exhibition.
+> {.hanging-indent}Artist Family Name, Artist Given Name. Year of production. *Title of Artwork*. Medium, dimensions (if available). Collection or exhibition, Place of collection or exhibition. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1709,11 +1710,11 @@ Artist’s Family Name Year of publication
 
 Artist's Family Name, Given Name. Year. *Title: Subtitle.* Medium (if appropriate). Place: Publisher. URL or database name
 
-> Burn, Henry. 1861. *Swanston Street from the Bridge*. Oil on canvas. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/.
+> {.hanging-indent}Burn, Henry. 1861. *Swanston Street from the Bridge*. Oil on canvas. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/. {/.hanging-indent}
 > 
-> Dupain, Max. 1937. *Sunbaker. Photograph.* Photograph. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/7621/.
+> {.hanging-indent}Dupain, Max. 1937. *Sunbaker. Photograph.* Photograph. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/7621/. {/.hanging-indent}
 > 
-> Pinkston, Wayne, 2017.*The Elephant Walks at Night*. Flickr. https<nolink>://www.flickr.com/photos/pinks2000/38054867995/in/explore-2017-12-09/.
+> {.hanging-indent}Pinkston, Wayne, 2017.*The Elephant Walks at Night*. Flickr. https<nolink>://www.flickr.com/photos/pinks2000/38054867995/in/explore-2017-12-09/. {/.hanging-indent}
 
 #### Artwork viewed in person
 
@@ -1743,11 +1744,11 @@ Artist’s Family Name, *Title of work*, Year of production, type of materials (
 
 Artist’s Family Name, Given Name. Year of production. *Title of Artwork*. Medium, dimensions (if available). Collection or exhibition, Place of collection or exhibition.
 
-> Anadol, Refik. 2020. *Quantum Memories.* AI Data Sculpture, Custom software, quantum computing data, generative algorithm with artificial intelligence (AI), real time digital animation on LED screen, 4 channel sound, 10m x 10m x 2.5m. National Gallery of Victoria, Melbourne.
+> {.hanging-indent}Anadol, Refik. 2020. *Quantum Memories.* AI Data Sculpture, Custom software, quantum computing data, generative algorithm with artificial intelligence (AI), real time digital animation on LED screen, 4 channel sound, 10m x 10m x 2.5m. National Gallery of Victoria, Melbourne. {/.hanging-indent}
 > 
-> O'Keeffe,Georgia. 1938. *The Cliff Chimneys*. Milwaukee Art Museum, Wisconsin.
+> {.hanging-indent}O'Keeffe,Georgia. 1938. *The Cliff Chimneys*. Milwaukee Art Museum, Wisconsin. {/.hanging-indent}
 > 
-> Pollock, Jackson. 1952. *Blue poles*. Oil, enamel, aluminium paint, glass on canvas. National Gallery of Australia.
+> {.hanging-indent}Pollock, Jackson. 1952. *Blue poles*. Oil, enamel, aluminium paint, glass on canvas. National Gallery of Australia. {/.hanging-indent}
 
 #### Artwork from a publication
 
@@ -1767,11 +1768,11 @@ Create the reference list entry according to the rules for the source. List auth
 
 Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book*. Place of Publication: Publisher's Name.
 
-> Baratay, Eric and Elisabeth Hardouin Fugier. 2002. *Zoo*. London: Reaktion Books.
+> {.hanging-indent}Baratay, Eric and Elisabeth Hardouin Fugier. 2002. *Zoo*. London: Reaktion Books. {/.hanging-indent}
 > 
-> Buhler Lynes, Barbara, Lesley Poling-Kempes and Frederick W. Turner. 2004. *Georgia O'Keeffe and New Mexico: A Sense of Place*. Princeton: Princeton University Press.
+> {.hanging-indent}Buhler Lynes, Barbara, Lesley Poling-Kempes and Frederick W. Turner. 2004. *Georgia O'Keeffe and New Mexico: A Sense of Place*. Princeton: Princeton University Press. {/.hanging-indent}
 > 
-> Darian-Smith, Kate, Kay Schaffer, and Roslyn Poignant. 1993. *Captured Lives: Australian Captivity Narratives*. London: Menzies Centre for Australian Studies Monograph, University of London.
+> {.hanging-indent}Darian-Smith, Kate, Kay Schaffer, and Roslyn Poignant. 1993. *Captured Lives: Australian Captivity Narratives*. London: Menzies Centre for Australian Studies Monograph, University of London. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1887,7 +1888,7 @@ Author's Last Name/s Year of Publication, page number, table or graph number
 
 If for a book: First Author's Family Names, First Name, Other Author's First and Family Names. Year. Book Title: Subtitle. edition. Place of Publication: Publisher.
 
-> Chavas, Jean-Paul, David Hummels, and Brian D. Wright, eds. 2014. The Economics of Food Price Volatility. Chicago: University of Chicago Press.
+> {.hanging-indent}Chavas, Jean-Paul, David Hummels, and Brian D. Wright, eds. 2014. The Economics of Food Price Volatility. Chicago: University of Chicago Press. {/.hanging-indent}
 
 #### Reproducing or adapting a figure (chart, graph or other visual representation of data)
 
@@ -1913,7 +1914,7 @@ Follow the reference list rules for the type of resource you are citing ie. book
 
 Author’s or Editor’s Surname, Given Name their role. Year of publication. *Title of Publication: Subtitle of Publication.* Place of publication: Publisher’s name.
 
-> Sobel, Richard ed., 1993. *Public Opinion in US Foreign Policy: The Controversy over Contra Aid.* Boston: Rowman and Littlefield.
+> {.hanging-indent}Sobel, Richard ed., 1993. *Public Opinion in US Foreign Policy: The Controversy over Contra Aid.* Boston: Rowman and Littlefield. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1960,9 +1961,9 @@ An access date is only included in the reference list entry if no date of public
 
 Author family name, First name OR Organisation name. Year of publication. ‘Title of dataset.’ Identifying number if applicable. *Title of series if applicable*. Dataset. Accessed Month Day, Year if applicable. URL.
 
-> Australian Bureau of Statistics. 2020. ‘Table 15: Average weekly cash earnings, Australia by sector (dollars) – original.’ *6302.0 Average Weekly Earnings, Australia, May 2020.* Dataset. https<nolink>://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/may-2020
+> {.hanging-indent}Australian Bureau of Statistics. 2020. ‘Table 15: Average weekly cash earnings, Australia by sector (dollars) – original.’ *6302.0 Average Weekly Earnings, Australia, May 2020.* Dataset. https<nolink>://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/may-2020 {/.hanging-indent}
 > 
-> Bureau of Meteorology. 2022. ‘Melbourne Botanical Gardens.’ Station number 86232. *Monthly rainfall*. Dataset. http<nolink>://www.bom.gov.au/climate/data/?ref=ftr.
+> {.hanging-indent}Bureau of Meteorology. 2022. ‘Melbourne Botanical Gardens.’ Station number 86232. *Monthly rainfall*. Dataset. http<nolink>://www.bom.gov.au/climate/data/?ref=ftr. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -2005,11 +2006,11 @@ When the organisation-as-author and publisher are the same entity, include the o
 
 For hard copy fact sheets, omit the URL.
 
-> ABS (Australian Bureau of Statistics). n.d. *2016 Census data summary: cultural and language diversity fact sheet (Melbourne)*. Canberra, ACT: Australian Bureau of Statistics. https<nolink>://www.abs.gov.au/websitedbs/d3310114.nsf/home/Census+Data+Seminars/$File/Melbourne+Fact+Sheet.pdf.
+> {.hanging-indent}ABS (Australian Bureau of Statistics). n.d. *2016 Census data summary: cultural and language diversity fact sheet (Melbourne)*. Canberra, ACT: Australian Bureau of Statistics. https<nolink>://www.abs.gov.au/websitedbs/d3310114.nsf/home/Census+Data+Seminars/$File/Melbourne+Fact+Sheet.pdf. {/.hanging-indent}
 > 
-> NASA. 2017. *UTM: Air traffic management for low-altitude drones*. Washington, DC: NASA. https<nolink>://www.nasa.gov/sites/default/files/atoms/files/utm-factsheet-09-06-16.pdf.
+> {.hanging-indent}NASA. 2017. *UTM: Air traffic management for low-altitude drones*. Washington, DC: NASA. https<nolink>://www.nasa.gov/sites/default/files/atoms/files/utm-factsheet-09-06-16.pdf. {/.hanging-indent}
 > 
-> Trade Victoria. 2016. *India*. Melbourne, VIC: State Government of Victoria. https<nolink>://global.vic.gov.au/\_\_data/assets/pdf\_file/0009/87039/India-Fact-Sheet.pdf.
+> {.hanging-indent}Trade Victoria. 2016. *India*. Melbourne, VIC: State Government of Victoria. https<nolink>://global.vic.gov.au/\_\_data/assets/pdf\_file/0009/87039/India-Fact-Sheet.pdf. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -2048,7 +2049,7 @@ Examples of course materials are:
 
 Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date. Format.
 
-> Hong, Viviana. 2015. “Censorship in Children’s Literature during Argentina’s Dirty War (1976–1983)” EDU1234: Issues in Children’s Literature. Chicago: University of Chicago. April 30, 2015. Lecture.
+> {.hanging-indent}Hong, Viviana. 2015. “Censorship in Children’s Literature during Argentina’s Dirty War (1976–1983)” EDU1234: Issues in Children’s Literature. Chicago: University of Chicago. April 30, 2015. Lecture. {/.hanging-indent}
 
 #### Lecture recordings
 
@@ -2072,7 +2073,7 @@ Include the lecture URL if there is one available. If the course materials can o
 
 Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date of lecture. Format. URL or Database name.
 
-> Fry, Andrew. 2016. "Lecture 2 - Data Communication and Net-Centric Computing: Lecture 8." COSC1111: *Data Communication and Net-Centric Computing.* Melbourne: RMIT University. March 8, 2016. Lecture recording. Canvas.
+> {.hanging-indent}Fry, Andrew. 2016. "Lecture 2 - Data Communication and Net-Centric Computing: Lecture 8." COSC1111: *Data Communication and Net-Centric Computing.* Melbourne: RMIT University. March 8, 2016. Lecture recording. Canvas. {/.hanging-indent}
 
 #### PowerPoint slides from lectures
 
@@ -2096,7 +2097,7 @@ Include the lecture URL if there is one available. If the course materials can o
 
 Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date accessed. Format. URL or Database name.
 
-> Sample, Sara. 2017. "Human rights in indigenous communities: Lecture 8." HUSO2301: *Applied Human Rights and indigenous Peoples.* Melbourne: RMIT University. Accessed April 10, 2017. Powerpoint presentation. Canvas.
+> {.hanging-indent}Sample, Sara. 2017. "Human rights in indigenous communities: Lecture 8." HUSO2301: *Applied Human Rights and indigenous Peoples.* Melbourne: RMIT University. Accessed April 10, 2017. Powerpoint presentation. Canvas. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -2174,9 +2175,9 @@ For the reference list:
 
 Interviewee’s Family Name, Given Name. Year of publication. “Title of content”. Interview by Interviewer’s Full Name. *Title of Publication*. Date of publication. Format. Accessed date. URL.
 
-> Herndon, Holly and Mat Dryhurst. 2020. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening).” Interview by Sean Dockray. *Liquid Architecture*. January 20, 2020. Podcast, 1:11:00. Accessed July 9, 2021. https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474.
+> {.hanging-indent}Herndon, Holly and Mat Dryhurst. 2020. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening).” Interview by Sean Dockray. *Liquid Architecture*. January 20, 2020. Podcast, 1:11:00. Accessed July 9, 2021. https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474. {/.hanging-indent}
 > 
-> Stamper, Kory. 2017. “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English.” Interview by Terry Gross. *Fresh Air*, NPR, April 19, 2017. Audio, 35:25. Accessed July 9, 2021. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english.
+> {.hanging-indent}Stamper, Kory. 2017. “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English.” Interview by Terry Gross. *Fresh Air*, NPR, April 19, 2017. Audio, 35:25. Accessed July 9, 2021. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english. {/.hanging-indent}
 
 #### Unpublished interviews
 
@@ -2205,7 +2206,7 @@ For the reference list:
 
 Interviewee’s Family Name, Given Name. Interview by Interviewer’s Full Name. Date of interview. Place.
 
-> Artcore, Lance. 2019. Interview by author. April 23, 2019. Melbourne.
+> {.hanging-indent}Artcore, Lance. 2019. Interview by author. April 23, 2019. Melbourne. {/.hanging-indent}
 
 
 ###### end-subtype-content
@@ -2247,7 +2248,7 @@ If you cite or quote your previous work, treat yourself as the author and your o
 
 Student Family Name, Given Name. Year. "Title of work." Unpublished manuscript, last modified Month Day, Year. University, City. Format.
 
-> Smith, Jane. 2018. "An analysis of personality theory." Unpublished manuscript, last modified September 4, 2018. RMIT University, Melbourne. Microsoft Word file.
+> {.hanging-indent}Smith, Jane. 2018. "An analysis of personality theory." Unpublished manuscript, last modified September 4, 2018. RMIT University, Melbourne. Microsoft Word file. {/.hanging-indent}
 
 
 ###### end-subtype-content
@@ -2283,9 +2284,9 @@ When the document is labelled PhD dissertation, use the abbreviation PhD diss.
 
 Author’s Family Name, Author’s Given Name. Year of Award. “Title of Thesis or Dissertation: Subtitle.” Master's thesis, PhD thesis or PhD diss., University’s Name. URL or Database/Repository name (Document identifier).
 
-> Court, Tanya. 2019. "The Site Re-Presented: Everyday Civic Landscapes." PhD diss., RMIT University. RMIT Research Repository (9921864000901341).
+> {.hanging-indent}Court, Tanya. 2019. "The Site Re-Presented: Everyday Civic Landscapes." PhD diss., RMIT University. RMIT Research Repository (9921864000901341). {/.hanging-indent}
 > 
-> Rutz, Cynthia Lillian. 2013. “King Lear and Its Folktale Analogues.” PhD diss., University of Chicago.
+> {.hanging-indent}Rutz, Cynthia Lillian. 2013. “King Lear and Its Folktale Analogues.” PhD diss., University of Chicago. {/.hanging-indent}
 
 ###### end-subtype-content
 
