@@ -1,4 +1,4 @@
-<!-- Chicago Notes and Bibliography (B) Style Guide -->
+<!-- Chicago Author-Date (B) v.17 Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
@@ -25,7 +25,7 @@
 ## Using Chicago B
 ## Books
 ## Journals
-## News
+## Newspaper articles
 ## Audiovisual materials
 ## Websites and Social media
 ## Reports and Standards
@@ -46,20 +46,25 @@
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to Chicago Notes and Bibliography
+### Introduction to Chicago Author - Date
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
 
-There are two formats of referencing within the Chicago Style. One is **notes and bibliography** and the other is **author-date** style. This guide provides examples and advice for **notes and bibliography only**. Notes and bibliography uses a numerical system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography should be included at the end of the document, preferably in alphabetical order.
+**Important: this is a guide only.** To avoid losing marks:
 
-For examples and advice regarding **author-date style** of Chicago, please see [RMIT Easy Cite guide](https://www.lib.rmit.edu.au/easy-cite/).
+- Confirm referencing requirements your lecturer
 
-**Footnotes/ Endnotes** : Footnotes or endnotes are numbered and correspond to note reference numbers in the text.
+- Use The Chicago Manual of Style. 17th ed. Chicago: University of Chicago Press, 2017 to clarify referencing rules or if you need more examples. This guide is based on the 17th edition of The Chicago Manual of Style.
 
-**Bibliography** : A bibliography is the term used for a list of resources consulted (e.g. books, articles, websites) when writing an assignment.
+- Additional information on Chicago referencing for students can be found within: A Manual for Writers of Research Papers, Theses, and Dissertations : Chicago Style for Students and Researchers 9th. edition
 
-This guide is based on the Chicago Manual of Style 17th edition [The Chicago manual of style. 17th edition.](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341)
+The University of Chicago has developed several editions of the Chicago Manual of Style to aid authors in the preparation of manuscripts, which include referencing styles.
+
+There are two systems outlined by the Chicago referencing style: **Author-Date** (Chicago B) and **Notes-Bibliography** (Chicago A).
+
+This guide use examples in the **author-date** system. The author-date system requires in-text citations within the assignment, along with a full bibliographic entry in the reference list at the end of the assignment.
+
 
 ###### end-subtype-content
 
@@ -68,93 +73,52 @@ This guide is based on the Chicago Manual of Style 17th edition [The Chicago man
 
 ###### start-subtype-item
 
-### General rules for Chicago notes - footnotes and endnotes
+### General rules for in-text citations
 
 ###### start-subtype-content
 
-Always check with your tutor or lecturer about any specific requirements they have around referencing.
+- Use in-text citations to acknowledge each author or source of information used within your writing either by paraphrasing or using a direct quote.
 
-Look at the example documents to view footnotes and endnotes in Microsoft Word.
+- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see [Learning lab: Guide to paraphrasing](https://emedia.rmit.edu.au/learninglab/content/paraphrasing) (opens in a new window)
 
-- [Sample essay - footnotes](https://rmit.libguides.com/ld.php?content_id=49642286)
+- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see [Learning Lab: Guide to inserting references](https://emedia.rmit.edu.au/learninglab/content/inserting-references) (opens in a new window)
 
-- [Sample essay - endnotes](https://rmit.libguides.com/ld.php?content_id=49642290)
+- For specific advice on each reference you must determine the type of resource ie. book, journal article etc. and follow the recommended advice within this guide.
 
-#### Notes - Footnotes or Endnotes
+- In the Chicago Author Date style, in-text paraphrased citations are entered in two ways:
+    - 'Information prominent' (the author's name is within the parentheses)
+    - 'Author prominent' (the author's name is outside the parentheses)
 
-- Each time you paraphrase, summarise, or use a direct quote in your paper, include a note to cite your source. A note can be a footnote or an endnote.
 
-- A note number should be placed at the end of a sentence or clause, and after the punctuation.
+> The conclusion reached in a recent study.. (Cochrane 2021)
 
-- Footnotes can be found at the bottom of each page, i.e. in the footer, whereas endnotes are placed at the end of the document, chapter or section of writing.
+> Cochrane (2021) concluded...
 
-- Notes require you to mark all in-text citations with a superscript number and provide a citation in the note. Notes should be numbered in sequential order.
+- In the Chicago Author Date style, to add a direct quote in your work, copy the exact words from the original source. Use quotation marks " " at the beginning and end of the original source. Cite the author year and page number information.
 
-- Previous editions of the Chicago Manual of Style recommended the use of *ibid.* (from *ibidem*, “in the same place”) when repeating a citation in footnotes. Unlike previous editions, the 17th ed. of the Chicago Manual of Style discourages the use of *ibid.* in favour of shortened citations.
+> Reflective writing in a learning journal can increase metacognition by "assisting students to develop greater self-awareness in terms of time management and learning style" (Lorenzi 2021, 3).
 
-- Chicago does not require you to include an access date unless no date of publication or revision can be determined from the source. However, you may wish to check with your lecturer first as they may have a preference for including access dates.
+- When no author is available, in the text, a short version of the title (up to four words) may be used.
 
-- The first line of your note should be indented .5" from the left of the page, or 5 spaces.
+- When the publication date of a book or other work cannot be determined, the abbreviation n.d. takes the place of the year in the reference list entry and in-text citations. In-text, n.d. (no date) remains lowercased to avoid combining with the author’s name. e.g. (Smith n.d.) or Smith (n.d.) notes that … or (Smith n.d., 5)
 
-Example;
+- Use a page number for direct quotes. You don’t need a page number when paraphrasing.
 
-> {.footnote-indent}1. Doug Patt, *How to Architect* (Cambridge, Mass: MIT Press. 2012), 28.{/.footnote-indent}
+- Page number(s) must be cited when using a direct quote. Add a comma then the page number(s). Example: (White 2011, 43).
 
-**When do I use a shortened note?**
+- Paraphrased in-text citations from a chapter or other part of an edited book, include the chapter author(s) and year (Baldwin 2021).
 
-The first time you cite a source in a note,include all the recommended citation information. If you cite that same source again, use a shortened note.
+- In-text direct quote citations, from a chapter or other part of an edited book, include the chapter author(s), year and specific chapter page. Example: (Baldwin 2021, 46).
 
-- Author full-names are shortened to Family Name.
+- For references with multiple authors see Multiple Authors section of this Chicago Easy Cite guide.
 
-- Titles are shortened if longer than four words.
+- When editors, translators, or compilers are used as the author, do not include their role (trans., ed., comp.) in the in-text citation.
 
-- Include the relevant page numbers.
+- When the reference list has works by authors with same last name, include their first initial in the in-text citation. Example: (A. Nelson 2015) (B. Nelson 2013).
 
-- Include a note number.
+- If an author has published multiple works in the same year, alphabetise the titles in the reference list and then add a, b, c, etc. to the year. (Example: Dickens 2008a) (Dickens 2008b).
 
-- Ensure that the first line of your note is .5" from the left of the page, or 5 spaces.
-
-Example;
-
-> {.footnote-indent}2. Patt, *How to Architect,* 35.{/.footnote-indent}
-
-#### Shortening a title
-
-- The order of words should not be changed.
-
-- Initial articles like “the” or “a” may be removed.
-
-- Key words from the original title should be retained.
-
-- Ensure the first part of the short citation matches what is listed in the bibliography.
-
-- A short title is italicised or placed in "quotation marks" based on the full title.
-
-#### Block quotations
-
-- Block quotations should be used for quotes longer than five lines.
-
-- Do not use quotation marks for block quotations.
-
-- Block quotations are indented from the left (and sometimes from the right also).
-
-- Block quotations require their own footnote.
-
-- Quotation marks can be used within a block quotation when including a separate quote within the text.
-
-#### Create a footnote in Word
-
-1. Place your curser at the end of the sentence, after the punctuation.
-
-2. Click ***References***.
-
-3. Select ***Insert Footnote***.
-
-4. A superscript number will appear in your text.
-
-5. In the footer, place your footnote. Remember that you will need to indent the first line of the footnote by 5 spaces.
-
-![Animated gif showing the above steps to insert the footnote and then indent by 5 spaces.](https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/210269/images/Create_a_footnote_in_Word.gif)
+- To cite more than one reference in a single in-text citation, separate the citations by semicolons. Example: (Dickens 2008; Lee 1998) If the works are by the same author, use just the year and separate with a comma.
 
 ###### end-subtype-content
 
@@ -163,72 +127,31 @@ Example;
 
 ###### start-subtype-item
 
-### General rules for Chicago bibliography
+### General rules for the reference list
 
 ###### start-subtype-content
 
-#### Basic rules to create a bibliography
+Use a reference list to include all of the publications you have cited at the end of your work, and use the heading **References** or **Reference List** on a new page.
 
-- A bibliography includes all sources cited within the text, as well as any additional sources consulted.
+- All sources appearing in the reference list must be ordered **alphabetically by surname** of the first author, or title if no author is identified.
 
-- Place the bibliography at the end of your work on a new page.
+- The name of the first author is inverted (i.e., Charles Dickens to Dickens, Charles); subsequent author’s names are given in the form in which they appear in the original source publication.
 
-- Title the page, *Bibliography,* and centre the title.
+- When the publication date of a book or other work cannot be determined, the abbreviation n.d. takes the place of the year in the reference list entry.
 
-- Arrange the list of works in alphabetical order according to the family name of the author or editor.
+- The reference list should be **double spaced** and **hanging indents** used for each entry. A hanging indent is where the first line starts at the left margin and subsequent lines are indented about 5 spaces. There are no line spaces between references.
 
-- Author's names are inverted for the bibliography - Family Name, Given Name.
+- The elements in the reference are separated by full stops and not commas.
 
-- Capitalise all titles.
+- *Italics* is the preferred format for titles of books, journals and videos. Article and chapter titles are put in double quotation marks.
 
-- If the author is unknown, begin the reference with the title of work.
+- **Capitalisation** within the Chicago style requires all major words to be first letter uppercase (headline case).
 
-#### Create a hanging indent using Microsoft Word
+- For articles consulted online, include a URL or the name of the database in the reference list entry. Many journal articles list a DOI (Digital Object Identifier). A DOI forms a permanent URL that begins https<nolink>://doi.org/. This URL is preferable to the URL that appears in your browser’s address bar.
 
-The second line of each bibliography entry has a hanging indent.
+- If the article/ebook/online source can only be accessed with an account login, provide the web address of the publisher's homepage or provide the database name.
 
-##### To create a hanging indent in Microsoft Word;
-
-1.  Highlight all text (Shift + A).
-
-2.  Right click (Shift + F10).
-
-3.  Select ***paragraph***.
-
-4.  Under the heading, ***Indentation**,* select the drop-down box for ***Special*** and select ***Hanging***.
-
-![Animated gif showing the above steps of creating a hanging indent in word](https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/210269/images/Create_a_hanging_indent_in_Word__1_.gif)
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-
-### Example bibliography
-
-###### start-subtype-content
-
-**Bibliography**
-
-{.hanging-indent}
-Bagley,Benjamin. “Loving Someone in Particular,” *Ethics* 125, no. 2 (January 2015): 477–507
-
-Fellini, Federico. “Fountain Scene.” *La Dolce Vita*. Australia: Umbrella Entertainment, 2005. DVD.
-
-Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Australian Fashion Week," *Guardian News,* June 4, 2021. https<nolink>://www.theguardian.com/fashion/2021/jun/05/a-movement-not-a-moment-indigenous-design-in-the-spotlight-at-australian-fashion-week.
-
-Koenig, Sarah. “Season One Episode 01: The Alibi.” October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder & Dana Chivvis. Podcast, MP3 audio. 52:00. https<nolink>://serialpodcast.org/season-one/1/the-alibi.
-
-McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25,10.1177/1206331205275020.
-
-Melton, Paula. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building." Building Green, 2013. https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building.
-
-Oranje, Mark, and Tuna Taşan-Kok.*From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges.*Milton: Routledge. 2017.
-
-Wikipedia. "Wikipedia: List of Controversial Issues." Wikipedia, last modified April 2, 2021, 17:19. https<nolink>://en.wikipedia.org/wiki/Wikipedia:List\_of\_controversial\_issues.
-{/.hanging-indent}
+- If there are four or more authors, you may list up to ten in the reference list. For more than ten authors, list the first seven in the reference list, followed by et al. See further advice on multiple authors in the Multiple Author section of this guide.
 
 ###### end-subtype-content
 
@@ -241,58 +164,59 @@ Wikipedia. "Wikipedia: List of Controversial Issues." Wikipedia, last modified A
 
 ###### start-subtype-content
 
-#### Two or three authors
+#### Two to three authors
 
-Include all authors in the note. Author's names are listed as - Given Name Family Name. Authors' names are separated by the word *and.* Do not use an ampersand.
+##### In-Text Citation
 
-##### Example
+List up to three authors in both the citation and the reference list. For four or more authors, list only the first followed by et al. in the citation and all in the reference list (see four or more authors below).
 
-> {.footnote-indent}2. Mark Oranje and Tuna Taşan-Kok, *From Student to Urban Planner: Young Practitioners' Reflections on Contemporary Ethical Challenges* (Milton: Routledge. 2017), 44. {/.footnote-indent}
+If directly quoting from a source without a page number, use a paragraph number instead.
 
-#### Four or more authors
+**Use a page number for direct quotes. You don’t need a page number or paragraph number when paraphrasing.**
 
-In the note, cite only the name of the first-listed author followed by et al. Author's name is listed as - Given Name Family Name.
+For two authors, include First Author’s Family Name and Second Author’s Family, Year of Publication, Page or Pages.
 
-##### Example
+(Author's Family Name and second Author's Family Name Year of publication, page number)
 
-> {.footnote-indent}1. Okwui Enwezor et al., *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity* (Durham: Duke University Press, 2008), 223. {/.footnote-indent}
+> Lai and Bakshi (2021, para. 2) state that “subcultures have been allowed to flourish online.”
 
-###### end-subtype-content
+For three authors, separate the first two author family names by a comma, then include ‘and’ last family name, followed by year and page number.
 
-###### end-subtype-item
+(Author Family Name, Author Family Name, and Author Family Name year, page).
 
+> Megginson, Byrd, and Megginson (2000, 35) assert that "market research…
 
-###### start-subtype-item
+##### Reference List
 
-### General rules for multiple authors - bibliography
-
-###### start-subtype-content
-
-#### Two or three authors
+Abbreviations for editor (ed.) or translator (trans.) are not included in in-text citations but are included in the reference list.
 
 List authors in the order in which they appear in the source. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
 
-##### Example
+For two authors: Family Name, Given Name, and Given Name Family Name. Year etc.
 
-> {.hanging-indent}Lai, Gladys, and Pema Bakshi. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue (blog),* May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
+> Lai, Gladys, and Pema Bakshi. 2021 "5 TikTok Fashion Trends Everyone is Wearing IRL." Vogue (blog), May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db.
 > 
-> {.hanging-indent}Oranje, Mark, and Tuna Taşan-Kok. *From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges.* Milton: Routledge. 2017. {/.hanging-indent}
+> Megginson, William L, Mary Jane Byrd, and Leon C. Megginson. 2000. *Small Business Management: An Entrepreneur's Guidebook.* 3rd ed. Boston: Irwin/McGraw-Hill.
 
-#### Four to 10 authors
+#### Four or more authors
 
-List authors in the order in which they appear in the source. List all authors in the bibliography. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
+##### In-text Citation
 
-##### Example;
+List only the first author’s family name followed by et al.
 
-> {.hanging-indent}Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Durham: Duke University Press, 2008. {/.hanging-indent}
+Use a page number for direct quotes. You don’t need a page number when paraphrasing.
 
-#### More than 10 authors
+(Author’s Family Name et. al. Year of publication, page number)
 
-List authors in the order in which they appear in the source. List the first seven authors in the bibliography, followed by et al. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
+> (Enwezor et al. 2008, 56)
 
-##### Example
+##### Reference List
 
-> {.hanging-indent}Benz, Felix, Mikolaj K. Schmidt, Alexander Dreismann, Rohit Chikkaraddy, Yao Zhang, Angela Demetriadou, Cloudy Carnegie et al. "Single-molecule optomechanics in 'picocavities.' " *American Association for the Advancement of Science* 354, no. 6313 (2016): 726-729. 10.1126/science.aah5243. {/.hanging-indent}
+List all authors in the reference list entry. List authors in the order in which they appear in the source. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
+
+> Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. 2008. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Durham: Duke University Press.
+> 
+> Horngren, Charles, Walter Harrison, Suzanne Oliver, Peter Best, David Fraser, and Rebecca Tan. *Financial accounting*. Pearson Higher Education AU, 2012.
 
 ###### end-subtype-content
 
@@ -301,40 +225,98 @@ List authors in the order in which they appear in the source. List the first sev
 
 ###### start-subtype-item
 
-### Secondary sources
+### One source quoted or paraphrased in another (secondary citation)
 
 ###### start-subtype-content
 
-To cite a source from a secondary source (“quoted in . . .”) is generally discouraged according the Chicago Manual of Style, since authors are expected to have examined the works they cite. If an original source is unavailable, however, both the original and the secondary source must be listed.
+Use a secondary citation to acknowledge the work of an author(s) that has been directly quoted or paraphrased in another author(s) work.
 
-Both the original and the secondary source must be listed in the note and bibliography.
+According to the Chicago Manual of Style, consulting and referencing primary sources is always preferable. However if the primary source is only available in a secondary source, then introduce the primary source in the text and note that the source is "quoted in" or "cited in" the secondary source in the citation.
 
-#### Rule for Note
+#### In-Text Citation: Direct Quote
 
-{.footnote-indent}Note Number. Author Given Name Family Name, "Title," *Publication name (*Publication date): page, quoted in Author First Name Author Family Name, *Title* (Place of Publication: Publisher, Year), page. {/.footnote-indent}
+- Remember to include both sources.
 
-##### Note example
+If you wish to use a quote by Zukofsky, reproduced in an article by Costello, in your assignment:
 
-> {.footnote-indent}1. Louis Zukofsky, “Sincerity and Objectification,” *Poetry* 37 (February 1931): 269, quoted in Bonnie Costello, *Marianne Moore: Imaginary Possessions* (Cambridge, MA: Harvard University Press, 1981), 78. {/.footnote-indent}
+You would acknowledge Zukofsky in the text and add the secondary citation (quoted in Author Family Name Year, Page number):
 
-##### Shortened note example
+> In Louis Zukofsky's "Sincerity and Objectification," from the February issue of Poetry magazine, he states that Marianne Moore’s work “is largely a portrait of the author’s character intent upon the presentation which is sincerity, rather than the revealed rest of objectification...”(quoted in Costello 1981, 78).
 
-> Refer to original source
+#### In-Text Citation: Paraphrase
+
+- Remember to include both sources.
+
+If you read an article by Barbraud, in which he cites information from a previous study by Jones, and you wish to refer to this information in your assignment:
+
+You would acknowledge Jones in the text and add the secondary citation (cited in Author Family Name Year):
+
+> Jones' 2019 study, published in volume 42 of Polar Biology (cited in Barbraud 2021), found that the giant petrel sea bird is common in Antarctic waters...
+
+#### Reference list
+
+- According to the Chicago Manual of Style 17th ed. section 15.56 : cite only the secondary source in the reference list entry.
+
+Follow the reference list rules for the type of resource you are citing ie. book, journal etc.
+
+> Barbraud, Christophe, Baudouin Des Monstiers, Adrien Chaigne, Cédric Marteau, Henri Weimerskirch, and Karine Delord. 2021. "Predation by Feral Cats Threatens Great Albatrosses." *Biological Invasions* 23, no. 8: 2389-2405.
 > 
-> {.footnote-indent}2. Sukofsky, "Sincerity and Objectification", 269 {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Author Given Name Family Name, "Title," *Publication name (*Publication date): page, quoted in Author First Name Author Family Name, *Title* (Place of Publication: Publisher, Year), pages. {/.hanging-indent}
-
-##### Bibliography example
-
-> {.hanging-indent}Louis Zukofsky, “Sincerity and Objectification,” *Poetry* 37 (February 1931): 269, quoted in Bonnie Costello, Marianne Moore: *Imaginary Possessions* (Cambridge, MA: Harvard University Press, 1981), 1-78. {/.hanging-indent}
+> Costello, Bonnie. 1981. *Marianne Moore: Imaginary Possessions*. Cambridge, MA: Harvard University Press.
 
 ###### end-subtype-content
 
 ###### end-subtype-item
 
+
+###### start-subtype-item
+
+### Example reference list
+
+###### start-subtype-content
+
+Below is an example of a reference list displaying various resource types including a book, DVD, journal article, legislation, newspaper article, social media entry and thesis.
+
+#### Reference List
+
+Bell, Adam, and Charles Traub, eds. 2015. *Vision Anew: The Lens and Screen Arts.* Oakland, California: University of California Press.
+
+Burn, Henry. 1861. *Swanston Street from the Bridge.* Oil on canvas. National Gallery of Victoria, Melbourne. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/.
+
+Court, Tanya. 2019. "The Site Re-Presented: Everyday Civic Landscapes." PhD dissertation, RMIT University. RMIT Research Repository (9921864000901341).
+
+CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future*. Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030.
+
+Detlor, Brian. 2010. "Information Management." *International Journal of Information Management* 30, no. 2: 103-08. doi: 10.1016/j.ijinfomgt.2009.12.001.
+
+Dickson, Graham. “Immunology: Lecture 4,” ONPS2559: Clinical Immunology, (Melbourne, Vic: RMIT University, Aug 3, 2016). Vodcast/Podcast.
+
+Fenna, Alan. 2004. *Australian Public Policy*. 2nd ed. Frenchs Forest, NSW: Pearson Education Australia.
+
+Hitchcock, Alfred. 2001. “Crop Duster Attack,” *North by Northwest*, DVD. Directed by Alfred Hitchcock. 1959. Burbank, CA: Warner Home Video.
+
+Lester, Paul Martin. 2020. *Visual Communication: Images with Messages*. 8th ed. Dallas, Texas: Lex Publishing.
+
+Miller, Barbara. "New Face set to keep Austrian Conservatives in Power." *Lateline*. Australian Broadcasting Corporation. Thursday October 12, 2017. Television broadcast.
+
+Nelson, Renae S., and Philippe Valadon. 2017. "A Universal Phage Display System for the Seamless Construction of Fab Libraries." *Journal of Immunological Methods* 450 (November):41-49. doi: 10.1016/j.jim.2017.07.011.
+
+Poll, Zoey. 2022. "The People Who Draw Rocks." *New York Times*, March 16, 2022. ProQuest Central.
+
+Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs.* January 28, 2022. Accessed April 12, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams.
+
+Sample, Sara. 2017. "Human rights in indigenous communities:Lecture 8." HUSO2301: *Applied Human Rights and indigenous Peoples*. Melbourne: RMIT University. Accessed April 10, 2017. Powerpoint presentation. https<nolink>://www.dlsweb.rmit.edu.au/set/Courses/Content/CSIT/oua/cpt250/chapter/02/documents/L2Internetworking.pdf.
+
+Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. Sydney: SAI Global. https<nolink>://www.saiglobal.com
+
+Tame, Grace (@tamepunk). 2021. “Making Noise” Kirsty Neilson—for this year’s Archibald Prize. Instagram photo, May 27, 2021. https<nolink>://www.instagram.com/p/CPXh8CRLJTE/.
+
+Trask, Steven. 2017. “Adria Village Nursing Home Sanctioned After Aged Care Quality Agency Audit.” *Canberra Times*, August 29, 2017.
+
+Tudor, Ken. 2015. "Protecting Pets in Abusive Human Relationships." *The Daily Vet (blog)*, June 9. http<nolink>://www.petmd.com/blogs/thedailyvet/ken-tudor/2015/june/pets-abusive-human-relationships-32819
+
+###### end-subtype-content
+
+###### end-subtype-item
 
 
 ###### end-subtype
@@ -349,76 +331,35 @@ Both the original and the secondary source must be listed in the note and biblio
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Books
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Books Introduction
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### Note rule
+#### In-Text Citation: Direct quote
 
-{.footnote-indent}Note number. Author's Full Name, *Title: Subtitle* (Place of Publication: Publisher's Name, Year of Publication), Page or Page Numbers. {/.footnote-indent}
+Page number(s) should be included when using a direct quote. Add a comma then the page number(s) after the author's name and year.
 
-#### Note examples;
+Author’s Family Name Year of publication, page number
 
-> {.footnote-indent}1. Doug Patt, *How to Architect (*Cambridge, Mass: MIT Press. 2012), 28. {/.footnote-indent}
+> According to Webb (2008, 22), Total Quality Management "...placed strong emphasis on good and visionary leadership, with management being responsible for initiating change".
+
+#### In-Text Citation: Paraphrase
+
+(Author’s Family Name Year of publication)
+
+> Total Quality Management seeks to strengthen customer satisfaction by improving procedures, with continuous improvement and monitoring. Change is initiated by management, who provide leadership and a framework for employees to work within. (Webb 2008)
+
+#### Reference list
+
+If no author is listed, use the name of the editor, translator, compiler, or composer. Place the relevant abbreviation after the name; ed., eds., trans., comp., or comps. Leave out the abbreviation for all in-text citations. See the first example below.
+
+Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Place of Publication: Publisher's Name.
+
+> Bell, Adam, and Charles Traub, eds. 2015. *Vision Anew: The Lens and Screen Arts.* Oakland, California: University of California Press.
 > 
-> {.footnote-indent}2. Mark Oranje and Tuna Taşan-Kok, *From Student to Urban Planner: Young Practitioners' Reflections on Contemporary Ethical Challenges* (Milton: Routledge. 2017), 44. {/.footnote-indent}
-> 
-> {.footnote-indent}3. Okwui Enwezor et al., *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity* (Durham: Duke University Press, 2008), 223. {/.footnote-indent}
-
-#### Shortened note examples;
-
-> {.footnote-indent}4. Patt, *How to Architect,* 35. {/.footnote-indent}
-> 
-> {.footnote-indent}5. Oranje and Taşan-Kok,*Student to Urban Planner,* 78.{/.footnote-indent}
-> 
-> {.footnote-indent}6. Enwezor et al.,*Antinomies of Art and Culture,* 312. {/.footnote-indent}
-
-#### Bibliography rule;
-
-{.hanging-indent}Author's Family Name, Author's Given Name. *Title: Subtitle.* Place of Publication: Publisher's Name, Year of Publication. {/.hanging-indent}
-
-#### Bibliography examples
-
-> {.hanging-indent}Patt, Doug. *How to Architect*. Cambridge, Mass: MIT Press. 2012. {/.hanging-indent}
-> 
-> {.hanging-indent}Oranje, Mark, and Tuna Taşan-Kok. *From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical& Challenges.* Milton: Routledge. 2017. {/.hanging-indent}
-> 
-> {.hanging-indent}Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Durham: Duke University Press, 2008. {/.hanging-indent}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-
-### Editor as author
-
-###### start-subtype-content
-
-Books can be referenced using an editor, translator, or compiler if no author is listed. In bibliographies and full note citations, use the following abbreviations; ed., eds., trans., comp., or comps.
-
-#### Note rule
-
-{.footnote-indent}Note number. Editor’s Full Name, ed., *Title: Subtitle* (Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
-
-##### Note example
-
-> {.footnote-indent}1. Adam Bell and Charles Traub, eds., *Vision Anew: The Lens and Screen Arts* (Oakland, California: University of California Press, 2015), 42. {/.footnote-indent}
-
-##### Shortened note example
-
-> {.footnote-indent}2. Bell and Traub, *Vision Anew*, 56. {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Editor’s Surname, Editor’s Given Name, ed. *Title: Subtitle*. Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
-
-##### Bibliography example
-
-> {.hanging-indent}Bell, Adam, and Charles Traub, eds. *Vision Anew: The Lens and Screen Arts.* Oakland, California: University of California Press, 2015. {/.hanging-indent}
+> Webb, Jela. 2008. *Strategic Information Management: A Practitioner's Guide*. Oxford: Chandos.
 
 ###### end-subtype-content
 
@@ -431,27 +372,33 @@ Books can be referenced using an editor, translator, or compiler if no author is
 
 ###### start-subtype-content
 
-Include the chapter author, the chapter title in quotation marks, as well as the editor. Before the title of the book, use the word *in.* Include the page range for the chapter in the bibliography entry.
+#### In-Text Citation: Direct Quote
 
-#### Note rule
+Page number(s) should be included when using a direct quote. Add a comma then the page number(s) after the author's name and year.
 
-{.footnote-indent}Note Number. Chapter Author’s Full Name, "Title of Chapter," in *Title,* ed. Editor's Full Name (Place of Publication: Publisher's Name, Year of Publication), Page or Pages. {/.footnote-indent}
+Chapter Author’s Family Name Year of publication, page
 
-##### Note example
+> "American literature has contributed to shaping modern society.." (Thoreau 2016, 178).
 
-> {.footnote-indent}1. Alistair Baldwin, "Hippotherapy," in *Growing Up Disabled in Australia,* ed. Carly Findlay (Carlton, VIC: Black Inc., 2021), 52. {/.footnote-indent}
+> "It's one of life's great tragedies that 'hippotherapy' has nothing to do with hippos..." (Baldwin 2021, 46).
 
-##### Shortened note example
+#### In-Text Citation: Paraphrase
 
-> {.footnote-indent}2. Baldwin, "Hippotherapy," 52. {/.footnote-indent}
+Chapter Author’s Family Name Year of publication
 
-#### Bibliography rule
+> Design can be a circular process where new ideas come into being, with the outcome often evading description until after the event (Thoreau 2016).
 
-{.hanging-indent}Chapter Author’s Family Name, Chapter Author’s Given Name. “Chapter Title.” In *Title: Subtitle*, edited by Editor’s Full Name, Chapter Page Range. Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
+#### Reference list
 
-##### Bibliography example
+Chapter Author’s Family Name, Given Name. Year. "Title of Chapter." In *Title of Book*, edited by Editor's Given name Family name, chapter page range. Place of Publication: Publisher's Name.
 
-> {.hanging-indent}Baldwin, Alistair. “Hippotherapy.” In *Growing Up Disabled in Australia,* edited by Carly Findlay, 47-52. Carlton, VIC: Black Inc., 2021. {/.hanging-indent}
+> Baldwin, Alistair. 2021. “Hippotherapy.” In *Growing Up Disabled in Australia*, edited by Carly Findlay, 47-52. Melbourne: Black Inc.
+> 
+> Higgs, Malcolm. 2013. “Change and Its Leadership: The Role of Positive Emotions.” In *The Oxford Handbook of Positive Psychology and Work*, edited by P. Alex Linley, Susan Harrington,and Nicola Garcea, 67-94. New York: Oxford University Press.
+> 
+> Jucker, Lodovico. 2012. "Ten Key Steps Towards Sustainable Fashion." In *The Beautiful and the Good: Reasons for Sustainable Fashion*, edited by Marco Ricchetti and Maria Luisa Frisa, 119-127. Venice: Marsilio Editori.
+> 
+> Thoreau, Henry David. 2016. “Walking.” In *The Making of the American Essay*, edited by John D’Agata, 167–95. Minneapolis: Graywolf Press.
 
 ###### end-subtype-content
 
@@ -460,45 +407,43 @@ Include the chapter author, the chapter title in quotation marks, as well as the
 
 ###### start-subtype-item
 
-### E-books
+### E-book
 
 ###### start-subtype-content
 
-For ebooks, include the name of the database (for example ProQuest ebook Central), URL or DOI (Digital Object Identifier), or DOI-based URL. For other types of ebooks, name the application (eg. BorrowBox), device (eg. Kindle), or file format used (eg. PDF).
+For ebooks, include the name of the database (for example ProQuest Ebook Central), URL or DOI (Digital Object Identifier), or DOI-based URL. For other types of ebooks, name the application (eg. BorrowBox), device (eg. Kindle), or file format used (eg. PDF).
 
-If there are no page numbers in the ebook, use the chapter or section headings.
+If the ebook can only be accessed with an account login, provide the database name.
 
-#### Note rule
+#### In-Text Citation: Direct Quote
 
-{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle* (Place of Publication: Publisher’s Name, Year of Publication), Pages/Chapter Number, DOI/URL/ Application/Device/File Format. {/.footnote-indent}
+Page number(s) should be included when using a direct quote. Add a comma then the page number(s) after the author's name and year.
 
-##### Note examples
+If there are no page numbers in the ebook, use chapter numbers or section headings.
 
-> {.footnote-indent}1. Henry Carroll, *Read This If You Want To Take Great Photographs* (London: Laurence King, 2014), 10, ProQuest Ebook Central. {/.footnote-indent}
+(Author’s Family Name Year of publication, page number)
+
+> “Use leading lines to give your composition structure and draw the viewer to key elements” (Carroll 2014, 10).
+
+> “If you look for perfection, you will never be satisfied” (Tolstoy 1998, chap. 4).
+
+> “Photography is not bound by any obligation to reality; like any other art, it is a set of resources which can be put to a variety of uses” (Scott 1999, 22).
+
+#### In-Text Citation: Paraphrase
+
+(Author’s Family Name Year of publication)
+
+> Leading lines attract the viewer to key elements in a photo (Carroll 2014).
+
+#### Reference list
+
+Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Place of Publication: Publisher’s Name. DOI, URL, Application, Device, or File Format.
+
+> Carroll, Henry. 2014. *Read This If You Want To Take Great Photographs.* London: Laurence King. ProQuest Ebook Central.
 > 
-> {.footnote-indent}2. Leo Tolstoy, *Anna Karenina,* trans. Constance Garnett (USA: Project Gutenberg, 1998), chap. 4, https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.footnote-indent}
+> Scott, Clive. 1999. *The Spoken Image: Photography and Language.* London: Reaktion. Kindle ebook.
 > 
-> {.footnote-indent}3. Clive Scott, *The Spoken Image: Photography and Language* (London: Reaktion, 1999), 166, EBSCOhost Ebooks, PDF. {/.footnote-indent}
-
-##### Shortened note examples
-
-> {.footnote-indent}4. Carroll, *Read This,* 10. {/.footnote-indent}
-> 
-> {.footnote-indent}5. Tolstoy, *Anna Karenina,* chap. 4. {/.footnote-indent}
-> 
-> {.footnote-indent}6. Scott, *Spoken Image*, 166. {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Author’s Family Name, Author’s Given Name. *Title: Subtitle*. Place of Publication: Publisher’s Name, Year of Publication. DOI, URL, Application, Device, or File Format. {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Carroll, Henry. *Read This If You Want To Take Great Photographs.* London: Laurence King, 2014. ProQuest Ebook Central. {/.hanging-indent}
-> 
-> {.hanging-indent}Tolstoy, Leo. *Anna Karenina.* Translated by Constance Garnett. USA: Project Gutenberg, 1998. https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.hanging-indent}
-> 
-> {.hanging-indent}Scott, Clive. *The Spoken Image: Photography and Language.*London: Reaktion, 1999. EBSCOhost Ebooks, PDF. {/.hanging-indent}
+> Tolstoy, Leo. 1998. *Anna Karenina.* Translated by Constance Garnett. USA: Project Gutenberg. https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm.
 
 ###### end-subtype-content
 
@@ -507,65 +452,41 @@ If there are no page numbers in the ebook, use the chapter or section headings.
 
 ###### start-subtype-item
 
-### Edition numbers, reprints & modern editions
+### Book with organisation as author
 
 ###### start-subtype-content
 
-#### Edition numbers
+- If a publication issued by an organisation, association or corporation carries no personal author's name, the organisation is listed as the author even if it is also given as publisher.
 
-Only use this rule for editions other than the first edition.
+- To facilitate shorter in-text citations, the organisation may be listed under an acronym, in which case the reference entry must also use the acronym, followed by the organisation name in full in brackets. In this case, the reference list entry is alphabetized using the acronym (rather than the spelled-out name) in the reference list.
 
-Include the edition name or number after the title in an abbreviated from. For example, Second Edition will become 2nd ed. Other examples include Revised Edition, which will be abbreviated to, rev. ed.
+#### In-Text Citation: Direct quote
 
-##### Note rule
+Page numbers are included when using a direct quote. After the organisation name or acronym add a comma then the page number.
 
-{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle,* edition name or number. (Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
+(Organisation Name Year of publication, page number)
 
-##### Note example
+> “Nought to Sixty in 2008 was a large and ambitious programme that presented 60 emerging artists based in Britain and Ireland” (Institute of Contemporary Arts 2009, 6).
 
-> {.footnote-indent}1. Paul Martin Lester, *Visual Communication: Images with Messages*, 8th ed. (Dallas, Texas: Lex Publishing, 2020), 128. {/.footnote-indent}
+#### In-Text Citation: Paraphrase
+
+(Organisation Name Year of publication)
+
+> Rising artists based in Britain and Ireland participated in Nought to Sixty in 2008 (Institute of Contemporary Arts 2009).
+
+#### Reference list
+
+When the organisation-as-author and publisher are the same entity, include it in both places in the reference list entry.
+
+Name of Group/Organisation. Year. *Title of Book: Subtitle of Book.* Place of Publication: Publisher's Name.
+
+> ARC (Australian Research Council). 2017. *ARC Open Access Policy.* Version 2017.1. Canberra, ACT: Australian Research Council. https<nolink>://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy.
 > 
-> {.footnote-indent}2. Bruce Pascoe, *Dark Emu,* New ed. (Broome, Western Australia: Magabala Books Aboriginal Corporation, 2018), 11. {/.footnote-indent}
-
-##### Shortened note examples
-
-> {.footnote-indent}3. Lester, *Visual Communication,* 305. {/.footnote-indent}
+> CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future.* Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030.
 > 
-> {.footnote-indent}4. Pascoe, *Dark Emu,* 25. {/.footnote-indent}
-
-##### Bibliography rule
-
-{.hanging-indent}First Author’s Family Name, First Author’s Given Name, and Subsequent Authors’ Full Names. *Title: Subtitle,* edition name or number. Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
-
-Bibliography examples
-
-> {.hanging-indent}Lester, Paul Martin. *Visual Communication: Images with Messages.* 8th ed. Dallas, Texas: Lex Publishing, 2020. {/.hanging-indent}
+> Gehl Architects. 1994. *Perth 2009: Public Spaces and Public Life.* Perth, WA: Department of Planning and Urban Developments.
 > 
-> {.hanging-indent}Pascoe, Bruce. *Dark Emu.* New ed. Broome, Western Australia: Magabala Aboriginal Corporation, 2018. {/.hanging-indent}
-
-#### Reprints and modern editions
-
-Books may be re-issued in a different format or with the addition of new material. Use this rule when the original date of publication is relevant.
-
-##### Note rule
-
-{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle* (First Edition Place of Publication: Publisher’s Name, Year of Publication; Modern Edition Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. Indicate the edition to which page numbers refer. {/.footnote-indent}
-
-##### Note example
-
-> {.footnote-indent}1. Lewis Carroll, *Alice's Adventures in Wonderland* (London: Penguin, 1865: London: Penguin Classics, 2012), 62. Citations refer to the 2012 edition. {/.footnote-indent}
-
-##### Shortened note example
-
-> {.footnote-indent}2. Carrol, *Alice's Adventures*, 96. {/.footnote-indent}
-
-##### Bibliography rule
-
-{.hanging-indent}Author’s Family Name, Author’s Given Name. *Title: Subtitle*. First Edition Place of Publication: Publisher’s Name, Year of Publication. Reprinted details. Modern Edition Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
-
-##### Bibliography example
-
-> {.hanging-indent}Carrol, Lewis. *Alice's Adventures in Wonderland.* London: Penguin, 1865. Reprinted with Artwork by Yayoi Kusama. London: Penguin Classics, 2012. Page references are to the 2012 edition. {/.hanging-indent}
+> Institute of Contemporary Arts. 2009. *Nought to 60: 60 Projects, 6 months.* London: Institute of Contemporary Art.
 
 ###### end-subtype-content
 
@@ -574,31 +495,41 @@ Books may be re-issued in a different format or with the addition of new materia
 
 ###### start-subtype-item
 
-### Translated books
+### Book with an edition
 
 ###### start-subtype-content
 
-In the note, include the word *trans.* and then the translator's name. In the bibliography, include, *Translated by* and then the translator's full name. Do not include the translator's name in subsequent citation entries.
+- Edition is included in the reference list entry but is not used for in-text citations.
 
-#### Note rule
+#### In-Text Citation: Direct quote
 
-{.footnote-indent}Note number. Author’s Full Name, *Title*, trans. Translator’s Full Name (Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
+- Page number(s) should be included when using a direct quote. Add a comma then the page number(s) after the author's name and year.
 
-##### Note example
+(Author’s Family Name Year of publication, page number)
 
-> {.footnote-indent}1. Elena Ferrante, *The Lying Life of Adults,* trans. Ann Goldstein (London: Europa Editions, 2019), 114. {/.footnote-indent}
+> “When analyzing a visual message, tiny details within a frame should be studied first to discover how they create a different and often surprising whole” (Lester 2020, 54).
 
-##### Shortened note example
+#### In-Text Citation: Paraphrase
 
-> {.footnote-indent}2. Ferrante, *The Lying Life of Adults,* 158. {/.footnote-indent}
+(Author’s Family Name Year of publication)
 
-#### Bibliography rule
+> Studying the details within a picture often reveals an unexpected visual message (Lester 2020).
 
-{.hanging-indent}Author’s Family Name, Author’s Given Name. *Title: Subtitle*. Translated by Translator’s Full Name. Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
+#### Reference list
 
-##### Bibliography example
+- Other types of editions may include revised edition rev.ed, and Asia-Pacific ed.
 
-> {.hanging-indent}Ferrante, Elena. *The Lying Life of Adults.* Translated by Ann Goldstein. London: Europa Editions, 2019. {/.hanging-indent}
+- Include the edition number followed by the abbreviation "ed." after the book title.
+
+- There is no need to include edition information if no edition is mentioned on or in the book.
+
+- Edition number is not included for first edition books.
+
+Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Edition. Place of Publication: Publisher's Name.
+
+> Beresford, Quentin, and Gary Partington. 2012. Reform and Resistance in Aboriginal Education: The Australian Experience. Rev. ed. Perth: University of Western Australia Press.
+> 
+> Lester, Paul Martin. 2020. *Visual Communication: Images with Messages.* 8th ed. Dallas, Texas: Lex Publishing.
 
 ###### end-subtype-content
 
@@ -607,31 +538,33 @@ In the note, include the word *trans.* and then the translator's name. In the bi
 
 ###### start-subtype-item
 
-### Books with organisation as author
+### Book with a translator
 
 ###### start-subtype-content
 
-If the publication does not list a personal name as author and it has been issued by an organisation, corporation, or association, use that name as the author, even if it is also listed as publisher.
+- Include the translator’s name in the reference list entry however do not include in the in-text citations.
 
-#### Note rule
+#### In-Text Citation: Direct quote
 
-{.footnote-indent}Note number. Organisation’s Name, *Title: Subtitle* (Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
+Page number(s) should be included when using a direct quote. Add a comma then the page number(s) after the author's name and year.
 
-##### Note example
+(Author’s Family Name Year of publication, page number)
 
-> {.footnote-indent}1. Institute of Contemporary Arts, *Nought to 60: 60 Projects, 6 months* (London: Institute of Contemporary Art, 2009), 179. {/.footnote-indent}
+> “What conceptions of the world does the child form at the different stages of its development” (Piaget 1929, 1).
 
-##### Shortened note example
+#### In-Text Citation: Paraphrase
 
-> {.footnote-indent}2. Institute of Contemporary Arts, *Nought to 60*, 191. {/.footnote-indent}
+(Author’s Family Name Year of publication)
 
-#### Bibliography rule
+> Piaget (1929) explores how children reason as well as their notion of reality.
 
-{.hanging-indent}Organisation’s Name. *Title: Subtitle*. Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
+#### Reference list
 
-##### Bibliography example
+Author’s Family Name, Author’s Given Name. Year of Publication. *Title of Book: Subtitle of Book.* Translated by Translator’s Full Name. Place of Publication: Publisher’s Name.
 
-> {.hanging-indent}Institute of Contemporary Arts. *Nought to 60: 60 Projects, 6 months.* London: Institute of Contemporary Art, 2009. {./hanging-indent}
+> García Márquez, Gabriel. 1988. *Love in the Time of Cholera.* Translated by Edith Grossman. London: Cape.
+> 
+> Lahiri, Jhumpa. 2016. *In Other Words.* Translated by Ann Goldstein. New York: Alfred A. Knopf.
 
 ###### end-subtype-content
 
@@ -644,27 +577,82 @@ If the publication does not list a personal name as author and it has been issue
 
 ###### start-subtype-content
 
-As exhibition catalogues and brochures are often published like a book, reference and cite the work as a book. In the bibliography, include the exhibition details, or include the words - Exhibition Catalogue.
+Reference in the same way as other published books. If the author is unknown, reference using the editor(s) or the title. Information about the exhibition is included after the publication details.
 
-#### Note rule
+#### In-Text Citation: Direct Quote
 
-> {.footnote-indent}Note number. First Author’s Full Name and Second Author’s Full Name, *Title: Subtitle* (Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
+(Author's Family Name Year of publication, page)
 
-##### Note example
+> "Fifty UK-based artists took part in the 2017 Bloomberg’s New Contemporaries exhibition" (Achaintre et al. 2017, 17).
 
-> {.footnote-indent}1. Caroline Achaintre et al., eds., *New Contemporaries 2017* (London: New Contemporaries 1988 Ltd, 2017), 88. {/.footnote-indent}
+#### In-Text Citation: Paraphrase
 
-##### Shortened note Example
+(Author's Family Name Year of publication)
 
-> {.footnote-indent}2. Achaintre et al., *New Contemporaries*, 102. {/.footnote-indent}
+> For her exhibition titled Sarah Charlesworth: Stills, the artist re-photographed images from newspapers (Witkovsky 2014).
 
-#### Bibliography rule
+#### Reference list
 
-{.hanging-indent}Author's Family Name, Author's Given Name. *Title: Subtitle.* Place of Publication: Publisher's Name, Year of Publication. Exhibition Details. {/.hanging-indent}
+- Include the exhibition title and date that the publication is associated with.
 
-#### Bibliography example
+- For exhibition catalogue with no author or editor, begin with title of exhibition.
 
-> {.hanging-indent}Achaintre, Caroline, Elizabeth Price, George Shaw, and Kirsty Ogg, eds. *Bloomberg's New Contemporaries 2017*. London: New Contemporaries 1988 Ltd, 2017. Published in conjunction with an exhibition of the same title, January 27, 2018-March 3, 2018. {/.hanging-indent}
+Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Place of Publication: Publisher’s Name. Published in conjunction with an exhibition of the same title, exhibition date.
+
+> Achaintre, Caroline, Elizabeth Price, George Shaw, and Kirsty Ogg, eds. 2017. *Bloomberg's New Contemporaries 2017.* London: New Contemporaries 1988 Ltd. Published in conjunction with an exhibition of the same title, held at BALTIC Centre for Contemporary Art, Baltic 39, 29 Sep-26 Nov 2017, and Block 336, 27 Jan-3 Mar 2018.
+> 
+> *Chaos & Order: 120 Year of Collecting at RMIT*. 2018. Melbourne: RMIT Gallery, 2018. Published in conjunction with the exhibition of the same title, held at RMIT Gallery, 12 Apr-9 Jun 2018.
+> 
+> Witkovsky, Matthew S., ed. 2014. *Sarah Charlesworth: Stills*. Chicago: Art Institute of Chicago. Published in conjunction with an exhibition of the same title, organized by and presented at the Art Institute of Chicago, September 18, 2014–January 4, 2015.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### Dictionaries and Encyclopedias
+
+###### start-subtype-content
+
+Dictionary and encyclopedia entries are cited in a similar way to chapters from edited books. For dictionaries with no editors, use the dictionary title in italics in place of the author.
+
+#### In-Text Citation: Direct Quote
+
+If directly quoting from a source without a page number, use a paragraph number or section heading instead.
+
+(Author/s family name year, page number)
+
+> "Australian masculinity is now multifaceted and a long way not only from its British convict and settler origins, but also from the hegemonic masculine formations in the ﬁrst half of the twentieth century" (Moore and Crotty 2007, 33).
+
+> According to Cox, La Caze and Levine, "... the question turns on whether anything ties together the various traits associated with integrity in a coherent overarching conception of integrity... " (2021, under "6. Integrity as a virtue").
+
+#### In-Text Citation: Paraphrase
+
+(Author/s family name year)
+
+> The word integrity has a variety of definitions; even when examining it only in terms of a human virtue, writers disagree fundamentally on its meaning (Cox, La Caze and Levine 2021).
+
+> ... diwangarna, meaning aeroplane in Ngarinyman ("Diwungarna" 2021).
+
+#### Reference list
+
+If the dictionary or encyclopedia is published online, include the web address of the section or DOI (if available) or database name (if the URL requires an account login).
+
+If you viewed the work online, include an accessed date before the URL/DOI/database name.
+
+When author/editor for a dictionary or encyclopedia section is unknown, use the section title in quotation marks in place of author names in the reference list entry.
+
+Author of Section Last name, First name. Year. "Title of Section". In *Title of Dictionary or Encyclopedia*, edited by Editor First name Family name, page range if applicable. Place of Publication: Publisher Name. Accessed Month day, year if online. URL, DOI or database name if online.
+
+> Cox, Damian, Marguerite La Caze, and Michael Levine. 2021. "Integrity." In *The Stanford Encyclopedia of Philosophy* , edited by Edward N. Zalta. Palo Alto: Metaphysics Research Lab, Stanford University. Accessed May 5, 2022. https<nolink>://plato.stanford.edu/archives/fall2021/entries/integrity/
+> 
+> *Macquarie Concise Dictionary*. 2020. 8th edition. Sydney: Macquarie Dictionary Publishers.
+> 
+> Moore, Clive, and Martin Crotty. 2007. "Australian masculinities." In *International encyclopedia of men and masculinities*, edited by Michael Flood, Judith Kegan Gardiner, Bob Pease and Keith Pringle, 31-33. London: Routledge.
+> 
+> "Diwungarna." 2021. In *Ngarinyman to English Dictionary*, edited by Caroline Jones, Eva Schultze-Berndt and Jessica Denniss, 93. Canberra: Aboriginal Studies Press. Accessed May 5, 2022. ProQuest Ebook Central.
 
 ###### end-subtype-content
 
@@ -683,63 +671,57 @@ As exhibition catalogues and brochures are often published like a book, referenc
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Online journal articles
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Journal article (electronic)
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-Titles of journals, exclude *The* in the title of the journal from the note and bibliography. Include a DOI or URL. Access dates are generally not required unless there is no other date specified.
+Journals consulted online a DOI or URL link is required in the reference list for the journal article consulted. The DOI is given preference over a URL due to its stable nature. If there is no DOI, include the item’s URL.
 
-#### Note rule - one or two authors
+When accessing electronic journal articles it is preferable to view them in PDF format because this will display page numbers.
 
-{.footnote-indent}Note number. Author’s Full Name, “Title of Article,” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Page or Pages, DOI. {/.footnote-indent}
+#### In-Text Citation: Direct Quote
 
-OR
+A page number is included in the in-text citation for a direct quote. After the author's name and year, add a comma then the page number.
 
-{.footnote-indent}Note number. Author’s Full Name, “Title of Article,” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Page or Pages, URL. {/.footnote-indent}
+(Author's Family Name Year of Publication,page).
 
-##### Note examples
+> McCarthy (2005) found that “Familiarity is reassuring. It constructs a set of rules and behaviors that make space accessible and able to be engaged with. Reassurance and safeness are sentiments associated with interiority because boundary conditions make promises of security” (117).
 
-> {.footnote-indent}1. Christine McCarthy, “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25, https<nolink>://doi.org/10.1177/1206331205275020. {/.footnote-indent}
+> “The feminization of consumer culture occurred in parallel to professionalization and consequently helped to shape an uneven distribution of power across design disciplines” (Armstrong 2021, 9).
+
+#### In-text Citation: Paraphrase
+
+(Author’s Family Name Year of Publication)
+
+> McCarthy (2005) stated that...
+
+> After analysing the data, McCarthy (2005) concluded...
+
+> Mining exports will continue to decline into the next decade (Jones 2021).
+
+#### Reference list
+
+For journal articles without an issue number, list the page number after the volume number separated by a colon e.g., 27: 102-170.
+
+Where only the volume and a month or season is available, include this in place of the issue number e.g. 25 (May): 56-59.
+
+A DOI is included in reference list entries of electronic journal articles. A DOI forms a permanent URL that begins https<nolink>://doi-org.
+
+If there is no DOI, use a URL in the reference list entry. Unless the URL requires an account login, in which case use the database name instead.
+
+Chicago does not require access dates in the citations of electronic sources unless no date of publication can be determined.
+
+Author's Family Name, Given Name. Year. "Article Title." *Title of Journal* volume, issue no. (Month or Season if applicable): page range. DOI or URL or Database Name.
+
+> Armstrong, Leah. 2021. “Fashions of the Future: Fashion, Gender, and the Professionalization of Industrial Design.” *Design Issues* 37, no. 3: 5-17. https<nolink>://doi.org/10.1162/desi\_a\_00644.
 > 
-> {.footnote-indent}2. Dolores Hayden and Gwendolyn Wright, “Architecture and Urban Planning,” Signs: Journal of Women in Culture and Society 1, no (Summer, 1976): https<nolink>://doi.org/928,10.1086/493309, http<nolink>://www.jstor.org/stable/3173242. {/.footnote-indent}
-
-##### Multiple author note examples
-
-See further rules on multiple authors in the multiple author tab in Using Chicago Notes-Bibliography
-
-> {.footnote-indent}3. Taylor Brydes, Lisa Heinze, Monique Retamal. "Changing Geographies of Fashion during COVID-19: The Australian Case," *Geographical Research* 59, no.2 (2021): 206-216, https<nolink>://doi.org/10.1111/1745-5871.12460. {/.footnote-indent}
+> Conforti, Claudia, Fabio Colonnese, Maria Grazia D'Amelio, and Lorenzo Grieco. 2021. “Designing in Real Scale: The Practice and Afterlife of Full-Size Architectural Models from Renaissance to Fascist Italy.” *Architecture & Culture* 9, no. 3: 442-463. https<nolink>://doi.org/10.1080/20507828.2021.1876490.
 > 
-> {.footnote-indent}4. Martha Rosler et al. "Notes from the Field: Materiality," *The Art Bulletin* 95, no. 1 (2013): https<nolink>://doi.org/10-37,10.1080/00043079.2013.10786104. {/.footnote-indent}
-
-##### Shortened note example
-
-> {.footnote-indent}5. Hayden and Wright, “Architecture and Urban Planning,” 928. {/.footnote-indent}
+> Detlor, Brian. 2010. "Information Management." *International Journal of Information Management* 30, no. 2: 103-108. https<nolink>://doi.org/10.1016/j.ijinfomgt.2009.12.001.
 > 
-> {.footnote-indent}6. Rosler et al., "Notes from the Field: Materiality," 37. {/.footnote-indent}
-> 
-> {.footnote-indent}7. McCarthy, “Toward a Definition of Interiority,” 112. {/.footnote-indent}
-
-#### Bibliography rule
-
-For articles consulted online, include a DOI or URL or the name of the database in the bibliography. Many journal articles list a DOI (Digital Object Identifier). See examples.
-
-{.hanging-indent}Author’s Family Name, Author’s Given Name. “Title of Article.” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Article page range. DOI. {/.hanging-indent}
-
-OR
-
-{.hanging-indent}Author’s Family Name, Author’s Given Name. “Title of Article.” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Article page range. URL. {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25, https<nolink>://doi.org/10.1177/1206331205275020. {/.hanging-indent}
-> 
-> {.hanging-indent}Rosler, Martha, Caroline Walker Bynum, Natasha Eaton, Michael Ann Holly, Amelia jones, Michael Kelly, Robin Kelsey, et. al. "Notes from the Field: Materiality," *The Art Bulletin* 95, no. 1 (2013): 10-37, https<nolink>://doi.org/10.1080/00043079.2013.10786104. {/.hanging-indent}
-
-OR
-
-> {.hanging-indent}Hayden, Dolores, and Gwendolyn Wright. "Architecture and Urban Planning." *Signs* 1, no. 4 (1976): 923-33. http<nolink>://www.jstor.org/stable/3173242. {/.hanging-indent}
+> Satterfield, Susan. 2016. “Livy and the Pax Deum.” Classical Philology 111, no. 2 (April): 165–76.https<nolink>://www.jstor.org/stable/26543680.
 
 ###### end-subtype-content
 
@@ -748,31 +730,45 @@ OR
 
 ###### start-subtype-item
 
-### Print journal articles
+### Journal article (print)
 
 ###### start-subtype-content
 
-Cite journal articles accessed in print in the same way as journal articles accessed online, but without a DOI, URL or database name.
+A page number is included in the in-text citation for a direct quote. After the author's name and year, add a comma then the page number.
 
-#### Rule for note
+#### In-Text Citation: Direct quote
 
-{.footnote-indent}Note number. Author’s Full Name, “Title of Article,” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Page or Pages. {/.footnote-indent}
+(Author's Family Name Year of Publication, page).
 
-##### Note example
+> “This film contains a juxtaposition of filmed objects to whose extraordinariness the filmmaker Alfred Guzzetti has called special attention” (Cavell 1978, 250).
 
-> {.footnote-indent}1. Benjamin Bagley, “Loving Someone in Particular,” *Ethics* 125, no. 2 (January 2015): 477. {/.footnote-indent}
+> “Raised general awareness in recent times has altered the intensity and breadth of consumer pressure on retailers for better environmental practices” (Zutshi, Creed and Holmes 2016, 842).
 
-##### Shortened note example
+#### In-text Citation: Paraphrase
 
-> {.footnote-indent}2. Bagley, “Loving Someone in Particular,” 480. {/.footnote-indent}
+(Author’s Family Name Year of Publication)
 
-#### Bibliography rule
+> Escobedo (2021) stated that...
 
-{.hanging-indent}Author’s Family Name, Author’s Given Name. “Title of Article.” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Article page range. {/.hanging-indent}
+> After analysing the data, Bagley (2015) concluded....
 
-##### Bibliography example
+> Mining exports will continue to decline into the next decade (Jones, 2021).
 
-> {.hanging-indent}Bagley, Benjamin. “Loving Someone in Particular,” *Ethics* 125, no. 2 (January 2015): 477–507. {/.hanging-indent}
+#### Reference list
+
+For journal articles without an issue number, list the page number after the volume number separated by a colon e.g., 27: 102-170.
+
+Where only the volume and a month or season is available, include this in place of the issue number e.g. 25 (May): 56-59.
+
+Author's Family Name, First Name. Year. "Article Title." *Title of Publication* vol, issue no (Month or Season): page number(s).
+
+> Bagley, Benjamin. 2015. “Loving Someone in Particular.” *Ethics* 125, no. 2 (January): 477–507.
+> 
+> Cavell, Stanley. 1978. "What Becomes of Things on Film?" *Philosophy and Literature* 2, no. 2 (Fall): 249-57.
+> 
+> Zutshi, Ambika, Andrew Creed, Mary Holmes, and Jade Brain. 2016. "Reflections of Environmental Management Implementation in Furniture.” *International Journal of Retail & Distribution Management* 44, no. 8: 840–859.
+> 
+> Escobedo, Frida. 2021. “Architecture Is Forever Unfinished” *Journal of Visual Culture* 20, no. 1: 48–59.ENT
 
 ###### end-subtype-content
 
@@ -784,70 +780,64 @@ Cite journal articles accessed in print in the same way as journal articles acce
 ###### end-type-content
 
 
-<!-- News - links to the fourth type menu item -->
+<!-- Newspaper articles - links to the fourth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Newspaper and Magazine Article
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Newspaper article (print)
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### Newspaper or Magazine article consulted online and print
+#### In-Text Citation: Direct Quote
 
-Newspaper articles in which no author listed, cite the title of the newspaper in italics.
+(Author's Family Name Year, page)
 
-Titles of newspapers and magazines, exclude *The* in the title of the magazine or journal from the note, and the title is set in italics. Weekly or monthly (or bimonthly) magazines, even if numbered by volume and issue, are usually cited by date only.
+The Author or Journalists family name, and year of publication is needed for an in-text citation.
 
-A newspaper’s issue may include several editions page number sequences may change, and for this reason page numbers are not included.
+If the author is unknown, use the name of the newspaper in italics instead e.g. (*New York Times* 2002).
 
-Articles from weekend newspaper supplements or other special sections are treated in the same way as magazine articles.
+For direct quotes, a page number can be included but is not necessary.
 
-If an article is accessed through a database include the URL or database name. See examples below**.**
+> A journalist observed, “The Coalition's argument is straight-forward; gas prices are too high because there is a gas shortage, but will fall once more gas is made available” (Carey 2015, 2).
 
-##### Rule for Note
+> Carey writes, “The Coalition’s argument is straight-forward; gas prices are too high because there is a gas shortage, but will fall once more gas is made available” (2015, 2).
 
-{.footnote-indent}Note number. Author’s Full Name, “Title of Article: Subtitle of Article,” *Title of Newspaper* (City of publication if not part of the newspaper title), Date of publication. {/.footnote-indent}
+#### In-Text Citation: Paraphrase
 
-or if no author
+(Author's Family Name Year) OR Author's Family Name (Year)
 
-{.footnote-indent}Note number. *Title of Newspaper*, “Title of Article: Subtitle of Article,” (City of publication if not part of the newspaper title), Date of publication. {/.footnote-indent}
+> According to Carey (2015) gas prices...
 
-##### Note example
+> Gas prices in Victoria have increased due to shortages in supply (Carey 2015).
 
-> {.footnote-indent}1. Jeanette Hill, "Open Doors," *Weekly Times* (Melbourne, Australia), July 20, 2011, Proquest. {/.footnote-indent}
+#### Reference list
+
+For the reference list:
+
+- If the author is unknown, begin the citation with the name of the newspaper in italics.
+
+- The initial *The* from the name of the newspaper can be omitted.
+
+- Include the title of the article title in quotation marks. If there is no title of the article, describe the type of article without quotation marks instead e.g. Obituary or Letter to the Editor.
+
+- If a local newspaper has a common name which doesn't mention the region, or is less well known, the city or state can be added in parenthesis after the name e.g. *Age (Melbourne)*. For national newspapers, the country can be included in the same way.
+
+- You may include the specific edition of a newspaper if relevant. e.g. final edition; afternoon edition.
+
+- Include the date of publication at the end of the citation in the format: Month DD, Year.
+
+- Page numbers are not required in reference list entrees of newspaper articles.
+
+Author's Family Name, Given Name. Year of publication. "Title of Article." *Name of Newspaper*, Date of publication.
+
+> Carey, Adam. 2015. “Gas wars fire up in Victoria as consumers feel the heat.” *Age* (Melbourne), October 15, 2015.
 > 
-> {.footnote-indent}2. Arthur Lubow, "The Triumph of Frank Lloyd Wright," *Smithsonian Magazine,* June, 2009, https<nolink>://www.smithsonianmag.com/history/the-triumph-of-frank-lloyd-wright-132535844/. {/.footnote-indent}
-> 
-> {.footnote-indent}3. Alyx Gorman, "A Movement not a Moment: Indigenous Design in the Spotlight at Australian Fashion Week," *Guardian News* (Sydney, Australia), June 4, 2021, https<nolink>://www.theguardian.com/fashion/2021/jun/05/a-movement-not-a-moment-indigenous-design-in-the-spotlight-at-australian-fashion-week. {/.footnote-indent}
-> 
-> {.footnote-indent}4.*Times of India, "*Swedish Design Week Inaugurated,” (Bombay, India), February 22, 2018. {/.footnote-indent}
-
-##### Shortened note example
-
-> {.footnote-indent}4. Lubow, "A Movement not a Moment: Indigenous Design in the Spotlight at Austraian Fashion Week." {/.footnote-indent}
-> 
-> {.footnote-indent}5. Crowe, "Voters back net zero target." {/.footnote-indent}
-> 
-> {.footnote-indent}6. Times of India, "Swedish Design Week Inaugurated." {/.footnote-indent}
-
-#### Rule for Bibliography
-
-{.hanging-indent}Author's Family Name, First Name. "Title of Article: Subtitle." *Name of Newspaper,* Date of Publication. (Print newspaper) {/.hanging-indent}
-
-{.hanging-indent}Author's Family Name, First Name. "Title of Article: Subtitle." *Name of Newspaper,* Date of Publication. URL or Database Name. (online newspaper) {/.hanging-indent}
-
-#### Examples of Bibliography 
-
-> {.hanging-indent}Hill, Jeanette. "Open Doors." *Weekly Times*, July 20, 2011. {/.hanging-indent}
-> 
-> {.hanging-indent}Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Australian Fashion Week," *Guardian News*, June 4, 2021. https<nolink>://www.theguardian.com/fashion/2021/jun/05/a-movement-not-a-moment-indigenous-design-in-the-spotlight-at-australian-fashion-week. {/.hanging-indent}
-> 
-> {.hanging-indent}*Wall Street Journal.* "Inside the Homes of Architects; the Designers are Getting a Chance to Test their Own Designs." May 14, 2020. https<nolink>://www-proquest-com.ezproxy.lib.rmit.edu.au/newspapers/inside-homes-architects-designers-are-getting/docview/2402563321/se-2?accountid=13552. {/.hanging-indent}
+> *New York Times*. 2002. “In Texas, Ad Heats Up Race for Governor.” July 30, 2002.
 
 ###### end-subtype-content
 
@@ -856,43 +846,55 @@ or if no author
 
 ###### start-subtype-item
 
-### News broadcasts aired on television, viewed live stream, on demand, or in databases
+### Newspaper article (online/database)
 
 ###### start-subtype-content
 
-#### Rule for Note
+Newspaper titles are italicised.
 
-{.footnote-indent}Note number. Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast, URL. {/.footnote-indent}
+Omit the initial *The* for English language newspaper titles. For example, (*Guardian* 2022).
 
-or
+If a newspaper article has no author listed, the title of the newspaper stands in place of the author and is italicised, followed by the year of publication. For example, (*New York Times* 2012).
 
-{.footnote-indent}Note number. Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast, Type of broadcast. {/.footnote-indent}
+For articles consulted online, include a URL or the name of the database in the reference list entry.
 
-##### Note example
+If the article can only be accessed with an account login, provide the web address of the publisher's homepage or provide the database name.
 
-> {.footnote-indent}1. SBS Television, "A Vertical Village for Senior Citizens has Won the World Architecture Prize,"*World News Australia*, December 3, 2018, https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/tvnews.tsm201812030208. {/.footnote-indent}
+Many journal articles list a DOI (Digital Object Identifier). A DOI forms a permanent URL that begins https://doi.org/. This URL is preferable to the URL that appears in your browser’s address bar.
+
+Sources such as webpages or online newspaper articles do not always include page numbers - for such unpaginated works, it may be appropriate to cite a paragraph number or section heading for in-text citations. For example, Smith (2018, para. 2) notes...
+
+#### In-Text Citation: Direct Quote
+
+(Author Family Name Year, page or para. number or section)
+
+> A journalist wrote, “Swiss relief shading is internationally renowned, both for its accuracy and naturalistic approach” (Poll 2022, para. 9).
+
+> In his review of the Apple iPhone, Pegoraro noted, “it could be the product of an advanced, alien civilization” (2007, para. 1).
+
+> “Since you are the pack leader, they find a spot where they can protect you from any threats” (Szydlowski 2021, under “Settling at your feet”).
+
+> An art installation called Studio Outdoors doubles as a workspace with “brilliant green turf, lots of plants, fluorescent awnings, funky shade umbrellas and a variety of high-top tables and other seats” (*Washington Post* 2021, under “Studio Outdoors”).
+
+#### In-Text Citation: Paraphrase
+
+(Author Family Name Year)
+
+> The Swiss Alps are melting, and the Swiss cartographers have a lot of work to do (Poll 2022).
+
+> According to Poll (2022), the Swiss cartographers’ jobs will be fully automated in about a year.
+
+#### Reference list
+
+Author Family Name, First Name. Year. “Title of Article.” *Newspaper Title*, Month day, year of publication. DOI/URL/Database.
+
+> Pegoraro, Rob. 2007. “Apple’s iPhone Is Sleek, Smart and Simple.” *Washington Post*, July 5, 2007. ProQuest Central.
 > 
-> {.footnote-indent}2. Australian Broadcasting Corporation, "Life in Limbo," *7.30 Report,*June 8, 2021, television broadcast. {/.footnote-indent}
-
-##### Shortened note example
-
-> {.footnote-indent}3. Australian Broadcasting Corporation, "Life in Limbo." {/.footnote-indent}
+> Poll, Zoey. 2022. "The People Who Draw Rocks." *New York Times*, March 16, 2022. ProQuest Central.
 > 
-> {.footnote-indent}4. SBS, "Vertical Village for Senior Citizens." {/.footnote-indent}
-
-#### Rule for Bibliography
-
-{.hanging-indent}Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast. URL. {/.hanging-indent}
-
-or
-
-{.hanging-indent}Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast. Type of broadcast. {/.hanging-indent}
-
-##### Example of Bibliography
-
-> {.hanging-indent}SBS Television, "A Vertical Village for Senior Citizens has Won the World Architecture Prize," *World News Australia*, December 3, 2018. https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/tvnews.tsm201812030208. {/.hanging-indent}
+> Szydlowski, Mike. 2021. “Why do dogs do that?: Discover the science behind your dog's strangest behaviors”. *Asheville Citizen*, June 12, 2021. ProQuest Central.
 > 
-> {.hanging-indent}Australian Broadcasting Corporation, "Life in Limbo," *7.30 Report*, June 8, 2021. Television broadcast. {/.hanging-indent}
+> *Washington Post*. 2021. “Work where green grass grows”. September 24, 2021. Thomson Reuters Westlaw.
 
 ###### end-subtype-content
 
@@ -905,70 +907,66 @@ or
 ###### end-type-content
 
 
-<!-- Audiovisual materials - links to the fifth type menu item -->
+<!-- Audiovisual - links to the fifth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Streamed video
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### YouTube or similar video
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-Streamed video accessed from online platform including YouTube or library database.
+Video streamed from online platforms e.g. YouTube, websites, or accessed via library database.
 
-Include an accessed date for any material.
+#### In-Text Citation: Direct Quote
 
-If the video is a recording of a live event, performance, or speech, or if it is a digital version of a published source, include information about the original event or source.
+The creator’s family name and year of publication is needed for an in-text citation.
 
-#### Note rule
+The creator will depend on the focus on your discussion and can include: user who uploaded the video, director, presenter, writer, or actor. Use channel names in full original order. For news broadcasts use the journalist or reporter’s name.
 
-{.footnote-indent}Note number. Full Name of the person primarily responsible for the content, their role, *Title of Video*, Date of publication, Name of the organisation hosting the media, format, duration, accessed date, URL. {/.footnote-indent}
+To quote from audiovisual material use the format HH:MM:SS as a pinpoint.
 
-##### Note examples
-
-> {.footnote-indent}1. “Grimes - Genesis,” directed by Claire Boucher, August 22, 2012, YouTube music video, 05:33, accessed July 4, 2021, https<nolink>://youtu.be/1FH-q0I1fJY. {/.footnote-indent}
+> Brown states “you cannot selectively numb emotion” (2010, 00:15:12).
 > 
-> {.footnote-indent}2. Brené Brown, presenter, “The Power of Vulnerability,” filmed January 4, 2011, in Houston TX, TED video, 20:49, accessed 4 July 2021, https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability. {/.footnote-indent}
+> In the audio paper, Soddell describes the process of composing *Love Songs* as a “sonic meditation” (2018, 00:04:00).
 > 
-> {.footnote-indent}3. Raymond Joseph Teller, director, Tim's Vermeer (Movie 2013), Informit EduTV, video, 01:16:27, accessed 4 July 2021, https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/edutv.1713738. {/.footnote-indent}
+> BBC Business editor Simon Jack reported that “… since last year the price of white fish, of which Russia is a major supplier, is up fifty percent” (2022, 00:00:51).
+
+#### In-Text Citation: Paraphrase
+
+(Creator's Family Name Year of publication)
+
+> (Never Too Small 2018)
 > 
-> {.footnote-indent}4. Eric Bricker, director, Visual Acoustics: The Modernism of Julius Shulman (Shulman Project Partners, 2009), Kanopy, video, 1:23:00, accessed 4 July 2021, https<nolink>://www.kanopy.com/product/visual-acoustics. {/.footnote-indent}
+> (Brown 2010)
 
-#### Shortened note rule
+#### Reference list
 
-{.footnote-indent}Note Number. Family Name of Creator, Short Title of Video. {/.footnote-indent}
+For the reference list:
 
-OR
+- Titles of videos hosted on online platforms such a YouTube are enclosed in quotation marks. Titles of films or television programs are italicised.
 
-{.footnote-indent}Note Number. Short Name of Creator, “Short Title of Content”. {/.footnote-indent}
+- Include additional information about the original event, source, or contributors after Title of Video if relevant to your discussion.
 
-##### Shortened note examples
+- Include the name of the host website or streaming platform, followed by 'video', and duration. Alternatively 'Online video' can be used.
 
-> {.footnote-indent}5. Grimes, “Genesis.” {/.footnote-indent}
+- Include an accessed date and URL at the end of the citation.
+
+- For news broadcasts begin the citation with the name of the journalist or reporter. Include the title of news segment and name of the news program
+
+Creator's Family Name, Given Name. Year. “Title of Video.” Additional information. Online video, duration. Accessed date. URL.
+
+> Brown, Brené. 2010. “The Power of Vulnerability.” Filmed June 2010 in Houston, TX. TED video, 20:49. Accessed July 4, 2021. https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability.
 > 
-> {.footnote-indent}6. Brown, “Power of Vulnerability.” {/.footnote-indent}
+> Jack, Simon. 2022. *BBC News: Business*. “Why your fish and chips may cost a lot more.” Filmed and edited by Samantha Everett. Produced by Ollie Smith. Aired March 17, 2022. Online video, 02:29. Accessed March 21, 2022. https<nolink>://www.bbc.com/news/av/business-60762921.
 > 
-> {.footnote-indent}7. Teller, Tim's Vermeer. {/.footnote-indent}
+> Never Too Small. 2018. “Never Too Small 1970’s Melbourne Tiny Apartment – 35sqm/370sqft.” YouTube video, 3:06. Accessed July 4, 2021. https<nolink>://youtu.be/l3yHLikvjPU.
 > 
-> {.footnote-indent}8. Bricker, Visual Acoustics. {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Family Name, Given Name of the person the person primarily responsible for the content, their role. *Title of content: Subtitle of content*. Year of publication of original media. Name of the organisation hosting the media. Format, duration. Accessed date. URL. {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Grimes. “Grimes – Genesis.” Directed by Claire Boucher. August 22, 2012. YouTube music video, 05:33. Accessed July 4 2021. https<nolink>://youtu.be/1FH-q0I1fJY. {/.hanging-indent}
-> 
-> {.hanging-indent}Brown, Brené. “The Power of Vulnerability.” Filmed June 2010. In Houston, TX. TED video. 20:49. Accessed July 4 2021. https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability. {/.hanging-indent}
-> 
-> {.hanging-indent}Teller, Raymond Joseph, Dir. *Tim's Vermeer (Movie 2013)*. 2013. EduTV. video. 01:16:27. Accessed July 4 2021. https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/edutv.1713738. {/.hanging-indent}
-> 
-> {.hanging-indent}Bricker, Eric, Dir. *Visual Acoustics: The Modernism of Julius Shulman*. Shulman Project Partners. 2009. Kanopy, video. 1:23:00. Accessed July 4 2021. https<nolink>://www.kanopy.com/product/visual-acoustics. {/.hanging-indent}
+> Soddell, Thembi. 2018. “Love Songs.” Featuring Vanessa Godden. Disclaimer video, 39.48. Accessed July 4, 2021. https<nolink>://disclaimer.org.au/contents/love-songs.
 
 ###### end-subtype-content
 
@@ -977,61 +975,61 @@ OR
 
 ###### start-subtype-item
 
-### DVD/VHS
+### Film
 
 ###### start-subtype-content
 
-Film and Video recordings accessed via DVD, Blu-Ray, VHS, Film or other physical medium.
+Video recordings of films, movies accessed on DVD or other physical medium, or streamed online.
 
-- Citations can either begin with the Name of the Person primarily responsible for the content (Director, Producer, Creator, Actor etc. depending on the focus of your discussion) or the *Title of Production*.
+#### In-Text Citation: Direct Quote
 
-- If citing a section of larger work, such as a scene or chapter, the section titles are enclosed in quotation marks, and the larger work in Italics.
+The director's family name and year of release is needed for an in-text citation.
 
-- Citations may include original release date of film or aired date of program.
+To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preceded by a comma e.g. Smith (2016, 00:21:18).
 
-#### Note rule
+> …a crucial moment of the documentary (Bricker 2009, 02:06:36).
 
-{.footnote-indent}Note number. Full Name of the Person Primarily Responsible for the Content, their role, *Title of Production* (Original year of release; Place of publication: Publisher’s Name, Year of publication), format. {/.footnote-indent}
+#### In-Text Citation: Paraphrase
 
-OR
+(Director's family name Year)
 
-{.footnote-indent}Note number. “Title of Scene,” *Title of Production*, directed or equivalent by Full Name of the Person Primarily Responsible for the content (Original year of release; Place of publication: Publisher’s Name, Year of publication), format. {/.footnote-indent}
+> (Scott 1982)
 
-##### Note examples
+> (Fellini 1960)
 
-> {.footnote-indent}1. *Blade Runner*, directed by Ridley Scott (1982; Burbank, CA: Warner Home Video, 2006), DVD. {/.footnote-indent}
+> In the film *Tim's Vermeer* Teller explores... (2013)
+
+#### Reference list
+
+For the reference list:
+
+- Roles are abbreviated e.g. dir. for director, and prod. for producer.
+
+- Include the original year of release. If unknown use the year of distribution or copyright.
+
+- Film titles are italicised. Scene or chapter titles are enclosed in quotation marks.
+
+- For films sourced on DVD/ VHS include place of publication, studio/distributor, (and year of publication if different from original release date) followed by medium at the end of the citation.
+
+- For films streamed online include the duration, an accessed date, and URL/ name of the streaming service or library database at the end of the citation.
+
+- If the URL requires an account login, use the database name instead.
+
+**Film on DVD:**
+
+Director’s Family Name, Given Name, dir. Year of release. “Title of Scene.” *Title of Film*. Place of publication: Studio/Distributor, Year of publication. Medium.
+
+> Fellini, Federico, dir. 1960. “Fountain Scene.” *La Dolce Vita*. Sydney, NSW: Umbrella Entertainment, 2005. DVD.
 > 
-> {.footnote-indent}2. *La Dolce Vita*, “Fountain Scene", directed by Federico Fellini (1960; Australia: Umbrella Entertainment, 2005), DVD. {/.footnote-indent}
+> Scott, Ridley, dir. 1982. *Blade Runner*. Burbank, CA: Warner Home Video, 2006. DVD.
 
-#### Shortened note rule
+**Film streamed online:**
 
-{.footnote-indent}Note Number. Family Name, Short Title of Production. {/.footnote-indent}
+Director’s Family Name, Given Name, dir. Year of release. *Title of Film*. Streaming service, duration. Accessed date. URL
 
-OR
-
-{.footnote-indent}Note Number. Short Title of Production, "Short Title of Scene." {/.footnote-indent}
-
-##### Shortened note examples
-
-> {.footnote-indent}3. Scott, *Blade Runner.* {/.footnote-indent}
+> Bricker, Eric, dir. 2009. *Visual Acoustics: The Modernism of Julius Shulman*. Shulman Project Partners. Kanopy video, 01:23:00. Accessed July 4, 2021. https<nolink>://www.kanopy.com/product/visual-acoustics.
 > 
-> {.footnote-indent}2. *La Dolce Vita, "Fountain Scene."* {/.footnote-indent}
-
-#### Bibliography rule
-
-The Bibliographic entry must begin with the Name of person primarily responsible for the content.
-
-{.hanging-indent}Family Name, Given Name of the person primarily responsible for the content. their role. *Title of Production*. Original year of release; Place of publication: Publisher’s Name, Year of publication. Format. {/.hanging-indent}
-
-OR
-
-{.hanging-indent}Family Name, Given Name of the person primarily responsible for the content. their role “Title of Scene.” *Title of Production*. Original year of release; Place of publication: Publishers Name, Year of publication. Format {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Scott, Ridley. Director. *Blade Runner*. 1982; Burbank, CA: Warner Home Video, 2006. DVD. {/.hanging-indent}
-> 
-> {.hanging-indent}Fellini, Federico. Director. “Fountain Scene.” *La Dolce Vita*. 1960; Australia: Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
+> Teller, Raymond Joseph, dir. 2013. *Tim's Vermeer*. EduTV video, 01:16:27. Accessed July 4, 2021. Informit EduTV.
 
 ###### end-subtype-content
 
@@ -1040,56 +1038,85 @@ OR
 
 ###### start-subtype-item
 
-### Television broadcast
+### Television program
 
 ###### start-subtype-content
 
-Television broadcast (program or series aired live on television, live-streamed online, viewed on demand, or accessed via library database)
+Program or series aired on television, broadcast live, streamed online, or accessed via library database
 
-#### Note rule
+#### In-Text Citation: Direct Quote
 
-{.footnote-indent}Note number. Producer's Full Name, “Title of Episode,” *Title of Production*, season number, episode number, directed by Director's Full Name, date aired (Place: Publisher, Year), Medium. {/.footnote-indent}
+The creator's family name and year of publication is needed for an in-text citation.
 
-OR
+The creator can include: director, presenter, writer, producer, or actor, depending on the focus of your discussion.
 
-{.footnote-indent}Note number. *Title of Program*, season number, episode number, “Title of Episode”, Date first aired, Producer, Broadcaster, Medium. {/.footnote-indent}
+To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preceded by a comma.
 
-##### Note examples
+> "Reproductions distort. Only a few facsimilies don't" (Berger 1972, 08:02).
 
-> {.footnote-indent}1. John Berger, “Part 1: Reproductions,” *Ways of Seeing*, episode 1, produced by Michael Dibb, aired January 8 1972 (London: BBC, 1972), accessed July 4, 2021, RMIT Digital Collections. {/.footnote-indent}
+#### In-Text Citation: Paraphrase
+
+(Creator's family name Year)
+
+> (Perkins 2014)
+
+> In the episode of *Grand Designs*… (McCloud 2017)
+
+#### Reference list
+
+For the reference list:
+
+- Program titles are italicised, episode titles are enclosed in quotation marks.
+
+- Include additional contributors if relevant between the Title of Episode and the Aired Date.
+
+- Include place and publisher/distributor followed by medium if viewed on DVD.
+
+- Include an accessed date for any online material.
+
+- Include a URL, name of streaming service, or library database at the end of the citation if viewed online.
+
+Creator's Family Name, Given Name, role. Year. *Title of Program*. Season number, episode number, “Title of Episode.” Additional contributors. Aired date, on Studio/station. Medium.
+
+> Berger, John, presenter. 1972. *Ways of Seeing*. “Part 1: Reproductions.” Produced by Michael Dibb. Aired January 8, 1972, on BBC. Accessed July 4, 2021. RMIT Digital Collections.
 > 
-> {.footnote-indent}2. *Grand Designs*, series 18, episode 7, “Peak District: Post-Industrial House,” presented by Kevin McCloud, aired October 18, 2017 on Channel 4, television Broadcast. {/.footnote-indent}
+> McCloud, Kevin, presenter. 2017. *Grand Designs*. Season 18, episode 7, “Peak District: Post-Industrial House.” Aired October 18, 2017, on Channel 4. Television Broadcast.
 > 
-> {.footnote-indent}3. Hetti Perkins, “Love and Longing,” *Art and Soul*, series 2, episode 3, directed by Steven McGregor, aired July 22 , 2014 (Sydney, NSW: Arthouse Films, 2014), DVD. {/.footnote-indent}
+> Perkins, Hetti, writer and presenter. 2014. *Art and Soul*. Season 2, episode 3, “Love and Longing.” Directed by Steven McGregor. Aired July 22, 2014, on ABC TV. Sydney, NSW: Arthouse Films. DVD.
 
-#### Shortened note rule
 
-{.footnote-indent}{.footnote-indent}Note Number. Family Name, *Short Title*. {/.footnote-indent}
+###### end-subtype-content
 
-OR
+###### end-subtype-item
 
-{.footnote-indent}Note Number. Short Program Name, “Short Title of Episode.” {/.footnote-indent}
 
-##### Shortened note examples
+###### start-subtype-item
 
-> {.footnote-indent}4. Berger, "Reproductions." {/.footnote-indent}
-> 
-> {.footnote-indent}5. *Grand Designs*, “Post-Industrial.” {/.footnote-indent}
-> 
-> {.footnote-indent}6. Perkins, “Love and Longing.” {/.footnote-indent}
+### Radio broadcast
 
-#### Bibliography rule
+###### start-subtype-content
 
-{.hanging-indent}Producer's Family Name, Given Name. “Title of Episode,” *Production Title*. season number, episode number. Directed by Directors Given and Family Names. Date aired, Place: Publisher, Year. Medium. {/.hanging-indent}
+#### In-Text Citation: Direct Quote
 
-##### Bibliography examples
+The presenter’s family name and year of broadcast is needed for an in-text citation.
 
-> {.hanging-indent}Berger, John. “Part 1: Reproductions”. *Ways of Seeing*. Episode 1. Produced by Michael Dibb. Aired 8 January 1972. BBC. Accessed July 4, 2021. RMIT Digital Collections. {/.hanging-indent}
-> 
-> {.hanging-indent}*Grand Designs*. Season 18, episode 7. “Peak District: Post-Industrial House.” Presented by Kevin McCloud. Aired October 18, 2017 on Channel 4. Television broadcast. {/.hanging-indent}
-> 
-> {.hanging-indent}Perkins, Hetti. “Love and Longing.” *Art and Soul*. Season 2, episode 3. Directed by Steven McGregor. Aired July 22, 2014 on ABC TV. Sydney, NSW: Arthouse Films, 2014. DVD. {/.hanging-indent}
+To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preceded by a comma e.g. Smith (2016, 00:21:18).
 
+(Presenter's Family Name Year, HH:MM:SS) OR Presenter's Family Name (Year, HH:MM:SS)
+
+> In the introduction of his segment on mental illness, Paul Barclay states that "\[a\]round half of the Australian population will most likely experience a mental illness in their lifetime" (2017, 00:00:11).
+
+#### In-Text Citation: Paraphrase
+
+(Presenter’s Family Name Year)
+
+> In the 2017 Hawke Lecture, Julia Gillard addressed the need for mental health reform in the form of preventative mental health care (Barclay 2017).
+
+#### Reference list
+
+Presenter’s Family Name, Given Name. Year broadcast. “Episode Title.” Date broadcast. In *Program Title*. Place produced: Network. Medium.
+
+> Barclay, Paul. 2017. "Julia Gillard Calls for More Preventative Mental Health Care." October 12, 2017. In *Big Ideas*. Adelaide, SA: ABC Radio National. Radio broadcast.
 
 ###### end-subtype-content
 
@@ -1102,76 +1129,37 @@ OR
 
 ###### start-subtype-content
 
-Podcast presenters are usually treated as the author except in the case of interviews. Enclose the episode title in quotation marks, followed by the date published online or recorded. Include the word “in” followed by the podcast title in italics. Producers may be included followed by the file format if downloaded as a file. Duration is formatted as HH:MM:SS. End the citation with a URL.
+Audio podcasts, vodcasts, and webcasts.
 
-For podcasts where the interviewee is the main focus of discussion see: Interview
+#### In-Text Citation: Direct Quote
 
-#### Note rule
+The presenter’s family name and year of publication is needed for an in-text citation.
 
-{.footnote-indent}Note number. First Presenter’s Full Name and Second Presenter’s Full Name, “Episode Title,” date published, in *Production Title*, Produced by Producer’s Full Name, Podcast, File Format. Duration. URL. {/.footnote-indent}
+Year recorded or uploaded can be used as the year of publication.
 
-##### Note examples
+To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preceded by a comma e.g. Smith (2016, 00:21:18).
 
-> {.footnote-indent}1. Sarah Koenig, “The Alibi,” October 3, 2014, in *Serial*. Produced by Sarah Koenig, Julie Snyder & Dana Chivvis, podcast, MP3 audio. 52:00. https<nolink>://serialpodcast.org/season-one/1/the-alibi. {/.footnote-indent}
+(Presenter's Family Name Year, HH:MM:SS) OR Presenter's Family Name (Year, HH:MM:SS)
+
+> At first glance, Adnan and Hae Min's relationship is akin to "a Shakespearean mash-up" (Koenig 2014, 00:06:02).
+
+> Mars describes the Boston City Hall as "always a controversial structure" (2020, 00:00:43).
+
+#### In-Text Citation: Paraphrase
+
+(Presenter's Family Name Year)
+
+> Koenig addresses the difficulty in accounting for one's time which is at the heart of *The Alibi* (Koenig 2014).
+
+> The Boston City Hall's controversial architecture is the genius of its architects (Mars 2020).
+
+#### Reference list
+
+Presenter’s Family Name, Given Name. Year. “Episode Title.” Episode number. Date aired. In *Podcast Title*. Additional contributors. Podcast, Duration. Accessed date. URL.
+
+> Koenig, Sarah. 2014. “The Alibi.” Season 1, episode 1. October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder, and Dana Chivvis. Podcast, 52:00. Accessed July 9, 2021. https<nolink>://serialpodcast.org/season-one/1/the-alibi.
 > 
-> {.footnote-indent}2. Roman Mars, “The Smell of Concrete After Rain,” April 28, 2020, in *99% Invisible*, produced by Avery Trufelman, podcast, MP3 Audio. 29:15. https<nolink>://99percentinvisible.org/episode/the-smell-of-concrete-after-rain. {/.footnote-indent}
-
-#### Shortened note rule
-
-{.footnote-indent}Note number. Presenter Family Name, "Shortened Episode Title". {/.footnote-indent}
-
-##### Shortened note examples
-
-> {.footnote-indent}3. Koenig, “The Alibi.” {/.footnote-indent}
-> 
-> {.footnote-indent}4. Mars, "Concrete After Rain." {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Presenter’s Family Name, Given Name. “Episode Title.” Season number, episode number. Date published. In *Production Title*. Produced by Producers Full Name. Podcast, File Format. Duration. URL. {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Koenig, Sarah. “The Alibi.” Season 1. Episode 1. October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder & Dana Chivvis. Podcast, MP3 audio. 52:00. https<nolink>://serialpodcast.org/season-one/1/the-alibi. {/.hanging-indent}
-> 
-> {.hanging-indent}Mars, Roman. “The Smell of Concrete After Rain.” Episode 400. April 28, 2020. In *99% Invisible*. Produced by Avery Trufelman. Podcast, MP3 Audio. 29:15. https<nolink>://99percentinvisible.org/episode/the-smell-of-concrete-after-rain. {/.hanging-indent}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-
-### Radio broadcasts
-
-###### start-subtype-content
-
-#### Note rule
-
-{.footnote-indent}Note number. Presenter’s Full Name, “Episode Title,” episode number, date aired, in *Production Title*, Place produced and/or broadcasted: Broadcaster’s Name. {/.footnote-indent}
-
-##### Note examples
-
-> {.footnote-indent}1. Paul Barclay, "Julia Gillard Calls for More Preventative Mental Health Care," October 12, 2017, in *Big Ideas*, South Australia: ABC Radio National. Radio broadcast. {/.footnote-indent}
-
-#### Shortened note rule
-
-In this example the name of the guest speaker forms the shortened title:
-
-{.footnote-indent}Note number. Presenters Family Name, "Shortened Episode Title". {/.footnote-indent}
-
-##### Shortened note examples
-
-> {.footnote-indent}2. Barclay, "Julia Gillard Calls." {/.footnote-indent}
-
-#### Bibliography Rule
-
-{.hanging-indent}Presenter’s Family Name, Presenter’s Given Name. “Episode Title.” Episode number. Date aired. In *Production Title*. Place produced and/or broadcasted: Broadcaster’s Name. {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Barclay, Paul. "Julia Gillard Calls for More Preventative Mental Health Care." October 12, 2017. In *Big Ideas*. South Australia: ABC Radio National. Radio broadcast. {/.hanging-indent}
+> Mars, Roman. 2020. “The Smell of Concrete After Rain.” Episode 400. April 28, 2020. In *99% Invisible*. Produced by Avery Trufelman. Podcast, 29:15. Accessed July 9, 2021. https<nolink>://99percentinvisible.org/episode/the-smell-of-concrete-after-rain.
 
 ###### end-subtype-content
 
@@ -1184,67 +1172,51 @@ In this example the name of the guest speaker forms the shortened title:
 
 ###### start-subtype-content
 
-Sound recordings may include CDs, content from music streaming platforms, or records (LPs).
+#### In-Text Citation: Direct Quote
 
-For sound recordings a note may begin with the Title of recording, but the bibliographic entry must begin with the Name of person primarily responsible for the content (e.g. performer, composer). The primary contributor is based on which is more relevant for discussion.
+The creator’s family name and year of publication is needed for in-text citations.
 
-Year published can be substituted for year recorded or copyright.
+The creator can include the recording artist, composer, or performer depending on the focus of your discussion. For group names e.g. bands, use name in full original order.
 
-**Musical recordings** are usually listed in a separate discography. If included in the bibliography they can be grouped under an appropriate subheading.
+Year of recording or copyright can be used as the year of publication.
 
-#### Note rule
+To quote from audiovisual material use the format HH:MM:SS as a pinpoint.
 
-{.footnote-indent}Note number. Full Name of the person primarily responsible for the content, *Title of Recording*, other relevant information, Publisher catalogue number, Year published in the relevant format, format. {/.footnote-indent}
+> The introduction of dissonant flutter-tonguing in the brass is effective in emulating bleating sheep in the 2nd Varient (Strauss 1940, 00:10:34).
 
-Or
+> "But promises can be broken, just like writing in the sand" is a direct reference to the Australian government's failure to honour promises made to its Indigenous peoples (Yothu Yindi 1991, 00:00:33).
 
-Note number. “Title of Part,” other relevant information, format or Name of the streaming service, track number on Full Name of the person primarily responsible for the content, *Title of Recording*, Publisher, Year published. {/.footnote-indent}
+> Hazelwood's line "...maybe I'll tell you about Phaedra, and how she gave me life, and how she made it end" serves as a call to Sinatra's response of "Phaedra is my name" (Sinatra and Hazelwood 1968, 00:00:43).
 
-##### Note examples
+#### In-Text Citation: Paraphrase
 
-> {.footnote-indent}1. Steve Reich, “Come Out,” with Daniel Hamm (voice), on *Early Works*, Elektra Nonesuch 979169-2, 1987, CD. {/.footnote-indent}
+(Creator's Family Name Year)
+
+> Strauss' *Don Quixote* is unique as a symphonic piece in that the soloists play characters, in this case the celloist is Don Quixote (Strauss 1940).
+
+> The Hawke government's failure to honour its promise to the Indigenous people, is at the heart of "Treaty" (Yothu Yindi 1991).
+
+> With its psychedelic nature and references to Greek mythology, "Some Velvet Morning" was a departure from the country and pop tunes Hazelwood and Sinatra had recorded previously (Sinatra and Hazelwood 1968).
+
+#### Reference list
+
+For the reference list:
+
+- Titles of songs or short pieces are enclosed in quotation marks. Titles of albums are italicised.
+
+- Include additional contributors after the Title of Recording if relevant to discussion.
+
+- Include additional information such as identifying number or release date after the publisher to distinguish between similar recordings if possible.
+
+- Include an accessed date and URL or name of streaming service at the end of the citation if sourced online.
+
+Creator's Family Name, Given Name. Year published. “Title of Track.” Track number on *Title of Recording*. Additional contributors. Publisher. Format. URL.
+
+> Sinatra, Nancy, and Lee Hazelwood. 1968. “Some Velvet Morning.” Track 8 on *Nancy and Lee*. Reprise RS-6273. 33⅓ rpm.
 > 
-> {.footnote-indent}2. Richard Strauss, *Don Quixote*, with Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy, recorded February 24, 1940, Biddulph LAB 042, 1991, CD. {/.footnote-indent}
+> Strauss, Richard. 1940. *Don Quixote*. With Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy. Recorded February 24, 1940. Biddulph LAB 042, 1991. CD.
 > 
-> {.footnote-indent}3. Yothu Yindi, “Treaty - Radio Mix,” track 15 on *Tribal Voice*, originally released 1991; Bloodlines, 2012. Spotify https<nolink>://open.spotify.com/track/0RGD7VXcMiPGmnha3vXSt3?si=3a405ec23ae341d5. {/.footnote-indent}
-> 
-> {.footnote-indent}4. Nancy Sinatra and Lee Hazelwood, “Some Velvet Morning,” track 8 on *Nancy and Lee*, Hollywood: Reprise RS-6273, 1968, 33⅓ rpm. {/.footnote-indent}
-
-#### Shortened note rule
-
-{.footnote-indent}Note Number. Family Name, *Short Title of Work*. {/.footnote-indent}
-
-OR
-
-{.footnote-indent}Note Number. Short Performer Name, "Short Title of Part." {/.footnote-indent}
-
-##### Shortened note examples
- 
-> {.footnote-indent}5. Reich, “Come Out.” {/.footnote-indent}
-> 
-> {.footnote-indent}6. Strauss, *Don Quixote*. {/.footnote-indent}
-> 
-> {.footnote-indent}7. Yothu Yindi, “Treaty.” {/.footnote-indent}
-> 
-> {.footnote-indent}8. Sinatra and Hazelwood, “Some Velvet Morning.” {/.footnote-indent}
-
-#### Bibliography Rule
-
-{.hanging-indent}Family Name, Given Name of the person primarily responsible for the content. *Title of content*. other relevant information. Publisher catalogue number, Year published in the relevant format, format. Any other references such as the original. {/.hanging-indent}
-
-Or
-
-{.hanging-indent}Family Name, Given Name of the person primarily responsible for the content, their role. “Title of Part,” other relevant information, Format or Name of the streaming service. Track number on Full Name of the person primarily responsible for the content if necessary, *Title of Recording*, Publisher, Year published. {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Reich, Steve. “Come Out.” with Daniel Hamm (voice) on *Early Works*. Elektra Nonesuch 9 79169-2. 1987. CD. {/.hanging-indent}
-> 
-> {.hanging-indent}Strauss, Richard. *Don Quixote*. with Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy. Recorded February 24, 1940. Biddulph LAB 042. 1991. CD. {/.hanging-indent}
-> 
-> {.hanging-indent}Yothu Yindi. “Treaty - Radio Mix.” Track 15 on *Tribal Voice*. Originally released 1991. Bloodlines, 2012. Spotify. https<nolink>://open.spotify.com/track/0RGD7VXcMiPGmnha3vXSt3?si=3a405ec23ae341d5. {/.hanging-indent}
-> 
-> {.hanging-indent}Sinatra, Nancy and Lee Hazelwood. “Some Velvet Morning.” Track 8 on *Nancy and Lee*. Hollywood, Reprise RS-6273. 1968. 33⅓ rpm. {/.hanging-indent}
+> Yothu Yindi. 1991.“Treaty - Radio Mix.” Track 15 on *Tribal Voice*. Bloodlines, 2012. Spotify streaming audio. https<nolink>://open.spotify.com/track/0RGD7VXcMiPGmnha3vXSt3?si=3a405ec23ae341d5.
 
 ###### end-subtype-content
 
@@ -1253,57 +1225,29 @@ Or
 
 ###### start-subtype-item
 
-### Musical scores
+### Musical score
 
 ###### start-subtype-content
 
-**Published musical scores** are cited and referenced like books, with the composer treated as the author.
+#### In-text citation
 
-Unpublished scores are cited and referenced like unpublished manuscripts.
+The composer’s family name and year of publication is needed for in-text citations
 
-#### Note rule
+For direct quotes include a page number after the year, preceded by a comma.
 
-{.footnote-indent}Note Number. Composer, *Title of Score* (Place of publication: Publisher, Year), page number(s). {/.footnote-indent}
+> (Reich 1980)
 
-OR
+> Stravinsky (1921)
 
-{.footnote-indent}Note Number. Composer, *Title of Score*, ed. Editors Full Name (Place of publication: Publisher, Year), URL/DOI/Database Name {/.footnote-indent}
+#### Reference list
 
-##### Note examples
+Include an accessed date and URL/ Database name for online scores.
 
-> {.footnote-indent}1. Igor Stravinsky, *The Rite of Spring*, Masterworks Library (New York: Boosey and Hawkes, 1921). {/.footnote-indent}
+Composer’s Family Name, Given Name. Year of publication. *Title of Score*. Place of publication: Publisher.
+
+> Reich, Steve. 1980. *Four Organs*. London: Universal Edition. Accessed July 29, 2021. Alexander Street.
 > 
-> {.footnote-indent}2. Gérard Grisey, *Vortex Temporum I, II, III: Pour piano et cinq instruments*, (Milan: Ricordi, 1995). {/.footnote-indent}
-> 
-> {.footnote-indent}3. Steve Reich, *Four Organs* (London: Universal Edition, 1980), accessed 29 July 2021, Alexander Street. https<nolink>://search-alexanderstreet-com.ezproxy.lib.rmit.edu.au/view/work/bibliographic\_entity|score|554518. {/.footnote-indent}
-
-#### Shortened note rule
-
-{.footnote-indent}Note Number. Composer Family Name, *Short Title of Score*. {/.footnote-indent}
-
-##### Shortened note examples
-
-> {.footnote-indent}4. Stravinsky, *Rite of Spring*. {/.footnote-indent}
-> 
-> {.footnote-indent}5. Grisey, *Vortex Temporum*. {/.footnote-indent}
-> 
-> {.footnote-indent}6. Reich, *Four Organs*. {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Composer Family Name, Given Name. *Title of Score*. Place of publication: Publisher, Year. {/.hanging-indent}
-
-OR
-
-Composer Family Name, Given Name. *Title of Score*. ed. Editors Full Name. Place of publication: Publisher, Year, URL/DOI/Database Name.
-
-##### Bibliography examples
-
-> {.hanging-indent}Stravinsky, Igor. *The Rite of Spring*. New York: Boosey and Hawkes. 1921. {/.hanging-indent}
-> 
-> {.hanging-indent}Grisey, Gérard. *Vortex Temporum I, II, III: Pour piano et cinq instruments*. Milan: Ricordi. 1995. {/.hanging-indent}
-> 
-> {.hanging-indent}Reich, Steve. *Four Organs*. London: Universal Edition. 1980. Accessed July 29. 2021. Alexander Street. https<nolink>://search-alexanderstreet.com.ezproxy.lib.rmit.edu.au/view/work/bibliographic\_entity|score|554518. {/.hanging-indent}
+> Stravinsky, Igor. 1921. *The Rite of Spring*. New York: Boosey and Hawkes.
 
 ###### end-subtype-content
 
@@ -1322,47 +1266,82 @@ Composer Family Name, Given Name. *Title of Score*. ed. Editors Full Name. Place
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Websites
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Webpages
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-Enclose the title of the page in quotation marks. If there is no discernible title, create a short description of the website or webpage instead. The words *website* or *webpage* in parenthesis can be included after the title if the source is otherwise unclear.
+- Chicago requires an access date in citations of websites and other sources consulted online only if no date of publication or revision can be determined from the source (see 14.12 of the Chicago Manual). In those cases that is, when only an access date is used record n.d. as the date of publication in the reference list entry and for the in-text citation. To avoid conflation with the name of the author, n.d. is always lowercase.
 
-Include a publication date or date of revision if this is available. However,it might be difficult to find a publication or revision date on websites. If this is the case, leave out the publication date as in the Tate Modern example below. For frequently updated webpages, you may include a last modified date with a time stamp, as in the Wikipedia example.
+- Websites are created by individuals, companies, governments and other organisations. If no individual author is identified, use the organisation name as the author. If no organisation is identified either, use the webpage title in the place of the author name.
 
-#### Note rule
+#### In-Text Citation: Direct quote
 
-{.footnote-indent}Note number. "Title or Description of Page," Website Name, Year of Publication, access date, URL. {/.footnote-indent}
+- If directly quoting from a source without a page number, use a paragraph number or section heading instead.
 
-##### Note examples
+(Author’s Family Name or Organisation Year of publication, page number or paragraph number or heading name).
 
-> {.footnote-indent}1. "Psychogeography," Tate Modern (website), accessed June 27, 2021, https<nolink>://www.tate.org.uk/art/art-terms/p/psychogeography. {/.footnote-indent}
+> "The facade is dramatic but also mysterious, faceless, presenting white-painted brick and pine battens and with no visible openings" (Scrubt 2017, para. 3).
+
+#### In-Text Citation: Paraphrase
+
+(Author’s Family Name or Organisation Year of publication)
+
+> Scrubt (2017) commented on the façade of the building…  
+
+> The façade of the building has a mysterious look (Scrubt 2017).
+
+#### Reference list
+
+Author. Year. "Title of Webpage." Website name (owning organisation). Date viewed/accessed. URL.
+
+> Alliance for Linguistic Diversity. n.d. “Balkan Romani.” Endangered Languages. Accessed April 6, 2016. http<nolink>://www.endangeredlanguages.com/lang/5342.
 > 
-> {.footnote-indent}2. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building," Building Green, 2013, accessed June 28, 2021, https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building. {/.footnote-indent}
+> Australian Society for Indigenous Languages. n.d. "Supporting Indigenous Language Communities." Australian Society for Indigenous Languages. Accessed July 26, 2018. http<nolink>://www.ausil.org.au/.
 > 
-> {.footnote-indent}3. "Wikipedia: List of Controversial Issues," Wikipedia, last modified April 2, 2021, 17:19, accessed June 29, 2021, https<nolink>://en.wikipedia.org/wiki/Wikipedia:List\_of\_controversial\_issues. {/.footnote-indent}
+> Scrubt, Mark. 2017. "Iceberg Palace: Halo House." ArchitectureAU. Accessed September 30, 2017. https<nolink>://architectureau.com/articles/halo-house/.
 
-##### Shortened note examples:
+###### end-subtype-content
 
-> {.footnote-indent}4. "Psychogeography." {/.footnote-indent}
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### Web documents
+
+###### start-subtype-content
+
+- Use for stand-alone documents that are downloaded from a website.
+
+- If page numbers are not given, use paragraph number or section headings.
+
+- Web documents are created by individuals, companies, governments and other organisations. If no individual author is identified, use the organisation name as the author. If no organisation is identified either, use the webpage title in the place of the author name.
+
+- If no publication date can be identified, use n.d. in lowercase in place of a year in both the intext citation and the reference list.
+
+#### In-Text Citation: Direct Quote
+
+(Author's Family Name OR Organisation Name Year, page)
+
+> "Epidemiology can inform or drive implementation science by supplying evidence on causes of disease and effective interventions as well as informing study methods, measurement, and designs" (Centre for Epidemiology and Evidence 2017, 23).
+
+> "Several respondents questioned the reason for inclusion of ectromelia virus as an agent of quarantine concern" (Department of Agriculture, Fisheries and Forestry 2003, para. 2).
+
+#### In-Text Citation: Paraphrase
+
+(Author's Family Name OR Organisation Name Year)
+
+> Unlike laboratory experiments, epidemiology provides evidence based on studies of human populations under real-world conditions (Centre for Epidemiology and Evidence 2017).
+
+#### Reference List
+
+Author's Family Name, Given Name OR Organisation Name. Year. *Document Title: Subtitle*. Document No. Place of Publication: Publisher. DOI or URL.
+
+> Australia. Department of Agriculture, Fisheries and Forestry. 2003. *Quarantine Requirements for the Importation of Live Laboratory Rats and Mice and Their Reproductive Material*. http<nolink>://www.daff.gov.au/\_\_data/assets/pdf\_file/0016/13822/2003-06a.pdf.
 > 
-> {.footnote-indent}5. "Whole-Building Life-Cycle Assessment." {/.footnote-indent}
-> 
-> {.footnote-indent}6. "Wikipedia: List of Controversial Issues." {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Author’s Family Name, Author’s Given Name. "Title or Description of Page." Website Name, Year of Publication. Accessed date. URL. {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Tate Modern. "Psychogeography." Tate Modern (website). Accessed June 27, 2021. https<nolink>://www.tate.org.uk/art/art-terms/p/psychogeography. {/.hanging-indent}
-> 
-> {.hanging-indent}Melton, Paula. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building." Building Green, 2013. Accessed June 28, 2021. https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building. {/.hanging-indent}
-> 
-> {.hanging-indent}Wikipedia. "Wikipedia: List of Controversial Issues." Wikipedia, last modified April 2, 2021, 17:19. Accessed June 29, 2021. https<nolink>://en.wikipedia.org/wiki/Wikipedia:List\_of\_controversial\_issues. {/.hanging-indent}
+> Centre for Epidemiology and Evidence. 2017. *NSW Mothers and Babies Report 2016*. Sydney: NSW Health. http<nolink>://www.health.nsw.gov.au/hsnsw/Publications/mothers-and-babies-2016.pdf.
 
 ###### end-subtype-content
 
@@ -1375,39 +1354,41 @@ Include a publication date or date of revision if this is available. However,it 
 
 ###### start-subtype-content
 
-Chicago defines a blog as a web-based forum that consists of posted entries organised by date or topic and usually accompanied by comments.
+For a blog post with no author, the title should be used instead.
 
-Unless the word blog is already part of the title, as in the LSE Impact Blog example below, the blog title should be followed word *blog*, in parentheses. Titles of blog posts are placed in quotation marks.
+#### In-Text Citation: Direct quote
 
-Blogs that are part of a larger publication should also include the name of that publication as in the LSE example below.
+If directly quoting from a source without a page number, use a paragraph number or section heading instead.
 
-Comments can usually be cited in the text, in reference to the related post. If the comment is cited in a note, list the name of the commenter and the date of the comment, followed by the information for the related post.
+(Author’s Family Name Year of Publication, page number paragraph number or section heading)
 
-#### Note rule
+> “Subcultures have been allowed to flourish online, growing at unprecedented speed thanks to the reach of social media” (Lai and Bakshi 2021, para. 2).
 
-{.footnote-indent}Note number. Author's Full Name, "Title of Blog Post,"*Title of Blog* (blog), Date of Post, access date, URL. {/.footnote-indent}
+> “During the enforced stay in Melbourne, Charles explored the region and realised that there was potential for his business here” (“Aerial Views of Melbourne by Charles Daniel Pratt” 2017, para. 3).
 
-##### Note examples
+> “The local version goes one step further, adding six campaign buttons pinned to Fraser’s lapel: fellow conservative politicians ... each with an ice cream stuck to their forehead” (Riley 2022, under “Brain freeze”).
 
-> {.footnote-indent}1. Gladys Lai, and Pema Bakshi, "5 TikTok Fashion Trends Everyone is Wearing IRL," *Vogue (blog),* May 28, 2021, accessed June 28, 2021, https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.footnote-indent}
+#### In-Text Citation: Paraphrase
+
+(Author’s Family Name Year of Publication).
+
+> Subcultures such as regencycore, VSCO girl, and dark academia have grown quickly due to social media sites such as TikTok (Lai and Bakshi 2021).
+
+> … originated in 1972 when Stanley Mouse and Alton Kelley designed an album cover for The Grateful Dead (Riley 2022).
+
+> Over 1300 of Pratt’s aerial photographs were digitised and shared online by the State Library of Victoria (“Aerial Views of Melbourne by Charles Daniel Pratt” 2017).
+
+#### Reference list
+
+Author Family Name, Given Name. Year Posted. "Title of Blog Post." *Title of Blog* (blog). Month day, year posted. Accessed Month day, Year. URL.
+
+The word blog is added in brackets after the title of the blog, unless the word blog is part of the title.
+
+> “Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. *State Library of Victoria Blog*. June 26, 2017. Accessed April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt.
 > 
-> {.footnote-indent}2. Alessandro Checco et al., "Can AI be Used Ethically to Assist Peer Review?" *LSE Impact Blog, The London School of Economics and Political Science,* May 17, 2021, accessed June 28, 2021, https<nolink>://blogs.lse.ac.uk/impactofsocialsciences/2021/05/17/can-ai-be-used-ethically-to-assist-peer-review/. {/.footnote-indent}
-
-##### Shortened note examples
-
-> {.footnote-indent}3. Lai and Bakshi, "5 TikTok Fashion Trends." {/.footnote-indent}
+> Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue* (blog). May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db.
 > 
-> {.footnote-indent}4. Checco et al., "Can AI be Used Ethically?" {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Author's Family Name, Author's Given Name. "Title of the Blog Post." *Title of the Blog* (blog), Date of Post. Accessed date. URL. {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Lai, Gladys, and Pema Bakshi. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue (blog),* May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
-> 
-> {.hanging-indent}Checco, Alessandro, Lorenzo Bracciale, Pierpaulo Loreti, Stephen Pinfield, and Giuseppe Bianchi. "Can AI be Used Ethically to Assist Peer Review?" *LSE Impact Blog, The London School of Economics and Political Science,* May 17, 2021. Accessed June 28, 2021. https<nolink>://blogs.lse.ac.uk/impactofsocialsciences/2021/05/17/can-ai-be-used-ethically-to-assist-peer-review/. {/.hanging-indent}
+> Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs*. January 28, 2022. Accessed April 12, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams.
 
 ###### end-subtype-content
 
@@ -1416,7 +1397,7 @@ Comments can usually be cited in the text, in reference to the related post. If 
 
 ###### start-subtype-item
 
-### Social media
+### Social Media
 
 ###### start-subtype-content
 
@@ -1426,48 +1407,43 @@ If an author's screen-name is available, include it in parentheses after their n
 
 Include the name of the social media site, and if relevant, include the type of post (photo, video) as in the Twitter example below.
 
-To find a direct URL for a Facebook post, use the search function on the Facebook page to find the post and then copy the URL.
+Social media comments should be cited in reference to the related post.
 
-Social media comments should be cited in reference to the related post and in the shortened form.
+Private content, including direct messages, should be cited as personal communication.
 
-Private content, including direct messages, is considered a form of personal communication.
+#### In-Text Citation: Direct quote
 
-#### Note rule
+(Author’s Family Name Year posted)
 
-{.footnote-indent}Note number. Author’s Full Name (Author’s Screen Name), "Title of Post" (up to 160 characters of post), Name of Social Media Site, Date Posted, access date, URL. {/.footnote-indent}
+> “At the most important moments leading actors froze in a dramatic pose and extreme facial expression known as mie” (National Gallery of Victoria 2021).
 
-##### Note examples
+> “How fitting, and symbolic of progress” (Tame 2021).
 
-> {.footnote-indent}1. Grace Tame (@tamepunk), " “Making Noise” Kirsty Neilson—for this year’s Archibald Prize," Instagram, May 27, 2021, accessed June 28, 2021, https<nolink>://www.instagram.com/p/CPXh8CRLJTE/. {/.footnote-indent}
+> “Consent isn’t about milkshakes or shifting lines. It’s an ongoing conversation with respect at its core” (Ford 2021).
+
+#### In-Text Citation: Paraphrase
+
+(Author’s Family Name Year posted)
+
+> Kabuki theatre began in the seventeenth century in Kyoto (National Gallery of Victoria 2021).
+
+> For the first time in the 100 year history of the Archibald prize, the finalists included an equal number of men and women (Tame 2021).
+
+> In her post, Ford (2021) implied that the Australian government’s video regarding consent was confusing.
+
+#### Reference List
+
+Author’s Family Name, Given Name (Author’s Screen Name). Year Posted. "Quote up to the first 160 characters of the post". Name of Social Media Site, Month day, Year posted. URL.
+
+> National Gallery of Victoria. 2021. “1 MIN READ: Take a moment to learn about Kabuki theatre with NGV Senior Curator of Asian Art, Wayne Crothers.” Facebook, August 25, 2021. https<nolink>://www.facebook.com/NGVMelbourne/posts/10159547500576163.
 > 
-> {.footnote-indent}2. Clementine Ford (@clemenine\_ford), “Let’s have a conversation about consent! with Clementine Ford," Twitter Video, April 27, 2021, accessed June 28, 2021, https<nolink>://twitter.com/clementine\_ford/status/1386832309777616898. {/.footnote-indent}
+> Tame, Grace (@tamepunk). 2021. "“Making Noise” Kirsty Neilson—for this year’s Archibald Prize". Instagram photo, May 27, 2021. https<nolink>://www.instagram.com/p/CPXh8CRLJTE/.
 > 
-> {.footnote-indent}3. ABC Radio National, "This week is Australian Fashion Week," Facebook, June 4, 2021, accessed June 28, 2021, https<nolink>://www.facebook.com/page/94861512377/search/?q=fashion. {/.footnote-indent}
-
-##### Shortened note examples
-
-> {.footnote-indent}4. Tame, "Making Noise." {/.footnote-indent}
-> 
-> {.footnote-indent}5. Ford, "Let’s have a conversation." {/.footnote-indent}
-> 
-> {.footnote-indent}6. ABC Radio National, "Australian Fashion Week." {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Author’s Family Name, Author’s Given Name (Author’s Screen Name). "Title of Post" (up to 160 characters of post). Name of Social Media Site. Date Posted. Accessed date. URL. {/.hanging-indent}
-
-#### Bibliography examples
-
-> {.hanging-indent}Tame, Grace (@tamepunk). " “Making Noise” Kirsty Neilson—for this year’s Archibald Prize." Instagram. May 27, 2021. Accessed June 28, 2021. https<nolink>://www.instagram.com/p/CPXh8CRLJTE/. {/.hanging-indent}
-> 
-> {.hanging-indent}Ford, Clementine (@clementine\_ford). “Let’s have a conversation about consent! with Clementine Ford." Twitter Video. April 27, 2021. Accessed June 28, 2021. https<nolink>://twitter.com/clementine\_ford/status/1386832309777616898. {/.hanging-indent}
-> 
-> {.hanging-indent}ABC Radio National. "This week is Australian Fashion Week." Facebook. June 4, 2021. Accessed June 28, 2021. https<nolink>://www.facebook.com/page/94861512377/search/?q=fashion. {/.hanging-indent}
+> Ford, Clementine (@clementine\_ford). 2021. “Let’s have a conversation about consent! with Clementine Ford." Twitter video, April 27, 2021. https<nolink>://twitter.com/clementine\_ford/status/1386832309777616898.
 
 ###### end-subtype-content
 
 ###### end-subtype-item
-
 
 
 ###### end-subtype
@@ -1482,41 +1458,59 @@ Private content, including direct messages, is considered a form of personal com
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Government and Organisation Reports
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Government report
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-Government documents often list an organisation as the author, or a person as author. The government organisation, agency, or department may be both the author and the publisher of a document.
+An author can be a person, a group of persons (a committee or named individuals), a government department or a government agency.
 
-#### Note rule
+Government departments and agencies may be cited in-text using their acronym; in which case the matching reference list entry must also use the acronym in place of the organisation-as-author, followed by the full name in brackets; the reference list entry must be alphabetised using the abbreviation (rather than the spelled-out name), as in the ARC example.
 
-{.footnote-indent}Note number. Organisation’s Name, *Title of Document: Subtitle of Document*, Catalogue Number (Place of Publication, Year of Publication), Page or Pages, URL. {/.footnote-indent}
+However, where an organisation is commonly known by its acronym (such as CSIRO, Qantas, NASA), list the acronym in the reference list without the full name in brackets, as in the CSIRO example.
 
-or
+The publisher and author should be recorded as they appeared when the document was originally published. Do not alter the name of the government department or agency if they have changed since it was published.
 
-{.footnote-indent}Note number. First Author’s Full Name and Subsequent Authors’ Full Names, *Title of Document: Subtitle of Document*, Catalogue Number (Place of Publication: Organisation's Name, Year of Publication), Page or Pages, URL. {/.footnote-indent}
+#### In-Text Citation: Direct Quote
 
-##### Note example
+(Author's Family Name or Organisation Name or Organisation acronym year, page)
 
-> {.footnote-indent}1. Environment Protection Authority Victoria, *Waste Code Transition to Environment Protection Regulations 202*, 1967.2 (Melbourne, 2021), 1-22, https<nolink>://www.epa.vic.gov.au/about-epa/publications/1967-2. {/.footnote-indent}
+> Additionally, “the impact on older carers may be exacerbated by factors such as their own age-related health problems, given that around half of all older carers (55%) had a disability themselves” (Australian Bureau of Statistics 2012, 17).
 
-##### Shortened note example
+> “Data improvement, including new and improved data capture and linkage of available data, is crucial in order to provide a reliable basis for further policy development and for service delivery models aimed at supporting older people” (AIHW 2021, 223).
 
-> {.footnote-indent}2. *Waste Code Transition to Environment Protection Regulations 202, 5.* {/.footnote-indent}
+> According to the Australian Bureau of Statistics, between 1981 and 2011 “the proportion of farmers aged 55 years and over increased from 26% to 47%, while the proportion of farmers aged less than 35 years fell from 28% to just 13%” (2012, 3).
 
-#### Bibliography note
+#### In-Text Citation: Paraphrase
 
-{.hanging-indent}First Author’s Family Name, First Author’s Given Name, and Subsequent Authors’ Full Names. *Title of Document: Subtitle of Document*. Catalogue Number. Place of Publication: Organisation's Name, Year of Publication, URL. {/.hanging-indent}
+(Author's Family Name or Organisation Name or Organisation acronym year)
 
-OR
+> A large majority of Australians who intended to migrate permanently overseas actually returned to Australia (Australian Bureau of Statistics 2012).
 
-{.hanging-indent}Organisation's Name. *Title of Document*. Catalogue Number. Place of Publication, Year of Publication. URL. {/.hanging-indent}
+> … thereby meeting the open access requirements for research outputs (ARC 2017).
 
-##### Bibliography example
+> In terms of women in leadership, whether in business or government, Australia has been left behind by other countries, as reported by the Australian Bureau of Statistics (2012).
 
-> {.hanging-indent}Environment Protection Authority Victoria, *Waste Code Transition to Environment Protection Regulations* 202, 1967.2 (Melbourne, 2021). https<nolink>://www.epa.vic.gov.au/about-epa/publications/1967-2. {/.hanging-indent}
+#### Reference list
+
+Author's Family Name, Given Name or Committee or Department or Organisation Name. Year. *Title of Publication*. Document ID or version number if any. City, State abbreviation: Publisher. URL.
+
+The report or document title must be in *italics*.
+
+When the organisation-as-author and publisher are the same entity, include it in both places in the reference list entry.
+
+For hard copy versions of government publications, omit the URL.
+
+If there is no place of publication, publisher or report number for a report, leave it out of your reference.
+
+> AIHW (Australian Institute of Health and Welfare). 2021. *Australia’s welfare 2021 data insights*. Australia’s welfare series no. 15. Cat. no. AUS 236. Canberra, ACT: Australian Institute of Health and Welfare. https<nolink>://www.aihw.gov.au/getmedia/ef5c05ee-1e4a-4b72-a2cd-184c2ea5516e/aihw-aus-236.pdf.aspx.
+> 
+> ARC (Australian Research Council). 2017. *ARC Open Access Policy*. Version 2017.1. Canberra, ACT: Australian Research Council. https<nolink>://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy.
+> 
+> Australian Bureau of Statistics. 2012. *Australian Social Trends, December 2012*. Cat. no. 4102.0. Canberra, ACT: Australian Bureau of Statistics. http<nolink>://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4102.0Main+Features1Dec%202012?OpenDocument.
+> 
+> CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future*. Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030.
 
 ###### end-subtype-content
 
@@ -1529,35 +1523,31 @@ OR
 
 ###### start-subtype-content
 
-To reference a standard published by an Australian or international standards organisation or specific industry group, include the name of the organisation, the title of the standard (in italics), an edition or other identifying number or label, and publication information. Standards consulted online should include a URL.
+If there are no personal author details, list the publishing organisation as the author.
 
-#### Rule for note
+If the resource can only be accessed with an account login, provide the web address of the publisher's homepage or provide database name.
 
-{.footnote-indent}Note Number. *Title.* identifying number, Publication information. if consulted online include URL or database name. {/.footnote-indent}
+If using a print standard, omit the URL or database name.
 
-##### Note examples
+#### In-text Citation: Direct Quote
 
-> {.footnote-indent}1. *Sun Protective Clothing: Evaluation and Classification*, (AS 4399:2020), Sydney,NSW. https<nolink>://www.standards.org.au/standards-catalogue/sa-snz/consumer/tx-021/as--4399-colon-2020. {/.footnote-indent}
+(Author’s Family Name Year of publication, page number)
+
+> As specified in Standards Australia (2009, 12) "each thimble in a sling shall comply with AS 1138."
+
+#### In-Text Citation: Paraphrase
+
+(Author’s Family Name Year of publication)
+
+> (Standards Australia 2009) Or As claimed in Standards Australia (2009) ...
+
+#### Reference list
+
+Standard Issuer Name. Year. *Title of Standard*. Standard Number. Place: Publisher. URL or database name.
+
+> Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. Sydney: SAI Global. https<nolink>://www.saiglobal.com.
 > 
-> {.footnote-indent}2. SAI Global. *Glass in Building: Tempered Soda Lime Silicate Safety Glass*, (ISO 12540:2017), Sydney, NSW. https<nolink>://www.iso.org/standard/62574.html. {/.footnote-indent}
-> 
-> {.footnote-indent}3. *Extensible Markup Language (XML) 1.0*, 5th ed., ed. Tim Bray, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau (W3C, November 26, 2008), http<nolink>://www.w3.org/TR/2008/REC-xml-20081126/. {/.footnote-indent}
-
-##### Shortened note examples
-
-> {.footnote-indent}4. *Glass in Building.* {/.footnote-indent}
-> 
-> {.footnote-indent}5. *Sun Protective Clothing.* {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Organisation. *Title.* identifying number, Publication information. if consulted online include URL or database name. {/.hanging-indent}
-
-##### Bibliography example
-
-> {.hanging-indent}SAI Global. *Sun Protective Clothing: Evaluation and Classification*, (AS 4399:2020), Sydney,NSW. https<nolink>://www.standards.org.au/standards-catalogue/sa-snz/consumer/tx-021/as--4399-colon-2020. {/.hanging-indent}
-> 
-> {.hanging-indent}SAI Global. *Glass in Building: Tempered Soda Lime Silicate Safety Glass*, (ISO 12540:2017), Sydney, NSW. https<nolink>://www.iso.org/standard/62574. {/.hanging-indent}html.
+> Standards Australia. 2009. *Wire-Rope Slings: Product Specification*. AS 1666.1-2009. Sydney: SAI Global. https<nolink>://www.saiglobal.com.
 
 ###### end-subtype-content
 
@@ -1566,39 +1556,76 @@ To reference a standard published by an Australian or international standards or
 
 ###### start-subtype-item
 
-### Patents
+### Patent
 
 ###### start-subtype-content
 
-Patents are cited under the names of the creators and dated by the year of filing.
+Patents are cited under the names of the creators and dated by the year of issue.
 
-#### Rule for note
+If you are directly quoting from an original source, include a page number or timestamp for the in-text citation. If you are paraphrasing into your own words, do not include a page number for the in-text citation.
 
-{.footnote-indent}Number. Author Family Name, Given Name. Title of work, Country Patent Application, filed Month Day, Year, page. {/.footnote-indent}
+#### In-text Citation: Direct Quote
 
-##### Note example
+(Creator's Family Name Year issued, Page number or Timestamp) OR Creator's Family Name (Year issued, Page number or Timestamp)
 
-> {.footnote-indent}1. Iizuka, Masanori, and Hideki Tanaka. Cement admixture. US Patent 4,586,960, filed June 26, 1984, and issued May 6, 1986. {/.footnote-indent}
-> 
-> {.footnote-indent}2. Cook, Fred C., and William H. Donaldson. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, file May 7, 2009, and issued November 11, 2010, 3. {/.footnote-indent}
+For more than four (4) Creators, use Creator1 Family Name et al
 
-##### Shortened note example
+> Limiting pins are needed to “...limit the movement of a given hinge track with respect to the neighboring hinge track...” (Cook and Donaldson 2010, 11).
 
-> {.footnote-indent}3. Cook, Mega Yacht Mass Tracking System, 3. {/.footnote-indent}
+> Bell (1876, 3) describes the first part of this invention as “ employment of a vibratory or undulatory current of electricity in contradistinction to a merely intermittent or pulsatory current...".
 
-#### Bibliography rule
+> (Estrada et al 2017, 15)
 
-{.hanging-indent}Author Family Name, Given Name. Title of Work. Country Patent Application number, filed Month Day, Year. {/.hanging-indent}
+#### In-text Citation: Paraphrase
 
-##### Bibliography example
+(Creator's Family Name year issued) OR Creator's Family Name within text (Year) OR Creator's Family Name within text and (Year) at end of text.
 
-> {.hanging-indent}Cook, Fred C., and William H. Donaldson. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, file May 7, 2009, and issued November 11, 2010. {/.hanging-indent}
-> 
-> {.hanging-indent}Iizuka, Masanori, and Hideki Tanaka. Cement admixture. US Patent 4,586,960, filed June 26, 1984, and issued May 6, 1986. {/.hanging-indent}
+For more than four (4) Creators, use Creator1 Family Name et al
+
+> The invention addresses the difficulties in furling and reefing large sails (Cook and Donaldson 2010).
+
+> Bell’s invention (1876) brought the transmission of electricity into the modern age.
+
+> Kinloch, Young and Gong’s experiments with the combining of various materials resulted in their creation of, and subsequent patent application for, the invention of graphene composites (2016).
+
+> (Estrada et al 2017)
+
+#### Reference list
+
+For one (1) Creator:
+
+Creator's Family Name, First Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+
+> Bell, Alexander Graham. 1876. Improvement in telegraphy. U.S. Patent 174465A, filed February 14, 1876, and issued March 7, 1876. https<nolink>://www.google.com/patents/US174465.
+
+For two (2) Creators:
+
+Creator1 Family Name, First Name, Creator2 First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+
+> Cook, Fred C., and William H. Donaldson. 2010. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, filed May 7, 2009, and issued November 11, 2010.https<nolink>://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=%22mega+yacht%22&s2=%22sail+feeder%22&OS=%22mega+yacht%22+AND+%22sail+feeder%22&RS=%22mega+yacht%22+AND+%22sail+feeder%22.
+
+For three (3) Creators:
+
+Creator1 Family Name, First Name, Creator2 First Name Family Name, and Creator3 First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+
+> Kinloch, Ian, Robert Young, and Lei Gong. 2016. Graphene Composites. Australian application number 2016222482, filed September 2, 2016, and issued September 22, 2016. https<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2016222482.
+
+For four (4) to ten (10) Creators:
+
+Creator1's Family Name, First Name, Creator2 First Name Family Name, Creator3 First Name Family Name, Creator4 First Name Family Name.......and Last Creator First Name Family Name. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+
+> Estrada, Diana, Pilar Jones, Mark Taylor, Joseph Stopp, Matthew Highton, and Raymond Depp. 2017. Turbine for hair dryer. AU12345678A1, filed January 1, 2016, and issued January 30, 2017. https<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo+12345678.
+
+For eleven (11) or more Creators, list up to seven (7) Creators and end with et al:
+
+Creator1 Family Name, First Name, Creator2 First Name Family Name, Creator3 First Name Family Name, Creator4 First Name Family Name.......Creator7 First Name Family Name et al. Year issued. Title of Patent. Patent Number/Identifier, filed Month Day, Year, and issued Month Day, Year. URL.
+
+> Tamworth, Natalie, Oliver Poole, Hugh McCrae, Brian Webber, Marian Kwok, Caroline Skims, Paul Romany et al. 2020. Method for cultivating seeds. U.S. Patent 123456789A1, filed October 1, 2019, and issued October 31, 2020. https<nolink>://www.google.com/patents/US123456789A1.
 
 ###### end-subtype-content
 
 ###### end-subtype-item
+
 
 
 ###### end-subtype
@@ -1613,23 +1640,49 @@ Patents are cited under the names of the creators and dated by the year of filin
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### General guidelines for visual materials
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### General Rules for Images
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-Visual materials can include illustrations, photographs, images, paintings, diagrams, maps and graphs.
+Chicago style uses the terminology 'illustrations' or 'figures' when including visual images presented separately from text sources.
 
-Visual materials that you use in your assignment or for study purposes do not need the copyright permissions that are required for publishing or commercial use. However, it is essential that you give credit to the creator of the work and reference it in your work. This can be done using a caption or a note.
+'Figures' includes the following image types:
+
+- Charts or Graphs
+
+- Paintings, drawings, photographs, or other art works
+
+When including reproduced images of diagrams, graphs, maps, photographs within your work, a caption provides a description or an explanation of the contents of the illustration. Captions are usually positioned below the illustration and include a figure number. See Captions section of this guide for further information.
+
+When referring to an image in the text of your assignment, give a short citation consisting of the name of the artist/creator/author and the date.
 
 Citations are also influenced by the location of where you found the image or creative work. Where possible, cite the original rather than a reproduction.
 
-Visual materials from books, articles and other sources that you refer to but don’t reproduce should be cited in the standard format of the source as described in the other sections of this guide.
+Visual images from books, articles, and other sources that you refer to but do not reproduce should be cited in the standard format of the source as described in the other sections of this guide.
 
-Visual materials are not usually included in a bibliography. Some courses might request a list of illustrations or figures.
+Visual materials that you use in your assignment or for study purposes do not need the copyright permissions that are required for publishing or commercial use. However, it is essential that you give credit to the creator of the work and reference it in your work.
 
-Your lecturer may have specific requirements for referencing illustrations and artworks. Any directions given by your lecturer must be followed, even if they differ from this guide.
+If you refer to any visual material, i.e. art, design or architecture, you have seen in person and you are not including an image of it in your document, provide a detailed in-text citation ie.(Georgia O'Keeffe, The Cliff Chimneys, 1938, Milwaukee Art Museum, Wisconsin)
+
+#### Rules for Reference List
+
+##### Image reproduced in a book
+
+> Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book*. Place of Publication: Publisher's Name.
+
+##### Image from a database
+
+> Artist Family Name, First name. Year. *Title: Subtitle.* Place: Publisher. medium (if appropriate), length of work (if appropriate). Database Name.
+
+##### Online image/artwork
+
+> Artist or Creator, A. Year. *Title: Subtitle.* medium (if appropriate). Place: Publisher. URL.
+
+##### Original image/artwork (viewed in a gallery or collection)
+
+> Artist Family Name, Artist Given Name. Year of production. *Title of Artwork*. Medium, dimensions (if available). Collection or exhibition, Place of collection or exhibition.
 
 ###### end-subtype-content
 
@@ -1638,43 +1691,148 @@ Your lecturer may have specific requirements for referencing illustrations and a
 
 ###### start-subtype-item
 
-### Captions
+### Artwork
 
 ###### start-subtype-content
 
-#### Using Captions
+#### Artwork viewed online
 
-Captions are used to provide a description of illustrations, images and artworks. These are usually placed below the illustration.
+##### In-Text Citation
 
-A figure number is used in the caption to identify each illustration. These figures are numbered sequentially in the order in which they appear.
+Artist’s Family Name Year of publication
 
-Illustrations you create of your own work are not usually referenced. However, a caption such as “Figure 7. Photograph by author” or “Figure 11. Initial sketches” might be appropriate when other illustrations in your assignment are referenced.
+> Max Dupain's (1937) photographic work *Sunbaker* captures the head and shoulders of a man lying on a beach in New South Wales.
+
+> Burn (1861) captures Swanston Street in the 1800's and the neoclassical architecture of the time.
+
+##### Reference list
+
+Artist's Family Name, Given Name. Year. *Title: Subtitle.* Medium (if appropriate). Place: Publisher. URL or database name
+
+> Burn, Henry. 1861. *Swanston Street from the Bridge*. Oil on canvas. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/.
+> 
+> Dupain, Max. 1937. *Sunbaker. Photograph.* Photograph. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/7621/.
+> 
+> Pinkston, Wayne, 2017.*The Elephant Walks at Night*. Flickr. https<nolink>://www.flickr.com/photos/pinks2000/38054867995/in/explore-2017-12-09/.
+
+#### Artwork viewed in person
+
+If you are referring to the actual artwork and you are not including the image in your document, you only need to provide a detailed in text citation. Include the following information:
+
+- artist or designer
+
+- title of the work
+
+- year of creation of work
+
+- type of materials (optional)
+
+- dimensions of the work (if available)
+
+- location of item, e.g. name institution that houses the work, or city the building is in
+
+Works viewed in person, e.g. at art galleries, museums, and public spaces, are cited to acknowledge their influence on the development of your own ideas or work.
+
+##### In-Text Citation
+
+Artist’s Family Name, *Title of work*, Year of production, type of materials (optional), dimensions of the work (if available), location of item, e.g. name institution that houses the work, or city the building is in
+
+> *The Cliff Chimneys* is an oil on canvas painting depicting the form of the cliffs using bushes, trees, branches, ponds..(Georgia O'Keeffe, The Cliff Chimneys, 1938, Milwaukee Art Museum, Wisconsin).
+
+##### Reference list
+
+Artist’s Family Name, Given Name. Year of production. *Title of Artwork*. Medium, dimensions (if available). Collection or exhibition, Place of collection or exhibition.
+
+> Anadol, Refik. 2020. *Quantum Memories.* AI Data Sculpture, Custom software, quantum computing data, generative algorithm with artificial intelligence (AI), real time digital animation on LED screen, 4 channel sound, 10m x 10m x 2.5m. National Gallery of Victoria, Melbourne.
+> 
+> O'Keeffe,Georgia. 1938. *The Cliff Chimneys*. Milwaukee Art Museum, Wisconsin.
+> 
+> Pollock, Jackson. 1952. *Blue poles*. Oil, enamel, aluminium paint, glass on canvas. National Gallery of Australia.
+
+#### Artwork from a publication
+
+When citing an image or artwork from a book, article, or other publication, cite the author of that source and provide the page number where the image is located. You may wish to refer to the artist’s name in the text of your work.
+
+##### In-Text Citation
+
+Author’s Family Name Year of publication
+
+> "O'Keeffe became inspired by New Mexico's natural beauty in 1917 when she travelled from Texas to vacation in Colorado" (Buhler, Poling-Kempes and Turner 2004, 89).
+
+> *Captured Lives: Australian Captivity Narrative* explores attitudes and emotional responses to contemporary challenges (Darian-Smith 1993).
+
+##### Reference list
+
+Create the reference list entry according to the rules for the source. List authors in the order in which they appear in the source. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
+
+Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book*. Place of Publication: Publisher's Name.
+
+> Baratay, Eric and Elisabeth Hardouin Fugier. 2002. *Zoo*. London: Reaktion Books.
+> 
+> Buhler Lynes, Barbara, Lesley Poling-Kempes and Frederick W. Turner. 2004. *Georgia O'Keeffe and New Mexico: A Sense of Place*. Princeton: Princeton University Press.
+> 
+> Darian-Smith, Kate, Kay Schaffer, and Roslyn Poignant. 1993. *Captured Lives: Australian Captivity Narratives*. London: Menzies Centre for Australian Studies Monograph, University of London.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### Captions/Figures
+
+###### start-subtype-content
+
+- When including diagrams, graphs, maps, photographs, etc. within your assignment, a caption provides a description or an explanation of the contents of the visual image. Captions provide a description of the visual images in your work.
+
+- A figure number is used in the caption to identify each visual work. These figures are numbered sequentially in the order in which they appear.
+
+- Number figures consecutively in italics throughout your work using Arabic numerals, 1, 2, 3 and so on, taking care to order them as they appear within the text.
+
+- The first figure is labelled Figure 1, the second, Figure 2, the third, Figure 3 and so on.
+
+#### Captions for Artworks/Images
+
+Figure number. Artist’s Given Name Artist’s Family Name, *Title of work*, Year produced. Medium, Dimensions, Source - Publishing details of where you found it, URL.
+
+##### Example 1
+
+> ![Sample image](images/Design-for-Coach-no.3022.jpg)
+> 
+> Figure 1. Author unknown, *Design for Coach: no. 3022*, 1874. Pen and black ink, watercolor and gouache with gum arabic, 18.1 x 24.8 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/378235
+
+##### Example 2
+
+> ![Sample image](images/Dragon_tapestry.jpg)
+> 
+> Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733? 
+
+Or if located in a book  
+
+> Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, in Alicia Jaynes and James Liaw, Weaving in silk, (London: Periwinkle Press: 1968), 37.
+
+#### In-Text Citation
 
 Make sure you refer to the figure in your writing and include the figure number. The word figure is always written in full and lower case, except when in parentheses when it is abbreviated (fig. 1).
 
-#### Caption rule (Own work)
+> American carriage manufacturers Brewster & Co., were highly regarded for design, finish and quality as illustrated in the drawing *Design for Coach, no. 3022* (1874, fig.1)
+
+#### Captions for your own Work
+
+- Images you create of your own work are not usually referenced. However, a caption such as “Figure 2. Illustration by author” or “Figure 3. Draft sketches” might be appropriate when other images in your assignment are referenced.
 
 Figure number. Description or explanation.
-
-##### Caption example
 
 > Figure 1. Author’s photograph showing design development.
 
-#### Caption rule (reproduced artwork)
+#### Copyright information for the coach image
 
-Figure number. Artist’s Given Name Artist’s Family Name, *Title of work*, Year produced. Medium. Source - Publishing details of where you found it.
+This [coach image](https://www.metmuseum.org/art/collection/search/378235) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
-If the image was on a website include the URL, otherwise provide the source details as described in other areas of this guide.
+#### Copyright information for the tapestry image
 
-##### Caption example
-
-> ![Image of a silk tapestry of a dragon and flowers](images/Dragon_tapestry.JPG)
-> 
-> Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?
-> 
-> or if found in a book
-> 
-> Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, in Alicia Jaynes and  James Liaw, *Weaving in silk,* (London: Periwinkle Press: 1968), 37.
+This [Dragon tapestry image](https://www.metmuseum.org/art/collection/search/39733) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
 ###### end-subtype-content
 
@@ -1683,138 +1841,79 @@ If the image was on a website include the URL, otherwise provide the source deta
 
 ###### start-subtype-item
 
-### Art or creative works
+### Tables and Graphs
 
 ###### start-subtype-content
 
-#### Art or creative work (viewed in person)
+#### Reproducing a table
 
-Works viewed in person, such as art galleries, museums and public spaces, are cited to acknowledge their influence on the development of your own ideas or work.
+- When referencing a table from a book, an article or other sources, provide the page number where the table is located in text citation.
 
-##### Note rule
+- Assign a table number, title and description to each table you place in your document. The table number, title and description go above the table ie. Table 1, 2, 3 etc.
 
-{.footnote-indent}Note number. Artist’s Given Name Artist’s Family Name, *Title of work*, Year of production. Medium. Place viewed. {/.footnote-indent}
+- Acknowledge the original citation directly underneath the table.
 
-##### Note examples
+Begin with the word 'Source: ' or Sources:', in italics, followed by a colon, then followed by:
 
-> {.footnote-indent}1. Jackson Pollock, *Blue poles*. 1952. Oil, enamel, aluminium paint, glass on canvas. 212.1x488.9cm. National Gallery of Australia. {/.footnote-indent}
+- 'Reprinted from' if you copy the table exactly as found in the original source; or
+
+- 'Adapted from' if you have adapted or changed the table from the original source; or
+
+- 'Data from' if you have used the data from another source in your own table.
+
+- If you are writing for a journal, conference paper, thesis, website, etc. you must obtain written permission from the copyright owner to reuse the table in your work, and state the permission in the source note as: Source: Reprinted with permission from ...
+
+- Tables should be referred to in the text of your assignment by the table number you have used in your assignment so that your reader understands why you have included them.
+
+> Example - Adapting a table from a published journal article:
 > 
-> {.footnote-indent}2. Annie Leibovitz, Annie. *More Demi Moore*. 1991. Photograph. Vanity Fair, cover, August 1991. {/.footnote-indent}
-
-##### Shortened notes
-
-> {.footnote-indent}1. Pollock, *Blue poles*. {/.footnote-indent}
+> Table 1: Data for end of life nursing care
 > 
-> {.footnote-indent}2. Leibovitz, *More Demi Moore*. {/.footnote-indent}
-
-##### List of figures rule
-
-Figure number. Artist’s full name. *Title of work*. Year of production. Medium, dimensions. Collection, Place of collection. Acquisition details. Courtesy line. Photographic credit.
-
-##### Bibliography rule
-
-{.hanging-indent}Artist’s Family Name, Artist’s Given Name, *Title of work*, Year of production. Medium. Place viewed. {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Leibovitz, Annie, *More Demi Moore*. 1991. Photograph. Vanity Fair, cover, August 1991. {/.hanging-indent}
+> ![Sample image](images/sample-image.gif)
 > 
-> {.hanging-indent}Pollock, Jackson, *Blue poles*, 1952. Oil, enamel, aluminium paint, glass on canvas. National Gallery of Australia. {/.hanging-indent}
+> *Source*: Reprinted from Susan E. Lowey, *Nursing Care at the End of Life* (Geneseo, NY: Open SUNY Textbooks, 2015), table 3.1, http<nolink>://pressbooks.opensuny.org/nursingcare. Copyright 2015 by Susan E. Lowey (Creative Commons).
 
-#### Art or creative work (reproduced from another publication)
+##### In-Text Citation
 
-##### Note rule
+Author's Last Name/s Year of Publication, page number, table or graph number
 
-{.footnote-indent}Note number. Artist’s Given Name Artist’s Family Name, *Title of work*, Year of production. Medium. In provide bibliographic details as described elsewhere in this guide. {/.footnote-indent}
+> As shown in Table 1, a basic foundation of understanding death and dying, including a brief historical examination of some main conceptual models associated with how patients cope with impending loss (Lowey 2015, 205, table 3.1).
 
-##### Note rule (from a book)
+> As shown in Table 1, the average rainfall in Brisbane …
 
-{.footnote-indent}Note number. Artist’s Given Name Artist’s Family Name, *Title of work*, Year of production. Medium. In Author's Given Name and Family Names, *Title of Book: Subtitle of Book* (Place of publication: Publisher's name, Date of publication), page number. {/.footnote-indent}
+> The average rainfall in Brisbane in February (see Table 1)…
 
-##### Note example
+##### Reference List
 
-> {.footnote-indent}1. August Macke, *Zoological Gardens 1*, 1912. Oil, canvas. In Eric Baratay and Elisabeth Hardouin Fugier, *Zoo* (London: Reaktion Books, 2002), 268. {/.footnote-indent}
+If for a book: First Author's Family Names, First Name, Other Author's First and Family Names. Year. Book Title: Subtitle. edition. Place of Publication: Publisher.
 
-##### Shortened note
+> Chavas, Jean-Paul, David Hummels, and Brian D. Wright, eds. 2014. The Economics of Food Price Volatility. Chicago: University of Chicago Press.
 
-> {.footnote-indent}1. Macke, Zoological Gardens 1, 268. {/.footnote-indent}
+#### Reproducing or adapting a figure (chart, graph or other visual representation of data)
 
-##### Bibliography rule
+Below the figure insert a caption begin with the word 'Source: ' or Sources:', in italics, followed by a colon, then followed by:
 
-The publication only should be recorded in the bibliography.
+- 'Reprinted from' if you copy the exactly as found in the original source; or
 
-{.hanging-indent}Author's Family Name, Author’s Given Name. *Title.* Place of publication: Publisher, Year of publication. {/.hanging-indent}
+- 'Adapted from' if you have adapted the data from the original source in your own chart or graph; or
 
-##### Bibliography example
+- 'Data from' if you have used the data from another source in your own chart or graph.
 
-> {.hanging-indent}Baratay, Eric and Elisabeth Hardouin Fugier, *Zoo.* London: Reaktion Books, 2002. {/.hanging-indent}
+##### In-Text Citation
 
-#### Art or creative work (viewed online)
+When citing a figure in-text include a reference to your own figure number and credit the author's figure as it appeared in the original source.
 
-##### Note rule
+(Author’s or Editor’s Surname Year of publication, page or pages, figure number)
 
-{.footnote-indent}Note number. Artist’s Given Name, Artist’s Family Name, *Title of work*, Year of production. Medium. Source: Title of Webpage (if one exists), Name of website, date last modified, date accessed, URL. {/.footnote-indent}
+As shown in Figure 1, ... (Sobel 1993, 87, figure 5.3).
 
-##### Note examples
+##### Reference List
 
-> {.footnote-indent}1. Henry Burn, *Swanston Street from the Bridge*, 1861, oil on canvas, National Gallery of Victoria, https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/. {.footnote-indent}
-> 
-> {.footnote-indent}2. Wayne Pinkston, *The Elephant Walks at Night*, 2017, Flickr. https<nolink>://www.flickr.com/photos/pinks2000/38054867995/in/explore-2017-12-09/. {.footnote-indent}
+Follow the reference list rules for the type of resource you are citing ie. book, journal etc.
 
-##### Shortened notes
+Author’s or Editor’s Surname, Given Name their role. Year of publication. *Title of Publication: Subtitle of Publication.* Place of publication: Publisher’s name.
 
-> {.footnote-indent}1. Burn, *Swanston Street from the Bridge.* {.footnote-indent}
-> 
-> {.footnote-indent}2. Pinkston, *The Elephant Walks at Night*. {.footnote-indent}
-
-##### Bibliography rule
-
-{.hanging-indent}Note number. Artist’s Given name Artist’s Family Name, *Title of work*, Year of production. Medium. URL {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Burn, Henry, *Swanston Street from the Bridge*, 1861, oil on canvas, National Gallery of Victoria, https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/. {/.hanging-indent}
-> 
-> {.hanging-indent}Pinkston, Wayne, 2017. *The Elephant Walks at Night*, 2017, Flickr. https<nolink>://www.flickr.com/photos/pinks2000/38054867995/in/explore-2017-12-09/. {/.hanging-indent}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-
-### Tables and graphs
-
-###### start-subtype-content
-
-#### Caption rule (Own work)
-
-Figure number. Description or explanation.
-
-##### Caption examples
-
-> Figure 1. Frequency of buyers regret based purchase type.
-> 
-> Figure 2. Park visitor responses to light and sound installation.
-
-##### Bibliography
-
-Unpublished tables, graphs and other diagrams that you create are not recorded in the bibliography.
-
-#### Caption rule (Reproduced work)
-
-##### Caption example
-
-> Figure 1. Glenohumeral joint. in Sharon Gustowski, Maria Budner-Gentry, and Ryan Seals, *Osteopathic techniques: the learner's guide.* (New York: Thieme, 2017), 72, 4.25.
-
-##### Note example
-
-> {.footnote-indent}Gustowski, Budner-Gentry, and Seals, 72, 4.25.{/.footnote-indent}
-
-##### Bibliography
-
-> {.hanging-indent}Gustowski, Sharon, Maria Budner-Gentry, and Ryan Seals, *Osteopathic techniques: the learner's guide.* New York: Thieme, 2017. {/.hanging-indent}
+> Sobel, Richard ed., 1993. *Public Opinion in US Foreign Policy: The Controversy over Contra Aid.* Boston: Rowman and Littlefield.
 
 ###### end-subtype-content
 
@@ -1835,70 +1934,169 @@ Unpublished tables, graphs and other diagrams that you create are not recorded i
 
 
 ###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Interviews
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Dataset
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### Published interviews
+An access date is only included in the reference list entry if no date of publication or revision can be determined from the source. In those cases—that is, when only an access date is used—record n.d. as the date of publication.
 
-For a published interview follow the same rules as the relevant format e.g. news broadcast, print article, online video or podcast with one major difference:
+#### In-Text Citation: Direct Quote
 
-The Interviewee is treated as the author i.e. person primarily responsible for the content. If the interviewee is clearly identified in the Title, their name can be omitted from the note; but their name must appear first in the bibliography entry.
+(Author family name OR Organisation name Year of publication, page number or section heading)
 
-##### Note rule
+> … lowest annual rainfall of 388.7 millilitres recorded in 1967 at Melbourne Botanical Gardens weather station (Bureau of Meteorology 2022, 1).
 
-{.footnote-indent}Note Number. Interviewee’s Full Name, interview by Interviewer’s Full Name, Title of Program, date of broadcast, format or type of broadcast. URL. {/.footnote-indent}
+> “The difference between the Average Weekly Cash Earnings and Average Weekly Earnings series is the average weekly amount salary sacrificed” (Australian Bureau of Statistics 2020, under “Explanatory notes”).
 
-> ##### Note example
+#### In-Text Citation: Paraphrase
+
+(Author family name OR Organisation name Year of publication)
+
+> Rainfall in February 2022 was amongst the lowest recorded for the month since 1964 when measurements began at the Melbourne Botanical Gardens weather station (Bureau of Meteorology 2022).
+
+#### Reference List
+
+Author family name, First name OR Organisation name. Year of publication. ‘Title of dataset.’ Identifying number if applicable. *Title of series if applicable*. Dataset. Accessed Month Day, Year if applicable. URL.
+
+> Australian Bureau of Statistics. 2020. ‘Table 15: Average weekly cash earnings, Australia by sector (dollars) – original.’ *6302.0 Average Weekly Earnings, Australia, May 2020.* Dataset. https<nolink>://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/may-2020
 > 
-> {.footnote-indent}1. Kory Stamper, interview by Terry Gross, “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English” in *Fresh Air*, April 19, 2017, podcast, 35:25. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english. {/.footnote-indent}
+> Bureau of Meteorology. 2022. ‘Melbourne Botanical Gardens.’ Station number 86232. *Monthly rainfall*. Dataset. http<nolink>://www.bom.gov.au/climate/data/?ref=ftr.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### Fact sheet
+
+###### start-subtype-content
+
+Fact sheets are often authored and published by government departments, government agencies and organisations. They can be cited and referenced using their acronym, as for government reports.
+
+#### In-text Citation: Direct Quote
+
+(Author Family Name or Organisation Name or Organisation acronym year, page)
+
+> “With one of the fastest uptakes of internet and smartphone technology, significant opportunities have opened up for Melbourne tech businesses and startups to assist India's digital transformation” (Trade Victoria 2016, 2).
+
+> "NASA is researching prototype technologies such as airspace design, dynamic geofencing, congestion management and terrain avoidance for a UAS Traffic Management (UTM) system” (NASA 2017, 1).
+
+> At the time, NASA was collaborating with several partners to develop a safety system to ensure drones “do not collide with buildings, larger aircraft, or one another" (2017, 1).
+
+#### In-text citation: Paraphrase
+
+(Author Family Name or Organisation Name or Organisation acronym year)
+
+> The Indian market’s desire for agricultural products represents an export opportunity for Victorian businesses (Trade Victoria 2016).
+
+> At the time of the 2016 Census 4.1% of Melbournians spoke Mandarin at home (ABS, n.d.).
+
+> Trade Victoria (2016) promoted opportunities for the state’s medical and pharmaceutical industries in India.
+
+#### Reference list
+
+Author Family Name, First Name or Organisation Name. Year. *Title in italics*. City, State abbreviation: Publisher. URL.
+
+When the organisation-as-author and publisher are the same entity, include the organisation name in both places in the reference list entry.
+
+For hard copy fact sheets, omit the URL.
+
+> ABS (Australian Bureau of Statistics). n.d. *2016 Census data summary: cultural and language diversity fact sheet (Melbourne)*. Canberra, ACT: Australian Bureau of Statistics. https<nolink>://www.abs.gov.au/websitedbs/d3310114.nsf/home/Census+Data+Seminars/$File/Melbourne+Fact+Sheet.pdf.
 > 
-> {.footnote-indent}2. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening),” interview by Sean Dockray, *Liquid Architecture*, January 20, 2020, podcast, https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474. {/.footnote-indent}
-
-##### Shortened note example
-
-> {.footnote-indent}3. Stamper, interview./p> {/.footnote-indent}
+> NASA. 2017. *UTM: Air traffic management for low-altitude drones*. Washington, DC: NASA. https<nolink>://www.nasa.gov/sites/default/files/atoms/files/utm-factsheet-09-06-16.pdf.
 > 
-> {.footnote-indent}4. Herndon and Dryhurst, interview. {/.footnote-indent}
+> Trade Victoria. 2016. *India*. Melbourne, VIC: State Government of Victoria. https<nolink>://global.vic.gov.au/\_\_data/assets/pdf\_file/0009/87039/India-Fact-Sheet.pdf.
 
-##### Bibliography rule
+###### end-subtype-content
 
-{.hanging-indent}Interviewee’s Family Name, Given Name. Interview by Interviewer’s Full Name. Title of Program. Date of publication. Format or medium. URL. {/.hanging-indent}
+###### end-subtype-item
 
-##### Bibliography example
 
-> {.hanging-indent}Stamper, Kory, Interview by Terry Gross, “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English.” In *Fresh Air*. April 19, 2017. Podcast. 35:25. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english. {/.hanging-indent}
-> 
-> {.hanging-indent}Herndon, Holly and Mat Dryhurst. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening).” Interview by Sean Dockray. In *Liquid Architecture*. January 20, 2020. Podcast. https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474. {/.hanging-indent}
+###### start-subtype-item
 
-#### Unpublished interviews
+### Course materials
 
-An unpubplished interview may be cited in notes but not listed in the bibliography.
+###### start-subtype-content
 
-- Include the names of both interviewee and interviewer.
+Examples of course materials are:
 
-- Include date and location of interview and whether the transcript is available.
+- lectures
 
-- If the interviewee prefers to be anonymous, you must explain this in your text.
+- lecture recordings
 
-##### Note rule
+- PowerPoint slides from lectures
 
-{.footnote-indent}Note Number. Interviewee’s Full Name, interview by Interviewer’s Full name, location of interview, Date. {/.footnote-indent}
+#### Lectures
 
-##### Note example
+##### In-text citation: Direct Quote
 
-> {.footnote-indent}1. Lance Artcore, interview by Brooklyn Fox, Melbourne; VIC, April 23, 2019. {/.footnote-indent}
-> 
-> {.footnote-indent}2. Interview with a contact tracer, August 4, 2020. {/.footnote-indent}
+(Lecturer’s Family Name Year of lecture)
 
-##### Shortened note examples
+> The lecture focused on literature with the "recurring themes of individualism, collectivism, and questioning authority" (Hong 2015).
 
-> {.footnote-indent}3. Artcore, interview. {/.footnote-indent}
-> 
-> {.footnote-indent}4. Contact tracer, interview. {/.footnote-indent}
+##### In-text citation: Paraphrase
 
+(Lecturer’s Family Name Year of lecture)
+
+> Overall, the message in the children's literature was deemed to be a threat to the dictatorship (Hong 2015).
+
+##### Reference list
+
+Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date. Format.
+
+> Hong, Viviana. 2015. “Censorship in Children’s Literature during Argentina’s Dirty War (1976–1983)” EDU1234: Issues in Children’s Literature. Chicago: University of Chicago. April 30, 2015. Lecture.
+
+#### Lecture recordings
+
+##### In-text citation: Direct Quote
+
+Add a time stamp in the format of HH:MM:SS when quoting directly from a lecture recording.
+
+(Lecturer’s Family Name Year of lecture, HH:MM:SS)
+
+> Protocols are regarded as "nothing but a set of rules that govern data communication." (Fry 2016, 00:14:32).
+
+##### In-text citation: Paraphrase
+
+(Lecturer’s Family Name Year of lecture)
+
+> The lecture presented data communication and net-centric computing (Fry 2016).
+
+##### Reference list
+
+Include the lecture URL if there is one available. If the course materials can only be accessed with an account login, include a general URL to the site or the database name.
+
+Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date of lecture. Format. URL or Database name.
+
+> Fry, Andrew. 2016. "Lecture 2 - Data Communication and Net-Centric Computing: Lecture 8." COSC1111: *Data Communication and Net-Centric Computing.* Melbourne: RMIT University. March 8, 2016. Lecture recording. Canvas.
+
+#### PowerPoint slides from lectures
+
+##### In-text citation: Direct Quote
+
+Add the slide number when quoting directly from a PowerPoint presentation.
+
+(Lecturer’s Family Name Year of lecture, slide number)
+
+> Giving consideration to the "cultural, economic and social issues of indigenous communities is an important step in the decision making process ... " (Sample 2017, slide 4).
+
+##### In-text citation: Paraphrase
+
+(Lecturer’s Family Name Year of lecture)
+
+> The rights of indigenous people include ... (Sample 2017).
+
+##### Reference list
+
+Include the lecture URL if there is one available. If the course materials can only be accessed with an account login, include a general URL to the site or the database name.
+
+Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date accessed. Format. URL or Database name.
+
+> Sample, Sara. 2017. "Human rights in indigenous communities: Lecture 8." HUSO2301: *Applied Human Rights and indigenous Peoples.* Melbourne: RMIT University. Accessed April 10, 2017. Powerpoint presentation. Canvas.
 
 ###### end-subtype-content
 
@@ -1911,62 +2109,41 @@ An unpubplished interview may be cited in notes but not listed in the bibliograp
 
 ###### start-subtype-content
 
-Personal communication e.g. letters, email, text messages, and social media messages, can be cited in a note within the text, but are not listed in the bibliography.
+Examples of personal communication include:
 
-#### Note rule
+- private conversations
 
-{.footnote-indent}Note Number. Correspondent's Full Name, medium if relevant, date. {/.footnote-indent}
+- phone calls
 
-##### Note example
+- letters
 
-> {.footnote-indent}1. Diane Evans, email correspondence, February 24, 2019. {/.footnote-indent}
+- emails
 
-##### Shortened note rule
+- direct messages on social media
 
-{.footnote-indent}Note Number. Correspondents Last Name, medium. {/.footnote-indent}
+Personal communication is best cited in-text only and does not need to be included in the reference list.
 
-##### Shortened note example
+#### In-text citation
 
-> {.footnote-indent}2. Evans, email. {/.footnote-indent}
+For in-text citations:
 
-###### end-subtype-content
+- Include the correspondent’s full name, type of communication, and date.
 
-###### end-subtype-item
+- Use “author” instead of your name.
 
+- Request permission from the correspondent to directly quote if possible.
 
-###### start-subtype-item
+Include the correspondent’s names, medium if relevant, and date of communication.
 
-### University theses and dissertations
+> In conversation with the author on May 5, 2020, a contact tracer confirmed that
 
-###### start-subtype-content
+> "There was no indication of any sickness" (V. Smith, personal communication September 10, 2017).
 
-Theses and dissertations are mostly cited and referenced like books. Rather than italics, titles of thesis are enclosed in quotation marks. For theses and dissertations accessed online, include the database or the URL. In parentheses, include any identification number supplied by the database.
+> (Diane Evans, Instagram message to author, February 24, 2019).
 
-#### Note rule
+#### Reference list
 
-{.footnote-indent}Note number. Author’s Full Name, “Title: Subtitle” (Thesis type, University, Year), page number, URL or Database name (Document identifier). {/.footnote-indent}
-
-##### Note examples
-
-> {.footnote-indent}1. Tanya Court, "The Site Re-Presented: Everyday Civic Landscapes" (PhD dissertation, RMIT University, 2019), RMIT Research Repository (9921864000901341). {/.footnote-indent}
-> 
-> {.footnote-indent}2. Christine Kuhling, "Rewriting Tourist Photography" (PhD thesis, Western Sydney University, 2017), 30, Western Sydney University Library ResearchDirect (47965). {/.footnote-indent}
-
-##### Shortened note examples
-
-> {.footnote-indent}3. Court, "The Site Re-Presented." {/.footnote-indent}
-> 
-> {.footnote-indent}4. Kuhling, "Rewriting Tourist Photography." {/.footnote-indent}
-
-#### Bibliography rule
-
-{.hanging-indent}Author’s Family Name, Author’s Given Name. “Title: Subtitle.” Thesis type, University, Year. Database name (Document identifier). {/.hanging-indent}
-
-##### Bibliography examples
-
-> {.hanging-indent}Court, Tanya. "The Site Re-Presented: Everyday Civic Landscapes." PhD dissertation, RMIT University, 2019. RMIT Research Repository (9921864000901341). {/.hanging-indent}
-> 
-> {.hanging-indent}Kuhling, Christine."Rewriting Tourist Photography." PhD thesis, Western Sydney University, 2017. Western Sydney University Library ResearchDirect (47965). {/.hanging-indent}
+Information obtained from personal communication does not need to be included in the reference list, and should only be referenced in-text.
 
 ###### end-subtype-content
 
@@ -1975,42 +2152,144 @@ Theses and dissertations are mostly cited and referenced like books. Rather than
 
 ###### start-subtype-item
 
-### University lectures
+### Published interviews
 
 ###### start-subtype-content
 
-Include the lecture URL if there is one available.
+##### In-Text Citation
 
-#### Note rule
+The interviewees family name and year of publication are needed for an in-text citation.
 
-{.footnote-indent}Note number. Lecturer’s Full Name, "Title of Lecture: Subtitle of Lecture," Unit Code: *Title of Unit* (Description, Place of lecture: University, Date of lecture). URL (if available). {/.footnote-indent}
+> (Herndon and Dryhurst 2020)
 
-##### Note examples
+> In the interview Stamper describes… (2017)
 
-> {.footnote-indent}1. Tran Duc Linh, "Math 2081: Week 1 Lecture," MATH 2081: *Mathematics for Computing* (Lecture, Online: RMIT University, June 28, 2021). https<nolink>://web.microsoftstream.com/video/dc38f791-8ce3-4e33-866a-5144380799f9. {/.footnote-indent}
+##### Reference list
+
+For the reference list:
+
+- Published interviews follow the same rules as the relevant type of publication, except that the interviewee is treated as the author, and the interviewer is included after the title of content.
+
+- Include an accessed date, followed by URL for any online material.
+
+Interviewee’s Family Name, Given Name. Year of publication. “Title of content”. Interview by Interviewer’s Full Name. *Title of Publication*. Date of publication. Format. Accessed date. URL.
+
+> Herndon, Holly and Mat Dryhurst. 2020. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening).” Interview by Sean Dockray. *Liquid Architecture*. January 20, 2020. Podcast, 1:11:00. Accessed July 9, 2021. https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474.
 > 
-> {.footnote-indent}2. David Smith, "Communication 101: Week 3 Lecture," COMM204: *Communication* (Lecture, Melbourne: RMIT University July 2, 2021). {/.footnote-indent}
+> Stamper, Kory. 2017. “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English.” Interview by Terry Gross. *Fresh Air*, NPR, April 19, 2017. Audio, 35:25. Accessed July 9, 2021. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english.
 
-##### Shortened note examples
+#### Unpublished interviews
 
-> {.footnote-indent}3. Linh, "Math 2081." {/.footnote-indent}
-> 
-> {.footnote-indent}4. Smith, "Communication 101." {/.footnote-indent}
+Unpublished interviews are usually treated as personal communication, and are best cited in-text without a reference list entry.
 
-#### Bibliography rule
+##### In-Text Citation
 
-{.hanging-indent}Lecturer’s Family Name, Lecturer’s Given Name. “Title of Lecture: Subtitle of Lecture.” Unit Code: *Title of Unit*. Place of lecture: University, Date of lecture. URL (if available). {/.hanging-indent}
+The interviewee’s family name and year of interview are needed for an in-text citation.
 
-##### Bibliography examples
+If the interviewee is anonymous or you cannot reveal their name, include an explanation (e.g. all interviews were confidential) and cite in-text only.
 
-> {.hanging-indent}Linh, Tran Duc. "Math 2081: Week 1 Lecture," MATH2081. *Mathematics for Computing.*Online: RMIT University, June 28, 2021.https<nolink>://web.microsoftstream.com/video/dc38f791-8ce3-4e33-866a-5144380799f9. {/.hanging-indent}
-> 
-> {.hanging-indent}Smith, David. "Communication 101: Week 3 Lecture," COMM204. *Communication.* Melbourne: RMIT University, July 2, 2021. {/.hanging-indent}
+> (Artcore 2019)
+
+> In an interview with a contact tracer on August 4, 2020, it was revealed that…
+
+##### Reference list
+
+For the reference list:
+
+- If you have conducted the interview yourself, use “author” instead of your full name.
+
+- Include the location of any recordings or transcripts if available.
+
+- If the interviewee is not identified do not included a reference list entry, and instead cite in-text only.
+
+
+Interviewee’s Family Name, Given Name. Interview by Interviewer’s Full Name. Date of interview. Place.
+
+> Artcore, Lance. 2019. Interview by author. April 23, 2019. Melbourne.
+
 
 ###### end-subtype-content
 
 ###### end-subtype-item
 
+
+###### start-subtype-item
+
+### Student's own work
+
+###### start-subtype-content
+
+- Citing yourself as an authority on your own opinion should be avoided.
+
+- Check first with your lecturer or teacher if it is permissible to cite your own previously submitted work.
+
+- Using parts of your old assignments in new assignments without referencing is self-plagiarism.
+
+If you copy and paste parts of your old assignments, make sure you reference them the same way you would reference any other source.
+
+If you cite or quote your previous work, treat yourself as the author and your own previous course work as an unpublished manuscript.
+
+#### In-Text Citation: Direct Quote
+
+(Student Family Name year, page)
+
+> "Risk-taking behaviours are characteristic of this personality trait" (Smith 2018, 3).
+
+#### In-Text Citation: Paraphrase
+
+(Student Family Name year)
+
+> It is noteworthy that risk-taking behaviours … (Smith 2018).
+
+> Smith (2018) argued that without insight …
+
+#### Reference list
+
+Student Family Name, Given Name. Year. "Title of work." Unpublished manuscript, last modified Month Day, Year. University, City. Format.
+
+> Smith, Jane. 2018. "An analysis of personality theory." Unpublished manuscript, last modified September 4, 2018. RMIT University, Melbourne. Microsoft Word file.
+
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### Thesis or dissertation
+
+###### start-subtype-content
+
+#### In-text citation: Direct Quote
+
+(Author’s Family Name Year of award, page/s).
+
+> “Human activity has shaped landscapes to such an extent for so many thousands of years that managing landscapes is now a given” (Court 2019, 34).
+
+#### In-text citation: Paraphrase
+
+(Author’s Family Name Year of award).
+
+> Landscape management has naturally evolved from humans shaping the landscape over thousands of years. (Court 2019).
+
+#### Reference list
+
+If the thesis or dissertation is accessed online, include a URL. However, if the URL requires an account login, include only the database or repository name.
+
+Hard copy theses or dissertations do not require a URL or database/repository name.
+
+When the document is labelled PhD dissertation, use the abbreviation PhD diss.
+
+Author’s Family Name, Author’s Given Name. Year of Award. “Title of Thesis or Dissertation: Subtitle.” Master's thesis, PhD thesis or PhD diss., University’s Name. URL or Database/Repository name (Document identifier).
+
+> Court, Tanya. 2019. "The Site Re-Presented: Everyday Civic Landscapes." PhD diss., RMIT University. RMIT Research Repository (9921864000901341).
+> 
+> Rutz, Cynthia Lillian. 2013. “King Lear and Its Folktale Analogues.” PhD diss., University of Chicago.
+
+###### end-subtype-content
+
+###### end-subtype-item
 
 
 ###### end-subtype
