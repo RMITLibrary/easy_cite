@@ -275,7 +275,6 @@ List authors in the order in which they appear in the source. The first-listed n
 ##### Example
 
 > {.hanging-indent}Lai, Gladys, and Pema Bakshi. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue (blog),* May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
-> 
 > {.hanging-indent}Oranje, Mark, and Tuna Taşan-Kok. *From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges.* Milton: Routledge. 2017. {/.hanging-indent}
 
 #### Four to 10 authors
@@ -319,8 +318,8 @@ Both the original and the secondary source must be listed in the note and biblio
 
 ##### Shortened note example
 
-> Refer to original source
-> 
+Refer to original source
+
 > {.footnote-indent}2. Sukofsky, "Sincerity and Objectification", 269 {/.footnote-indent}
 
 #### Bibliography rule
@@ -362,17 +361,13 @@ Both the original and the secondary source must be listed in the note and biblio
 #### Note examples;
 
 > {.footnote-indent}1. Doug Patt, *How to Architect (*Cambridge, Mass: MIT Press. 2012), 28. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Mark Oranje and Tuna Taşan-Kok, *From Student to Urban Planner: Young Practitioners' Reflections on Contemporary Ethical Challenges* (Milton: Routledge. 2017), 44. {/.footnote-indent}
-> 
 > {.footnote-indent}3. Okwui Enwezor et al., *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity* (Durham: Duke University Press, 2008), 223. {/.footnote-indent}
 
 #### Shortened note examples;
 
 > {.footnote-indent}4. Patt, *How to Architect,* 35. {/.footnote-indent}
-> 
 > {.footnote-indent}5. Oranje and Taşan-Kok,*Student to Urban Planner,* 78.{/.footnote-indent}
-> 
 > {.footnote-indent}6. Enwezor et al.,*Antinomies of Art and Culture,* 312. {/.footnote-indent}
 
 #### Bibliography rule;
@@ -382,9 +377,7 @@ Both the original and the secondary source must be listed in the note and biblio
 #### Bibliography examples
 
 > {.hanging-indent}Patt, Doug. *How to Architect*. Cambridge, Mass: MIT Press. 2012. {/.hanging-indent}
-> 
 > {.hanging-indent}Oranje, Mark, and Tuna Taşan-Kok. *From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical& Challenges.* Milton: Routledge. 2017. {/.hanging-indent}
-> 
 > {.hanging-indent}Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Durham: Duke University Press, 2008. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -475,17 +468,13 @@ If there are no page numbers in the ebook, use the chapter or section headings.
 ##### Note examples
 
 > {.footnote-indent}1. Henry Carroll, *Read This If You Want To Take Great Photographs* (London: Laurence King, 2014), 10, ProQuest Ebook Central. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Leo Tolstoy, *Anna Karenina,* trans. Constance Garnett (USA: Project Gutenberg, 1998), chap. 4, https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.footnote-indent}
-> 
 > {.footnote-indent}3. Clive Scott, *The Spoken Image: Photography and Language* (London: Reaktion, 1999), 166, EBSCOhost Ebooks, PDF. {/.footnote-indent}
 
 ##### Shortened note examples
 
 > {.footnote-indent}4. Carroll, *Read This,* 10. {/.footnote-indent}
-> 
 > {.footnote-indent}5. Tolstoy, *Anna Karenina,* chap. 4. {/.footnote-indent}
-> 
 > {.footnote-indent}6. Scott, *Spoken Image*, 166. {/.footnote-indent}
 
 #### Bibliography rule
@@ -495,9 +484,7 @@ If there are no page numbers in the ebook, use the chapter or section headings.
 ##### Bibliography examples
 
 > {.hanging-indent}Carroll, Henry. *Read This If You Want To Take Great Photographs.* London: Laurence King, 2014. ProQuest Ebook Central. {/.hanging-indent}
-> 
 > {.hanging-indent}Tolstoy, Leo. *Anna Karenina.* Translated by Constance Garnett. USA: Project Gutenberg, 1998. https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.hanging-indent}
-> 
 > {.hanging-indent}Scott, Clive. *The Spoken Image: Photography and Language.*London: Reaktion, 1999. EBSCOhost Ebooks, PDF. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -524,13 +511,11 @@ Include the edition name or number after the title in an abbreviated from. For e
 ##### Note example
 
 > {.footnote-indent}1. Paul Martin Lester, *Visual Communication: Images with Messages*, 8th ed. (Dallas, Texas: Lex Publishing, 2020), 128. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Bruce Pascoe, *Dark Emu,* New ed. (Broome, Western Australia: Magabala Books Aboriginal Corporation, 2018), 11. {/.footnote-indent}
 
 ##### Shortened note examples
 
 > {.footnote-indent}3. Lester, *Visual Communication,* 305. {/.footnote-indent}
-> 
 > {.footnote-indent}4. Pascoe, *Dark Emu,* 25. {/.footnote-indent}
 
 ##### Bibliography rule
@@ -540,7 +525,6 @@ Include the edition name or number after the title in an abbreviated from. For e
 Bibliography examples
 
 > {.hanging-indent}Lester, Paul Martin. *Visual Communication: Images with Messages.* 8th ed. Dallas, Texas: Lex Publishing, 2020. {/.hanging-indent}
-> 
 > {.hanging-indent}Pascoe, Bruce. *Dark Emu.* New ed. Broome, Western Australia: Magabala Aboriginal Corporation, 2018. {/.hanging-indent}
 
 #### Reprints and modern editions
@@ -702,7 +686,6 @@ OR
 ##### Note examples
 
 > {.footnote-indent}1. Christine McCarthy, “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25, https<nolink>://doi.org/10.1177/1206331205275020. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Dolores Hayden and Gwendolyn Wright, “Architecture and Urban Planning,” Signs: Journal of Women in Culture and Society 1, no (Summer, 1976): https<nolink>://doi.org/928,10.1086/493309, http<nolink>://www.jstor.org/stable/3173242. {/.footnote-indent}
 
 ##### Multiple author note examples
@@ -710,15 +693,12 @@ OR
 See further rules on multiple authors in the multiple author tab in Using Chicago Notes-Bibliography
 
 > {.footnote-indent}3. Taylor Brydes, Lisa Heinze, Monique Retamal. "Changing Geographies of Fashion during COVID-19: The Australian Case," *Geographical Research* 59, no.2 (2021): 206-216, https<nolink>://doi.org/10.1111/1745-5871.12460. {/.footnote-indent}
-> 
 > {.footnote-indent}4. Martha Rosler et al. "Notes from the Field: Materiality," *The Art Bulletin* 95, no. 1 (2013): https<nolink>://doi.org/10-37,10.1080/00043079.2013.10786104. {/.footnote-indent}
 
 ##### Shortened note example
 
 > {.footnote-indent}5. Hayden and Wright, “Architecture and Urban Planning,” 928. {/.footnote-indent}
-> 
 > {.footnote-indent}6. Rosler et al., "Notes from the Field: Materiality," 37. {/.footnote-indent}
-> 
 > {.footnote-indent}7. McCarthy, “Toward a Definition of Interiority,” 112. {/.footnote-indent}
 
 #### Bibliography rule
@@ -734,7 +714,6 @@ OR
 ##### Bibliography examples
 
 > {.hanging-indent}McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25, https<nolink>://doi.org/10.1177/1206331205275020. {/.hanging-indent}
-> 
 > {.hanging-indent}Rosler, Martha, Caroline Walker Bynum, Natasha Eaton, Michael Ann Holly, Amelia jones, Michael Kelly, Robin Kelsey, et. al. "Notes from the Field: Materiality," *The Art Bulletin* 95, no. 1 (2013): 10-37, https<nolink>://doi.org/10.1080/00043079.2013.10786104. {/.hanging-indent}
 
 OR
@@ -820,19 +799,14 @@ or if no author
 ##### Note example
 
 > {.footnote-indent}1. Jeanette Hill, "Open Doors," *Weekly Times* (Melbourne, Australia), July 20, 2011, Proquest. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Arthur Lubow, "The Triumph of Frank Lloyd Wright," *Smithsonian Magazine,* June, 2009, https<nolink>://www.smithsonianmag.com/history/the-triumph-of-frank-lloyd-wright-132535844/. {/.footnote-indent}
-> 
 > {.footnote-indent}3. Alyx Gorman, "A Movement not a Moment: Indigenous Design in the Spotlight at Australian Fashion Week," *Guardian News* (Sydney, Australia), June 4, 2021, https<nolink>://www.theguardian.com/fashion/2021/jun/05/a-movement-not-a-moment-indigenous-design-in-the-spotlight-at-australian-fashion-week. {/.footnote-indent}
-> 
 > {.footnote-indent}4.*Times of India, "*Swedish Design Week Inaugurated,” (Bombay, India), February 22, 2018. {/.footnote-indent}
 
 ##### Shortened note example
 
 > {.footnote-indent}4. Lubow, "A Movement not a Moment: Indigenous Design in the Spotlight at Austraian Fashion Week." {/.footnote-indent}
-> 
 > {.footnote-indent}5. Crowe, "Voters back net zero target." {/.footnote-indent}
-> 
 > {.footnote-indent}6. Times of India, "Swedish Design Week Inaugurated." {/.footnote-indent}
 
 #### Rule for Bibliography
@@ -844,9 +818,7 @@ or if no author
 #### Examples of Bibliography 
 
 > {.hanging-indent}Hill, Jeanette. "Open Doors." *Weekly Times*, July 20, 2011. {/.hanging-indent}
-> 
 > {.hanging-indent}Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Australian Fashion Week," *Guardian News*, June 4, 2021. https<nolink>://www.theguardian.com/fashion/2021/jun/05/a-movement-not-a-moment-indigenous-design-in-the-spotlight-at-australian-fashion-week. {/.hanging-indent}
-> 
 > {.hanging-indent}*Wall Street Journal.* "Inside the Homes of Architects; the Designers are Getting a Chance to Test their Own Designs." May 14, 2020. https<nolink>://www-proquest-com.ezproxy.lib.rmit.edu.au/newspapers/inside-homes-architects-designers-are-getting/docview/2402563321/se-2?accountid=13552. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -871,13 +843,11 @@ or
 ##### Note example
 
 > {.footnote-indent}1. SBS Television, "A Vertical Village for Senior Citizens has Won the World Architecture Prize,"*World News Australia*, December 3, 2018, https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/tvnews.tsm201812030208. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Australian Broadcasting Corporation, "Life in Limbo," *7.30 Report,*June 8, 2021, television broadcast. {/.footnote-indent}
 
 ##### Shortened note example
 
 > {.footnote-indent}3. Australian Broadcasting Corporation, "Life in Limbo." {/.footnote-indent}
-> 
 > {.footnote-indent}4. SBS, "Vertical Village for Senior Citizens." {/.footnote-indent}
 
 #### Rule for Bibliography
@@ -891,7 +861,6 @@ or
 ##### Example of Bibliography
 
 > {.hanging-indent}SBS Television, "A Vertical Village for Senior Citizens has Won the World Architecture Prize," *World News Australia*, December 3, 2018. https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/tvnews.tsm201812030208. {/.hanging-indent}
-> 
 > {.hanging-indent}Australian Broadcasting Corporation, "Life in Limbo," *7.30 Report*, June 8, 2021. Television broadcast. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -931,11 +900,8 @@ If the video is a recording of a live event, performance, or speech, or if it is
 ##### Note examples
 
 > {.footnote-indent}1. “Grimes - Genesis,” directed by Claire Boucher, August 22, 2012, YouTube music video, 05:33, accessed July 4, 2021, https<nolink>://youtu.be/1FH-q0I1fJY. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Brené Brown, presenter, “The Power of Vulnerability,” filmed January 4, 2011, in Houston TX, TED video, 20:49, accessed 4 July 2021, https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability. {/.footnote-indent}
-> 
 > {.footnote-indent}3. Raymond Joseph Teller, director, Tim's Vermeer (Movie 2013), Informit EduTV, video, 01:16:27, accessed 4 July 2021, https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/edutv.1713738. {/.footnote-indent}
-> 
 > {.footnote-indent}4. Eric Bricker, director, Visual Acoustics: The Modernism of Julius Shulman (Shulman Project Partners, 2009), Kanopy, video, 1:23:00, accessed 4 July 2021, https<nolink>://www.kanopy.com/product/visual-acoustics. {/.footnote-indent}
 
 #### Shortened note rule
@@ -949,11 +915,8 @@ OR
 ##### Shortened note examples
 
 > {.footnote-indent}5. Grimes, “Genesis.” {/.footnote-indent}
-> 
 > {.footnote-indent}6. Brown, “Power of Vulnerability.” {/.footnote-indent}
-> 
 > {.footnote-indent}7. Teller, Tim's Vermeer. {/.footnote-indent}
-> 
 > {.footnote-indent}8. Bricker, Visual Acoustics. {/.footnote-indent}
 
 #### Bibliography rule
@@ -963,11 +926,8 @@ OR
 ##### Bibliography examples
 
 > {.hanging-indent}Grimes. “Grimes – Genesis.” Directed by Claire Boucher. August 22, 2012. YouTube music video, 05:33. Accessed July 4 2021. https<nolink>://youtu.be/1FH-q0I1fJY. {/.hanging-indent}
-> 
 > {.hanging-indent}Brown, Brené. “The Power of Vulnerability.” Filmed June 2010. In Houston, TX. TED video. 20:49. Accessed July 4 2021. https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability. {/.hanging-indent}
-> 
 > {.hanging-indent}Teller, Raymond Joseph, Dir. *Tim's Vermeer (Movie 2013)*. 2013. EduTV. video. 01:16:27. Accessed July 4 2021. https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/edutv.1713738. {/.hanging-indent}
-> 
 > {.hanging-indent}Bricker, Eric, Dir. *Visual Acoustics: The Modernism of Julius Shulman*. Shulman Project Partners. 2009. Kanopy, video. 1:23:00. Accessed July 4 2021. https<nolink>://www.kanopy.com/product/visual-acoustics. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1000,7 +960,6 @@ OR
 ##### Note examples
 
 > {.footnote-indent}1. *Blade Runner*, directed by Ridley Scott (1982; Burbank, CA: Warner Home Video, 2006), DVD. {/.footnote-indent}
-> 
 > {.footnote-indent}2. *La Dolce Vita*, “Fountain Scene", directed by Federico Fellini (1960; Australia: Umbrella Entertainment, 2005), DVD. {/.footnote-indent}
 
 #### Shortened note rule
@@ -1014,7 +973,6 @@ OR
 ##### Shortened note examples
 
 > {.footnote-indent}3. Scott, *Blade Runner.* {/.footnote-indent}
-> 
 > {.footnote-indent}2. *La Dolce Vita, "Fountain Scene."* {/.footnote-indent}
 
 #### Bibliography rule
@@ -1030,7 +988,6 @@ OR
 ##### Bibliography examples
 
 > {.hanging-indent}Scott, Ridley. Director. *Blade Runner*. 1982; Burbank, CA: Warner Home Video, 2006. DVD. {/.hanging-indent}
-> 
 > {.hanging-indent}Fellini, Federico. Director. “Fountain Scene.” *La Dolce Vita*. 1960; Australia: Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1057,9 +1014,7 @@ OR
 ##### Note examples
 
 > {.footnote-indent}1. John Berger, “Part 1: Reproductions,” *Ways of Seeing*, episode 1, produced by Michael Dibb, aired January 8 1972 (London: BBC, 1972), accessed July 4, 2021, RMIT Digital Collections. {/.footnote-indent}
-> 
 > {.footnote-indent}2. *Grand Designs*, series 18, episode 7, “Peak District: Post-Industrial House,” presented by Kevin McCloud, aired October 18, 2017 on Channel 4, television Broadcast. {/.footnote-indent}
-> 
 > {.footnote-indent}3. Hetti Perkins, “Love and Longing,” *Art and Soul*, series 2, episode 3, directed by Steven McGregor, aired July 22 , 2014 (Sydney, NSW: Arthouse Films, 2014), DVD. {/.footnote-indent}
 
 #### Shortened note rule
@@ -1073,9 +1028,7 @@ OR
 ##### Shortened note examples
 
 > {.footnote-indent}4. Berger, "Reproductions." {/.footnote-indent}
-> 
 > {.footnote-indent}5. *Grand Designs*, “Post-Industrial.” {/.footnote-indent}
-> 
 > {.footnote-indent}6. Perkins, “Love and Longing.” {/.footnote-indent}
 
 #### Bibliography rule
@@ -1085,9 +1038,7 @@ OR
 ##### Bibliography examples
 
 > {.hanging-indent}Berger, John. “Part 1: Reproductions”. *Ways of Seeing*. Episode 1. Produced by Michael Dibb. Aired 8 January 1972. BBC. Accessed July 4, 2021. RMIT Digital Collections. {/.hanging-indent}
-> 
 > {.hanging-indent}*Grand Designs*. Season 18, episode 7. “Peak District: Post-Industrial House.” Presented by Kevin McCloud. Aired October 18, 2017 on Channel 4. Television broadcast. {/.hanging-indent}
-> 
 > {.hanging-indent}Perkins, Hetti. “Love and Longing.” *Art and Soul*. Season 2, episode 3. Directed by Steven McGregor. Aired July 22, 2014 on ABC TV. Sydney, NSW: Arthouse Films, 2014. DVD. {/.hanging-indent}
 
 
@@ -1113,7 +1064,6 @@ For podcasts where the interviewee is the main focus of discussion see: Intervie
 ##### Note examples
 
 > {.footnote-indent}1. Sarah Koenig, “The Alibi,” October 3, 2014, in *Serial*. Produced by Sarah Koenig, Julie Snyder & Dana Chivvis, podcast, MP3 audio. 52:00. https<nolink>://serialpodcast.org/season-one/1/the-alibi. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Roman Mars, “The Smell of Concrete After Rain,” April 28, 2020, in *99% Invisible*, produced by Avery Trufelman, podcast, MP3 Audio. 29:15. https<nolink>://99percentinvisible.org/episode/the-smell-of-concrete-after-rain. {/.footnote-indent}
 
 #### Shortened note rule
@@ -1123,7 +1073,6 @@ For podcasts where the interviewee is the main focus of discussion see: Intervie
 ##### Shortened note examples
 
 > {.footnote-indent}3. Koenig, “The Alibi.” {/.footnote-indent}
-> 
 > {.footnote-indent}4. Mars, "Concrete After Rain." {/.footnote-indent}
 
 #### Bibliography rule
@@ -1133,7 +1082,6 @@ For podcasts where the interviewee is the main focus of discussion see: Intervie
 ##### Bibliography examples
 
 > {.hanging-indent}Koenig, Sarah. “The Alibi.” Season 1. Episode 1. October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder & Dana Chivvis. Podcast, MP3 audio. 52:00. https<nolink>://serialpodcast.org/season-one/1/the-alibi. {/.hanging-indent}
-> 
 > {.hanging-indent}Mars, Roman. “The Smell of Concrete After Rain.” Episode 400. April 28, 2020. In *99% Invisible*. Produced by Avery Trufelman. Podcast, MP3 Audio. 29:15. https<nolink>://99percentinvisible.org/episode/the-smell-of-concrete-after-rain. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1203,11 +1151,8 @@ Note number. “Title of Part,” other relevant information, format or Name of 
 ##### Note examples
 
 > {.footnote-indent}1. Steve Reich, “Come Out,” with Daniel Hamm (voice), on *Early Works*, Elektra Nonesuch 979169-2, 1987, CD. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Richard Strauss, *Don Quixote*, with Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy, recorded February 24, 1940, Biddulph LAB 042, 1991, CD. {/.footnote-indent}
-> 
 > {.footnote-indent}3. Yothu Yindi, “Treaty - Radio Mix,” track 15 on *Tribal Voice*, originally released 1991; Bloodlines, 2012. Spotify https<nolink>://open.spotify.com/track/0RGD7VXcMiPGmnha3vXSt3?si=3a405ec23ae341d5. {/.footnote-indent}
-> 
 > {.footnote-indent}4. Nancy Sinatra and Lee Hazelwood, “Some Velvet Morning,” track 8 on *Nancy and Lee*, Hollywood: Reprise RS-6273, 1968, 33⅓ rpm. {/.footnote-indent}
 
 #### Shortened note rule
@@ -1221,11 +1166,8 @@ OR
 ##### Shortened note examples
  
 > {.footnote-indent}5. Reich, “Come Out.” {/.footnote-indent}
-> 
 > {.footnote-indent}6. Strauss, *Don Quixote*. {/.footnote-indent}
-> 
 > {.footnote-indent}7. Yothu Yindi, “Treaty.” {/.footnote-indent}
-> 
 > {.footnote-indent}8. Sinatra and Hazelwood, “Some Velvet Morning.” {/.footnote-indent}
 
 #### Bibliography Rule
@@ -1239,11 +1181,8 @@ Or
 ##### Bibliography examples
 
 > {.hanging-indent}Reich, Steve. “Come Out.” with Daniel Hamm (voice) on *Early Works*. Elektra Nonesuch 9 79169-2. 1987. CD. {/.hanging-indent}
-> 
 > {.hanging-indent}Strauss, Richard. *Don Quixote*. with Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy. Recorded February 24, 1940. Biddulph LAB 042. 1991. CD. {/.hanging-indent}
-> 
 > {.hanging-indent}Yothu Yindi. “Treaty - Radio Mix.” Track 15 on *Tribal Voice*. Originally released 1991. Bloodlines, 2012. Spotify. https<nolink>://open.spotify.com/track/0RGD7VXcMiPGmnha3vXSt3?si=3a405ec23ae341d5. {/.hanging-indent}
-> 
 > {.hanging-indent}Sinatra, Nancy and Lee Hazelwood. “Some Velvet Morning.” Track 8 on *Nancy and Lee*. Hollywood, Reprise RS-6273. 1968. 33⅓ rpm. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1272,9 +1211,7 @@ OR
 ##### Note examples
 
 > {.footnote-indent}1. Igor Stravinsky, *The Rite of Spring*, Masterworks Library (New York: Boosey and Hawkes, 1921). {/.footnote-indent}
-> 
 > {.footnote-indent}2. Gérard Grisey, *Vortex Temporum I, II, III: Pour piano et cinq instruments*, (Milan: Ricordi, 1995). {/.footnote-indent}
-> 
 > {.footnote-indent}3. Steve Reich, *Four Organs* (London: Universal Edition, 1980), accessed 29 July 2021, Alexander Street. https<nolink>://search-alexanderstreet-com.ezproxy.lib.rmit.edu.au/view/work/bibliographic\_entity|score|554518. {/.footnote-indent}
 
 #### Shortened note rule
@@ -1284,9 +1221,7 @@ OR
 ##### Shortened note examples
 
 > {.footnote-indent}4. Stravinsky, *Rite of Spring*. {/.footnote-indent}
-> 
 > {.footnote-indent}5. Grisey, *Vortex Temporum*. {/.footnote-indent}
-> 
 > {.footnote-indent}6. Reich, *Four Organs*. {/.footnote-indent}
 
 #### Bibliography rule
@@ -1300,9 +1235,7 @@ Composer Family Name, Given Name. *Title of Score*. ed. Editors Full Name. Place
 ##### Bibliography examples
 
 > {.hanging-indent}Stravinsky, Igor. *The Rite of Spring*. New York: Boosey and Hawkes. 1921. {/.hanging-indent}
-> 
 > {.hanging-indent}Grisey, Gérard. *Vortex Temporum I, II, III: Pour piano et cinq instruments*. Milan: Ricordi. 1995. {/.hanging-indent}
-> 
 > {.hanging-indent}Reich, Steve. *Four Organs*. London: Universal Edition. 1980. Accessed July 29. 2021. Alexander Street. https<nolink>://search-alexanderstreet.com.ezproxy.lib.rmit.edu.au/view/work/bibliographic\_entity|score|554518. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1339,17 +1272,13 @@ Include a publication date or date of revision if this is available. However,it 
 ##### Note examples
 
 > {.footnote-indent}1. "Psychogeography," Tate Modern (website), accessed June 27, 2021, https<nolink>://www.tate.org.uk/art/art-terms/p/psychogeography. {/.footnote-indent}
-> 
 > {.footnote-indent}2. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building," Building Green, 2013, accessed June 28, 2021, https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building. {/.footnote-indent}
-> 
 > {.footnote-indent}3. "Wikipedia: List of Controversial Issues," Wikipedia, last modified April 2, 2021, 17:19, accessed June 29, 2021, https<nolink>://en.wikipedia.org/wiki/Wikipedia:List\_of\_controversial\_issues. {/.footnote-indent}
 
 ##### Shortened note examples:
 
 > {.footnote-indent}4. "Psychogeography." {/.footnote-indent}
-> 
 > {.footnote-indent}5. "Whole-Building Life-Cycle Assessment." {/.footnote-indent}
-> 
 > {.footnote-indent}6. "Wikipedia: List of Controversial Issues." {/.footnote-indent}
 
 #### Bibliography rule
@@ -1359,9 +1288,7 @@ Include a publication date or date of revision if this is available. However,it 
 ##### Bibliography examples
 
 > {.hanging-indent}Tate Modern. "Psychogeography." Tate Modern (website). Accessed June 27, 2021. https<nolink>://www.tate.org.uk/art/art-terms/p/psychogeography. {/.hanging-indent}
-> 
 > {.hanging-indent}Melton, Paula. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building." Building Green, 2013. Accessed June 28, 2021. https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building. {/.hanging-indent}
-> 
 > {.hanging-indent}Wikipedia. "Wikipedia: List of Controversial Issues." Wikipedia, last modified April 2, 2021, 17:19. Accessed June 29, 2021. https<nolink>://en.wikipedia.org/wiki/Wikipedia:List\_of\_controversial\_issues. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1390,13 +1317,11 @@ Comments can usually be cited in the text, in reference to the related post. If 
 ##### Note examples
 
 > {.footnote-indent}1. Gladys Lai, and Pema Bakshi, "5 TikTok Fashion Trends Everyone is Wearing IRL," *Vogue (blog),* May 28, 2021, accessed June 28, 2021, https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Alessandro Checco et al., "Can AI be Used Ethically to Assist Peer Review?" *LSE Impact Blog, The London School of Economics and Political Science,* May 17, 2021, accessed June 28, 2021, https<nolink>://blogs.lse.ac.uk/impactofsocialsciences/2021/05/17/can-ai-be-used-ethically-to-assist-peer-review/. {/.footnote-indent}
 
 ##### Shortened note examples
 
 > {.footnote-indent}3. Lai and Bakshi, "5 TikTok Fashion Trends." {/.footnote-indent}
-> 
 > {.footnote-indent}4. Checco et al., "Can AI be Used Ethically?" {/.footnote-indent}
 
 #### Bibliography rule
@@ -1406,7 +1331,6 @@ Comments can usually be cited in the text, in reference to the related post. If 
 ##### Bibliography examples
 
 > {.hanging-indent}Lai, Gladys, and Pema Bakshi. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue (blog),* May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
-> 
 > {.hanging-indent}Checco, Alessandro, Lorenzo Bracciale, Pierpaulo Loreti, Stephen Pinfield, and Giuseppe Bianchi. "Can AI be Used Ethically to Assist Peer Review?" *LSE Impact Blog, The London School of Economics and Political Science,* May 17, 2021. Accessed June 28, 2021. https<nolink>://blogs.lse.ac.uk/impactofsocialsciences/2021/05/17/can-ai-be-used-ethically-to-assist-peer-review/. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1439,17 +1363,13 @@ Private content, including direct messages, is considered a form of personal com
 ##### Note examples
 
 > {.footnote-indent}1. Grace Tame (@tamepunk), " “Making Noise” Kirsty Neilson—for this year’s Archibald Prize," Instagram, May 27, 2021, accessed June 28, 2021, https<nolink>://www.instagram.com/p/CPXh8CRLJTE/. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Clementine Ford (@clemenine\_ford), “Let’s have a conversation about consent! with Clementine Ford," Twitter Video, April 27, 2021, accessed June 28, 2021, https<nolink>://twitter.com/clementine\_ford/status/1386832309777616898. {/.footnote-indent}
-> 
 > {.footnote-indent}3. ABC Radio National, "This week is Australian Fashion Week," Facebook, June 4, 2021, accessed June 28, 2021, https<nolink>://www.facebook.com/page/94861512377/search/?q=fashion. {/.footnote-indent}
 
 ##### Shortened note examples
 
 > {.footnote-indent}4. Tame, "Making Noise." {/.footnote-indent}
-> 
 > {.footnote-indent}5. Ford, "Let’s have a conversation." {/.footnote-indent}
-> 
 > {.footnote-indent}6. ABC Radio National, "Australian Fashion Week." {/.footnote-indent}
 
 #### Bibliography rule
@@ -1459,9 +1379,7 @@ Private content, including direct messages, is considered a form of personal com
 #### Bibliography examples
 
 > {.hanging-indent}Tame, Grace (@tamepunk). " “Making Noise” Kirsty Neilson—for this year’s Archibald Prize." Instagram. May 27, 2021. Accessed June 28, 2021. https<nolink>://www.instagram.com/p/CPXh8CRLJTE/. {/.hanging-indent}
-> 
 > {.hanging-indent}Ford, Clementine (@clementine\_ford). “Let’s have a conversation about consent! with Clementine Ford." Twitter Video. April 27, 2021. Accessed June 28, 2021. https<nolink>://twitter.com/clementine\_ford/status/1386832309777616898. {/.hanging-indent}
-> 
 > {.hanging-indent}ABC Radio National. "This week is Australian Fashion Week." Facebook. June 4, 2021. Accessed June 28, 2021. https<nolink>://www.facebook.com/page/94861512377/search/?q=fashion. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1538,15 +1456,12 @@ To reference a standard published by an Australian or international standards or
 ##### Note examples
 
 > {.footnote-indent}1. *Sun Protective Clothing: Evaluation and Classification*, (AS 4399:2020), Sydney,NSW. https<nolink>://www.standards.org.au/standards-catalogue/sa-snz/consumer/tx-021/as--4399-colon-2020. {/.footnote-indent}
-> 
 > {.footnote-indent}2. SAI Global. *Glass in Building: Tempered Soda Lime Silicate Safety Glass*, (ISO 12540:2017), Sydney, NSW. https<nolink>://www.iso.org/standard/62574.html. {/.footnote-indent}
-> 
 > {.footnote-indent}3. *Extensible Markup Language (XML) 1.0*, 5th ed., ed. Tim Bray, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau (W3C, November 26, 2008), http<nolink>://www.w3.org/TR/2008/REC-xml-20081126/. {/.footnote-indent}
 
 ##### Shortened note examples
 
 > {.footnote-indent}4. *Glass in Building.* {/.footnote-indent}
-> 
 > {.footnote-indent}5. *Sun Protective Clothing.* {/.footnote-indent}
 
 #### Bibliography rule
@@ -1556,7 +1471,6 @@ To reference a standard published by an Australian or international standards or
 ##### Bibliography example
 
 > {.hanging-indent}SAI Global. *Sun Protective Clothing: Evaluation and Classification*, (AS 4399:2020), Sydney,NSW. https<nolink>://www.standards.org.au/standards-catalogue/sa-snz/consumer/tx-021/as--4399-colon-2020. {/.hanging-indent}
-> 
 > {.hanging-indent}SAI Global. *Glass in Building: Tempered Soda Lime Silicate Safety Glass*, (ISO 12540:2017), Sydney, NSW. https<nolink>://www.iso.org/standard/62574. {/.hanging-indent}html.
 
 ###### end-subtype-content
@@ -1579,7 +1493,6 @@ Patents are cited under the names of the creators and dated by the year of filin
 ##### Note example
 
 > {.footnote-indent}1. Iizuka, Masanori, and Hideki Tanaka. Cement admixture. US Patent 4,586,960, filed June 26, 1984, and issued May 6, 1986. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Cook, Fred C., and William H. Donaldson. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, file May 7, 2009, and issued November 11, 2010, 3. {/.footnote-indent}
 
 ##### Shortened note example
@@ -1593,7 +1506,6 @@ Patents are cited under the names of the creators and dated by the year of filin
 ##### Bibliography example
 
 > {.hanging-indent}Cook, Fred C., and William H. Donaldson. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, file May 7, 2009, and issued November 11, 2010. {/.hanging-indent}
-> 
 > {.hanging-indent}Iizuka, Masanori, and Hideki Tanaka. Cement admixture. US Patent 4,586,960, filed June 26, 1984, and issued May 6, 1986. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1669,11 +1581,10 @@ If the image was on a website include the URL, otherwise provide the source deta
 ##### Caption example
 
 > ![Image of a silk tapestry of a dragon and flowers](images/Dragon_tapestry.jpg)
-> 
 > Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?
-> 
-> or if found in a book
-> 
+
+or if found in a book
+
 > Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, in Alicia Jaynes and  James Liaw, *Weaving in silk,* (London: Periwinkle Press: 1968), 37.
 
 ###### end-subtype-content
@@ -1698,13 +1609,11 @@ Works viewed in person, such as art galleries, museums and public spaces, are ci
 ##### Note examples
 
 > {.footnote-indent}1. Jackson Pollock, *Blue poles*. 1952. Oil, enamel, aluminium paint, glass on canvas. 212.1x488.9cm. National Gallery of Australia. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Annie Leibovitz, Annie. *More Demi Moore*. 1991. Photograph. Vanity Fair, cover, August 1991. {/.footnote-indent}
 
 ##### Shortened notes
 
 > {.footnote-indent}1. Pollock, *Blue poles*. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Leibovitz, *More Demi Moore*. {/.footnote-indent}
 
 ##### List of figures rule
@@ -1718,7 +1627,6 @@ Figure number. Artist’s full name. *Title of work*. Year of production. Medium
 ##### Bibliography examples
 
 > {.hanging-indent}Leibovitz, Annie, *More Demi Moore*. 1991. Photograph. Vanity Fair, cover, August 1991. {/.hanging-indent}
-> 
 > {.hanging-indent}Pollock, Jackson, *Blue poles*, 1952. Oil, enamel, aluminium paint, glass on canvas. National Gallery of Australia. {/.hanging-indent}
 
 #### Art or creative work (reproduced from another publication)
@@ -1758,13 +1666,11 @@ The publication only should be recorded in the bibliography.
 ##### Note examples
 
 > {.footnote-indent}1. Henry Burn, *Swanston Street from the Bridge*, 1861, oil on canvas, National Gallery of Victoria, https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/. {.footnote-indent}
-> 
 > {.footnote-indent}2. Wayne Pinkston, *The Elephant Walks at Night*, 2017, Flickr. https<nolink>://www.flickr.com/photos/pinks2000/38054867995/in/explore-2017-12-09/. {.footnote-indent}
 
 ##### Shortened notes
 
 > {.footnote-indent}1. Burn, *Swanston Street from the Bridge.* {.footnote-indent}
-> 
 > {.footnote-indent}2. Pinkston, *The Elephant Walks at Night*. {.footnote-indent}
 
 ##### Bibliography rule
@@ -1774,7 +1680,6 @@ The publication only should be recorded in the bibliography.
 ##### Bibliography examples
 
 > {.hanging-indent}Burn, Henry, *Swanston Street from the Bridge*, 1861, oil on canvas, National Gallery of Victoria, https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/. {/.hanging-indent}
-> 
 > {.hanging-indent}Pinkston, Wayne, 2017. *The Elephant Walks at Night*, 2017, Flickr. https<nolink>://www.flickr.com/photos/pinks2000/38054867995/in/explore-2017-12-09/. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1795,7 +1700,6 @@ Figure number. Description or explanation.
 ##### Caption examples
 
 > Figure 1. Frequency of buyers regret based purchase type.
-> 
 > Figure 2. Park visitor responses to light and sound installation.
 
 ##### Bibliography
@@ -1851,16 +1755,14 @@ The Interviewee is treated as the author i.e. person primarily responsible for t
 
 {.footnote-indent}Note Number. Interviewee’s Full Name, interview by Interviewer’s Full Name, Title of Program, date of broadcast, format or type of broadcast. URL. {/.footnote-indent}
 
-> ##### Note example
-> 
+##### Note example
+
 > {.footnote-indent}1. Kory Stamper, interview by Terry Gross, “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English” in *Fresh Air*, April 19, 2017, podcast, 35:25. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english. {/.footnote-indent}
-> 
 > {.footnote-indent}2. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening),” interview by Sean Dockray, *Liquid Architecture*, January 20, 2020, podcast, https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474. {/.footnote-indent}
 
 ##### Shortened note example
 
 > {.footnote-indent}3. Stamper, interview./p> {/.footnote-indent}
-> 
 > {.footnote-indent}4. Herndon and Dryhurst, interview. {/.footnote-indent}
 
 ##### Bibliography rule
@@ -1870,7 +1772,6 @@ The Interviewee is treated as the author i.e. person primarily responsible for t
 ##### Bibliography example
 
 > {.hanging-indent}Stamper, Kory, Interview by Terry Gross, “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English.” In *Fresh Air*. April 19, 2017. Podcast. 35:25. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english. {/.hanging-indent}
-> 
 > {.hanging-indent}Herndon, Holly and Mat Dryhurst. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening).” Interview by Sean Dockray. In *Liquid Architecture*. January 20, 2020. Podcast. https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474. {/.hanging-indent}
 
 #### Unpublished interviews
@@ -1890,13 +1791,11 @@ An unpubplished interview may be cited in notes but not listed in the bibliograp
 ##### Note example
 
 > {.footnote-indent}1. Lance Artcore, interview by Brooklyn Fox, Melbourne; VIC, April 23, 2019. {/.footnote-indent}
-> 
 > {.footnote-indent}2. Interview with a contact tracer, August 4, 2020. {/.footnote-indent}
 
 ##### Shortened note examples
 
 > {.footnote-indent}3. Artcore, interview. {/.footnote-indent}
-> 
 > {.footnote-indent}4. Contact tracer, interview. {/.footnote-indent}
 
 
@@ -1949,13 +1848,11 @@ Theses and dissertations are mostly cited and referenced like books. Rather than
 ##### Note examples
 
 > {.footnote-indent}1. Tanya Court, "The Site Re-Presented: Everyday Civic Landscapes" (PhD dissertation, RMIT University, 2019), RMIT Research Repository (9921864000901341). {/.footnote-indent}
-> 
 > {.footnote-indent}2. Christine Kuhling, "Rewriting Tourist Photography" (PhD thesis, Western Sydney University, 2017), 30, Western Sydney University Library ResearchDirect (47965). {/.footnote-indent}
 
 ##### Shortened note examples
 
 > {.footnote-indent}3. Court, "The Site Re-Presented." {/.footnote-indent}
-> 
 > {.footnote-indent}4. Kuhling, "Rewriting Tourist Photography." {/.footnote-indent}
 
 #### Bibliography rule
@@ -1965,7 +1862,6 @@ Theses and dissertations are mostly cited and referenced like books. Rather than
 ##### Bibliography examples
 
 > {.hanging-indent}Court, Tanya. "The Site Re-Presented: Everyday Civic Landscapes." PhD dissertation, RMIT University, 2019. RMIT Research Repository (9921864000901341). {/.hanging-indent}
-> 
 > {.hanging-indent}Kuhling, Christine."Rewriting Tourist Photography." PhD thesis, Western Sydney University, 2017. Western Sydney University Library ResearchDirect (47965). {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1988,13 +1884,11 @@ Include the lecture URL if there is one available.
 ##### Note examples
 
 > {.footnote-indent}1. Tran Duc Linh, "Math 2081: Week 1 Lecture," MATH 2081: *Mathematics for Computing* (Lecture, Online: RMIT University, June 28, 2021). https<nolink>://web.microsoftstream.com/video/dc38f791-8ce3-4e33-866a-5144380799f9. {/.footnote-indent}
-> 
 > {.footnote-indent}2. David Smith, "Communication 101: Week 3 Lecture," COMM204: *Communication* (Lecture, Melbourne: RMIT University July 2, 2021). {/.footnote-indent}
 
 ##### Shortened note examples
 
 > {.footnote-indent}3. Linh, "Math 2081." {/.footnote-indent}
-> 
 > {.footnote-indent}4. Smith, "Communication 101." {/.footnote-indent}
 
 #### Bibliography rule
@@ -2004,7 +1898,6 @@ Include the lecture URL if there is one available.
 ##### Bibliography examples
 
 > {.hanging-indent}Linh, Tran Duc. "Math 2081: Week 1 Lecture," MATH2081. *Mathematics for Computing.*Online: RMIT University, June 28, 2021.https<nolink>://web.microsoftstream.com/video/dc38f791-8ce3-4e33-866a-5144380799f9. {/.hanging-indent}
-> 
 > {.hanging-indent}Smith, David. "Communication 101: Week 3 Lecture," COMM204. *Communication.* Melbourne: RMIT University, July 2, 2021. {/.hanging-indent}
 
 ###### end-subtype-content

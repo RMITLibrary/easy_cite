@@ -214,7 +214,6 @@ Identify works by the same author in the same year by inserting a letter after t
 #### Reference list entry
 
 > Ayoob M (2021a) *How much change will the end of the Netanyahu era bring?*, Australian Strategic Policy Institute: The Strategist website, accessed 9 December 2021. https<nolink>://www.aspistrategist.org.au/how-much-change-will-the-end-of-the-netanyahu-era-bring/
-> 
 > Ayoob M (2021b) *What will happen to the nuclear deal under Iran’s new president?*, Australian Strategic Policy Institute: The Strategist website, accessed 9 December 2021. https<nolink>://www.aspistrategist.org.au/what-will-happen-to-the-nuclear-deal-under-irans-new-president/
 
 ###### end-subtype-content
@@ -688,7 +687,6 @@ In your reference list:
 ##### Examples
 
 > Lynch MP (2016) *The internet of us: knowing more and understanding less in the age of big data*, Liveright Publishing Corporation, New York.
-> 
 > Lynch MP (2019) *Know-it-all society: truth and arrogance in political culture*, Liveright Publishing Corporation, New York.
 
 ###### end-subtype-content
@@ -871,11 +869,8 @@ In your reference list:
 ##### Examples
 
 > Carroll H (2017) *Read this if you want to take great photographs*, Laurence King Publishing, London.
-> 
 > Edwards M, Howard C and Miller R (2020) *Social policy, public policy: From problem to practice*, Routledge, doi:10.4324/9781003117254.
-> 
 > Perheentupa J (2020) *Redfern: Aboriginal activism in the 1970s*, Aboriginal Studies Press, Canberra.
-> 
 > Pinheiro MM and Costa AJ (2021) *Accounting ethics education: teaching virtues and values*, Taylor & Francis Group, doi:10.4324/9780429321597.
 
 ###### end-subtype-content
@@ -955,7 +950,6 @@ In your reference list:
 ##### Example
 
 > Baird C (2018) 'Determinism', in Kolb RW (ed), *The SAGE encyclopedia of business ethics and society*, SAGE Publications, Thousand Oaks.
-> 
 > Neal M (2019) 'Damascus Securities Exchange', *A dictionary of business and management in the Middle East and North Africa*, Oxford University Press, doi:10.1093/acref/9780191843266.001.0001.
 
 ###### end-subtype-content
@@ -1005,7 +999,6 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 ##### Examples
 
 > ACMI (Australian Centre for the Moving Image) (2021) *Disney: the magic of animation* \[brochure\], ACMI, Melbourne.
-> 
 > Specialist Imaging For Women (c.2021) *Paediatrics services* \[pamphlet\], Specialist Imaging For Women, Ivanhoe, VIC.
 
 ###### end-subtype-content
@@ -1243,7 +1236,6 @@ In your reference list:
 ##### Examples
 
 > Bichler KJ, Jakobi B and Schneider GJ (2021) 'Dynamical comparison of different polymer architectures - bottlebrush vs linear polymer', *Macromolecules*, 54(4):1829-1837, doi:10.1021/acs.macromol.0c02104.
-> 
 > Mobbs D, Wise T, Suthana N, Guzmán N, Kriegeskorte N and Leibo JZ (2021) 'Promises and challenges of human computational ethology', *Neuron*, 109(14):2224-2238, doi:10.1016/j.neuron.2021.05.021.
 
 ###### end-subtype-content
@@ -1369,9 +1361,7 @@ In your reference list:
 ##### Examples
  
 > Barkela B (2021) 'Leadership communication and knowledge integration across the artistic, technical and administration area in theaters', *Journal of Arts Management, Law, and Society*, 51(6):393-409, doi:10.1080/10632921.2021.1974628.
-> 
 > Llaha F, Gil-Lespinard M, Unal P, de Villasante I, Castañeda J and Zamora-Ros R (2021) 'Consumption of sweet beverages and cancer risk. A systematic review and meta-analysis of observational studies', *Nutrients*, 13(2):516, accessed 26 November 2021. https<nolink>://www.mdpi.com/2072-6643/13/2/516/htm
-> 
 > Wilson C, Marks Woolfson L and Durkin K (2020) 'School environment and mastery experience as predictors of teachers' self-efficacy beliefs towards inclusive teaching', *International Journal of Inclusive Education*, 24(2):218-234, Taylor & Francis Online database.
 
 ###### end-subtype-content
@@ -1434,7 +1424,6 @@ In your reference list:
 ##### Examples
 
 > Yeates C (6 December 2021) 'CEO pay of big banks could be linked to climate change targets', *The Age*.
-> 
 > Wright S and Duke J (9 October 2021) 'RBA issues warning as property prices surge', *The Age.*
 
 ###### end-subtype-content
@@ -1853,7 +1842,6 @@ In your reference list:
 ##### Examples
 
 > Heath N (2021) *What is AI? Here's everything you need to know about artificial intelligence*, ZDNet website, accessed 9 December 2021. https<nolink>://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/
-> 
 > WHO (World Health Organization) (2021) *WHO accelerates work on nutrition targets with new commitments*, WHO website, accessed 9 December 2021. https<nolink>://www.who.int/news/item/07-12-2021-who-accelerates-work-on-nutrition-targets-with-new-commitments
 
 
@@ -2046,9 +2034,7 @@ In your reference list:
 ##### Examples
 
 > Thunberg G (15 November 2021a) 'A reminder: the people in power don't need conferences, treaties...' \[Tweet\], Greta Thunberg, accessed 1 November 2021. https<nolink>://twitter.com/GretaThunberg/status/1460159146720997377
-> 
 > Thunberg G (28 November 2021b) 'We can no longer let the people in power decide...' \[Instagram post\], Greta Thunberg, accessed 1 November 2021. https<nolink>://www.instagram.com/tv/CUXUfZIsHBm/
-> 
 > Thunberg G (14 November 2021c) 'The #COP26 is over. Here's a brief summary: Blah, blah,...' \[Facebook post\], Greta Thunberg, accessed 25 November 2021. https<nolink>://www.facebook.com/gretathunbergsweden
 
 ###### end-subtype-content
@@ -2119,7 +2105,6 @@ In your reference list for **television program**:
 ##### Examples
 
 > Bong JH (director) (2019) *Parasite* \[motion picture\], CJ Entertainment, South Korea.
-> 
 > Reynolds M (director) (2017) *My name is Gulpilil* \[motion picture\], Screen Australia, SAFC & ABC, Australia.
 
 ##### Rule (television program)
@@ -2129,7 +2114,6 @@ In your reference list for **television program**:
 ##### Examples
 
 > ABC Television (producer) (2021) 'The business: cryptocurrency special' \[television program\], *The business*, ABC Television, Sydney.
-> 
 > Taylor A (director) and Benioff DB and Weiss D (2017) (producers) (20 August 2017) 'Beyond the wall' \[television program\], *Game of thrones* (season 7, episode 6), HBO, New York.
 
 ###### end-subtype-content
@@ -2183,7 +2167,6 @@ In your reference list:
 ##### Examples
 
 > Fidler R (host) and Rooney C (producer) (19 October 2021) 'Rock and Dave Grohl' \[podcast\], *Conversations*, ABC, accessed 1 December 2021. https<nolink>://www.abc.net.au/radio/ programs/ conversations/dave-grohl-nirvana-foo-fighters-love-music-rock/13582414
-> 
 > Hunter A and Bessell S (hosts) and Policy Forum.net (producer) (27 November 2020) 'The wellbeing economy – a glimpse of the good life' \[podcast\], *The wellbeing economy podcast series*, IMMP Crawford, accessed 1 December 2021. https<nolink>://immp.crawford.anu.edu.au/content/wellbeing-economy-podcast-series
 
 ###### end-subtype-content
@@ -2241,9 +2224,7 @@ In your reference list:
 ##### Examples
 
 > ABC News (16 June 2021) 'The business: cryptocurrency special' \[video\], *ABC News (Australian Broadcasting Corporation)*, ABC iview website, accessed 30 November 2021. https<nolink>://iview.abc.net.au/video/NS2157H001S00
-> 
 > ABC News In-depth (16 June 2021) 'Bitcoin explained: everything you need to know about the crypto craze | The business' \[video\], *ABC News In-depth*, YouTube website, accessed 30 November 2021. https<nolink>://www.youtube.com/watch?v=MlGLpSvs34Q
-> 
 > Derham L, Groner M and Kerridge G (n.d.) 'Interview questions' \[video\], *AASW (Australian Association of Social Workers)*, AASW website, accessed 30 November 2021. https<nolink>://www.aasw.asn.au/careers-study/new-graduate-resources/finding-your-job-and-thriving-in-it
 
 ###### end-subtype-content
@@ -2310,7 +2291,6 @@ In your reference list:
 ##### Examples
 
 > The Beatles (1967) *Sgt. Pepper's lonely hearts club band* \[Album\], Parlophone.
-> 
 > The Beatles (1967) *Sgt. Pepper's lonely hearts club band (remastered)* \[Album\], Apple, accessed 1 December 2021. https<nolink>://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW
 
 ###### end-subtype-content
@@ -2496,9 +2476,7 @@ In your reference list:
 ##### Examples
 
 > Artist unknown (c. 11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], The Metropolitan Museum of Art, New York, accessed 9 December 2021. https<nolink>://www.metmuseum.org/art/ collection/search/39733?
-> 
 > Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton.
-> 
 > Pollock J (1952) *Blue Poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
 
 ###### end-subtype-content
@@ -2567,7 +2545,6 @@ In your reference list:
 ##### Examples
 
 > Kearney J (1855) *Melbourne and its suburbs*, Victoria Surveyor-General, SLV, accessed 10 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
-> 
 > VicPlan (2020) *Plenty Road Bundoora 3083*, web map, Victoria State Government, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
 
 ###### end-subtype-content
@@ -2654,7 +2631,6 @@ In your reference list, reference tables and diagrams in accordance with the sou
 ##### Examples
 
 > IAHW (Australian Institute of Health and Welfare) (2018) '5.7 Prisoners', *Australia's health 2018*, Australia's health series no. 1, catalogue number AUS 221, IAHW, Australian Government, accessed 13 December 2021. https<nolink>://www.aihw.gov.au/getmedia/0f15de30-8575-4e80-ac9d-5560633635e0/aihw-aus-221-chapter-5-7.pdf.aspx
-> 
 > Fisher C, Holland C and West T (18 March 2021) 'Developments in the buy now, pay later market', *Bulletin*, RBA, accessed 13 December 2021. https<nolink>://www.rba.gov.au/publications/bulletin/2021/mar/ developments-in-the-buy-now-pay-later-market.html
 
 ###### end-subtype-content
@@ -2771,7 +2747,6 @@ In your reference list:
 ##### Examples
 
 > Hayne KM (2019) *Royal Commission into misconduct in the banking, superannuation and financial services industry*, Volume 3, Australian Government, accessed 13 December 2021. https<nolink>://www.royalcommission.gov.au/banking/final-report
-> 
 > Wells Advisory (2021) *Forward impact of COVID-19 on Australian higher education*, TEQSA, Australian Government, accessed 13 December 2021. https<nolink>://www.teqsa.gov.au/latest-news/publications/forward-impact-covid-19-australian-higher-education-report
 
 ##### Rule (organisation report)
@@ -2837,7 +2812,6 @@ In your reference list:
 ##### Examples
 
 > Lo B (2016) *Internet service providers in Australia*, report no. J5911, accessed 28 November 2021, IBISWorld database.
-> 
 > MarketLine Limited (2021) *Global - apparel manufacturing*, accessed 13 December 2021, MarketLine database.
 
 ##### Rule (from website)
@@ -2847,7 +2821,6 @@ In your reference list:
 ##### Examples
 
 > Baptist World Aid Australia (2021) *The 2019 ethical fashion report: The truth behind the bar code*, BWAA, accessed 13 December 2021. https<nolink>://www.business-humanrights.org/en/latest-news/2019-ethical-fashion-report-the-truth-behind-the-barcode/
-> 
 > Fortescue Metals Group Ltd (2021) *Annual report FY21*, FMGL, accessed 13 December 2021. https<nolink>://www.fmgl.com.au/investors/asx-announcements
 
 ###### end-subtype-content
@@ -3167,7 +3140,6 @@ In your reference list:
 ##### Examples
 
 > RMIT Creds (2022) 'What is academic integrity?' \[micro-credential\], RMIT University, Melbourne.
-> 
 > Tran L (2020) 'Managing diverse workforces' \[PowerPoint slides, MANG4321\], RMIT University, Melbourne.
 
 ###### end-subtype-content
@@ -3225,7 +3197,6 @@ In your reference list: For a piece of **legislation (Act)**, include the title 
 **Examples**
 
 > *Child Wellbeing and Safety Act 2005* (Vic).
-> 
 > *Water Act 2007* (Cth).
 
 #### Legal case
@@ -3413,7 +3384,6 @@ In your reference list:
 ##### Examples
 
 > Lowe P (2 November 2021) *Statement by Philip Lowe, Governor: monetary policy decision* \[media release\], Reserve Bank of Australia website, accessed 10 December 2021. https<nolink>://www.rba.gov.au/media-releases/2021/mr-21-24.html
-> 
 > Office of the Premier of Victoria (8 December 2021) *Boosting support for homeless youth* \[media release\], Office of the Premier of Victoria website, accessed 22 January 2022. https<nolink>://www.premier.vic.gov.au/ boosting-support-homeless-youth
 
 ###### end-subtype-content

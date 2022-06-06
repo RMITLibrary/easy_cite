@@ -1743,13 +1743,11 @@ Figure number. Artist’s Given Name Artist’s Family Name, *Title of work*, Ye
 ##### Example 1
 
 > ![Sample image](images/Design-for-Coach-no.3022.jpg)
-> 
 > Figure 1. Author unknown, *Design for Coach: no. 3022*, 1874. Pen and black ink, watercolor and gouache with gum arabic, 18.1 x 24.8 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/378235
 
 ##### Example 2
 
 > ![Sample image](images/Dragon_tapestry.jpg)
-> 
 > Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733? 
 
 Or if located in a book  
@@ -1809,12 +1807,10 @@ Begin with the word 'Source: ' or Sources:', in italics, followed by a colon, th
 
 - Tables should be referred to in the text of your assignment by the table number you have used in your assignment so that your reader understands why you have included them.
 
-> Example - Adapting a table from a published journal article:
-> 
+Example - Adapting a table from a published journal article:
+
 > Table 1: Data for end of life nursing care
-> 
 > ![Sample image](images/sample-image.gif)
-> 
 > *Source*: Reprinted from Susan E. Lowey, *Nursing Care at the End of Life* (Geneseo, NY: Open SUNY Textbooks, 2015), table 3.1, http<nolink>://pressbooks.opensuny.org/nursingcare. Copyright 2015 by Susan E. Lowey (Creative Commons).
 
 ##### In-Text Citation
