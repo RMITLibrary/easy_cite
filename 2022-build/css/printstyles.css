@@ -85,7 +85,7 @@ blockquote p {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
 	margin-left: 20px;
 	font-size: 14px;
-	line-height: 1.5;
+	line-height: 2;
 	overflow-wrap: break-word;
 }
 .footnote-indent{
@@ -93,7 +93,7 @@ blockquote p {
  	text-indent: 2em !important;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif" !important;
 	font-size: 14px !important;
-	line-height: 1.5;
+	line-height: 2;
 	overflow-wrap: break-word;
 }
 .ieee-refs {

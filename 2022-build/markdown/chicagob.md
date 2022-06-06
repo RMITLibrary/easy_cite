@@ -1738,21 +1738,21 @@ Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book*. Place
 
 #### Captions for Artworks/Images
 
-Figure number. Artist’s Given Name Artist’s Family Name, *Title of work*, Year produced. Medium, Dimensions, Source - Publishing details of where you found it, URL.
+{.figure-text}Figure number. Artist’s Given Name Artist’s Family Name, *Title of work*, Year produced. Medium, Dimensions, Source - Publishing details of where you found it, URL. {/.figure-text}
 
 ##### Example 1
 
 > ![Sample image](images/Design-for-Coach-no.3022.jpg)
-> Figure 1. Author unknown, *Design for Coach: no. 3022*, 1874. Pen and black ink, watercolor and gouache with gum arabic, 18.1 x 24.8 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/378235
+> {.figure-text}Figure 1. Author unknown, *Design for Coach: no. 3022*, 1874. Pen and black ink, watercolor and gouache with gum arabic, 18.1 x 24.8 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/378235 {/.figure-text}
 
 ##### Example 2
 
 > ![Sample image](images/Dragon_tapestry.jpg)
-> Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733? 
+> {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?  {/.figure-text}
 
 Or if located in a book  
 
-> Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, in Alicia Jaynes and James Liaw, Weaving in silk, (London: Periwinkle Press: 1968), 37.
+> {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, in Alicia Jaynes and James Liaw, Weaving in silk, (London: Periwinkle Press: 1968), 37. {/.figure-text}
 
 #### In-Text Citation
 
@@ -1766,7 +1766,7 @@ Make sure you refer to the figure in your writing and include the figure number.
 
 Figure number. Description or explanation.
 
-> Figure 1. Author’s photograph showing design development.
+> {.figure-text}Figure 1. Author’s photograph showing design development. {/.figure-text}
 
 #### Copyright information for the coach image
 

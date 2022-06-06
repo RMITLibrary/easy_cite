@@ -2411,13 +2411,13 @@ Refer to a figure by its assigned number, not as the figure above or below or on
 
 ##### Rule
 
-> Figure number: Description or explanation
+{.figure-text}Figure number: Description or explanation {/.figure-text}
 
 ##### Examples
 
-> Figure 1: Author’s photograph
+> {.figure-text}Figure 1: Author’s photograph {/.figure-text}
 
-> Figure 2: Initial sketches of the design
+> {.figure-text}Figure 2: Initial sketches of the design {/.figure-text}
 
 #### Short captions for reproduced works
 
@@ -2425,21 +2425,21 @@ If the image was on a website include the URL, otherwise provide the in-text ref
 
 ##### Rule
 
-> Figure number: Artist's full name (year produced) *Title of artwork* \[medium\], Name of museum/gallery, Location of museum/gallery or Publishing details of where image was sourced.
+{.figure-text}Figure number: Artist's full name (year produced) *Title of artwork* \[medium\], Name of museum/gallery, Location of museum/gallery or Publishing details of where image was sourced. {/.figure-text}
 
 ##### Examples
 
-> Figure 3: Artist unknown (11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/ collection/search/39733?
+> {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/ collection/search/39733? {/.figure-text}
 
 (OR depending on source):
 
-> Figure 3: Artist unknown (11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], in Jaynes A and Liaw J (1968:37)
+> {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], in Jaynes A and Liaw J (1968:37) {/.figure-text}
 
-> Figure 4: Henry Burn (1861) *Swanston Street from the Bridge* \[oil on canvas\], National Gallery of Victoria, Melbourne
+> {.figure-text}Figure 4: Henry Burn (1861) *Swanston Street from the Bridge* \[oil on canvas\], National Gallery of Victoria, Melbourne {/.figure-text}
 
-> Figure 5: Mari (Maria Giovanna Colli) (2009) *Bilbao\_6: Guggenheim Museum Bilbao* \[photograph\], Flickr, Copyright 2009 by Mari, CC BY 2.0, accessed 13 December 2021 https<nolink>://www.flickr.com/ photos/ 52355315@N08/5757476385/in/album-72157626677144865/
+> {.figure-text}Figure 5: Mari (Maria Giovanna Colli) (2009) *Bilbao\_6: Guggenheim Museum Bilbao* \[photograph\], Flickr, Copyright 2009 by Mari, CC BY 2.0, accessed 13 December 2021 https<nolink>://www.flickr.com/ photos/ 52355315@N08/5757476385/in/album-72157626677144865/ {/.figure-text}
 
-> Figure 6: Untitled screenshot of Zelphr homepage
+> {.figure-text}Figure 6: Untitled screenshot of Zelphr homepage {/.figure-text}
 
 #### In-text reference to artworks
 
@@ -2510,13 +2510,13 @@ Refer to a figure by its assigned number, not as the figure above or below or on
 
 ##### Rule
 
-> Figure number: Cartographer’s full name (year produced) *Title of map*, Publishing details of where image was sourced.
+{.figure-text}Figure number: Cartographer’s full name (year produced) *Title of map*, Publishing details of where image was sourced. {/.figure-text}
 
 ##### Examples
 
-> Figure 7: James Kearney (1855) *Melbourne and its suburbs: map 1* \[digitised map\], SLV https://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
+> {.figure-text}Figure 7: James Kearney (1855) *Melbourne and its suburbs: map 1* \[digitised map\], SLV https://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
 
-> Figure 8: *Plenty Road Bundoora 3083* by VicPlan, 2020, web map.
+> {.figure-text}Figure 8: *Plenty Road Bundoora 3083* by VicPlan, 2020, web map. {/.figure-text}
 
 #### In-text references
 
@@ -2588,13 +2588,13 @@ When the table includes data from more than one source, you must cite all source
 
 ##### Rule
 
-> Figure number: Title of table  
-> Source: adapted from Publishing details of where the information was sourced
+{.figure-text}Figure number: Title of table  
+Source: adapted from Publishing details of where the information was sourced {/.figure-text}
 
 ##### Examples
 
-> Table 2: Reason why students plagiarise  
-> Source: adapted from Bretag B, et al. 2020
+> {.figure-text}Table 2: Reason why students plagiarise {/.figure-text}
+> {.figure-text}Source: adapted from Bretag B, et al. 2020 {/.figure-text}
 
 > Table 3: Fluctuation in imports 2010 to 2020  
 > Source: adapted from Mitchelton 2018; ABS 2019; DFAT 2020
@@ -2605,16 +2605,16 @@ If you are using a table or graph that has been published elsewhere, acknowledge
 
 ##### Rule
 
-> Figure number: Title of table  
-> Source: Publishing details of where the information was sourced
+{.figure-text}Figure number: Title of table  
+Source: Publishing details of where the information was sourced {/.figure-text}
 
 ##### Examples
 
-> Table 4: Prison demographics in Australia  
-> Source: AIHW 2018:1
+> {.figure-text}Table 4: Prison demographics in Australia {/.figure-text}
+> {.figure-text}Source: AIHW 2018:1 {/.figure-text}
 
-> Figure 10: Buy now, pay later payments in Australia  
-> Fisher, Holland and West 2021:61
+> {.figure-text}Figure 10: Buy now, pay later payments in Australia {/.figure-text}
+> {.figure-text}Fisher, Holland and West 2021:61 {/.figure-text}
 
 #### In-text references
 

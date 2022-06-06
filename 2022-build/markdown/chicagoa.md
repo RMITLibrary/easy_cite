@@ -1570,7 +1570,7 @@ Figure number. Description or explanation.
 
 ##### Caption example
 
-> Figure 1. Author’s photograph showing design development.
+> {.figure-text}Figure 1. Author’s photograph showing design development.{/.figure-text}
 
 #### Caption rule (reproduced artwork)
 
@@ -1581,11 +1581,11 @@ If the image was on a website include the URL, otherwise provide the source deta
 ##### Caption example
 
 > ![Image of a silk tapestry of a dragon and flowers](images/Dragon_tapestry.jpg)
-> Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?
+> {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733? {/.figure-text}
 
 or if found in a book
 
-> Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, in Alicia Jaynes and  James Liaw, *Weaving in silk,* (London: Periwinkle Press: 1968), 37.
+> {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, in Alicia Jaynes and  James Liaw, *Weaving in silk,* (London: Periwinkle Press: 1968), 37. {/.figure-text}
 
 ###### end-subtype-content
 
@@ -1618,7 +1618,7 @@ Works viewed in person, such as art galleries, museums and public spaces, are ci
 
 ##### List of figures rule
 
-Figure number. Artist’s full name. *Title of work*. Year of production. Medium, dimensions. Collection, Place of collection. Acquisition details. Courtesy line. Photographic credit.
+{.figure-text}Figure number. Artist’s full name. *Title of work*. Year of production. Medium, dimensions. Collection, Place of collection. Acquisition details. Courtesy line. Photographic credit. {/.figure-text}
 
 ##### Bibliography rule
 
@@ -1699,8 +1699,8 @@ Figure number. Description or explanation.
 
 ##### Caption examples
 
-> Figure 1. Frequency of buyers regret based purchase type.
-> Figure 2. Park visitor responses to light and sound installation.
+> {.figure-text}Figure 1. Frequency of buyers regret based purchase type. {/.figure-text}
+> {.figure-text}Figure 2. Park visitor responses to light and sound installation. {/.figure-text}
 
 ##### Bibliography
 
@@ -1710,11 +1710,11 @@ Unpublished tables, graphs and other diagrams that you create are not recorded i
 
 ##### Caption example
 
-> Figure 1. Glenohumeral joint. in Sharon Gustowski, Maria Budner-Gentry, and Ryan Seals, *Osteopathic techniques: the learner's guide.* (New York: Thieme, 2017), 72, 4.25.
+> {.figure-text}Figure 1. Glenohumeral joint. in Sharon Gustowski, Maria Budner-Gentry, and Ryan Seals, *Osteopathic techniques: the learner's guide.* (New York: Thieme, 2017), 72, 4.25. {/.figure-text}
 
 ##### Note example
 
-> {.footnote-indent}Gustowski, Budner-Gentry, and Seals, 72, 4.25.{/.footnote-indent}
+> {.footnote-indent}1. Gustowski, Budner-Gentry, and Seals, 72, 4.25.{/.footnote-indent}
 
 ##### Bibliography
 
