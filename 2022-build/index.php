@@ -442,10 +442,10 @@ if ($whichstyleguide == "styleguide-0"){
 // DONE!! STYLE: CSS for Bootstrap - RMIT branding
 // DONE!! move inline styles to external CSS file - easycite.css
 // DONE!! focus the correct tab depending on the query string.
-// DONE!! need to close the first accordion for the pill if accessed via hash string
-// DONE!! need to highlight first accordion button/item in each accordion because we removed all highlights - remove "collapsed" from first accordion button
+// DONE!! close the first accordion for the pill if accessed via hash string
+// DONE!! highlight first accordion button/item in each accordion because we removed all highlights - remove "collapsed" from first accordion button
 // DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
-// DONE!! solve the praent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
+// DONE!! solve the parent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
 // DONE!! add correct title and accordion headings to print version. Hide print title from web page view.
 // DONE!! fixed accessibility issues: heading hierarchy (removed H4 heading from accordion body) 
 // DONE!! Harvard example reference list was messing up the accordion width due to a URL that wasn't wrapping properly - not a proper fix. Not sure why???
