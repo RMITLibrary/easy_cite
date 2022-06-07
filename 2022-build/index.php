@@ -468,7 +468,7 @@ echo($mylist);
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 	<div class="footerarea">
-			<a href="https://rmit-au.libwizard.com/f/easy-cite-feedback" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here " >Send us feedback</a>&nbsp;  | &nbsp; 
+			<a href="https://forms.office.com/r/ZCZH0nR4HF" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here " >Send us feedback</a>&nbsp;  | &nbsp; 
 			<a href="#" class="footerlinks atooltip aanimate" data-tool="This resource created by RMIT Library Digital Learning" >&copy; RMIT University</a>
 	
 	</div>
