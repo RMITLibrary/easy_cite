@@ -22,13 +22,13 @@
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
-## Using Chicago B
+## Using Chicago B (author-date)
 ## Books
 ## Journals
-## Newspaper articles
-## Audiovisual materials
-## Websites and Social media
-## Reports and Standards
+## Newspapers
+## Audiovisual material
+## Websites, blogs and social media
+## Reports, standards and patents
 ## Images
 ## Other sources
 ###### end-type-menu
@@ -46,7 +46,7 @@
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to Chicago Author - Date
+### Introduction to Chicago B: Author-Date 17th ed.
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content

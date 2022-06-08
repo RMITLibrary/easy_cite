@@ -67,6 +67,12 @@ nav {
 	border:hidden !important;
 
 }
+.navbar-dark .navbar-nav .nav-link {
+    color: #cdcecc !important;
+}
+.navbar-dark:hover .navbar-nav:hover .nav-link:hover {
+    color: #FFFFFF !important;
+}
 .mynavtabs {
 	margin-top: 3px !important;
     font-weight: 500;
@@ -158,12 +164,12 @@ nav {
 }
 .myleftpills:hover {
 	color: #454545 !important;
-	background: #b3b5b0 !important;
+	background: #DEDFDD !important;
 	outline: none !important;
 }
 .myleftpills:focus {
 	color: #454545 !important;
-	background: #b3b5b0 !important;
+	background: #DEDFDD !important;
 	outline: none !important;
 }
 .myleftpills.active {
@@ -177,12 +183,12 @@ nav {
 	outline: none !important;
 }
 .easyaccbutton:hover {
-	background:#b3b5b0 !important;
+	background:#DEDFDD !important;
 	color: #454545 !important;
 	outline: none !important;
 }
 .easyaccbutton:focus {
-	background:#b3b5b0 !important;
+	background:#DEDFDD !important;
 	color: #454545 !important;
 	outline: none !important;
 }

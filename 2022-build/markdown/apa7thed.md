@@ -51,13 +51,13 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-Important: This is a guide only. To avoid losing marks:
+**Important**: This is a guide only. To avoid losing marks:
 
 - Confirm the referencing requirements of your school with your lecturer, and
-Use the American Psychological Association. (2020). Publication manual of the American Psychological Association (7th ed.). Opens in new window to clarify referencing rules or if you need more examples. This guide is based on this publication.
-APA is an author-date referencing style. You need to follow this style when acknowledging your information sources.
+Use the [American Psychological Association. (2020). Publication manual of the American Psychological Association (7th ed.)](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341). to clarify referencing rules or if you need more examples. This guide is based on this publication.
+APA is an **author-date** referencing style. You need to follow this style when acknowledging your information sources.
 
-- APA style requires that all references in a document are to be cited in-text, and that all in-text citations are compiled in a reference list at the end of the document. In-text citations appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable). The reference list must provide full details of all in-text citations, and be arranged alphabetically by author.
+- APA style requires that all references in a document are to be cited in-text, and that all in-text citations are compiled in a reference list at the end of the document. **In-text citations** appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable). The **reference list** must provide full details of all in-text citations, and be arranged alphabetically by author.
 
 
 ###### end-subtype-content
@@ -78,7 +78,7 @@ APA is an author-date referencing style. You need to follow this style when ackn
 
 - When using exact words that an author has used, you must enclose these in double quotation marks “ ” and supply an in-text citation, including page number(s).
 
-- In your writing, you must acknowledge each author or source of information (whether print or online) either by paraphrasing or using a direct quote.
+- In your writing, you must acknowledge each author or source of information (whether print or online) either by **paraphrasing** or using a **direct quote**.
 
 #### Paraphrasing
 

@@ -22,13 +22,13 @@
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
-## Using Chicago A
+## Using Chicago A (footnotes)
 ## Books
 ## Journals
-## News
-## Audiovisual materials
-## Websites and Social media
-## Reports and Standards
+## Newspapers
+## Audiovisual material
+## Websites, blogs and social media
+## Reports, standards and patents
 ## Images
 ## Other sources
 ###### end-type-menu
@@ -46,7 +46,7 @@
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to Chicago Notes and Bibliography
+### Introduction to Chicago A: Notes and Bibliography 17th ed.
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -68,7 +68,7 @@ This guide is based on the Chicago Manual of Style 17th edition [The Chicago man
 
 ###### start-subtype-item
 
-### General rules for Chicago notes - footnotes and endnotes
+### General rules for notes - footnotes and endnotes
 
 ###### start-subtype-content
 
@@ -163,7 +163,7 @@ Example;
 
 ###### start-subtype-item
 
-### General rules for Chicago bibliography
+### General rules for bibliography
 
 ###### start-subtype-content
 
