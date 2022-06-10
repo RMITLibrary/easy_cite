@@ -1,4 +1,4 @@
-<!-- Chicago Notes and Bibliography (A) Style Guide -->
+<!-- Chicago Notes and Bibliography (A) v.17 Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
@@ -763,7 +763,7 @@ Cite journal articles accessed in print in the same way as journal articles acce
 ###### end-type-content
 
 
-<!-- News - links to the fourth type menu item -->
+<!-- Newspapers - links to the fourth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -771,7 +771,7 @@ Cite journal articles accessed in print in the same way as journal articles acce
 
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Newspaper and Magazine Article
+### Newspaper and Magazine Articles
 
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -820,48 +820,6 @@ or if no author
 > {.hanging-indent}Hill, Jeanette. "Open Doors." *Weekly Times*, July 20, 2011. {/.hanging-indent}
 > {.hanging-indent}Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Australian Fashion Week," *Guardian News*, June 4, 2021. https<nolink>://www.theguardian.com/fashion/2021/jun/05/a-movement-not-a-moment-indigenous-design-in-the-spotlight-at-australian-fashion-week. {/.hanging-indent}
 > {.hanging-indent}*Wall Street Journal.* "Inside the Homes of Architects; the Designers are Getting a Chance to Test their Own Designs." May 14, 2020. https<nolink>://www-proquest-com.ezproxy.lib.rmit.edu.au/newspapers/inside-homes-architects-designers-are-getting/docview/2402563321/se-2?accountid=13552. {/.hanging-indent}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-
-### News broadcasts aired on television, viewed live stream, on demand, or in databases
-
-###### start-subtype-content
-
-#### Rule for Note
-
-{.footnote-indent}Note number. Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast, URL. {/.footnote-indent}
-
-or
-
-{.footnote-indent}Note number. Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast, Type of broadcast. {/.footnote-indent}
-
-##### Note example
-
-> {.footnote-indent}1. SBS Television, "A Vertical Village for Senior Citizens has Won the World Architecture Prize,"*World News Australia*, December 3, 2018, https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/tvnews.tsm201812030208. {/.footnote-indent}
-> {.footnote-indent}2. Australian Broadcasting Corporation, "Life in Limbo," *7.30 Report,*June 8, 2021, television broadcast. {/.footnote-indent}
-
-##### Shortened note example
-
-> {.footnote-indent}3. Australian Broadcasting Corporation, "Life in Limbo." {/.footnote-indent}
-> {.footnote-indent}4. SBS, "Vertical Village for Senior Citizens." {/.footnote-indent}
-
-#### Rule for Bibliography
-
-{.hanging-indent}Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast. URL. {/.hanging-indent}
-
-or
-
-{.hanging-indent}Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast. Type of broadcast. {/.hanging-indent}
-
-##### Example of Bibliography
-
-> {.hanging-indent}SBS Television, "A Vertical Village for Senior Citizens has Won the World Architecture Prize," *World News Australia*, December 3, 2018. https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/tvnews.tsm201812030208. {/.hanging-indent}
-> {.hanging-indent}Australian Broadcasting Corporation, "Life in Limbo," *7.30 Report*, June 8, 2021. Television broadcast. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -997,7 +955,7 @@ OR
 
 ###### start-subtype-item
 
-### Television broadcast
+### Television broadcasts
 
 ###### start-subtype-content
 
@@ -1041,6 +999,47 @@ OR
 > {.hanging-indent}*Grand Designs*. Season 18, episode 7. “Peak District: Post-Industrial House.” Presented by Kevin McCloud. Aired October 18, 2017 on Channel 4. Television broadcast. {/.hanging-indent}
 > {.hanging-indent}Perkins, Hetti. “Love and Longing.” *Art and Soul*. Season 2, episode 3. Directed by Steven McGregor. Aired July 22, 2014 on ABC TV. Sydney, NSW: Arthouse Films, 2014. DVD. {/.hanging-indent}
 
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### News broadcasts aired on television, viewed live stream, on demand, or in databases
+
+###### start-subtype-content
+
+#### Rule for Note
+
+{.footnote-indent}Note number. Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast, URL. {/.footnote-indent}
+
+or
+
+{.footnote-indent}Note number. Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast, Type of broadcast. {/.footnote-indent}
+
+##### Note example
+
+> {.footnote-indent}1. SBS Television, "A Vertical Village for Senior Citizens has Won the World Architecture Prize,"*World News Australia*, December 3, 2018, https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/tvnews.tsm201812030208. {/.footnote-indent}
+> {.footnote-indent}2. Australian Broadcasting Corporation, "Life in Limbo," *7.30 Report,*June 8, 2021, television broadcast. {/.footnote-indent}
+
+##### Shortened note example
+
+> {.footnote-indent}3. Australian Broadcasting Corporation, "Life in Limbo." {/.footnote-indent}
+> {.footnote-indent}4. SBS, "Vertical Village for Senior Citizens." {/.footnote-indent}
+
+#### Rule for Bibliography
+
+{.hanging-indent}Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast. URL. {/.hanging-indent}
+
+or
+
+{.hanging-indent}Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast. Type of broadcast. {/.hanging-indent}
+
+##### Example of Bibliography
+
+> {.hanging-indent}SBS Television, "A Vertical Village for Senior Citizens has Won the World Architecture Prize," *World News Australia*, December 3, 2018. https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/tvnews.tsm201812030208. {/.hanging-indent}
+> {.hanging-indent}Australian Broadcasting Corporation, "Life in Limbo," *7.30 Report*, June 8, 2021. Television broadcast. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1298,7 +1297,7 @@ Include a publication date or date of revision if this is available. However,it 
 
 ###### start-subtype-item
 
-### Blog post
+### Blog posts
 
 ###### start-subtype-content
 
@@ -1806,7 +1805,7 @@ An unpubplished interview may be cited in notes but not listed in the bibliograp
 
 ###### start-subtype-item
 
-### Personal communication
+### Personal communications
 
 ###### start-subtype-content
 
