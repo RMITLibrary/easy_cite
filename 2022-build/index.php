@@ -136,6 +136,71 @@
 
 <!-- style guides content--> 	
 <div class="container p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
+
+
+	<!-- https://getbootstrap.com/docs/5.0/forms/select/ and https://www.tutorialrepublic.com/codelab.php?topic=faq&file=jquery-show-hide-div-using-select-box -->
+
+<script>
+$(document).ready(function(){ //starts function
+    $("#selectc").change(function(){ //applies function to div selectb
+        $(this).find("option:selected").each(function(){ //gets the selected field
+            var optionValue3 = $(this).attr("value"); //applies the esleetced value from the field 
+            if(optionValue3){ // applies logic argument if value captured
+			//now apply url structure and reset the page	
+
+				console.log(optionValue3); //outputs value to  console for error cehcking
+            } else{
+                console.log(optionValue3);
+            }
+        });
+    }).change(); //run on select change
+});
+</script>
+<script>
+$(document).ready(function(){ //starts function
+    $("#selectb").change(function(){ //applies function to div selectb
+        $(this).find("option:selected").each(function(){ //gets the selected field
+            var optionValue1 = $(this).attr("value"); //applies the esleetced value from the field 
+            if(optionValue1){ // applies logic argument
+				//$("#heading-" + optionValue1).hide(); //hides accordion - works 
+				//$("h3").not("#heading-" + optionValue1).show(); //shows accordion -works
+				console.log("#heading-" + optionValue1); //outputs value to  console for error cehcking
+
+            } else{
+				$("#heading-" + optionValue1).show();
+                console.log(optionValue1);
+            }
+        });
+    }).change(); //run on select change
+});
+</script>
+
+
+<select id="selectc" class="form-select mb-3" aria-label="Default select example">
+	<option selected value="styleguide-0">RMIT Harvard</option>
+	<option value="styleguide-1">AGLC 4</option>
+	<option value="styleguide-2">APA 7th Ed</option>
+	<option value="styleguide-3">Chicago A</option>
+	<option value="styleguide-4">Chicago B</option>
+	<option value="styleguide-5">IEEE</option>
+	<option value="styleguide-6">Vancouver</option>
+</select>
+
+<select id="selectb" class="form-select" aria-label="Default select example">
+	<option selected value="stn-0">First Option</option>
+	<option value="1">2nd Option</option>
+	<option value="2">3rd Option</option>
+	<option value="3">4th Option</option>
+	<option value="4">5th Option</option>
+	<option value="5">6th Option</option>
+	<option value="6">7th Option</option>
+	<option value="7">8th Option</option>
+	<option value="8">9th Option</option>
+	<option value="9">10th Option</option>
+</select>
+
+
+
 <?php 
 // include the parsedown code
 require_once 'Parsedown.php';
@@ -179,7 +244,6 @@ $mylist = $parsedown->text($thestyleguide);
 	
 //replace heading tags with bootstrap layout
 // NAV TABS
-$mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<ul class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
 $mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<ul class="nav nav-tabs  d-none d-sm-block" id="nav-tab" role="tablist">', $mylist);
 $mylist = preg_replace("/<h1>/", '<li id="nav-xx-tab" class="nav-item" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false">
 <a id="nav-link-xx" class="nav-link mynavtabs" href="#" tabindex="0" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
@@ -196,7 +260,6 @@ $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whic
 	
 //PILLS
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div class="tab-content" id="nav-tabContent-xx"><div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex flex-row flex-wrap">', $mylist);
-$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 d-none d-sm-block flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); 
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
@@ -456,7 +519,6 @@ if ($whichstyleguide == "styleguide-0"){
 // change the code from PHP to Javascript to show first accordion item in an accordion then won't need the comment in  markdown
 // need to strip all COMMENTS out of $mylist after all replaces are done	
 // 
-	
 	
 //OUTPUT THE PARSED CONTENT TO HTML
 echo($mylist);
