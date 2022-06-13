@@ -180,6 +180,7 @@ $mylist = $parsedown->text($thestyleguide);
 //replace heading tags with bootstrap layout
 // NAV TABS
 $mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<ul class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
+$mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<ul class="nav nav-tabs  d-none d-sm-block" id="nav-tab" role="tablist">', $mylist);
 $mylist = preg_replace("/<h1>/", '<li id="nav-xx-tab" class="nav-item" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false">
 <a id="nav-link-xx" class="nav-link mynavtabs" href="#" tabindex="0" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
 $mylist = preg_replace("/<\/h1>/", '<div class="layer" aria-hidden="true">whichguidetitle</div></a></li>', $mylist);
@@ -196,6 +197,7 @@ $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whic
 //PILLS
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div class="tab-content" id="nav-tabContent-xx"><div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex flex-row flex-wrap">', $mylist);
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
+$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 d-none d-sm-block flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); 
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
