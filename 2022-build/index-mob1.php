@@ -35,7 +35,6 @@
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-	<a name="top"></a>
 <!-- Responsive navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 	<div class="container">
@@ -115,19 +114,19 @@
             <div class="d-flex flex-row flex-wrap">
                 <div class="col-12 col-sm-7">
                     <div class="ecinstructbox">
-						<h3>How to use the Easy Cite referencing tool</h3>
+						<h3>How to use Easy Cite referencing resources</h3>
                     <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago A: footnotes and bibliography, Chicago B: author-date, IEEE, and Vancouver.</p>
-                    <p>Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
-					<p>Easy Cite is intended as a guide only and some styles are open to interpretation. You should always check with your teacher or lecturer to ensure you are using the correct style for your assignments and assessment tasks.</p>
+                    <p>Easy Cite is intended as a guide only and some styles are open to interpretation. Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar existing types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
+					<p>You should always check with your teacher or lecturer to ensure you are using the correct style for your assignments and assessment tasks.</p>
                 
                     </div>
                 </div>
                 <div class="col-12 col-sm-5">
                     <div class="ecinstructbox">
-						
-                    <h4>View this instructional video for using Easy Cite</h4>
+                    <p>View this instructional video for using Easy Cite referencing resources</p>
                     <div class="plc-hldr">
-                      <img src="images/easyciteVideoScreen.png" width="400" height="250" alt="easy cite instructional video"/> </div>
+                    Instructional video placeholder
+                    </div>
                     </div>
                 </div>
             </div>
@@ -137,6 +136,71 @@
 
 <!-- style guides content--> 	
 <div class="container p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
+
+
+	<!-- https://getbootstrap.com/docs/5.0/forms/select/ and https://www.tutorialrepublic.com/codelab.php?topic=faq&file=jquery-show-hide-div-using-select-box -->
+
+<script>
+$(document).ready(function(){ //starts function
+    $("#selectc").change(function(){ //applies function to div selectb
+        $(this).find("option:selected").each(function(){ //gets the selected field
+            var optionValue3 = $(this).attr("value"); //applies the esleetced value from the field 
+            if(optionValue3){ // applies logic argument if value captured
+			//now apply url structure and reset the page	
+
+				console.log(optionValue3); //outputs value to  console for error cehcking
+            } else{
+                console.log(optionValue3);
+            }
+        });
+    }).change(); //run on select change
+});
+</script>
+<script>
+$(document).ready(function(){ //starts function
+    $("#selectb").change(function(){ //applies function to div selectb
+        $(this).find("option:selected").each(function(){ //gets the selected field
+            var optionValue1 = $(this).attr("value"); //applies the esleetced value from the field 
+            if(optionValue1){ // applies logic argument
+				//$("#heading-" + optionValue1).hide(); //hides accordion - works 
+				//$("h3").not("#heading-" + optionValue1).show(); //shows accordion -works
+				console.log("#heading-" + optionValue1); //outputs value to  console for error cehcking
+
+            } else{
+				$("#heading-" + optionValue1).show();
+                console.log(optionValue1);
+            }
+        });
+    }).change(); //run on select change
+});
+</script>
+
+
+<select id="selectc" class="form-select mb-3" aria-label="Default select example">
+	<option selected value="styleguide-0">RMIT Harvard</option>
+	<option value="styleguide-1">AGLC 4</option>
+	<option value="styleguide-2">APA 7th Ed</option>
+	<option value="styleguide-3">Chicago A</option>
+	<option value="styleguide-4">Chicago B</option>
+	<option value="styleguide-5">IEEE</option>
+	<option value="styleguide-6">Vancouver</option>
+</select>
+
+<select id="selectb" class="form-select" aria-label="Default select example">
+	<option selected value="stn-0">First Option</option>
+	<option value="1">2nd Option</option>
+	<option value="2">3rd Option</option>
+	<option value="3">4th Option</option>
+	<option value="4">5th Option</option>
+	<option value="5">6th Option</option>
+	<option value="6">7th Option</option>
+	<option value="7">8th Option</option>
+	<option value="8">9th Option</option>
+	<option value="9">10th Option</option>
+</select>
+
+
+
 <?php 
 // include the parsedown code
 require_once 'Parsedown.php';
@@ -180,7 +244,7 @@ $mylist = $parsedown->text($thestyleguide);
 	
 //replace heading tags with bootstrap layout
 // NAV TABS
-$mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<ul class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
+$mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<ul class="nav nav-tabs  d-none d-sm-block" id="nav-tab" role="tablist">', $mylist);
 $mylist = preg_replace("/<h1>/", '<li id="nav-xx-tab" class="nav-item" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false">
 <a id="nav-link-xx" class="nav-link mynavtabs" href="#" tabindex="0" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
 $mylist = preg_replace("/<\/h1>/", '<div class="layer" aria-hidden="true">whichguidetitle</div></a></li>', $mylist);
@@ -196,7 +260,7 @@ $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whic
 	
 //PILLS
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div class="tab-content" id="nav-tabContent-xx"><div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex flex-row flex-wrap">', $mylist);
-$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
+$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 d-none d-sm-block flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); 
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
@@ -456,7 +520,6 @@ if ($whichstyleguide == "styleguide-0"){
 // need to strip all COMMENTS out of $mylist after all replaces are done	
 // 
 	
-	
 //OUTPUT THE PARSED CONTENT TO HTML
 echo($mylist);
 ?>
@@ -530,8 +593,7 @@ function myFunction(button, sethash){
 	   	window.location.hash = globalpillshash + accordionhash;
 		//console.log(globalpillshash + accordionhash);
 	}
-	document.body.scrollTop = 0; // For Safari
-  	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+	
 }
 
 // this function takes the info from the tab button to output a query string 
@@ -548,10 +610,7 @@ function myFunction2(button, thisquery){
 	location.reload();
 	//	window.scroll(0,0); //need to scroll window to top of page but not working 	
 	document.getElementById("nav-tab").focus();
-	document.body.scrollTop = 0; // For Safari
-  	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
-
 // --------------------------
 // ACCORDION FAMILIES
 // this function dynamically allocates the parent accordion div of the accordion-item 
@@ -578,7 +637,6 @@ const acclist = document.getElementsByClassName("accordion");
 		acbuttons[0].classList.remove("collapsed");
 		//console.log(acbuttons[0].className);
 	}
-	
 // -----------------------------
 // PRINT SCRIPT
 // this script controls the method for printing a section, part or whole guide depending on the button selected
@@ -639,7 +697,7 @@ function textToggle(elem){
 		thiscol.setAttribute("aria-expanded", "true");
 		console.log("open");
 	} else if (colstatus == 'true') {
-		document.getElementById('textoggle').innerHTML = "close";	
+		document.getElementById('textoggle').innerHTML = "open";	
 		thiscol.setAttribute("aria-expanded", "false");
 		console.log("close");
 	}
