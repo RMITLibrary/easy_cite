@@ -24,7 +24,7 @@
 ###### start-type-menu
 ## Using RMIT Harvard
 ## Books
-## Journal Articles
+## Journal articles
 ## Newspaper articles
 ## Conference papers
 ## Websites and webpage documents
@@ -97,7 +97,7 @@ RMIT Harvard style requires in-text references and the reference list.
 
 - When a work has three or more authors, list the first author’s name followed by et al. For example, Haslam et al. (2021) or (Haslam et al. 2021).
 
-- For **pen names and pseudonyms**, use the name adopted by the author, e.g. ...(Mari 2009), Quynh Huong (2020) inspires... In the reference list, list according the pen name or pseudonym and include the author’s actual in parentheses if known.
+- For **pen names and pseudonyms**, use the name adopted by the author, e.g. ...(Mari 2009), Quynh Huong (2020) inspires... In the reference list, list according to the pen name or pseudonym and include the author’s actual name in parentheses if known.
 
 - If the author of a reference is unknown, list the reference based on the title of the work.
 
@@ -140,7 +140,7 @@ Do not overuse direct quotes.
 
 Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
-If you **change the wording of a quote**, follow the steps below to ensure that you do not to change the meaning of the original text:
+If you **change the wording of a quote**, follow the steps below to ensure that you do not change the meaning of the original text:
 
 - Use an **ellipsis** which consists of three dots (...) if you leave out any part of the original text.
 
@@ -214,6 +214,7 @@ Identify works by the same author in the same year by inserting a letter after t
 #### Reference list entry
 
 > Ayoob M (2021a) *How much change will the end of the Netanyahu era bring?*, Australian Strategic Policy Institute: The Strategist website, accessed 9 December 2021. https<nolink>://www.aspistrategist.org.au/how-much-change-will-the-end-of-the-netanyahu-era-bring/
+
 > Ayoob M (2021b) *What will happen to the nuclear deal under Iran’s new president?*, Australian Strategic Policy Institute: The Strategist website, accessed 9 December 2021. https<nolink>://www.aspistrategist.org.au/what-will-happen-to-the-nuclear-deal-under-irans-new-president/
 
 ###### end-subtype-content
@@ -523,7 +524,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Decision making, when applied to the nursing profession, means the selection of careful consideration of interventions from a broad spectrum of actions that can lead to a satisfactory outcome (DeLaune et al. 2019).
 
-##### Reference list entry
+#### Reference list entry
 
 In your reference list:
 
@@ -535,7 +536,7 @@ In your reference list:
 
 ##### Rule
 
-> Author’s family name Initial and Author’s family name Initial (Year) *Title of book: subtitle of book*, Name of publisher, doi:number OR Place of publication \[if no DOI\].
+> Author’s family name Initial, Author’s family name Initial and Author’s family name Initial (Year) *Title of book: subtitle of book*, Name of publisher, doi:number OR Place of publication \[if no DOI\].
 
 ##### Example
 
@@ -574,7 +575,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 > Human health and food and water security will be increasingly threatened by climate change without an accelerated climate mitigation response (OECD 2019).
 
-> Managing aviation safety is about having a proactive approach is needed to minimise the risk of accidents or incidents (International Civil Aviation Organization 2018).
+> Managing aviation safety is about having a proactive approach in minimising the risk of accidents or incidents (International Civil Aviation Organization 2018).
 
 #### Reference list entry
 
@@ -670,7 +671,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 > The ubiquity of social media has been observed to have detrimental effects on the reliability of knowledge (Lynch 2016, 2019).
 
-> Jenkins (2020a, 20120b) has identified several strategies for maintaining employee motivation.
+> Jenkins (2020a, 2020b) has identified several strategies for maintaining employee motivation.
 
 #### Reference list entry
 
@@ -687,6 +688,7 @@ In your reference list:
 ##### Examples
 
 > Lynch MP (2016) *The internet of us: knowing more and understanding less in the age of big data*, Liveright Publishing Corporation, New York.
+
 > Lynch MP (2019) *Know-it-all society: truth and arrogance in political culture*, Liveright Publishing Corporation, New York.
 
 ###### end-subtype-content
@@ -790,15 +792,13 @@ In your reference list:
 
 ###### start-subtype-content
 
-Generally, an edited book will only appear in a bibliography list. A bibliography is used to list any other sources that you have read but not included in your writing. Check with your lecturer/teacher or supervisor if you need to provide a bibliography.
+In the reference list, add **(ed)** for a single editor and **(eds)** for two or more editors.
 
-In the bibliography list, add **(ed)** for a single editor and **(eds)** for two or more editors.
+An edited book will follow the same in-text referencing rules as books with authors. Please see these relevant sections on this page
 
-If you have used an edited book **as part of an in-text reference** and need to add the book details to a reference list, use the **same format** as the **bibliography list entry** below.
+#### Reference list entry
 
-#### Bibliography list entry
-
-In your bibliography list:
+In your reference list:
 
 - List all editors as they appear on the title page of the book. Use the initials of each editor's given name(s). Use **and** to separate the last two editors.
 
@@ -869,8 +869,11 @@ In your reference list:
 ##### Examples
 
 > Carroll H (2017) *Read this if you want to take great photographs*, Laurence King Publishing, London.
+ 
 > Edwards M, Howard C and Miller R (2020) *Social policy, public policy: From problem to practice*, Routledge, doi:10.4324/9781003117254.
+ 
 > Perheentupa J (2020) *Redfern: Aboriginal activism in the 1970s*, Aboriginal Studies Press, Canberra.
+ 
 > Pinheiro MM and Costa AJ (2021) *Accounting ethics education: teaching virtues and values*, Taylor & Francis Group, doi:10.4324/9780429321597.
 
 ###### end-subtype-content
@@ -881,13 +884,15 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Encyclopedia or dictionary entry without an author
+### Encyclopedia or dictionary entry 
 
 ###### start-subtype-content
 
+#### Without an author
+
 If there is no author, cite the encyclopedia or dictionary title and the year. Italicise the encyclopedia or dictionary title. If quoting, include a colon and page number (if available) after the year.
 
-#### In-text reference: Direct quotes
+##### In-text reference: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -895,29 +900,20 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Megaphone democracy is defined as 'the diplomatic strategy of talking freely in public forums about an issue in order to persuade people to accept a particular point of view' (*Macquarie dictionary* 2017:936).
 
-#### In-text reference: Paraphrasing
+##### In-text reference: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
 > In order to focus attention on persuading people about a particular issue, megaphone democracy can often be employed through the context of public forums (*Macquarie dictionary* 2017).
 
-#### Reference list entry
+##### Reference list entry
 
 Encyclopedia or dictionary entries **without an author** do not need to be included in the reference list.
 
-###### end-subtype-content
 
-###### end-subtype-item
+#### With an author
 
-
-
-###### start-subtype-item
-
-### Encyclopedia or dictionary entry with an author
-
-###### start-subtype-content
-
-#### In-text reference: Direct quote
+##### In-text reference: Direct quote
 
 A direct quote is when you are using the exact words of the author(s). Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -925,13 +921,13 @@ If quoting, include a colon and page number (if available) after the year.
 
 > 'Philosophical conversations about determinism can be traced back through history as the question of whether human existence is planned or random and have perennially captured the imagination of thoughtful people' (Baird 2018:890).
 
-#### In-text reference: Paraphrasing
+##### In-text reference: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
 > The historical record testifies to the continued importance of determinism as a philosophical issue among curious and inquiring minds (Baird 2018).
 
-#### Reference list entry
+##### Reference list entry
 
 In your reference list:
 
@@ -943,13 +939,14 @@ In your reference list:
 
 - Include the name of the publisher, followed by the Digital Object Identifier (DOI) and a full stop. If there is no DOI, include the place of publication (city name) instead.
 
-##### Rule
+**Rule**
 
 > Author's family name initial (Year) 'Title of entry', in Editor's family name initial (ed/s) \[if edited\], *Title of encyclopedia or dictionary: subtitle of encyclopedia or dictionary*, Name of publisher, doi:number OR Place of publication \[if no DOI\].
 
-##### Example
+**Example**
 
 > Baird C (2018) 'Determinism', in Kolb RW (ed), *The SAGE encyclopedia of business ethics and society*, SAGE Publications, Thousand Oaks.
+ 
 > Neal M (2019) 'Damascus Securities Exchange', *A dictionary of business and management in the Middle East and North Africa*, Oxford University Press, doi:10.1093/acref/9780191843266.001.0001.
 
 ###### end-subtype-content
@@ -999,6 +996,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 ##### Examples
 
 > ACMI (Australian Centre for the Moving Image) (2021) *Disney: the magic of animation* \[brochure\], ACMI, Melbourne.
+ 
 > Specialist Imaging For Women (c.2021) *Paediatrics services* \[pamphlet\], Specialist Imaging For Women, Ivanhoe, VIC.
 
 ###### end-subtype-content
@@ -1236,6 +1234,7 @@ In your reference list:
 ##### Examples
 
 > Bichler KJ, Jakobi B and Schneider GJ (2021) 'Dynamical comparison of different polymer architectures - bottlebrush vs linear polymer', *Macromolecules*, 54(4):1829-1837, doi:10.1021/acs.macromol.0c02104.
+ 
 > Mobbs D, Wise T, Suthana N, Guzmán N, Kriegeskorte N and Leibo JZ (2021) 'Promises and challenges of human computational ethology', *Neuron*, 109(14):2224-2238, doi:10.1016/j.neuron.2021.05.021.
 
 ###### end-subtype-content
@@ -1361,7 +1360,9 @@ In your reference list:
 ##### Examples
  
 > Barkela B (2021) 'Leadership communication and knowledge integration across the artistic, technical and administration area in theaters', *Journal of Arts Management, Law, and Society*, 51(6):393-409, doi:10.1080/10632921.2021.1974628.
+
 > Llaha F, Gil-Lespinard M, Unal P, de Villasante I, Castañeda J and Zamora-Ros R (2021) 'Consumption of sweet beverages and cancer risk. A systematic review and meta-analysis of observational studies', *Nutrients*, 13(2):516, accessed 26 November 2021. https<nolink>://www.mdpi.com/2072-6643/13/2/516/htm
+
 > Wilson C, Marks Woolfson L and Durkin K (2020) 'School environment and mastery experience as predictors of teachers' self-efficacy beliefs towards inclusive teaching', *International Journal of Inclusive Education*, 24(2):218-234, Taylor & Francis Online database.
 
 ###### end-subtype-content
@@ -1386,12 +1387,11 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Print newspaper article
+### Print newspaper article in hardcopy (print format)
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-In hardcopy (print) format.
 
 #### In-text reference: Direct quotes
 
@@ -1424,6 +1424,7 @@ In your reference list:
 ##### Examples
 
 > Yeates C (6 December 2021) 'CEO pay of big banks could be linked to climate change targets', *The Age*.
+ 
 > Wright S and Duke J (9 October 2021) 'RBA issues warning as property prices surge', *The Age.*
 
 ###### end-subtype-content
@@ -1434,11 +1435,9 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Print newspaper article with no author
+### Print newspaper article in hardcopy (print format) with no author
 
 ###### start-subtype-content
-
-In hardcopy (print) format.
 
 #### In-text reference: Direct quotes
 
@@ -1842,6 +1841,7 @@ In your reference list:
 ##### Examples
 
 > Heath N (2021) *What is AI? Here's everything you need to know about artificial intelligence*, ZDNet website, accessed 9 December 2021. https<nolink>://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/
+ 
 > WHO (World Health Organization) (2021) *WHO accelerates work on nutrition targets with new commitments*, WHO website, accessed 9 December 2021. https<nolink>://www.who.int/news/item/07-12-2021-who-accelerates-work-on-nutrition-targets-with-new-commitments
 
 
@@ -1891,7 +1891,7 @@ In your reference list:
 
 - If the author's name is an organisation and you have used the abbreviated (shortened name) form in your in-text citations (e.g. WHO), include both the abbreviated (shortened name) form followed by the full version name in brackets, e.g. WHO (World Health Organization).
 
-- If an organisation's name is **both** the author of the website/webpage **and** the name of the website/webpage, use the abbreviated (shortened) form for the name of the website/webpage. Do this even if you have not used the abbreviated (shortened) form in your writing before. This avoid repetition of long names, e.g. DET website.
+- If an organisation's name is **both** the author of the website/webpage **and** the name of the website/webpage, use the abbreviated (shortened) form for the name of the website/webpage. Do this even if you have not used the abbreviated (shortened) form in your writing before. This avoids repetition of long names, e.g. DET website.
 
 - Include the word **website** after the name of the website. But if the name of the website is a URL (e.g. vic.gov.au), do not write the word **website**. Do not italicise the name of website.
 
@@ -1905,7 +1905,7 @@ In your reference list:
 
 ##### Example
 
-> Department of Education and Training (DET), Victoria (2020) *High impact teaching strategies*, DET website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/ school/teachers/teachingresources/practice/improve/Pages/hits.aspx
+> Department of Education and Training (DET), Victoria (2020) *High impact teaching strategies*, DET website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx
 
 ###### end-subtype-content
 
@@ -2034,7 +2034,9 @@ In your reference list:
 ##### Examples
 
 > Thunberg G (15 November 2021a) 'A reminder: the people in power don't need conferences, treaties...' \[Tweet\], Greta Thunberg, accessed 1 November 2021. https<nolink>://twitter.com/GretaThunberg/status/1460159146720997377
+ 
 > Thunberg G (28 November 2021b) 'We can no longer let the people in power decide...' \[Instagram post\], Greta Thunberg, accessed 1 November 2021. https<nolink>://www.instagram.com/tv/CUXUfZIsHBm/
+ 
 > Thunberg G (14 November 2021c) 'The #COP26 is over. Here's a brief summary: Blah, blah,...' \[Facebook post\], Greta Thunberg, accessed 25 November 2021. https<nolink>://www.facebook.com/gretathunbergsweden
 
 ###### end-subtype-content
@@ -2105,6 +2107,7 @@ In your reference list for **television program**:
 ##### Examples
 
 > Bong JH (director) (2019) *Parasite* \[motion picture\], CJ Entertainment, South Korea.
+ 
 > Reynolds M (director) (2017) *My name is Gulpilil* \[motion picture\], Screen Australia, SAFC & ABC, Australia.
 
 ##### Rule (television program)
@@ -2114,6 +2117,7 @@ In your reference list for **television program**:
 ##### Examples
 
 > ABC Television (producer) (2021) 'The business: cryptocurrency special' \[television program\], *The business*, ABC Television, Sydney.
+ 
 > Taylor A (director) and Benioff DB and Weiss D (2017) (producers) (20 August 2017) 'Beyond the wall' \[television program\], *Game of thrones* (season 7, episode 6), HBO, New York.
 
 ###### end-subtype-content
@@ -2127,8 +2131,6 @@ In your reference list for **television program**:
 ### Podcast
 
 ###### start-subtype-content
-
-If the author(s) of the podcast is unknown, reference the title of the podcast and the year of the podcast. Italicise the podcast title.
 
 #### In-text reference: Direct quotes
 
@@ -2167,6 +2169,7 @@ In your reference list:
 ##### Examples
 
 > Fidler R (host) and Rooney C (producer) (19 October 2021) 'Rock and Dave Grohl' \[podcast\], *Conversations*, ABC, accessed 1 December 2021. https<nolink>://www.abc.net.au/radio/ programs/ conversations/dave-grohl-nirvana-foo-fighters-love-music-rock/13582414
+ 
 > Hunter A and Bessell S (hosts) and Policy Forum.net (producer) (27 November 2020) 'The wellbeing economy – a glimpse of the good life' \[podcast\], *The wellbeing economy podcast series*, IMMP Crawford, accessed 1 December 2021. https<nolink>://immp.crawford.anu.edu.au/content/wellbeing-economy-podcast-series
 
 ###### end-subtype-content
@@ -2224,7 +2227,9 @@ In your reference list:
 ##### Examples
 
 > ABC News (16 June 2021) 'The business: cryptocurrency special' \[video\], *ABC News (Australian Broadcasting Corporation)*, ABC iview website, accessed 30 November 2021. https<nolink>://iview.abc.net.au/video/NS2157H001S00
+ 
 > ABC News In-depth (16 June 2021) 'Bitcoin explained: everything you need to know about the crypto craze | The business' \[video\], *ABC News In-depth*, YouTube website, accessed 30 November 2021. https<nolink>://www.youtube.com/watch?v=MlGLpSvs34Q
+ 
 > Derham L, Groner M and Kerridge G (n.d.) 'Interview questions' \[video\], *AASW (Australian Association of Social Workers)*, AASW website, accessed 30 November 2021. https<nolink>://www.aasw.asn.au/careers-study/new-graduate-resources/finding-your-job-and-thriving-in-it
 
 ###### end-subtype-content
@@ -2291,6 +2296,7 @@ In your reference list:
 ##### Examples
 
 > The Beatles (1967) *Sgt. Pepper's lonely hearts club band* \[Album\], Parlophone.
+ 
 > The Beatles (1967) *Sgt. Pepper's lonely hearts club band (remastered)* \[Album\], Apple, accessed 1 December 2021. https<nolink>://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW
 
 ###### end-subtype-content
@@ -2411,7 +2417,7 @@ Refer to a figure by its assigned number, not as the figure above or below or on
 
 ##### Rule
 
-{.figure-text}Figure number: Description or explanation {/.figure-text}
+> {.figure-text}Figure number: Description or explanation {/.figure-text}
 
 ##### Examples
 
@@ -2425,14 +2431,12 @@ If the image was on a website include the URL, otherwise provide the in-text ref
 
 ##### Rule
 
-{.figure-text}Figure number: Artist's full name (year produced) *Title of artwork* \[medium\], Name of museum/gallery, Location of museum/gallery or Publishing details of where image was sourced. {/.figure-text}
+> {.figure-text}Figure number: Artist's full name (year produced) *Title of artwork* \[medium\], Name of museum/gallery, Location of museum/gallery or Publishing details of where image was sourced. {/.figure-text}
 
 ##### Examples
 
 > {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/ collection/search/39733? {/.figure-text}
-
-(OR depending on source):
-
+ 
 > {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], in Jaynes A and Liaw J (1968:37) {/.figure-text}
 
 > {.figure-text}Figure 4: Henry Burn (1861) *Swanston Street from the Bridge* \[oil on canvas\], National Gallery of Victoria, Melbourne {/.figure-text}
@@ -2465,18 +2469,20 @@ In your reference list:
 
 - Artworks viewed in person, such as at art galleries, museums and public spaces, are cited to acknowledge their influence on the development of your own ideas or work.
 
-- Artworks that you reproduced from books, websites and other sources should be cited in the standard format the source as described in the other sections of this guide.
+- Artworks that you reproduced from books, websites and other sources should be cited in the standard format of the source as described in the other sections of this guide.
 
 - If viewed online: add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
-> Creator's family name Initial (Year) *Title or description of work* \[medium\], Museum, Exhibition or Gallery, Location of Gallery, accessed Day Month Year \[if viewed online\]. URL \[if viewed online\]
+> Creator's family name Initial (Year) *Title or description of work* \[medium\], Name of Museum, Exhibition or Gallery, Location of museum, exhibition or gallery, accessed Day Month Year \[if viewed online\]. URL \[if viewed online\]
 
 ##### Examples
 
 > Artist unknown (c. 11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], The Metropolitan Museum of Art, New York, accessed 9 December 2021. https<nolink>://www.metmuseum.org/art/ collection/search/39733?
+ 
 > Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton.
+ 
 > Pollock J (1952) *Blue Poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
 
 ###### end-subtype-content
@@ -2510,7 +2516,7 @@ Refer to a figure by its assigned number, not as the figure above or below or on
 
 ##### Rule
 
-{.figure-text}Figure number: Cartographer’s full name (year produced) *Title of map*, Publishing details of where image was sourced. {/.figure-text}
+> {.figure-text}Figure number: Cartographer’s full name (year produced) *Title of map*, Publishing details of where image was sourced. {/.figure-text}
 
 ##### Examples
 
@@ -2545,6 +2551,7 @@ In your reference list:
 ##### Examples
 
 > Kearney J (1855) *Melbourne and its suburbs*, Victoria Surveyor-General, SLV, accessed 10 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
+ 
 > VicPlan (2020) *Plenty Road Bundoora 3083*, web map, Victoria State Government, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
 
 ###### end-subtype-content
@@ -2588,8 +2595,8 @@ When the table includes data from more than one source, you must cite all source
 
 ##### Rule
 
-{.figure-text}Figure number: Title of table  
-Source: adapted from Publishing details of where the information was sourced {/.figure-text}
+> {.figure-text}Figure number: Title of table  {/.figure-text} 
+> {.figure-text}Source: adapted from Publishing details of where the information was sourced {/.figure-text}
 
 ##### Examples
 
@@ -2605,8 +2612,8 @@ If you are using a table or graph that has been published elsewhere, acknowledge
 
 ##### Rule
 
-{.figure-text}Figure number: Title of table  
-Source: Publishing details of where the information was sourced {/.figure-text}
+> {.figure-text}Figure number: Title of table {/.figure-text}  
+> {.figure-text}Source: Publishing details of where the information was sourced {/.figure-text}
 
 ##### Examples
 
@@ -2614,7 +2621,7 @@ Source: Publishing details of where the information was sourced {/.figure-text}
 > {.figure-text}Source: AIHW 2018:1 {/.figure-text}
 
 > {.figure-text}Figure 10: Buy now, pay later payments in Australia {/.figure-text}
-> {.figure-text}Fisher, Holland and West 2021:61 {/.figure-text}
+> {.figure-text}Source: Fisher, Holland and West 2021:61 {/.figure-text}
 
 #### In-text references
 
@@ -2631,6 +2638,7 @@ In your reference list, reference tables and diagrams in accordance with the sou
 ##### Examples
 
 > IAHW (Australian Institute of Health and Welfare) (2018) '5.7 Prisoners', *Australia's health 2018*, Australia's health series no. 1, catalogue number AUS 221, IAHW, Australian Government, accessed 13 December 2021. https<nolink>://www.aihw.gov.au/getmedia/0f15de30-8575-4e80-ac9d-5560633635e0/aihw-aus-221-chapter-5-7.pdf.aspx
+ 
 > Fisher C, Holland C and West T (18 March 2021) 'Developments in the buy now, pay later market', *Bulletin*, RBA, accessed 13 December 2021. https<nolink>://www.rba.gov.au/publications/bulletin/2021/mar/ developments-in-the-buy-now-pay-later-market.html
 
 ###### end-subtype-content
@@ -2747,6 +2755,7 @@ In your reference list:
 ##### Examples
 
 > Hayne KM (2019) *Royal Commission into misconduct in the banking, superannuation and financial services industry*, Volume 3, Australian Government, accessed 13 December 2021. https<nolink>://www.royalcommission.gov.au/banking/final-report
+ 
 > Wells Advisory (2021) *Forward impact of COVID-19 on Australian higher education*, TEQSA, Australian Government, accessed 13 December 2021. https<nolink>://www.teqsa.gov.au/latest-news/publications/forward-impact-covid-19-australian-higher-education-report
 
 ##### Rule (organisation report)
@@ -2821,6 +2830,7 @@ In your reference list:
 ##### Examples
 
 > Baptist World Aid Australia (2021) *The 2019 ethical fashion report: The truth behind the bar code*, BWAA, accessed 13 December 2021. https<nolink>://www.business-humanrights.org/en/latest-news/2019-ethical-fashion-report-the-truth-behind-the-barcode/
+ 
 > Fortescue Metals Group Ltd (2021) *Annual report FY21*, FMGL, accessed 13 December 2021. https<nolink>://www.fmgl.com.au/investors/asx-announcements
 
 ###### end-subtype-content
@@ -3021,7 +3031,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial (Year) *Title of thesis: subtitle of thesis* \[thesis/dissertation type\], Name of University, accessed Day Month, Name of Database database.
+> Author's family name Initial (Year) *Title of thesis: subtitle of thesis* \[thesis/dissertation type\], Name of University, accessed Day Month Year, Name of Database database.
 
 ##### Example
 
@@ -3129,7 +3139,7 @@ In your reference list:
 
 - Enclose the title of the course material in single inverted commas (quotation marks). Do not italicise the title of the course material.
 
-- Include the type of course material in square brackets, e.g. \[course handout\], \[PowerPoint slides\], \[lecture notes\], \[micro-credential\]. Within the same square brackets, also include the course code or course name after the type of course material, e.g. MANG4321.
+- Include the type of course material in square brackets, e.g. \[course handout\], \[PowerPoint slides\], \[lecture notes\], \[micro-credential\]. Within the same square brackets, also include the course code or course name after the type of course material if applicable, e.g. MANG4321.
 
 - The location is the city of the University. Add only if it is not inferred by the University name.
 
@@ -3140,6 +3150,7 @@ In your reference list:
 ##### Examples
 
 > RMIT Creds (2022) 'What is academic integrity?' \[micro-credential\], RMIT University, Melbourne.
+ 
 > Tran L (2020) 'Managing diverse workforces' \[PowerPoint slides, MANG4321\], RMIT University, Melbourne.
 
 ###### end-subtype-content
@@ -3197,6 +3208,7 @@ In your reference list: For a piece of **legislation (Act)**, include the title 
 **Examples**
 
 > *Child Wellbeing and Safety Act 2005* (Vic).
+ 
 > *Water Act 2007* (Cth).
 
 #### Legal case
@@ -3325,7 +3337,9 @@ Case studies are not a publication or reference type. They are a type of writing
 
 The person cited in the in-text reference is treated as the author since they have primary responsibility for communicating the content you are referring to.
 
-#### Reference list entry - Example
+#### Reference list entry
+
+##### Example
 
 > Nabben K (16 June 2021) 'The Business: cryptocurrency special' \[video\], *ABC News (Australian Broadcasting Corporation)*, ABC iview website, accessed 30 November 2021. https<nolink>://iview.abc.net.au/video/NS2157H001S00
 
@@ -3384,6 +3398,7 @@ In your reference list:
 ##### Examples
 
 > Lowe P (2 November 2021) *Statement by Philip Lowe, Governor: monetary policy decision* \[media release\], Reserve Bank of Australia website, accessed 10 December 2021. https<nolink>://www.rba.gov.au/media-releases/2021/mr-21-24.html
+ 
 > Office of the Premier of Victoria (8 December 2021) *Boosting support for homeless youth* \[media release\], Office of the Premier of Victoria website, accessed 22 January 2022. https<nolink>://www.premier.vic.gov.au/ boosting-support-homeless-youth
 
 ###### end-subtype-content
@@ -3446,7 +3461,9 @@ Place the English translation in parenthesis after the original title.
 
 Add the accessed date (e.g. accessed 5 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
-#### Reference list entry - Example
+#### Reference list entry
+
+##### Example
 
 > Vietnam Customs (2021) *Thống kê Hải quan* (Customs statistics), Vietnam Customs, accessed 5 December 2021. https<nolink>://tongcuc.customs.gov.vn/
 

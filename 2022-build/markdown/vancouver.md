@@ -463,7 +463,7 @@ Include the following, noting the use of punctuation and spaces.
 
 - The title of the article. Capitalise the first word and proper nouns only (i.e. minimal capitalisation).
 
-_ The journal title. Note that in the Vancouver style, journal titles are abbreviated. To find the title abbreviation, go to the PubMed database, select "Journals in NCBI Databases", and then enter the journal’s full title to display its abbreviation.
+- The journal title. Note that in the Vancouver style, journal titles are abbreviated. To find the title abbreviation, go to the PubMed database, select "Journals in NCBI Databases", and then enter the journal’s full title to display its abbreviation.
 
 - The year of publication.
 
