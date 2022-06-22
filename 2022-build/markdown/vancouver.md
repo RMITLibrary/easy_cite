@@ -10,7 +10,7 @@
 ###### start-style-menu
 # RMIT Harvard
 # AGLC4
-# APA 7th ed.
+# APA 7<sup>th</sup> ed.
 # Chicago A
 # Chicago B
 # IEEE
@@ -585,9 +585,9 @@ In the Reference List, include the same information as you would for a print jou
 
 In the reference list:
 
-- Do not italicise nor abbreviate the newspaper name. The leading "The" can be dropped, if desired.
+- Do **not** italicise nor abbreviate the newspaper name. The leading "The" can be dropped, if desired.
 
-- If the newspaper is published as a specific edition, add this detail in brackets after the Newspaper name. Do not italicise nor abbreviate edition name. Example: Sydney Morning Herald (Weekend Ed.).
+- If the newspaper is published as a specific edition, add this detail in brackets after the Newspaper name. Do not italicise nor abbreviate edition name. *Example*: Sydney Morning Herald (Weekend Ed.).
 
 - Add the word 'Internet' in square brackets after the newspaper name.
 
@@ -599,11 +599,11 @@ In the reference list:
 
 - When the beginning page of the article is **not** provided, calculate the approximate length of the article in pages, e.g. in the context of printed pages, screens or paragraphs.
 
-- Put the length of the article in square brackets after the cited date. Add a colon between the cited date and the length of the article. Example: 2018 Apr 3 [cited 2019 Feb 22]:[about 2 p.].
+- Put the length of the article in square brackets after the cited date. Add a colon between the cited date and the length of the article. *Example*: 2018 Apr 3 [cited 2019 Feb 22]:[about 2 p.].
 
-- If applicable, include the Section name after the cited date, followed by a colon and the beginning page of the article. Add a semicolon between the cited date and Section name. Example: 2018 Apr 3 [cited 2019 Feb 22];Business:4.
+- If applicable, include the Section name after the cited date, followed by a colon and the beginning page of the article. Add a semicolon between the cited date and Section name. *Example*: 2018 Apr 3 [cited 2019 Feb 22];Business:4.
 
-- If the reference has a Section name **and** the beginning page of the article is **not** provided, put the length of the article in square brackets after the Section name. Add a colon between the Section name and the length of the article. Example: 2018 Apr 3 [cited 2019 Feb 22];Business:[about 2 p.].
+- If the reference has a Section name **and** the beginning page of the article is **not** provided, put the length of the article in square brackets after the Section name. Add a colon between the Section name and the length of the article. *Example*: 2018 Apr 3 [cited 2019 Feb 22];Business:[about 2 p.].
 
 - Add the database name the article is available from after the beginning page of the article or, if applicable, after the length of the article. The database name is mentioned last. Do not put the word 'database' unless part of the name.
 
@@ -628,15 +628,15 @@ In the reference list:
 
 > "A one-shot vaccine that does not need annual updates is the Holy Grail for influenza researchers". (15 p1)
 
-Ac> cording to Mannix (15), "a one-shot vaccine that does not need annual updates is the Holy Grail for influenza researchers". (p1)
+> According to Mannix (15), "a one-shot vaccine that does not need annual updates is the Holy Grail for influenza researchers". (p1)
 
 #### Reference list
 
 In the reference list:
 
-- Do not italicise nor abbreviate the newspaper name. The leading "The" can be dropped, if desired.
+- Do **not** italicise nor abbreviate the newspaper name. The leading "The" can be dropped, if desired.
 
-- If the newspaper is published as a specific edition, add this detail in brackets after the Newspaper name. Do not italicise nor abbreviate edition name. Example: Sydney Morning Herald (Weekend Ed.).
+- If the newspaper is published as a specific edition, add this detail in brackets after the Newspaper name. Do not italicise nor abbreviate edition name. *Example*: Sydney Morning Herald (Weekend Ed.).
 
 - Add the word 'Internet' in square brackets after the newspaper name.
 
@@ -646,9 +646,9 @@ In the reference list:
 
 - Calculate the approximate length of the article in pages, e.g. in the context of printed pages, screens or paragraphs. Put the length of the article in square brackets after the cited date.
 
-- If the reference has a Section name, include the Section name after the cited date, followed by a colon and the length of the article in square brackets. Add a semicolon between the cited date and Section name. Example: 2018 Apr 3 [cited 2019 Feb 22];Business:[about 2 p].
+- If the reference has a Section name, include the Section name after the cited date, followed by a colon and the length of the article in square brackets. Add a semicolon between the cited date and Section name. *Example*: 2018 Apr 3 [cited 2019 Feb 22];Business:[about 2 p].
 
-- Add the URL link after the length of the article. Do not include a full stop at the end unless the URL ends with a forward slash. The URL link is mentioned last.
+- Add the URL link after the length of the article. Do not include a full stop at the end **unless the URL ends with a forward slash**. The URL link is mentioned last.
 
 > 15. Mannix L. Universal flu vaccine a big step closer - but it will only help half of us. The Age [Internet]. 2019 Feb 19 [cited 2019 Feb 22]:[about 3 p.]. Available from: https<nolink>://www.theage.com.au/healthcare/universal-flu-vaccine-a-big-step-closer-but-it-will-only-help-half-of-us-20190218-p50ykw.html
 
@@ -682,7 +682,8 @@ In the reference list:
 - If the newspaper is published as a specific edition, add this detail in brackets after the Newspaper name. Do **not** italicise nor abbreviate edition name. *Example*: Sydney Morning Herald (Weekend Ed.).
 
 - Include the publication year and date (month and day), followed by a colon. Abbreviate months to the first 3 letters.
-Add the beginning page of the article and the column number where the article begins.
+
+- Add the beginning page of the article and the column number where the article begins.
 
 - If applicable, include the Section name after the date, followed by a colon. Add the beginning page of the article and the column number where the article begins. Add a semicolon between the date and Section name. *Example*: 2018 Apr 3;Business:4 (col. 1).
 
@@ -709,7 +710,7 @@ Add the beginning page of the article and the column number where the article be
 
 > "Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services". (11 p25)
 
- "If we want to reduce the alarms over measles and other diseases, Australia should increase investment in vaccination programs in those countries". (12 p1)
+> "If we want to reduce the alarms over measles and other diseases, Australia should increase investment in vaccination programs in those countries". (12 p1)
 
 #### Reference list
 
@@ -867,7 +868,8 @@ If you refer to the illustration in-text, then cite it as you would any other ci
 The caption beneath the image should include:
 
 - a label and a number. E.g. If it is the first figure in your text, it will be labelled Figure 1.
-the description used in the original source
+
+- the description used in the original source
 
 - a reference number in parentheses. For example, if it is the 11th source cited in your document, the reference number will be (11).
 
@@ -1007,7 +1009,7 @@ The reference list entry includes the following:
 
 - the title of the illustration
 
-- date cited]
+- date cited
 
 - the figure number (if provided in the source)
 

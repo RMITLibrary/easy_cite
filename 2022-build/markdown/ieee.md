@@ -10,7 +10,7 @@
 ###### start-style-menu
 # RMIT Harvard
 # AGLC4
-# APA 7th ed.
+# APA 7<sup>th</sup> ed.
 # Chicago A
 # Chicago B
 # IEEE
@@ -55,11 +55,16 @@
 
 - Confirm the referencing requirements of your School with your lecturer, and
 
-- Use [IEEE Reference Guide, Piscataway, NJ, USA: IEEE Periodicals, 2020](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) to clarify referencing rules or if you need more examples. This guide is based on this publication.
+- Use [IEEE Reference Guide, 2021](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf)(PDF, 1.37Kb, 43 pages) to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
 The IEEE (Institute of Electrical and Electronics Engineers) citation style is a **numbered** style where references are numbered [1], [2], [3] in-text and so on in the order of appearance in the body of the document. A **Reference List** at the end of the work provides full details of all references cited in-text. The references are ordered as they appear in the in-text references (in order of citation, not in alphabetical order). You need to follow this style when acknowledging your information sources.
 
-Download the complete IEEE referencing guide from [IEEE Author Center documents](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/)
+##### Additional resources
+
+Download the IEEE referencing guide (DOCX, 74.8 KB, 14 pages) from the IEEE Author Center:
+ 
+[Referencing guides for printing list](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/)
+
 
 ###### end-subtype-content
 
@@ -246,7 +251,7 @@ Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for 
 
 #### Word abbreviations
 
-Standard IEEE words when used in a reference should be abbreviated. See the **Useful Abbreviations in References** section of the [IEEE Reference Guide (2020)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Reference-Guide.pdf) pp. 20–24.
+Standard IEEE words when used in a reference should be abbreviated. See the **Useful Abbreviations in References** section of the [IEEE Reference Guide (2021)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) pp. 20–24.
 
 #### Journal title abbreviations
 
@@ -258,11 +263,11 @@ When referencing IEEE magazine titles, then refer to the [IEEE Magazine Titles a
 
 #### Conference proceeding abbreviations
 
-When citing conference proceedings, the common rule is to list the author(s), title, name and location (if provided) of the conference and use any standard abbreviations where necessary. For further details, refer to the **Conferences and Conference Proceedings** section of the [IEEE Reference Guide (2020)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Reference-Guide.pdf) p. 5.
+When citing conference proceedings, the common rule is to list the author(s), title, name and location (if provided) of the conference and use any standard abbreviations where necessary. For further details, refer to the **Conferences and Conference Proceedings** section of the [IEEE Reference Guide (2021)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) p. 5.
 
 #### Publisher abbreviations
 
-For a list of some publisher abbreviations refer to the **List of Publishers** section of the [IEEE Reference Guide (2020)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Reference-Guide.pdf) pp. 24–39.
+For a list of some publisher abbreviations refer to the **List of Publishers** section of the [IEEE Reference Guide (2021)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) pp. 24–39.
 
 #### Acronyms in-text
 
@@ -510,7 +515,7 @@ When citing books make sure to include the following information where available
 
 Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
 
-> {.ieee-refs}[2] &nbsp;&nbsp; G. Radulov, P. Quinn, H. Hegt, and A. van Roermund, *Smart and Flexible Digital-to-Analog Converters*. Dordrecht, The Netherlands: Springer, 2011. {/.ieee.refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; G. Radulov, P. Quinn, H. Hegt, and A. van Roermund, *Smart and Flexible Digital-to-Analog Converters*. Dordrecht, The Netherlands: Springer, 2011. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1327,7 +1332,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing reports from a print source with an corporate author make sure to include the following information where available:
+When citing reports from a print source with a corporate author make sure to include the following information where available:
 
 Organisation/company name, "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if available), Month Day (if available), Year of Publication.
 
@@ -1399,7 +1404,7 @@ When citing reports from an online source with a corporate author make sure to i
 
 Organisation/company name, "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report number/Type, Month Day (if available), Year of Publication. [Online]. Available: name of database or site/path/file
 
-> {.ieee-refs}[6] &nbsp;&nbsp; State of Victoria (Department of Treasury and Finance), “Victorian state of engineering 2018,” Victoria State Government, Melbourne, Australia, 2018. [Online]. Available: http<nolink>://www.opv.vic.gov.au/Office-of-Victorian-Chief-Engineer/The-State-of-Engineering {/.ieee-refs}
+> {.ieee-refs}[6] &nbsp;&nbsp; State of Victoria (Department of Treasury and Finance), “Victorian state of engineering 2018,” Victoria State Government, Melbourne, Australia, 2018. [Online]. Available: http<nolink>://nla.gov.au/nla.obj-1562872137/view {/.ieee-refs}
 
 
 
@@ -1482,7 +1487,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing webpages with a corporate author make sure to include the following information where available:
 
-> Organisation/company name. "Title of Webpage." Title of Website (if available). URL (accessed Month Day, Year).
+Organisation/company name. "Title of Webpage." Title of Website (if available). URL (accessed Month Day, Year).
 
 > {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017). {/.ieee-refs}
 
@@ -1685,9 +1690,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a dataset with a DOI make sure to include the following information where available:
 
-Author(s) initials. Family name(s), *Title of dataset*, vol. (volume number, if applicable), Publisher, Month Day, Year, doi:.
+Author(s) initials. Family name(s), *Title of dataset*, *vol*. (volume number, if applicable), Publisher, Month Day, Year, doi:.
 
-> {.ieee-refs}[9] &nbsp;&nbsp; Y. Ren *et al*. *Microstructures of cold-sprayed titanium before and after heat treatment*, vol. 7, CSIRO Data Collection, 2017, doi:https<nolink>://doi.org/10.4225/08/5913e0247881b. {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; Y. Ren *et al*. *Microstructures of cold-sprayed titanium before and after heat treatment*, *vol. 7*, CSIRO Data Collection, 2017, doi:https<nolink>://doi.org/10.4225/08/5913e0247881b. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1721,7 +1726,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a dataset with a URL make sure to include the following information where available:
 
-Author(s) initials. Family name(s), *Title of dataset*, vol. (volume number, if applicable), Publisher, Month Day, Year. [Online]. Available: site/path/file
+Author(s) initials. Family name(s), *Title of dataset*, *vol.* (volume number, if applicable), Publisher, Month Day, Year. [Online]. Available: site/path/file
 
 > {.ieee-refs}[9] &nbsp;&nbsp; D. Gore, *The hydraulic behaviour of permeable reactive barrier materials under freeze-thaw conditions*, Australian Antarctic Data Centre, 2005. [Online]. Available: http<nolink>://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=ASAC_2576 {/.ieee-refs}
 
@@ -1873,7 +1878,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 *Note: Page numbers are NOT required for this format type.*
 
-The standard "elaborates on the service access points, serv> ice primitives, as well as generic procedures used to realize this information exchange" [9].
+> The standard "elaborates on the service access points, serv> ice primitives, as well as generic procedures used to realize this information exchange" [9].
 
 #### Reference list
 
@@ -1881,7 +1886,7 @@ When citing a standard make sure to include the following information where avai
 
 *Title of Standard*, Standard Number, Publisher (if applicable), Year. [Online]. Available: site/path/file
 
-> {.ieee-refs}[9] &nbsp;&nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: http<nolink>://www.saiglobal/ieee2743287647644 {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: https<nolink>://ieeexplore.ieee.org/document/5756728 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1915,7 +1920,7 @@ When citing a thesis make sure to include the following information where availa
 
 Author(s) initials. Family name(s), "Title of thesis," Type of thesis (Ph.D. dissertation or M.S. thesis), abbrev. Department, abbrev. University, Place of Publication City, abbrev. US State (if applicable), Country, Year of Publication. [Online]. Available: site/path/file
 
->? {.ieee-refs}[9] &nbsp;&nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: http<nolink>://researchbank.rmit.edu.au/eserv/rmit:161152/Al_Saidi.pdf {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: http<nolink>://researchrepository.rmit.edu.au/esploro/outputs/doctoral/A-model-formulation-approach-for-system/9921863821301341?institution=61RMIT_INST {/.ieee-refs}
 
 ###### end-subtype-content
 

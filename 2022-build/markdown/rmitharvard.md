@@ -10,7 +10,7 @@
 ###### start-style-menu
 # RMIT Harvard
 # AGLC4
-# APA 7th ed.
+# APA 7<sup>th</sup> ed.
 # Chicago A
 # Chicago B
 # IEEE
@@ -1391,7 +1391,6 @@ In your reference list:
 
 <!-- first accordion item -->
 ###### start-subtype-content
-
 
 #### In-text reference: Direct quotes
 

@@ -10,7 +10,7 @@
 ###### start-style-menu
 # RMIT Harvard
 # AGLC4
-# APA 7th ed.
+# APA 7<sup>th</sup> ed.
 # Chicago A
 # Chicago B
 # IEEE
@@ -22,7 +22,7 @@
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
-## Using APA 7th ed.
+## Using APA 7<sup>th</sup> ed.
 ## Books
 ## Journal articles
 ## Newspaper articles
@@ -46,7 +46,7 @@
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to the APA 7th ed. referencing style
+### Introduction to the APA 7<sup>th</sup> ed. referencing style
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -54,7 +54,7 @@
 **Important**: This is a guide only. To avoid losing marks:
 
 - Confirm the referencing requirements of your school with your lecturer, and
-Use the [American Psychological Association. (2020). Publication manual of the American Psychological Association (7th ed.)](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341). to clarify referencing rules or if you need more examples. This guide is based on this publication.
+Use the [American Psychological Association. (2020). Publication manual of the American Psychological Association (7<sup>th</sup> ed.)](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341). to clarify referencing rules or if you need more examples. This guide is based on this publication.
 APA is an **author-date** referencing style. You need to follow this style when acknowledging your information sources.
 
 - APA style requires that all references in a document are to be cited in-text, and that all in-text citations are compiled in a reference list at the end of the document. **In-text citations** appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable). The **reference list** must provide full details of all in-text citations, and be arranged alphabetically by author.
@@ -74,7 +74,7 @@ APA is an **author-date** referencing style. You need to follow this style when 
 
 - When a work has two authors, always cite both family names every time the reference occurs in the text.
 
-- When a work has three or more authors, cite only the family name of the first author followed by et al. and the year of publication.
+- When a work has three or more authors, cite only the family name of the first author followed by **et al.** and the year of publication.
 
 - When using exact words that an author has used, you must enclose these in double quotation marks “ ” and supply an in-text citation, including page number(s).
 
@@ -178,9 +178,9 @@ Identify works by the same author(s) in the same year by the suffixes a, b, c, e
 
 References by the same author(s) with the same publication year are arranged alphabetically by the title (excluding A or The) that follows the date.
 
-> Dean, E. (2017a). Practice nursing: An action plan for a disparate workforce. *Nursing Standard*, 32(3), 25. https<nolink>://doi.org/10.7748/ns.32.3.25.s24
+> Dean, E. (2017a). Practice nursing: An action plan for a disparate workforce. *Nursing Standard*, *32*(3), 25. https<nolink>://doi.org/10.7748/ns.32.3.25.s24
 
-> Dean, E. (2017b). Top nursing universities fall short in new ratings. *Nursing Standard*, 31(44), 9. https<nolink>://doi.org/10.7748/ns.31.44.9.s8
+> Dean, E. (2017b). Top nursing universities fall short in new ratings. *Nursing Standard*, *31*(44), 9. https<nolink>://doi.org/10.7748/ns.31.44.9.s8
 
 &nbsp;
 #### Lead authors are the same in the same year
@@ -197,9 +197,9 @@ If there are more than 3 authors and the lead author(s) are the same, but there 
 
 The reference list would include all authors.
 
-> Arnaiz, M., Cochrane, T., Calizaya, A., & Shrestha, M. (2018). A framework for evaluating the current level of success of micro-hydropower schemes in remote communities of developing countries. *Energy for Sustainable Development*, 44, 55-63. https<nolink>://doi.org/10.1016/j.esd.2018.03.002
+> Arnaiz, M., Cochrane, T., Calizaya, A., & Shrestha, M. (2018). A framework for evaluating the current level of success of micro-hydropower schemes in remote communities of developing countries. *Energy for Sustainable Development*, *44*, 55-63. https<nolink>://doi.org/10.1016/j.esd.2018.03.002
 
-> Arnaiz, M., Cochrane, T., Hastie, R., & Bellen, C. (2018). Micro-hydropower impact on communities' livelihood analysed with the capability approach. *Energy for Sustainable Development*, 45, 206-210. https<nolink>://doi.org/10.1016/j.esd.2018.07.003
+> Arnaiz, M., Cochrane, T., Hastie, R., & Bellen, C. (2018). Micro-hydropower impact on communities' livelihood analysed with the capability approach. *Energy for Sustainable Development*, *45*, 206-210. https<nolink>://doi.org/10.1016/j.esd.2018.07.003
 
 ###### end-subtype-content
 
@@ -316,7 +316,7 @@ For example, if you read an article written by Hosany and Martin and they cite i
 
 In the reference list, you need to include the citation information for the Hosany and Martin article as that is where the Heath and Scott information was sourced:
 
-> {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, 65(5), 685-691. https<nolink>://doi.org/10.1016/j.jbusres.2011.03.015{/.hanging-indent}
+> {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, *65*(5), 685-691. https<nolink>://doi.org/10.1016/j.jbusres.2011.03.015{/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -384,7 +384,7 @@ The recommended DOI format should appear in your reference list as:
 
 > https<nolink>://doi.org/xxxxxxxxxxxxxxx
 
-If no DOI is assigned, include the journal’s homepage URL instead.
+If no DOI is assigned, include the journal’s **homepage URL** instead.
 
 *Note: There is no full stop after the URL, and the hyperlink is removed.*
 
@@ -404,7 +404,7 @@ If no DOI is assigned, include the journal’s homepage URL instead.
 {.hanging-indent}
 Baird, J. (2016, November 4). There’s no such thing as ‘just a nurse’. *The Sydney Morning Herald*. https<nolink>://www.smh.com.au/opinion/why-we-need-to-listen-to-nurses-when-talking-about-health-20161103-gshfq1.html
 
-Destounis, S. V., Arieno, A. L., Morgan, R. C., Cavanaugh, D., Seifert, P. J., Murphy, P. F., & Somerville, P. A. (2014). Comparison of breast cancers diagnosed in screening patients in their 40s with and without family history of breast cancer in a community outpatient facility. *American Journal of Roentgenology*, 202(4), 928-932. https<nolink>://doi.org/10.2214/ajr.13.11194
+Destounis, S. V., Arieno, A. L., Morgan, R. C., Cavanaugh, D., Seifert, P. J., Murphy, P. F., & Somerville, P. A. (2014). Comparison of breast cancers diagnosed in screening patients in their 40s with and without family history of breast cancer in a community outpatient facility. *American Journal of Roentgenology*, *202*(4), 928-932. https<nolink>://doi.org/10.2214/ajr.13.11194
 
 Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: Advocacy goals*. http<nolink>://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/
 
@@ -479,7 +479,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Paraphrasing in-text
 
-When paraphrasing, use the ampersand symbol & between author family names only when they appear in brackets. Otherwise, just use and to separate author names in the body of the text.
+When paraphrasing, use the ampersand symbol **&** between author family names only when they appear in brackets. Otherwise, just use **and** to separate author names in the body of the text.
 
 > . . . and is vital in order to encode memories (Pastorino & Doyle-Portillo, 2016).
 
@@ -493,7 +493,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Reference list
 
-List both authors, and separate the names with an ampersand symbol &.
+List both authors, and separate the names with an ampersand symbol **&**.
 
 > Pastorino, E., & Doyle-Portillo, S. (2016). *What is psychology?: Foundations, applications and integration*. Cengage Learning.
 
@@ -510,7 +510,7 @@ List both authors, and separate the names with an ampersand symbol &.
 
 #### Paraphrasing in-text
 
-Use only the first listed author family name followed by et al. and year of publication.
+Use only the first listed author family name followed by **et al.** and year of publication.
 
 > . . . independent variables are controlled by the selector (Kraemer et al., 2016).
 
@@ -524,7 +524,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Reference list
 
-List all authors, placing an ampersand symbol & before the last name.
+List all authors, placing an ampersand symbol **&** before the last name.
 
 > Kraemer, W. J., Fleck, S. J., & Deschenes, M. R. (2016). *Exercise physiology: Integrating theory and application* (2nd ed.). Wolters Kluwer.
 
@@ -541,7 +541,7 @@ List all authors, placing an ampersand symbol & before the last name.
 
 #### Reference list
 
-Include the edition number followed by the abbreviation ed. in brackets after the book title. If the book is a first edition, or no edition is stated, do NOT include the edition number.
+Include the edition number followed by the abbreviation **ed.** in brackets after the book title. If the book is a first edition, or no edition is stated, do NOT include the edition number.
 
 > Mash, E. J., & Wolfe, D. A. (2013). *Abnormal child psychology* (5th ed.). Wadsworth.
 
@@ -695,7 +695,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 When including journal articles in the reference list, you must italicise the title of the Journal and volume number, and include the digital object identifier (DOI) at the end of the reference (if stated).
 
-> {.hanging-indent}Musiek, E. S. (2017). Circadian rhythms in AD pathogenesis: A critical appraisal. *Current Sleep Medicine Reports*, 3(2), 85-92. https<nolink>://doi.org/10.1007/s40675-017-0072-5{/.hanging-indent}
+> {.hanging-indent}Musiek, E. S. (2017). Circadian rhythms in AD pathogenesis: A critical appraisal. *Current Sleep Medicine Reports*, *3*(2), 85-92. https<nolink>://doi.org/10.1007/s40675-017-0072-5{/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -728,7 +728,7 @@ List both authors, and separate the names with an ampersand symbol &.
 
 When including journal articles in the reference list, you must italicise the title of the Journal and volume number, and include the **digital object identifier (DOI)** at the end of the reference (if stated).
 
-> {.hanging-indent}Felton, A., & Royal, J. (2015). Skills for nursing practice: Development of clinical skills in pre-registration nurse education. *Nurse Education in Practice*, 15(1), 38-43. https<nolink>://doi.org/10.1016/j.nepr.2014.11.009 {/.hanging-indent}
+> {.hanging-indent}Felton, A., & Royal, J. (2015). Skills for nursing practice: Development of clinical skills in pre-registration nurse education. *Nurse Education in Practice*, *15*(1), 38-43. https<nolink>://doi.org/10.1016/j.nepr.2014.11.009 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -761,7 +761,7 @@ List all authors (up to 20), placing an ampersand symbol & before the last name.
 
 When including journal articles in the reference list, you must italicise the title of the Journal and volume number, and include the digital object identifier (DOI) at the end of the reference (if stated).
 
-> {.hanging-indent}Demacheva, I., Ladouceur, M., Steinberg, E., Pogossova, G., & Raz, A. (2012). The applied cognitive psychology of attention: A step closer to understanding magic tricks. *Applied Cognitive Psychology*, 26, 541-549. https<nolink>://doi.org/10.1002/acp.2825 {/.hanging-indent}
+> {.hanging-indent}Demacheva, I., Ladouceur, M., Steinberg, E., Pogossova, G., & Raz, A. (2012). The applied cognitive psychology of attention: A step closer to understanding magic tricks. *Applied Cognitive Psychology*, *26*, 541-549. https<nolink>://doi.org/10.1002/acp.2825 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -790,7 +790,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 List the first 19 authors followed by three ellipsis points (. . .) then the last author.
 
-> {.hanging-indent}Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., . . . Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. Bulletin of the American Meteorological Society, 77(3), 437-472. https<nolink>://doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2 {/.hanging-indent}
+> {.hanging-indent}Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., . . . Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. *Bulletin of the American Meteorological Society*, *77*(3), 437-472. https<nolink>://doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -821,7 +821,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 If citing a journal article without a DOI, include the volume, issue number (if available), and page number(s).
 
-> {.hanging-indent}Walker, B., & Buchbinder, R. (1997). Most commonly used methods of detecting spinal subluxation and the preferred term for its description: A survey of chiropractors in Victoria, Australia. *Journal of Manipulative & Physiological Therapeutics*, 20(9), 583-589. {/.hanging-indent}
+> {.hanging-indent}Walker, B., & Buchbinder, R. (1997). Most commonly used methods of detecting spinal subluxation and the preferred term for its description: A survey of chiropractors in Victoria, Australia. *Journal of Manipulative & Physiological Therapeutics*, *20*(9), 583-589. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -866,7 +866,7 @@ Do NOT italicise the title of the article, only the title of the newspaper.
 
 Include the day, month and year, as well as the exact URL of the article.
 
-> {.hanging-indent}Evans, K. (2015, January 5). Aspirin study raises hopes for dementia prevention. The Age. http<nolink>://search.proquest.com/docview/1641732086?accountid=13552 {/.hanging-indent}
+> {.hanging-indent}Evans, K. (2015, January 5). Aspirin study raises hopes for dementia prevention. *The Age*. http<nolink>://search.proquest.com/docview/1641732086?accountid=13552 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -899,7 +899,7 @@ Do NOT italicise the title of the article, only the title of the newspaper.
 
 Include the day, month and year of the article, as well as the URL.
 
-> {.hanging-indent}Baird, J. (2016, November 4). There’s no such thing as ‘just a nurse’. The Sydney Morning Herald. https<nolink>://www.smh.com.au/opinion/why-we-need-to-listen-to-nurses-when-talking-about-health-20161103-gshfq1.html {/.hanging-indent}
+> {.hanging-indent}Baird, J. (2016, November 4). There’s no such thing as ‘just a nurse’. *The Sydney Morning Herald*. https<nolink>://www.smh.com.au/opinion/why-we-need-to-listen-to-nurses-when-talking-about-health-20161103-gshfq1.html {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -934,7 +934,7 @@ Include the day, month and year of the article.
 
 If the article is spread across discontinuous pages, provide all page numbers separated by a comma e.g. 2, 4, 8-9.
 
-> {.hanging-indent}Parnell, S. (2016, November 16). Medicare freeze no check on GP visits. The Australian, 1, 5. {/.hanging-indent}
+> {.hanging-indent}Parnell, S. (2016, November 16). Medicare freeze no check on GP visits. *The Australian*, 1, 5. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -979,7 +979,7 @@ It is necessary to also state the jurisdiction of the legislation, either in the
 
 Place direct quotes between double quotation marks " " and provide the title of the Act, year, jurisdiction and section number(s) (if applicable).
 
-> "A person receiving mental health services in a designated mental health service may be kept in seclusion if seclusion is necessary to prevent imminent and serious harm to the person or to another person" (Mental Health Act 2014 (Vic), s. 110).
+> "A person receiving mental health services in a designated mental health service may be kept in seclusion if seclusion is necessary to prevent imminent and serious harm to the person or to another person" (*Mental Health Act 2014* (Vic), s. 110).
 
 #### Reference list
 
@@ -987,11 +987,11 @@ The title of the legislation and year are to be italicised.
 
 Include the jurisdiction of the legislation in brackets e.g. (Cth) for Commonwealth, or the State abbreviation.
 
-If a specific section of the legislation is used, this can be highlighted by using an s. for section.
+If a specific section of the legislation is used, this can be highlighted by using an **s**. for section.
 
 If the legislation is obtained from an electronic source, add a retrieval statement to the reference.
 
-> {.hanging-indent}Mental Health Act 2014 (Vic) s. 115.1. http<nolink>://www.legislation.vic.gov.au/ {/.hanging-indent}
+> {.hanging-indent}*Mental Health Act 2014* (Vic) s. 115.1. http<nolink>://www.legislation.vic.gov.au/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1008,19 +1008,19 @@ If the legislation is obtained from an electronic source, add a retrieval statem
 
 #### Paraphrasing in-text
 
-When citing a Case in-text, it is necessary to include the title of the case in italics followed by the year in brackets. Alternatively, it is also acceptable to include all case details enclosed in brackets; italicise only the case title, followed by the year.
+When citing a **Case** in-text, it is necessary to include the title of the case in italics followed by the year in brackets. Alternatively, it is also acceptable to include all case details enclosed in brackets; italicise only the case title, followed by the year.
 
 *Note: Include the year with the first citation. The year can be dropped in subsequent citations.*
 
-> According to the case of Drew v Minister for Health and Ageing (2011) . . .
+> According to the case of *Drew v Minister for Health and Ageing* (2011) . . .
 
-> . . . (Drew v Minister for Health and Ageing, 2011).
+> . . . (*Drew v Minister for Health and Ageing*, 2011).
 
 #### Direct quote in-text
 
 Place direct quotes between double quotation marks " " and provide the title of the case, year, page number, section heading (if applicable) and paragraph number.
 
-> "The Tribunal lacks the jurisdiction to consider the decisions made by the Secretary in relation to the drug Clozapine" (Drew v Minister for Health and Ageing, 2011, Held section, para. 5).
+> "The Tribunal lacks the jurisdiction to consider the decisions made by the Secretary in relation to the drug Clozapine" (*Drew v Minister for Health and Ageing*, 2011, Held section, para. 5).
 
 #### Reference list
 
@@ -1028,7 +1028,7 @@ For court decisions the elements to include are: title of the case in italics, y
 
 If a case is obtained from an electronic database, add a retrieval statement.
 
-> {.hanging-indent}Drew v Minister for Health and Ageing (2011) 56 AAR 227. http<nolink>://www.westlaw.com.au/maf/wlau/app/document?docguid=I49472f517b6911e18eefa443f89988a0 {.hanging-indent}
+> {.hanging-indent}*Drew v Minister for Health and Ageing* (2011) 56 AAR 227. http<nolink>://www.westlaw.com.au/maf/wlau/app/document?docguid=I49472f517b6911e18eefa443f89988a0 {.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1077,7 +1077,7 @@ Italicise the podcast title and describe the form type inside square brackets e.
 
 Provide the exact URL.
 
-> {.hanging-indent}Swannell, C. (Host). (2019, November 25). The effect of codeine rescheduling, with Dr Keith Harris [Audio podcast]. https<nolink>://staging.mja.com.au/podcast/211/11/mja-podcasts-2019-episode-51-effect-codeine-rescheduling-dr-keith-harris {/.hanging-indent}
+> {.hanging-indent}Swannell, C. (Host). (2019, November 25). *The effect of codeine rescheduling, with Dr Keith Harris* [Audio podcast]. https<nolink>://staging.mja.com.au/podcast/211/11/mja-podcasts-2019-episode-51-effect-codeine-rescheduling-dr-keith-harris {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1114,7 +1114,7 @@ Italicise the podcast title and describe the form type inside square brackets e.
 
 Provide the exact URL.
 
-> {.hanging-indent}Taylor, A. (Host). (2016, August 30). Gene editing made simple [Video podcast]. https<nolink>://www.abc.net.au/catalyst/gene-editing-made-simple/11016800 {/.hanging-indent}
+> {.hanging-indent}Taylor, A. (Host). (2016, August 30). *Gene editing made simple* [Video podcast]. https<nolink>://www.abc.net.au/catalyst/gene-editing-made-simple/11016800 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1147,7 +1147,7 @@ Include the video title in italics and describe the form type inside square brac
 
 Provide the URL login page.
 
-> {.hanging-indent}Informit EduTV. (2016, May 31). Revolution school: Ep. 1 of 4 [Video]. http<nolink>://edutv.informit.com.au {/.hanging-indent}
+> {.hanging-indent}Informit EduTV. (2016, May 31). *Revolution school: Ep. 1 of 4* [Video]. http<nolink>://edutv.informit.com.au {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1180,7 +1180,7 @@ Include the video title in italics and describe the form type inside square brac
 
 Provide the exact URL in the retrieval statement.
 
-> {.hanging-indent}Primal Pictures. (2014, September 19). Primal’s 3D atlas of human anatomy [Video]. YouTube. https<nolink>://youtu.be/g-BtsX3bGvs {/.hanging-indent}
+> {.hanging-indent}Primal Pictures. (2014, September 19). *Primal’s 3D atlas of human anatomy* [Video]. YouTube. https<nolink>://youtu.be/g-BtsX3bGvs {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1225,7 +1225,7 @@ If citing information taken directly from a webpage include author(s) if applica
 
 If no year is stated then use n.d. for no date.
 
-> {.hanging-indent}Early Childhood Australia. (2016). Early Childhood Australia’s advocacy: Advocacy goals. http<nolink>://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/ {/.hanging-indent}
+> {.hanging-indent}Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: Advocacy goals.* http<nolink>://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1260,7 +1260,7 @@ If citing information taken directly from a webpage document include author(s) i
 
 If no year is stated then use n.d. for no date.
 
-> {.hanging-indent}World Health Organization. (2016). WHO guideline on the use of safety-engineered syringes for intramuscular, intradermal and subcutaneous injections in health-care settings. http<nolink>://apps.who.int/iris/bitstream/10665/250144/1/9789241549820-eng.pdf {/.hanging-indent}
+> {.hanging-indent}World Health Organization. (2016). *WHO guideline on the use of safety-engineered syringes for intramuscular, intradermal and subcutaneous injections in health-care settings.* http<nolink>://apps.who.int/iris/bitstream/10665/250144/1/9789241549820-eng.pdf {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1291,7 +1291,7 @@ Place direct quotes between double quotation marks " " and provide the author an
 
 If citing information taken directly from a Facebook post include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year, month and day in brackets, include the first 20 words of the post as the title in italics, if the post contains an image or video include it in square brackets, describe the form type in square brackets e.g. [Status update], include Facebook as the source and provide a URL to the post.
 
-> {.hanging-indent}Australian Nursing and Midwifery Federation. (2020, November 28). Workplace mental health hazards injure thousands of workers each year, just like physical hazards but they often fly under the [Image attached] [Status update]. Facebook. https<nolink>://www.facebook.com/AustralianNursingandMidwiferyFederation/photos/a.136188899856341/1935273223281224/ {/.hanging-indent}
+> {.hanging-indent}Australian Nursing and Midwifery Federation. (2020, November 28). *Workplace mental health hazards injure thousands of workers each year, just like physical hazards but they often fly under the* [Image attached] [Status update]. Facebook. https<nolink>://www.facebook.com/AustralianNursingandMidwiferyFederation/photos/a.136188899856341/1935273223281224/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1322,7 +1322,7 @@ Place direct quotes between double quotation marks " " and provide the author an
 
 If citing information taken directly from a tweet include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the Twitter handle in square brackets, include the year, month and day in brackets, followed by the first 20 words of the tweet as the title and hashtag(s) in italics, if the post contains an image or video include it in square brackets, describe the form type in square brackets e.g. [Tweet], include Twitter as the source and provide a URL to the tweet.
 
-> {.hanging-indent}Obama, B. [@BarackObama]. (2016, May 18). It's time for Senate leaders to put politics aside and fill the Supreme Court vacancy #DoYourJob [Image attached] [Tweet]. Twitter. https<nolink>://twitter.com/BarackObama/status/732589315478290432 {/.hanging-indent}
+> {.hanging-indent}Obama, B. [@BarackObama]. (2016, May 18). *It's time for Senate leaders to put politics aside and fill the Supreme Court vacancy #DoYourJob* [Image attached] [Tweet]. Twitter. https<nolink>://twitter.com/BarackObama/status/732589315478290432 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1353,7 +1353,7 @@ Place direct quotes between double quotation marks " " and provide the paragraph
 
 If referencing a blog post include the following: the author(s) name, year of publication, month, day, title of blog post, blog title (italicised) and a retrieval statement in the form of a URL.
 
-> {.hanging-indent}Bratianu, P. (2015, June 10). Why workplace stress impacts nurses. Ausmed. https<nolink>://www.ausmed.com/articles/stress-in-nursing/ {/.hanging-indent}
+> {.hanging-indent}Bratianu, P. (2015, June 10). *Why workplace stress impacts nurses. Ausmed*. https<nolink>://www.ausmed.com/articles/stress-in-nursing/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1648,7 +1648,7 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 
 The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
 
-> West, L. (2012). MRI. Flickr. https<nolink>://www.flickr.com/photos/calliope/7694882446
+> West, L. (2012). *MRI*. Flickr. https<nolink>://www.flickr.com/photos/calliope/7694882446
 
 **Copyright information for the MRI image**
 
@@ -1808,11 +1808,11 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Reference list
 
-For a thesis sourced from an institutional repository, use the following format: author, year of publication in brackets, title in italics, identify the type of work and institution in square brackets e.g. [Doctoral dissertation, RMIT University] or [Master's thesis, RMIT University], repository/archive/database name and include a retrieval statement in the form of a URL.
+For a thesis sourced from an **institutional repository**, use the following format: author, year of publication in brackets, title in italics, identify the type of work and institution in square brackets e.g. [Doctoral dissertation, RMIT University] or [Master's thesis, RMIT University], repository/archive/database name and include a retrieval statement in the form of a URL.
 
 > {.hanging-indent}Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance* [Doctoral dissertation, RMIT University]. RMIT Research Repository. http<nolink>://researchbank.rmit.edu.au/view/rmit:161444 {/.hanging-indent}
 
-For a thesis sourced from a library database include the following information: author, year of publication in brackets, title in italics, accession or order number in brackets, type of work and institution in square brackets, and the name of the database.
+For a thesis sourced from a **library database** include the following information: author, year of publication in brackets, title in italics, accession or order number in brackets, type of work and institution in square brackets, and the name of the database.
 
 > {.hanging-indent}Sutherland, A. M. (2016). *Technology for single cell protein analysis in immunology and cancer prognostics* (Order No. 3738948) [Doctoral dissertation, California Institute of Technology]. ProQuest Dissertations and Theses Global. {/.hanging-indent}
 
@@ -1897,7 +1897,7 @@ The reference list citation should include: the author(s) name, year of publicat
 
 ###### start-subtype-content
 
-Only include a full reference to lecture notes or class materials that are behind a login screen (such as Canvas) if you are writing for an audience that will be able to retrieve them. Otherwise, cite it as a personal communication.
+Only include a full reference to lecture notes or class materials that are behind a login screen (such as Canvas) if you are writing for an audience that will be able to retrieve them. Otherwise, cite it as a **personal communication**.
 
 Examples of course materials are:
 
@@ -2005,7 +2005,7 @@ Note: Check first with your lecturer, or teacher, if it is permissible to cite y
 
 Remember that when submitting work, you will be asked to agree to the [Assessment Declaration](https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration).
 
-The Publication manual of the American Psychological Association does not provide information on how to cite your own work. The following is based on how to cite dissertations and theses.
+The *Publication manual of the American Psychological Association* does not provide information on how to cite your own work. The following is based on how to cite dissertations and theses.
 
 If you cite or quote your previous work, treat yourself as the author and your own previous course work as an unpublished paper.
 

@@ -10,7 +10,7 @@
 ###### start-style-menu
 # RMIT Harvard
 # AGLC4
-# APA 7th ed.
+# APA 7<sup>th</sup> ed.
 # Chicago A
 # Chicago B
 # IEEE
@@ -55,7 +55,7 @@ Important: This is a guide only. To avoid losing marks:
 
 -	The Australian Guide to Legal Citation (AGLC) 4th ed, 2018 is a required referencing style for students enrolled in the Juris Doctor program at RMIT University.
 
--	Use [*Australian Guide to Legal Citation* (4th ed, 2018)](https://law.unimelb.edu.au/mulr/aglc), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
+-	Use [*Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018)](https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
 
 ###### end-subtype-content
@@ -104,7 +104,7 @@ A pinpoint reference within a footnote directs the reader to a particular place 
 
 -	A pinpoint reference is provided at the end of the footnote.
 
-See section 3.1.4 of the [AGLC4](http://law.unimelb.edu.au/mulr/aglc)  for a full list of abbreviations used in pinpoint references for legislative materials.
+See section 3.1.4 of the [AGLC4](https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf)  for a full list of abbreviations used in pinpoint references for legislative materials.
 
 #### Repeat citations
 
@@ -187,7 +187,7 @@ Note that details provided in the bibliography are almost identical to details p
 
 {.centre-align} A *Articles/Books* {/.centre-align}
 
-Bodkin, Colin, *Patent Law in Australia* (Thomson Reuters, 2nd ed, 2014)
+Bodkin, Colin, *Patent Law in Australia* (Thomson Reuters, 2<sup>nd</sup> ed, 2014)
 
 Meagher, Dan, ‘Digital Sampling/Remix Culture Forum’ (2012) 17(2) *Deakin Law Review* 307
 
@@ -205,30 +205,13 @@ Meagher, Dan, ‘Digital Sampling/Remix Culture Forum’ (2012) 17(2) *Deakin La
 
 {.centre-align}D *Other*{/.centre-align}
 
-Board of Examiners, *Admission Requirements* (18 February 2010) [Council of Legal Information](http://www.lawadmissions.vic.gov.au)
+Board of Examiners, *Admission Requirements* (18 February 2010) Council of Legal Information <http<nolink>://www.lawadmissions.vic.gov.au\>
 
 ###### end-subtype-content
 
 ###### end-subtype-item
 
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### How to videos
 
-###### start-subtype-content
-
-Refer to Swinburne University video clips:
-
--	[‘AGLC3 referencing style - Get started’](https://commons.swinburne.edu.au/items/39409a7d-043f-4372-a43f-59841e3e0db3/1/) provides an introduction to legal citation using the Australian Guide to Legal Citation (AGLC3).
-
--	[‘AGLC3 referencing style - Footnotes’](https://commons.swinburne.edu.au/items/67b565d3-b5d9-4976-ac93-f40f0e216644/1/) explains more about Footnotes in the Australian Guide to Legal Citation (AGLC3).
-
-Note: These videos are intended as guides only (they demonstrate the AGLC3 referencing style, which has now been superseded by AGLC4).
-
-
-###### end-subtype-content
-
-###### end-subtype-item
 
 ###### end-subtype
 
@@ -492,7 +475,7 @@ These rules apply when referencing both printed books and e-books.
 
 - A brief version of the publisher’s name should appear in parenthesis followed by publication year.
 
-- Where there are multiple editions of a book an edition number should be included after the publisher’s name (i.e. 3rd).
+- Where there are multiple editions of a book an edition number should be included after the publisher’s name (i.e. 3<sup>rd</sup>).
 
 &nbsp;
 
@@ -514,7 +497,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 **Use of edition number**
 
-> Colin Bodkin, *Patent Law in Australia* (Thomson Reuters, 2nd ed, 2014)
+> Colin Bodkin, *Patent Law in Australia* (Thomson Reuters, 2<sup>nd</sup> ed, 2014)
 
 **Corporate author**
 
@@ -535,7 +518,7 @@ These rules apply when referencing both printed books and e-books.
 
 | Author | Title | Publication details |
 | ------ | ------ | ------ |
-| Geoffrey A. Manne and Joshua D Wright, | Competition Policy and Patent Law under Un­certainty Regulating Innovation | (Cambridge University Press, 2011) |
+| Geoffrey A Manne and Joshua D Wright, | Competition Policy and Patent Law under Un­certainty Regulating Innovation | (Cambridge University Press, 2011) |
 
 - Where there are two or three authors, the names of all authors should be included and the word 'and' should separate the names of the last two authors.
 
@@ -551,7 +534,7 @@ These rules apply when referencing both printed books and e-books.
 
 **Book with three authors**
 
-> <sup>1</sup> Damien J Cremean, Michael H Whitten and Michael F. Sharkey, *Brooking on building contracts: the law and practice relating to building and engineering agreements* (LexisNexis Butterworths, 5th ed, 2014).
+> <sup>1</sup> Damien J Cremean, Michael H Whitten and Michael F Sharkey, *Brooking on building contracts: the law and practice relating to building and engineering agreements* (LexisNexis Butterworths, 5<sup>th</sup> ed, 2014).
 
 **Book with four or more authors**
 
@@ -580,11 +563,11 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 These rules apply when referencing both printed books and e-books.
 
-| Author | Chapter title | in Author | Title Details |
-| ------ | ------ | ------ | ------ |
+| Author | Chapter title | in Author | Title | Details |
+| ------ | ------ | ------ | ------ | ------ |
 | William Gough, | 'Securities over Debts' | in Gregory Burton (ed), | Directions in Finance Law | (Butterworths, 1990) |
 
-When citing chapters in a book list the author and enclose the title of the chapter in single inverted commas - do not italicise the title.
+When citing chapters in a book list the author and enclose the title of the chapter in single inverted commas - do **not** italicise the title.
 
 Details of the book follow the same conventions for books with a single or multiple authors.
 
@@ -663,7 +646,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 - The number of the first page of an article should follow the title of the journal. No punctuation should separate the starting page from the title.
 
-- Do not use abbreviations for titles (use 'Australian Law Review' not ALR).
+- Do **not** use abbreviations for titles (use 'Australian Law Review' not ALR).
 
 - Articles from electronic journals should only be cited where a printed edition does not exist.
 
@@ -938,7 +921,7 @@ Note: Check first with your lecturer, or teacher, if it is permissible to cite y
 
 Remember that when submitting work, you will be asked to agree to the [Assessment Declaration](https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration).
 
-The publication, *Australian Guide to Legal Citation* (4th ed, 2018) does not provide guidelines on how to cite your own work. The following examples show how to cite your own work that you have previously submitted for assessment.
+The publication, *Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018) does not provide guidelines on how to cite your own work. The following examples show how to cite your own work that you have previously submitted for assessment.
 
 If you cite or quote your own previous work, treat yourself as the author and the title of your previous assessment as an unpublished paper.
 
