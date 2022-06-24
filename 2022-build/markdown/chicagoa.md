@@ -237,7 +237,7 @@ Wikipedia. "Wikipedia: List of Controversial Issues." Wikipedia, last modified A
 
 ###### start-subtype-item
 
-### General rules for multiple authors
+### General rules for multiple authors - Notes
 
 ###### start-subtype-content
 
@@ -264,7 +264,7 @@ In the note, cite only the name of the first-listed author followed by et al. Au
 
 ###### start-subtype-item
 
-### General rules for multiple authors - bibliography
+### General rules for multiple authors - Bibliography
 
 ###### start-subtype-content
 
@@ -320,7 +320,7 @@ Both the original and the secondary source must be listed in the note and biblio
 
 Refer to original source
 
-> {.footnote-indent}2. Sukofsky, "Sincerity and Objectification", 269 {/.footnote-indent}
+> {.footnote-indent}2. Zukofsky, "Sincerity and Objectification", 269 {/.footnote-indent}
 
 #### Bibliography rule
 
@@ -368,7 +368,7 @@ Refer to original source
 
 > {.footnote-indent}4. Patt, *How to Architect,* 35. {/.footnote-indent}
 > {.footnote-indent}5. Oranje and Taşan-Kok,*Student to Urban Planner,* 78.{/.footnote-indent}
-> {.footnote-indent}6. Enwezor et al.,*Antinomies of Art and Culture,* 312. {/.footnote-indent}
+> {.footnote-indent}6. Enwezor et al., *Antinomies of Art and Culture,* 312. {/.footnote-indent}
 
 #### Bibliography rule;
 
@@ -615,7 +615,7 @@ If the publication does not list a personal name as author and it has been issue
 
 ##### Bibliography example
 
-> {.hanging-indent}Institute of Contemporary Arts. *Nought to 60: 60 Projects, 6 months.* London: Institute of Contemporary Art, 2009. {./hanging-indent}
+> {.hanging-indent}Institute of Contemporary Arts. *Nought to 60: 60 Projects, 6 months.* London: Institute of Contemporary Art, 2009. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -686,7 +686,7 @@ OR
 ##### Note examples
 
 > {.footnote-indent}1. Christine McCarthy, “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25, https<nolink>://doi.org/10.1177/1206331205275020. {/.footnote-indent}
-> {.footnote-indent}2. Dolores Hayden and Gwendolyn Wright, “Architecture and Urban Planning,” Signs: Journal of Women in Culture and Society 1, no (Summer, 1976): https<nolink>://doi.org/928,10.1086/493309, http<nolink>://www.jstor.org/stable/3173242. {/.footnote-indent}
+> {.footnote-indent}2. Dolores Hayden and Gwendolyn Wright, “Architecture and Urban Planning,” *Signs: Journal of Women in Culture and Society* 1, no (Summer, 1976): http<nolink>://www.jstor.org/stable/3173242. {/.footnote-indent}
 
 ##### Multiple author note examples
 
@@ -845,48 +845,53 @@ or if no author
 <!-- first accordion item -->
 ###### start-subtype-content
 
-Streamed video accessed from online platform including YouTube or library database.
+Videos (that are not movies or television series) streamed from online platforms e.g. YouTube, websites, or accessed via library database.
 
-Include an accessed date for any material.
+- Citations begin with the name of the creator. The creator will depend on the focus on your discussion and can include: user who uploaded the video, director, presenter, writer, or actor. Use channel names in full original order. For news broadcasts use the journalist or reporter’s name.
 
-If the video is a recording of a live event, performance, or speech, or if it is a digital version of a published source, include information about the original event or source.
+- Titles of videos hosted on online platforms are enclosed in quotation marks. Titles of programs or films are in italics.
+
+- Include additional information about the original event, location, source, or contributors after Title of Video if relevant to your discussion.
+
+- Include the name of the streaming platform, followed by 'video', and duration. Alternatively, just ‘video’ can be used. Duration is formatted as HH:MM:SS.
+
+- If including the name of a host website which is a newspaper, news broadcaster, or journal, format the name in italics.
+
+- Include an accessed date and URL at the end of the citation.
+
 
 #### Note rule
 
-{.footnote-indent}Note number. Full Name of the person primarily responsible for the content, their role, *Title of Video*, Date of publication, Name of the organisation hosting the media, format, duration, accessed date, URL. {/.footnote-indent}
+{.footnote-indent}Note number. Creator’s Full Name, “Title of Video,” Additional contributors. Additional information, Date of publication, video, duration, accessed date, URL. {/.footnote-indent}
 
 ##### Note examples
 
-> {.footnote-indent}1. “Grimes - Genesis,” directed by Claire Boucher, August 22, 2012, YouTube music video, 05:33, accessed July 4, 2021, https<nolink>://youtu.be/1FH-q0I1fJY. {/.footnote-indent}
-> {.footnote-indent}2. Brené Brown, presenter, “The Power of Vulnerability,” filmed January 4, 2011, in Houston TX, TED video, 20:49, accessed 4 July 2021, https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability. {/.footnote-indent}
-> {.footnote-indent}3. Raymond Joseph Teller, director, Tim's Vermeer (Movie 2013), Informit EduTV, video, 01:16:27, accessed 4 July 2021, https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/edutv.1713738. {/.footnote-indent}
-> {.footnote-indent}4. Eric Bricker, director, Visual Acoustics: The Modernism of Julius Shulman (Shulman Project Partners, 2009), Kanopy, video, 1:23:00, accessed 4 July 2021, https<nolink>://www.kanopy.com/product/visual-acoustics. {/.footnote-indent}
+> {.footnote-indent}1. Never Too Small, “Never Too Small 1970’s Melbourne Tiny Apartment – 35sqm/370sqft,” July 31, 2018, YouTube video, 3:06, accessed July 4, 2021, https<Nolink>://youtu.be/l3yHLikvjPU. {/.footnote-indent}
+> {.footnote-indent}2. Brené Brown, “The Power of Vulnerability,” filmed January 4, 2011 in Houston TX, TED video, 20:49, accessed 4 July 2021, https<nolink>://www.ted.com/talks/brene_brown_the_power_of_vulnerability. {/.footnote-indent}
+> {.footnote-indent}3. Simon Jack, “Why your fish and chips may cost a lot more,” filmed and edited by Samantha Everett, produced by Ollie Smith, BBC News: Business, aired March 17, 2022, video, 02:29, accessed March 21, 2022, https<nolink>://www.bbc.com/news/av/business-60762921. {/.footnote-indent}
+> {.footnote-indent}4. Thembi Soddell, “Love Songs,” featuring Vanessa Godden, Disclaimer, 2018, video, 39:48, accessed March 4, 2021, https<nolink>://disclaimer.org.au/contents/love-songs. {/.footnote-indent}
 
 #### Shortened note rule
 
-{.footnote-indent}Note Number. Family Name of Creator, Short Title of Video. {/.footnote-indent}
-
-OR
-
-{.footnote-indent}Note Number. Short Name of Creator, “Short Title of Content”. {/.footnote-indent}
+{.footnote-indent}Note Number. Creator’s Family Name, “Short Title of Video.” {/.footnote-indent}
 
 ##### Shortened note examples
 
-> {.footnote-indent}5. Grimes, “Genesis.” {/.footnote-indent}
+> {.footnote-indent}5. Never Too Small, “Melbourne.” {/.footnote-indent}
 > {.footnote-indent}6. Brown, “Power of Vulnerability.” {/.footnote-indent}
-> {.footnote-indent}7. Teller, Tim's Vermeer. {/.footnote-indent}
-> {.footnote-indent}8. Bricker, Visual Acoustics. {/.footnote-indent}
+> {.footnote-indent}7. Simon, ”Chips may cost.” {/.footnote-indent}
+> {.footnote-indent}8. Soddell, ”Love songs.” {/.footnote-indent}
 
 #### Bibliography rule
 
-{.hanging-indent}Family Name, Given Name of the person the person primarily responsible for the content, their role. *Title of content: Subtitle of content*. Year of publication of original media. Name of the organisation hosting the media. Format, duration. Accessed date. URL. {/.hanging-indent}
+{.hanging-indent}Creator’s Family Name, Given Name. “Title of Video.” Additional contributors. Additional information. Date of publication. video, duration. Accessed date. URL. {/.hanging-indent}
 
 ##### Bibliography examples
 
-> {.hanging-indent}Grimes. “Grimes – Genesis.” Directed by Claire Boucher. August 22, 2012. YouTube music video, 05:33. Accessed July 4 2021. https<nolink>://youtu.be/1FH-q0I1fJY. {/.hanging-indent}
-> {.hanging-indent}Brown, Brené. “The Power of Vulnerability.” Filmed June 2010. In Houston, TX. TED video. 20:49. Accessed July 4 2021. https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability. {/.hanging-indent}
-> {.hanging-indent}Teller, Raymond Joseph, Dir. *Tim's Vermeer (Movie 2013)*. 2013. EduTV. video. 01:16:27. Accessed July 4 2021. https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/edutv.1713738. {/.hanging-indent}
-> {.hanging-indent}Bricker, Eric, Dir. *Visual Acoustics: The Modernism of Julius Shulman*. Shulman Project Partners. 2009. Kanopy, video. 1:23:00. Accessed July 4 2021. https<nolink>://www.kanopy.com/product/visual-acoustics. {/.hanging-indent}
+> {.hanging-indent}Brown, Brené. “The Power of Vulnerability.” Filmed June 2010 in Houston, TX. TED video. 20:49. Accessed July 4, 2021. https<nolink>://www.ted.com/talks/brene_brown_the_power_of_vulnerability.  {/.hanging-indent}
+> {.hanging-indent}Jack, Simon. “Why your fish and chips may cost a lot more.” Filmed and edited by Samantha Everett. Produced by Ollie Smith. BBC News: Business. Aired March 17, 2022. Video, 02:29. Accessed March 21, 2022. https<nolink>://www.bbc.com/news/av/business-60762921. {/.hanging-indent}
+> {.hanging-indent}Never Too Small. “Never Too Small 1970’s Melbourne Tiny Apartment – 35sqm/370sqft.” July 31, 2018. YouTube video, 3:06. Accessed July 4, 2021. https<nolink>://youtu.be/l3yHLikvjPU. {/.hanging-indent}
+> {.hanging-indent}Soddell, Thembi. “Love Songs.” Featuring Vanessa Godden. Disclaimer. 2018. Video, 39:48. Accessed July 4, 2021. https<nolink>://disclaimer.org.au/contents/love-songs. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -895,58 +900,69 @@ OR
 
 ###### start-subtype-item
 
-### DVD/VHS
+### Film
 
 ###### start-subtype-content
 
-Film and Video recordings accessed via DVD, Blu-Ray, VHS, Film or other physical medium.
+Video recordings of films, movies, or documentaries accessed on DVD or other physical medium, or streamed online.
 
-- Citations can either begin with the Name of the Person primarily responsible for the content (Director, Producer, Creator, Actor etc. depending on the focus of your discussion) or the *Title of Production*.
+- Notes begin with the Title of the Film in italics. Bibliography entries begin with the name of the director. 
 
-- If citing a section of larger work, such as a scene or chapter, the section titles are enclosed in quotation marks, and the larger work in Italics.
+- If citing a section of larger work, such as a scene or chapter, begin the note with the section titles enclosed in quotation marks.
 
-- Citations may include original release date of film or aired date of program.
+- Roles can be abbreviated e.g. dir. for director, and prod. for producer.
+
+- Include the original year of release. If unknown use the year of distribution or copyright.
+
+- For films sourced on DVD/ VHS include place of publication, studio/distributor, (and year of publication if different from original release date) followed by medium at the end of the citation.
+
+- For films streamed online include the duration, an accessed date, and URL/ name of the streaming service or library database at the end of the citation. Use the format ‘HH hr., MM min.’ for duration of movies viewed online.
+
 
 #### Note rule
 
-{.footnote-indent}Note number. Full Name of the Person Primarily Responsible for the Content, their role, *Title of Production* (Original year of release; Place of publication: Publisher’s Name, Year of publication), format. {/.footnote-indent}
+{.footnote-indent}Note number. *Title of Film*, directed by Directors Full Name (Original year of release; Place of publication: Publisher’s Name, Year of publication), format. {/.footnote-indent}
 
 OR
 
-{.footnote-indent}Note number. “Title of Scene,” *Title of Production*, directed or equivalent by Full Name of the Person Primarily Responsible for the content (Original year of release; Place of publication: Publisher’s Name, Year of publication), format. {/.footnote-indent}
+{.footnote-indent}*Title of Film*, directed by Director’s Full Name, (Publisher, Year of publication). Format accessed date. URL/streaming service/database. {/.footnote-indent}
 
 ##### Note examples
 
 > {.footnote-indent}1. *Blade Runner*, directed by Ridley Scott (1982; Burbank, CA: Warner Home Video, 2006), DVD. {/.footnote-indent}
-> {.footnote-indent}2. *La Dolce Vita*, “Fountain Scene", directed by Federico Fellini (1960; Australia: Umbrella Entertainment, 2005), DVD. {/.footnote-indent}
+> {.footnote-indent}2. “Fountain Scene", *La Dolce Vita*,  directed by Federico Fellini (1960; Australia: Umbrella Entertainment, 2005), DVD. {/.footnote-indent}
+> {.footnote-indent}3. *Tim’s Vermeer*, directed by Raymond Joseph Teller, (Sony Pictures Classics, 2013), video, accessed 4 July 2021, Informit EduTV. {/.footnote-indent}
+> {.footnote-indent}4. *Visual Acoustics: The Modernism of Julius Shulman*, directed by Eric Bricker, (Shulman Project Partners, 2009), video, accessed 4 July 2021, Kanopy. {/.footnote-indent}
 
 #### Shortened note rule
 
-{.footnote-indent}Note Number. Family Name, Short Title of Production. {/.footnote-indent}
+{.footnote-indent}Note Number. Director’s Family Name, *Short Title of Film*.  {/.footnote-indent}
 
 OR
 
-{.footnote-indent}Note Number. Short Title of Production, "Short Title of Scene." {/.footnote-indent}
+{.footnote-indent}Note Number. “Short Title of Scene,” *Short Title of Film*.  {/.footnote-indent}
 
 ##### Shortened note examples
 
 > {.footnote-indent}3. Scott, *Blade Runner.* {/.footnote-indent}
-> {.footnote-indent}2. *La Dolce Vita, "Fountain Scene."* {/.footnote-indent}
+> {.footnote-indent}4.  "Fountain Scene," *La Dolce Vita*. {/.footnote-indent}
+> {.footnote-indent}5. Teller, *Tim's Vermeer*. {/.footnote-indent}
+> {.footnote-indent}6. Bricker, *Visual Acoustics*. {/.footnote-indent}
 
 #### Bibliography rule
 
-The Bibliographic entry must begin with the Name of person primarily responsible for the content.
-
-{.hanging-indent}Family Name, Given Name of the person primarily responsible for the content. their role. *Title of Production*. Original year of release; Place of publication: Publisher’s Name, Year of publication. Format. {/.hanging-indent}
+{.hanging-indent}Director’s Family Name, Given Name, dir. *Title of Film*. Original year of release; Place of publication: Publisher, Year of publication. Format. {/.hanging-indent}
 
 OR
 
-{.hanging-indent}Family Name, Given Name of the person primarily responsible for the content. their role “Title of Scene.” *Title of Production*. Original year of release; Place of publication: Publishers Name, Year of publication. Format {/.hanging-indent}
+{.hanging-indent}Director’s Family Name, Given Name, dir. *Title of Film*. Publisher, year of publication. Format, duration. Accessed date. URL/streaming service/database. {/.hanging-indent}
 
 ##### Bibliography examples
 
-> {.hanging-indent}Scott, Ridley. Director. *Blade Runner*. 1982; Burbank, CA: Warner Home Video, 2006. DVD. {/.hanging-indent}
-> {.hanging-indent}Fellini, Federico. Director. “Fountain Scene.” *La Dolce Vita*. 1960; Australia: Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
+> {.hanging-indent}Bricker, Eric, dir. *Visual Acoustics: The Modernism of Julius Shulman*. Arthouse films. 2009. Kanopy video. 1 hr., 23 min. Accessed July 4, 2021. Kanopy. {/.hanging-indent}
+> {.hanging-indent}Fellini, Federico, dir. *La Dolce Vita*. 1960; Sydney, NSW: Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
+> {.hanging-indent}Scott, Ridley, dir. *Blade Runner*. 1982; Burbank, CA: Warner Home Video, 2006. DVD. {/.hanging-indent}
+> {.hanging-indent}Teller, Raymond Joseph, dir. *Tim's Vermeer*. Sony Picture Classics, 2013. EduTV video. 1 hr., 20 min. Accessed July 4, 2021. Informit EduTV. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -955,91 +971,59 @@ OR
 
 ###### start-subtype-item
 
-### Television broadcasts
+### Television program
 
 ###### start-subtype-content
 
-Television broadcast (program or series aired live on television, live-streamed online, viewed on demand, or accessed via library database)
+Program or series aired on television, broadcast live, streamed online, or accessed via library database
+
+- Notes begin with the Title of Program in italics. Bibliography entries begin with the name of the creator. 
+
+- The creator can include director, presenter, writer, producer, or actor, depending on the focus of your discussion.
+
+- Program titles are italicised, episode titles are enclosed in quotation marks.
+
+- Include additional contributors if relevant between the Title of Episode and the Aired Date.
+
+- If viewed on DVD include place and publisher/distributor followed by medium at the end of the citation.
+
+- If viewed online include an accessed date, URL, name of streaming service, or library database at the end of the citation.
+
 
 #### Note rule
 
-{.footnote-indent}Note number. Producer's Full Name, “Title of Episode,” *Title of Production*, season number, episode number, directed by Director's Full Name, date aired (Place: Publisher, Year), Medium. {/.footnote-indent}
+{.footnote-indent}Note number. *Title of Program*, season number, episode number, “Title of Episode,” Creator’s Full Name, additional contributors, date aired (Place: Publisher, Year), Medium. {/.footnote-indent}
 
 OR
 
-{.footnote-indent}Note number. *Title of Program*, season number, episode number, “Title of Episode”, Date first aired, Producer, Broadcaster, Medium. {/.footnote-indent}
+{.footnote-indent}Note number. *Title of Program*, season number, episode number, “Title of Episode,” Creator’s Full Name, additional contributors, Date aired Network, Medium. {/.footnote-indent}
 
 ##### Note examples
 
-> {.footnote-indent}1. John Berger, “Part 1: Reproductions,” *Ways of Seeing*, episode 1, produced by Michael Dibb, aired January 8 1972 (London: BBC, 1972), accessed July 4, 2021, RMIT Digital Collections. {/.footnote-indent}
-> {.footnote-indent}2. *Grand Designs*, series 18, episode 7, “Peak District: Post-Industrial House,” presented by Kevin McCloud, aired October 18, 2017 on Channel 4, television Broadcast. {/.footnote-indent}
-> {.footnote-indent}3. Hetti Perkins, “Love and Longing,” *Art and Soul*, series 2, episode 3, directed by Steven McGregor, aired July 22 , 2014 (Sydney, NSW: Arthouse Films, 2014), DVD. {/.footnote-indent}
+> {.footnote-indent}1. *Ways of Seeing*, episode 1, “Part 1: Reproductions,” presented by John Berger, directed and produced by Michael Dibb, aired January 8, 1972 (London: BBC, 1972), accessed July 4, 2021, RMIT Digital Collections.  {/.footnote-indent}
+> {.footnote-indent}2. *Art and Soul*, series 2, episode 3, “Love and Longing,” presented by Hetti Perkins, directed by Steven McGregor, aired July 22, 2014 (Sydney, NSW: Arthouse Films, 2014), DVD. {/.footnote-indent}
+> {.footnote-indent}3. *Grand Designs*, series 18, episode 7, “Peak District: Post-Industrial House,” presented by Kevin McCloud, aired October 18, 2017 on Channel 4, television broadcast. {/.footnote-indent}
 
 #### Shortened note rule
 
-{.footnote-indent}{.footnote-indent}Note Number. Family Name, *Short Title*. {/.footnote-indent}
+{.footnote-indent}Note Number. *Short Title of Program*, “Short Title of Episode.” {/.footnote-indent}
 
-OR
-
-{.footnote-indent}Note Number. Short Program Name, “Short Title of Episode.” {/.footnote-indent}
 
 ##### Shortened note examples
 
-> {.footnote-indent}4. Berger, "Reproductions." {/.footnote-indent}
-> {.footnote-indent}5. *Grand Designs*, “Post-Industrial.” {/.footnote-indent}
-> {.footnote-indent}6. Perkins, “Love and Longing.” {/.footnote-indent}
+> {.footnote-indent}4. *Ways of Seeing*, "Reproductions." {/.footnote-indent}
+> {.footnote-indent}5. *Art and Soul*, “Love.” {/.footnote-indent}
+> {.footnote-indent}6. *Grand Designs*, “Post-Industrial.” {/.footnote-indent}
 
 #### Bibliography rule
 
-{.hanging-indent}Producer's Family Name, Given Name. “Title of Episode,” *Production Title*. season number, episode number. Directed by Directors Given and Family Names. Date aired, Place: Publisher, Year. Medium. {/.hanging-indent}
+{.hanging-indent}Creator’s Family Name, Given Name. *Title of Program*. Season number, episode number, “Title of Episode.” Additional contributors. Date aired, Place: Publisher, Year. Medium. {/.hanging-indent}
 
 ##### Bibliography examples
 
-> {.hanging-indent}Berger, John. “Part 1: Reproductions”. *Ways of Seeing*. Episode 1. Produced by Michael Dibb. Aired 8 January 1972. BBC. Accessed July 4, 2021. RMIT Digital Collections. {/.hanging-indent}
-> {.hanging-indent}*Grand Designs*. Season 18, episode 7. “Peak District: Post-Industrial House.” Presented by Kevin McCloud. Aired October 18, 2017 on Channel 4. Television broadcast. {/.hanging-indent}
-> {.hanging-indent}Perkins, Hetti. “Love and Longing.” *Art and Soul*. Season 2, episode 3. Directed by Steven McGregor. Aired July 22, 2014 on ABC TV. Sydney, NSW: Arthouse Films, 2014. DVD. {/.hanging-indent}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-
-### News broadcasts aired on television, viewed live stream, on demand, or in databases
-
-###### start-subtype-content
-
-#### Rule for Note
-
-{.footnote-indent}Note number. Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast, URL. {/.footnote-indent}
-
-or
-
-{.footnote-indent}Note number. Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast, Type of broadcast. {/.footnote-indent}
-
-##### Note example
-
-> {.footnote-indent}1. SBS Television, "A Vertical Village for Senior Citizens has Won the World Architecture Prize,"*World News Australia*, December 3, 2018, https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/tvnews.tsm201812030208. {/.footnote-indent}
-> {.footnote-indent}2. Australian Broadcasting Corporation, "Life in Limbo," *7.30 Report,*June 8, 2021, television broadcast. {/.footnote-indent}
-
-##### Shortened note example
-
-> {.footnote-indent}3. Australian Broadcasting Corporation, "Life in Limbo." {/.footnote-indent}
-> {.footnote-indent}4. SBS, "Vertical Village for Senior Citizens." {/.footnote-indent}
-
-#### Rule for Bibliography
-
-{.hanging-indent}Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast. URL. {/.hanging-indent}
-
-or
-
-{.hanging-indent}Network or News Services, “Title of News Item,” *Title of Program*, Date of broadcast. Type of broadcast. {/.hanging-indent}
-
-##### Example of Bibliography
-
-> {.hanging-indent}SBS Television, "A Vertical Village for Senior Citizens has Won the World Architecture Prize," *World News Australia*, December 3, 2018. https<nolink>://search-informit-org.ezproxy.lib.rmit.edu.au/doi/10.3316/tvnews.tsm201812030208. {/.hanging-indent}
-> {.hanging-indent}Australian Broadcasting Corporation, "Life in Limbo," *7.30 Report*, June 8, 2021. Television broadcast. {/.hanging-indent}
+> {.hanging-indent}Berger, John. *Ways of Seeing*. Episode 1, “Part 1: Reproductions.” Directed and produced by Michael Dibb. Aired January 8, 1972 on BBC. Accessed July 4, 2021. RMIT Digital Collections. {/.hanging-indent}
+> {.hanging-indent}McCloud, Kevin. *Grand Designs*. Season 18, episode 7, “Peak District: Post-Industrial House.” Aired October 18, 2017 on Channel 4. Television broadcast. {/.hanging-indent}
+> {.hanging-indent}Perkins, Hetti. *Art and Soul*. Season 2, episode 3, “Love and Longing.” Directed by Steven McGregor. Aired July 22, 2014 on ABC TV. Sydney, NSW: Arthouse Films, 2014. DVD. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1052,13 +1036,24 @@ or
 
 ###### start-subtype-content
 
-Podcast presenters are usually treated as the author except in the case of interviews. Enclose the episode title in quotation marks, followed by the date published online or recorded. Include the word “in” followed by the podcast title in italics. Producers may be included followed by the file format if downloaded as a file. Duration is formatted as HH:MM:SS. End the citation with a URL.
+Audio podcasts, vodcasts, and webcasts.
 
-For podcasts where the interviewee is the main focus of discussion see: Interview
+Podcast presenters are usually treated as the author except in the case of interviews. For podcasts where the interviewee is the main focus of discussion see: Interviews.
+
+- Enclose the episode title in quotation marks, followed by the date published online or recorded.
+
+- Include the word “in” followed by the podcast title in italics. 
+
+- Additional contributors such as the producers may be included followed by the file format if downloaded as a file. 
+
+- Duration is formatted as HH:MM:SS. 
+
+- End the citation with a URL.  
+
 
 #### Note rule
 
-{.footnote-indent}Note number. First Presenter’s Full Name and Second Presenter’s Full Name, “Episode Title,” date published, in *Production Title*, Produced by Producer’s Full Name, Podcast, File Format. Duration. URL. {/.footnote-indent}
+{.footnote-indent}Note number. Presenter’s Full Name, “Episode Title,” date published, in *Podcast Title*, additional contributors, podcast, file format, Duration, URL. {/.footnote-indent}
 
 ##### Note examples
 
@@ -1067,7 +1062,7 @@ For podcasts where the interviewee is the main focus of discussion see: Intervie
 
 #### Shortened note rule
 
-{.footnote-indent}Note number. Presenter Family Name, "Shortened Episode Title". {/.footnote-indent}
+{.footnote-indent}Note number. Presenter's Family Name, "Shortened Episode Title". {/.footnote-indent}
 
 ##### Shortened note examples
 
@@ -1076,7 +1071,7 @@ For podcasts where the interviewee is the main focus of discussion see: Intervie
 
 #### Bibliography rule
 
-{.hanging-indent}Presenter’s Family Name, Given Name. “Episode Title.” Season number, episode number. Date published. In *Production Title*. Produced by Producers Full Name. Podcast, File Format. Duration. URL. {/.hanging-indent}
+{.hanging-indent}Presenter’s Family Name, Given Name. “Episode Title.” Season number, episode number. Date published. In *Podcast Title*. Additional contributors. Podcast, File Format. Duration. URL. {/.hanging-indent}
 
 ##### Bibliography examples
 
@@ -1096,17 +1091,15 @@ For podcasts where the interviewee is the main focus of discussion see: Intervie
 
 #### Note rule
 
-{.footnote-indent}Note number. Presenter’s Full Name, “Episode Title,” episode number, date aired, in *Production Title*, Place produced and/or broadcasted: Broadcaster’s Name. {/.footnote-indent}
+{.footnote-indent}Note number. Presenter’s Full Name, “Episode Title,” episode number, date aired, in *Production Title*, Place produced: Network, radio broadcast. {/.footnote-indent}
 
 ##### Note examples
 
-> {.footnote-indent}1. Paul Barclay, "Julia Gillard Calls for More Preventative Mental Health Care," October 12, 2017, in *Big Ideas*, South Australia: ABC Radio National. Radio broadcast. {/.footnote-indent}
+> {.footnote-indent}1. Paul Barclay, "Julia Gillard Calls for More Preventative Mental Health Care," October 12, 2017, in *Big Ideas*, Adelaide, SA: ABC Radio National, radio broadcast. {/.footnote-indent}
 
 #### Shortened note rule
 
-In this example the name of the guest speaker forms the shortened title:
-
-{.footnote-indent}Note number. Presenters Family Name, "Shortened Episode Title". {/.footnote-indent}
+{.footnote-indent}Note number. Presenter's Family Name, "Shortened Episode Title". {/.footnote-indent}
 
 ##### Shortened note examples
 
@@ -1114,11 +1107,11 @@ In this example the name of the guest speaker forms the shortened title:
 
 #### Bibliography Rule
 
-{.hanging-indent}Presenter’s Family Name, Presenter’s Given Name. “Episode Title.” Episode number. Date aired. In *Production Title*. Place produced and/or broadcasted: Broadcaster’s Name. {/.hanging-indent}
+{.hanging-indent}Presenter’s Family Name, Given Name. “Episode Title.” Episode number. Date aired. In *Program Title*. Place produced: Network. Radio broadcast. {/.hanging-indent}
 
 ##### Bibliography examples
 
-> {.hanging-indent}Barclay, Paul. "Julia Gillard Calls for More Preventative Mental Health Care." October 12, 2017. In *Big Ideas*. South Australia: ABC Radio National. Radio broadcast. {/.hanging-indent}
+> {.hanging-indent}Barclay, Paul. "Julia Gillard Calls for More Preventative Mental Health Care." October 12, 2017. In *Big Ideas*. Adelaide, SA: ABC Radio National. Radio broadcast. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1133,56 +1126,66 @@ In this example the name of the guest speaker forms the shortened title:
 
 Sound recordings may include CDs, content from music streaming platforms, or records (LPs).
 
-For sound recordings a note may begin with the Title of recording, but the bibliographic entry must begin with the Name of person primarily responsible for the content (e.g. performer, composer). The primary contributor is based on which is more relevant for discussion.
+- Begin the citation with the name of the Creator. The Creator can include the recording artist, composer, or performer depending on the focus of your discussion. For group names e.g. bands, use name in full original order. 
 
-Year published can be substituted for year recorded or copyright.
+- Year of recording or copyright can be used as the year of publication. 
 
-**Musical recordings** are usually listed in a separate discography. If included in the bibliography they can be grouped under an appropriate subheading.
+- Titles of songs or short pieces are enclosed in quotation marks. Titles of albums are italicised.
+
+- Include additional contributors if relevant to discussion.
+
+- Include additional information such as identifying number or release date after the publisher to distinguish between similar recordings if available.
+
+- If sourced online include an accessed date and URL or name of streaming service at the end of the citation.
+
+(Check with your lecturer if **Musical recordings** require listing in a separate discography. If included in the bibliography, they can be grouped under an appropriate subheading.)
+
 
 #### Note rule
 
-{.footnote-indent}Note number. Full Name of the person primarily responsible for the content, *Title of Recording*, other relevant information, Publisher catalogue number, Year published in the relevant format, format. {/.footnote-indent}
+{.footnote-indent}Note number. Creator’s Full Name, *Title of Recording*, additional contributors, additional information, Publisher & Catalogue number, Year published in relevant format, format. {/.footnote-indent}
 
 Or
 
-Note number. “Title of Part,” other relevant information, format or Name of the streaming service, track number on Full Name of the person primarily responsible for the content, *Title of Recording*, Publisher, Year published. {/.footnote-indent}
+{.footnote-indent}Note number. Creator’s Full Name, “Title of Track,” additional contributors, additional information, track number on *Title of Recording*, Publisher, year published, format or streaming service/database. {/.footnote-indent}
 
 ##### Note examples
 
-> {.footnote-indent}1. Steve Reich, “Come Out,” with Daniel Hamm (voice), on *Early Works*, Elektra Nonesuch 979169-2, 1987, CD. {/.footnote-indent}
-> {.footnote-indent}2. Richard Strauss, *Don Quixote*, with Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy, recorded February 24, 1940, Biddulph LAB 042, 1991, CD. {/.footnote-indent}
+> {.footnote-indent}1. Richard Strauss, *Don Quixote*, with Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy, recorded February 24, 1940, Biddulph LAB 042, 1991, CD. {/.footnote-indent}
+> {.footnote-indent}2. Steve Reich, “Come Out,” with Daniel Hamm (voice), track 1 on *Early Works*, Elektra Nonesuch 979169-2, 1987, CD. {/.footnote-indent}
 > {.footnote-indent}3. Yothu Yindi, “Treaty - Radio Mix,” track 15 on *Tribal Voice*, originally released 1991; Bloodlines, 2012. Spotify https<nolink>://open.spotify.com/track/0RGD7VXcMiPGmnha3vXSt3?si=3a405ec23ae341d5. {/.footnote-indent}
-> {.footnote-indent}4. Nancy Sinatra and Lee Hazelwood, “Some Velvet Morning,” track 8 on *Nancy and Lee*, Hollywood: Reprise RS-6273, 1968, 33⅓ rpm. {/.footnote-indent}
+> {.footnote-indent}4. Nancy Sinatra and Lee Hazelwood, “Some Velvet Morning,” track 8 on *Nancy and Lee*, Reprise RS-6273, 1968, 33⅓ rpm. {/.footnote-indent}
 
 #### Shortened note rule
 
-{.footnote-indent}Note Number. Family Name, *Short Title of Work*. {/.footnote-indent}
+{.footnote-indent}Note Number. Creator's Family Name, *Short Title of Recording*. {/.footnote-indent}
 
 OR
 
-{.footnote-indent}Note Number. Short Performer Name, "Short Title of Part." {/.footnote-indent}
+{.footnote-indent}Note Number. Short Performer Name, "Short Title of Track." {/.footnote-indent}
 
 ##### Shortened note examples
  
-> {.footnote-indent}5. Reich, “Come Out.” {/.footnote-indent}
-> {.footnote-indent}6. Strauss, *Don Quixote*. {/.footnote-indent}
+> {.footnote-indent}5. Strauss, *Don Quixote*. {/.footnote-indent}
+> {.footnote-indent}6. Reich, “Come Out.” {/.footnote-indent}
 > {.footnote-indent}7. Yothu Yindi, “Treaty.” {/.footnote-indent}
-> {.footnote-indent}8. Sinatra and Hazelwood, “Some Velvet Morning.” {/.footnote-indent}
+> {.footnote-indent}8. Sinatra and Hazelwood, "Velvet.” {/.footnote-indent}
 
 #### Bibliography Rule
 
-{.hanging-indent}Family Name, Given Name of the person primarily responsible for the content. *Title of content*. other relevant information. Publisher catalogue number, Year published in the relevant format, format. Any other references such as the original. {/.hanging-indent}
+{.hanging-indent}Creator’s Family Name, Given Name. *Title of Recording*. Additional contributors. Additional information. Publisher & Catalogue number. Year published in the relevant format. format. Additional information. {/.hanging-indent}
 
 Or
 
-{.hanging-indent}Family Name, Given Name of the person primarily responsible for the content, their role. “Title of Part,” other relevant information, Format or Name of the streaming service. Track number on Full Name of the person primarily responsible for the content if necessary, *Title of Recording*, Publisher, Year published. {/.hanging-indent}
+{.hanging-indent}Creator’s Family Name, Given Name. “Title of Track.” Additional information. Track number on *Title of Recording*, Publisher. Year published. Format or Name of the streaming service/database. {/.hanging-indent}
 
 ##### Bibliography examples
 
 > {.hanging-indent}Reich, Steve. “Come Out.” with Daniel Hamm (voice) on *Early Works*. Elektra Nonesuch 9 79169-2. 1987. CD. {/.hanging-indent}
+> {.hanging-indent}Sinatra, Nancy and Lee Hazelwood. “Some Velvet Morning.” Track 8 on *Nancy and Lee*. Reprise RS-6273. 1968. 33⅓ rpm. {/.hanging-indent}
 > {.hanging-indent}Strauss, Richard. *Don Quixote*. with Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy. Recorded February 24, 1940. Biddulph LAB 042. 1991. CD. {/.hanging-indent}
-> {.hanging-indent}Yothu Yindi. “Treaty - Radio Mix.” Track 15 on *Tribal Voice*. Originally released 1991. Bloodlines, 2012. Spotify. https<nolink>://open.spotify.com/track/0RGD7VXcMiPGmnha3vXSt3?si=3a405ec23ae341d5. {/.hanging-indent}
-> {.hanging-indent}Sinatra, Nancy and Lee Hazelwood. “Some Velvet Morning.” Track 8 on *Nancy and Lee*. Hollywood, Reprise RS-6273. 1968. 33⅓ rpm. {/.hanging-indent}
+> {.hanging-indent}Yothu Yindi. “Treaty - Radio Mix.” Track 15 on *Tribal Voice*. Originally released 1991. Bloodlines, 2012. Spotify streaming audio. {/.hanging-indent}
+
 
 ###### end-subtype-content
 
@@ -1199,23 +1202,24 @@ Or
 
 Unpublished scores are cited and referenced like unpublished manuscripts.
 
+- For direct quotes include a page number after the year. 
+
+- If accessed online include a DOI, stable URL, or database name.
+
+
 #### Note rule
 
-{.footnote-indent}Note Number. Composer, *Title of Score* (Place of publication: Publisher, Year), page number(s). {/.footnote-indent}
-
-OR
-
-{.footnote-indent}Note Number. Composer, *Title of Score*, ed. Editors Full Name (Place of publication: Publisher, Year), URL/DOI/Database Name {/.footnote-indent}
+{.footnote-indent}Note Number. Composer’s Full Name, *Title of Score* (Place of publication: Publisher, Year). {/.footnote-indent}
 
 ##### Note examples
 
-> {.footnote-indent}1. Igor Stravinsky, *The Rite of Spring*, Masterworks Library (New York: Boosey and Hawkes, 1921). {/.footnote-indent}
+> {.footnote-indent}1. Igor Stravinsky, *The Rite of Spring*, (New York: Boosey and Hawkes, 1921). {/.footnote-indent}
 > {.footnote-indent}2. Gérard Grisey, *Vortex Temporum I, II, III: Pour piano et cinq instruments*, (Milan: Ricordi, 1995). {/.footnote-indent}
-> {.footnote-indent}3. Steve Reich, *Four Organs* (London: Universal Edition, 1980), accessed 29 July 2021, Alexander Street. https<nolink>://search-alexanderstreet-com.ezproxy.lib.rmit.edu.au/view/work/bibliographic\_entity|score|554518. {/.footnote-indent}
+> {.footnote-indent}3. Steve Reich, *Four Organs* (London: Universal Edition, 1980), accessed 29 July 2021, Alexander Street. {/.footnote-indent}
 
 #### Shortened note rule
 
-{.footnote-indent}Note Number. Composer Family Name, *Short Title of Score*. {/.footnote-indent}
+{.footnote-indent}Note Number. Composer's Family Name, *Short Title of Score*. {/.footnote-indent}
 
 ##### Shortened note examples
 
@@ -1225,17 +1229,13 @@ OR
 
 #### Bibliography rule
 
-{.hanging-indent}Composer Family Name, Given Name. *Title of Score*. Place of publication: Publisher, Year. {/.hanging-indent}
-
-OR
-
-Composer Family Name, Given Name. *Title of Score*. ed. Editors Full Name. Place of publication: Publisher, Year, URL/DOI/Database Name.
+{.hanging-indent}Composer's Family Name, Given Name. *Title of Score*. Place of publication: Publisher, Year. {/.hanging-indent}
 
 ##### Bibliography examples
 
-> {.hanging-indent}Stravinsky, Igor. *The Rite of Spring*. New York: Boosey and Hawkes. 1921. {/.hanging-indent}
 > {.hanging-indent}Grisey, Gérard. *Vortex Temporum I, II, III: Pour piano et cinq instruments*. Milan: Ricordi. 1995. {/.hanging-indent}
-> {.hanging-indent}Reich, Steve. *Four Organs*. London: Universal Edition. 1980. Accessed July 29. 2021. Alexander Street. https<nolink>://search-alexanderstreet.com.ezproxy.lib.rmit.edu.au/view/work/bibliographic\_entity|score|554518. {/.hanging-indent}
+> {.hanging-indent}Reich, Steve. *Four Organs*. London: Universal Edition. 1980. Accessed July 29. 2021. Alexander Street. {/.hanging-indent}
+> {.hanging-indent}Stravinsky, Igor. *The Rite of Spring*. New York: Boosey and Hawkes. 1921. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1311,7 +1311,7 @@ Comments can usually be cited in the text, in reference to the related post. If 
 
 #### Note rule
 
-{.footnote-indent}Note number. Author's Full Name, "Title of Blog Post,"*Title of Blog* (blog), Date of Post, access date, URL. {/.footnote-indent}
+{.footnote-indent}Note number. Author's Full Name, "Title of Blog Post," *Title of Blog* (blog), Date of Post, access date, URL. {/.footnote-indent}
 
 ##### Note examples
 
@@ -1450,11 +1450,11 @@ To reference a standard published by an Australian or international standards or
 
 #### Rule for note
 
-{.footnote-indent}Note Number. *Title.* identifying number, Publication information. if consulted online include URL or database name. {/.footnote-indent}
+{.footnote-indent}Note Number. *Title.* Identifying number, Publication information. If consulted online include URL or database name. {/.footnote-indent}
 
 ##### Note examples
 
-> {.footnote-indent}1. *Sun Protective Clothing: Evaluation and Classification*, (AS 4399:2020), Sydney,NSW. https<nolink>://www.standards.org.au/standards-catalogue/sa-snz/consumer/tx-021/as--4399-colon-2020. {/.footnote-indent}
+> {.footnote-indent}1. *Sun Protective Clothing: Evaluation and Classification*, (AS 4399:2020), Sydney, NSW. https<nolink>://www.standards.org.au/standards-catalogue/sa-snz/consumer/tx-021/as--4399-colon-2020. {/.footnote-indent}
 > {.footnote-indent}2. SAI Global. *Glass in Building: Tempered Soda Lime Silicate Safety Glass*, (ISO 12540:2017), Sydney, NSW. https<nolink>://www.iso.org/standard/62574.html. {/.footnote-indent}
 > {.footnote-indent}3. *Extensible Markup Language (XML) 1.0*, 5th ed., ed. Tim Bray, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau (W3C, November 26, 2008), http<nolink>://www.w3.org/TR/2008/REC-xml-20081126/. {/.footnote-indent}
 
@@ -1465,11 +1465,11 @@ To reference a standard published by an Australian or international standards or
 
 #### Bibliography rule
 
-{.hanging-indent}Organisation. *Title.* identifying number, Publication information. if consulted online include URL or database name. {/.hanging-indent}
+{.hanging-indent}Organisation. *Title.* Identifying number, Publication information. If consulted online include URL or database name. {/.hanging-indent}
 
 ##### Bibliography example
 
-> {.hanging-indent}SAI Global. *Sun Protective Clothing: Evaluation and Classification*, (AS 4399:2020), Sydney,NSW. https<nolink>://www.standards.org.au/standards-catalogue/sa-snz/consumer/tx-021/as--4399-colon-2020. {/.hanging-indent}
+> {.hanging-indent}SAI Global. *Sun Protective Clothing: Evaluation and Classification*, (AS 4399:2020), Sydney, NSW. https<nolink>://www.standards.org.au/standards-catalogue/sa-snz/consumer/tx-021/as--4399-colon-2020. {/.hanging-indent}
 > {.hanging-indent}SAI Global. *Glass in Building: Tempered Soda Lime Silicate Safety Glass*, (ISO 12540:2017), Sydney, NSW. https<nolink>://www.iso.org/standard/62574. {/.hanging-indent}html.
 
 ###### end-subtype-content
@@ -1492,7 +1492,7 @@ Patents are cited under the names of the creators and dated by the year of filin
 ##### Note example
 
 > {.footnote-indent}1. Iizuka, Masanori, and Hideki Tanaka. Cement admixture. US Patent 4,586,960, filed June 26, 1984, and issued May 6, 1986. {/.footnote-indent}
-> {.footnote-indent}2. Cook, Fred C., and William H. Donaldson. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, file May 7, 2009, and issued November 11, 2010, 3. {/.footnote-indent}
+> {.footnote-indent}2. Cook, Fred C., and William H. Donaldson. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, filed May 7, 2009, and issued November 11, 2010, 3. {/.footnote-indent}
 
 ##### Shortened note example
 
@@ -1504,7 +1504,7 @@ Patents are cited under the names of the creators and dated by the year of filin
 
 ##### Bibliography example
 
-> {.hanging-indent}Cook, Fred C., and William H. Donaldson. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, file May 7, 2009, and issued November 11, 2010. {/.hanging-indent}
+> {.hanging-indent}Cook, Fred C., and William H. Donaldson. Mega Yacht Mass Tracking System with Articulating Sail Feeder. US Patent US20100282152A1, filed May 7, 2009, and issued November 11, 2010. {/.hanging-indent}
 > {.hanging-indent}Iizuka, Masanori, and Hideki Tanaka. Cement admixture. US Patent 4,586,960, filed June 26, 1984, and issued May 6, 1986. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -1607,7 +1607,7 @@ Works viewed in person, such as art galleries, museums and public spaces, are ci
 
 ##### Note examples
 
-> {.footnote-indent}1. Jackson Pollock, *Blue poles*. 1952. Oil, enamel, aluminium paint, glass on canvas. 212.1x488.9cm. National Gallery of Australia. {/.footnote-indent}
+> {.footnote-indent}1. Jackson Pollock, *Blue poles*. 1952. Oil, enamel, aluminium paint, glass on canvas. 212.1 x 488.9cm. National Gallery of Australia. {/.footnote-indent}
 > {.footnote-indent}2. Annie Leibovitz, Annie. *More Demi Moore*. 1991. Photograph. Vanity Fair, cover, August 1991. {/.footnote-indent}
 
 ##### Shortened notes
@@ -1752,25 +1752,25 @@ The Interviewee is treated as the author i.e. person primarily responsible for t
 
 ##### Note rule
 
-{.footnote-indent}Note Number. Interviewee’s Full Name, interview by Interviewer’s Full Name, Title of Program, date of broadcast, format or type of broadcast. URL. {/.footnote-indent}
+{.footnote-indent}Note Number. Interviewee’s Full Name, interview by Interviewer’s Full Name, then follow Rule for relevant Format (podcast, news broadcast, print article or online video). {/.footnote-indent}
 
 ##### Note example
 
-> {.footnote-indent}1. Kory Stamper, interview by Terry Gross, “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English” in *Fresh Air*, April 19, 2017, podcast, 35:25. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english. {/.footnote-indent}
+> {.footnote-indent}1. Kory Stamper, interview by Terry Gross, “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English,” in *Fresh Air*, April 19, 2017, podcast, 35:25. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english. {/.footnote-indent}
 > {.footnote-indent}2. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening),” interview by Sean Dockray, *Liquid Architecture*, January 20, 2020, podcast, https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474. {/.footnote-indent}
 
 ##### Shortened note example
 
-> {.footnote-indent}3. Stamper, interview./p> {/.footnote-indent}
+> {.footnote-indent}3. Stamper, interview. {/.footnote-indent}
 > {.footnote-indent}4. Herndon and Dryhurst, interview. {/.footnote-indent}
 
 ##### Bibliography rule
 
-{.hanging-indent}Interviewee’s Family Name, Given Name. Interview by Interviewer’s Full Name. Title of Program. Date of publication. Format or medium. URL. {/.hanging-indent}
+{.hanging-indent}Interviewee’s Family Name, Given Name. Interview by Interviewer’s Full Name. Then follow Rule for relevant Format (podcast, news broadcast, print article or online video). {/.hanging-indent}
 
 ##### Bibliography example
 
-> {.hanging-indent}Stamper, Kory, Interview by Terry Gross, “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English.” In *Fresh Air*. April 19, 2017. Podcast. 35:25. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english. {/.hanging-indent}
+> {.hanging-indent}Stamper, Kory. Interview by Terry Gross. “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English.” In *Fresh Air*. April 19, 2017. Podcast. 35:25. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english. {/.hanging-indent}
 > {.hanging-indent}Herndon, Holly and Mat Dryhurst. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening).” Interview by Sean Dockray. In *Liquid Architecture*. January 20, 2020. Podcast. https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474. {/.hanging-indent}
 
 #### Unpublished interviews
@@ -1789,7 +1789,7 @@ An unpubplished interview may be cited in notes but not listed in the bibliograp
 
 ##### Note example
 
-> {.footnote-indent}1. Lance Artcore, interview by Brooklyn Fox, Melbourne; VIC, April 23, 2019. {/.footnote-indent}
+> {.footnote-indent}1. Lance Artcore, interview by Brooklyn Fox, Melbourne, VIC, April 23, 2019. {/.footnote-indent}
 > {.footnote-indent}2. Interview with a contact tracer, August 4, 2020. {/.footnote-indent}
 
 ##### Shortened note examples
@@ -1838,7 +1838,14 @@ Personal communication e.g. letters, email, text messages, and social media mess
 
 ###### start-subtype-content
 
-Theses and dissertations are mostly cited and referenced like books. Rather than italics, titles of thesis are enclosed in quotation marks. For theses and dissertations accessed online, include the database or the URL. In parentheses, include any identification number supplied by the database.
+Theses and dissertations are mostly cited and referenced like books. Rather than italics, titles of thesis are enclosed in quotation marks. 
+
+If the thesis or dissertation is accessed online, include a URL. However, if the URL requires an account login, include only the database or repository name. In parentheses, include any identification number supplied by the database.
+
+Hard copy theses or dissertations do not require a URL or database/repository name.
+
+When the document is labelled PhD dissertation, use the abbreviation PhD diss.
+
 
 #### Note rule
 
@@ -1846,7 +1853,7 @@ Theses and dissertations are mostly cited and referenced like books. Rather than
 
 ##### Note examples
 
-> {.footnote-indent}1. Tanya Court, "The Site Re-Presented: Everyday Civic Landscapes" (PhD dissertation, RMIT University, 2019), RMIT Research Repository (9921864000901341). {/.footnote-indent}
+> {.footnote-indent}1. Tanya Court, "The Site Re-Presented: Everyday Civic Landscapes" (PhD diss., RMIT University, 2019), RMIT Research Repository (9921864000901341). {/.footnote-indent}
 > {.footnote-indent}2. Christine Kuhling, "Rewriting Tourist Photography" (PhD thesis, Western Sydney University, 2017), 30, Western Sydney University Library ResearchDirect (47965). {/.footnote-indent}
 
 ##### Shortened note examples
@@ -1860,7 +1867,7 @@ Theses and dissertations are mostly cited and referenced like books. Rather than
 
 ##### Bibliography examples
 
-> {.hanging-indent}Court, Tanya. "The Site Re-Presented: Everyday Civic Landscapes." PhD dissertation, RMIT University, 2019. RMIT Research Repository (9921864000901341). {/.hanging-indent}
+> {.hanging-indent}Court, Tanya. "The Site Re-Presented: Everyday Civic Landscapes." PhD diss., RMIT University, 2019. RMIT Research Repository (9921864000901341). {/.hanging-indent}
 > {.hanging-indent}Kuhling, Christine."Rewriting Tourist Photography." PhD thesis, Western Sydney University, 2017. Western Sydney University Library ResearchDirect (47965). {/.hanging-indent}
 
 ###### end-subtype-content

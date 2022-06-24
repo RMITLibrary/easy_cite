@@ -27,7 +27,7 @@
 ## Journals
 ## Newspapers
 ## Audiovisual material
-## Websites, blogs and social media
+## Webpages, blogs and social media
 ## Reports, standards and patents
 ## Images
 ## Other sources
@@ -353,7 +353,7 @@ Author’s Family Name Year of publication, page number
 
 If no author is listed, use the name of the editor, translator, compiler, or composer. Place the relevant abbreviation after the name; ed., eds., trans., comp., or comps. Leave out the abbreviation for all in-text citations. See the first example below.
 
-Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Place of Publication: Publisher's Name.
+{.hanging-indent}Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Place of Publication: Publisher's Name. {/.hanging-indent}
 
 > {.hanging-indent}Bell, Adam, and Charles Traub, eds. 2015. *Vision Anew: The Lens and Screen Arts.* Oakland, California: University of California Press. {/.hanging-indent}
 > {.hanging-indent}Webb, Jela. 2008. *Strategic Information Management: A Practitioner's Guide*. Oxford: Chandos. {/.hanging-indent}
@@ -387,7 +387,7 @@ Chapter Author’s Family Name Year of publication
 
 #### Reference list
 
-Chapter Author’s Family Name, Given Name. Year. "Title of Chapter." In *Title of Book*, edited by Editor's Given name Family name, chapter page range. Place of Publication: Publisher's Name.
+{.hanging-indent}Chapter Author’s Family Name, Given Name. Year. "Title of Chapter." In *Title of Book*, edited by Editor's Given name Family name, chapter page range. Place of Publication: Publisher's Name. {/.hanging-indent}
 
 > {.hanging-indent}Baldwin, Alistair. 2021. “Hippotherapy.” In *Growing Up Disabled in Australia*, edited by Carly Findlay, 47-52. Melbourne: Black Inc. {/.hanging-indent}
 > {.hanging-indent}Higgs, Malcolm. 2013. “Change and Its Leadership: The Role of Positive Emotions.” In *The Oxford Handbook of Positive Psychology and Work*, edited by P. Alex Linley, Susan Harrington,and Nicola Garcea, 67-94. New York: Oxford University Press. {/.hanging-indent}
@@ -431,7 +431,7 @@ If there are no page numbers in the ebook, use chapter numbers or section headin
 
 #### Reference list
 
-Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Place of Publication: Publisher’s Name. DOI, URL, Application, Device, or File Format.
+{.hanging-indent}Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Place of Publication: Publisher’s Name. DOI, URL, Application, Device, or File Format. {/.hanging-indent}
 
 > {.hanging-indent}Carroll, Henry. 2014. *Read This If You Want To Take Great Photographs.* London: Laurence King. ProQuest Ebook Central. {/.hanging-indent}
 > {.hanging-indent}Scott, Clive. 1999. *The Spoken Image: Photography and Language.* London: Reaktion. Kindle ebook. {/.hanging-indent}
@@ -470,7 +470,7 @@ Page numbers are included when using a direct quote. After the organisation name
 
 When the organisation-as-author and publisher are the same entity, include it in both places in the reference list entry.
 
-Name of Group/Organisation. Year. *Title of Book: Subtitle of Book.* Place of Publication: Publisher's Name.
+{.hanging-indent}Name of Group/Organisation. Year. *Title of Book: Subtitle of Book.* Place of Publication: Publisher's Name. {/.hanging-indent}
 
 > {.hanging-indent}ARC (Australian Research Council). 2017. *ARC Open Access Policy.* Version 2017.1. Canberra, ACT: Australian Research Council. https<nolink>://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy. {/.hanging-indent}
 > {.hanging-indent}CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future.* Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030. {/.hanging-indent}
@@ -514,7 +514,7 @@ Name of Group/Organisation. Year. *Title of Book: Subtitle of Book.* Place of Pu
 
 - Edition number is not included for first edition books.
 
-Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Edition. Place of Publication: Publisher's Name.
+{.hanging-indent}Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Edition. Place of Publication: Publisher's Name. {/.hanging-indent}
 
 > {.hanging-indent}Beresford, Quentin, and Gary Partington. 2012. Reform and Resistance in Aboriginal Education: The Australian Experience. Rev. ed. Perth: University of Western Australia Press. {/.hanging-indent}
 > {.hanging-indent}Lester, Paul Martin. 2020. *Visual Communication: Images with Messages.* 8th ed. Dallas, Texas: Lex Publishing. {/.hanging-indent}
@@ -548,7 +548,7 @@ Page number(s) should be included when using a direct quote. Add a comma then th
 
 #### Reference list
 
-Author’s Family Name, Author’s Given Name. Year of Publication. *Title of Book: Subtitle of Book.* Translated by Translator’s Full Name. Place of Publication: Publisher’s Name.
+{.hanging-indent}Author’s Family Name, Author’s Given Name. Year of Publication. *Title of Book: Subtitle of Book.* Translated by Translator’s Full Name. Place of Publication: Publisher’s Name. {/.hanging-indent}
 
 > {.hanging-indent}García Márquez, Gabriel. 1988. *Love in the Time of Cholera.* Translated by Edith Grossman. London: Cape. {/.hanging-indent}
 > {.hanging-indent}Lahiri, Jhumpa. 2016. *In Other Words.* Translated by Ann Goldstein. New York: Alfred A. Knopf. {/.hanging-indent}
@@ -584,7 +584,7 @@ Reference in the same way as other published books. If the author is unknown, re
 
 - For exhibition catalogue with no author or editor, begin with title of exhibition.
 
-Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Place of Publication: Publisher’s Name. Published in conjunction with an exhibition of the same title, exhibition date.
+{.hanging-indent}Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Place of Publication: Publisher’s Name. Published in conjunction with an exhibition of the same title, exhibition date. {/.hanging-indent}
 
 > {.hanging-indent}Achaintre, Caroline, Elizabeth Price, George Shaw, and Kirsty Ogg, eds. 2017. *Bloomberg's New Contemporaries 2017.* London: New Contemporaries 1988 Ltd. Published in conjunction with an exhibition of the same title, held at BALTIC Centre for Contemporary Art, Baltic 39, 29 Sep-26 Nov 2017, and Block 336, 27 Jan-3 Mar 2018. {/.hanging-indent}
 > {.hanging-indent}*Chaos & Order: 120 Year of Collecting at RMIT*. 2018. Melbourne: RMIT Gallery, 2018. Published in conjunction with the exhibition of the same title, held at RMIT Gallery, 12 Apr-9 Jun 2018. {/.hanging-indent}
@@ -629,7 +629,7 @@ If you viewed the work online, include an accessed date before the URL/DOI/datab
 
 When author/editor for a dictionary or encyclopedia section is unknown, use the section title in quotation marks in place of author names in the reference list entry.
 
-Author of Section Last name, First name. Year. "Title of Section". In *Title of Dictionary or Encyclopedia*, edited by Editor First name Family name, page range if applicable. Place of Publication: Publisher Name. Accessed Month day, year if online. URL, DOI or database name if online.
+{.hanging-indent}Author of Section Last name, First name. Year. "Title of Section". In *Title of Dictionary or Encyclopedia*, edited by Editor First name Family name, page range if applicable. Place of Publication: Publisher Name. Accessed Month day, year if online. URL, DOI or database name if online. {/.hanging-indent}
 
 > {.hanging-indent}Cox, Damian, Marguerite La Caze, and Michael Levine. 2021. "Integrity." In *The Stanford Encyclopedia of Philosophy* , edited by Edward N. Zalta. Palo Alto: Metaphysics Research Lab, Stanford University. Accessed May 5, 2022. https<nolink>://plato.stanford.edu/archives/fall2021/entries/integrity/ {/.hanging-indent}
 > {.hanging-indent}*Macquarie Concise Dictionary*. 2020. 8th edition. Sydney: Macquarie Dictionary Publishers. {/.hanging-indent}
@@ -695,7 +695,7 @@ If there is no DOI, use a URL in the reference list entry. Unless the URL requir
 
 Chicago does not require access dates in the citations of electronic sources unless no date of publication can be determined.
 
-Author's Family Name, Given Name. Year. "Article Title." *Title of Journal* volume, issue no. (Month or Season if applicable): page range. DOI or URL or Database Name.
+{.hanging-indent}Author's Family Name, Given Name. Year. "Article Title." *Title of Journal* volume, issue no. (Month or Season if applicable): page range. DOI or URL or Database Name. {/.hanging-indent}
 
 > {.hanging-indent}Armstrong, Leah. 2021. “Fashions of the Future: Fashion, Gender, and the Professionalization of Industrial Design.” *Design Issues* 37, no. 3: 5-17. https<nolink>://doi.org/10.1162/desi\_a\_00644. {/.hanging-indent}
 > {.hanging-indent}Conforti, Claudia, Fabio Colonnese, Maria Grazia D'Amelio, and Lorenzo Grieco. 2021. “Designing in Real Scale: The Practice and Afterlife of Full-Size Architectural Models from Renaissance to Fascist Italy.” *Architecture & Culture* 9, no. 3: 442-463. https<nolink>://doi.org/10.1080/20507828.2021.1876490. {/.hanging-indent}
@@ -739,12 +739,12 @@ For journal articles without an issue number, list the page number after the vol
 
 Where only the volume and a month or season is available, include this in place of the issue number e.g. 25 (May): 56-59.
 
-Author's Family Name, First Name. Year. "Article Title." *Title of Publication* vol, issue no (Month or Season): page number(s).
+{.hanging-indent}Author's Family Name, First Name. Year. "Article Title." *Title of Publication* vol, issue no (Month or Season): page number(s). {/.hanging-indent}
 
 > {.hanging-indent}Bagley, Benjamin. 2015. “Loving Someone in Particular.” *Ethics* 125, no. 2 (January): 477–507. {/.hanging-indent}
 > {.hanging-indent}Cavell, Stanley. 1978. "What Becomes of Things on Film?" *Philosophy and Literature* 2, no. 2 (Fall): 249-57. {/.hanging-indent}
 > {.hanging-indent}Zutshi, Ambika, Andrew Creed, Mary Holmes, and Jade Brain. 2016. "Reflections of Environmental Management Implementation in Furniture.” *International Journal of Retail & Distribution Management* 44, no. 8: 840–859. {/.hanging-indent}
-> {.hanging-indent}Escobedo, Frida. 2021. “Architecture Is Forever Unfinished” *Journal of Visual Culture* 20, no. 1: 48–59.ENT {/.hanging-indent}
+> {.hanging-indent}Escobedo, Frida. 2021. “Architecture Is Forever Unfinished” *Journal of Visual Culture* 20, no. 1: 48–59. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -809,7 +809,7 @@ For the reference list:
 
 - Page numbers are not required in reference list entrees of newspaper articles.
 
-Author's Family Name, Given Name. Year of publication. "Title of Article." *Name of Newspaper*, Date of publication.
+{.hanging-indent}Author's Family Name, Given Name. Year of publication. "Title of Article." *Name of Newspaper*, Date of publication. {/.hanging-indent}
 
 > {.hanging-indent}Carey, Adam. 2015. “Gas wars fire up in Victoria as consumers feel the heat.” *Age* (Melbourne), October 15, 2015. {/.hanging-indent}
 > {.hanging-indent}*New York Times*. 2002. “In Texas, Ad Heats Up Race for Governor.” July 30, 2002. {/.hanging-indent}
@@ -861,7 +861,7 @@ Sources such as webpages or online newspaper articles do not always include page
 
 #### Reference list
 
-Author Family Name, First Name. Year. “Title of Article.” *Newspaper Title*, Month day, year of publication. DOI/URL/Database.
+{.hanging-indent}Author Family Name, First Name. Year. “Title of Article.” *Newspaper Title*, Month day, year of publication. DOI/URL/Database. {/.hanging-indent}
 
 > {.hanging-indent}Pegoraro, Rob. 2007. “Apple’s iPhone Is Sleek, Smart and Simple.” *Washington Post*, July 5, 2007. ProQuest Central. {/.hanging-indent}
 > {.hanging-indent}Poll, Zoey. 2022. "The People Who Draw Rocks." *New York Times*, March 16, 2022. ProQuest Central. {/.hanging-indent}
@@ -930,7 +930,7 @@ For the reference list:
 
 - For news broadcasts begin the citation with the name of the journalist or reporter. Include the title of news segment and name of the news program
 
-Creator's Family Name, Given Name. Year. “Title of Video.” Additional information. Online video, duration. Accessed date. URL.
+{.hanging-indent}Creator's Family Name, Given Name. Year. “Title of Video.” Additional information. Online video, duration. Accessed date. URL. {/.hanging-indent}
 
 > {.hanging-indent}Brown, Brené. 2010. “The Power of Vulnerability.” Filmed June 2010 in Houston, TX. TED video, 20:49. Accessed July 4, 2021. https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability. {/.hanging-indent}
 > {.hanging-indent}Jack, Simon. 2022. *BBC News: Business*. “Why your fish and chips may cost a lot more.” Filmed and edited by Samantha Everett. Produced by Ollie Smith. Aired March 17, 2022. Online video, 02:29. Accessed March 21, 2022. https<nolink>://www.bbc.com/news/av/business-60762921. {/.hanging-indent}
@@ -986,14 +986,14 @@ For the reference list:
 
 **Film on DVD:**
 
-Director’s Family Name, Given Name, dir. Year of release. “Title of Scene.” *Title of Film*. Place of publication: Studio/Distributor, Year of publication. Medium.
+{.hanging-indent}Director’s Family Name, Given Name, dir. Year of release. “Title of Scene.” *Title of Film*. Place of publication: Studio/Distributor, Year of publication. Medium. {/.hanging-indent}
 
 > {.hanging-indent}Fellini, Federico, dir. 1960. “Fountain Scene.” *La Dolce Vita*. Sydney, NSW: Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
 > {.hanging-indent}Scott, Ridley, dir. 1982. *Blade Runner*. Burbank, CA: Warner Home Video, 2006. DVD. {/.hanging-indent}
 
 **Film streamed online:**
 
-Director’s Family Name, Given Name, dir. Year of release. *Title of Film*. Streaming service, duration. Accessed date. URL
+{.hanging-indent}Director’s Family Name, Given Name, dir. Year of release. *Title of Film*. Streaming service, duration. Accessed date. URL {/.hanging-indent}
 
 > {.hanging-indent}Bricker, Eric, dir. 2009. *Visual Acoustics: The Modernism of Julius Shulman*. Shulman Project Partners. Kanopy video, 01:23:00. Accessed July 4, 2021. https<nolink>://www.kanopy.com/product/visual-acoustics. {/.hanging-indent}
 > {.hanging-indent}Teller, Raymond Joseph, dir. 2013. *Tim's Vermeer*. EduTV video, 01:16:27. Accessed July 4, 2021. Informit EduTV. {/.hanging-indent}
@@ -1043,7 +1043,7 @@ For the reference list:
 
 - Include a URL, name of streaming service, or library database at the end of the citation if viewed online.
 
-Creator's Family Name, Given Name, role. Year. *Title of Program*. Season number, episode number, “Title of Episode.” Additional contributors. Aired date, on Studio/station. Medium.
+{.hanging-indent}Creator's Family Name, Given Name, role. Year. *Title of Program*. Season number, episode number, “Title of Episode.” Additional contributors. Aired date, on Studio/station. Medium. {/.hanging-indent}
 
 > {.hanging-indent}Berger, John, presenter. 1972. *Ways of Seeing*. “Part 1: Reproductions.” Produced by Michael Dibb. Aired January 8, 1972, on BBC. Accessed July 4, 2021. RMIT Digital Collections. {/.hanging-indent}
 > {.hanging-indent}McCloud, Kevin, presenter. 2017. *Grand Designs*. Season 18, episode 7, “Peak District: Post-Industrial House.” Aired October 18, 2017, on Channel 4. Television Broadcast. {/.hanging-indent}
@@ -1079,7 +1079,7 @@ To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preced
 
 #### Reference list
 
-Presenter’s Family Name, Given Name. Year broadcast. “Episode Title.” Date broadcast. In *Program Title*. Place produced: Network. Medium.
+{.hanging-indent}Presenter’s Family Name, Given Name. Year broadcast. “Episode Title.” Date broadcast. In *Program Title*. Place produced: Network. Medium. {/.hanging-indent}
 
 > {.hanging-indent}Barclay, Paul. 2017. "Julia Gillard Calls for More Preventative Mental Health Care." October 12, 2017. In *Big Ideas*. Adelaide, SA: ABC Radio National. Radio broadcast. {/.hanging-indent}
 
@@ -1120,7 +1120,7 @@ To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preced
 
 #### Reference list
 
-Presenter’s Family Name, Given Name. Year. “Episode Title.” Episode number. Date aired. In *Podcast Title*. Additional contributors. Podcast, Duration. Accessed date. URL.
+{.hanging-indent}Presenter’s Family Name, Given Name. Year. “Episode Title.” Episode number. Date aired. In *Podcast Title*. Additional contributors. Podcast, Duration. Accessed date. URL. {/.hanging-indent}
 
 > {.hanging-indent}Koenig, Sarah. 2014. “The Alibi.” Season 1, episode 1. October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder, and Dana Chivvis. Podcast, 52:00. Accessed July 9, 2021. https<nolink>://serialpodcast.org/season-one/1/the-alibi. {/.hanging-indent}
 > {.hanging-indent}Mars, Roman. 2020. “The Smell of Concrete After Rain.” Episode 400. April 28, 2020. In *99% Invisible*. Produced by Avery Trufelman. Podcast, 29:15. Accessed July 9, 2021. https<nolink>://99percentinvisible.org/episode/the-smell-of-concrete-after-rain. {/.hanging-indent}
@@ -1174,7 +1174,7 @@ For the reference list:
 
 - Include an accessed date and URL or name of streaming service at the end of the citation if sourced online.
 
-Creator's Family Name, Given Name. Year published. “Title of Track.” Track number on *Title of Recording*. Additional contributors. Publisher. Format. URL.
+{.hanging-indent}Creator's Family Name, Given Name. Year published. “Title of Track.” Track number on *Title of Recording*. Additional contributors. Publisher. Format. URL. {/.hanging-indent}
 
 > {.hanging-indent}Sinatra, Nancy, and Lee Hazelwood. 1968. “Some Velvet Morning.” Track 8 on *Nancy and Lee*. Reprise RS-6273. 33⅓ rpm. {/.hanging-indent}
 > {.hanging-indent}Strauss, Richard. 1940. *Don Quixote*. With Emanuel Feuermann (violoncello) and the Philadelphia Orchestra, conducted by Eugene Ormandy. Recorded February 24, 1940. Biddulph LAB 042, 1991. CD. {/.hanging-indent}
@@ -1205,7 +1205,7 @@ For direct quotes include a page number after the year, preceded by a comma.
 
 Include an accessed date and URL/ Database name for online scores.
 
-Composer’s Family Name, Given Name. Year of publication. *Title of Score*. Place of publication: Publisher.
+{.hanging-indent}Composer’s Family Name, Given Name. Year of publication. *Title of Score*. Place of publication: Publisher. {/.hanging-indent}
 
 > {.hanging-indent}Reich, Steve. 1980. *Four Organs*. London: Universal Edition. Accessed July 29, 2021. Alexander Street. {/.hanging-indent}
 > {.hanging-indent}Stravinsky, Igor. 1921. *The Rite of Spring*. New York: Boosey and Hawkes. {/.hanging-indent}
@@ -1220,7 +1220,7 @@ Composer’s Family Name, Given Name. Year of publication. *Title of Score*. Pla
 ###### end-type-content
 
 
-<!-- Websites and social media - links to the sixth type menu item -->
+<!-- Webpages, blogs and social media - links to the sixth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1255,7 +1255,7 @@ Composer’s Family Name, Given Name. Year of publication. *Title of Score*. Pla
 
 #### Reference list
 
-Author. Year. "Title of Webpage." Website name (owning organisation). Date viewed/accessed. URL.
+{.hanging-indent}Author. Year. "Title of Webpage." Website name (owning organisation). Date viewed/accessed. URL. {/.hanging-indent}
 
 > {.hanging-indent}Alliance for Linguistic Diversity. n.d. “Balkan Romani.” Endangered Languages. Accessed April 6, 2016. http<nolink>://www.endangeredlanguages.com/lang/5342. {/.hanging-indent}
 > {.hanging-indent}Australian Society for Indigenous Languages. n.d. "Supporting Indigenous Language Communities." Australian Society for Indigenous Languages. Accessed July 26, 2018. http<nolink>://www.ausil.org.au/. {/.hanging-indent}
@@ -1296,7 +1296,7 @@ Author. Year. "Title of Webpage." Website name (owning organisation). Date viewe
 
 #### Reference List
 
-Author's Family Name, Given Name OR Organisation Name. Year. *Document Title: Subtitle*. Document No. Place of Publication: Publisher. DOI or URL.
+{.hanging-indent}Author's Family Name, Given Name OR Organisation Name. Year. *Document Title: Subtitle*. Document No. Place of Publication: Publisher. DOI or URL. {/.hanging-indent}
 
 > {.hanging-indent}Australia. Department of Agriculture, Fisheries and Forestry. 2003. *Quarantine Requirements for the Importation of Live Laboratory Rats and Mice and Their Reproductive Material*. http<nolink>://www.daff.gov.au/\_\_data/assets/pdf\_file/0016/13822/2003-06a.pdf. {/.hanging-indent}
 > {.hanging-indent}Centre for Epidemiology and Evidence. 2017. *NSW Mothers and Babies Report 2016*. Sydney: NSW Health. http<nolink>://www.health.nsw.gov.au/hsnsw/Publications/mothers-and-babies-2016.pdf. {/.hanging-indent}
@@ -1338,9 +1338,9 @@ If directly quoting from a source without a page number, use a paragraph number 
 
 #### Reference list
 
-Author Family Name, Given Name. Year Posted. "Title of Blog Post." *Title of Blog* (blog). Month day, year posted. Accessed Month day, Year. URL.
+{.hanging-indent}Author Family Name, Given Name. Year Posted. "Title of Blog Post." *Title of Blog* (blog). Month day, year posted. Accessed Month day, Year. URL. {/.hanging-indent}
 
-The word blog is added in brackets after the title of the blog, unless the word blog is part of the title.
+The word **blog** is added in brackets after the title of the blog, unless the word blog is part of the title.
 
 > {.hanging-indent}“Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. *State Library of Victoria Blog*. June 26, 2017. Accessed April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt. {/.hanging-indent}
 > {.hanging-indent}Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue* (blog). May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
@@ -1389,7 +1389,7 @@ Private content, including direct messages, should be cited as personal communic
 
 #### Reference List
 
-Author’s Family Name, Given Name (Author’s Screen Name). Year Posted. "Quote up to the first 160 characters of the post". Name of Social Media Site, Month day, Year posted. URL.
+{.hanging-indent}Author’s Family Name, Given Name (Author’s Screen Name). Year Posted. "Quote up to the first 160 characters of the post". Name of Social Media Site, Month day, Year posted. URL. {/.hanging-indent}
 
 > {.hanging-indent}National Gallery of Victoria. 2021. “1 MIN READ: Take a moment to learn about Kabuki theatre with NGV Senior Curator of Asian Art, Wayne Crothers.” Facebook, August 25, 2021. https<nolink>://www.facebook.com/NGVMelbourne/posts/10159547500576163. {/.hanging-indent}
 > {.hanging-indent}Tame, Grace (@tamepunk). 2021. "“Making Noise” Kirsty Neilson—for this year’s Archibald Prize". Instagram photo, May 27, 2021. https<nolink>://www.instagram.com/p/CPXh8CRLJTE/. {/.hanging-indent}
@@ -1448,7 +1448,7 @@ The publisher and author should be recorded as they appeared when the document w
 
 #### Reference list
 
-Author's Family Name, Given Name or Committee or Department or Organisation Name. Year. *Title of Publication*. Document ID or version number if any. City, State abbreviation: Publisher. URL.
+{.hanging-indent}Author's Family Name, Given Name or Committee or Department or Organisation Name. Year. *Title of Publication*. Document ID or version number if any. City, State abbreviation: Publisher. URL. {/.hanging-indent}
 
 The report or document title must be in *italics*.
 
@@ -1494,7 +1494,7 @@ If using a print standard, omit the URL or database name.
 
 #### Reference list
 
-Standard Issuer Name. Year. *Title of Standard*. Standard Number. Place: Publisher. URL or database name.
+{.hanging-indent}Standard Issuer Name. Year. *Title of Standard*. Standard Number. Place: Publisher. URL or database name. {/.hanging-indent}
 
 > {.hanging-indent}Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. Sydney: SAI Global. https<nolink>://www.saiglobal.com. {/.hanging-indent}
 > {.hanging-indent}Standards Australia. 2009. *Wire-Rope Slings: Product Specification*. AS 1666.1-2009. Sydney: SAI Global. https<nolink>://www.saiglobal.com. {/.hanging-indent}
@@ -1506,7 +1506,7 @@ Standard Issuer Name. Year. *Title of Standard*. Standard Number. Place: Publish
 
 ###### start-subtype-item
 
-### Patent
+### Patents
 
 ###### start-subtype-content
 
@@ -1649,7 +1649,7 @@ If you refer to any visual material, i.e. art, design or architecture, you have 
 
 ##### In-Text Citation
 
-Artist’s Family Name Year of publication
+Artist’s Family Name (Year of publication)
 
 > Max Dupain's (1937) photographic work *Sunbaker* captures the head and shoulders of a man lying on a beach in New South Wales.
 
@@ -1657,7 +1657,7 @@ Artist’s Family Name Year of publication
 
 ##### Reference list
 
-Artist's Family Name, Given Name. Year. *Title: Subtitle.* Medium (if appropriate). Place: Publisher. URL or database name
+{.hanging-indent}Artist's Family Name, Given Name. Year. *Title: Subtitle.* Medium (if appropriate). Place: Publisher. URL or database name {/.hanging-indent}
 
 > {.hanging-indent}Burn, Henry. 1861. *Swanston Street from the Bridge*. Oil on canvas. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/. {/.hanging-indent}
 > {.hanging-indent}Dupain, Max. 1937. *Sunbaker. Photograph.* Photograph. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/7621/. {/.hanging-indent}
@@ -1689,7 +1689,7 @@ Artist’s Family Name, *Title of work*, Year of production, type of materials (
 
 ##### Reference list
 
-Artist’s Family Name, Given Name. Year of production. *Title of Artwork*. Medium, dimensions (if available). Collection or exhibition, Place of collection or exhibition.
+{.hanging-indent}Artist’s Family Name, Given Name. Year of production. *Title of Artwork*. Medium, dimensions (if available). Collection or exhibition, Place of collection or exhibition. {/.hanging-indent}
 
 > {.hanging-indent}Anadol, Refik. 2020. *Quantum Memories.* AI Data Sculpture, Custom software, quantum computing data, generative algorithm with artificial intelligence (AI), real time digital animation on LED screen, 4 channel sound, 10m x 10m x 2.5m. National Gallery of Victoria, Melbourne. {/.hanging-indent}
 > {.hanging-indent}O'Keeffe,Georgia. 1938. *The Cliff Chimneys*. Milwaukee Art Museum, Wisconsin. {/.hanging-indent}
@@ -1711,7 +1711,7 @@ Author’s Family Name Year of publication
 
 Create the reference list entry according to the rules for the source. List authors in the order in which they appear in the source. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
 
-Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book*. Place of Publication: Publisher's Name.
+{.hanging-indent}Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book*. Place of Publication: Publisher's Name. {/.hanging-indent}
 
 > {.hanging-indent}Baratay, Eric and Elisabeth Hardouin Fugier. 2002. *Zoo*. London: Reaktion Books. {/.hanging-indent}
 > {.hanging-indent}Buhler Lynes, Barbara, Lesley Poling-Kempes and Frederick W. Turner. 2004. *Georgia O'Keeffe and New Mexico: A Sense of Place*. Princeton: Princeton University Press. {/.hanging-indent}
@@ -1810,7 +1810,9 @@ Begin with the word 'Source: ' or Sources:', in italics, followed by a colon, th
 Example - Adapting a table from a published journal article:
 
 > Table 1: Data for end of life nursing care
+> 
 > ![Sample image](images/sample-image.gif)
+> 
 > *Source*: Reprinted from Susan E. Lowey, *Nursing Care at the End of Life* (Geneseo, NY: Open SUNY Textbooks, 2015), table 3.1, http<nolink>://pressbooks.opensuny.org/nursingcare. Copyright 2015 by Susan E. Lowey (Creative Commons).
 
 ##### In-Text Citation
@@ -1825,7 +1827,9 @@ Author's Last Name/s Year of Publication, page number, table or graph number
 
 ##### Reference List
 
-If for a book: First Author's Family Names, First Name, Other Author's First and Family Names. Year. Book Title: Subtitle. edition. Place of Publication: Publisher.
+If for a book: 
+
+{.hanging-indent}First Author's Family Names, First Name, Other Author's First and Family Names. Year. Book Title: Subtitle. edition. Place of Publication: Publisher. {/.hanging-indent}
 
 > {.hanging-indent}Chavas, Jean-Paul, David Hummels, and Brian D. Wright, eds. 2014. The Economics of Food Price Volatility. Chicago: University of Chicago Press. {/.hanging-indent}
 
@@ -1851,7 +1855,7 @@ As shown in Figure 1, ... (Sobel 1993, 87, figure 5.3).
 
 Follow the reference list rules for the type of resource you are citing ie. book, journal etc.
 
-Author’s or Editor’s Surname, Given Name their role. Year of publication. *Title of Publication: Subtitle of Publication.* Place of publication: Publisher’s name.
+{.hanging-indent}Author’s or Editor’s Surname, Given Name their role. Year of publication. *Title of Publication: Subtitle of Publication.* Place of publication: Publisher’s name. {/.hanging-indent}
 
 > {.hanging-indent}Sobel, Richard ed., 1993. *Public Opinion in US Foreign Policy: The Controversy over Contra Aid.* Boston: Rowman and Littlefield. {/.hanging-indent}
 
@@ -1898,7 +1902,7 @@ An access date is only included in the reference list entry if no date of public
 
 #### Reference List
 
-Author family name, First name OR Organisation name. Year of publication. ‘Title of dataset.’ Identifying number if applicable. *Title of series if applicable*. Dataset. Accessed Month Day, Year if applicable. URL.
+{.hanging-indent}Author family name, First name OR Organisation name. Year of publication. ‘Title of dataset.’ Identifying number if applicable. *Title of series if applicable*. Dataset. Accessed Month Day, Year if applicable. URL. {/.hanging-indent}
 
 > {.hanging-indent}Australian Bureau of Statistics. 2020. ‘Table 15: Average weekly cash earnings, Australia by sector (dollars) – original.’ *6302.0 Average Weekly Earnings, Australia, May 2020.* Dataset. https<nolink>://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/may-2020 {/.hanging-indent}
 > {.hanging-indent}Bureau of Meteorology. 2022. ‘Melbourne Botanical Gardens.’ Station number 86232. *Monthly rainfall*. Dataset. http<nolink>://www.bom.gov.au/climate/data/?ref=ftr. {/.hanging-indent}
@@ -1938,7 +1942,7 @@ Fact sheets are often authored and published by government departments, governme
 
 #### Reference list
 
-Author Family Name, First Name or Organisation Name. Year. *Title in italics*. City, State abbreviation: Publisher. URL.
+{.hanging-indent}Author Family Name, First Name or Organisation Name. Year. *Title in italics*. City, State abbreviation: Publisher. URL. {/.hanging-indent}
 
 When the organisation-as-author and publisher are the same entity, include the organisation name in both places in the reference list entry.
 
@@ -1983,7 +1987,7 @@ Examples of course materials are:
 
 ##### Reference list
 
-Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date. Format.
+{.hanging-indent}Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date. Format. {/.hanging-indent}
 
 > {.hanging-indent}Hong, Viviana. 2015. “Censorship in Children’s Literature during Argentina’s Dirty War (1976–1983)” EDU1234: Issues in Children’s Literature. Chicago: University of Chicago. April 30, 2015. Lecture. {/.hanging-indent}
 
@@ -2007,7 +2011,7 @@ Add a time stamp in the format of HH:MM:SS when quoting directly from a lecture 
 
 Include the lecture URL if there is one available. If the course materials can only be accessed with an account login, include a general URL to the site or the database name.
 
-Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date of lecture. Format. URL or Database name.
+{.hanging-indent}Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date of lecture. Format. URL or Database name. {/.hanging-indent}
 
 > {.hanging-indent}Fry, Andrew. 2016. "Lecture 2 - Data Communication and Net-Centric Computing: Lecture 8." COSC1111: *Data Communication and Net-Centric Computing.* Melbourne: RMIT University. March 8, 2016. Lecture recording. Canvas. {/.hanging-indent}
 
@@ -2031,7 +2035,7 @@ Add the slide number when quoting directly from a PowerPoint presentation.
 
 Include the lecture URL if there is one available. If the course materials can only be accessed with an account login, include a general URL to the site or the database name.
 
-Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date accessed. Format. URL or Database name.
+{.hanging-indent}Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date accessed. Format. URL or Database name. {/.hanging-indent}
 
 > {.hanging-indent}Sample, Sara. 2017. "Human rights in indigenous communities: Lecture 8." HUSO2301: *Applied Human Rights and indigenous Peoples.* Melbourne: RMIT University. Accessed April 10, 2017. Powerpoint presentation. Canvas. {/.hanging-indent}
 
@@ -2089,7 +2093,7 @@ Information obtained from personal communication does not need to be included in
 
 ###### start-subtype-item
 
-### Published interviews
+### Interviews
 
 ###### start-subtype-content
 
@@ -2109,7 +2113,7 @@ For the reference list:
 
 - Include an accessed date, followed by URL for any online material.
 
-Interviewee’s Family Name, Given Name. Year of publication. “Title of content”. Interview by Interviewer’s Full Name. *Title of Publication*. Date of publication. Format. Accessed date. URL.
+{.hanging-indent}Interviewee’s Family Name, Given Name. Year of publication. “Title of content”. Interview by Interviewer’s Full Name. *Title of Publication*. Date of publication. Format. Accessed date. URL. {/.hanging-indent}
 
 > {.hanging-indent}Herndon, Holly and Mat Dryhurst. 2020. “Holly Herndon and Mat Dryhurst: Inhuman Intelligence (Machine Listening).” Interview by Sean Dockray. *Liquid Architecture*. January 20, 2020. Podcast, 1:11:00. Accessed July 9, 2021. https<nolink>://podcasts.apple.com/au/podcast/holly-herndon-mat-dryhurst-inhuman-intelligence-machine/id1501072515?i=1000467579474. {/.hanging-indent}
 > {.hanging-indent}Stamper, Kory. 2017. “From ‘F-Bomb’ to ‘Photobomb,’ How the Dictionary Keeps Up with English.” Interview by Terry Gross. *Fresh Air*, NPR, April 19, 2017. Audio, 35:25. Accessed July 9, 2021. http<nolink>://www.npr.org/2017/04/19/524618639/from-f-bomb-to-photobomb-how-the-dictionary-keeps-up-with-english. {/.hanging-indent}
@@ -2139,7 +2143,7 @@ For the reference list:
 - If the interviewee is not identified do not included a reference list entry, and instead cite in-text only.
 
 
-Interviewee’s Family Name, Given Name. Interview by Interviewer’s Full Name. Date of interview. Place.
+{.hanging-indent}Interviewee’s Family Name, Given Name. Interview by Interviewer’s Full Name. Date of interview. Place. {/.hanging-indent}
 
 > {.hanging-indent}Artcore, Lance. 2019. Interview by author. April 23, 2019. Melbourne. {/.hanging-indent}
 
@@ -2181,7 +2185,7 @@ If you cite or quote your previous work, treat yourself as the author and your o
 
 #### Reference list
 
-Student Family Name, Given Name. Year. "Title of work." Unpublished manuscript, last modified Month Day, Year. University, City. Format.
+{.hanging-indent}Student Family Name, Given Name. Year. "Title of work." Unpublished manuscript, last modified Month Day, Year. University, City. Format. {/.hanging-indent}
 
 > {.hanging-indent}Smith, Jane. 2018. "An analysis of personality theory." Unpublished manuscript, last modified September 4, 2018. RMIT University, Melbourne. Microsoft Word file. {/.hanging-indent}
 
@@ -2217,7 +2221,7 @@ Hard copy theses or dissertations do not require a URL or database/repository na
 
 When the document is labelled PhD dissertation, use the abbreviation PhD diss.
 
-Author’s Family Name, Author’s Given Name. Year of Award. “Title of Thesis or Dissertation: Subtitle.” Master's thesis, PhD thesis or PhD diss., University’s Name. URL or Database/Repository name (Document identifier).
+{.hanging-indent}Author’s Family Name, Author’s Given Name. Year of Award. “Title of Thesis or Dissertation: Subtitle.” Master's thesis, PhD thesis or PhD diss., University’s Name. URL or Database/Repository name (Document identifier). {/.hanging-indent}
 
 > {.hanging-indent}Court, Tanya. 2019. "The Site Re-Presented: Everyday Civic Landscapes." PhD diss., RMIT University. RMIT Research Repository (9921864000901341). {/.hanging-indent}
 > {.hanging-indent}Rutz, Cynthia Lillian. 2013. “King Lear and Its Folktale Analogues.” PhD diss., University of Chicago. {/.hanging-indent}
