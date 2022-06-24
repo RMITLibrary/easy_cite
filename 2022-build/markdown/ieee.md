@@ -55,7 +55,7 @@
 
 - Confirm the referencing requirements of your School with your lecturer, and
 
-- Use [IEEE Reference Guide, 2021](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf)(PDF, 1.37Kb, 43 pages) to clarify referencing rules or if you need more examples. This guide is based on this publication.
+- Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide, 2021</a> (opens in a new tab)(PDF, 1.37Kb, 43 pages) to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
 The IEEE (Institute of Electrical and Electronics Engineers) citation style is a **numbered** style where references are numbered [1], [2], [3] in-text and so on in the order of appearance in the body of the document. A **Reference List** at the end of the work provides full details of all references cited in-text. The references are ordered as they appear in the in-text references (in order of citation, not in alphabetical order). You need to follow this style when acknowledging your information sources.
 
@@ -63,7 +63,7 @@ The IEEE (Institute of Electrical and Electronics Engineers) citation style is a
 
 Download the IEEE referencing guide (DOCX, 74.8 KB, 14 pages) from the IEEE Author Center:
  
-[Referencing guides for printing list](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/)
+<a href="https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/" target="_blank">Referencing guides for printing list</a> (opens in a new tab).
 
 
 ###### end-subtype-content
@@ -251,23 +251,23 @@ Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for 
 
 #### Word abbreviations
 
-Standard IEEE words when used in a reference should be abbreviated. See the **Useful Abbreviations in References** section of the [IEEE Reference Guide (2021)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) pp. 20–24.
+Standard IEEE words when used in a reference should be abbreviated. See the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2021)</a> (opens in a new tab) pp. 20–24.
 
 #### Journal title abbreviations
 
-If referencing any IEEE journal titles, then refer to the [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) document.
+If referencing any IEEE journal titles, then refer to the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) document.
 
 #### Magazine title abbreviations
 
-When referencing IEEE magazine titles, then refer to the [IEEE Magazine Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Magazine-Titles-and-Abbreviations.pdf) document.
+When referencing IEEE magazine titles, then refer to the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Magazine-Titles-and-Abbreviations.pdf" target="_blank">IEEE Magazine Titles and Reference Abbreviations (2018)</a> (opens in a new tab) document.
 
 #### Conference proceeding abbreviations
 
-When citing conference proceedings, the common rule is to list the author(s), title, name and location (if provided) of the conference and use any standard abbreviations where necessary. For further details, refer to the **Conferences and Conference Proceedings** section of the [IEEE Reference Guide (2021)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) p. 5.
+When citing conference proceedings, the common rule is to list the author(s), title, name and location (if provided) of the conference and use any standard abbreviations where necessary. For further details, refer to the **Conferences and Conference Proceedings** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2021)</a> (hopens in a new tab) p. 5.
 
 #### Publisher abbreviations
 
-For a list of some publisher abbreviations refer to the **List of Publishers** section of the [IEEE Reference Guide (2021)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) pp. 24–39.
+For a list of some publisher abbreviations refer to the **List of Publishers** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2021)</a> (opens in a new tab) pp. 24–39.
 
 #### Acronyms in-text
 
@@ -755,9 +755,9 @@ Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the fi
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the  <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -801,9 +801,9 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -851,9 +851,9 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -901,9 +901,9 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -951,9 +951,9 @@ Author initials. Family name, "Title of article," abbrev. *Title of Journal*, vo
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -997,9 +997,9 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -1043,9 +1043,9 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -1100,9 +1100,9 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -1938,7 +1938,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the [Assessment Declaration](https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
 
 The publication, IEEE Reference Guide (2020) does not provide guidelines on how to cite your own work. The following examples show how to cite your own work that you have previously submitted for assessment.
 

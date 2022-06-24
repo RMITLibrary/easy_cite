@@ -58,7 +58,7 @@
 
 - Please confirm the referencing requirements for your course with your lecturer.
 
-- Use the *Referencing and attribution* section of the [Australian Government Style Manual (AGSM)](https://www.stylemanual.gov.au/) released in 2021 to clarify referencing rules or if you need more examples. This guide is based on this publication.
+- Use the *Referencing and attribution* section of the <a href="https://www.stylemanual.gov.au/" target="_blank">Australian Government Style Manual (AGSM)</a> (opens in a new tab) released in 2021 to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
 RMIT Harvard is an author-date referencing style.
 
@@ -2519,7 +2519,7 @@ Refer to a figure by its assigned number, not as the figure above or below or on
 
 ##### Examples
 
-> {.figure-text}Figure 7: James Kearney (1855) *Melbourne and its suburbs: map 1* \[digitised map\], SLV https://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
+> {.figure-text}Figure 7: James Kearney (1855) *Melbourne and its suburbs: map 1* \[digitised map\], SLV https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
 
 > {.figure-text}Figure 8: *Plenty Road Bundoora 3083* by VicPlan, 2020, web map. {/.figure-text}
 
@@ -3164,7 +3164,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-Take care to give accurate and complete details about legislation (Acts) and legal cases. The *Legal Material* section of the [Australian Government Style Manual](https://www.stylemanual.gov.au/referencing-and-attribution/legal-material) provides more detail and examples regarding the use of legal materials.
+Take care to give accurate and complete details about legislation (Acts) and legal cases. The *Legal Material* section of the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/legal-material" target="_blank">Australian Government Style Manual</a> (opens in a new tab) provides more detail and examples regarding the use of legal materials.
 
 #### Legislation (Act)
 

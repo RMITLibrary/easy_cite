@@ -65,6 +65,8 @@ There are two systems outlined by the Chicago referencing style: **Author-Date**
 
 This guide use examples in the **author-date** system. The author-date system requires in-text citations within the assignment, along with a full bibliographic entry in the reference list at the end of the assignment.
 
+For examples and advice regarding **Notes-Bibliography** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago A: Notes and Bibliography 17th ed.](index.php?styleguide=styleguide-3#stn-0).
+
 
 ###### end-subtype-content
 
@@ -79,9 +81,9 @@ This guide use examples in the **author-date** system. The author-date system re
 
 - Use in-text citations to acknowledge each author or source of information used within your writing either by paraphrasing or using a direct quote.
 
-- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see [Learning lab: Guide to paraphrasing](https://emedia.rmit.edu.au/learninglab/content/paraphrasing) (opens in a new window)
+- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://emedia.rmit.edu.au/learninglab/content/paraphrasing" target="_blank">Learning lab: Guide to paraphrasing</a> (opens in a new tab)
 
-- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see [Learning Lab: Guide to inserting references](https://emedia.rmit.edu.au/learninglab/content/inserting-references) (opens in a new window)
+- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://emedia.rmit.edu.au/learninglab/content/inserting-references" target="_blank">Learning Lab: Guide to inserting references</a> (opens in a new tab)
 
 - For specific advice on each reference you must determine the type of resource ie. book, journal article etc. and follow the recommended advice within this guide.
 
@@ -835,7 +837,7 @@ For articles consulted online, include a URL or the name of the database in the 
 
 If the article can only be accessed with an account login, provide the web address of the publisher's homepage or provide the database name.
 
-Many journal articles list a DOI (Digital Object Identifier). A DOI forms a permanent URL that begins https://doi.org/. This URL is preferable to the URL that appears in your browser’s address bar.
+Many journal articles list a DOI (Digital Object Identifier). A DOI forms a permanent URL that begins https<nolink>://doi.org/. This URL is preferable to the URL that appears in your browser’s address bar.
 
 Sources such as webpages or online newspaper articles do not always include page numbers - for such unpaginated works, it may be appropriate to cite a paragraph number or section heading for in-text citations. For example, Smith (2018, para. 2) notes...
 
@@ -1090,7 +1092,7 @@ To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preced
 
 ###### start-subtype-item
 
-### Podcasts
+### Podcast
 
 ###### start-subtype-content
 
@@ -1132,7 +1134,7 @@ To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preced
 
 ###### start-subtype-item
 
-### Sound recordings
+### Sound recording
 
 ###### start-subtype-content
 
@@ -1308,7 +1310,7 @@ Include an accessed date and URL/ Database name for online scores.
 
 ###### start-subtype-item
 
-### Blog post
+### Blog posts
 
 ###### start-subtype-content
 
@@ -1413,7 +1415,7 @@ Private content, including direct messages, should be cited as personal communic
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Government report
+### Government reports
 
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -1770,11 +1772,11 @@ Figure number. Description or explanation.
 
 #### Copyright information for the coach image
 
-This [coach image](https://www.metmuseum.org/art/collection/search/378235) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
+This <a href="https://www.metmuseum.org/art/collection/search/378235" target="_blank">coach image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
 #### Copyright information for the tapestry image
 
-This [Dragon tapestry image](https://www.metmuseum.org/art/collection/search/39733) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
+This <a href="https://www.metmuseum.org/art/collection/search/39733" target="_blank">Dragon tapestry image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
 ###### end-subtype-content
 
@@ -2046,7 +2048,7 @@ Include the lecture URL if there is one available. If the course materials can o
 
 ###### start-subtype-item
 
-### Personal communication
+### Personal communications
 
 ###### start-subtype-content
 

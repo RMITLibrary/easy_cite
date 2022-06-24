@@ -53,13 +53,13 @@
 
 There are two formats of referencing within the Chicago Style. One is **notes and bibliography** (Chicago A) and the other is **author-date** style (Chicago B). This guide provides examples and advice for **notes and bibliography only**. Notes and bibliography uses a numerical system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography should be included at the end of the document, preferably in alphabetical order.
 
-For examples and advice regarding **author-date style** of Chicago, please see [RMIT Easy Cite guide](https://www.lib.rmit.edu.au/easy-cite/).
+For examples and advice regarding **author-date style** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago B: Author-Date 17th ed.](index.php?styleguide=styleguide-4#stn-0).
 
 **Footnotes/ Endnotes** : Footnotes or endnotes are numbered and correspond to note reference numbers in the text.
 
 **Bibliography** : A bibliography is the term used for a list of resources consulted (e.g. books, articles, websites) when writing an assignment.
 
-This guide is based on the Chicago Manual of Style 17th edition [The Chicago manual of style. 17th edition.](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341)
+This guide is based on the Chicago Manual of Style 17th edition <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341" target="_blank">The Chicago manual of style. 17th edition.</a> (opens in a new tab)
 
 ###### end-subtype-content
 
@@ -76,9 +76,9 @@ Always check with your tutor or lecturer about any specific requirements they ha
 
 Look at the example documents to view footnotes and endnotes in Microsoft Word.
 
-- [Sample essay - footnotes](https://rmit.libguides.com/ld.php?content_id=49642286)
+- <a href="https://rmit.libguides.com/ld.php?content_id=49642286" target="_blank">Sample essay - footnotes</a> (downloads a document)
 
-- [Sample essay - endnotes](https://rmit.libguides.com/ld.php?content_id=49642290)
+- <a href="https://rmit.libguides.com/ld.php?content_id=49642290" target="_blank">Sample essay - endnotes</a> (downloads a document)
 
 #### Notes - Footnotes or Endnotes
 
@@ -1032,7 +1032,7 @@ OR
 
 ###### start-subtype-item
 
-### Podcasts
+### Podcast
 
 ###### start-subtype-content
 
@@ -1085,7 +1085,7 @@ Podcast presenters are usually treated as the author except in the case of inter
 
 ###### start-subtype-item
 
-### Radio broadcasts
+### Radio broadcast
 
 ###### start-subtype-content
 
@@ -1120,7 +1120,7 @@ Podcast presenters are usually treated as the author except in the case of inter
 
 ###### start-subtype-item
 
-### Sound recordings
+### Sound recording
 
 ###### start-subtype-content
 
@@ -1194,7 +1194,7 @@ Or
 
 ###### start-subtype-item
 
-### Musical scores
+### Musical score
 
 ###### start-subtype-content
 

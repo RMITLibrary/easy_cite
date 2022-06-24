@@ -54,7 +54,7 @@
 **Important**: This is a guide only. To avoid losing marks:
 
 - Confirm the referencing requirements of your school with your lecturer, and
-Use the [American Psychological Association. (2020). Publication manual of the American Psychological Association (7<sup>th</sup> ed.)](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341). to clarify referencing rules or if you need more examples. This guide is based on this publication.
+Use the <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341" target="_blank">American Psychological Association. (2020). Publication manual of the American Psychological Association (7<sup>th</sup> ed.)</a> (opens in a new tab). to clarify referencing rules or if you need more examples. This guide is based on this publication.
 APA is an **author-date** referencing style. You need to follow this style when acknowledging your information sources.
 
 - APA style requires that all references in a document are to be cited in-text, and that all in-text citations are compiled in a reference list at the end of the document. **In-text citations** appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable). The **reference list** must provide full details of all in-text citations, and be arranged alphabetically by author.
@@ -1652,7 +1652,7 @@ The figure must appear in the reference list, and the citation is formatted in c
 
 **Copyright information for the MRI image**
 
-["MRI"](https://www.flickr.com/photos/calliope/7694882446) by [Liz West](https://www.flickr.com/photos/calliope/) can be reused under the [CC BY 2.0 license](https://creativecommons.org/licenses/by/2.0/).
+["MRI"](https<nolink>://www.flickr.com/photos/calliope/7694882446) by [Liz West](https<nolink>://www.flickr.com/photos/calliope/) can be reused under the [CC BY 2.0 license](https<nolink>://creativecommons.org/licenses/by/2.0/).
 
 ###### end-subtype-content
 
@@ -2003,7 +2003,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the [Assessment Declaration](https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
 
 The *Publication manual of the American Psychological Association* does not provide information on how to cite your own work. The following is based on how to cite dissertations and theses.
 

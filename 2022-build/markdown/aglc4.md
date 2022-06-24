@@ -55,7 +55,7 @@ Important: This is a guide only. To avoid losing marks:
 
 -	The Australian Guide to Legal Citation (AGLC) 4th ed, 2018 is a required referencing style for students enrolled in the Juris Doctor program at RMIT University.
 
--	Use [*Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018)](https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
+-	Use <a href="https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf" target="_blank">*Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018)</a> (opens in a new tab), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
 
 ###### end-subtype-content
@@ -104,7 +104,7 @@ A pinpoint reference within a footnote directs the reader to a particular place 
 
 -	A pinpoint reference is provided at the end of the footnote.
 
-See section 3.1.4 of the [AGLC4](https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf)  for a full list of abbreviations used in pinpoint references for legislative materials.
+See section 3.1.4 of the <a href="https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf" target="_blank">AGLC4</a> (opens in a new tab)  for a full list of abbreviations used in pinpoint references for legislative materials.
 
 #### Repeat citations
 
@@ -291,9 +291,9 @@ Example of a pinpoint reference to a paragraph
 
 #### Law report abbreviations
 
-Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the [Monash University website](https://guides.lib.monash.edu/legal-abbreviations).
+Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the <a href="https://guides.lib.monash.edu/legal-abbreviations" target="_blank">Monash University website</a> (opens in a new tab).
 
-Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the [Cardiff University database](http://www.legalabbrevs.cardiff.ac.uk/).
+Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/" target="_blank">Cardiff University database</a> (opens in a new tab).
 
 ###### end-subtype-content
 
@@ -363,9 +363,9 @@ A pinpoint reference is a reference to a specific page, paragraph or other secti
 > <sup>1</sup> *Stanford v Stanford* [2012] HCA 52 (15 November 2012) [12].
 
 #### Law report abbreviations
-Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the [Monash University website](https://guides.lib.monash.edu/legal-abbreviations).
+Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the <a href="https://guides.lib.monash.edu/legal-abbreviations" target="_blank">Monash University website</a> (opens in a new tab).
 
-Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the [Cardiff University database](http://www.legalabbrevs.cardiff.ac.uk/).
+Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/" target="_blank">Cardiff University database</a> (opens in a new tab).
 
 ###### end-subtype-content
 
@@ -919,7 +919,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the [Assessment Declaration](https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
 
 The publication, *Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018) does not provide guidelines on how to cite your own work. The following examples show how to cite your own work that you have previously submitted for assessment.
 

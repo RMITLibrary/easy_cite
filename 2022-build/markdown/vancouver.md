@@ -52,7 +52,7 @@
 
 Confirm the referencing requirements of your school with your lecturer, and
 
-Use [Citing medicine: the NLM style guide for authors, editors, and publishers (2nd ed.)](http://www.nlm.nih.gov/citingmedicine) to clarify referencing rules or if you need more examples. This guide is based on this publication.
+Use <a href="http://www.nlm.nih.gov/citingmedicine" target="_blank">Citing medicine: the NLM style guide for authors, editors, and publishers (2nd ed.)</a> (opens in a new tab) to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
 The Vancouver referencing style is a **numbered system**, predominantly used in the medical field. Authorship is acknowledged using a number to represent a reference. From the in-text reference number, the reader may consult the reference list for full publication details.
 
@@ -1095,7 +1095,7 @@ The citation in the reference list will include the reference number you assigne
 
 **Copyright information for the MRI image**
 
-["MRI"](https://www.flickr.com/photos/calliope/7694882446) by [Liz West](https://www.flickr.com/photos/calliope/) can be reused under the [CC BY 2.0 license](https://creativecommons.org/licenses/by/2.0/).
+["MRI"](https<nolink>://www.flickr.com/photos/calliope/7694882446) by [Liz West](https<nolink>://www.flickr.com/photos/calliope/) can be reused under the [CC BY 2.0 license](https<nolink>://creativecommons.org/licenses/by/2.0/).
 
 ###### end-subtype-content
 
@@ -1145,9 +1145,9 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the [Assessment Declaration](https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
 
-The publication [Citing Medicine](https://www.ncbi.nlm.nih.gov/books/NBK7256/) on which this information is based does not provide guidelines on how to cite your own work. The following is based on how to cite dissertations and theses.
+The publication <a href="https://www.ncbi.nlm.nih.gov/books/NBK7256/" target="_blank">Citing Medicine</a> (opens in a new tab) on which this information is based does not provide guidelines on how to cite your own work. The following is based on how to cite dissertations and theses.
 
 If you cite or quote your previous work, treat yourself as the author and your own previous course work as an unpublished paper.
 
