@@ -1872,13 +1872,13 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 The example below comes from a source that has a page number, i.e. 4:
 
-> The Department of Education and Training, Victoria (2020:4) states that 'when teachers work together to improve their practice, students learn more'.
+> The DET, Victoria (2020:4) states that 'when teachers work together to improve their practice, students learn more'.
 
 #### In-text reference: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-> Students' capacity to learn increases when teachers collaborate to improve their educational practices (Department of Education and Training, Victoria 2020).
+> Students' capacity to learn increases when teachers collaborate to improve their educational practices (DET, Victoria 2020).
 
 #### Reference list entry
 
@@ -1904,7 +1904,7 @@ In your reference list:
 
 ##### Example
 
-> Department of Education and Training (DET), Victoria (2020) *High impact teaching strategies*, DET website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx
+> DET (Department of Education and Training), Victoria (2020) *High impact teaching strategies*, DET website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx
 
 ###### end-subtype-content
 
@@ -1962,7 +1962,7 @@ In your reference list:
 
 ##### Rule (with author)
 
-> Author's family name Initial (Day Month Year) 'Title of article: subtitle', *Name of Blog*, accessed Day Month Year. URL
+> Author's family name Initial (Day Month Year) 'Title of post: subtitle of post', *Name of Blog*, accessed Day Month Year. URL
 
 ##### Example
 
@@ -1970,7 +1970,7 @@ In your reference list:
 
 ##### Rule (no author)
 
-> Name of Blog (Day Month Year) 'Title of article: subtitle of article', *Name of Blog*, accessed Day Month Year. URL
+> Name of Blog (Day Month Year) 'Title of post: subtitle of post', *Name of Blog*, accessed Day Month Year. URL
 
 ##### Example
 
@@ -2028,7 +2028,7 @@ In your reference list:
 
 ##### Rule
 
-> Poster's family name Initial or Name of Page (Day Month Year) 'Title or first 10 words of content of post ...' \[type of post\], Page of Post, accessed Day Month Year. URL
+> Author's family name Initial or Page Name (Day Month Year) 'Title or first 10 words of content of post ...' \[type of post\], Post Name, accessed Day Month Year. URL
 
 ##### Examples
 
@@ -2731,13 +2731,13 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 For direct quotes, page numbers are only required when they are provided in the original work. After the year, put a colon (:) followed by the page number. If no page number is available, you can indicate the location of the quote in your writing.
 
-> This 'review provides an opportunity to reflect on the lessons that can be learned from the first five years of the TEQSA Act's operation' (Department of Education and Training 2016).
+> This 'review provides an opportunity to reflect on the lessons that can be learned from the first five years of the TEQSA Act's operation' (DET 2016).
 
 #### In-text reference: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-> The review into the impact of the *Tertiary Education Quality and Standards Agency Act 2011* will examine...(Department of Education and Training 2016).
+> The review into the impact of the *Tertiary Education Quality and Standards Agency Act 2011* will examine...(DET 2016).
 
 #### Reference list entry
 
@@ -2749,17 +2749,17 @@ In your reference list:
 
 ##### Rule (government report)
 
-> Author's family name Initial or Agency Name (Year) *Title of report: subtitle of report*, Name of Agency, Name of Government, accessed Day Month Year. URL
+> Author's family name Initial (Year) *Title of report: subtitle of report*, Name of Agency, Name of Government, accessed Day Month Year. URL
 
 ##### Examples
 
 > Hayne KM (2019) *Royal Commission into misconduct in the banking, superannuation and financial services industry*, Volume 3, Australian Government, accessed 13 December 2021. https<nolink>://www.royalcommission.gov.au/banking/final-report
  
-> Wells Advisory (2021) *Forward impact of COVID-19 on Australian higher education*, TEQSA, Australian Government, accessed 13 December 2021. https<nolink>://www.teqsa.gov.au/latest-news/publications/forward-impact-covid-19-australian-higher-education-report
+> Wells Advisory (2021) *Forward impact of COVID-19 on Australian higher education*, Tertiary Education Quality and Standards Agency (TEQSA), Australian Government, accessed 13 December 2021. https<nolink>://www.teqsa.gov.au/latest-news/publications/forward-impact-covid-19-australian-higher-education-report
 
 ##### Rule (organisation report)
 
-> Author's family name Initial or Organisation's Name (Year) *Title of report: subtitle of report*, Name of Publisher, accessed Day Month Year. URL
+> Author's family name Initial (Year) *Title of report: subtitle of report*, Name of Publisher, accessed Day Month Year. URL
 
 ##### Example
 
@@ -3144,7 +3144,7 @@ In your reference list:
 
 ##### Rule
 
-> Lecturer's family name Initial OR RMIT Creds (Year) 'Title of course material' \[type of course material\], Name of University, Location (if not inferred by university name).
+> Lecturer's family name Initial or RMIT Creds (Year) 'Title of course material' \[type of course material\], Name of University, Location (if not inferred by university name).
 
 ##### Examples
 
@@ -3464,7 +3464,7 @@ Add the accessed date (e.g. accessed 5 December 2021), followed by a full stop, 
 
 ##### Example
 
-> Vietnam Customs (2021) *Thống kê Hải quan* (Customs statistics), Vietnam Customs, accessed 5 December 2021. https<nolink>://tongcuc.customs.gov.vn/
+> Vietnam Customs (2021) *Thống kê Hải quan* (Customs statistics), Vietnam Customs, website, accessed 5 December 2021. https<nolink>://tongcuc.customs.gov.vn/
 
 ###### end-subtype-content
 

@@ -9,13 +9,25 @@
     <title>EasyCite</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.png" />
-	<!-- Google Tag Manager -->
+	<!-- Google Tag Manager 
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-MBF5VGG');</script>
-	<!-- End Google Tag Manager -->
+	--><!-- End Google Tag Manager -->
+	
+<script>
+//Tracking script
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-91234614-1', 'auto');
+  ga('send', 'pageview');
+</script>
+	
     <!-- Core theme CSS, JS & JQUERY (includes Bootstrap)-->
     <!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 	<link href="css/main.css" rel="stylesheet">
@@ -81,7 +93,7 @@
                   </a>
                
       </div>
-	  <h1 class="echeadtitle">Easy Cite - V2 (Beta)</h1>
+	  <h1 class="echeadtitle">Easy Cite referencing tool</h1>
   		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -113,21 +125,23 @@
 		
         <div class="card-body">
             <div class="d-flex flex-row flex-wrap">
-                <div class="col-12 col-sm-7">
+                <div class="col-12 col-sm-6 col-md-5 col-lg-6">
                     <div class="ecinstructbox">
 						<h3>How to use the Easy Cite referencing tool</h3>
                     <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago A: footnotes and bibliography, Chicago B: author-date, IEEE, and Vancouver.</p>
                     <p>Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
-					<p>Easy Cite is intended as a guide only and some styles are open to interpretation. You should always check with your teacher or lecturer to ensure you are using the correct style for your assignments and assessment tasks.</p>
+					<p>Easy Cite is intended as a guide only and some styles are open to interpretation. You should always check with your instructor to ensure you are using the correct style for your assignments and assessment tasks.</p>
                 
                     </div>
                 </div>
-                <div class="col-12 col-sm-5">
+                <div class="col-12 col-sm-6 col-md-7 col-lg-6">
                     <div class="ecinstructbox">
 						
                     <h4>View this instructional video for using Easy Cite</h4>
                     <div class="plc-hldr">
-                      <img src="images/easyciteVideoScreen.png" width="400" height="250" alt="easy cite instructional video"/> </div>
+                      <iframe width="448" height="252" src="https://www.youtube.com/embed/60J55xXbu8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+						<p class="transcripticon"><a href="transcripts/EasyCite-video-transcript.rtf">Transcript (RTF)</a></p>
+						</div>
                     </div>
                 </div>
             </div>
@@ -188,7 +202,7 @@ $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</ul><p>&nbsp;</p>', $myli
 //REPLACE whichguidetitle with the correct title for the animated nav tabs
 $mylist = preg_replace("/RMIT Harvard<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'RMIT Harvard<div class="layer" aria-hidden="true">RMIT Harvard</div>', $mylist);
 $mylist = preg_replace("/AGLC4<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'AGLC4<div class="layer" aria-hidden="true">AGLC4</div>', $mylist);
-$mylist = preg_replace("/APA 7th ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7th ed.<div class="layer" aria-hidden="true">APA 7th ed.</div>', $mylist);
+$mylist = preg_replace("/APA 7<sup>th<\/sup> ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7<sup>th</sup> ed.<div class="layer" aria-hidden="true">APA 7<sup>th</sup> ed.</div>', $mylist);
 $mylist = preg_replace("/Chicago A<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago A<div class="layer" aria-hidden="true">Chicago A</div>', $mylist);
 $mylist = preg_replace("/Chicago B<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago B<div class="layer" aria-hidden="true">Chicago B</div>', $mylist);
 $mylist = preg_replace("/IEEE<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'IEEE<div class="layer" aria-hidden="true">IEEE</div>', $mylist);

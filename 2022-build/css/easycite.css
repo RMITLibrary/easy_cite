@@ -401,3 +401,9 @@ button.nav-link.active:focus {
 .easyaccbutton.active:focus {
 	outline: 1px solid #777777 !important;
 }
+.transcripticon {
+    text-align: right;
+    margin-right: 10px;
+    color: #000054 !important;
+    font-weight: normal;
+}
