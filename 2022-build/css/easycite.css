@@ -407,3 +407,16 @@ button.nav-link.active:focus {
     color: #000054 !important;
     font-weight: normal;
 }
+.embedhide {
+	display: block;
+}
+#iframetitle {
+	display: none;
+}
+.iframeheading {
+	font-size: 1.3rem;
+	color: #000054;
+	font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-top: 10px;
+	margin-left: 20px;
+}

@@ -32,7 +32,9 @@
     <!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 	<link href="css/main.css" rel="stylesheet">
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>-->
-    
+   
+
+	
 	
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -47,7 +49,12 @@
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-	<a name="top"></a>
+<a name="top"></a>
+<div id="iframetitle">
+	<p class="iframeheading">Easy Cite referencing resource</p>
+</div>
+	
+<div id="embedhide" class="hideembedded">
 <!-- Responsive navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 	<div class="container">
@@ -149,6 +156,10 @@
     </div>
 </div>
 
+</div><!-- end embed-hide --> 	
+	
+
+		
 <!-- style guides content--> 	
 <div class="container p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
 <?php 
@@ -268,7 +279,7 @@ $mylist = preg_replace("/<\/grey>/s", '</div>', $mylist);
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fade show active" id="nav', $mylist, 1);
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"v/", 'class="tab-pane fade show active" id="v', $mylist, 1);
 // first accordion button remove collapsed
-$mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-collapse collapse/", '<!-- first accordion item --><div class="accordion-collapse collapse show', $mylist);
+$mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-collapse collapse/", '<!-- first accordion item --><div class="accordion-collapse collapse show', $mylist, 1); //remove number "1" to open all first accordion items
 $mylist = preg_replace("/aria-selected=\"false\"/", 'aria-selected="true"', $mylist, 1);
 $mylist = preg_replace("/nav-link myleftpills/", 'nav-link myleftpills active', $mylist, 1);
 $mylist = preg_replace("/aria-expanded=\"false\"/", 'aria-expanded="true"', $mylist, 1);
@@ -485,7 +496,7 @@ echo($mylist);
 	<div class="footerarea">
 			<a href="https://forms.office.com/r/ZCZH0nR4HF" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here " >Send us feedback</a>&nbsp;  | &nbsp; 
 			<a href="#" class="footerlinks atooltip aanimate" data-tool="This resource created by RMIT Library Digital Learning" >&copy; RMIT University</a>
-	
+		<div id="gotoeasycite">	| &nbsp; <a href="https://www.lib.rmit.edu.au/easy-cite/preview/" class="footerlinks atooltip aanimate" data-tool="Opens Easy Cite in a new tab or window" target="_blank" >go to Easy Cite home</a></div>
 	</div>
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
@@ -658,6 +669,38 @@ function textToggle(elem){
 		console.log("close");
 	}
 }
+</script>
+
+<script>
+// -----------------------------
+// HIDE BANNER IN IFRAME
+// and show a different page title, 
+//and link to the actual Easy Cite page
+function iniFrame() {
+    if ( window.location !== window.parent.location )
+    {
+      
+        // The page is in an iFrames
+        //document.write("The page is in an iFrame");
+		document.getElementById("embedhide").style.display = "none";
+		document.getElementById("iframetitle").style.display = "block";
+		document.getElementById("gotoeasycite").style.display = "block";
+		//console.log(document.getElementById("embedhide").className);
+		
+    } 
+    else {
+          
+        // The page is not in an iFrame
+        //document.write("The page is not in an iFrame");
+		document.getElementById("embedhide").style.display = "block";
+		document.getElementById("iframetitle").style.display = "none";
+		document.getElementById("gotoeasycite").style.display = "none";
+		//console.log(document.getElementById("embedhide").className);
+    }
+}
+  
+// Calling iniFrame function
+iniFrame();
 </script>
 </body>
 </html>

@@ -3182,7 +3182,7 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 > Reportable matters under the *Child Wellbeing and Safety Act 2005* (Vic) are an acknowledgement that 'the protection of children is the paramount consideration in the context of child abuse' (para 16B(1)(b)).
 
-> Section 55 of the *Competition and Consumer Act 2010* (Cth) states that 'there is a guarantee that the goods are reasonably fit for any disclosed purpose, and for any purpose for which the supplier represents that they are reasonably fit'.
+> Section 55 of the *Competition and Consumer Act 2010* (Cth) sch 2 ('Australian Consumer Law') states that 'there is a guarantee that the goods are reasonably fit for any disclosed purpose, and for any purpose for which the supplier represents that they are reasonably fit'.
 
 ##### In-text reference: Paraphrasing
 
