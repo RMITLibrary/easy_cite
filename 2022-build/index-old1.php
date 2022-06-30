@@ -106,14 +106,59 @@
 			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
  				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library" tabindex="0">Library&nbsp;&nbsp;&nbsp;</a></li>
 				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library/study/referencing" tabindex="0">Referencing&nbsp;&nbsp;&nbsp;</a></li>
+				<li class="nav-item"><a class="nav-link topnavbar" href="#" tabindex="0" id="ecinstruct" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" onClick="textToggle(this)" ondblclick="textToggle(this)"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg> How to use Easy Cite</a></li>
+				
 			</ul>
 		</div>
 	</div>
 </nav>
+<!-- Page content--> 
 	
+<!-- Instructions content--> 
+<div class="ecinstructions container">
+    
+
+    <!-- Collapsed content -->
+    <div class="accordion-collapse collapse" id="collapseExample" data-bs-parent="#ecinstruct" aria-expanded="false">
+		
+		<!-- link to trigger collapse -->
+   <div class="trighty"> 
+	   <a class="ectitle" tabindex="0" id="ecinstruct2" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" onClick="textToggle(this)" ondblclick="textToggle(this)">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;&nbsp;<span id="textoggle">open</span>
+  		
+	   </a>
+	</div>
+		
+		
+        <div class="card-body">
+            <div class="d-flex flex-row flex-wrap">
+                <div class="col-12 col-sm-6 col-md-5 col-lg-6">
+                    <div class="ecinstructbox">
+						<h3>How to use the Easy Cite referencing tool</h3>
+                    <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago A: footnotes and bibliography, Chicago B: author-date, IEEE, and Vancouver.</p>
+                    <p>Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
+					<p>Easy Cite is intended as a guide only and some styles are open to interpretation. You should always check with your instructor to ensure you are using the correct style for your assignments and assessment tasks.</p>
+                
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-7 col-lg-6">
+                    <div class="ecinstructbox">
+						
+                    <h4>View this instructional video for using Easy Cite</h4>
+                    <div class="plc-hldr">
+                      <iframe width="448" height="252" src="https://www.youtube.com/embed/60J55xXbu8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+						<p class="transcripticon"><a href="transcripts/EasyCite-video-transcript.rtf">Transcript (RTF)</a></p>
+						</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 </div><!-- end embed-hide --> 	
 	
-<!-- Page content--> 
+
 		
 <!-- style guides content--> 	
 <div class="container p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
@@ -128,44 +173,31 @@ $thisQuery = htmlentities($queryString);
 parse_str($thisQuery, $params); 
 // save the result in a variable
 $whichstyleguide = $params['styleguide'];
-$showInfobox ='block'; 
 //get the correct markdown content
 if ($whichstyleguide == "styleguide-0"){
-	$thestyleguide = file_get_contents('markdown/infotab.md');
-	$thestyleguidetitle = "Using Easy Cite";
-	$showInfobox ='block'; 
-}	else if ($whichstyleguide == "styleguide-1"){
 	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
 	$thestyleguidetitle = "RMIT Harvard";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-2"){
+}	else if ($whichstyleguide == "styleguide-1"){
 	$thestyleguide = file_get_contents('markdown/aglc4.md');
 	$thestyleguidetitle = "AGLC4";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-3"){
+}	else if ($whichstyleguide == "styleguide-2"){
 	$thestyleguide = file_get_contents('markdown/apa7thed.md');
 	$thestyleguidetitle = "APA 7<sup>th</sup> Edition";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-4"){
+}	else if ($whichstyleguide == "styleguide-3"){
 	$thestyleguide = file_get_contents('markdown/chicagoa.md');
 	$thestyleguidetitle = "Chicago A";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-5"){
+}	else if ($whichstyleguide == "styleguide-4"){
 	$thestyleguide = file_get_contents('markdown/chicagob.md');
 	$thestyleguidetitle = "Chicago B";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-6"){
+}	else if ($whichstyleguide == "styleguide-5"){
 	$thestyleguide = file_get_contents('markdown/ieee.md');
 	$thestyleguidetitle = "IEEE";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-7"){
+}	else if ($whichstyleguide == "styleguide-6"){
 	$thestyleguide = file_get_contents('markdown/vancouver.md');
 	$thestyleguidetitle = "Vancouver";
-	$showInfobox ='none'; 
 }	else {
-	$thestyleguide = file_get_contents('markdown/infotab.md');
-	$thestyleguidetitle = "Using Easy Cite";
-	$showInfobox ='block'; 
+	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
+	$thestyleguidetitle = "RMIT Harvard";
 }
 
 // get the markdown content - populates the page with content from a particular style guide	
@@ -179,7 +211,6 @@ $mylist = preg_replace("/<h1>/", '<li id="nav-xx-tab" class="nav-item" data-bs-t
 $mylist = preg_replace("/<\/h1>/", '<div class="layer" aria-hidden="true">whichguidetitle</div></a></li>', $mylist);
 $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</ul><p>&nbsp;</p>', $mylist);
 //REPLACE whichguidetitle with the correct title for the animated nav tabs
-$mylist = preg_replace("/Using Easy Cite<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Using Easy Cite<div class="layer" aria-hidden="true">Using Easy Cite</div>', $mylist);
 $mylist = preg_replace("/RMIT Harvard<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'RMIT Harvard<div class="layer" aria-hidden="true">RMIT Harvard</div>', $mylist);
 $mylist = preg_replace("/AGLC4<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'AGLC4<div class="layer" aria-hidden="true">AGLC4</div>', $mylist);
 $mylist = preg_replace("/APA 7<sup>th<\/sup> ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7<sup>th</sup> ed.<div class="layer" aria-hidden="true">APA 7<sup>th</sup> ed.</div>', $mylist);
@@ -422,41 +453,39 @@ if ($whichstyleguide == "styleguide-0"){
 	$mylist = preg_replace("/id=\"nav-link-5\" class=\"nav-link/", 'id="nav-link-5" class="nav-link active', $mylist, 1);  
 }	else if ($whichstyleguide == "styleguide-6"){
 	$mylist = preg_replace("/id=\"nav-link-6\" class=\"nav-link/", 'id="nav-link-6" class="nav-link active', $mylist, 1);  
-}	else if ($whichstyleguide == "styleguide-7"){
-	$mylist = preg_replace("/id=\"nav-link-7\" class=\"nav-link/", 'id="nav-link-6" class="nav-link active', $mylist, 1); 
 }	else {
 	$mylist = preg_replace("/id=\"nav-link-0\" class=\"nav-link/", 'id="nav-link-0" class="nav-link active', $mylist, 1);  
 }
 	
 // ISSUES TO BE RESOLVED / Development to-do list
+// DONE!! added an id attribute to the accordion-item div for printing and for first accordion discovery
+// DONE!! accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
+// DONE!! PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide
+// DONE!! Format print window content and hide buttons - make an external style sheet for this
+// DONE!! Improve the print stylesheet with RMIT branding etc.
+// DONE!! create a FOOTER area with links to feedback form, learning lab, other...
+// DONE!! Top of page INSTRUCTIONS - show/hide with cookies/session data, print option.
+// DONE!! STYLE: CSS for Bootstrap - RMIT branding
+// DONE!! move inline styles to external CSS file - easycite.css
+// DONE!! focus the correct tab depending on the query string.
+// DONE!! close the first accordion for the pill if accessed via hash string
+// DONE!! highlight first accordion button/item in each accordion because we removed all highlights - remove "collapsed" from first accordion button
+// DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
+// DONE!! solve the parent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
+// DONE!! add correct title and accordion headings to print version. Hide print title from web page view.
+// DONE!! fixed accessibility issues: heading hierarchy (removed H4 heading from accordion body) 
+// DONE!! Harvard example reference list was messing up the accordion width due to a URL that wasn't wrapping properly - not a proper fix. Not sure why???
+// tabbing issues across different browsers - how to make it more consistent?
+// Stop print content from cropping when scale is more than 100% - CSS issue???
 // change the code from PHP to Javascript to show first accordion item in an accordion then won't need the comment in  markdown
 // need to strip all COMMENTS out of $mylist after all replaces are done	
-// change layout - make first tab the "Using Easy Cite" tab so style guides are not selected by default. remove how to from banner.
+// 
 	
 	
 //OUTPUT THE PARSED CONTENT TO HTML
 echo($mylist);
 ?>
-<!-- start info box-->
-<div id="ecinfopane" class="card-body" style="display: <?= $showInfobox?>">
-	<h3><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;How to use the Easy Cite referencing tool</h3>
-    <div class="d-flex flex-row flex-wrap">
-        <div class="col-12 col-sm-6 colpad">
-            <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago A: footnotes and bibliography, Chicago B: author-date, IEEE, and Vancouver.</p>
-            <p>Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
-            <p>Easy Cite is intended as a guide only and some styles are open to interpretation. You should always check with your instructor to ensure you are using the correct style for your assignments and assessment tasks.</p>
-			<p>Visit the <a href="https://emedia.rmit.edu.au/learninglab/content/referencing" target="_blank">Learning Lab Referencing Tutorial (opens in a new tab)</a> and find out how to correctly use different referencing styles in academic writing to avoid plagiarism and get better marks.</p>
-        </div>
-        <div class="col-12 col-sm-6 colpad">	
-			<h5>Select a style guide from the tabs above to start using Easy Cite,</br>
-           or view this instructional video first...</h5>
-            <p><iframe width="537" height="302" src="https://www.youtube.com/embed/60J55xXbu8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-            <p><a href="transcripts/EasyCite-video-transcript.rtf">Video transcript (RTF)</a></p>
-        </div>
-    </div>
-</div>
-<!-- end info box-->	
-	
+
 </div><!-- end padding for content -->
 <!-- end page content-->
 		

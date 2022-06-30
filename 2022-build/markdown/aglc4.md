@@ -8,6 +8,7 @@
 <!-- the STYLE GUIDE menu list must use heading 1 (#) -->
 <!-- add additional style guides if needed -->
 ###### start-style-menu
+# Using Easy Cite
 # RMIT Harvard
 # AGLC4
 # APA 7<sup>th</sup> ed.
