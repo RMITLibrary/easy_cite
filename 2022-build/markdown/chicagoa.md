@@ -52,15 +52,19 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-There are two formats of referencing within the Chicago Style. One is **notes and bibliography** (Chicago A) and the other is **author-date** style (Chicago B). This guide provides examples and advice for **notes and bibliography only**. Notes and bibliography uses a numerical system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography should be included at the end of the document, preferably in alphabetical order.
+**Important: this is a guide only.** To avoid losing marks:
 
-For examples and advice regarding **author-date style** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago B: Author-Date 17th ed.](index.php?styleguide=styleguide-4#stn-0).
+- Confirm referencing requirements with your lecturer.
+
+- Use The Chicago Manual of Style. 17th ed. Chicago: University of Chicago Press, 2017 to clarify referencing rules or if you need more examples. This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341" target="_blank">The Chicago manual of style. 17th edition.</a> (opens in a new tab).
+
+There are two formats of referencing within the Chicago Style. One is **notes and bibliography** (Chicago A) and the other is **author-date** style (Chicago B). This guide provides examples and advice for **notes and bibliography only**. Notes and bibliography uses a numerical system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography should be included at the end of the document, preferably in alphabetical order.
 
 **Footnotes/ Endnotes** : Footnotes or endnotes are numbered and correspond to note reference numbers in the text.
 
 **Bibliography** : A bibliography is the term used for a list of resources consulted (e.g. books, articles, websites) when writing an assignment.
 
-This guide is based on the Chicago Manual of Style 17th edition <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341" target="_blank">The Chicago manual of style. 17th edition.</a> (opens in a new tab)
+For examples and advice regarding **author-date style** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago B: Author-Date 17th ed.](index.php?styleguide=styleguide-5#stn-0).
 
 ###### end-subtype-content
 

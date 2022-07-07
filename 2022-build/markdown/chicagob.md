@@ -54,9 +54,9 @@
 
 **Important: this is a guide only.** To avoid losing marks:
 
-- Confirm referencing requirements your lecturer
+- Confirm referencing requirements with your lecturer.
 
-- Use The Chicago Manual of Style. 17th ed. Chicago: University of Chicago Press, 2017 to clarify referencing rules or if you need more examples. This guide is based on the 17th edition of The Chicago Manual of Style.
+- Use The Chicago Manual of Style. 17th ed. Chicago: University of Chicago Press, 2017 to clarify referencing rules or if you need more examples. This guide is based on This guide is based on the Chicago Manual of Style 17th edition <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341" target="_blank">The Chicago manual of style. 17th edition.</a> (opens in a new tab).
 
 - Additional information on Chicago referencing for students can be found within: A Manual for Writers of Research Papers, Theses, and Dissertations : Chicago Style for Students and Researchers 9th. edition
 
@@ -66,7 +66,7 @@ There are two systems outlined by the Chicago referencing style: **Author-Date**
 
 This guide use examples in the **author-date** system. The author-date system requires in-text citations within the assignment, along with a full bibliographic entry in the reference list at the end of the assignment.
 
-For examples and advice regarding **Notes-Bibliography** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago A: Notes and Bibliography 17th ed.](index.php?styleguide=styleguide-3#stn-0).
+For examples and advice regarding **Notes-Bibliography** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago A: Notes and Bibliography 17th ed.](index.php?styleguide=styleguide-4#stn-0).
 
 
 ###### end-subtype-content

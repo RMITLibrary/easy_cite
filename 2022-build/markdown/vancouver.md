@@ -49,7 +49,7 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important**: This is a guide only. To avoid losing marks:
+**Important: This is a guide only**. To avoid losing marks:
 
 Confirm the referencing requirements of your school with your lecturer, and
 

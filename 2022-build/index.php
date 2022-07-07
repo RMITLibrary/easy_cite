@@ -249,6 +249,8 @@ $mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fa
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"v/", 'class="tab-pane fade show active" id="v', $mylist, 1);
 // first accordion button remove collapsed
 $mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-collapse collapse/", '<!-- first accordion item --><div class="accordion-collapse collapse show', $mylist, 1); //remove number "1" to open all first accordion items
+
+//$mylist = preg_replace("/class=\"accordion-button easyaccbutton collapsed\"", 'class="accordion-button easyaccbutton"', $mylist, 1);	
 $mylist = preg_replace("/aria-selected=\"false\"/", 'aria-selected="true"', $mylist, 1);
 $mylist = preg_replace("/nav-link myleftpills/", 'nav-link myleftpills active', $mylist, 1);
 $mylist = preg_replace("/aria-expanded=\"false\"/", 'aria-expanded="true"', $mylist, 1);
@@ -467,7 +469,7 @@ echo($mylist);
 	<div class="footerarea">
 			<a href="https://forms.office.com/r/ZCZH0nR4HF" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here " >Send us feedback</a>&nbsp;  | &nbsp; 
 			<a href="#" class="footerlinks atooltip aanimate" data-tool="This resource created by RMIT Library Digital Learning" >&copy; RMIT University</a>
-		<div id="gotoeasycite">	| &nbsp; <a href="https://www.lib.rmit.edu.au/easy-cite/preview/" class="footerlinks atooltip aanimate" data-tool="Opens Easy Cite in a new tab or window" target="_blank" >go to Easy Cite home</a></div>
+		<div id="gotoeasycite">	| &nbsp; <a href="https://www.lib.rmit.edu.au/easy-cite/" class="footerlinks atooltip aanimate" data-tool="Opens Easy Cite in a new tab or window" target="_blank" >go to Easy Cite home</a></div>
 	</div>
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
@@ -526,8 +528,9 @@ function myFunction(button, sethash){
 	   	window.location.hash = globalpillshash + accordionhash;
 		//console.log(globalpillshash + accordionhash);
 	}
-	document.body.scrollTop = 0; // For Safari
-  	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+	//keep page scrolled to the top - avoids the content jumping around when selecting vertical pills
+	document.body.scrollTop = 0; // For Safari - not working
+  	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera - is working
 }
 
 // this function takes the info from the tab button to output a query string 
@@ -568,13 +571,23 @@ const mylist = document.getElementsByClassName("accordion-item");
 		}
 	}
 // remove the "collapsed" class from the first accordion button in each accordion so it's in its "open" state
-const acclist = document.getElementsByClassName("accordion");
+// Use this code to open all accordions first sub-type in a style guide
+/*const acclist = document.getElementsByClassName("accordion");
 	for (let q = 0; q < acclist.length; q++){
 		const acbuttons = acclist[q].getElementsByClassName("accordion-button");
 		acbuttons[0].classList.remove("collapsed");
 		//console.log(acbuttons[0].className);
 	}
-	
+*/	
+// OR
+// Use this code to only open the first accordion subtype in a style guide
+//only run this code if there are accordions - i.e. not the "Using Easy Cite" tab.
+var thisstatus = '<?= $showInfobox?>';
+if (thisstatus == "none"){
+	const acbuttons = document.getElementsByClassName("accordion-button");
+	acbuttons[0].classList.remove("collapsed");
+}
+
 // -----------------------------
 // PRINT SCRIPT
 // this script controls the method for printing a section, part or whole guide depending on the button selected
@@ -640,33 +653,27 @@ function textToggle(elem){
 		console.log("close");
 	}
 }
-</script>
 
-<script>
 // -----------------------------
 // HIDE BANNER IN IFRAME
 // and show a different page title, 
 //and link to the actual Easy Cite page
 function iniFrame() {
     if ( window.location !== window.parent.location )
-    {
-      
+    { 
         // The page is in an iFrames
-        //document.write("The page is in an iFrame");
 		document.getElementById("embedhide").style.display = "none";
 		document.getElementById("iframetitle").style.display = "block";
 		document.getElementById("gotoeasycite").style.display = "block";
-		//console.log(document.getElementById("embedhide").className);
-		
+		console.log(document.getElementById("gotoeasycite").className);
     } 
     else {
-          
         // The page is not in an iFrame
         //document.write("The page is not in an iFrame");
 		document.getElementById("embedhide").style.display = "block";
 		document.getElementById("iframetitle").style.display = "none";
 		document.getElementById("gotoeasycite").style.display = "none";
-		//console.log(document.getElementById("embedhide").className);
+		console.log(document.getElementById("gotoeasycite").className);
     }
 }
   

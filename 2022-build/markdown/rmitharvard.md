@@ -2029,7 +2029,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial or Page Name (Day Month Year) 'Title or first 10 words of content of post ...' \[type of post\], Post Name, accessed Day Month Year. URL
+> Author’s family name Initial or Organisation’s Name (Day Month Year) ‘Title or first 10 words of content of post ...’ \[type of post\], Name of Page, accessed Day Month Year. URL
 
 ##### Examples
 

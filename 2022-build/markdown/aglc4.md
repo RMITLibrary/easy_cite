@@ -50,7 +50,7 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-Important: This is a guide only. To avoid losing marks:
+**Important: This is a guide only**. To avoid losing marks:
 
 -	Confirm referencing requirements of your school with your lecturer.
 
@@ -89,7 +89,7 @@ The AGLC4 style consists of:
 
 **In-text example**
 
->  Recent developments in Australian law following the decision of the High Court in *IceTV Pty Ltd v Network Nine Australia Pty Ltd* illustrate a fundamental shift in the approach of courts regarding the importance and form of authorship.1
+>  Recent developments in Australian law following the decision of the High Court in *IceTV Pty Ltd v Network Nine Australia Pty Ltd* illustrate a fundamental shift in the approach of courts regarding the importance and form of authorship.<sup>1</sup>
 
 **Footnote example**
 

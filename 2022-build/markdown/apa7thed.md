@@ -52,7 +52,7 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important**: This is a guide only. To avoid losing marks:
+**Important: This is a guide only**. To avoid losing marks:
 
 - Confirm the referencing requirements of your school with your lecturer, and
 Use the <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341" target="_blank">American Psychological Association. (2020). Publication manual of the American Psychological Association (7<sup>th</sup> ed.)</a> (opens in a new tab). to clarify referencing rules or if you need more examples. This guide is based on this publication.
