@@ -422,5 +422,6 @@ button.nav-link.active:focus {
 }
 .colpad {
 	padding-right: 50px;
+	padding-left: 20px;
 	vertical-align:text-top !important;	
 }

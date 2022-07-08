@@ -440,18 +440,20 @@ if ($whichstyleguide == "styleguide-0"){
 echo($mylist);
 ?>
 <!-- start info box-->
-<div id="ecinfopane" class="card-body" style="display: <?= $showInfobox?>">
+<div id="ecinfopane" style="display: <?= $showInfobox?>">
 	<h3><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;How to use the Easy Cite referencing tool</h3>
     <div class="d-flex flex-row flex-wrap">
         <div class="col-12 col-sm-6 colpad">
-            <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago A: footnotes and bibliography, Chicago B: author-date, IEEE, and Vancouver.</p>
+            <h5>Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT.</h5>
+			<p>The styles included are RMIT Harvard, AGLC4, APA, Chicago A: footnotes and bibliography, Chicago B: author-date, IEEE, and Vancouver.</p>
             <p>Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
             <p>Easy Cite is intended as a guide only and some styles are open to interpretation. You should always check with your instructor to ensure you are using the correct style for your assignments and assessment tasks.</p>
 			<p>Visit the <a href="https://emedia.rmit.edu.au/learninglab/content/referencing" target="_blank">Learning Lab Referencing Tutorial (opens in a new tab)</a> and find out how to correctly use different referencing styles in academic writing to avoid plagiarism and get better marks.</p>
         </div>
-        <div class="col-12 col-sm-6 colpad">	
-			<h5>Select a style guide from the tabs above to start using Easy Cite,</br>
-           or view this instructional video first...</h5>
+		<div class="col-12 col-sm-6 colpad">	
+			<h5>Select a style guide from the tabs above to start using Easy Cite.</br>
+           Or view this instructional video first...</h5>
+		
             <p><iframe width="537" height="302" src="https://www.youtube.com/embed/60J55xXbu8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
             <p><a href="transcripts/EasyCite-video-transcript.rtf">Video transcript (RTF)</a></p>
         </div>
@@ -657,7 +659,7 @@ function textToggle(elem){
 // -----------------------------
 // HIDE BANNER IN IFRAME
 // and show a different page title, 
-//and link to the actual Easy Cite page
+// and link to the actual Easy Cite page in the footer
 function iniFrame() {
     if ( window.location !== window.parent.location )
     { 
@@ -665,7 +667,7 @@ function iniFrame() {
 		document.getElementById("embedhide").style.display = "none";
 		document.getElementById("iframetitle").style.display = "block";
 		document.getElementById("gotoeasycite").style.display = "block";
-		console.log(document.getElementById("gotoeasycite").className);
+		//console.log(document.getElementById("gotoeasycite").className);
     } 
     else {
         // The page is not in an iFrame
@@ -673,7 +675,7 @@ function iniFrame() {
 		document.getElementById("embedhide").style.display = "block";
 		document.getElementById("iframetitle").style.display = "none";
 		document.getElementById("gotoeasycite").style.display = "none";
-		console.log(document.getElementById("gotoeasycite").className);
+		//console.log(document.getElementById("gotoeasycite").className);
     }
 }
   

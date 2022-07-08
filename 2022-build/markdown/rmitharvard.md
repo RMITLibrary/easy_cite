@@ -30,7 +30,7 @@
 ## Conference papers
 ## Websites and webpage documents
 ## Social media
-## Audiovisual materials
+## Audiovisual material
 ## Images and figures
 ## Reports, data sets and standards
 ## Theses and dissertations
@@ -715,7 +715,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial (Year) *Title of book: subtitle of book*, Xth edn, Name of publisher, doi:number OR Place of publication \[if no DOI\]
+> Author's family name Initial (Year) Title of book: subtitle of book, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -775,7 +775,7 @@ In your reference list:
 
 ##### Rule
 
-> Author’s family name initial (Year) ‘Title of chapter: subtitle of chapter’, in Editor’s family name initial (ed/s) *Title of book: subtitle of book*, Name of publisher, doi:number OR Place of publication \[if no DOI\].
+> Author's family name initial (Year) 'Title of chapter: subtitle of chapter', in Editor's family name initial (ed/s) Title of book: subtitle of book, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -809,7 +809,7 @@ In your reference list:
 
 ##### Rule
 
-> Editor's family name Initial (ed/s) (Year) *Title of book: subtitle of book*, Name of publisher, doi:number OR Place of publication \[if no DOI\].
+> Editor's family name Initial (ed/s) (Year) Title of book: subtitle of book, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -865,7 +865,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial (Year) *Title of book: subtitle of book*, Xnd/rd/th edn, Name of publisher, doi:number OR Place of publication \[if no DOI\].
+> Author's family name Initial (Year) Title of book: subtitle of book, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Examples
 
@@ -962,7 +962,9 @@ In your reference list:
 
 ###### start-subtype-content
 
-If there is no author, cite the publication title and the year. Italicise the publication title.
+- The author may be a person/people or an organisation.
+
+- If there is no author, cite the publication title and the year. Italicise the publication title.
 
 #### In-text reference: Direct quotes
 
@@ -986,13 +988,13 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 - As details will vary for brochures and pamphlets, try to extract as much information as you can about authorship, publication information, etc.
 
-- If there is no author, the publication title should be listed first. Italicise the publication title.
+- Italicise the publication title.
 
-- After publication title, provide a description of the document in square brackets, e.g. \[brochure\], \[pamphlet\].
+- After the title, provide the format of the resource in square brackets, e.g. \[brochure\], \[pamphlet\].
 
 ##### Rule
 
-> Author's Name (Year) *Title: subtitle of pamphlet or brochure* \[format\], Publisher, Place of publication.
+> Author's family name Initial OR Organisation's name (Year) Title: subtitle of pamphlet or brochure \[format\], Name of Publisher, Place of Publication.
 
 ##### Examples
 
@@ -2051,7 +2053,7 @@ In your reference list:
 
 
 
-<!-- Audio visual materials - links to the eighth type menu item -->
+<!-- Audiovisual material - links to the eighth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2076,7 +2078,7 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 #### In-text reference: Paraphrasing
 
-Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
+Paraphrasing is when you are expressing the ideas of author(s) in your own words.
 
 > The documentary *My name is Gulpilil* (2017) provides not only insight into the cinematic achievements of Gulpilil but more importantly, the actor’s own insights as he reflects on his life story.
 
@@ -2086,23 +2088,25 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list for **film/movie**:
 
-- Put the director's name in the Author position (as the author). If there is no acknowledged director, list the producer's name.
+- Put the director's name. If there is no acknowledged director, put the producer's name.
 
 - Put the year of release.
 
-- Place the title in italics and specify the format in square brackets.
+- Place the title of the film/movie in italics, followed by the format of the resource in square brackets, i.e. \[motion picture\].
 
 In your reference list for **television program**:
 
-- Put the director or producer's name in the Author position (as the author).
+- Put the director's name. If there is no acknowledged director, put the producer's name.
 
-- Place the title of the television program in single inverted commas (quotation marks) and specify the format in square brackets.
+- Put the year of release.
 
-- If applicable, include the italicised series title after the multimedia format, along with any series and episode numbers if given, e.g. *The business, Insight, Game of thrones* (season 7, episode 6).
+- Place the title of the television program in single inverted commas (quotation marks), followed by the format of the resource in square brackets, i.e. \[television program\].
+
+- If applicable, include the italicised series title after the format, along with any series and episode numbers if given, e.g. *The business, Insight, Game of thrones* (season 7, episode 6).
 
 ##### Rule (film/movie)
 
-> Director's family name Initial (director) or Producer's family name Initial (producer) (Year) *Title of film: subtitle of film* \[motion picture\], Name of studio or Publisher, Place of production.
+> Director's family name Initial (director) or Producer's family name Initial (producer) (Year of release) Title of film: subtitle of film \[format\], Name of Studio or Publisher, Place of Production.
 
 ##### Examples
 
@@ -2112,7 +2116,7 @@ In your reference list for **television program**:
 
 ##### Rule (television program)
 
-> Director's family name Initial (director) or Producer’s family name Initial (producer) (Year) 'Title of episode: subtitle of episode' \[television program\], *Name of series* (season number, episode number), Name of station or studio, Place of production.
+> Director's family name Initial (director) or Producer's family name Initial (producer) (Year of release) 'Title of episode: subtitle of episode' \[format\], Name of series (season number, episode number), Name of Station or Studio, Place of Production.
 
 ##### Examples
 
@@ -2150,11 +2154,11 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- Include the name/s of podcast host/s, followed by the producer's name, in the author position (as the authors).
+- Include the name/s of podcast host/s, followed by the producer's name. The producer may be a person or an organisation.
 
 - Place the title of the podcast episode in single inverted commas (quotation marks) and the name of the podcast series (use sentence case) in italics.
 
-- Specify the multimedia format after the title of the podcast episode, i.e. \[podcast\].
+- After the title, provide the format of the resource in square brackets, i.e. \[podcast\].
 
 - Provide the publication and access dates in day, month and year format.
 
@@ -2164,11 +2168,11 @@ In your reference list:
 
 ##### Rule
 
-> Host's family name Initial (host) and Producer's family name Initial (producer) or Organisation's name (producer) (Day Month Year) 'Title of podcast episode: subtitle of podcast episode' \[podcast\], *Name of podcast series*, Name of podcast network, accessed Day Month Year. URL
+> Host's family name Initial (host) and Producer's family name Initial (producer) OR Host's family name Initial (host) and Organisation's Name (producer) (Day Month Year) 'Title of podcast episode: subtitle of podcast episode' \[format\], Name of podcast series, Name of Podcast Network (website), accessed Day Month Year. URL
 
 ##### Examples
 
-> Fidler R (host) and Rooney C (producer) (19 October 2021) 'Rock and Dave Grohl' \[podcast\], *Conversations*, ABC, accessed 1 December 2021. https<nolink>://www.abc.net.au/radio/ programs/ conversations/dave-grohl-nirvana-foo-fighters-love-music-rock/13582414
+> Fidler R (host) and Rooney C (producer) (19 October 2021) 'Rock and Dave Grohl' \[podcast\], *Conversations*, ABC, accessed 1 December 2021. https<nolink>://www.abc.net.au/radio/programs/conversations/dave-grohl-nirvana-foo-fighters-love-music-rock/13582414
  
 > Hunter A and Bessell S (hosts) and Policy Forum.net (producer) (27 November 2020) 'The wellbeing economy – a glimpse of the good life' \[podcast\], *The wellbeing economy podcast series*, IMMP Crawford, accessed 1 December 2021. https<nolink>://immp.crawford.anu.edu.au/content/wellbeing-economy-podcast-series
 
@@ -2210,9 +2214,9 @@ In your reference list:
 
 - If the author (individual or corporate) of the online/streaming video is known, begin the reference with the author’s family or corporate name. If unknown, begin the reference with the title and the year of the video.
 
-- Specify the format in square brackets after the title, i.e. \[video\].
+- After the title, provide the format of the resource in square brackets, i.e. \[video\]..
 
-- Include the italicised name of the channel or owing organisation after the format.
+- Include the italicised name of the channel or owning organisation after the format.
 
 - Include the word **website** after the name of the website. But if the name of the website is a URL (e.g. vic.gov.au), do not write the word **website**. Do not italicise the name of website.
 
@@ -2222,7 +2226,7 @@ In your reference list:
 
 ##### Rule
 
-> Creator's family name Initial or Owner of video (Day Month Year) 'Title of video: subtitle of video' \[video\], *Name of Channel or Owning Organisation*, Name of Website website, accessed Day Month Year. URL
+> Creator's family name Initial or Owner of video (Day Month Year) 'Title of video: subtitle of video' \[format\], Name of Channel or Owning Organisation, Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
 
@@ -2275,15 +2279,17 @@ In your reference list:
 
 - Generally, the title of the album or CD will be used as the title, written in italics. But if you are referencing a specific track/song on the album or CD, then also include the title of the track/song in single inverted commas (quotation marks).
 
-
 - Specify the format in square brackets, e.g. \[Album\], \[Song\].
+
 - Include the publisher details (if supplied). The record company can be the publisher of a musical composition or sound recording.
 
-- For an online musical composition or sound recording, include the access date in day, month, year format (e.g. 13 December 2021). After the accessed date, put a full stop, a space then the URL. No full stop after URL.
+- For a **non-online** musical composition / sound recording (e.g. CD, LP, song on radio): include the name of the publisher.
+
+- For an **online** musical composition / sound recording (e.g. iTunes, Spotify): include the name of the website followed by the word **website**, then the accessed date in day, month, year format (e.g. 13 December 2021). After the accessed date, put a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule (with song)
 
-> Creator/artist's family name Initial or Band name (Year) 'Title of song/track: subtitle of song/track' \[Format\], *Title of compilation or album*, Name of publisher.
+> Creator/artist's family name Initial or Band Name (Year) 'Title of song/track: subtitle of song/track' \[Format\], *Title of compilation or album*, Name of Publisher [if non-online]. Name of Website website [if online], accessed Day Month Year [if online]. URL [if online]
 
 ##### Example
 
@@ -2291,13 +2297,13 @@ In your reference list:
 
 ##### Rule (with no song - only compilations, e.g. album)
 
-> Creator/artist's family name Initial or Band name (Year) *Title of compilation or album* \[Format\], Name of publisher.
+> Creator/artist's family name Initial or Band Name (Year) Title of compilation or album \[Format\], Name of Publisher [if non-online]. Name of Website website [if online], accessed Day Month Year [if online]. URL [if online]
 
 ##### Examples
 
 > The Beatles (1967) *Sgt. Pepper's lonely hearts club band* \[Album\], Parlophone.
  
-> The Beatles (1967) *Sgt. Pepper's lonely hearts club band (remastered)* \[Album\], Apple, accessed 1 December 2021. https<nolink>://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW
+> The Beatles (1967) Sgt. Pepper's lonely hearts club band (remastered) \[Album\], Spotify website, accessed 1 December 2021. https<nolink>://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW
 
 ###### end-subtype-content
 
@@ -2331,13 +2337,13 @@ In your reference list:
 
 - Place the title of the radio episode in single inverted commas (quotation marks) and the name of the radio program (use sentence case) in italics.
 
-- Specify the multimedia format after the title of the radio episode, i.e. \[radio program\].
+- After the title, provide the format of the resource in square brackets, i.e. \[radio program\].
 
 - Provide the publication date in day, month and year format.
 
 ##### Rule
 
-> Presenter's family name Initial (presenter) (Day Month Year) 'Title of episode: subtitle of episode' \[radio program\], *Name of program*, Name of station or studio, Place of production.
+> Presenter's family name Initial (presenter) (Day Month Year) 'Title of episode: subtitle of episode' \[format\], *Name of program*, Name of Station or Studio, Place of production.
 
 ##### Example
 
