@@ -32,7 +32,7 @@
 ## Social media
 ## Audiovisual material
 ## Images and figures
-## Reports, data sets and standards
+## Reports and data sets
 ## Theses and dissertations
 ## Other sources
 
@@ -446,7 +446,7 @@ In your reference list:
 
 ##### Rule
 
-> Author’s family name Initial (Year) *Title of book: subtitle of book*, Name of publisher, doi:number OR Place of publication \[if no DOI\].
+> Author’s family name Initial (Year) *Title of book: subtitle of book*, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -493,7 +493,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial and Author’s family name Initial (Year) *Title of book: subtitle of book*, Name of publisher, doi:number OR Place of publication \[if no DOI\].
+> Author's family name Initial and Author’s family name Initial (Year) *Title of book: subtitle of book*, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -537,7 +537,7 @@ In your reference list:
 
 ##### Rule
 
-> Author’s family name Initial, Author’s family name Initial and Author’s family name Initial (Year) *Title of book: subtitle of book*, Name of publisher, doi:number OR Place of publication \[if no DOI\].
+> Author’s family name Initial, Author’s family name Initial and Author’s family name Initial (Year) *Title of book: subtitle of book*, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -592,7 +592,7 @@ In your reference list:
 
 ##### Rule (used abbreviated name in writing)
 
-> Abbreviated Name (Full Organisation Name) (Year) *Title of book: subtitle of book*, Name of publisher, doi:number OR Place of publication \[if no DOI\].
+> Abbreviated Name (Full Organisation Name) (Year) *Title of book: subtitle of book*, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -613,7 +613,7 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Book with no known author
+### Book with no author
 
 ###### start-subtype-content
 
@@ -647,7 +647,7 @@ In your reference list:
 
 ##### Rule
 
-> *Title* (Year) Publisher, doi:number OR Place of publication \[if no DOI\].
+> *Title* (Year) edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -715,7 +715,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial (Year) Title of book: subtitle of book, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
+> Author's family name Initial (Year) *Title of book: subtitle of book*, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -775,7 +775,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name initial (Year) 'Title of chapter: subtitle of chapter', in Editor's family name initial (ed/s) Title of book: subtitle of book, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
+> Author's family name initial (Year) 'Title of chapter: subtitle of chapter', in Editor's family name initial (ed/s) *Title of book: subtitle of book*, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -809,7 +809,7 @@ In your reference list:
 
 ##### Rule
 
-> Editor's family name Initial (ed/s) (Year) Title of book: subtitle of book, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
+> Editor's family name Initial (ed/s) (Year) *Title of book: subtitle of book*, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Example
 
@@ -865,7 +865,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial (Year) Title of book: subtitle of book, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
+> Author's family name Initial (Year) *Title of book: subtitle of book*, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 ##### Examples
 
@@ -885,11 +885,11 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Encyclopedia or dictionary entry 
+### Encyclopedia or dictionary entry
 
 ###### start-subtype-content
 
-#### Without an author
+#### Encyclopedia or dictionary entry without an author
 
 If there is no author, cite the encyclopedia or dictionary title and the year. Italicise the encyclopedia or dictionary title. If quoting, include a colon and page number (if available) after the year.
 
@@ -912,7 +912,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 Encyclopedia or dictionary entries **without an author** do not need to be included in the reference list.
 
 
-#### With an author
+#### Encyclopedia or dictionary entry with an author
 
 ##### In-text reference: Direct quote
 
@@ -936,13 +936,15 @@ In your reference list:
 
 - If the encyclopedia or dictionary is **edited**, insert the word **in** before the name of the editor(s). Use **(ed)** for a single editor and **(eds)** for two or more editors.
 
+- If there is an edition number that is not the first, add the number and the abbreviation **edn** after the title.
+
 - List all entry authors as they appear in the entry, or all editors as they appear on the title page of the book. Use the initials of each author or editor's given name(s). Use **and** to separate the last two authors or editors.
 
 - Include the name of the publisher, followed by the Digital Object Identifier (DOI) and a full stop. If there is no DOI, include the place of publication (city name) instead.
 
 **Rule**
 
-> Author's family name initial (Year) 'Title of entry', in Editor's family name initial (ed/s) \[if edited\], *Title of encyclopedia or dictionary: subtitle of encyclopedia or dictionary*, Name of publisher, doi:number OR Place of publication \[if no DOI\].
+> Author's family name initial (Year) 'Title of entry', in Editor's family name initial (ed/s) \[if edited\], *Title of encyclopedia or dictionary: subtitle of encyclopedia or dictionary*, edition number edn \[if not first\], Name of Publisher, doi:number OR Place of Publication \[if no DOI\].
 
 **Example**
 
@@ -994,7 +996,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ##### Rule
 
-> Author's family name Initial OR Organisation's name (Year) Title: subtitle of pamphlet or brochure \[format\], Name of Publisher, Place of Publication.
+> Author's family name Initial OR Organisation's name (Year) *Title: subtitle of pamphlet or brochure* \[format\], Name of Publisher, Place of Publication.
 
 ##### Examples
 
@@ -1036,21 +1038,21 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 - As details will vary for exhibition catalogues, try to extract as much information as you can about authorship, publication information, etc.
 
-- If there is no author, list the gallery/museum name first.
+- The author may be a person/people or an organisation such as the gallery/museum/public space itself.
 
 - Italicise the publication title.
 
-- After publication title, provide a description of the document format in square brackets, e.g. \[printed exhibition catalogue\]. If possible, add the exhibition dates after the document format. For example: \[printed exhibition catalogue\], 11 March - 27 May 2022.
+- After the title, provide the format of the resource in square brackets, e.g. \[print exhibition catalogue\].
 
-- Location of gallery/museum is the city the gallery/museum is in.
+- Add the exhibition dates after the format. For example: \[print exhibition catalogue\], 11 March - 27 May 2022.
 
 ##### Rule
 
-> Author or Gallery/Museum Name (Year) *Title of exhibition* \[format\], Day Month Year of exhibition, Publisher, Location of gallery/museum.
+> Author's family name Initial OR Name of Gallery/Museum/Public Space (Year of publication) *Title of exhibition* \[format\], Day Month Year of exhibition, Name of Publisher, Place of Publication.
 
 ##### Example
 
-> NGV International (2021) *Gabrielle Chanel. Fashion Manifesto* \[printed exhibition catalogue\], 5 December 2020 – 25 April 2021, National Gallery of Victoria and Thames & Hudson, Melbourne.
+> NGV International (2021) *Gabrielle Chanel. Fashion Manifesto* \[print exhibition catalogue\], 5 December 2020 – 25 April 2021, National Gallery of Victoria and Thames & Hudson, Melbourne.
 
 ###### end-subtype-content
 
@@ -1112,7 +1114,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial (Year) 'Title of article: subtitle of article', *Name of journal*, volume(issue):start page-end page, doi:number \[if available\].
+> Author's family name Initial (Year) 'Title of article: subtitle of article', *Name of Journal*, volume(issue):start page-end page, doi:number \[if available\].
 
 ##### Example
 
@@ -1170,7 +1172,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial and Author's family name Initial (Year) 'Title of article: subtitle of article', *Name of journal*, volume(issue):start page-end page, doi:number \[if available\].
+> Author's family name Initial and Author's family name Initial (Year) 'Title of article: subtitle of article', *Name of Journal*, volume(issue):start page-end page, doi:number \[if available\].
 
 ##### Example
 
@@ -1232,7 +1234,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial, Author's family name Initial and Author's family name Initial (Year) 'Title of article: subtitle of article', *Name of journal*, volume(issue):start page-end page, doi:number \[if available\].
+> Author's family name Initial, Author's family name Initial and Author's family name Initial (Year) 'Title of article: subtitle of article', *Name of Journal*, volume(issue):start page-end page, doi:number \[if available\].
 
 ##### Examples
 
@@ -1252,7 +1254,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-In place of the author, cite the article title and the publication year. Put article title in single inverted commas (quotation marks).
+If the journal article does not have a person identified as the author, begin the reference with the name of the journal instead (do no italicise) followed by the year of the article.
 
 #### In-text reference: Direct quotes
 
@@ -1262,29 +1264,29 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 The examples below come from a source that does not have page numbers:
 
-> 'The disease has a severe impact on patients' lives, causing a constellation of cranial and systemic symptoms...' ('Giant cell arteritis: one size does not fit all' 2021).
+> 'The disease has a severe impact on patients' lives, causing a constellation of cranial and systemic symptoms...' (The Lancet Rheumatology 2021).
 
-> 'Giant cell arteritis: one size does not fit all' (2021) explains in the opening paragraph that '...there is only one targeted drug approved for the disease, despite decades of research...'
+> The Lancet Rheumatology (2021) explains in the opening paragraph that '...there is only one targeted drug approved for the disease, despite decades of research...'
 
 #### In-text reference: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-> For people aged over 50 years, even though it is a rare illness, giant cell arteritis is the most common type of vasculitis ('Giant cell arteritis: one size does not fit all' 2021).
+> For people aged over 50 years, even though it is a rare illness, giant cell arteritis is the most common type of vasculitis (The Lancet Rheumatology 2021).
 
-> 'Giant cell arteritis: one size does not fit all' (2021) states that for people aged over 50 years, giant cell arteritis is the most common type of vasculitis, even though it is a rare illness.
+> The Lancet Rheumatology (2021) states that for people aged over 50 years, giant cell arteritis is the most common type of vasculitis, even though it is a rare illness.
 
 #### Reference list entry
 
 In your reference list:
 
-- In place of the author, put the article title and the publication year in brackets. Enclose the title of the article in single inverted commas (quotation marks).
+- If the journal article does not have a person identified as the author, use the name of the journal instead (do no italicise) followed by the year of the article in parentheses, e.g. The Lancet Rheumatology (2021).
 
 - If no publication year supplied, write **n.d.** (for 'no date'). If the year can be reliably estimated or inferred from the text, then write **c.** (meaning ‘circa’ or approximately) followed by the year.
 
-- Italicise the journal title.
+- Put the title of the article in single inverted commas (quotation marks). Italicise only the second instance of the journal name after the article title.
 
-- After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
+- After the second instance of the journal name, include the volume number followed by issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range is not available, put the start page instead.
 
 - If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop if the work was sourced from a print (physical) journal. If the work was sourced from an online e-Journal and there is no DOI, add the database name (if sourced from library database) or URL (if sourced from website) instead. Please see section on **e-Journal article** for more details.
 
@@ -1294,11 +1296,11 @@ In your reference list:
 
 ##### Rule
 
-> 'Title of article: subtitle of article' (Year) *Name of journal*, volume(issue):start page-end page, doi:number \[if available\].
+> Name of Journal (Year) 'Title of article: subtitle of article', *Name of Journal*, volume(issue):start page-end page, doi:number \[if available\].
 
 ##### Example
 
-> 'Giant cell arteritis: one size does not fit all' (2021) *The Lancet Rheumatology*, 3(12):E819, doi:10.1016/S2665-9913(21)00364-7.
+> The Lancet Rheumatology (2021) 'Giant cell arteritis: one size does not fit all', *The Lancet Rheumatology*, 3(12):E819, doi:10.1016/S2665-9913(21)00364-7.
 
 ###### end-subtype-content
 
@@ -1390,10 +1392,12 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Print newspaper article in hardcopy (print format)
+### Print newspaper article 
 
 <!-- first accordion item -->
 ###### start-subtype-content
+
+In hardcopy (print) format.
 
 #### In-text reference: Direct quotes
 
@@ -1421,7 +1425,7 @@ In your reference list:
 
 ##### Rule
 
-> Author’s family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of newspaper*.
+> Author’s family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*.
 
 ##### Examples
 
@@ -1437,9 +1441,11 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Print newspaper article in hardcopy (print format) with no author
+### Print newspaper article with no author
 
 ###### start-subtype-content
+
+In hardcopy (print) format.
 
 #### In-text reference: Direct quotes
 
@@ -1447,33 +1453,33 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 For direct quotes, page numbers are only required when they are provided in the original work. After the year, put a colon (:) followed by the page number. If no page number is available, you can indicate the location of the quote in your writing.
 
-If there is no author, cite the newspaper title and the full publication date (e.g. 2 October 2021). Italicise the newspaper title.
+The example below comes from a source that has a page number, i.e. 25:
 
-> 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (*The Sunday Age* 2 October 2021:25).
+> 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
 
 #### In-text reference: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-> Aged care providers are starting to introduce new fee schemes in response to changes to Federal government funding (*The Sunday Age* 2 October 2021).
+> Aged care providers are starting to introduce new fee schemes in response to changes to Federal government funding (The Sunday Age 2 October 2021).
 
 #### Reference list entry
 
 In your reference list:
 
-- Enclose the title of the article in single inverted commas (quotation marks).
+- If the newspaper article does not have a person identified as the author, use the name of the newspaper instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. Financial Review (7 August 2021).
 
-- Italicise the newspaper title.
+- Put the title of the article in single inverted commas (quotation marks).
 
-- Include the full publication date in brackets after newspaper name (e.g. 7 August 2021).
+- Italicise only the second instance of the newspaper name after the article title.
 
 ##### Rule
 
-> *Newspaper Name* (Day Month Year) 'Title of article: subtitle of article'.
+> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*.
 
 ##### Example
 
-> *Financial Review* (7 August 2021) 'Small business response to COVID-19'.
+> Financial Review (7 August 2021) 'Small business response to COVID-19', *Financial Review*.
 
 ###### end-subtype-content
 
@@ -1483,11 +1489,11 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a web page (HTML format)
+### Newspaper article from a library database (HTML format)
 
 ###### start-subtype-content
 
-**Note:** Newspaper articles in HTML format appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in PDF format with full-page format/imaging, please treat it in the same way as a print newspaper article.
+**Note:** Newspaper articles in HTML format appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in **PDF format with full-page format/imaging**, please treat it in the same way as a **print newspaper article**.
 
 #### In-text reference: Direct quotes
 
@@ -1513,17 +1519,123 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
+- Include the day, month and year of article in parentheses after the author.
+
 - Enclose the title of the article in single inverted commas (quotation marks).
 
-- Italicise the newspaper title.
+- Italicise the newspaper name.
 
-- Include the full publication date in brackets after author (e.g. 28 November 2021).
+- Add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+
+##### Rule
+
+> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year, Name of Database database.
+
+##### Example
+
+> Hall J (24 June 2022) 'It's time for a change', *Herald Sun*, accessed 4 July 2022, Factiva database.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+
+###### start-subtype-item
+
+### Newspaper article from a library database (HTML format) with no author
+
+###### start-subtype-content
+
+**Note:** Newspaper articles in HTML format (with or without an author) appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in **PDF format with full-page format/imaging and has no author**, please treat it in the same way as a **print newspaper article with no author**.
+
+If the newspaper article does not have a person identified as the author, begin the reference with the name of the newspaper instead (do no italicise) followed by the day, month and year of the article.
+
+#### In-text reference: Direct quotes
+
+A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
+
+For direct quotes, page numbers are only required when they are provided in the original work. After the year, put a colon (:) followed by the page number. If no page number is available, you can indicate the location of the quote in your writing.
+
+The example below comes from a source that has a page number, i.e. 25:
+
+> 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
+
+#### In-text reference: Paraphrasing
+
+Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
+
+> Aged care providers are starting to introduce new fee schemes in response to changes to Federal government funding (The Sunday Age 2 October 2021).
+
+#### Reference list entry
+
+In your reference list:
+
+- If the newspaper article does not have a person identified as the author, use the name of the newspaper instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. The Age (28 June 2022).
+
+- Put the title of the article in single inverted commas (quotation marks).
+
+- Italicise only the second instance of the newspaper name after the article title.
+
+- After the second instance of the newspaper name, add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+
+##### Rule
+
+> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year, Name of Database database.
+
+##### Example
+
+> The Age (28 June 2022) 'Mental health issues top chronic illness list: health', *The Age*, accessed 4 July 2022, Australia & New Zealand Newsstream database.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+
+###### start-subtype-item
+
+### Newspaper article from a webpage (HTML format) 
+
+###### start-subtype-content
+
+**Note:** Newspaper articles in HTML format appear as text on the screen similar to a website. These articles are NOT in PDF format. If the article is in **PDF format with full-page format/imaging**, please treat it in the same way as a **print newspaper article**.
+
+##### In-text reference: Direct quotes
+
+A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
+
+For direct quotes, page numbers are only required when they are provided in the original work. After the year, put a colon (:) followed by the page number. If no page number is available, you can indicate the location of the quote in your writing.
+
+The examples below come from sources that do not have page numbers:
+
+> 'Bringing forward plans for a third vaccine dose could protect against the new strain \[of COVID-19\] if it appeared to spread more quickly' (Blakely cited in Proust and Gailberger 2021).
+
+> Wright and Duke (2021) begin their article on housing affordability by reporting on the Reserve Bank of Australia's statement that although increases in property value had provided a 'financial boost to people already with a home', the 'market could take on a life of its own' if those looking to buy property accumulate too much debt.
+
+##### In-text reference: Paraphrasing
+
+Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
+
+> Proust and Gailberger (2021) report that virus specialist, Professor Tony Blakely, has stated that if it proves to be prolific, the new strain of COVID-19 could potentially be contained by a third vaccine.
+
+> Although soaring property values have been beneficial for home-owners, there are risks for those looking to buy a house if they acquired additional debt beyond what they could afford (Wright and Duke 2021).
+
+##### Reference list entry
+
+In your reference list:
+
+- Include the day, month and year of article in parentheses after the author.
+
+- Enclose the title of the article in single inverted commas (quotation marks).
+
+- Italicise the newspaper name.
 
 - Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
-> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Newspaper Name*, accessed Day Month Year. URL
+> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year. URL
 
 ##### Example
 
@@ -1537,53 +1649,54 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a web page (HTML format) with no author
+### Newspaper article from a webpage (HTML format) with no author
 
 ###### start-subtype-content
 
-**Note:** Newspaper articles in HTML format (with or without an author) appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in PDF format with full-page format/imaging and has no author, please treat it in the same way as a print newspaper article with no author.
+**Note:** Newspaper articles in HTML format (with or without an author) appear as text on the screen similar to a website. These articles are NOT in PDF format. If the article is in **PDF format with full-page format/imaging** and has no author, please treat it in the same way as a **print newspaper article with no author**.
 
-#### In-text reference: Direct quotes
+If the newspaper article does not have a person identified as the author, begin the reference with the name of the newspaper instead (do no italicise) followed by the day, month and year of the article.
+
+##### In-text reference: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
 For direct quotes, page numbers are only required when they are provided in the original work. After the year, put a colon (:) followed by the page number. If no page number is available, you can indicate the location of the quote in your writing.
 
-If the article has no author, cite the newspaper title and the full publication date (e.g. 2 October 2021). Italicise the newspaper title.
-
 The example below comes from a source that has a page number, i.e. 25:
 
-> 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (*The Sunday Age* 2 October 2021:25).
+> 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
 
-#### In-text reference: Paraphrasing
+##### In-text reference: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-> Aged care providers are starting to introduce new fee schemes in response to changes to Federal government funding (*The Sunday* Age 2 October 2021).
+> Aged care providers are starting to introduce new fee schemes in response to changes to Federal government funding (The Sunday Age 2 October 2021).
 
-#### Reference list entry
+##### Reference list entry
 
 In your reference list:
 
-- Enclose the title of the article in single inverted commas (quotation marks).
+- If the newspaper article does not have a person identified as the author, use the name of the newspaper instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. The Age (24 January 2022).
 
-- Italicise the newspaper title.
+- Put the title of the article in single inverted commas (quotation marks).
 
-- Include the full publication date in brackets after author (e.g. 28 November 2021).
+- Italicise only the second instance of the newspaper name after the article title.
 
-- Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- After the second instance of the newspaper name, add the accessed date (e.g. accessed 2 November 2021) followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
-> *Newspaper Name* (Day Month Year) 'Title of article: subtitle of article', access Day Month Year. URL
+> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year. URL
 
-##### Example
+Example
 
-> *The Age* (24 January 2022) 'Economists tip August interest rate hike as the cost of living rises', accessed 24 January 2022. https<nolink>://www.theage.com.au/politics/federal/economists-tip-august-interest-rate-hike-as-the-cost-of-living-rises-20220124-p59qoc.html
+> The Age (24 January 2022) 'Economists tip August interest rate hike as the cost of living rises', *The Age*, accessed 24 January 2022. https<nolink>://www.theage.com.au/politics/federal/economists-tip-august-interest-rate-hike-as-the-cost-of-living-rises-20220124-p59qoc.html
 
 ###### end-subtype-content
 
 ###### end-subtype-item
+
 
 
 ###### end-subtype
@@ -1630,7 +1743,7 @@ In your reference list:
 
 - Enclose the title of the conference paper in single inverted commas (quotation marks) and write the name of the conference in italics.
 
-- Put \[conference presentation\] in square brackets after the title of the conference paper.
+- After the title, provide the format of the resource in square brackets, i.e. \[conference presentation\].
 
 - The place of conference is the city the conference was held in. Put after the name of the conference.
 
@@ -1638,7 +1751,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial (Day Month Year of conference) 'Title of paper: subtitle of paper' \[conference presentation\], *Name of Conference*, Place of conference, accessed Day Month Year, Name of Database database.
+> Author's family name Initial (Day Month Year of conference) 'Title of paper: subtitle of paper' \[format\], *Name of Conference*, Place of Conference, accessed Day Month Year, Name of Database database.
 
 ##### Example
 
@@ -1682,7 +1795,7 @@ In your reference list:
 
 - Enclose the title of the conference paper in single inverted commas (quotation marks) and write the name of the conference in italics.
 
-- Put \[conference presentation\] in square brackets after the title of the conference paper.
+- After the title, provide the format of the resource in square brackets, i.e. \[conference presentation\].
 
 - The place of conference is the city the conference was held in. Put after the name of the conference.
 
@@ -1690,7 +1803,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial (Day Month Year of conference) 'Title of paper: subtitle of paper' \[conference presentation\], *Name of Conference*, Place of conference, accessed Day Month Year. URL
+> Author's family name Initial (Day Month Year of conference) 'Title of paper: subtitle of paper' \[format\], *Name of Conference*, Place of Conference, accessed Day Month Year. URL
 
 ##### Example
 
@@ -1748,13 +1861,13 @@ In your reference list:
 
 - Enclose the title of the conference paper in single inverted commas (quotation marks) and write the name of the conference in italics.
 
-- Put \[unpublished conference presentation\] in square brackets after the title of the conference paper.
+- After the title, provide the format of the resource in square brackets, i.e. \[unpublished conference presentation\].
 
 - The place of conference is the city the conference was held in. Put after the name of the conference.
 
 ##### Rule
 
-> Author's family name Initial (Day Month Year) 'Title of paper: subtitle of paper' \[unpublished conference presentation\], *Name of Conference*, Place of conference.
+> Author's family name Initial (Day Month Year) 'Title of paper: subtitle of paper' \[format\], *Name of Conference*, Place of Conference.
 
 ##### Example
 
@@ -2106,7 +2219,7 @@ In your reference list for **television program**:
 
 ##### Rule (film/movie)
 
-> Director's family name Initial (director) or Producer's family name Initial (producer) (Year of release) Title of film: subtitle of film \[format\], Name of Studio or Publisher, Place of Production.
+> Director's family name Initial (director) or Producer's family name Initial (producer) (Year of release) *Title of film: subtitle of film* \[format\], Name of Studio or Publisher, Place of Production.
 
 ##### Examples
 
@@ -2116,7 +2229,7 @@ In your reference list for **television program**:
 
 ##### Rule (television program)
 
-> Director's family name Initial (director) or Producer's family name Initial (producer) (Year of release) 'Title of episode: subtitle of episode' \[format\], Name of series (season number, episode number), Name of Station or Studio, Place of Production.
+> Director's family name Initial (director) or Producer's family name Initial (producer) (Year of release) 'Title of episode: subtitle of episode' \[format\], *Name of series* (season number, episode number), Name of Station or Studio, Place of Production.
 
 ##### Examples
 
@@ -2168,7 +2281,7 @@ In your reference list:
 
 ##### Rule
 
-> Host's family name Initial (host) and Producer's family name Initial (producer) OR Host's family name Initial (host) and Organisation's Name (producer) (Day Month Year) 'Title of podcast episode: subtitle of podcast episode' \[format\], Name of podcast series, Name of Podcast Network (website), accessed Day Month Year. URL
+> Host's family name Initial (host) and Producer's family name Initial (producer) OR Host's family name Initial (host) and Organisation's Name (producer) (Day Month Year) 'Title of podcast episode: subtitle of podcast episode' \[format\], *Name of podcast series*, Name of Podcast Network (website), accessed Day Month Year. URL
 
 ##### Examples
 
@@ -2226,7 +2339,7 @@ In your reference list:
 
 ##### Rule
 
-> Creator's family name Initial or Owner of video (Day Month Year) 'Title of video: subtitle of video' \[format\], Name of Channel or Owning Organisation, Name of Website website, accessed Day Month Year. URL
+> Creator's family name Initial or Owner of video (Day Month Year) 'Title of video: subtitle of video' \[format\], *Name of Channel or Owning Organisation*, Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
 
@@ -2437,7 +2550,7 @@ If the image was on a website include the URL, otherwise provide the in-text ref
 
 ##### Rule
 
-> {.figure-text}Figure number: Artist's full name (year produced) *Title of artwork* \[medium\], Name of museum/gallery, Location of museum/gallery or Publishing details of where image was sourced. {/.figure-text}
+> {.figure-text}Figure number: Artist's full name (year produced) *Title or description of artwork* \[format\], Publishing details of where image was sourced. {/.figure-text}
 
 ##### Examples
 
@@ -2477,19 +2590,29 @@ In your reference list:
 
 - Artworks that you reproduced from books, websites and other sources should be cited in the standard format of the source as described in the other sections of this guide.
 
-- If viewed online: add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- Italicise the title. After the title, provide the format of the resource in square brackets.
+
+- **If viewed in-person:** Add the name and location of the museum, gallery or public space.
+
+- **If viewed online:** add the name of the website followed by the word **website**. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
-> Creator's family name Initial (Year) *Title or description of work* \[medium\], Name of Museum, Exhibition or Gallery, Location of museum, exhibition or gallery, accessed Day Month Year \[if viewed online\]. URL \[if viewed online\]
+> Artist family name Initial (Year) *Title or description of work* \[format\], Name of Museum/Gallery/Public Space, Location of Museum/Gallery/Public Space.
 
 ##### Examples
-
-> Artist unknown (c. 11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], The Metropolitan Museum of Art, New York, accessed 9 December 2021. https<nolink>://www.metmuseum.org/art/ collection/search/39733?
  
 > Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton.
  
 > Pollock J (1952) *Blue Poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
+
+##### Rule (if viewed online, i.e. website)
+
+> Artist family name Initial (Year) *Title or description of work* \[format\], Name of Website website, accessed Day Month Year. URL
+
+##### Example
+
+> Artist unknown (c. 11-12th C) *Tapestry with dragons and flowers* [silk tapestry], The Metropolitan Museum of Art website, accessed 9 December 2021. https<nolink>://www.metmuseum.org/art/ collection/search/39733?
 
 ###### end-subtype-content
 
@@ -2511,6 +2634,10 @@ Maps taken from an online source can include:
 
 - web maps that use satellite imagery and GPS data and are taken from online navigation and mapping sites such as Google Maps
 
+Maps can also be in hardcopy/print format.
+
+The cartographer (author) can be a person/people or an organisation.
+
 When citing maps in the text of your work, you need to acknowledge them in two places:
 
 1.  within the written body of your paper, as you would for a normal in-text reference, and
@@ -2520,15 +2647,17 @@ Refer to a figure by its assigned number, not as the figure above or below or on
 
 #### Captions
 
+If the map was on a website, include the URL (no full stop after URL) after the accessed date. If the map appeared in other sources, provide the in-text referencing details of the source as described in other areas of this guide.
+
 ##### Rule
 
-> {.figure-text}Figure number: Cartographer’s full name (year produced) *Title of map*, Publishing details of where image was sourced. {/.figure-text}
+> {.figure-text}Figure number: Cartographer’s full name (year produced) *Title of map* \[format\], Publishing details of where map was sourced. {/.figure-text}
 
 ##### Examples
 
-> {.figure-text}Figure 7: James Kearney (1855) *Melbourne and its suburbs: map 1* \[digitised map\], SLV https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
+> {.figure-text}Figure 7: James Kearney (1855) *Melbourne and its suburbs: map 1* \[digitised map\], State Library of Victoria website, accessed 13 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
 
-> {.figure-text}Figure 8: *Plenty Road Bundoora 3083* by VicPlan, 2020, web map. {/.figure-text}
+> {.figure-text}Figure 8: VicPlan (2020) Plenty Road Bundoora 3083, web map. {/.figure-text}
 
 #### In-text references
 
@@ -2546,19 +2675,29 @@ Refer to a figure by its assigned number, not as the figure above or below or on
 
 In your reference list:
 
-- Add map title in italics.
-- Add the accessed date (e.g. accessed 1
-3 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- Add the map title in italics. After the title, provide the format of the resource in square brackets, e.g. \[web map\], \[print map\], \[digitised map\]. \[Print map\] is for hardcopy maps.
 
-##### Rule
+- **If hardcopy/print:** Add the name of publisher and place published.
 
-> Author/creator's family name Initial or Organisation's name (year of creation), *Title*, material type (if known), copyright owner/publisher/provider, accessed Day Month Year. URL
+- **If online:** add the website name followed by the word website. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+
+##### Rule (if hardcopy/print)
+
+> Cartographer's family name Initial or Organisation's name (Year of creation), *Title of map* \[format\], Name of Publisher, Place of Publication.
+
+##### Example
+
+> Melway (2021) *Geelong* \[print map\], Melway, Clayton, VIC.
+
+##### Rule (if online, i.e. website)
+
+> Cartographer's family name Initial or Organisation's name (Year of creation), *Title of map* \[format\], Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
 
-> Kearney J (1855) *Melbourne and its suburbs*, Victoria Surveyor-General, SLV, accessed 10 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
- 
-> VicPlan (2020) *Plenty Road Bundoora 3083*, web map, Victoria State Government, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
+> Kearney J (1855) *Melbourne and its suburbs: map 1* \[digitised map\], State Library of Victoria website, accessed 10 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
+
+> VicPlan (2020) *Plenty Road Bundoora 3083* \[web map\], Victoria State Government website, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
 
 ###### end-subtype-content
 
@@ -2659,7 +2798,7 @@ In your reference list, reference tables and diagrams in accordance with the sou
 
 
 
-<!-- Reports, data sets and standards - links to the tenth type menu item -->
+<!-- Reports and data sets - links to the tenth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2696,21 +2835,23 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- For author details, use the short form 'ABS' in the author position, followed by the full name 'Australian Bureau of Statistics' in parentheses.
+- For author details, use the short form **ABS** in the organisational author position, followed by the full name **Australian Bureau of Statistics** in parentheses.
 
-- Italicise the report title. Include the catalogue number after the report title. Include the publication details (publisher and place of publication). The abbreviation ABS is used for the name of the publisher.
+- Italicise the report title.
 
-- Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- If stated, put the actual catalogue number after the words **catalogue number**. Omit if there is none.
 
-- For an ABS report with full-page format/imaging (PDF), give the URL for the page where the report can be found, not the link to the PDF itself.
+- Include the word **website** after the name of the website. Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+
+- For ABS reports that are available as PDF, provide a URL that links to the landing page where the PDF is located, not the URL that directly links to the PDF itself. If there is no landing page, provide a URL that directly links to the PDF.
 
 ##### Rule
 
-> Organisation's name abbreviated (Organisation's full name) (Year) *Title of report: subtitle of report*, catalogue number, accessed Day Month Year. URL
+> Organisational author's name abbreviated (Organisational author's full name) (Year) *Title of report: subtitle of report*, catalogue number catalogue number \[if available\], Name of Website website, accessed Day Month Year. URL
 
 ##### Example
 
-> ABS (Australian Bureau of Statistics) (2021) *Life tables 2018-2020*, catalogue number 3302.0.55.001, ABS, Canberra, accessed 3 December 2021. https<nolink>://www-abs-gov-au.ezproxy.lib.rmit.edu.au/ statistics/people/population/life-tables/2018-2020#data-download
+> ABS (Australian Bureau of Statistics) (2021) *Life tables 2018-2020*, catalogue number 3302.0.55.001, ABS, Canberra, accessed 3 December 2021. https<nolink>://www.abs.gov.au/AUSSTATS/abs@.nsf/allprimarymainfeatures/123B67D527F36A63CA2584A20012C43C?opendocument
 
 ###### end-subtype-content
 
@@ -2725,6 +2866,8 @@ In your reference list:
 ###### start-subtype-content
 
 Government reports may include departmental reports, reports of commissions of inquiry, committees of review and committees of parliament.
+
+Organisation reports may include annual reports or research conducted by the organisation and presented in a report.
 
 As details will vary for government or organisation reports, try to extract as much information as you can about authorship and publication information etc.
 
@@ -2750,27 +2893,35 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- Italicise report title. Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- The author may be a person/people, an organisation or the government department.
 
-- For reports with full-page format/imaging (PDF), give the URL for the page where the report can be found, not the link to the PDF itself.
+- Italicise the report title.
+
+- For organisation reports, if stated, put the actual report number after the words **report number**. Omit if there is none.
+
+- Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+
+- For documents that are available as PDF, provide a URL that links to the landing page where the PDF is located, not the URL that directly links to the PDF itself. If there is no landing page, provide a URL that directly links to the PDF.
 
 ##### Rule (government report)
 
-> Author's family name Initial (Year) *Title of report: subtitle of report*, Name of Agency, Name of Government, accessed Day Month Year. URL
+> Author's family name Initial (Year) *Title of report: subtitle of report*, report number report number \[if available\], Name of Government Department, Name of Government, accessed Day Month Year. URL
 
 ##### Examples
 
-> Hayne KM (2019) *Royal Commission into misconduct in the banking, superannuation and financial services industry*, Volume 3, Australian Government, accessed 13 December 2021. https<nolink>://www.royalcommission.gov.au/banking/final-report
+> Hayne KM (2019) *Royal Commission into misconduct in the banking, superannuation and financial services industry, Volume 3*, Royal Commissions, Australian Government, accessed 13 December 2021. https<nolink>://www.royalcommission.gov.au/banking/final-report
  
 > Wells Advisory (2021) *Forward impact of COVID-19 on Australian higher education*, Tertiary Education Quality and Standards Agency (TEQSA), Australian Government, accessed 13 December 2021. https<nolink>://www.teqsa.gov.au/latest-news/publications/forward-impact-covid-19-australian-higher-education-report
 
 ##### Rule (organisation report)
 
-> Author's family name Initial (Year) *Title of report: subtitle of report*, Name of Publisher, accessed Day Month Year. URL
+> Author's family name Initial (Year) *Title of report: subtitle of report*, report number report number \[if available\], Name of Website website, accessed Day Month Year. URL
 
-##### Example
+##### Examples
 
-> AASW (Australian Association of Social Workers) (2021) *Annual report 2020-2021*, AASW, accessed 13 December 2021. https<nolink>://www.aasw.asn.au/publications/reports
+> AASW (Australian Association of Social Workers) (2021) *Annual report 2020-2021*, AASW website, accessed 13 December 2021. https<nolink>://www.aasw.asn.au/publications/reports
+
+> FMGL (Fortescue Metals Group Ltd) (2021) *Annual report FY21*, FMGL website, accessed 13 December 2021. https<nolink>://www.fmgl.com.au/investors/asx-announcements
 
 ###### end-subtype-content
 
@@ -2787,6 +2938,8 @@ In your reference list:
 Company, industry or market reports from Library databases or websites.
 
 As details will vary for company, industry or market reports, try to extract as much information as you can about authorship and publication information etc.
+
+Authors are often organisations rather than individuals.
 
 Where there is no author, use the name of the company or organisation responsible for the report.
 
@@ -2814,30 +2967,36 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- If sourced from a **Library database:** Italicise report title. Add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+- The author may be a person/people or an organisation.
+Italicise report title.
 
-- If sources from a **website:** Italicise report title. Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- If stated, put the actual report number after the words **report number**. Omit if there is none.
 
-- Italicise report title.
+- If sourced from a **Library database**: Add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+
+- If sourced from a **website**:
+
+    - Include the word **website** after the name of the website. Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+
+    - For documents that are available as PDF, provide a URL that links to the landing page where the PDF is located, not the URL that directly links to the PDF itself. If there is no landing page, provide a URL that directly links to the PDF.
 
 ##### Rule (from Library database)
 
-> Author's family name Initial or Organisation’s Name (Year) *Title of report: subtitle of report*, report no. number \[if available\], accessed Day Month Year, Name of Database database.
+> Author's family name Initial or Organisation’s Name (Year) *Title of report: subtitle of report*, report number report number \[if available\], accessed Day Month Year, Name of Database database.
 
 ##### Examples
 
 > Lo B (2016) *Internet service providers in Australia*, report no. J5911, accessed 28 November 2021, IBISWorld database.
+
 > MarketLine Limited (2021) *Global - apparel manufacturing*, accessed 13 December 2021, MarketLine database.
 
 ##### Rule (from website)
 
-> Author's family name Initial or Organisation’s Name (Year) *Title of report: subtitle of report*, Name of publisher, accessed Day Month Year. URL
+> Author's family name Initial or Organisation's Name (Year) *Title of report: subtitle of report*, report number report number \[if available\], Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
 
 > Baptist World Aid Australia (2021) *The 2019 ethical fashion report: The truth behind the bar code*, BWAA, accessed 13 December 2021. https<nolink>://www.business-humanrights.org/en/latest-news/2019-ethical-fashion-report-the-truth-behind-the-barcode/
- 
-> Fortescue Metals Group Ltd (2021) *Annual report FY21*, FMGL, accessed 13 December 2021. https<nolink>://www.fmgl.com.au/investors/asx-announcements
 
 ###### end-subtype-content
 
@@ -2925,7 +3084,9 @@ In your reference list:
 
 - If no author details are available, start with the data set title in italics.
 
-- Italicise data set title. In square brackets, include the resource type after the data set title, i.e. \[data set\]. Include the series title (if supplied) after the data set title. Add the website name after the resource type followed by the word **website**.
+- Italicise the data set title, followed by the format of the resource in square brackets, i.e. \[data set\].
+
+- Add the website name after the resource type followed by the word **website**.
 
 - Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
@@ -2933,7 +3094,7 @@ In your reference list:
 
 ##### Rule
 
-> Author’s family name Initial or Name of organisation (Year) *Title of data set* \[data set\], Name of Website website, accessed Day Month Year. URL
+> Author’s family name Initial or Name of organisation (Year) *Title of data set* \[format\], Name of Website website, accessed Day Month Year. URL
 
 ##### Example
 
@@ -3141,17 +3302,17 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- Put the lecturer's family name and initial for lecture notes, PowerPoint slides and course handouts. Put 'RMIT Creds' for micro-credentials from RMIT.
+- Put the lecturer's family name and initial for lecture notes, PowerPoint slides and course handouts. Put **RMIT Creds** for micro-credentials from RMIT.
 
 - Enclose the title of the course material in single inverted commas (quotation marks). Do not italicise the title of the course material.
 
-- Include the type of course material in square brackets, e.g. \[course handout\], \[PowerPoint slides\], \[lecture notes\], \[micro-credential\]. Within the same square brackets, also include the course code or course name after the type of course material if applicable, e.g. MANG4321.
+- After the title, provide the type of course material in square brackets, e.g. \[course handout\], \[PowerPoint slides\], \[lecture notes\], \[micro-credential\]. Within the same square brackets, also include the course code or course name after the type of course material if applicable, e.g. MANG4321.
 
 - The location is the city of the University. Add only if it is not inferred by the University name.
 
 ##### Rule
 
-> Lecturer's family name Initial or RMIT Creds (Year) 'Title of course material' \[type of course material\], Name of University, Location (if not inferred by university name).
+> Lecturer's family name Initial OR RMIT Creds \[if RMIT micro-credential\] (Year) 'Title of course material' \[type of course material\], Name of University, Location \[if not inferred by university name\].
 
 ##### Examples
 
@@ -3173,11 +3334,11 @@ In your reference list:
 
 Take care to give accurate and complete details about legislation (Acts) and legal cases. The *Legal Material* section of the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/legal-material" target="_blank">Australian Government Style Manual</a> (opens in a new tab) provides more detail and examples regarding the use of legal materials.
 
-#### Legislation (Act)
+For **Acts of Parliament (legislation)** and **Bills**, a pinpoint is a reference to a specific page, paragraph or other section of the Act, e.g. pt 3 div 2 s 16, add **only** if applicable. Pinpoint references should appear as abbreviations and a number separated by a space. Pinpoints are placed after the abbreviated jurisdiction.
 
-When discussing government policies and services that require you to refer to the relevant law(s), the title of legislation (Act) is generally placed first, followed by the relevant subsections.
+#### Act of Parliament (legislation)
 
-The title and year of the legislation (Act) is written in italics. The jurisdiction (e.g. Vic, Cth, etc.) is then identified – do not italicise. Include the jurisdiction either in the sentence (e.g. 'The Victorian government's...') or in parenthesis as an abbreviation after the Act title and without full stops (e.g. (Vic) ).
+When discussing government policies and services that require you to refer to the relevant law(s), the title of the Act of Parliament (legislation) is generally placed first, followed by the relevant subsections.
 
 Depending on the context, you might need to refer to specific sections, paragraphs and subparagraphs using a pinpoint reference.
 
@@ -3205,7 +3366,11 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ##### Reference list entry
 
-In your reference list: For a piece of **legislation (Act)**, include the title of the Act and year in italics, followed by the abbreviated jurisdiction in parentheses (e.g. Vic, Cth, etc.). For example, 'Commonwealth' is abbreviated to (Cth). Do not italicise the jurisdiction.
+In your reference list:
+
+- For an **Act of Parliament (legislation)**, include the title of the Act and year in italics, followed by the abbreviated jurisdiction in parentheses (e.g. Vic, Cth, etc.). For example, 'Commonwealth' is abbreviated to (Cth). Do not italicise the jurisdiction. Include the jurisdiction either in the sentence (e.g. 'The Victorian government's...') or in parenthesis as an abbreviation after the Act's title. Ensure the abbreviation does not have full stops, e.g. (Vic).
+
+- If applicable, add a pinpoint after the jurisdiction.
 
 **Rule**
 
@@ -3217,15 +3382,51 @@ In your reference list: For a piece of **legislation (Act)**, include the title 
  
 > *Water Act 2007* (Cth).
 
-#### Legal case
+#### Bill
 
-For a legal case, include the name of the case (parties) in italics, followed by the year in parentheses (e.g. 1975, 2008). Then put the volume number of the report series (e.g. 133, 237), the report series abbreviation (e.g. CLR, FCR, IR, HCA, FCA, FWC), and the page number where the case begins (e.g. 1). Only italicise the case name, not the other sections.
-
-With direct quotes, include the location of the quote using a page number (if available). To specify a page number, use the word **at** rather than **p**, e.g. 'at 72'.
+Reference a **Bill** in the same manner as an **Act**, ensuring that the title and year are NOT italicised.
 
 ##### In-text reference: Direct quotes
 
-A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
+A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available) or pinpoint reference.
+
+> Clause 64 of the Child Protection Reform and Other Legislation Amendment Bill 2021 (QLD) states that '...'
+
+> It is acknowledged that '...' under the Mental Health and Wellbeing Bill 2022 (Vic).
+
+##### In-text reference: Paraphrasing
+
+Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
+
+> The Aged Care and Other Legislation Amendment (Royal Commission Response No. 2) Bill 2021 (Cth) outlines...
+
+> The removal of...in the Disability Inclusion Amendment Bill 2022 (NSW) sch 1 s6 is more inclusive of...
+
+##### Reference list entry
+
+In your reference list:
+
+> For a Bill, reference it the same way as an Act, ensuring that the title and year are NOT italicised.
+
+**Rule**
+
+> Title of Bill Year (abbreviated jurisdiction) Pinpoint [if applicable].
+
+**Examples**
+
+> Aged Care and Other Legislation Amendment (Royal Commission Response No. 2) Bill 2021 (Cth).
+
+> Child Protection Reform and Other Legislation Amendment Bill 2021 (QLD) cl 64.
+
+> Disability Inclusion Amendment Bill 2022 (NSW) sch 1 s6.
+
+> Mental Health and Wellbeing Bill 2022 (Vic).
+
+#### Legal Case
+
+##### In-text reference: Direct quotes
+
+A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks). Include the location of the quote using a page number (if available). To specify a page number, use the word **at** rather than **p**, e.g. 'at 72'.
 
 > It was identified that '...' (*Beasley v Francis* (2008) 237 CLR 1 at 72).
 
@@ -3237,7 +3438,11 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ##### Reference list entry
 
-In your reference list: For a **legal case**, include the name of the case (parties) in italics, followed by the year in parentheses (e.g. 1975). Then put the volume number of the report series (e.g. 133), the report series abbreviation (e.g. CLR, FCR, IR, HCA, FCA, FWC), and the page number where the case begins (e.g. 1). Only italicise the case name, not the other sections.
+In your reference list:
+
+- For a **legal case**, include the name of the case (parties) in italics, followed by the year in parentheses (e.g. 1975, 2008). Then put the volume number of the report series (e.g. 133), the report series abbreviation (e.g. CLR, FCR, IR, HCA, FCA, FWC), and the page number where the case begins (e.g. 1).
+
+- Only italicise the case name, not the other sections.
 
 **Rule**
 
@@ -3299,13 +3504,13 @@ In your reference list:
 
 - Put the title of your previous work in single inverted commas (quotation marks).
 
-- Include type of work followed by the course code in square brackets: \[unpublished paper for course code\]. For example, \[unpublished paper for HRHR1001\].
+- After the title, provide the format of the resource and the course code in square brackets, i.e. \[unpublished paper for course code\]. For example: \[unpublished paper for HRHR1001\].
 
 - The location is the city of the University. Add only if it is not inferred by the University name.
 
 ##### Rule
 
-> Student family name Initial (Year) 'Title of previous work' \[unpublished paper for course code\], Name of University, Location (if not inferred by university name).
+> Student family name Initial (Year) 'Title of previous work' \[format\], Name of University, Location of University (if not inferred by university name).
 
 ##### Example
 
@@ -3391,7 +3596,7 @@ In your reference list:
 
 - After the author, put in brackets the day, month and year the media release was published.
 
-- Italicise title of media release. Include type of source after title, i.e. \[media release\].
+- Italicise title of media release. After the title, provide the format of the resource in square brackets, i.e. \[media release\].
 
 - Include the word **website** after website name.
 
@@ -3399,7 +3604,7 @@ In your reference list:
 
 ##### Rule
 
-> Author's family name Initial or Organisation's name (Day Month Year) *Title of media release: subtitle of media release* \[media release\], Name of Website website, accessed Day Month Year. URL
+> Author's family name Initial or Organisation's name (Day Month Year) *Title of media release: subtitle of media release* \[format\], Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
 
