@@ -33,6 +33,7 @@
 ## Audiovisual material
 ## Images and figures
 ## Reports and data sets
+## Standards
 ## Theses and dissertations
 ## Other sources
 
@@ -358,17 +359,15 @@ Below is an example of a reference list displaying various resource types includ
 
 #### Reference List
 
-AASW (Australian Association of Social Workers) (2021) *Annual report 2020-2021*, AASW, accessed 13 December 2021. https<nolink>://www.aasw.asn.au/publications/reports
+AASW (Australian Association of Social Workers) (2021) *Annual report 2020-2021*, AASW website, accessed 13 December 2021. https<nolink>://www.aasw.asn.au/publications/reports
 
-*Competition and Consumer Act 2010 (Cth)*.
+*Child Wellbeing and Safety Act 2005* (Vic).
 
 Day T (2018) *Success in academic writing*, 2nd edn, Palgrave, Basingstoke.
 
 Deegan C (2019) *An introduction to accounting: accountability in organisations and society*, Cengage Learning Australia, Southbank.
 
-Department of Education and Training (DET), Victoria (2020) *High impact teaching strategies*, DET website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/ school/teachers/teachingresources/practice/improve/Pages/hits.aspx
-
-'Giant cell arteritis: one size does not fit all' (2021) *The Lancet Rheumatology*, 3(12):E819, doi:10.1016/S2665-9913(21)00364-7.
+DET (Department of Education and Training Victoria) (2020) *High impact teaching strategies*, DET website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx
 
 Ghezzi A and Cavallo A (2020) 'Agile business model innovation in digital entrepreneurship: lean startup approaches', *Journal of Business Research*, 10:519-537, doi:10.1016/j.jbusres.2018.06.013.
 
@@ -386,7 +385,9 @@ Soluk J, Miroshnychenko I, Kammerlander N and De Massis A (2021) 'Family influen
 
 Telstra (n.d.) Homepage, Telstra website, accessed 13 December 2021. https<nolink>://www.telstra.com.au/
 
-Thunberg G (15 November 2021a) 'A reminder: the people in power don’t need conferences, treaties...' \[Tweet\], Greta Thunberg, accessed 1 November 2021. https<nolink>://twitter.com/GretaThunberg/status/ 1460159146720997377
+The Lancet Rheumatology (2021) 'Giant cell arteritis: one size does not fit all', *The Lancet Rheumatology*, 3(12):E819, doi:10.1016/S2665-9913(21)00364-7.
+
+Thunberg G (15 November 2021a) 'A reminder: the people in power don't need conferences, treaties...' \[Tweet\], Greta Thunberg, accessed 1 November 2021. https<nolink>://twitter.com/GretaThunberg/status/ 1460159146720997377
 
 Thunberg G (28 November 2021b) 'We can no longer let the people in power decide...' \[Instagram post\], Greta Thunberg, accessed 1 November 2021. https<nolink>://www.instagram.com/tv/CUXUfZIsHBm/
 
@@ -1968,13 +1969,17 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Webpage document (PDF)
+### Webpage document (PDF)                      
 
 ###### start-subtype-content
 
-The author can be an individual person or organisation.
+Do NOT use for government reports (they tend to report on a matter), organisational reports (e.g. annual reports, research conducted by the organisation and presented in a report), Australian Bureau of Statistics (ABS) reports or company/industry/market reports. To reference these reports, please see the relevant sections in EasyCite.
 
-Include the author's name (individual or corporate), followed by publication year (e.g. 2021).
+Use only for PDF documents NOT within any of the above categories.
+
+The author may be a person/people, an organisation or a government department.
+
+Include the author's name (individual or organisation), followed by publication year (e.g. 2021).
 
 If a downloadable webpage document (e.g. PDF) does not have an author name (individual or organisation), use the title of the document in italics, followed by year of publication.
 
@@ -2008,11 +2013,13 @@ In your reference list:
 
 - If an organisation's name is **both** the author of the website/webpage **and** the name of the website/webpage, use the abbreviated (shortened) form for the name of the website/webpage. Do this even if you have not used the abbreviated (shortened) form in your writing before. This avoids repetition of long names, e.g. DET website.
 
+- Italicise the document title.
+
 - Include the word **website** after the name of the website. But if the name of the website is a URL (e.g. vic.gov.au), do not write the word **website**. Do not italicise the name of website.
 
-- After website/webpage name, add the accessed date (e.g. accessed 13 December 2021) followed by a full stop, a space then the URL. No full stop after URL.
+- After website name, add the accessed date (e.g. accessed 13 December 2021) followed by a full stop, a space then the URL. No full stop after URL.
 
-- For downloadable webpage documents (e.g. PDFs), do not provide a URL that directly links to the document. Instead, provide a URL that links to the landing page where the document is located. If there is no landing page, provide a URL that directly links to the document.
+- For documents that are available as PDF, provide a URL that links to the landing page where the PDF is located, not the URL that directly links to the PDF itself. If there is no landing page, provide a URL that directly links to the PDF.
 
 ##### Rule
 
@@ -2020,7 +2027,9 @@ In your reference list:
 
 ##### Example
 
-> DET (Department of Education and Training), Victoria (2020) *High impact teaching strategies*, DET website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx
+> ACSQH (Australian Commission on Safety and Quality in Healthcare) (2022) *Hand hygiene factsheet for mental health workers*, ACSQH website, accessed 13 December 2021. https<nolink>://www.safetyandquality.gov.au/publications-and-resources/resource-library/hand-hygiene-factsheet-mental-health-workers
+
+> DET (Department of Education and Training Victoria) (2020) *High impact teaching strategies*, DET website, accessed 13 December 2021. https<nolink>://www.education.vic.gov.au/school/teachers/teachingresources/practice/improve/Pages/hits.aspx
 
 ###### end-subtype-content
 
@@ -2043,14 +2052,12 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Social media - blog or blog post
+### Blog or blog post
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-If the blog post does not have a person identified as the author, use name of blog instead (e.g. Welcome to Country). Sometimes, an organisation's name is the author.
-
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
+If the blog post does not have a person identified as the author, begin the reference with the name of the blog instead (do no italicise) followed by the day, month and year of the post.
 
 #### In-text reference: Direct quotes
 
@@ -2058,13 +2065,13 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 For direct quotes, page numbers are only required when they are provided in the original work. Blogs or blog posts, however, do not have page numbers. In this case, since no page number is available, you can indicate the location of the quote in your writing.
 
-> In a post introducing the delights of Australian native food, Welcome to Country (2021) notes that if you have not 'explored Australian native Bush Food you are missing out on some incredible flavours, textures and nutritional benefits'.
+> In a post introducing the delights of Australian native food in the opening paragraph, Welcome to Country (6 August 2021) notes that if you have not 'explored Australian native Bush Food you are missing out on some incredible flavours, textures and nutritional benefits'.
 
 #### In-text reference: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-> Australian native ingredients are nutritionally rich with wonderful flavours and textures (Welcome to Country 2020).
+> Australian native ingredients are nutritionally rich with wonderful flavours and textures (Welcome to Country 6 August 2020).
 
 > Mewburn (2020) identifies the complexities of writing in an academic style.
 
@@ -2072,9 +2079,15 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- For blog post, enclose the publication day, month and year in brackets after the author. If there is no author, enclose the publication day, month and year in brackets after blog name.
+- If the blog post does not have a person identified as the author, use the name of the blog instead (do no italicise) followed by the day, month and year of the post in parentheses, e.g. Welcome to Country (6 August 2021). 
 
-- After the blog's name, add accessed date (e.g. accessed 2 November 2021) followed by a full stop, a space then the URL. No full stop after URL.
+- Italicise only the second instance of the blog name.
+
+- If the blog post has a person author, use the family name and initial of the author instead followed by the day, month and year of the post in paratheses, e.g. Mewburn I (10 June 2020). Italicise the only instance of the blog name.
+
+- Put the title of the blog post in single inverted commas (quotation marks).
+
+- Add the accessed date (e.g. accessed 2 November 2021) followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule (with author)
 
@@ -2108,6 +2121,8 @@ For publicly accessible posts on Facebook, Twitter, Instagram, etc.
 
 For social media accounts that are not publicly accessible (e.g. a private Facebook page), the social media post should be cited as personal communication, not as social media post.
 
+The author may be a person/people or an organisation.
+
 If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
 #### In-text reference: Direct quotes
@@ -2132,19 +2147,19 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- Enclose the full publication date (e.g. 15 November 2021) in parentheses after the author or page name.
+- Enclose the full publication date (e.g. 15 November 2021) in parentheses after the author or page name. If the multiple posts are from the same author and same year, put a chronological letter after the year to differentiate their corresponding in-text references, e.g. 2021a, 2021b, 2021c.
 
 - Put title of the social media post in single inverted commas (quotation marks), followed by the type of post in square brackets, e.g. \[Facebook post\], \[Tweet\], \[Instagram post\].
 
 - For social media posts with no title, include the first 10 words of content followed by an ellipsis (three dots). Put these first 10 words in single inverted commas (quotation marks).
 
-- Include the page name where the post is located, after type of post.
+- After type of post, include the name of the page where the post is located.
 
 - After post's page name, add accessed date (e.g. accessed 13 December 2021) followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
-> Author’s family name Initial or Organisation’s Name (Day Month Year) ‘Title or first 10 words of content of post ...’ \[type of post\], Name of Page, accessed Day Month Year. URL
+> Author's family name Initial or Organisation's Name (Day Month Year) 'Title or first 10 words of content of post...' \[type of post\], Name of Page, accessed Day Month Year. URL
 
 ##### Examples
 
@@ -3006,58 +3021,6 @@ Italicise report title.
 
 ###### start-subtype-item
 
-### Standard
-
-###### start-subtype-content
-
-#### In-text reference: Direct quotes
-
-A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
-
-For direct quotes, page numbers are only required when they are provided in the original work. After the year, put a colon (:) followed by the page number. If no page number is available, you can indicate the location of the quote in your writing.
-
-> 'For single or upper storey construction, the spacing of bracing elements, measured at right angles to elements, shall not exceed 9000 mm' (Standards Australia 2010:11).
-
-#### In-text reference: Paraphrasing
-
-Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
-
-> For procedures and practices relating to timber framed constructions in non-cyclonic areas refer to...(Standards Australia 2010).
-
-#### Reference list entry
-
-In your reference list:
-
-- Italicise the standard’s title.
-
-- If sourced from a **Library database**: Add the accessed date (e.g. accessed 13 December 2021), followed by a comma, a space then the database name (e.g. SAI Global) followed by the word **database**.
-
-- If sourced from a **website**: Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
-
-##### Rule (from Library database)
-
-> Name of standard issuer (year) *Title*, Standard number, accessed Day Month Year, Name of Database database.
-
-##### Example
-
-> Standards Australia (2010) *Residential timber-framed construction - non-cyclonic areas*, AS 1684.2-2010, accessed 9 December 2021, SAI Global database.
-
-##### Rule (from website)
-
-> Name of standard issuer (year) *Title*, Standard number, accessed Day Month Year. URL
-
-##### Example
-
-> ISO (International Organization for Standardization) (2021) *Building construction -- accessibility and usability of the built environment*, ISO 21542:2021, accessed 9 December 2021. https<nolink>://www.standards.org.au/standards-catalogue/international/iso--other/iso--21542-colon-2021 
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-
-###### start-subtype-item
-
 ### Data set
 
 ###### start-subtype-content
@@ -3113,7 +3076,116 @@ In your reference list:
 
 
 
-<!-- Theses and dissertations - links to the eleventh type menu item -->
+<!-- Standards and patents - links to the eleventh type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Standard
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+#### In-text reference: Direct quotes
+
+A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
+
+For direct quotes, page numbers are only required when they are provided in the original work. After the year, put a colon (:) followed by the page number. If no page number is available, you can indicate the location of the quote in your writing.
+
+> 'For single or upper storey construction, the spacing of bracing elements, measured at right angles to elements, shall not exceed 9000 mm' (Standards Australia 2010:11).
+
+#### In-text reference: Paraphrasing
+
+Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
+
+> For procedures and practices relating to timber framed constructions in non-cyclonic areas refer to...(Standards Australia 2010).
+
+#### Reference list entry
+
+In your reference list:
+
+- Italicise the standard's title.
+
+- If sourced from a **Library database**: Add the accessed date (e.g. accessed 13 December 2021), followed by a comma, a space then the database name (e.g. SAI Global) followed by the word **database**.
+
+- If sourced from a **website**: Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+
+##### Rule (from Library database)
+
+> Name of Standard Issuer (Year) *Title of standard*, Standard number, accessed Day Month Year, Name of Database database.
+
+##### Example
+
+> Standards Australia (2010) *Residential timber-framed construction - non-cyclonic areas*, AS 1684.2-2010, accessed 9 December 2021, SAI Global database.
+
+##### Rule (from website)
+
+> Name of Standard Issuer (Year) *Title of standard*, Standard number, accessed Day Month Year. URL
+
+##### Example
+
+> ISO (International Organization for Standardization) (2021) *Building construction -- accessibility and usability of the built environment*, ISO 21542:2021, accessed 9 December 2021. https<nolink>://www.standards.org.au/standards-catalogue/international/iso--other/iso--21542-colon-2021
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+
+###### start-subtype-item
+
+### Patent
+
+###### start-subtype-content
+
+#### In-text reference: Direct quotes
+
+A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
+
+For direct quotes, page numbers are only required when they are provided in the original work. After the year, put a colon (:) followed by the page number. If no page number is available, you can indicate the location of the quote in your writing.
+
+>The technologies used for the conversion of energy 'deserve thinner functional materials to allow optimum light into the interiors of interest' (Shanmugam, Shown and Sridhara 2021:1).
+
+#### In-text reference: Paraphrasing
+
+Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
+
+> Photovoltaic devices benefit from highly transparent stickable-peelable solar cells because...(Shanmugam, Shown and Sridhara 2021).
+
+#### Reference list entry
+
+In your reference list:
+
+- Italicise the patent's title.
+
+- The patent number is typically the application number. Put the country that issued the patent, followed by the word **Patent** then the patent number.
+
+- Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+
+##### Rule
+
+>Inventor's family name Initial (Year Issued), *Title of patent*, Issuing Country Patent patent number, accessed Day Month Year. URL
+
+##### Example
+
+>Shanmugam M, Shown I and Sridhara SN (2021) *A process for developing highly transparent stickable-peelable solar cells for building integrated photovoltaic device*, Australia Patent 2021105520, accessed 9 December 2021. http<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2021105520
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### end-subtype
+
+###### end-type-content
+
+
+
+
+<!-- Theses and dissertations - links to the twelfth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -3264,7 +3336,7 @@ In your reference list:
 
 
 
-<!-- Other sources - links to the twelfth type menu item -->
+<!-- Other sources - links to the thirteenth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
