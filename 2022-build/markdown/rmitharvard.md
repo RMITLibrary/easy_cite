@@ -33,7 +33,7 @@
 ## Audiovisual material
 ## Images and figures
 ## Reports and data sets
-## Standards
+## Standards and patents
 ## Theses and dissertations
 ## Other sources
 

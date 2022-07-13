@@ -469,9 +469,9 @@ echo($mylist);
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 	<div class="footerarea">
-			<a href="https://forms.office.com/r/ZCZH0nR4HF" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here " >Send us feedback</a>&nbsp;  | &nbsp; 
-			<a href="#" class="footerlinks atooltip aanimate" data-tool="This resource created by RMIT Library Digital Learning" >&copy; RMIT University</a>
-		<div id="gotoeasycite">	| &nbsp; <a href="https://www.lib.rmit.edu.au/easy-cite/" class="footerlinks atooltip aanimate" data-tool="Opens Easy Cite in a new tab or window" target="_blank" >go to Easy Cite home</a></div>
+			<a href="https://forms.office.com/r/ZCZH0nR4HF" target="_blank" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here. Link opens in a new tab." >Send us feedback</a>&nbsp;  | &nbsp; 
+			<a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank"class="footerlinks atooltip aanimate" data-tool='"Easy Cite" referencing tool by RMIT University Library is licensed under Creative Commons CC BY-NC-SA 3.0. A derivative from the original work by Griffith University. Link opens in a new tab.' >&copy; RMIT University Library</a>
+		<div id="gotoeasycite">	| &nbsp; <a href="https://www.lib.rmit.edu.au/easy-cite/" class="footerlinks atooltip aanimate" data-tool="Link opens in a new tab" target="_blank" >go to Easy Cite home</a></div>
 	</div>
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
