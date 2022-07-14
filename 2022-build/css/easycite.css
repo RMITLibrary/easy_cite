@@ -324,6 +324,18 @@ img {
 	color: #e61e2a;
 	text-decoration: underline;
 }
+.modallinks {
+	color: #000054;
+	text-decoration: none;
+}
+.modallinks:hover {
+	color: #e61e2a;
+	text-decoration: underline;
+}
+.modallinks:focus {
+	color: #e61e2a;
+	text-decoration: underline;
+}
 /** tooltip styles
   * based on http://www.flatypo.net/tutorials/how-to-create-animated-tooltips-css3-hiperlink/ 
  **/

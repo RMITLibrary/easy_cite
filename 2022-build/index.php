@@ -50,9 +50,6 @@
 </head>
 <body>
 <a name="top"></a>
-<div id="iframetitle">
-	<p class="iframeheading">Easy Cite referencing resource</p>
-</div>
 	
 <div id="embedhide" class="hideembedded">
 <!-- Responsive navbar-->
@@ -469,13 +466,37 @@ echo($mylist);
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 	<div class="footerarea">
-			<a href="https://forms.office.com/r/ZCZH0nR4HF" target="_blank" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here. Link opens in a new tab." >Send us feedback</a>&nbsp;  | &nbsp; 
-			<a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank"class="footerlinks atooltip aanimate" data-tool='"Easy Cite" referencing tool by RMIT University Library is licensed under Creative Commons CC BY-NC-SA 3.0. A derivative from the original work by Griffith University. Link opens in a new tab.' >&copy; RMIT University Library</a>
-		<div id="gotoeasycite">	| &nbsp; <a href="https://www.lib.rmit.edu.au/easy-cite/" class="footerlinks atooltip aanimate" data-tool="Link opens in a new tab" target="_blank" >go to Easy Cite home</a></div>
+		<div id="gotoeasycite"><a href="https://www.lib.rmit.edu.au/easy-cite/" class="footerlinks atooltip aanimate" data-tool="Link opens in a new tab" target="_blank" >Go to Easy Cite home</a> | &nbsp; </div>
+			<a href="https://forms.office.com/r/ZCZH0nR4HF" target="_blank" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here. Link opens in a new tab." >Send us feedback</a>&nbsp; |&nbsp; 
+		<!-- Trigger modal -->
+			<a type="button" class="notabutton footerlinks atooltip aanimate" data-bs-toggle="modal" data-bs-target="#exampleModal" data-tool="Select this link to see copyright and licensing information">About Easy Cite</a>
 	</div>
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 </div>
+	
+
+<!-- Modal: About Easy Cite -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+		  <h3 class="modal-title" id="exampleModalLabel">Easy Cite referencing tool </h3> 
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>Easy Cite referencing tool by <a href="https://www.rmit.edu.au/library" target="_blank" class="modallinks" >RMIT University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" class="modallinks" >Creative Commons CC BY-NC-SA 3.0</a>. </p>
+		  <p>This resource is derived from a work by <a href="https://www.swinburne.edu.au/library" target="_blank" class="modallinks" >Swinburne University Library</a>, based on an original work by <a href="https://www.griffith.edu.au/library" target="_blank" class="modallinks" >Griffith University Library</a>.</p>
+		  <p>(links open in new tabs)</p>
+		  <p><strong>&copy; RMIT University Library</strong></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+	
 <!-- end footer content-->	
 
 <script>
@@ -665,7 +686,6 @@ function iniFrame() {
     { 
         // The page is in an iFrames
 		document.getElementById("embedhide").style.display = "none";
-		document.getElementById("iframetitle").style.display = "block";
 		document.getElementById("gotoeasycite").style.display = "block";
 		//console.log(document.getElementById("gotoeasycite").className);
     } 
@@ -673,7 +693,6 @@ function iniFrame() {
         // The page is not in an iFrame
         //document.write("The page is not in an iFrame");
 		document.getElementById("embedhide").style.display = "block";
-		document.getElementById("iframetitle").style.display = "none";
 		document.getElementById("gotoeasycite").style.display = "none";
 		//console.log(document.getElementById("gotoeasycite").className);
     }
