@@ -8,4 +8,4 @@ This resource is derived from a work by [Swinburne University Library](https://w
 #### © RMIT University Library
 
 ###### Developed by RMIT LIbrary Digital Learning
-###### Dr Lisa Cianci & Jack Dunstan
+###### Dr Lisa Cianci (Blackaeonium) & Jack Dunstan
