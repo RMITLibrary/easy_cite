@@ -1,6 +1,6 @@
 <!-- RMIT Harvard Style Guide -->
 <!-- RMIT Library, Digital Learning -->
-<!-- INSTRUCTIONS -->
+<!-- INSTRUCTIONS FOR USE -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
 
