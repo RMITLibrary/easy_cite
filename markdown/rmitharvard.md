@@ -2264,6 +2264,8 @@ In your reference list for **television program**:
 
 ###### start-subtype-content
 
+Only cite the host(s) in the in-text reference (quote or paraphrase), not the producer. Both the producer and host(s) are included in the reference list entry.
+
 #### In-text reference: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
@@ -2672,7 +2674,7 @@ If the map was on a website, include the URL (no full stop after URL) after the 
 
 > {.figure-text}Figure 7: James Kearney (1855) *Melbourne and its suburbs: map 1* \[digitised map\], State Library of Victoria website, accessed 13 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
 
-> {.figure-text}Figure 8: VicPlan (2020) Plenty Road Bundoora 3083, web map. {/.figure-text}
+> {.figure-text}Figure 8: VicPlan (2020) *Plenty Road Bundoora* 3083, web map. {/.figure-text}
 
 #### In-text references
 
@@ -2983,7 +2985,8 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 In your reference list:
 
 - The author may be a person/people or an organisation.
-Italicise report title.
+
+- Italicise report title.
 
 - If stated, put the actual report number after the words **report number**. Omit if there is none.
 
@@ -3115,7 +3118,7 @@ In your reference list:
 
 ##### Rule (from Library database)
 
-> Name of Standard Issuer (Year) *Title of standard*, Standard number, accessed Day Month Year, Name of Database database.
+> Author \[name of standard issuer\] (Year) *Title of standard*, Standard number, accessed Day Month Year, Name of Database database.
 
 ##### Example
 
@@ -3123,7 +3126,7 @@ In your reference list:
 
 ##### Rule (from website)
 
-> Name of Standard Issuer (Year) *Title of standard*, Standard number, accessed Day Month Year. URL
+> Author \[name of standard issuer\] (Year) *Title of standard*, Standard number, accessed Day Month Year. URL
 
 ##### Example
 

@@ -485,7 +485,7 @@ echo($mylist);
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <p>Easy Cite referencing tool by <a href="https://www.rmit.edu.au/library" target="_blank" class="modallinks" >RMIT University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" class="modallinks" >Creative Commons CC BY-NC-SA 3.0</a>. </p>
+        <p>Easy Cite referencing tool by <a href="https://www.rmit.edu.au/library" target="_blank" class="modallinks" >RMIT University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" class="modallinks" >Creative Commons CC BY-NC-SA 4.0</a>. </p>
 		  <p>This resource is derived from a work by <a href="https://www.swinburne.edu.au/library" target="_blank" class="modallinks" >Swinburne University Library</a>, based on an original work by <a href="https://www.griffith.edu.au/library" target="_blank" class="modallinks" >Griffith University Library</a>.</p>
 		  <p>(links open in new tabs)</p>
 		  <p><strong>&copy; RMIT University Library</strong></p>
