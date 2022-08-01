@@ -2234,7 +2234,7 @@ In your reference list for **television program**:
 
 ##### Rule (film/movie)
 
-> Director's family name Initial (director) or Producer's family name Initial (producer) (Year of release) *Title of film: subtitle of film* \[format\], Name of Studio or Publisher, Place of Production.
+> Director's family name Initial (director) or Producer's family name Initial (producer) \[if no director\] (Year of release) *Title of film: subtitle of film* \[format\], Name of Studio or Publisher, Place of Production.
 
 ##### Examples
 
@@ -2244,13 +2244,13 @@ In your reference list for **television program**:
 
 ##### Rule (television program)
 
-> Director's family name Initial (director) or Producer's family name Initial (producer) (Year of release) 'Title of episode: subtitle of episode' \[format\], *Name of series* (season number, episode number), Name of Station or Studio, Place of Production.
+> Director's family name Initial (director) or Producer's family name Initial (producer) \[if no director\] (Year of release) 'Title of episode: subtitle of episode' \[format\], *Name of series* (season number, episode number), Name of Station or Studio, Place of Production.
 
 ##### Examples
 
-> ABC Television (producer) (2021) 'The business: cryptocurrency special' \[television program\], *The business*, ABC Television, Sydney.
+> ABC News (producer) (2021) 'The business: cryptocurrency special' \[television program\], *The business*, ABC Television, Sydney.
  
-> Taylor A (director) and Benioff DB and Weiss D (2017) (producers) (20 August 2017) 'Beyond the wall' \[television program\], *Game of thrones* (season 7, episode 6), HBO, New York.
+> Taylor A (director) (2017) 'Beyond the wall' \[television program\], *Game of thrones* (season 7, episode 6), HBO, New York.
 
 ###### end-subtype-content
 
@@ -2700,7 +2700,7 @@ In your reference list:
 
 ##### Rule (if hardcopy/print)
 
-> Cartographer's family name Initial or Organisation's name (Year of creation), *Title of map* \[format\], Name of Publisher, Place of Publication.
+> Cartographer's family name Initial or Organisation's name (Year of creation) *Title of map* \[format\], Name of Publisher, Place of Publication.
 
 ##### Example
 
@@ -2708,7 +2708,7 @@ In your reference list:
 
 ##### Rule (if online, i.e. website)
 
-> Cartographer's family name Initial or Organisation's name (Year of creation), *Title of map* \[format\], Name of Website website, accessed Day Month Year. URL
+> Cartographer's family name Initial or Organisation's name (Year of creation) *Title of map* \[format\], Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
 
@@ -3004,7 +3004,7 @@ In your reference list:
 
 ##### Examples
 
-> Lo B (2016) *Internet service providers in Australia*, report no. J5911, accessed 28 November 2021, IBISWorld database.
+> Lo B (2016) *Internet service providers in Australia*, report number J5911, accessed 28 November 2021, IBISWorld database.
 
 > MarketLine Limited (2021) *Global - apparel manufacturing*, accessed 13 December 2021, MarketLine database.
 
@@ -3012,9 +3012,9 @@ In your reference list:
 
 > Author's family name Initial or Organisation's Name (Year) *Title of report: subtitle of report*, report number report number \[if available\], Name of Website website, accessed Day Month Year. URL
 
-##### Examples
+##### Example
 
-> Baptist World Aid Australia (2021) *The 2019 ethical fashion report: The truth behind the bar code*, BWAA, accessed 13 December 2021. https<nolink>://www.business-humanrights.org/en/latest-news/2019-ethical-fashion-report-the-truth-behind-the-barcode/
+> BWAA (Baptist World Aid Australia) (2019) *The 2019 ethical fashion report: The truth behind the bar code*, Business & Human Rights Resource Centre website, accessed 13 December 2021. https<nolink>://www.business-humanrights.org/en/latest-news/2019-ethical-fashion-report-the-truth-behind-the-barcode/
 
 ###### end-subtype-content
 
@@ -3064,7 +3064,7 @@ In your reference list:
 
 ##### Example
 
-> RBA (Reserve Bank of Australia) (n.d.) *Consumer price inflation: December 2015 – December 2020* \[data set\], Reserve Bank of Australia website, accessed 10 December 2021. https<nolink>://www.rba.gov.au/statistics/tables/
+> RBA (Reserve Bank of Australia) (n.d.) *Consumer price inflation: December 2015 – December 2020* \[data set\], RBA website, accessed 10 December 2021. https<nolink>://www.rba.gov.au/statistics/tables/
 
 ###### end-subtype-content
 
@@ -3170,7 +3170,7 @@ In your reference list:
 
 ##### Rule
 
->Inventor's family name Initial (Year Issued), *Title of patent*, Issuing Country Patent patent number, accessed Day Month Year. URL
+>Inventor's family name Initial (Year Issued) *Title of patent*, Issuing Country Patent patent number, accessed Day Month Year. URL
 
 ##### Example
 
