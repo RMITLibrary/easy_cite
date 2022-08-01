@@ -438,7 +438,7 @@ echo($mylist);
 ?>
 <!-- start info box-->
 <div id="ecinfopane" style="display: <?= $showInfobox?>">
-	<h3><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;How to use the Easy Cite referencing tool</h3>
+	<h3><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;How to use the Easy Cite referencing guide</h3>
     <div class="d-flex flex-row flex-wrap">
         <div class="col-12 col-sm-6 colpad">
             <h5>Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT.</h5>
@@ -481,11 +481,11 @@ echo($mylist);
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
-		  <h3 class="modal-title" id="exampleModalLabel">Easy Cite referencing tool </h3> 
+		  <h3 class="modal-title" id="exampleModalLabel">Easy Cite referencing guide </h3> 
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <p>Easy Cite referencing tool by <a href="https://www.rmit.edu.au/library" target="_blank" class="modallinks" >RMIT University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" class="modallinks" >Creative Commons CC BY-NC-SA 4.0</a>. </p>
+        <p>Easy Cite referencing guide by <a href="https://www.rmit.edu.au/library" target="_blank" class="modallinks" >RMIT University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" class="modallinks" >Creative Commons CC BY-NC-SA 4.0</a>. </p>
 		  <p>This resource is derived from a work by <a href="https://www.swinburne.edu.au/library" target="_blank" class="modallinks" >Swinburne University Library</a>, based on an original work by <a href="https://www.griffith.edu.au/library" target="_blank" class="modallinks" >Griffith University Library</a>.</p>
 		  <p>(links open in new tabs)</p>
 		  <p><strong>&copy; RMIT University Library</strong></p>
