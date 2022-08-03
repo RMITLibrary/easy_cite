@@ -3014,7 +3014,7 @@ In your reference list:
 
 ##### Example
 
-> BWAA (Baptist World Aid Australia) (2019) *The 2019 ethical fashion report: The truth behind the bar code*, Business & Human Rights Resource Centre website, accessed 13 December 2021. https<nolink>://www.business-humanrights.org/en/latest-news/2019-ethical-fashion-report-the-truth-behind-the-barcode/
+> BWAA (Baptist World Aid Australia) (2019) *2019 ethical fashion report: the truth behind the barcode*, Business & Human Rights Resource Centre website, accessed 13 December 2021. https<nolink>://www.business-humanrights.org/en/latest-news/2019-ethical-fashion-report-the-truth-behind-the-barcode/
 
 ###### end-subtype-content
 
