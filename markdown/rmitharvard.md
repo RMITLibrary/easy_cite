@@ -93,11 +93,11 @@ RMIT Harvard style requires in-text references and the reference list.
     
 - An in-text reference can be inserted at the beginning, middle or end of a sentence. When you are referencing information that authors/researchers agree about, the reference is placed at the end of the sentence (an information prominent citation). This is the most common type of in-text reference. Referencing at the beginning of a sentence (author prominent citation) is used to focus on a particular author/researcher’s point of view or on specific research that might not apply in all situations.
 
-- If the author is integrated as part of the sentence, the date (and page number for direct quote) is placed in parentheses immediately after the author's name.
+- If the author is integrated as part of the sentence, the date (and page number for direct quote) is placed in parentheses immediately after the author's family name.
 
-- When a work has two authors, always list both authors’ names every time the reference occurs. Use the full word **and** when listing the authors in parentheses. For example: (Hill and Martinez-Diez 2020). Also use the full word **and** when mentioning the authors in a sentence. For example: Hill and Martinez-Diez (2020)... .
+- When a work has two authors, always list both authors’ family names every time the reference occurs. Use the full word **and** when listing the authors in parentheses. For example: (Hill and Martinez-Diez 2020). Also use the full word **and** when mentioning the authors in a sentence. For example: Hill and Martinez-Diez (2020)... .
 
-- When a work has three or more authors, list the first author’s name followed by et al. For example, Haslam et al. (2021) or (Haslam et al. 2021).
+- When a work has three or more authors, list the first author’s family name followed by et al. For example, Haslam et al. (2021) or (Haslam et al. 2021).
 
 - For **pen names and pseudonyms**, use the name adopted by the author, e.g. ...(Mari 2009), Quynh Huong (2020) inspires... In the reference list, list according to the pen name or pseudonym and include the author’s actual name in parentheses if known.
 
