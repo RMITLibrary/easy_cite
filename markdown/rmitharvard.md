@@ -1,8 +1,8 @@
 <!-- RMIT Harvard Style Guide -->
 <!-- RMIT Library, Digital Learning -->
-<!-- INSTRUCTIONS FOR USE -->
+<!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
-<!-- unless you need to add or delete sections as required for type and subtype content -->
+<!-- unless you need to add or delete whole sections as required for type and subtype content -->
 
 <!-- start the top style guide menu -->
 <!-- the STYLE GUIDE menu list must use heading 1 (#) -->
@@ -84,20 +84,20 @@ RMIT Harvard style requires in-text references and the reference list.
 ###### start-subtype-content
 
 - Use in-text references to acknowledge each author or source of information (print or online) used within your writing either by paraphrasing or using a direct quote.  
-
+    
     **Paraphrasing** is when you express the author’s ideas in your own words. Paraphrasing is generally preferred to quotes as they show you understand and can explain the ideas you have read rather than simply copying them.
-
+    
     **A direct quote** is when you use the exact words from the original source. Use quotes sparingly, such as when the exact words of the author are important to the claim you are making. Put direct quotes between single inverted commas (quotation marks). Include a page number in the in-text reference if available.
-
+    
     In-text references include the author’s family name (or company or organisation name, if the author is a company or organisation) and year of publication, with page numbers (if available) required for quotes.
-
+    
 - An in-text reference can be inserted at the beginning, middle or end of a sentence. When you are referencing information that authors/researchers agree about, the reference is placed at the end of the sentence (an information prominent citation). This is the most common type of in-text reference. Referencing at the beginning of a sentence (author prominent citation) is used to focus on a particular author/researcher’s point of view or on specific research that might not apply in all situations.
 
-- If the author is integrated as part of the sentence, the date (and page number for direct quote) is placed in parentheses immediately after the author's name.
+- If the author is integrated as part of the sentence, the date (and page number for direct quote) is placed in parentheses immediately after the author's family name.
 
-- When a work has two authors, always list both authors’ names every time the reference occurs. Use the full word **and** when listing the authors in parentheses. For example: (Hill and Martinez-Diez 2020). Also use the full word **and** when mentioning the authors in a sentence. For example: Hill and Martinez-Diez (2020)... .
+- When a work has two authors, always list both authors’ family names every time the reference occurs. Use the full word **and** when listing the authors in parentheses. For example: (Hill and Martinez-Diez 2020). Also use the full word **and** when mentioning the authors in a sentence. For example: Hill and Martinez-Diez (2020)... .
 
-- When a work has three or more authors, list the first author’s name followed by et al. For example, Haslam et al. (2021) or (Haslam et al. 2021).
+- When a work has three or more authors, list the first author’s family name followed by et al. For example, Haslam et al. (2021) or (Haslam et al. 2021).
 
 - For **pen names and pseudonyms**, use the name adopted by the author, e.g. ...(Mari 2009), Quynh Huong (2020) inspires... In the reference list, list according to the pen name or pseudonym and include the author’s actual name in parentheses if known.
 
@@ -108,31 +108,31 @@ RMIT Harvard style requires in-text references and the reference list.
 - If the publication date is unknown but can be reliably estimated or inferred from the text, then place **c.** (meaning 'circa' or approximately) before the year.
 
 - **Secondary citations** acknowledge the work of an author you refer to in your assignment that you read about in someone else’s work. Where possible, try to use the original source.  
-
+    
     For example, if you use Vanna’s ideas which you read about an article by Martin and Rodríguez, you would only need to show who the ideas belong to and also where you read about them.
-
+    
     > Previous research appears to indicate ... (Vanna, cited in Martin and Rodriguez 2021).
-
+    
     > Vanna (cited in Martin and Rodriguez 2021) suggests that...
-
+    
     In the examples, the ideas/information belong to Vanna, but you paraphrased them from your reading of Martin and Rodriguez’s work.
-
+    
     In the reference list, include the source you read. For this example, you would only need to put Martin and Rodríguez in the reference list.
-
+    
 - For **multiple citations in the same parentheses**, list all citations chronologically, separated by a semi-colon (;) for example:  
-
+    
     > It has been claimed that ... (Ghezzi and Cavallo 2018; Jocevski 2020; Soluk et al. 2021).
-
+    
 - For **multiple works by the same author in the same year**, insert a letter after the year, starting with the letter ‘a’ for the first work you cite. In the reference list, include the same letter after each year of publication.  
-
+    
     > It is argued that ... (Ayoob 2021a, 2021b).
-
+    
     > Ayoob (2021a, 2021b) states that...
-
+    
 - Some works have **different first authors with the same family name**. To identify their works, insert the initial(s) of all the first authors’ given names in the in-text references. In the reference list, order their works by the year of publication.  
-
+    
     > It is argued that ... (Peterson M 2019), but others claim that... (Peterson JR et al. 2021).
-
+    
 
 #### Direct quote
 
@@ -871,11 +871,11 @@ In your reference list:
 ##### Examples
 
 > Carroll H (2017) *Read this if you want to take great photographs*, Laurence King Publishing, London.
-
+ 
 > Edwards M, Howard C and Miller R (2020) *Social policy, public policy: From problem to practice*, Routledge, doi:10.4324/9781003117254.
-
+ 
 > Perheentupa J (2020) *Redfern: Aboriginal activism in the 1970s*, Aboriginal Studies Press, Canberra.
-
+ 
 > Pinheiro MM and Costa AJ (2021) *Accounting ethics education: teaching virtues and values*, Taylor & Francis Group, doi:10.4324/9780429321597.
 
 ###### end-subtype-content
@@ -950,7 +950,7 @@ In your reference list:
 **Example**
 
 > Baird C (2018) 'Determinism', in Kolb RW (ed), *The SAGE encyclopedia of business ethics and society*, SAGE Publications, Thousand Oaks.
-
+ 
 > Neal M (2019) 'Damascus Securities Exchange', *A dictionary of business and management in the Middle East and North Africa*, Oxford University Press, doi:10.1093/acref/9780191843266.001.0001.
 
 ###### end-subtype-content
@@ -1002,7 +1002,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 ##### Examples
 
 > ACMI (Australian Centre for the Moving Image) (2021) *Disney: the magic of animation* \[brochure\], ACMI, Melbourne.
-
+ 
 > Specialist Imaging For Women (c.2021) *Paediatrics services* \[pamphlet\], Specialist Imaging For Women, Ivanhoe, VIC.
 
 ###### end-subtype-content
@@ -1240,7 +1240,7 @@ In your reference list:
 ##### Examples
 
 > Bichler KJ, Jakobi B and Schneider GJ (2021) 'Dynamical comparison of different polymer architectures - bottlebrush vs linear polymer', *Macromolecules*, 54(4):1829-1837, doi:10.1021/acs.macromol.0c02104.
-
+ 
 > Mobbs D, Wise T, Suthana N, Guzmán N, Kriegeskorte N and Leibo JZ (2021) 'Promises and challenges of human computational ethology', *Neuron*, 109(14):2224-2238, doi:10.1016/j.neuron.2021.05.021.
 
 ###### end-subtype-content
@@ -1364,7 +1364,7 @@ In your reference list:
 - For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Examples
-
+ 
 > Barkela B (2021) 'Leadership communication and knowledge integration across the artistic, technical and administration area in theaters', *Journal of Arts Management, Law, and Society*, 51(6):393-409, doi:10.1080/10632921.2021.1974628.
 
 > Llaha F, Gil-Lespinard M, Unal P, de Villasante I, Castañeda J and Zamora-Ros R (2021) 'Consumption of sweet beverages and cancer risk. A systematic review and meta-analysis of observational studies', *Nutrients*, 13(2):516, accessed 26 November 2021. https<nolink>://www.mdpi.com/2072-6643/13/2/516/htm
@@ -1393,7 +1393,7 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Print newspaper article
+### Print newspaper article 
 
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -1431,7 +1431,7 @@ In your reference list:
 ##### Examples
 
 > Yeates C (6 December 2021) 'CEO pay of big banks could be linked to climate change targets', *The Age*.
-
+ 
 > Wright S and Duke J (9 October 2021) 'RBA issues warning as property prices surge', *The Age.*
 
 ###### end-subtype-content
@@ -1596,7 +1596,7 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a webpage (HTML format)
+### Newspaper article from a webpage (HTML format) 
 
 ###### start-subtype-content
 
@@ -1957,7 +1957,7 @@ In your reference list:
 ##### Examples
 
 > Heath N (2021) *What is AI? Here's everything you need to know about artificial intelligence*, ZDNet website, accessed 9 December 2021. https<nolink>://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/
-
+ 
 > WHO (World Health Organization) (2021) *WHO accelerates work on nutrition targets with new commitments*, WHO website, accessed 9 December 2021. https<nolink>://www.who.int/news/item/07-12-2021-who-accelerates-work-on-nutrition-targets-with-new-commitments
 
 
@@ -2079,7 +2079,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- If the blog post does not have a person identified as the author, use the name of the blog instead (do no italicise) followed by the day, month and year of the post in parentheses, e.g. Welcome to Country (6 August 2021).
+- If the blog post does not have a person identified as the author, use the name of the blog instead (do no italicise) followed by the day, month and year of the post in parentheses, e.g. Welcome to Country (6 August 2021). 
 
 - Italicise only the second instance of the blog name.
 
@@ -2164,9 +2164,9 @@ In your reference list:
 ##### Examples
 
 > Thunberg G (15 November 2021a) 'A reminder: the people in power don't need conferences, treaties...' \[Tweet\], Greta Thunberg, accessed 1 November 2021. https<nolink>://twitter.com/GretaThunberg/status/1460159146720997377
-
+ 
 > Thunberg G (28 November 2021b) 'We can no longer let the people in power decide...' \[Instagram post\], Greta Thunberg, accessed 1 November 2021. https<nolink>://www.instagram.com/tv/CUXUfZIsHBm/
-
+ 
 > Thunberg G (14 November 2021c) 'The #COP26 is over. Here's a brief summary: Blah, blah,...' \[Facebook post\], Greta Thunberg, accessed 25 November 2021. https<nolink>://www.facebook.com/gretathunbergsweden
 
 ###### end-subtype-content
@@ -2234,23 +2234,23 @@ In your reference list for **television program**:
 
 ##### Rule (film/movie)
 
-> Director's family name Initial (director) or Producer's family name Initial (producer) (Year of release) *Title of film: subtitle of film* \[format\], Name of Studio or Publisher, Place of Production.
+> Director's family name Initial (director) or Producer's family name Initial (producer) \[if no director\] (Year of release) *Title of film: subtitle of film* \[format\], Name of Studio or Publisher, Place of Production.
 
 ##### Examples
 
 > Bong JH (director) (2019) *Parasite* \[motion picture\], CJ Entertainment, South Korea.
-
+ 
 > Reynolds M (director) (2017) *My name is Gulpilil* \[motion picture\], Screen Australia, SAFC & ABC, Australia.
 
 ##### Rule (television program)
 
-> Director's family name Initial (director) or Producer's family name Initial (producer) (Year of release) 'Title of episode: subtitle of episode' \[format\], *Name of series* (season number, episode number), Name of Station or Studio, Place of Production.
+> Director's family name Initial (director) or Producer's family name Initial (producer) \[if no director\] (Year of release) 'Title of episode: subtitle of episode' \[format\], *Name of series* (season number, episode number), Name of Station or Studio, Place of Production.
 
 ##### Examples
 
-> ABC Television (producer) (2021) 'The business: cryptocurrency special' \[television program\], *The business*, ABC Television, Sydney.
-
-> Taylor A (director) and Benioff DB and Weiss D (2017) (producers) (20 August 2017) 'Beyond the wall' \[television program\], *Game of thrones* (season 7, episode 6), HBO, New York.
+> ABC News (producer) (2021) 'The business: cryptocurrency special' \[television program\], *The business*, ABC Television, Sydney.
+ 
+> Taylor A (director) (2017) 'Beyond the wall' \[television program\], *Game of thrones* (season 7, episode 6), HBO, New York.
 
 ###### end-subtype-content
 
@@ -2263,6 +2263,8 @@ In your reference list for **television program**:
 ### Podcast
 
 ###### start-subtype-content
+
+Only cite the host(s) in the in-text reference (quote or paraphrase), not the producer. Both the producer and host(s) are included in the reference list entry.
 
 #### In-text reference: Direct quotes
 
@@ -2301,7 +2303,7 @@ In your reference list:
 ##### Examples
 
 > Fidler R (host) and Rooney C (producer) (19 October 2021) 'Rock and Dave Grohl' \[podcast\], *Conversations*, ABC, accessed 1 December 2021. https<nolink>://www.abc.net.au/radio/programs/conversations/dave-grohl-nirvana-foo-fighters-love-music-rock/13582414
-
+ 
 > Hunter A and Bessell S (hosts) and Policy Forum.net (producer) (27 November 2020) 'The wellbeing economy – a glimpse of the good life' \[podcast\], *The wellbeing economy podcast series*, IMMP Crawford, accessed 1 December 2021. https<nolink>://immp.crawford.anu.edu.au/content/wellbeing-economy-podcast-series
 
 ###### end-subtype-content
@@ -2359,9 +2361,9 @@ In your reference list:
 ##### Examples
 
 > ABC News (16 June 2021) 'The business: cryptocurrency special' \[video\], *ABC News (Australian Broadcasting Corporation)*, ABC iview website, accessed 30 November 2021. https<nolink>://iview.abc.net.au/video/NS2157H001S00
-
+ 
 > ABC News In-depth (16 June 2021) 'Bitcoin explained: everything you need to know about the crypto craze | The business' \[video\], *ABC News In-depth*, YouTube website, accessed 30 November 2021. https<nolink>://www.youtube.com/watch?v=MlGLpSvs34Q
-
+ 
 > Derham L, Groner M and Kerridge G (n.d.) 'Interview questions' \[video\], *AASW (Australian Association of Social Workers)*, AASW website, accessed 30 November 2021. https<nolink>://www.aasw.asn.au/careers-study/new-graduate-resources/finding-your-job-and-thriving-in-it
 
 ###### end-subtype-content
@@ -2430,7 +2432,7 @@ In your reference list:
 ##### Examples
 
 > The Beatles (1967) *Sgt. Pepper's lonely hearts club band* \[Album\], Parlophone.
-
+ 
 > The Beatles (1967) Sgt. Pepper's lonely hearts club band (remastered) \[Album\], Spotify website, accessed 1 December 2021. https<nolink>://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW
 
 ###### end-subtype-content
@@ -2570,7 +2572,7 @@ If the image was on a website include the URL, otherwise provide the in-text ref
 ##### Examples
 
 > {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/ collection/search/39733? {/.figure-text}
-
+ 
 > {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], in Jaynes A and Liaw J (1968:37) {/.figure-text}
 
 > {.figure-text}Figure 4: Henry Burn (1861) *Swanston Street from the Bridge* \[oil on canvas\], National Gallery of Victoria, Melbourne {/.figure-text}
@@ -2616,9 +2618,9 @@ In your reference list:
 > Artist family name Initial (Year) *Title or description of work* \[format\], Name of Museum/Gallery/Public Space, Location of Museum/Gallery/Public Space.
 
 ##### Examples
-
+ 
 > Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton.
-
+ 
 > Pollock J (1952) *Blue Poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
 
 ##### Rule (if viewed online, i.e. website)
@@ -2672,7 +2674,7 @@ If the map was on a website, include the URL (no full stop after URL) after the 
 
 > {.figure-text}Figure 7: James Kearney (1855) *Melbourne and its suburbs: map 1* \[digitised map\], State Library of Victoria website, accessed 13 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
 
-> {.figure-text}Figure 8: VicPlan (2020) Plenty Road Bundoora 3083, web map. {/.figure-text}
+> {.figure-text}Figure 8: VicPlan (2020) *Plenty Road Bundoora* 3083, web map. {/.figure-text}
 
 #### In-text references
 
@@ -2698,7 +2700,7 @@ In your reference list:
 
 ##### Rule (if hardcopy/print)
 
-> Cartographer's family name Initial or Organisation's name (Year of creation), *Title of map* \[format\], Name of Publisher, Place of Publication.
+> Cartographer's family name Initial or Organisation's name (Year of creation) *Title of map* \[format\], Name of Publisher, Place of Publication.
 
 ##### Example
 
@@ -2706,7 +2708,7 @@ In your reference list:
 
 ##### Rule (if online, i.e. website)
 
-> Cartographer's family name Initial or Organisation's name (Year of creation), *Title of map* \[format\], Name of Website website, accessed Day Month Year. URL
+> Cartographer's family name Initial or Organisation's name (Year of creation) *Title of map* \[format\], Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
 
@@ -2755,7 +2757,7 @@ When the table includes data from more than one source, you must cite all source
 
 ##### Rule
 
-> {.figure-text}Figure number: Title of table  {/.figure-text}
+> {.figure-text}Figure number: Title of table  {/.figure-text} 
 > {.figure-text}Source: adapted from Publishing details of where the information was sourced {/.figure-text}
 
 ##### Examples
@@ -2798,7 +2800,7 @@ In your reference list, reference tables and diagrams in accordance with the sou
 ##### Examples
 
 > IAHW (Australian Institute of Health and Welfare) (2018) '5.7 Prisoners', *Australia's health 2018*, Australia's health series no. 1, catalogue number AUS 221, IAHW, Australian Government, accessed 13 December 2021. https<nolink>://www.aihw.gov.au/getmedia/0f15de30-8575-4e80-ac9d-5560633635e0/aihw-aus-221-chapter-5-7.pdf.aspx
-
+ 
 > Fisher C, Holland C and West T (18 March 2021) 'Developments in the buy now, pay later market', *Bulletin*, RBA, accessed 13 December 2021. https<nolink>://www.rba.gov.au/publications/bulletin/2021/mar/ developments-in-the-buy-now-pay-later-market.html
 
 ###### end-subtype-content
@@ -2925,7 +2927,7 @@ In your reference list:
 ##### Examples
 
 > Hayne KM (2019) *Royal Commission into misconduct in the banking, superannuation and financial services industry, Volume 3*, Royal Commissions, Australian Government, accessed 13 December 2021. https<nolink>://www.royalcommission.gov.au/banking/final-report
-
+ 
 > Wells Advisory (2021) *Forward impact of COVID-19 on Australian higher education*, Tertiary Education Quality and Standards Agency (TEQSA), Australian Government, accessed 13 December 2021. https<nolink>://www.teqsa.gov.au/latest-news/publications/forward-impact-covid-19-australian-higher-education-report
 
 ##### Rule (organisation report)
@@ -2983,7 +2985,8 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 In your reference list:
 
 - The author may be a person/people or an organisation.
-Italicise report title.
+
+- Italicise report title.
 
 - If stated, put the actual report number after the words **report number**. Omit if there is none.
 
@@ -3001,7 +3004,7 @@ Italicise report title.
 
 ##### Examples
 
-> Lo B (2016) *Internet service providers in Australia*, report no. J5911, accessed 28 November 2021, IBISWorld database.
+> Lo B (2016) *Internet service providers in Australia*, report number J5911, accessed 28 November 2021, IBISWorld database.
 
 > MarketLine Limited (2021) *Global - apparel manufacturing*, accessed 13 December 2021, MarketLine database.
 
@@ -3009,9 +3012,9 @@ Italicise report title.
 
 > Author's family name Initial or Organisation's Name (Year) *Title of report: subtitle of report*, report number report number \[if available\], Name of Website website, accessed Day Month Year. URL
 
-##### Examples
+##### Example
 
-> Baptist World Aid Australia (2021) *The 2019 ethical fashion report: The truth behind the bar code*, BWAA, accessed 13 December 2021. https<nolink>://www.business-humanrights.org/en/latest-news/2019-ethical-fashion-report-the-truth-behind-the-barcode/
+> BWAA (Baptist World Aid Australia) (2019) *2019 ethical fashion report: the truth behind the barcode*, Business & Human Rights Resource Centre website, accessed 13 December 2021. https<nolink>://www.business-humanrights.org/en/latest-news/2019-ethical-fashion-report-the-truth-behind-the-barcode/
 
 ###### end-subtype-content
 
@@ -3061,7 +3064,7 @@ In your reference list:
 
 ##### Example
 
-> RBA (Reserve Bank of Australia) (n.d.) *Consumer price inflation: December 2015 – December 2020* \[data set\], Reserve Bank of Australia website, accessed 10 December 2021. https<nolink>://www.rba.gov.au/statistics/tables/
+> RBA (Reserve Bank of Australia) (n.d.) *Consumer price inflation: December 2015 – December 2020* \[data set\], RBA website, accessed 10 December 2021. https<nolink>://www.rba.gov.au/statistics/tables/
 
 ###### end-subtype-content
 
@@ -3115,7 +3118,7 @@ In your reference list:
 
 ##### Rule (from Library database)
 
-> Name of Standard Issuer (Year) *Title of standard*, Standard number, accessed Day Month Year, Name of Database database.
+> Author \[name of standard issuer\] (Year) *Title of standard*, Standard number, accessed Day Month Year, Name of Database database.
 
 ##### Example
 
@@ -3123,7 +3126,7 @@ In your reference list:
 
 ##### Rule (from website)
 
-> Name of Standard Issuer (Year) *Title of standard*, Standard number, accessed Day Month Year. URL
+> Author \[name of standard issuer\] (Year) *Title of standard*, Standard number, accessed Day Month Year. URL
 
 ##### Example
 
@@ -3167,7 +3170,7 @@ In your reference list:
 
 ##### Rule
 
->Inventor's family name Initial (Year Issued), *Title of patent*, Issuing Country Patent patent number, accessed Day Month Year. URL
+>Inventor's family name Initial (Year Issued) *Title of patent*, Issuing Country Patent patent number, accessed Day Month Year. URL
 
 ##### Example
 
@@ -3389,7 +3392,7 @@ In your reference list:
 ##### Examples
 
 > RMIT Creds (2022) 'What is academic integrity?' \[micro-credential\], RMIT University, Melbourne.
-
+ 
 > Tran L (2020) 'Managing diverse workforces' \[PowerPoint slides, MANG4321\], RMIT University, Melbourne.
 
 ###### end-subtype-content
@@ -3451,7 +3454,7 @@ In your reference list:
 **Examples**
 
 > *Child Wellbeing and Safety Act 2005* (Vic).
-
+ 
 > *Water Act 2007* (Cth).
 
 #### Bill
@@ -3681,7 +3684,7 @@ In your reference list:
 ##### Examples
 
 > Lowe P (2 November 2021) *Statement by Philip Lowe, Governor: monetary policy decision* \[media release\], Reserve Bank of Australia website, accessed 10 December 2021. https<nolink>://www.rba.gov.au/media-releases/2021/mr-21-24.html
-
+ 
 > Office of the Premier of Victoria (8 December 2021) *Boosting support for homeless youth* \[media release\], Office of the Premier of Victoria website, accessed 22 January 2022. https<nolink>://www.premier.vic.gov.au/ boosting-support-homeless-youth
 
 ###### end-subtype-content

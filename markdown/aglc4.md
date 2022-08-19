@@ -194,7 +194,7 @@ Meagher, Dan, ‘Digital Sampling/Remix Culture Forum’ (2012) 17(2) *Deakin La
 
 {.centre-align}B *Cases*{/.centre-align}
 
-*Roadshow Films Pty Limited v iiNet Limited* [2012] HCA 16; (2012) 248 CLR 42
+*Roadshow Films Pty Limited v iiNet Limited* \[2012\] HCA 16; (2012) 248 CLR 42
 
 *Walton v Gardiner* (1993) 112 ALR 289
 

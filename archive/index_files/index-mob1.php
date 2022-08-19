@@ -9,32 +9,18 @@
     <title>EasyCite</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.png" />
-	<!-- Google Tag Manager 
+	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-MBF5VGG');</script>
-	--><!-- End Google Tag Manager -->
-	
-<script>
-//Tracking script
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-91234614-1', 'auto');
-  ga('send', 'pageview');
-</script>
-	
+	<!-- End Google Tag Manager -->
     <!-- Core theme CSS, JS & JQUERY (includes Bootstrap)-->
     <!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 	<link href="css/main.css" rel="stylesheet">
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>-->
-   
-
-	
+    
 	
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -49,9 +35,6 @@
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-<a name="top"></a>
-	
-<div id="embedhide" class="hideembedded">
 <!-- Responsive navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 	<div class="container">
@@ -97,23 +80,127 @@
                   </a>
                
       </div>
-	  <h1 class="echeadtitle">Easy Cite referencing guide</h1>
+	  <h1 class="echeadtitle">Easy Cite - V2 (Beta)</h1>
   		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
  				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library" tabindex="0">Library&nbsp;&nbsp;&nbsp;</a></li>
 				<li class="nav-item"><a class="nav-link topnavbar" href="https://www.rmit.edu.au/library/study/referencing" tabindex="0">Referencing&nbsp;&nbsp;&nbsp;</a></li>
+				<li class="nav-item"><a class="nav-link topnavbar" href="#" tabindex="0" id="ecinstruct" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" onClick="textToggle(this)" ondblclick="textToggle(this)"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg> How to use Easy Cite</a></li>
+				
 			</ul>
 		</div>
 	</div>
 </nav>
-	
-</div><!-- end embed-hide --> 	
-	
 <!-- Page content--> 
+	
+<!-- Instructions content--> 
+<div class="ecinstructions container">
+    
+
+    <!-- Collapsed content -->
+    <div class="accordion-collapse collapse" id="collapseExample" data-bs-parent="#ecinstruct" aria-expanded="false">
 		
+		<!-- link to trigger collapse -->
+   <div class="trighty"> 
+	   <a class="ectitle" tabindex="0" id="ecinstruct2" data-bs-toggle="collapse" href="#" data-bs-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" onClick="textToggle(this)" ondblclick="textToggle(this)">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;&nbsp;<span id="textoggle">open</span>
+  		
+	   </a>
+	</div>
+		
+		
+        <div class="card-body">
+            <div class="d-flex flex-row flex-wrap">
+                <div class="col-12 col-sm-7">
+                    <div class="ecinstructbox">
+						<h3>How to use Easy Cite referencing resources</h3>
+                    <p class="ecsubtitle">Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT. The styles included are RMIT Harvard, AGLC4, APA, Chicago A: footnotes and bibliography, Chicago B: author-date, IEEE, and Vancouver.</p>
+                    <p>Easy Cite is intended as a guide only and some styles are open to interpretation. Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar existing types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
+					<p>You should always check with your teacher or lecturer to ensure you are using the correct style for your assignments and assessment tasks.</p>
+                
+                    </div>
+                </div>
+                <div class="col-12 col-sm-5">
+                    <div class="ecinstructbox">
+                    <p>View this instructional video for using Easy Cite referencing resources</p>
+                    <div class="plc-hldr">
+                    Instructional video placeholder
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- style guides content--> 	
 <div class="container p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
+
+
+	<!-- https://getbootstrap.com/docs/5.0/forms/select/ and https://www.tutorialrepublic.com/codelab.php?topic=faq&file=jquery-show-hide-div-using-select-box -->
+
+<script>
+$(document).ready(function(){ //starts function
+    $("#selectc").change(function(){ //applies function to div selectb
+        $(this).find("option:selected").each(function(){ //gets the selected field
+            var optionValue3 = $(this).attr("value"); //applies the esleetced value from the field 
+            if(optionValue3){ // applies logic argument if value captured
+			//now apply url structure and reset the page	
+
+				console.log(optionValue3); //outputs value to  console for error cehcking
+            } else{
+                console.log(optionValue3);
+            }
+        });
+    }).change(); //run on select change
+});
+</script>
+<script>
+$(document).ready(function(){ //starts function
+    $("#selectb").change(function(){ //applies function to div selectb
+        $(this).find("option:selected").each(function(){ //gets the selected field
+            var optionValue1 = $(this).attr("value"); //applies the esleetced value from the field 
+            if(optionValue1){ // applies logic argument
+				//$("#heading-" + optionValue1).hide(); //hides accordion - works 
+				//$("h3").not("#heading-" + optionValue1).show(); //shows accordion -works
+				console.log("#heading-" + optionValue1); //outputs value to  console for error cehcking
+
+            } else{
+				$("#heading-" + optionValue1).show();
+                console.log(optionValue1);
+            }
+        });
+    }).change(); //run on select change
+});
+</script>
+
+
+<select id="selectc" class="form-select mb-3" aria-label="Default select example">
+	<option selected value="styleguide-0">RMIT Harvard</option>
+	<option value="styleguide-1">AGLC 4</option>
+	<option value="styleguide-2">APA 7th Ed</option>
+	<option value="styleguide-3">Chicago A</option>
+	<option value="styleguide-4">Chicago B</option>
+	<option value="styleguide-5">IEEE</option>
+	<option value="styleguide-6">Vancouver</option>
+</select>
+
+<select id="selectb" class="form-select" aria-label="Default select example">
+	<option selected value="stn-0">First Option</option>
+	<option value="1">2nd Option</option>
+	<option value="2">3rd Option</option>
+	<option value="3">4th Option</option>
+	<option value="4">5th Option</option>
+	<option value="5">6th Option</option>
+	<option value="6">7th Option</option>
+	<option value="7">8th Option</option>
+	<option value="8">9th Option</option>
+	<option value="9">10th Option</option>
+</select>
+
+
+
 <?php 
 // include the parsedown code
 require_once 'Parsedown.php';
@@ -125,44 +212,31 @@ $thisQuery = htmlentities($queryString);
 parse_str($thisQuery, $params); 
 // save the result in a variable
 $whichstyleguide = $params['styleguide'];
-$showInfobox ='block'; 
 //get the correct markdown content
 if ($whichstyleguide == "styleguide-0"){
-	$thestyleguide = file_get_contents('markdown/infotab.md');
-	$thestyleguidetitle = "Using Easy Cite";
-	$showInfobox ='block'; 
-}	else if ($whichstyleguide == "styleguide-1"){
 	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
 	$thestyleguidetitle = "RMIT Harvard";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-2"){
+}	else if ($whichstyleguide == "styleguide-1"){
 	$thestyleguide = file_get_contents('markdown/aglc4.md');
 	$thestyleguidetitle = "AGLC4";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-3"){
+}	else if ($whichstyleguide == "styleguide-2"){
 	$thestyleguide = file_get_contents('markdown/apa7thed.md');
 	$thestyleguidetitle = "APA 7<sup>th</sup> Edition";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-4"){
+}	else if ($whichstyleguide == "styleguide-3"){
 	$thestyleguide = file_get_contents('markdown/chicagoa.md');
 	$thestyleguidetitle = "Chicago A";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-5"){
+}	else if ($whichstyleguide == "styleguide-4"){
 	$thestyleguide = file_get_contents('markdown/chicagob.md');
 	$thestyleguidetitle = "Chicago B";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-6"){
+}	else if ($whichstyleguide == "styleguide-5"){
 	$thestyleguide = file_get_contents('markdown/ieee.md');
 	$thestyleguidetitle = "IEEE";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-7"){
+}	else if ($whichstyleguide == "styleguide-6"){
 	$thestyleguide = file_get_contents('markdown/vancouver.md');
 	$thestyleguidetitle = "Vancouver";
-	$showInfobox ='none'; 
 }	else {
-	$thestyleguide = file_get_contents('markdown/infotab.md');
-	$thestyleguidetitle = "Using Easy Cite";
-	$showInfobox ='block'; 
+	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
+	$thestyleguidetitle = "RMIT Harvard";
 }
 
 // get the markdown content - populates the page with content from a particular style guide	
@@ -170,16 +244,15 @@ $mylist = $parsedown->text($thestyleguide);
 	
 //replace heading tags with bootstrap layout
 // NAV TABS
-$mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<ul class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
+$mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<ul class="nav nav-tabs  d-none d-sm-block" id="nav-tab" role="tablist">', $mylist);
 $mylist = preg_replace("/<h1>/", '<li id="nav-xx-tab" class="nav-item" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false">
 <a id="nav-link-xx" class="nav-link mynavtabs" href="#" tabindex="0" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
 $mylist = preg_replace("/<\/h1>/", '<div class="layer" aria-hidden="true">whichguidetitle</div></a></li>', $mylist);
 $mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</ul><p>&nbsp;</p>', $mylist);
 //REPLACE whichguidetitle with the correct title for the animated nav tabs
-$mylist = preg_replace("/Using Easy Cite<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Using Easy Cite<div class="layer" aria-hidden="true">Using Easy Cite</div>', $mylist);
 $mylist = preg_replace("/RMIT Harvard<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'RMIT Harvard<div class="layer" aria-hidden="true">RMIT Harvard</div>', $mylist);
 $mylist = preg_replace("/AGLC4<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'AGLC4<div class="layer" aria-hidden="true">AGLC4</div>', $mylist);
-$mylist = preg_replace("/APA 7<sup>th<\/sup> ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7<sup>th</sup> ed.<div class="layer" aria-hidden="true">APA 7<sup>th</sup> ed.</div>', $mylist);
+$mylist = preg_replace("/APA 7th ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7th ed.<div class="layer" aria-hidden="true">APA 7th ed.</div>', $mylist);
 $mylist = preg_replace("/Chicago A<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago A<div class="layer" aria-hidden="true">Chicago A</div>', $mylist);
 $mylist = preg_replace("/Chicago B<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago B<div class="layer" aria-hidden="true">Chicago B</div>', $mylist);
 $mylist = preg_replace("/IEEE<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'IEEE<div class="layer" aria-hidden="true">IEEE</div>', $mylist);
@@ -187,7 +260,7 @@ $mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whic
 	
 //PILLS
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div class="tab-content" id="nav-tabContent-xx"><div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex flex-row flex-wrap">', $mylist);
-$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
+$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 d-none d-sm-block flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); 
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
@@ -245,9 +318,7 @@ $mylist = preg_replace("/<\/grey>/s", '</div>', $mylist);
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fade show active" id="nav', $mylist, 1);
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"v/", 'class="tab-pane fade show active" id="v', $mylist, 1);
 // first accordion button remove collapsed
-$mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-collapse collapse/", '<!-- first accordion item --><div class="accordion-collapse collapse show', $mylist, 1); //remove number "1" to open all first accordion items
-
-//$mylist = preg_replace("/class=\"accordion-button easyaccbutton collapsed\"", 'class="accordion-button easyaccbutton"', $mylist, 1);	
+$mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-collapse collapse/", '<!-- first accordion item --><div class="accordion-collapse collapse show', $mylist);
 $mylist = preg_replace("/aria-selected=\"false\"/", 'aria-selected="true"', $mylist, 1);
 $mylist = preg_replace("/nav-link myleftpills/", 'nav-link myleftpills active', $mylist, 1);
 $mylist = preg_replace("/aria-expanded=\"false\"/", 'aria-expanded="true"', $mylist, 1);
@@ -421,43 +492,38 @@ if ($whichstyleguide == "styleguide-0"){
 	$mylist = preg_replace("/id=\"nav-link-5\" class=\"nav-link/", 'id="nav-link-5" class="nav-link active', $mylist, 1);  
 }	else if ($whichstyleguide == "styleguide-6"){
 	$mylist = preg_replace("/id=\"nav-link-6\" class=\"nav-link/", 'id="nav-link-6" class="nav-link active', $mylist, 1);  
-}	else if ($whichstyleguide == "styleguide-7"){
-	$mylist = preg_replace("/id=\"nav-link-7\" class=\"nav-link/", 'id="nav-link-6" class="nav-link active', $mylist, 1); 
 }	else {
 	$mylist = preg_replace("/id=\"nav-link-0\" class=\"nav-link/", 'id="nav-link-0" class="nav-link active', $mylist, 1);  
 }
 	
 // ISSUES TO BE RESOLVED / Development to-do list
+// DONE!! added an id attribute to the accordion-item div for printing and for first accordion discovery
+// DONE!! accordion WIDTH - can we set a minimum width for desktop view and not mobile view?
+// DONE!! PRINT - buttons/links to print format for accordion item / whole accordion / whole style guide
+// DONE!! Format print window content and hide buttons - make an external style sheet for this
+// DONE!! Improve the print stylesheet with RMIT branding etc.
+// DONE!! create a FOOTER area with links to feedback form, learning lab, other...
+// DONE!! Top of page INSTRUCTIONS - show/hide with cookies/session data, print option.
+// DONE!! STYLE: CSS for Bootstrap - RMIT branding
+// DONE!! move inline styles to external CSS file - easycite.css
+// DONE!! focus the correct tab depending on the query string.
+// DONE!! close the first accordion for the pill if accessed via hash string
+// DONE!! highlight first accordion button/item in each accordion because we removed all highlights - remove "collapsed" from first accordion button
+// DONE!! need to set hash string for all pills and accordion clicks. if you click on a pill - it defaults to the first accordion item (how to get that ID???)
+// DONE!! solve the parent - child data-bs-parent value to enable one selected accordion-collapse to be opened in each accordion, and the others to close.
+// DONE!! add correct title and accordion headings to print version. Hide print title from web page view.
+// DONE!! fixed accessibility issues: heading hierarchy (removed H4 heading from accordion body) 
+// DONE!! Harvard example reference list was messing up the accordion width due to a URL that wasn't wrapping properly - not a proper fix. Not sure why???
+// tabbing issues across different browsers - how to make it more consistent?
+// Stop print content from cropping when scale is more than 100% - CSS issue???
 // change the code from PHP to Javascript to show first accordion item in an accordion then won't need the comment in  markdown
 // need to strip all COMMENTS out of $mylist after all replaces are done	
-// change layout - make first tab the "Using Easy Cite" tab so style guides are not selected by default. remove how to from banner.
-	
+// 
 	
 //OUTPUT THE PARSED CONTENT TO HTML
 echo($mylist);
 ?>
-<!-- start info box-->
-<div id="ecinfopane" style="display: <?= $showInfobox?>">
-	<h3><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;How to use the Easy Cite referencing guide</h3>
-    <div class="d-flex flex-row flex-wrap">
-        <div class="col-12 col-sm-6 colpad">
-            <h5>Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT.</h5>
-			<p>The styles included are RMIT Harvard, AGLC4, APA, Chicago A: footnotes and bibliography, Chicago B: author-date, IEEE, and Vancouver.</p>
-            <p>Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
-            <p>Easy Cite is intended as a guide only and some styles are open to interpretation. You should always check with your instructor to ensure you are using the correct style for your assignments and assessment tasks.</p>
-			<p>Visit the <a href="https://emedia.rmit.edu.au/learninglab/content/referencing" target="_blank">Learning Lab Referencing Tutorial (opens in a new tab)</a> and find out how to correctly use different referencing styles in academic writing to avoid plagiarism and get better marks.</p>
-        </div>
-		<div class="col-12 col-sm-6 colpad">	
-			<h5>Select a style guide from the tabs above to start using Easy Cite.</br>
-           Or view this instructional video first...</h5>
-		
-            <p><iframe width="537" height="302" src="https://www.youtube.com/embed/60J55xXbu8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-            <p><a href="transcripts/EasyCite-video-transcript.rtf">Video transcript (RTF)</a></p>
-        </div>
-    </div>
-</div>
-<!-- end info box-->	
-	
+
 </div><!-- end padding for content -->
 <!-- end page content-->
 		
@@ -466,37 +532,13 @@ echo($mylist);
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 	<div class="footerarea">
-		<div id="gotoeasycite"><a href="https://www.lib.rmit.edu.au/easy-cite/" class="footerlinks atooltip aanimate" data-tool="Link opens in a new tab" target="_blank" >Go to Easy Cite home</a> | &nbsp; </div>
-			<a href="https://forms.office.com/r/ZCZH0nR4HF" target="_blank" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here. Link opens in a new tab." >Send us feedback</a>&nbsp; |&nbsp; 
-		<!-- Trigger modal -->
-			<a type="button" class="notabutton footerlinks atooltip aanimate" data-bs-toggle="modal" data-bs-target="#exampleModal" data-tool="Select this link to see copyright and licensing information">About Easy Cite</a>
+			<a href="https://forms.office.com/r/ZCZH0nR4HF" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here " >Send us feedback</a>&nbsp;  | &nbsp; 
+			<a href="#" class="footerlinks atooltip aanimate" data-tool="This resource created by RMIT Library Digital Learning" >&copy; RMIT University</a>
+	
 	</div>
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 </div>
-	
-
-<!-- Modal: About Easy Cite -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-header">
-		  <h3 class="modal-title" id="exampleModalLabel">Easy Cite referencing guide </h3> 
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <p>Easy Cite referencing guide by <a href="https://www.rmit.edu.au/library" target="_blank" class="modallinks" >RMIT University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" class="modallinks" >Creative Commons CC BY-NC-SA 4.0</a>. </p>
-		  <p>This resource is derived from a work by <a href="https://www.swinburne.edu.au/library" target="_blank" class="modallinks" >Swinburne University Library</a>, based on an original work by <a href="https://www.griffith.edu.au/library" target="_blank" class="modallinks" >Griffith University Library</a>.</p>
-		  <p>(links open in new tabs)</p>
-		  <p><strong>&copy; RMIT University Library</strong></p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-	
 <!-- end footer content-->	
 
 <script>
@@ -551,9 +593,7 @@ function myFunction(button, sethash){
 	   	window.location.hash = globalpillshash + accordionhash;
 		//console.log(globalpillshash + accordionhash);
 	}
-	//keep page scrolled to the top - avoids the content jumping around when selecting vertical pills
-	document.body.scrollTop = 0; // For Safari - not working
-  	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera - is working
+	
 }
 
 // this function takes the info from the tab button to output a query string 
@@ -570,10 +610,7 @@ function myFunction2(button, thisquery){
 	location.reload();
 	//	window.scroll(0,0); //need to scroll window to top of page but not working 	
 	document.getElementById("nav-tab").focus();
-	document.body.scrollTop = 0; // For Safari
-  	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
-
 // --------------------------
 // ACCORDION FAMILIES
 // this function dynamically allocates the parent accordion div of the accordion-item 
@@ -594,23 +631,12 @@ const mylist = document.getElementsByClassName("accordion-item");
 		}
 	}
 // remove the "collapsed" class from the first accordion button in each accordion so it's in its "open" state
-// Use this code to open all accordions first sub-type in a style guide
-/*const acclist = document.getElementsByClassName("accordion");
+const acclist = document.getElementsByClassName("accordion");
 	for (let q = 0; q < acclist.length; q++){
 		const acbuttons = acclist[q].getElementsByClassName("accordion-button");
 		acbuttons[0].classList.remove("collapsed");
 		//console.log(acbuttons[0].className);
 	}
-*/	
-// OR
-// Use this code to only open the first accordion subtype in a style guide
-//only run this code if there are accordions - i.e. not the "Using Easy Cite" tab.
-var thisstatus = '<?= $showInfobox?>';
-if (thisstatus == "none"){
-	const acbuttons = document.getElementsByClassName("accordion-button");
-	acbuttons[0].classList.remove("collapsed");
-}
-
 // -----------------------------
 // PRINT SCRIPT
 // this script controls the method for printing a section, part or whole guide depending on the button selected
@@ -671,35 +697,11 @@ function textToggle(elem){
 		thiscol.setAttribute("aria-expanded", "true");
 		console.log("open");
 	} else if (colstatus == 'true') {
-		document.getElementById('textoggle').innerHTML = "close";	
+		document.getElementById('textoggle').innerHTML = "open";	
 		thiscol.setAttribute("aria-expanded", "false");
 		console.log("close");
 	}
 }
-
-// -----------------------------
-// HIDE BANNER IN IFRAME
-// and show a different page title, 
-// and link to the actual Easy Cite page in the footer
-function iniFrame() {
-    if ( window.location !== window.parent.location )
-    { 
-        // The page is in an iFrames
-		document.getElementById("embedhide").style.display = "none";
-		document.getElementById("gotoeasycite").style.display = "block";
-		//console.log(document.getElementById("gotoeasycite").className);
-    } 
-    else {
-        // The page is not in an iFrame
-        //document.write("The page is not in an iFrame");
-		document.getElementById("embedhide").style.display = "block";
-		document.getElementById("gotoeasycite").style.display = "none";
-		//console.log(document.getElementById("gotoeasycite").className);
-    }
-}
-  
-// Calling iniFrame function
-iniFrame();
 </script>
 </body>
 </html>
