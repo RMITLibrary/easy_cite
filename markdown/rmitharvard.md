@@ -2,7 +2,7 @@
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
-<!-- unless you need to add or delete entire type or sub-type sections as required for type and subtype content -->
+<!-- unless you need to add or delete sections as required for type and subtype content -->
 
 <!-- start the top style guide menu -->
 <!-- the STYLE GUIDE menu list must use heading 1 (#) -->
@@ -31,7 +31,7 @@
 ## Websites and webpage documents
 ## Social media
 ## Audiovisual material
-## Images and figures
+## Artworks, images and figures
 ## Reports and data sets
 ## Standards and patents
 ## Theses and dissertations
@@ -103,21 +103,25 @@ RMIT Harvard style requires in-text references and the reference list.
 
 - If the author of a reference is unknown, list the reference based on the title of the work.
 
-- If the publication date is unknown, use **n.d.** (for 'no date').
+- If no publication year is supplied, write **n.d.** (for 'no date'). If year can be reliably estimated or inferred from the text, then write **c.** (meaning 'circa' or approximately) followed by the year.
 
-- If the publication date is unknown but can be reliably estimated or inferred from the text, then place **c.** (meaning 'circa' or approximately) before the year.
+- A **secondary citation** refers to a source that is cited/referenced within another source, i.e. Source B has cited/referenced Source A (original source). Where possible, try to use the original source. A secondary citation should only be used if you are **unable** to track down and access the original source. You should also keep secondary citations to a minimum.  
+    
+    For example, if you use the ideas of Vanna (2019) (original source) which were cited/referenced in an article you accessed and read by Martin and Rodriguez (2021), you will need to show who the ideas belong to (Vanna 2019), and who is citing/referencing those ideas (Martin and Rodriguez 2021).
 
-- **Secondary citations** acknowledge the work of an author you refer to in your assignment that you read about in someone else’s work. Where possible, try to use the original source.  
+    > **First example:** Previous research appears to indicate... (Vanna 2019, cited in Martin and Rodriguez 2021).
+
+    > **Second example:** Vanna (2019, cited in Martin and Rodriguez 2021) suggests that...
     
-    For example, if you use Vanna’s ideas which you read about an article by Martin and Rodríguez, you would only need to show who the ideas belong to and also where you read about them.
-    
-    > Previous research appears to indicate ... (Vanna, cited in Martin and Rodriguez 2021).
-    
-    > Vanna (cited in Martin and Rodriguez 2021) suggests that...
-    
-    In the examples, the ideas/information belong to Vanna, but you paraphrased them from your reading of Martin and Rodriguez’s work.
-    
-    In the reference list, include the source you read. For this example, you would only need to put Martin and Rodríguez in the reference list.
+    In these examples, the ideas/information belong to Vanna (2019) so they are the original source, but you paraphrased them from your accessing and reading of Martin and Rodriguez's (2021) work. Martin and Rodriguez's (2021) is where you found Vanna's (2019) ideas/information.
+
+    Here is another example where a source is citing/referencing multiple original sources:
+
+    > **Third example:** Previous research has shown that... (Blanchard and McBride 2003; Lazare 2004; Timson 2003, cited in Tucker et al. 2020)
+
+    **Note:** When a source is citing/referencing multiple original sources, it is best to put the author names of all those multiple original sources in parentheses as we did in the third example above, rather than integrate them as part of the sentence (author-prominent) as we did with the second Vanna (2019) example. The reason for this is that the in-text reference would otherwise appear harder to read which is not ideal, e.g. Blanchard and McBride, Lazare and Timson (2003; 2004; 2003, cited in Martin and Rodriguez 2021) suggest that...
+
+    In the reference list, only include the source you accessed and read (where you found the information). In the context of the above examples, you only put the Martin and Rodriguez (2021) reference or the Tucker et al. (2020) reference in the reference list. Do not include Vanna (2019) or Blanchard and McBride (2003), Lazare (2004) and Timson (2003).
     
 - For **multiple citations in the same parentheses**, list all citations chronologically, separated by a semi-colon (;) for example:  
     
@@ -330,13 +334,13 @@ In the reference list, include the source you read. For this example, you would 
 
 - If the author of a reference is unknown, list the reference based on the title of the work.
 
-- If the publication date of a reference is unknown, use **n.d.** (for 'no date').
-
-- If the publication date is unknown but can be reliably estimated or inferred from the text, then write **c.** (meaning 'circa' or approximately) before the year.
+- If no publication year is supplied, write **n.d.** (for 'no date'). If year can be reliably estimated or inferred from the text, then write **c.** (meaning 'circa' or approximately) followed by the year.
 
 - If there is no place of publication, use **n.p.** (for 'no place').
 
 - If the place of publication (city name) is not commonly known (e.g. Harlow) or the place of publication could be in two or more countries, put the country name after the city. For example, Harlow, England.
+
+- If you have used a **secondary citation**, in the reference list, only include the source you accessed and read (where you found the information). For example, if you accessed and read an article by Martin and Rodriguez (2021) and you referred to the information from Vanna (2019) that Martin and Rodriguez (2021) cite/reference in their article, you would only put the Martin and Rodriguez (2021) reference in the reference list, not Vanna (2019).
 
 - If citing a **PDF**, link to the page where the PDF is hosted not the PDF link.
 
@@ -377,7 +381,7 @@ Jocevski M (2020) 'Blurring the lines between physical and digital spaces: busin
 
 MarketLine Limited (2021) *Global - apparel manufacturing*, accessed 13 December 2021, MarketLine database.
 
-Reynolds M (director) (2017) *My name is Gulpilil* \[motion picture\], Screen Australia, SAFC & ABC, Australia.
+Reynolds M (director) (2017) *My name is Gulpilil* [motion picture], Screen Australia, South Australian Film Corporation and ABC, Australia.
 
 Sahai S, Goel R and Singh G (2021) 'Building the world of internet of things', in Abraham A, Dash SY, Liang Y and Pani SK (eds) *Advanced soft computing techniques in data science, IoT and cloud computing*, Springer International Publishing AG, doi:10.1007/978-3-030-75657-4.
 
@@ -1017,9 +1021,9 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ###### start-subtype-content
 
-If there is no author, cite the gallery/museum name.
+An exhibition catalogue can be physical (print) or online from a website.
 
-Provide page number for quotes only when available in the original document.
+The author may be a person/people or the gallery/museum/public space (e.g. library).
 
 #### In-text reference: Direct quotes
 
@@ -1039,21 +1043,29 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 - As details will vary for exhibition catalogues, try to extract as much information as you can about authorship, publication information, etc.
 
-- The author may be a person/people or an organisation such as the gallery/museum/public space itself.
+- Italicise the exhibition title. After the title, provide the format of the resource in square brackets, e.g. [print exhibition catalogue], [online exhibition catalogue].
 
-- Italicise the publication title.
+- Add the exhibition dates after the format. For example: [print exhibition catalogue], 11 March 2022 - 27 May 2022.
 
-- After the title, provide the format of the resource in square brackets, e.g. \[print exhibition catalogue\].
+- **If physical (print):** after the exhibition dates, add the name of the publisher and place of publication.
 
-- Add the exhibition dates after the format. For example: \[print exhibition catalogue\], 11 March - 27 May 2022.
+- **If online (website):** after the exhibition dates, add the name of the website followed by the word website. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
-##### Rule
+##### Rule (if physical/print)
 
-> Author's family name Initial OR Name of Gallery/Museum/Public Space (Year of publication) *Title of exhibition* \[format\], Day Month Year of exhibition, Name of Publisher, Place of Publication.
+> Author's family name Initial OR Name of Gallery/Museum/Public Space [if author] (Year of publication) *Title of exhibition* [format], Day Month Year of exhibition, Name of Publisher, Place of Publication.
 
 ##### Example
 
-> NGV International (2021) *Gabrielle Chanel. Fashion Manifesto* \[print exhibition catalogue\], 5 December 2020 – 25 April 2021, National Gallery of Victoria and Thames & Hudson, Melbourne.
+> NGV International (2020) *Gabrielle Chanel. Fashion manifesto* [print exhibition catalogue], 5 December 2020 – 25 April 2021, National Gallery of Victoria and Thames & Hudson, Melbourne.
+
+##### Rule (if online -- website)
+
+> Author's family name Initial OR Name of Gallery/Museum/Public Space [if author] (Year of publication) *Title of exhibition* [format], Day Month Year of exhibition, Name of Website website, accessed Day Month Year. URL
+
+##### Example
+
+>Carpenter JT (2012) *Designing nature: the Rinpa aesthetic in Japanese art* [online exhibition catalogue], 26 May 2012 – 13 January 2013, The Metropolitan Museum of Art website, accessed 13 December 2021. https<nolink>://www.metmuseum.org/art/metpublications/Designing_Nature_The_Rinpa_Aesthetic_in_Japanese_Art?Tag=Notable%20exhibition%20catalogues&title=&author=&pt=&tc=&dept=&fmt=
 
 ###### end-subtype-content
 
@@ -1359,17 +1371,17 @@ In your reference list:
 
 - If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, add the database name (if sourced from library database) or URL (if sourced from website).
 
-- For database names, leave out the accessed date and add the database name at the end, followed by the word **database**.
+- **Sourced from a website:** add the name of the website followed by the word **website**. Then put the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
-- For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- **Sourced from a library database:** add the accessed date (e.g. accessed 26 November 2021), then a comma, a space and the database name followed by the word **database**.
 
 ##### Examples
  
 > Barkela B (2021) 'Leadership communication and knowledge integration across the artistic, technical and administration area in theaters', *Journal of Arts Management, Law, and Society*, 51(6):393-409, doi:10.1080/10632921.2021.1974628.
 
-> Llaha F, Gil-Lespinard M, Unal P, de Villasante I, Castañeda J and Zamora-Ros R (2021) 'Consumption of sweet beverages and cancer risk. A systematic review and meta-analysis of observational studies', *Nutrients*, 13(2):516, accessed 26 November 2021. https<nolink>://www.mdpi.com/2072-6643/13/2/516/htm
+ > Llaha F, Gil-Lespinard M, Unal P, de Villasante I, Castañeda J and Zamora-Ros R (2021) 'Consumption of sweet beverages and cancer risk. A systematic review and meta-analysis of observational studies', *Nutrients*, 13(2):516, MDPI Open Access Journals website, accessed 26 November 2021. https<nolink>://www.mdpi.com/2072-6643/13/2/516/htm
 
-> Wilson C, Marks Woolfson L and Durkin K (2020) 'School environment and mastery experience as predictors of teachers' self-efficacy beliefs towards inclusive teaching', *International Journal of Inclusive Education*, 24(2):218-234, Taylor & Francis Online database.
+> Wilson C, Marks Woolfson L and Durkin K (2020) 'School environment and mastery experience as predictors of teachers' self-efficacy beliefs towards inclusive teaching', *International Journal of Inclusive Education*, 24(2):218-234, accessed 26 November 2021, Taylor & Francis Online database.
 
 ###### end-subtype-content
 
@@ -2189,14 +2201,16 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Film / movie or television program
+### Film, movie or television program
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-Cite the title of the film/movie or television program in italics, followed by the date of the production in parentheses.
+For film (documentaries, instructional or educational videos), movies or television programs.
 
-The title can be abbreviated after the first mention as long as the meaning remains clear. You can also leave out the date when subsequently referring to the film/movie or television program.
+Cite the title of the film, movie or television program in italics, followed by the date of production in parentheses.
+
+The title can be abbreviated after the first mention as long as the meaning remains clear. You can also leave out the date when subsequently referring to the film, movie or television program.
 
 #### In-text reference: Direct quotes
 
@@ -2214,13 +2228,19 @@ Paraphrasing is when you are expressing the ideas of author(s) in your own words
 
 #### Reference list entry
 
-In your reference list for **film/movie**:
+In your reference list for **film or movie**:
 
-- Put the director's name. If there is no acknowledged director, put the producer's name.
+- Put the director's name. If there is no acknowledged director, put the producer's name. The 
+
+- producer or director could be a person or an organisation.
 
 - Put the year of release.
 
-- Place the title of the film/movie in italics, followed by the format of the resource in square brackets, i.e. \[motion picture\].
+- Place the title of the film or movie in italics, followed by the format of the resource in square brackets, i.e. [motion picture].
+
+- Documentaries, instructional or educational videos are classed as motion pictures that are non-fictional, so you still put **[motion picture]** for these. Movies are also classed as motion picture that are either fictional (made up) or non-fictional (true story), so you also put **[motion picture]** for these.
+
+- If there is a series name, include it after the format (do not italicise series name), along with any episode number if there is any, e.g. Shedding light on energy (episode 3).
 
 In your reference list for **television program**:
 
@@ -2232,19 +2252,21 @@ In your reference list for **television program**:
 
 - If applicable, include the italicised series title after the format, along with any series and episode numbers if given, e.g. *The business, Insight, Game of thrones* (season 7, episode 6).
 
-##### Rule (film/movie)
+##### Rule (film or movie)
 
-> Director's family name Initial (director) or Producer's family name Initial (producer) \[if no director\] (Year of release) *Title of film: subtitle of film* \[format\], Name of Studio or Publisher, Place of Production.
+> Director's family name Initial (director) OR Directing organisation's name (director) OR Producer's family name Initial (producer) [if no director] OR Producing organisation's name (producer) [if no director] (Year of release) *Title of film or movie: subtitle of film or movie* [format], Name of series (episode number) [if applicable], Name of Studio or Publisher, Place of Production.
 
 ##### Examples
 
-> Bong JH (director) (2019) *Parasite* \[motion picture\], CJ Entertainment, South Korea.
- 
-> Reynolds M (director) (2017) *My name is Gulpilil* \[motion picture\], Screen Australia, SAFC & ABC, Australia.
+> Bong JH (director) (2019) *Parasite* [motion picture], CJ Entertainment, South Korea.
+
+> Liacos Educational Media (producer) (2018) *Energy efficiency* [motion picture], Shedding light on energy (episode 3), ClickView, Australia.
+
+> Reynolds M (director) (2017) *My name is Gulpilil* [motion picture], Screen Australia, South Australian Film Corporation and ABC, Australia.
 
 ##### Rule (television program)
 
-> Director's family name Initial (director) or Producer's family name Initial (producer) \[if no director\] (Year of release) 'Title of episode: subtitle of episode' \[format\], *Name of series* (season number, episode number), Name of Station or Studio, Place of Production.
+> Director's family name Initial (director) OR Directing organisation's name (director) OR Producer's family name Initial (producer) [if no director] OR Producing organisation's name (producer) [if no director] (Year of release) 'Title of episode: subtitle of episode' [format], *Name of series* (season number, episode number) [if applicable], Name of Station or Studio, Place of Production.
 
 ##### Examples
 
@@ -2314,19 +2336,19 @@ In your reference list:
 
 ###### start-subtype-item
 
-### YouTube video and other online streaming videos
+### YouTube video or other online streaming video
 
 ###### start-subtype-content
 
-Includes films and programs on streaming platforms, YouTube videos, and other forms of online video.
+For YouTube videos and other online streaming videos located on other websites.
 
-Cite the video using the author's name (individual or corporate) and the year of the video.
-
-If the author is unknown, reference the title of the video in italics and the year.
+The creator (author) can be a person, channel name or organisation.
 
 #### In-text reference: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
+
+If the creator is unknown, cite the title of the video in italics and the year of video in the in-text reference. If known, cite the creator's name and the year of video. If no year is supplied, write **n.d.** (for 'no date').
 
 > There are conflicting opinions of crypto currency that frame it as either the potential 'future currency of Earth' or full of pitfalls due to being 'vulnerable to hacking security issues' (ABC News 2021).
 
@@ -2336,27 +2358,33 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
+If the creator is unknown, cite the title of the video in italics and the year of video in the in-text reference. If known, cite the creator's name and the year of video. If no year is supplied, write n.d. (for 'no date').
+
 > Opinions of crypto currency vary widely from those that see it as the future of financial exchange to those that consider it to be an insecure proposition at risk from hacking (ABC News 2021).
 
 #### Reference list entry
 
 In your reference list:
 
-- If the author (individual or corporate) of the online/streaming video is known, begin the reference with the author’s family or corporate name. If unknown, begin the reference with the title and the year of the video.
+- The creator (author) can be a person, channel name or organisation.
 
-- After the title, provide the format of the resource in square brackets, i.e. \[video\]..
+- If the creator is unknown, begin the reference with the title of the video in italics. If known, begin the reference with the creator's name.
 
-- Include the italicised name of the channel or owning organisation after the format.
+- Put the day, month and year of creation. If the video has only the year of creation, put the year. If no publication date is supplied, write **n.d.** (for 'no date').
+
+- After the date or year, place the title of the video in single inverted commas (quotation marks), followed by the format of the resource in square brackets, i.e. [video].
+
+- Include the italicised name of the channel or owing organisation after the format.
 
 - Include the word **website** after the name of the website. But if the name of the website is a URL (e.g. vic.gov.au), do not write the word **website**. Do not italicise the name of website.
 
-- Include publication and access dates in day, month and year format (e.g. 13 December 2021).
+- Include the accessed date in day, month and year format (e.g. 13 December 2021).
 
 - After the accessed date, put a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
-> Creator's family name Initial or Owner of video (Day Month Year) 'Title of video: subtitle of video' \[format\], *Name of Channel or Owning Organisation*, Name of Website website, accessed Day Month Year. URL
+> Creator's family name Initial OR Creator's organisation or channel name (Day Month Year OR Year) 'Title of video: subtitle of video' [format], **Name of Channel or Owning Organisation**, Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
 
@@ -2499,7 +2527,7 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Artwork
+### Artwork and images (non-artwork)
 
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -2508,36 +2536,53 @@ In your reference list:
 
 RMIT Harvard includes the following within the definition of an artwork:
 
-- drawings, paintings, prints, sculpture and ceramics
+- paintings, drawings, illustrations, prints, sculptures and ceramics
 
-- photographs
+- street art and neon sign art
 
-- posters and cartoons
+- photographs, posters, cartoons and clip art
 
-- performance and ephemeral art
+- performance and ephemeral artwork
 
-- digital works
+- digital art – created using technology such as video, computer or laser beam
 
-- antiquities
+- antiquities - objects from ancient history such as coins and pottery
+
+- images of any of the above
 
 - maps
 
-Artworks that you use in your assignment or for study purposes do not need the copyright permissions that are required for publishing or commercial use. However, it is essential that you give credit to the creator of the work and reference it in your work.
+RMIT Harvard includes the following within the definition of an **image (non-artwork)**:
 
-When citing works of art in the text of your assignment, you need to acknowledge them in two places:
+- photographs, illustrations, drawings, illustrative diagrams and other images of a medical, anatomical, physiological or scientific nature (e.g. human body, histology, radiology/medical imaging such as x-rays, ultrasounds and scans)
+
+- photographs, illustrations, drawings and illustrative diagrams of a technical nature (e.g. vehicle or aircraft engines, architectural blueprints, anatomy of an airplane)
+
+- photographs, illustrations, drawings and illustrative diagrams of any other non-artwork subject matter not covered above (e.g. fashion/clothing/accessories, nature, people)
+
+
+Artworks and images (non-artworks) can be physical or online/digital.
+
+The artist or creator can be a person, the gallery/museum/public space like a library, or other organisations.
+
+If no publication year is supplied, write **n.d.** (for 'no date'). If the year can be reliably estimated or inferred from the text, then write c. (meaning 'circa' or approximately) followed by the year.
+
+Artworks and images (non-artworks) that you use in your assignment or for study purposes do not need the copyright permissions that are required for publishing or commercial use. However, it is essential that you give credit to the creator of the work and reference it in your work.
+
+When citing artworks or images (non-artworks) in the text of your assignment, you need to acknowledge them in two places:
 
 1.  within the written body of your paper, as you would for a normal in-text reference, and
 2.  in the figure layout (caption).
 
-Citations are also influenced by where you sourced the creative work. Where possible, cite the original rather than copies from a reproduction.
+Citations are also influenced by where you sourced the artwork or image (non-artwork). Where possible, cite the original rather than copies from a reproduction.
 
-How you capture and include the artwork or image (e.g. screen shot, photograph, copy-and-paste) does not influence the way in which it is referenced. Cite the work based on where you sourced the work.
+How you capture and include the artwork or image (non-artwork), e.g. screenshot, photograph, copy-and-paste, does not influence the way in which it is referenced. Cite the work based on where you sourced the work.
 
-**Note:** Your lecturer may have specific requirements for referencing artworks. Any directions given by your lecturer must be followed, even if they differ from this guide.
+**Note:** Your lecturer may have specific requirements for referencing artworks or images (non-artwork). Any directions given by your lecturer must be followed, even if they differ from this guide.
 
 #### Captions
 
-Captions are used to provide a description of the artworks you use. These are usually placed below the illustration.
+Captions are used to provide a description of the artworks or images (non-artwork) you use. These are usually placed below the illustration.
 
 A figure number is used in the caption to identify each illustration. These figures are numbered sequentially in the order in which they appear and followed by a colon.
 
@@ -2563,59 +2608,69 @@ Refer to a figure by its assigned number, not as the figure above or below or on
 
 #### Short captions for reproduced works
 
-If the image was on a website include the URL, otherwise provide the in-text referencing details as described in other areas of this guide.
+If the artwork or image (non-artwork) was on a website, include the URL (no full stop after URL) after the website name and the accessed date. If it was in a Library database, include the database name after the accessed date instead. If it was in a gallery, museum or other public space, include the name and location of the gallery, museum or public space. If it was in other sources, provide the in-text referencing details of the source as described in other areas of this guide.
 
 ##### Rule
 
-> {.figure-text}Figure number: Artist's full name (year produced) *Title or description of artwork* \[format\], Publishing details of where image was sourced. {/.figure-text}
+> {.figure-text}Figure number: Artist's or Creator's full name OR Gallery/Museum/Public space name OR Organisation's name (year produced) *Title or description of artwork or image (non-artwork)* [format], publishing details of where artwork or image (non-artwork) was sourced. {/.figure-text}
 
 ##### Examples
 
-> {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/ collection/search/39733? {/.figure-text}
+> {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with dragons and flowers* [silk tapestry], The Metropolitan Museum of Art website, accessed 13 December 2021. https<nolink>://www.metmuseum.org/art/collection/search/39733? {/.figure-text}
  
-> {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with Dragons and Flowers* \[Silk tapestry\], in Jaynes A and Liaw J (1968:37) {/.figure-text}
+> {.figure-text}Figure 4: Artist unknown (11-12th C) *Tapestry with dragons and flowers* [silk tapestry], in Jaynes A and Liaw J (1968:37). {/.figure-text}
 
-> {.figure-text}Figure 4: Henry Burn (1861) *Swanston Street from the Bridge* \[oil on canvas\], National Gallery of Victoria, Melbourne {/.figure-text}
+> {.figure-text}Figure 5: Henry Burn (1861) *Swanston Street from the bridge* [oil on canvas], National Gallery of Victoria, Melbourne. {/.figure-text}
 
-> {.figure-text}Figure 5: Mari (Maria Giovanna Colli) (2009) *Bilbao\_6: Guggenheim Museum Bilbao* \[photograph\], Flickr, Copyright 2009 by Mari, CC BY 2.0, accessed 13 December 2021 https<nolink>://www.flickr.com/ photos/ 52355315@N08/5757476385/in/album-72157626677144865/ {/.figure-text}
+> {.figure-text}Figure 6: Mari (Maria Giovanna Colli) (2009) Bilbao_6: Guggenheim Museum Bilbao [photograph], Flickr website, accessed 13 December 2021. https<nolink>://www.flickr.com/photos/52355315@N08/5757476385/in/album-72157626677144865/ {/.figure-text}
 
-> {.figure-text}Figure 6: Untitled screenshot of Zelphr homepage {/.figure-text}
+> {.figure-text}Figure 7: Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], Anatomy.tv database, accessed 19 August 2022. {/.figure-text}
+
+> {.figure-text}Figure 8: Untitled screenshot of Zelphr homepage {/.figure-text}
 
 #### In-text reference to artworks
 
-Italicise the titles of individual artworks, keeping any capitalisation, numbering or punctuation as specified by the artist.
+Italicise the titles of individual artworks or images (non-artworks) and use sentence case. If the artist/creator has made typographic decisions for the title where it has to appear in a certain way, use capitalisation, numbers or punctuation in exactly the same way as the artist/creator does in original title, e.g. *flight research #6*.
 
-Include the artist, year of creation and title of the artwork in parentheses, if not mentioned in the sentence, when first mentioning the work.
+When first mentioning the work, include the artist or creator of the artwork or image (non-artwork), year of creation and title of the artwork or image (non-artwork) in parentheses, if not mentioned in the sentence.
 
-If you use an image, refer to the figure number when you discuss the artwork.
+If you use an artwork or image (non-artwork), refer to the figure number when you discuss it.
 
 ##### Examples
 
-> The exhibition *Gabrielle Chanel. Fashion Manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 7).
+> The exhibition *Gabrielle Chanel. Fashion Manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11).
 
 > The purchase of Pollock's (1952) *Blue Poles* created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia.
 
-> As illustrated in Figure 4, the painting *Swanston Street from the Bridge* (Burn 1861) depicts Melbourne's growth into a city of domes and spires.
+> As illustrated in Figure 5, the painting *Swanston Street from the bridge* (Burn 1861) depicts Melbourne's growth into a city of domes and spires.
 
 #### Reference list entry
 
 In your reference list:
 
-- Your own unpublished work or artworks discussed without an image are not included in the reference list.
+- Artworks and images (non-artworks) can be physical or online/digital.
 
-- Artworks viewed in person, such as at art galleries, museums and public spaces, are cited to acknowledge their influence on the development of your own ideas or work.
+- Your own unpublished work or artworks discussed without an image or picture of them are not included in the reference list.
 
-- Artworks that you reproduced from books, websites and other sources should be cited in the standard format of the source as described in the other sections of this guide.
+- Artworks or images (non-artwork) viewed in-person, such as at art galleries, museums and other public spaces like a library, are cited to acknowledge their influence on the development of your own ideas or work. Please note that an image does not need to be of an artistic nature to be in a museum or other public space.
 
-- Italicise the title. After the title, provide the format of the resource in square brackets.
+- Artworks or images (non-artwork) that you reproduced from books, websites and other sources should be cited in accordance with the source they appear in. For example, if the artwork or image (non-artwork) appears in a book or website, you reference the book or website. Please refer to the relevant section(s) within this guide for how to reference the various sources.
 
-- **If viewed in-person:** Add the name and location of the museum, gallery or public space.
+- The artist or creator can be a person, the gallery/museum/public space (e.g. library), or other organisations.
 
-- **If viewed online:** add the name of the website followed by the word **website**. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- If no publication year is supplied, write **n.d.** (for 'no date'). If the year can be reliably estimated or inferred from the text, then write c. (meaning 'circa' or approximately) followed by the year.
 
-##### Rule
+- Italicise the title of the artwork or image (non-artwork). After the title, provide the format of the artwork or image (non-artwork) in square brackets.
 
-> Artist family name Initial (Year) *Title or description of work* \[format\], Name of Museum/Gallery/Public Space, Location of Museum/Gallery/Public Space.
+- **Physical -- viewed in-person at an art gallery, museum or other public space:** add the name and location of the museum, gallery or other public space.
+
+- **Online -- from a website:** add the name of the website followed by the word **website**. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+
+- **Online -- from a Library database:** add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+
+##### Rule (physical -- viewed in-person at an art gallery, museum or other public space)
+
+> Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (Year) *Title or description of artwork or image (non-artwork)* [format], Name of Museum/Gallery/Public Space, Location of Museum/Gallery/Public Space.
 
 ##### Examples
  
@@ -2623,13 +2678,38 @@ In your reference list:
  
 > Pollock J (1952) *Blue Poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
 
-##### Rule (if viewed online, i.e. website)
+##### Rule (online -- from a website)
 
-> Artist family name Initial (Year) *Title or description of work* \[format\], Name of Website website, accessed Day Month Year. URL
+> Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (Year) *Title or description of artwork or image (non-artwork)* [format], Name of Website website, accessed Day Month Year. URL
 
 ##### Example
 
 > Artist unknown (c. 11-12th C) *Tapestry with dragons and flowers* [silk tapestry], The Metropolitan Museum of Art website, accessed 9 December 2021. https<nolink>://www.metmuseum.org/art/ collection/search/39733?
+
+##### Rule (online -- from a Library database)
+
+> Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (Year) *Title or description of artwork or image (non-artwork)* [format], accessed Day Month Year, Name of Database database.
+
+##### Examples
+
+**Note:** Although RMIT Harvard does NOT include a URL link if there is a database name or vice-versa, it has been decided to include *both* only for **WGSN database images** in order to make the image easier to find and access.
+
+**WSGN report image**
+
+Maggioni S (2022) *Womenswear forecast S/S 24: SenseScapes* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www-wgsn-com.ezproxy.lib.rmit.edu.au/fashion/article/62d668672dbcfed4840eacf3#page4
+
+**WSGN image library**
+
+Chanel (n.d.) *cha_mon_ps23_003* [photograph], accessed 19 August 2022, WGSN database. www.wgsn.com/content/image_viewer/#/image.35640165
+
+**WSGN catwalk gallery**
+
+Jacobs M (n.d.) *New York autumn/winter 2022, women* [gallery of photographs], WGSN database, accessed 19 August 2022. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316
+
+**Anatomy.tv (Primal Pictures)**
+
+Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], Anatomy.tv database, accessed 19 August 2022.
+
 
 ###### end-subtype-content
 
@@ -2653,14 +2733,16 @@ Maps taken from an online source can include:
 
 Maps can also be in hardcopy/print format.
 
-The cartographer (author) can be a person/people or an organisation.
-
 When citing maps in the text of your work, you need to acknowledge them in two places:
 
-1.  within the written body of your paper, as you would for a normal in-text reference, and
-2.  in the figure layout (caption).
+1. within the written body of your paper, as you would for a normal in-text reference, and
 
-Refer to a figure by its assigned number, not as the figure above or below or on page 3.
+2. in the figure layout (caption).
+
+Refer to a figure by its assigned number, not as the "figure above" or "figure below" or "figure on page 3", for example.
+
+The cartographer (author) can be a person or an organisation.
+
 
 #### Captions
 
@@ -2668,53 +2750,65 @@ If the map was on a website, include the URL (no full stop after URL) after the 
 
 ##### Rule
 
-> {.figure-text}Figure number: Cartographer’s full name (year produced) *Title of map* \[format\], Publishing details of where map was sourced. {/.figure-text}
+> {.figure-text}Figure number: Cartographer’s full name OR Organisation's name (year produced) *Title of map* [format], Publishing details of where map was sourced. {/.figure-text}
 
 ##### Examples
 
-> {.figure-text}Figure 7: James Kearney (1855) *Melbourne and its suburbs: map 1* \[digitised map\], State Library of Victoria website, accessed 13 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
+> {.figure-text}Figure 9: James Kearney (1855) *Melbourne and its suburbs: map 1* [digitised map], State Library of Victoria website, accessed 13 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
 
-> {.figure-text}Figure 8: VicPlan (2020) *Plenty Road Bundoora* 3083, web map. {/.figure-text}
+> {.figure-text}Figure 10: VicPlan (2020) *Plenty Road Bundoora 3083* [digital map], VicPlan website, accessed 13 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/. {/.figure-text}
 
 #### In-text references
 
-> The map, *Melbourne and its suburbs: map 1* \[digitised map\] shows...(Kearney 1855).
+If you use a map, refer to the figure number when you discuss it.
 
-> Figure 8: *Plenty Road Bundoora 3083* by VicPlan, 2020, web map.
+> As shown by Figure 9, Melbourne and its suburbs: map 1 depicts...(Kearney 1855).
 
-> Figure 7 illustrates...(Kearney 1855).
+> Figure 9 depicts...(Kearney 1855).
 
-> The web map, *Plenty Road Bundoora 3083* highlights...(VicPlan 2020).
+> As illustrated in Figure 10, Plenty Road Bundoora 3083 highlights...(VicPlan 2020).
 
-> As shown in Figure 8,...(VicPlan 2020).
+> As shown in Figure 10,...(VicPlan 2020).
 
 #### Reference list entry
 
 In your reference list:
 
-- Add the map title in italics. After the title, provide the format of the resource in square brackets, e.g. \[web map\], \[print map\], \[digitised map\]. \[Print map\] is for hardcopy maps.
+- The cartographer (author) can be a person or an organisation.
 
-- **If hardcopy/print:** Add the name of publisher and place published.
+- Add the map title in italics. After the title, provide the format of the resource in square brackets, e.g. [digital map], [print map], [digitised map]. 'Print map' is for hardcopy maps.  'Digitised map' is for maps that used to be in hardcopy (print) format but have now been digitised. 'Digital map' is for an online map sourced from a website or Library database that was created digitally/electronically – most maps are like this today.
 
-- **If online:** add the website name followed by the word website. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- **Hardcopy (print):** add the name of publisher and place published.
 
-##### Rule (if hardcopy/print)
+- **Online -- from a website:** add the website name followed by the word **website**. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
-> Cartographer's family name Initial or Organisation's name (Year of creation) *Title of map* \[format\], Name of Publisher, Place of Publication.
+- **Online -- from a Library database:** add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+
+##### Rule (hardcopy/print)
+
+> Cartographer's family name Initial OR Organisation's name [if cartographer] (Year of creation) *Title of map* [format], Name of Publisher, Place of Publication.
 
 ##### Example
 
 > Melway (2021) *Geelong* \[print map\], Melway, Clayton, VIC.
 
-##### Rule (if online, i.e. website)
+##### Rule (online -- from a website)
 
-> Cartographer's family name Initial or Organisation's name (Year of creation) *Title of map* \[format\], Name of Website website, accessed Day Month Year. URL
+> Cartographer's family name Initial OR Organisation's name [if cartographer] (Year of creation) *Title of map* [format], Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
 
 > Kearney J (1855) *Melbourne and its suburbs: map 1* \[digitised map\], State Library of Victoria website, accessed 10 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
 
 > VicPlan (2020) *Plenty Road Bundoora 3083* \[web map\], Victoria State Government website, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
+
+##### Rule (online -- from a Library database)
+
+> Cartographer's family name Initial OR Organisation's name [if cartographer] (Year of creation) *Title of map* [format], accessed Day Month Year, Name of Database database.
+
+##### Example
+
+> Aerometrex (2021) *ANZ stadium, Sydney Olympic Park, NSW* [digital map], accessed 10 December 2021, MetroMap database.
 
 ###### end-subtype-content
 
@@ -2730,14 +2824,15 @@ In your reference list:
 
 When citing tables, graphs or other diagrams in the text of your work, you need to acknowledge them in two places:
 
-1.  within the written body of your paper, as you would for a normal in-text reference, and
-2.  in the table/figure layout (caption).
+1. within the written body of your paper, as you would for a normal in-text reference, and
 
-Label tables sequentially as Table 1, Table 2 and so on, followed by a colon. Other graphs and diagrams are labelled as Figures.
+2. in the table/figure layout (caption).
+
+Label **tables** sequentially as **Table 1, Table 2** and so on, followed by a colon. Other **graphs and diagrams** are labelled sequentially as **Figure 1, Figure 2** and so on.
 
 Include a title that describes or explains the information in the table or diagram. Note, this is not italicised.
 
-Refer to a table or figure by its assigned number, not as the table or figure above or below or on page 3.
+Refer to a table or figure by its assigned number (e.g. Table 1, Figure 2), not as the "table/figure below" or "table/figure above" or "table/figure on page 3", for example.
 
 For tables, graphs and diagrams using published content, acknowledge the source below the table/figure number and title, on a new line.
 
@@ -2785,7 +2880,9 @@ If you are using a table or graph that has been published elsewhere, acknowledge
 > {.figure-text}Figure 10: Buy now, pay later payments in Australia {/.figure-text}
 > {.figure-text}Source: Fisher, Holland and West 2021:61 {/.figure-text}
 
-#### In-text references
+#### In-text references - examples
+
+If you use a table, graph or diagram, refer to the table or figure number when you discuss it.
 
 > Bretag et al. (2020) identified a number of factors that contributed to plagiarism as listed in Table 2.
 
