@@ -2384,7 +2384,7 @@ In your reference list:
 
 ##### Rule
 
-> Creator's family name Initial OR Creator's organisation or channel name (Day Month Year OR Year) 'Title of video: subtitle of video' [format], **Name of Channel or Owning Organisation**, Name of Website website, accessed Day Month Year. URL
+> Creator's family name Initial OR Creator's organisation or channel name (Day Month Year OR Year) 'Title of video: subtitle of video' [format], *Name of Channel or Owning Organisation*, Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
 
