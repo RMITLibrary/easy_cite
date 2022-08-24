@@ -2527,14 +2527,14 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Artwork and images (non-artwork)
+### Artwork and images (non-artworks)
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### General rules for artworks
+#### General rules for artworks and images (non-artworks)
 
-RMIT Harvard includes the following within the definition of an artwork:
+RMIT Harvard includes the following within the definition of an **artwork:**
 
 - paintings, drawings, illustrations, prints, sculptures and ceramics
 
@@ -2590,7 +2590,7 @@ Illustrations you create of your own work are not usually referenced. However, a
 
 Make sure you refer to the figure in your writing and include the figure number. This can be in the sentence or in parentheses, for example (see Figure 1).
 
-Refer to a figure by its assigned number, not as the figure above or below or on page 3.
+Refer to a figure by its assigned number, not as the "figure above" or "figure below" or "figure on page 3", for example.
 
 **Note:**Your lecturer might require a specific long or short caption style. Whichever style you use, make sure you apply it consistently.
 
@@ -2640,7 +2640,7 @@ If you use an artwork or image (non-artwork), refer to the figure number when yo
 
 > The exhibition *Gabrielle Chanel. Fashion manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11).
 
-> The purchase of Pollock's (1952) *Blue poles* created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia.
+> The purchase of Pollock's (1952) *Blue poles*, as seen in Figure 12, created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia.
 
 > As illustrated in Figure 5, the painting *Swanston Street from the bridge* (Burn 1861) depicts Melbourne's growth into a city of domes and spires.
 
@@ -2674,7 +2674,7 @@ In your reference list:
 
 ##### Examples
  
-> Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton.
+> Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton, VIC.
  
 > Pollock J (1952) *Blue poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
 
@@ -2704,11 +2704,11 @@ Chanel (n.d.) *cha_mon_ps23_003* [photograph], accessed 19 August 2022, WGSN dat
 
 **WSGN catwalk gallery**
 
-Jacobs M (n.d.) *New York autumn/winter 2022, women* [gallery of photographs], WGSN database, accessed 19 August 2022. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316
+Jacobs M (n.d.) *New York autumn/winter 2022, women* [gallery of photographs], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316
 
 **Anatomy.tv (Primal Pictures)**
 
-Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], Anatomy.tv database, accessed 19 August 2022.
+Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], accessed 19 August 2022, Anatomy.tv database.
 
 
 ###### end-subtype-content
