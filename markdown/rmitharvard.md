@@ -2638,7 +2638,7 @@ If you use an artwork or image (non-artwork), refer to the figure number when yo
 
 ##### Examples
 
-> The exhibition *Gabrielle Chanel. Fashion Manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11).
+> The exhibition *Gabrielle Chanel. Fashion manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11).
 
 > The purchase of Pollock's (1952) *Blue poles* created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia.
 
@@ -2869,7 +2869,7 @@ If you are using a table or graph that has been published elsewhere, acknowledge
 
 ##### Rule
 
-> {.figure-text}Figure number: Title of table {/.figure-text}  
+> {.figure-text}Figure number: Title of table {/.figure-text}
 > {.figure-text}Source: Publishing details of where the information was sourced {/.figure-text}
 
 ##### Examples
