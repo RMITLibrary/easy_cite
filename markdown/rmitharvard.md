@@ -346,7 +346,7 @@ In the reference list, include the source you read. For this example, you would 
 
 - If the publication has a **DOI** (Digital Object Identifier), include it in the reference list, at the end of the citation using the short form ‘doi’ in lower case, e.g. Zufferey C, Yu N and Hand T (2020) ‘Researching home in social work’, *Qualitative Social Work*, 19(5-6):1095-1110, doi:10.1177/1473325019880244.
 
-- If the work is in a **language other than English**, put the title in the original language followed by the English translation, e.g. *Gabrielle Chanel. Manifeste de Mode (Gabrielle Chanel. Fashion Manifesto)*.
+- If the work is in a **language other than English**, put the title in the original language followed by the English translation, e.g. *Gabrielle Chanel. Manifeste de Mode (Gabrielle Chanel. Fashion manifesto)*.
 
 ###### end-subtype-content
 
@@ -2640,7 +2640,7 @@ If you use an artwork or image (non-artwork), refer to the figure number when yo
 
 > The exhibition *Gabrielle Chanel. Fashion Manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11).
 
-> The purchase of Pollock's (1952) *Blue Poles* created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia.
+> The purchase of Pollock's (1952) *Blue poles* created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia.
 
 > As illustrated in Figure 5, the painting *Swanston Street from the bridge* (Burn 1861) depicts Melbourne's growth into a city of domes and spires.
 
@@ -2676,7 +2676,7 @@ In your reference list:
  
 > Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton.
  
-> Pollock J (1952) *Blue Poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
+> Pollock J (1952) *Blue poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
 
 ##### Rule (online -- from a website)
 
@@ -2762,11 +2762,11 @@ If the map was on a website, include the URL (no full stop after URL) after the 
 
 If you use a map, refer to the figure number when you discuss it.
 
-> As shown by Figure 9, Melbourne and its suburbs: map 1 depicts...(Kearney 1855).
+> As shown by Figure 9, *Melbourne and its suburbs: map 1* depicts...(Kearney 1855).
 
 > Figure 9 depicts...(Kearney 1855).
 
-> As illustrated in Figure 10, Plenty Road Bundoora 3083 highlights...(VicPlan 2020).
+> As illustrated in Figure 10, *Plenty Road Bundoora 3083* highlights...(VicPlan 2020).
 
 > As shown in Figure 10,...(VicPlan 2020).
 
@@ -2800,7 +2800,7 @@ In your reference list:
 
 > Kearney J (1855) *Melbourne and its suburbs: map 1* \[digitised map\], State Library of Victoria website, accessed 10 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
 
-> VicPlan (2020) *Plenty Road Bundoora 3083* \[web map\], Victoria State Government website, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
+> VicPlan (2020) *Plenty Road Bundoora 3083* \[digital map\], Victoria State Government website, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
 
 ##### Rule (online -- from a Library database)
 
@@ -2852,13 +2852,13 @@ When the table includes data from more than one source, you must cite all source
 
 ##### Rule
 
-> {.figure-text}Figure number: Title of table  {/.figure-text} 
+> {.figure-text}Figure number: Title of table {/.figure-text}
 > {.figure-text}Source: adapted from Publishing details of where the information was sourced {/.figure-text}
 
 ##### Examples
 
 > {.figure-text}Table 2: Reason why students plagiarise {/.figure-text}
-> {.figure-text}Source: adapted from Bretag B, et al. 2020 {/.figure-text}
+> {.figure-text}Source: adapted from Bretag et al. 2020 {/.figure-text}
 
 > Table 3: Fluctuation in imports 2010 to 2020  
 > Source: adapted from Mitchelton 2018; ABS 2019; DFAT 2020
