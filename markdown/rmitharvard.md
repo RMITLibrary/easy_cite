@@ -60,9 +60,9 @@
 
 - Please confirm the referencing requirements for your course with your lecturer.
 
-- Use the *Referencing and attribution* section of the <a href="https://www.stylemanual.gov.au/" target="_blank">Australian Government Style Manual (AGSM)</a> (opens in a new tab) released in 2021 to clarify referencing rules or if you need more examples. This guide is based on this publication.
+- Use the *Referencing and attribution* section of the <a href="https://www.stylemanual.gov.au/" target="_blank">Australian Government Style Manual (AGSM)</a> (opens in a new tab) released in 2021 to clarify referencing rules or if you need more examples. RMIT Harvard is based on this publication.
 
-RMIT Harvard is an author-date referencing style.
+RMIT Harvard is an author-date referencing style and is based on the **author-date** referencing style of the AGSM. See: <a href="https://www.stylemanual.gov.au/referencing-and-attribution/author-date" target="_blank">https<nolink>://www.stylemanual.gov.au/referencing-and-attribution/author-date</a>(opens in a new tab)
 
 RMIT Harvard style requires in-text references and the reference list.
 
@@ -275,9 +275,9 @@ For example, if you use Vanna's (2019) ideas (the original source), which you re
 
 #### In-text reference
 
-> Previous research appears to indicate... (Vanna, cited in Martin and Rodriguez 2021).
+> Previous research appears to indicate... (Vanna 2019, cited in Martin and Rodriguez 2021).
 
-> Vanna (cited in Martin and Rodriguez 2021) suggests that...
+> Vanna (2019, cited in Martin and Rodriguez 2021) suggests that...
 
 In both examples, the ideas belong to Vanna (2019), but you paraphrased them from your reading of Martin and Rodriguez's (2021) work.
 
@@ -3640,9 +3640,11 @@ The *Australian Government Style Manual (AGSM)* does not provide information on 
 
 **If it is permissible to cite your previously submitted work:**
 
-You can quote or paraphrase from your previous work, but take care to contextualise what you quote or paraphrase to your new work.
-Treat yourself as the author and your own previous work as an unpublished paper.
-Include the year that you submitted your previous work.
+- You can quote or paraphrase from your previous work, but take care to contextualise what you quote or paraphrase to your new work.
+
+- Treat yourself as the author and your own previous work as an unpublished paper.
+
+- Include the year that you submitted your previous work.
 
 #### In-text reference: Direct quotes
 
