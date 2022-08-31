@@ -60,9 +60,9 @@
 
 - Please confirm the referencing requirements for your course with your lecturer.
 
-- Use the *Referencing and attribution* section of the <a href="https://www.stylemanual.gov.au/" target="_blank">Australian Government Style Manual (AGSM)</a> (opens in a new tab) released in 2021 to clarify referencing rules or if you need more examples. RMIT Harvard is based on this publication.
+- Use the <a href="https://www.stylemanual.gov.au/referencing-and-attribution" target="_blank">**Referencing and attribution**</a> (opens in a new tab) section of the *Australian Government Style Manual (AGSM)* released in 2021, to clarify referencing rules or if you need more examples. The RMIT Harvard guide is based on this publication.
 
-RMIT Harvard is an author-date referencing style and is based on the **author-date** referencing style of the AGSM. See: <a href="https://www.stylemanual.gov.au/referencing-and-attribution/author-date" target="_blank">https<nolink>://www.stylemanual.gov.au/referencing-and-attribution/author-date</a>(opens in a new tab)
+RMIT Harvard is an author-date referencing style based on the **Author-date** referencing style of the AGSM.
 
 RMIT Harvard style requires in-text references and the reference list.
 
