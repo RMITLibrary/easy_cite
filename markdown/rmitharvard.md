@@ -870,7 +870,7 @@ In your reference list:
 
 > Carroll H (2017) *Read this if you want to take great photographs*, Laurence King Publishing, London.
  
-> Edwards M, Howard C and Miller R (2020) *Social policy, public policy: From problem to practice*, Routledge, doi:10.4324/9781003117254.
+> Edwards M, Howard C and Miller R (2020) *Social policy, public policy: from problem to practice*, Routledge, doi:10.4324/9781003117254.
  
 > Perheentupa J (2020) *Redfern: Aboriginal activism in the 1970s*, Aboriginal Studies Press, Canberra.
  
@@ -1113,11 +1113,7 @@ In your reference list:
 
 - After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop if the work was sourced from a print (physical) journal. If the work was sourced from an online e-Journal and there is no DOI, add the database name (if sourced from library database) or URL (if sourced from website) instead. Please see section on **e-Journal article** for more details.
-
-- For database names, leave out the accessed date and add the database name at the end, followed by the word **database**.
-
-- For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). **Please see the [e-Journal article](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-2#subtype-25) section below for more details and examples.**
 
 ##### Rule
 
@@ -1171,11 +1167,7 @@ In your reference list:
 
 - After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop if the work was sourced from a print (physical) journal. If the work was sourced from an online e-Journal and there is no DOI, add the database name (if sourced from library database) or URL (if sourced from website) instead. Please see section on **e-Journal article** for more details.
-
-- For database names, leave out the accessed date and add the database name at the end, followed by the word **database**.
-
-- For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). **Please see the [e-Journal article](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-2#subtype-25) section below for more details and examples.**
 
 ##### Rule
 
@@ -1233,11 +1225,7 @@ In your reference list:
 
 - After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop if the work was sourced from a print (physical) journal. If the work was sourced from an online e-Journal and there is no DOI, add the database name (if sourced from library database) or URL (if sourced from website) instead. Please see section on **e-Journal article** for more details.
-
-- For database names, leave out the accessed date and add the database name at the end, followed by the word **database**.
-
-- For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). **Please see the [e-Journal article](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-2#subtype-25) section below for more details and examples.**
 
 ##### Rule
 
@@ -1295,11 +1283,7 @@ In your reference list:
 
 - After the second instance of the journal name, include the volume number followed by issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range is not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop if the work was sourced from a print (physical) journal. If the work was sourced from an online e-Journal and there is no DOI, add the database name (if sourced from library database) or URL (if sourced from website) instead. Please see section on **e-Journal article** for more details.
-
-- For database names, leave out the accessed date and add the database name at the end, followed by the word **database**.
-
-- For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). **Please see the [e-Journal article](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-2#subtype-25) section below for more details and examples.**
 
 ##### Rule
 
