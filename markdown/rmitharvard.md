@@ -1113,7 +1113,8 @@ In your reference list:
 
 - After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). **Please see the [e-Journal article](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-2#subtype-25) section below for more details and examples.**
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). Please see the **e-Journal article** section below for more details and examples.
+
 
 ##### Rule
 
@@ -1167,7 +1168,7 @@ In your reference list:
 
 - After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). **Please see the [e-Journal article](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-2#subtype-25) section below for more details and examples.**
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). Please see the **e-Journal article** section below for more details and examples.
 
 ##### Rule
 
@@ -1225,7 +1226,7 @@ In your reference list:
 
 - After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). **Please see the [e-Journal article](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-2#subtype-25) section below for more details and examples.**
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). Please see the **e-Journal article** section below for more details and examples.
 
 ##### Rule
 
@@ -1283,7 +1284,7 @@ In your reference list:
 
 - After the second instance of the journal name, include the volume number followed by issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range is not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). **Please see the [e-Journal article](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-2#subtype-25) section below for more details and examples.**
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). Please see the **e-Journal article** section below for more details and examples.
 
 ##### Rule
 
@@ -1480,11 +1481,9 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a library database (HTML format)
+### Newspaper article from a library database
 
 ###### start-subtype-content
-
-**Note:** Newspaper articles in HTML format appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in **PDF format with full-page format/imaging**, please treat it in the same way as a **print newspaper article**.
 
 #### In-text reference: Direct quotes
 
@@ -1534,11 +1533,9 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a library database (HTML format) with no author
+### Newspaper article from a library database with no author
 
 ###### start-subtype-content
-
-**Note:** Newspaper articles in HTML format (with or without an author) appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in **PDF format with full-page format/imaging and has no author**, please treat it in the same way as a **print newspaper article with no author**.
 
 If the newspaper article does not have a person identified as the author, begin the reference with the name of the newspaper instead (do no italicise) followed by the day, month and year of the article.
 
@@ -1586,11 +1583,9 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a webpage (HTML format) 
+### Newspaper article from a webpage
 
 ###### start-subtype-content
-
-**Note:** Newspaper articles in HTML format appear as text on the screen similar to a website. These articles are NOT in PDF format. If the article is in **PDF format with full-page format/imaging**, please treat it in the same way as a **print newspaper article**.
 
 ##### In-text reference: Direct quotes
 
@@ -1640,11 +1635,9 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a webpage (HTML format) with no author
+### Newspaper article from a webpage with no author
 
 ###### start-subtype-content
-
-**Note:** Newspaper articles in HTML format (with or without an author) appear as text on the screen similar to a website. These articles are NOT in PDF format. If the article is in **PDF format with full-page format/imaging** and has no author, please treat it in the same way as a **print newspaper article with no author**.
 
 If the newspaper article does not have a person identified as the author, begin the reference with the name of the newspaper instead (do no italicise) followed by the day, month and year of the article.
 
