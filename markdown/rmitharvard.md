@@ -1956,7 +1956,7 @@ In your reference list:
 
 - Reference specific webpages rather than a whole website; pinpoint the specific location of information.
 
-- If you need to include the organisation's homepage in the reference list, and the homepage does not have a title, put the word **Homepage** instead of a title. Do not italicise, e.g. Telstra (n.d.), Homepage, Telstra, accessed 13 December 2021. https<nolink>://www.telstra.com.au/
+- If you need to include the organisation's homepage in the reference list, and the homepage does not have a title, put the word **Homepage** instead of a title. Do not italicise, e.g. Telstra (n.d.), Homepage, Telstra website, accessed 13 December 2021. https<nolink>://www.telstra.com.au/
 
 - Include the word **website** after the name of the website. But if the name of the website is a URL (e.g. vic.gov.au), do not write the word **website**. Do not italicise the name of website.
 
