@@ -1502,11 +1502,9 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a library database (HTML format)
+### Newspaper article from a library database 
 
 ###### start-subtype-content
-
-**Note:** Newspaper articles in HTML format appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in **PDF format with full-page format/imaging**, please treat it in the same way as a **print newspaper article**.
 
 #### In-text reference: Direct quotes
 
@@ -1556,11 +1554,9 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a library database (HTML format) with no author
+### Newspaper article from a library database with no author
 
 ###### start-subtype-content
-
-**Note:** Newspaper articles in HTML format (with or without an author) appear as text on the screen similar to a website. These articles are not in PDF format. If the article is in **PDF format with full-page format/imaging and has no author**, please treat it in the same way as a **print newspaper article with no author**.
 
 If the newspaper article does not have a person identified as the author, begin the reference with the name of the newspaper instead (do no italicise) followed by the day, month and year of the article.
 
@@ -1608,11 +1604,9 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a webpage (HTML format) 
+### Newspaper article from a webpage
 
 ###### start-subtype-content
-
-**Note:** Newspaper articles in HTML format appear as text on the screen similar to a website. These articles are NOT in PDF format. If the article is in **PDF format with full-page format/imaging**, please treat it in the same way as a **print newspaper article**.
 
 ##### In-text reference: Direct quotes
 
@@ -1662,11 +1656,9 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a webpage (HTML format) with no author
+### Newspaper article from a webpage with no author
 
 ###### start-subtype-content
-
-**Note:** Newspaper articles in HTML format (with or without an author) appear as text on the screen similar to a website. These articles are NOT in PDF format. If the article is in **PDF format with full-page format/imaging** and has no author, please treat it in the same way as a **print newspaper article with no author**.
 
 If the newspaper article does not have a person identified as the author, begin the reference with the name of the newspaper instead (do no italicise) followed by the day, month and year of the article.
 
