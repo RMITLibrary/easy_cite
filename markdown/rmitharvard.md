@@ -60,9 +60,9 @@
 
 - Please confirm the referencing requirements for your course with your lecturer.
 
-- Use the *Referencing and attribution* section of the <a href="https://www.stylemanual.gov.au/" target="_blank">Australian Government Style Manual (AGSM)</a> (opens in a new tab) released in 2021 to clarify referencing rules or if you need more examples. This guide is based on this publication.
+- Use the <a href="https://www.stylemanual.gov.au/referencing-and-attribution" target="_blank">**Referencing and attribution**</a> (opens in a new tab) section of the *Australian Government Style Manual (AGSM)* released in 2021, to clarify referencing rules or if you need more examples. The RMIT Harvard guide is based on this publication.
 
-RMIT Harvard is an author-date referencing style.
+RMIT Harvard is an author-date referencing style based on the **Author-date** referencing style of the AGSM.
 
 RMIT Harvard style requires in-text references and the reference list.
 
@@ -105,23 +105,15 @@ RMIT Harvard style requires in-text references and the reference list.
 
 - If no publication year is supplied, write **n.d.** (for 'no date'). If year can be reliably estimated or inferred from the text, then write **c.** (meaning 'circa' or approximately) followed by the year.
 
-- A **secondary citation** refers to a source that is cited/referenced within another source, i.e. Source B has cited/referenced Source A (original source). Where possible, try to use the original source. A secondary citation should only be used if you are **unable** to track down and access the original source. You should also keep secondary citations to a minimum.  
+- A **secondary citation** acknowledges the work of an author (the original source) you refer to in your writing that you have read about in someone else's work. Where possible, try to use the original source. A secondary citation should only be used if you are unable to track down and access the original source. You should also keep secondary citations to a minimum. 
     
-    For example, if you use the ideas of Vanna (2019) (original source) which were cited/referenced in an article you accessed and read by Martin and Rodriguez (2021), you will need to show who the ideas belong to (Vanna 2019), and who is citing/referencing those ideas (Martin and Rodriguez 2021).
+    For example, if you use Vanna's (2019) ideas (the original source), which you read about in an article by Martin and Rodriguez (2021), you will need to show who the ideas belong to (Vanna 2019) and where you read about them (Martin and Rodriguez 2021).
 
     > **First example:** Previous research appears to indicate... (Vanna 2019, cited in Martin and Rodriguez 2021).
 
     > **Second example:** Vanna (2019, cited in Martin and Rodriguez 2021) suggests that...
-    
-    In these examples, the ideas/information belong to Vanna (2019) so they are the original source, but you paraphrased them from your accessing and reading of Martin and Rodriguez's (2021) work. Martin and Rodriguez's (2021) is where you found Vanna's (2019) ideas/information.
 
-    Here is another example where a source is citing/referencing multiple original sources:
-
-    > **Third example:** Previous research has shown that... (Blanchard and McBride 2003; Lazare 2004; Timson 2003, cited in Tucker et al. 2020)
-
-    **Note:** When a source is citing/referencing multiple original sources, it is best to put the author names of all those multiple original sources in parentheses as we did in the third example above, rather than integrate them as part of the sentence (author-prominent) as we did with the second Vanna (2019) example. The reason for this is that the in-text reference would otherwise appear harder to read which is not ideal, e.g. Blanchard and McBride, Lazare and Timson (2003; 2004; 2003, cited in Martin and Rodriguez 2021) suggest that...
-
-    In the reference list, only include the source you accessed and read (where you found the information). In the context of the above examples, you only put the Martin and Rodriguez (2021) reference or the Tucker et al. (2020) reference in the reference list. Do not include Vanna (2019) or Blanchard and McBride (2003), Lazare (2004) and Timson (2003).
+    In both examples, the ideas belong to Vanna (2019), but you paraphrased them from your reading of Martin and Rodriguez's (2021) work.
     
 - For **multiple citations in the same parentheses**, list all citations chronologically, separated by a semi-colon (;) for example:  
     
@@ -273,25 +265,25 @@ In the reference list, include the sources you referenced in the parentheses.
 
 ###### start-subtype-item
 
-### Secondary citation
+### Secondary citations
 
 ###### start-subtype-content
 
-Secondary citations acknowledge the work of an author you refer to in your writing that you have read about in someone else’s work. Where possible, try to use the original source.
+A **secondary citation** acknowledges the work of an author (the original source) you refer to in your writing that you have read about in someone else's work. Where possible, try to use the original source. A secondary citation should only be used if you are unable to track down and access the original source. You should also keep secondary citations to a minimum.
 
-For example, if you use Vanna’s ideas which you read about an article by Martin and Rodríguez, you would only need to show who the ideas belong to and also where you read about them.
+For example, if you use Vanna's (2019) ideas (the original source), which you read about in an article by Martin and Rodriguez (2021), you will need to show who the ideas belong to (Vanna 2019) and where you read about them (Martin and Rodriguez 2021).
 
 #### In-text reference
 
-> Previous research appears to indicate... (Vanna, cited in Martin and Rodriguez 2021).
+> Previous research appears to indicate... (Vanna 2019, cited in Martin and Rodriguez 2021).
 
-> Vanna (cited in Martin and Rodriguez 2021) suggests that...
+> Vanna (2019, cited in Martin and Rodriguez 2021) suggests that...
 
-In the examples, the ideas/information belong to Vanna, but you paraphrased them from your reading of Martin and Rodriguez’s work.
+In both examples, the ideas belong to Vanna (2019), but you paraphrased them from your reading of Martin and Rodriguez's (2021) work.
 
 #### Reference list entry
 
-In the reference list, include the source you read. For this example, you would **only** need to put the Martin and Rodríguez (2021) reference.
+In the reference list, only include the source you read. For this example, if you use Vanna's (2019) ideas (the original source) which you read about in an article by Martin and Rodriguez (2021), in your reference list you will only need to show where you read Vanna's (2019) ideas in (Martin and Rodriguez 2021). In this case, you would only put the Martin and Rodriguez (2021) reference in the reference list, not Vanna (2019).
 
 
 ###### end-subtype-content
@@ -340,7 +332,9 @@ In the reference list, include the source you read. For this example, you would 
 
 - If the place of publication (city name) is not commonly known (e.g. Harlow) or the place of publication could be in two or more countries, put the country name after the city. For example, Harlow, England.
 
-- If you have used a **secondary citation**, in the reference list, only include the source you accessed and read (where you found the information). For example, if you accessed and read an article by Martin and Rodriguez (2021) and you referred to the information from Vanna (2019) that Martin and Rodriguez (2021) cite/reference in their article, you would only put the Martin and Rodriguez (2021) reference in the reference list, not Vanna (2019).
+- **Secondary citations** acknowledge the work of an author (the original source) you refer to in your writing that you have read about in someone else's work. Where possible, try to use the original source. A secondary citation should only be used if you are unable to track down and access the original source. You should also keep secondary citations to a minimum.
+
+    For example, if you use Vanna's (2019) ideas (the original source) which you read about in an article by Martin and Rodriguez (2021), in your reference list you will only need to show where you read Vanna's (2019) ideas in (Martin and Rodriguez 2021). In this case, you would only put the Martin and Rodriguez (2021) reference in the reference list, not Vanna (2019).
 
 - If citing a **PDF**, link to the page where the PDF is hosted not the PDF link.
 
@@ -876,7 +870,7 @@ In your reference list:
 
 > Carroll H (2017) *Read this if you want to take great photographs*, Laurence King Publishing, London.
  
-> Edwards M, Howard C and Miller R (2020) *Social policy, public policy: From problem to practice*, Routledge, doi:10.4324/9781003117254.
+> Edwards M, Howard C and Miller R (2020) *Social policy, public policy: from problem to practice*, Routledge, doi:10.4324/9781003117254.
  
 > Perheentupa J (2020) *Redfern: Aboriginal activism in the 1970s*, Aboriginal Studies Press, Canberra.
  
@@ -1119,11 +1113,8 @@ In your reference list:
 
 - After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop if the work was sourced from a print (physical) journal. If the work was sourced from an online e-Journal and there is no DOI, add the database name (if sourced from library database) or URL (if sourced from website) instead. Please see section on **e-Journal article** for more details.
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). Please see the **e-Journal article** section below for more details and examples.
 
-- For database names, leave out the accessed date and add the database name at the end, followed by the word **database**.
-
-- For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
@@ -1177,11 +1168,7 @@ In your reference list:
 
 - After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop if the work was sourced from a print (physical) journal. If the work was sourced from an online e-Journal and there is no DOI, add the database name (if sourced from library database) or URL (if sourced from website) instead. Please see section on **e-Journal article** for more details.
-
-- For database names, leave out the accessed date and add the database name at the end, followed by the word **database**.
-
-- For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). Please see the **e-Journal article** section below for more details and examples.
 
 ##### Rule
 
@@ -1239,11 +1226,7 @@ In your reference list:
 
 - After journal title, include volume number followed issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop if the work was sourced from a print (physical) journal. If the work was sourced from an online e-Journal and there is no DOI, add the database name (if sourced from library database) or URL (if sourced from website) instead. Please see section on **e-Journal article** for more details.
-
-- For database names, leave out the accessed date and add the database name at the end, followed by the word **database**.
-
-- For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). Please see the **e-Journal article** section below for more details and examples.
 
 ##### Rule
 
@@ -1301,11 +1284,7 @@ In your reference list:
 
 - After the second instance of the journal name, include the volume number followed by issue number in parentheses. If no issue number is supplied, leave it out. After issue number, include a colon (:) followed by the page number range, i.e. start and end page. If page range is not available, put the start page instead.
 
-- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI available, end pagination with a full stop if the work was sourced from a print (physical) journal. If the work was sourced from an online e-Journal and there is no DOI, add the database name (if sourced from library database) or URL (if sourced from website) instead. Please see section on **e-Journal article** for more details.
-
-- For database names, leave out the accessed date and add the database name at the end, followed by the word **database**.
-
-- For URLs, add the accessed date (e.g. accessed 26 November 2021), followed by a full stop, a space then the URL. No full stop after URL.
+- If available, include the Digital Object Identifier (DOI) in lower case after the pagination. If no DOI is available and the work was sourced from a print (physical/hardcopy) journal, end pagination with a full stop and add no more. If the work was sourced from an online e-journal and there is no DOI, after the pagination add the accessed date and database name (if sourced from a library database) or accessed date and URL link (if sourced from a website). Please see the **e-Journal article** section below for more details and examples.
 
 ##### Rule
 
@@ -1502,7 +1481,7 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a library database 
+### Newspaper article from a library database
 
 ###### start-subtype-content
 
@@ -2519,14 +2498,14 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Artwork and images (non-artwork)
+### Artwork and images (non-artworks)
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### General rules for artworks
+#### General rules for artworks and images (non-artworks)
 
-RMIT Harvard includes the following within the definition of an artwork:
+RMIT Harvard includes the following within the definition of an **artwork:**
 
 - paintings, drawings, illustrations, prints, sculptures and ceramics
 
@@ -2582,7 +2561,7 @@ Illustrations you create of your own work are not usually referenced. However, a
 
 Make sure you refer to the figure in your writing and include the figure number. This can be in the sentence or in parentheses, for example (see Figure 1).
 
-Refer to a figure by its assigned number, not as the figure above or below or on page 3.
+Refer to a figure by its assigned number, not as the "figure above" or "figure below" or "figure on page 3", for example.
 
 **Note:**Your lecturer might require a specific long or short caption style. Whichever style you use, make sure you apply it consistently.
 
@@ -2604,7 +2583,7 @@ If the artwork or image (non-artwork) was on a website, include the URL (no full
 
 ##### Rule
 
-> {.figure-text}Figure number: Artist's or Creator's full name OR Gallery/Museum/Public space name OR Organisation's name (year produced) *Title or description of artwork or image (non-artwork)* [format], publishing details of where artwork or image (non-artwork) was sourced. {/.figure-text}
+> {.figure-text}Figure number: Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (year produced) *Title or description of artwork or image (non-artwork)* [format], publishing details of where artwork or image (non-artwork) was sourced. {/.figure-text}
 
 ##### Examples
 
@@ -2612,15 +2591,15 @@ If the artwork or image (non-artwork) was on a website, include the URL (no full
  
 > {.figure-text}Figure 4: Artist unknown (11-12th C) *Tapestry with dragons and flowers* [silk tapestry], in Jaynes A and Liaw J (1968:37). {/.figure-text}
 
-> {.figure-text}Figure 5: Henry Burn (1861) *Swanston Street from the bridge* [oil on canvas], National Gallery of Victoria, Melbourne. {/.figure-text}
+> {.figure-text}Figure 5: Burn H (1861) *Swanston Street from the bridge* [oil on canvas], National Gallery of Victoria, Melbourne. {/.figure-text}
 
-> {.figure-text}Figure 6: Mari (Maria Giovanna Colli) (2009) Bilbao_6: Guggenheim Museum Bilbao [photograph], Flickr website, accessed 13 December 2021. https<nolink>://www.flickr.com/photos/52355315@N08/5757476385/in/album-72157626677144865/ {/.figure-text}
+> {.figure-text}Figure 6: Mari (Maria Giovanna Colli) (2009) *Bilbao_6: Guggenheim Museum Bilbao* [photograph], Flickr website, accessed 13 December 2021. https<nolink>://www.flickr.com/photos/52355315@N08/5757476385/in/album-72157626677144865/ {/.figure-text}
 
 > {.figure-text}Figure 7: Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], Anatomy.tv database, accessed 19 August 2022. {/.figure-text}
 
-> {.figure-text}Figure 8: Untitled screenshot of Zelphr homepage {/.figure-text}
+> {.figure-text}Figure 8: Untitled screenshot of Zelphr homepage. {/.figure-text}
 
-#### In-text reference to artworks
+#### In-text reference to artworks or images (non-artworks)
 
 Italicise the titles of individual artworks or images (non-artworks) and use sentence case. If the artist/creator has made typographic decisions for the title where it has to appear in a certain way, use capitalisation, numbers or punctuation in exactly the same way as the artist/creator does in original title, e.g. *flight research #6*.
 
@@ -2630,9 +2609,9 @@ If you use an artwork or image (non-artwork), refer to the figure number when yo
 
 ##### Examples
 
-> The exhibition *Gabrielle Chanel. Fashion Manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11).
+> The exhibition *Gabrielle Chanel. Fashion manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11).
 
-> The purchase of Pollock's (1952) *Blue poles* created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia.
+> The purchase of Pollock's (1952) *Blue poles*, as seen in Figure 12, created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia.
 
 > As illustrated in Figure 5, the painting *Swanston Street from the bridge* (Burn 1861) depicts Melbourne's growth into a city of domes and spires.
 
@@ -2666,7 +2645,7 @@ In your reference list:
 
 ##### Examples
  
-> Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton.
+> Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton, VIC.
  
 > Pollock J (1952) *Blue poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
 
@@ -2696,11 +2675,11 @@ Chanel (n.d.) *cha_mon_ps23_003* [photograph], accessed 19 August 2022, WGSN dat
 
 **WSGN catwalk gallery**
 
-Jacobs M (n.d.) *New York autumn/winter 2022, women* [gallery of photographs], WGSN database, accessed 19 August 2022. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316
+Jacobs M (n.d.) *New York autumn/winter 2022, women* [gallery of photographs], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316
 
 **Anatomy.tv (Primal Pictures)**
 
-Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], Anatomy.tv database, accessed 19 August 2022.
+Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], accessed 19 August 2022, Anatomy.tv database.
 
 
 ###### end-subtype-content
@@ -2742,11 +2721,11 @@ If the map was on a website, include the URL (no full stop after URL) after the 
 
 ##### Rule
 
-> {.figure-text}Figure number: Cartographer’s full name OR Organisation's name (year produced) *Title of map* [format], Publishing details of where map was sourced. {/.figure-text}
+> {.figure-text}Figure number: Cartographer's family name Initial OR Organisation's name [if cartographer] (year produced) *Title of map* [format], Publishing details of where map was sourced. {/.figure-text}
 
 ##### Examples
 
-> {.figure-text}Figure 9: James Kearney (1855) *Melbourne and its suburbs: map 1* [digitised map], State Library of Victoria website, accessed 13 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
+> {.figure-text}Figure 9: Kearney J (1855) *Melbourne and its suburbs: map 1* [digitised map], State Library of Victoria website, accessed 13 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
 
 > {.figure-text}Figure 10: VicPlan (2020) *Plenty Road Bundoora 3083* [digital map], VicPlan website, accessed 13 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/. {/.figure-text}
 
@@ -2861,7 +2840,7 @@ If you are using a table or graph that has been published elsewhere, acknowledge
 
 ##### Rule
 
-> {.figure-text}Figure number: Title of table {/.figure-text}  
+> {.figure-text}Figure number: Title of table {/.figure-text}
 > {.figure-text}Source: Publishing details of where the information was sourced {/.figure-text}
 
 ##### Examples
@@ -3628,17 +3607,21 @@ In your reference list:
 
 ###### start-subtype-content
 
-You should include scholarly sources in your assignments to adhere to best practice in academic integrity. Citing yourself as an authority on your own opinion should be avoided.
+You should include the use of scholarly sources in your written assessments to adhere to best academic integrity practice. Citing yourself as an authority on your own opinion should be avoided.
 
-Referencing your own work is necessary to make sure you do not self-plagiarise.
+**Note:** Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-If you paraphrase or quote your previous work, treat yourself as the author and your own previous work as an unpublished paper.
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/my-course/assessment-results/assessment" target="_blank">Assessment Declaration</a>.
 
-Do not cut-and-paste sentences or paragraphs from previous assignment. If you are reusing your ideas, reword them (paraphrase) and take care to contextualise them to your new assignment.
+The *Australian Government Style Manual (AGSM)* does not provide information on how to cite your own work. The following is based on how to cite theses from the AGSM.
 
-Include your family name and the year that you previously submitted the work.
+**If it is permissible to cite your previously submitted work:**
 
-**Note:** Check with your lecturer or teacher if it is permissible to reuse and cite work you have previously submitted.
+- You can quote or paraphrase from your previous work, but take care to contextualise what you quote or paraphrase to your new work.
+
+- Treat yourself as the author and your own previous work as an unpublished paper.
+
+- Include the year that you submitted your previous work.
 
 #### In-text reference: Direct quotes
 
@@ -3664,21 +3647,25 @@ If your original assignment contained critique or commentary about other sources
 
 #### Reference list entry
 
-In your reference list:
+If it is permissible to cite your previously submitted work, in your reference list:
 
-- Put the title of your previous work in single inverted commas (quotation marks).
+- Treat yourself as the author and your own previous work as an unpublished paper.
 
-- After the title, provide the format of the resource and the course code in square brackets, i.e. \[unpublished paper for course code\]. For example: \[unpublished paper for HRHR1001\].
+- Include the year that you submitted your previous work.
+
+- Put the title of your previous work in italics.
+
+- After the title, provide the format of your previous work and the course code in square brackets, e.g. [unpublished paper for course code]. For example: [unpublished paper for HRHR1001].
 
 - The location is the city of the University. Add only if it is not inferred by the University name.
 
 ##### Rule
 
-> Student family name Initial (Year) 'Title of previous work' \[format\], Name of University, Location of University (if not inferred by university name).
+> Student family name Initial (Year) *Title of previous work* [format], Name of University, Location of University [if not inferred by university name].
 
 ##### Example
 
-> Smith J (2021) 'An analysis of personality theory' \[unpublished paper for HRHR1001\], RMIT University, Melbourne.
+> Smith J (2021) *An analysis of personality theory* [unpublished paper for HRHR1001], RMIT University, Melbourne.
 
 ###### end-subtype-content
 
