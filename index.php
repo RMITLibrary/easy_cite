@@ -467,7 +467,7 @@ echo($mylist);
 	<p>&nbsp;</p>
 	<div class="footerarea">
 		<div id="gotoeasycite"><a href="https://www.lib.rmit.edu.au/easy-cite/" class="footerlinks atooltip aanimate" data-tool="Link opens in a new tab" target="_blank" >Go to Easy Cite home</a> | &nbsp; </div>
-			<a href="https://forms.office.com/r/ZCZH0nR4HF" target="_blank" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here. Link opens in a new tab." >Send us feedback</a>&nbsp; |&nbsp; 
+			<a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback" target="_blank" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here. Link opens in a new tab." >Send us feedback</a>&nbsp; |&nbsp; 
 		<!-- Trigger modal -->
 			<a type="button" class="notabutton footerlinks atooltip aanimate" data-bs-toggle="modal" data-bs-target="#exampleModal" data-tool="Select this link to see copyright and licensing information">About Easy Cite</a>
 	</div>
