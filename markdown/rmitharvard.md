@@ -104,10 +104,6 @@ RMIT Harvard style requires in-text references and the reference list.
 - If the author of a reference is unknown, list the reference based on the title of the work.
 
 - If no publication year is supplied, write **n.d.** (for 'no date'). If year can be reliably estimated or inferred from the text, then write **c.** (meaning 'circa' or approximately) followed by the year.
-
-- **Secondary citations** acknowledges the work of an author (the original source) you refer to in your writing that you have read about in someone else's work. Where possible, try to use the original source. A secondary citation should only be used if you are unable to track down and access the original source. You should also keep secondary citations to a minimum. 
-    
-    For example, if you use Vanna's (2019) ideas (the original source), which you read about in an article by Martin and Rodriguez (2021), in your reference list you will only need to show where you read Vanna's (2019) ideas in (Martin and Rodriguez 2021). In this case, you would only put the Martin and Rodriguez (2021) reference in the reference list, not Vanna (2019).
     
 - For **multiple citations in the same parentheses**, list all citations chronologically, separated by a semi-colon (;) for example:  
     
@@ -325,10 +321,6 @@ In the reference list, only include the source you read. For this example, if yo
 - If there is no place of publication, use **n.p.** (for 'no place').
 
 - If the place of publication (city name) is not commonly known (e.g. Harlow) or the place of publication could be in two or more countries, put the country name after the city. For example, Harlow, England.
-
-- **Secondary citations** acknowledge the work of an author (the original source) you refer to in your writing that you have read about in someone else's work. Where possible, try to use the original source. A secondary citation should only be used if you are unable to track down and access the original source. You should also keep secondary citations to a minimum.
-
-    For example, if you use Vanna's (2019) ideas (the original source) which you read about in an article by Martin and Rodriguez (2021), in your reference list you will only need to show where you read Vanna's (2019) ideas in (Martin and Rodriguez 2021). In this case, you would only put the Martin and Rodriguez (2021) reference in the reference list, not Vanna (2019).
 
 - If citing a **PDF**, link to the page where the PDF is hosted not the PDF link.
 
