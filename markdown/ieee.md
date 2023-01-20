@@ -56,7 +56,7 @@
 
 - Confirm the referencing requirements of your School with your lecturer, and
 
-- Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide, 2021</a> (opens in a new tab)(PDF, 1.37Kb, 43 pages) to clarify referencing rules or if you need more examples. This guide is based on this publication.
+- Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide, 2022</a> (opens in a new tab)(PDF, 1.37Kb, 43 pages) to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
 The IEEE (Institute of Electrical and Electronics Engineers) citation style is a **numbered** style where references are numbered [1], [2], [3] in-text and so on in the order of appearance in the body of the document. A **Reference List** at the end of the work provides full details of all references cited in-text. The references are ordered as they appear in the in-text references (in order of citation, not in alphabetical order). You need to follow this style when acknowledging your information sources.
 
@@ -79,29 +79,29 @@ Download the IEEE referencing guide (DOCX, 74.8 KB, 14 pages) from the IEEE Auth
 
 - In your writing, you must acknowledge each author or source of information (whether print or online) either by **paraphrasing** or using a direct quote.
 
-- References that are cited in-text MUST appear as a number within square brackets, and need to come before any punctuation with a space before the bracket.
+- References that are cited in-text must appear as a number within square brackets, and placed before any punctuation with a space before the bracket [5].
 
-- Numbered references used in-text MUST start at [1] and continue in **ascending** order within the body of the work.
-Once a source has been cited and allocated a reference number, the same reference number MUST be used throughout the body of a work if it’s referred to multiple times.
-
-- Numbered citations may be treated grammatically as footnote numbers in the text e.g. As demonstrated by Smith [5] . . . OR, For further details, see [1], [5], [7].
-
-- Numbered citations may also be treated as nouns in the text e.g. According to [7] . . . OR, As mentioned in [4], [5], [6]-[8] . . . (note the use of the **en dash** symbol ‘–’ between a source range).
-
-- The **en-dash** symbol should be used between a source range e.g. [6]-[8]. The en-dash is wider than the hyphen and can be typed by holding down **Alt + 0150** on the numeric keypad.
+- Numbered references used in-text start at [1] and continue in **ascending** order within the body of the work.
+Once a source has been cited and allocated a reference number, the same reference number must be used throughout the body of a work if it’s referred to multiple times.
 
 - List all multiple citations in ascending numerical order e.g. [1], [5], [6]-[8] or as [1,5], [6-8].
 
-- It is NOT necessary to mention either the author(s) or dates of any work cited in-text.
+- Numbered citations may be treated grammatically as footnote numbers in the text e.g. As demonstrated by Smith [5] . . . OR, For further details, see [1], [5], [7].
+
+- Numbered citations may also be treated as nouns in the text e.g. According to [7] . . . OR, As mentioned in [4], [5], [6]-[8].
+
+- Use a dash between source range eg. [6]-[8] and include the dash outside of the brackets.  
+
+- It is **not** necessary to mention either the author(s) or dates of any work cited in-text.
 
 - If referring to authors in the body of the text, then all author family names must be listed up to **two** authors. If there are **three or more** authors, then cite only the family name of the first author followed by **et al.** for the first and subsequent citations.
 
-- When directly quoting, that is using the exact words that an author has used, you must enclose the quote in double quotation marks “ ” and allocate a citation number along with the page number(s) in square brackets.
+- When directly quoting, that is using the exact words that an author has used, enclose the quote in double quotation marks “ ” and allocate a citation number along with the page number(s) in square brackets [5, p.74].
 
 - In your writing, **acronyms** should be written out in full the first time referred to, followed by the acronym in parentheses. For subsequent occurrences, the use of the acronym is acceptable. See the **Abbreviations** section for more details.
 
 #### Paraphrasing
-Paraphrasing is when you are expressing the ideas of the author(s) in your own words. When paraphrasing, it’s acceptable to include only the citation as a number in square brackets, or as a number along with the author’s family name as part of your sentence.
+Paraphrasing is when you express the ideas of the author(s) in your own words. When paraphrasing, it’s acceptable to include only the citation as a number in square brackets, or as a number along with the author’s family name as part of your sentence.
 
 *Note: When paraphrasing, the citation details can be placed at the beginning, middle or end of a sentence.*
 
@@ -141,7 +141,7 @@ Direct quotes are used when you are using the exact words of the author(s). Put 
 
 #### Citing a source with no page number(s)
 
-If the work you are referencing does NOT contain page numbers, then use chapter numbers, section headings and paragraph numbers as part of the in-text reference.
+If the work you are referencing does not contain page numbers, then use chapter numbers, section headings and paragraph numbers as part of the in-text reference.
 
 > "Many physical dynamic systems can be represented and modeled by first-order differential equations" [1, Ch. 3, para. 1].
 
@@ -174,16 +174,6 @@ If citing the same reference within the body of the text, then use the same cita
 
 - [1, Fig. 31] a figure
 
-- [1, Sec. 6.5] a section
-
-- [1, Tab. 12] a table
-
-- [1, eq. (7)] an equation
-
-- [1, Appendix IV] an appendix
-
-- [1, Algorithm 9] an algorithm
-
 ###### end-subtype-content
 
 ###### end-subtype-item
@@ -196,7 +186,7 @@ If citing the same reference within the body of the text, then use the same cita
 
 ###### start-subtype-content
 
-If listing multiple citations within a sentence of text, then the preferred method is to list each citation number separately, or by inserting a **comma** or **en dash** between each number.
+If listing multiple citations within a sentence of text, list each citation number separately, or by inserting a **comma** or **dash** between each number.
 
 List all **multiple citations** in ascending numerical order e.g. [1], [6], [9]. Or [5-8].
 
@@ -224,11 +214,11 @@ It is also acceptable for multiple citations to be listed the following way in-t
 
 A secondary citation is used when you acknowledge the work of an author that you have read about in another author’s work.
 
-The IEEE referencing style does **NOT** allow for the use of secondary citations.
+The IEEE referencing style does **not** allow for the use of secondary citations.
 
-If a secondary citation has to be used, then the original source MUST be located and cited.
+If a secondary citation has to be used, then the original source must be located and cited.
 
-If the original source cannot be located, then do NOT cite it.
+If the original source cannot be located, then do **not** cite it.
 
 ###### end-subtype-content
 
@@ -252,7 +242,7 @@ Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for 
 
 #### Word abbreviations
 
-Standard IEEE words when used in a reference should be abbreviated. See the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2021)</a> (opens in a new tab) pp. 20–24.
+Standard IEEE words when used in a reference should be abbreviated. See the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
 
 #### Journal title abbreviations
 
@@ -325,15 +315,13 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 
 #### Digital object identifier (DOI)
 
-When citing electronic sources such as e-journal articles or e-books, you ****MUST** include a digital object identifier (DOI) if stated. A DOI is a unique identifier that is assigned to certain electronic sources, and provides a persistent link to online content.
+When citing electronic sources such as e-journal articles or e-books, you **must** include a digital object identifier (DOI) if stated. A DOI is a unique identifier that is assigned to certain electronic sources, and provides a persistent link to online content. 
 
-The DOI can be added to the reference list using the following formats:
+The DOI can be added to the reference list using the following format: doi:xx.xxxxxxxxxxxx.
 
-> 1. doi:xx.xxxxxxxxxxxx.
+if a URL is available for that source that must also be included. 
 
-> 2. http<nolink>://dx.doi.org/xxxxxxxxxxxxx.
-
-> 3. https<nolink>://doi.org/xxxxxxxxxxxxxxx.
+If a reference contains both a DOI or accessed date, as well as a URL, place the DOI or accessed date first and the URL at the end.
 
 If no DOI is assigned, include either the journal/database homepage URL if taken from a library database, or the full URL if taken from a source on the open web.
 
@@ -388,11 +376,11 @@ Cities in other countries (outside the USA and UK) just need to include the city
 
 [8] &nbsp;&nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow
 
-[9] &nbsp;&nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, doi: http<nolink>://doi.org/10.4225/08/5913e0247881b.
+[9] &nbsp;&nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, doi:10.4225/08/5913e0247881b.
 
 [10] &nbsp; K. Deby, “Multinode temperature sensor,” Patent 2016102110, 2016. [Online]. Available: https<nolink>://www.austpat/189907465454.com
 
-[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: https<nolink>://www.saiglobal/ieee2743287647644
+[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online].doi:10.1002/9781119573784.ch18. Available: https<nolink>://www.saiglobal/ieee2743287647644
 
 [12] &nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: https<nolink>://researchrepository.rmit.edu.au/esploro/outputs/doctoral/A-model-formulation-approach-for-system/9921863821301341?institution=61RMIT_INST#file-0
 {/.ieee-refs}
@@ -657,9 +645,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a book chapter make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of the chapter," in *Title of the Book*, Ed., (editor if available), ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication, pp. chapter/s or first and last pages of the article.
+Author(s) initials. Family name(s), "Title of the chapter," in *Title of the Book*, Ed., (editor if available), ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication, ch., pp.
 
-> {.ieee-refs}[2] &nbsp;&nbsp; L. B. Wagenaar, "Electrical bushings," in *Electric Power Transformer Engineering*, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, pp. 1-24. {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; L. B. Wagenaar, "Electrical bushings," in *Electric Power Transformer Engineering*, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, ch.9, pp. 1-24. {/.ieee-refs}
 
 ###### end-subtype-content
 
