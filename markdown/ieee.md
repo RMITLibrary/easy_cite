@@ -62,9 +62,9 @@ The IEEE (Institute of Electrical and Electronics Engineers) citation style is a
 
 ##### Additional resources
 
-Download the IEEE referencing guide (DOCX, 74.8 KB, 14 pages) from the IEEE Author Center:
+Download the IEEE referencing guide (PDF, 685 KB, 43 pages) from the IEEE Author Center:
  
-<a href="https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/" target="_blank">Referencing guides for printing list</a> (opens in a new tab).
+<a href="http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">Referencing guides for printing list</a> (opens in a new tab).
 
 
 ###### end-subtype-content
@@ -131,7 +131,7 @@ Paraphrasing is when you express the ideas of the author(s) in your own words. W
 
 When paraphrasing, page numbers are not usually used as part of the citation, unless it intends to help the reader to locate the source of the information in a lengthy or complex document.
 
-*Note: Including page numbers when paraphrasing is optional, and is NOT a requirement of the IEEE referencing style.*
+*Note: Including page numbers when paraphrasing is optional, and is not a requirement of the IEEE referencing style.*
 
 #### Direct quotes
 
@@ -164,7 +164,7 @@ If you omit words from a direct quote, you will need to add a space followed by 
 
 ###### start-subtype-content
 
-If citing the same reference within the body of the text, then use the same citation number throughout the text. IEEE does NOT allow for the use of terms such as “ibid.” or “op. cit.” when citing the same reference multiple times. Instead, if the same source is cited multiple times, then it is preferable to distinguish between these with reference to the appropriate section, for example:
+If citing the same reference within the body of the text, then use the same citation number throughout the text. IEEE does **not** allow for the use of terms such as “ibid.” or “op. cit.” when citing the same reference multiple times. Instead, if the same source is cited multiple times, then it is preferable to distinguish between these with reference to the appropriate section, for example:
 
 - [1, p. 15] when directly quoting a single page
 
@@ -236,7 +236,7 @@ If the original source cannot be located, then do **not** cite it.
 
 When citing journals, patents and websites, use the following abbreviations for months:
 
-> Jan., Feb., Mar., Apr., May, June, July, Aug., Sept., Oct., Nov., and Dec. (*note that some months appear in full and DO NOT require a full stop*).
+> Jan., Feb., Mar., Apr., May, Jun,, Jul., Aug., Sept., Oct., Nov., and Dec. (*note that the month of May appears in full and does not require a full stop*).
 
 Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for a quarterly issue e.g. June–Aug. 2015.
 
@@ -246,19 +246,19 @@ Standard IEEE words when used in a reference should be abbreviated. See the **Us
 
 #### Journal title abbreviations
 
-If referencing any IEEE journal titles, then refer to the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) document.
+If referencing any IEEE journal titles, then refer to the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
 
 #### Magazine title abbreviations
 
-When referencing IEEE magazine titles, then refer to the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Magazine-Titles-and-Abbreviations.pdf" target="_blank">IEEE Magazine Titles and Reference Abbreviations (2018)</a> (opens in a new tab) document.
+When referencing IEEE magazine titles, then refer to the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
 
 #### Conference proceeding abbreviations
 
-When citing conference proceedings, the common rule is to list the author(s), title, name and location (if provided) of the conference and use any standard abbreviations where necessary. For further details, refer to the **Conferences and Conference Proceedings** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2021)</a> (hopens in a new tab) p. 5.
+When citing conference proceedings, the common rule is to list the author(s), title, name and location (if provided) of the conference and use any standard abbreviations where necessary. For further details, refer to the **Conferences and Conference Proceedings** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) p. 6.
 
 #### Publisher abbreviations
 
-For a list of some publisher abbreviations refer to the **List of Publishers** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2021)</a> (opens in a new tab) pp. 24–39.
+For a list of some publisher abbreviations refer to the **List of Publishers** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 24–40.
 
 #### Acronyms in-text
 
@@ -305,7 +305,7 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 
 - Capitalise and italicise titles where appropriate.
 
-- Do NOT combine references – only one reference per number. See **Example of a reference list** section for formatting details.
+- Do not combine references – only one reference per number. See **Example of a reference list** section for formatting details.
 
 - Include a retrieval statement in the form of a URL (where possible) if the reference is taken from an electronic or online source, or alternatively, where stated in the rules, a database name. There is **no** full stop after a URL, and the URL should not be hyperlinked.
 
@@ -380,7 +380,7 @@ Cities in other countries (outside the USA and UK) just need to include the city
 
 [10] &nbsp; K. Deby, “Multinode temperature sensor,” Patent 2016102110, 2016. [Online]. Available: https<nolink>://www.austpat/189907465454.com
 
-[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online].doi:10.1002/9781119573784.ch18. Available: https<nolink>://www.saiglobal/ieee2743287647644
+[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online].doi:<nolink>10.1002/9781119573784.ch18. Available: https<nolink>://www.saiglobal/ieee2743287647644
 
 [12] &nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: https<nolink>://researchrepository.rmit.edu.au/esploro/outputs/doctoral/A-model-formulation-approach-for-system/9921863821301341?institution=61RMIT_INST#file-0
 {/.ieee-refs}
@@ -744,7 +744,7 @@ Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the fi
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the  <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">Useful Abbreviations in References(2022)</a> (opens in a new tab) or the  <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -790,7 +790,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf" target="_blank">Useful Abbreviations in References(2022)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -840,7 +840,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">Useful Abbreviations in References (2022)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -890,7 +890,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf" target="_blank">Useful Abbreviations in References (2022)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -940,7 +940,7 @@ Author initials. Family name, "Title of article," abbrev. *Title of Journal*, vo
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">Useful Abbreviations in References (2022)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -986,7 +986,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf" target="_blank">Useful Abbreviations in References (2022)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -1032,7 +1032,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf" target="_blank">Useful Abbreviations in References(2022)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -1089,7 +1089,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IUseful Abbreviations in References (2022)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -1135,7 +1135,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazi
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Useful Abbreviations in References(2022)](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
 
@@ -1187,7 +1187,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazi
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Conference paper, published in proceedings
+### Conference paper, Online
 
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -1210,9 +1210,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a conference paper that has been published in proceedings make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of paper," in abbrev. *Title of Proceedings*, Place of Publication, Year (only if not already stated in title), pp. first and last pages of paper, doi:. (if available)
+Author(s) initials. Family name(s), (Date). Title of paper. Presented at Abbreviated Conf. title. [Online]. Available: site/path/file 
 
-> {.ieee-refs}[5] &nbsp;&nbsp; B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Computational Intelligence and Communication Networks (CICN)*, Los Alamitos, CA, USA, pp. 1354-1357, doi:10.1109/62.811091. {/.ieee-refs}
+> {.ieee-refs}[5] &nbsp;&nbsp; Y.S. Sergeev,  S.V. Sergeev, and G.E. Karpov, (2019). Modeling Three-Dimensional Liquid Flows in Computer-Controlled Vibrojet Mixer Using FlowVision. Presented at 5th Int. Conf. on Ind. Eng. (ICIE). [Online]. Available:  doi: 10.1007/978-3-030-22063-1_145 . {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1222,7 +1222,7 @@ Author(s) initials. Family name(s), "Title of paper," in abbrev. *Title of Proce
 
 ###### start-subtype-item
 
-### Conference paper, presented (not published in proceedings)
+### Conference paper, print
 
 ###### start-subtype-content
 
@@ -1244,9 +1244,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a conference paper that has been presented make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of paper," presented at the abbrev. Title and Year of Conference. [Online]. Available: site/path/file
+Author(s) initials. Family name(s), “Title of paper,” in Abbreviated Name of Conf., (location of conference is optional), (Month and
+day(s) if provided) year, pp. xxx-xxx.
 
-> {.ieee-refs}[5] &nbsp;&nbsp; X. Yang, "NIRA: A new internet routing architecture," presented at the ACM SIGCOMM FDNA 2003 Workshop. [Online]. Available: http<nolink>://www.isi.edu/newarch/DOCUMENTS/yang.nira.pdf {/.ieee-refs}
+
+> {.ieee-refs}[5] &nbsp;&nbsp;P. J. Cornwell, "Implementing a program to motivate math and science grade school classrooms," in Proc. IEEE Frontiers in Educ. Conf., Washington, DC, USA, 1993, pp. 529-534. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1289,7 +1291,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing reports from a print source with an author(s) make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if available), Month Day (if available), Year of Publication.
+Author(s) initials. Family name(s), "Title of report," Abbrev. name of Company, City of Company, abbrev. US State (if applicable), Country, Report Number/Type (if available), Year of Publication.
 
 > {.ieee-refs}[6] &nbsp;&nbsp; M. L. James, “A history of Australia’s space involvement,” Australian National University, Canberra, Australia, Working Paper 241, Nov. 1991. {/.ieee-refs}
 
@@ -1301,7 +1303,7 @@ Author(s) initials. Family name(s), "Title of report," Publisher, Place of Publi
 
 ###### start-subtype-item
 
-### Report, print (corporate author)
+### Report, online
 
 ###### start-subtype-content
 
@@ -1321,83 +1323,15 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing reports from a print source with a corporate author make sure to include the following information where available:
+When citing reports from an online source make sure to include the following information where available:
 
-Organisation/company name, "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if available), Month Day (if available), Year of Publication.
+Organisation/company name, "Title of report," Company, City, abbrev. US State (if applicable), Country, Report Number/Type (if available). Date. Accessed Date. [Online]. Available: site/path/file
 
-> {.ieee-refs}[6] &nbsp;&nbsp; National Aeronautics and Space Administration, “Space flight: The first 30 years,” NASA, Washington, DC, USA, Report 1, 1991. {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-
-###### start-subtype-item
-
-### Report, online
-
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> The experimental design described in [6] allowed the engineer to measure the number of words correctly received by each listener.
-
-> Catellier and Voran [6] describe the design, implementation and analysis of a speech intelligibility test.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
-
-> Catellier and Voran state that "There may be negative consequences for speech intelligibility even as it becomes particularly important to coordinate the new personnel" [6, p. 3].
-
-#### Reference list
-
-When citing reports from an online source with an author(s) make sure to include the following information where available:
-
-Author(s) initials. Family name(s), "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if not in title), Month Day, Year of Publication. [Online]. Available: site/path/file
-
-> {.ieee-refs}[6] &nbsp;&nbsp; A. A. Catellier and S. D. Voran, “NTIA technical report TR-17-522: Intelligibility of selected speech codecs in frame-erasure conditions,” NTIA, Washington, DC, USA, May 5, 2016. [Online]. Available: https<nolink>://www.its.bldrdoc.gov/publications/3165.aspx {/.ieee-refs}
+> {.ieee-refs}[6] &nbsp;&nbsp;A. A. Catellier and S. D. Voran, “NTIA technical report TR-17-522: Intelligibility of selected speech codecs in frame-erasure conditions,” NTIA, Washington, DC, USA, May 5, 2016. Accessed 21 Sep. 2017. [Online]. Available: https://www.its.bldrdoc.gov/publications/3165.aspx {/.ieee-refs}
 
 ###### end-subtype-content
 
 ###### end-subtype-item
-
-
-
-###### start-subtype-item
-
-### Report, online (corporate author)
-
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> Water supply systems are being impacted due to Victoria's population growth [6].
-
-> Water saving initiatives are already being implemented such as large reservoirs, desalination plants and pipelines, according to the Victorian State Government [6].
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
-
-> The report states that "a key challenge for engineers is helping protect and enhance our state's biodiversity, together with maintaining the viability of the agricultural sector, which is essential to all Victorians" [6, p.12].
-
-#### Reference list
-
-When citing reports from an online source with a corporate author make sure to include the following information where available:
-
-Organisation/company name, "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report number/Type, Month Day (if available), Year of Publication. [Online]. Available: name of database or site/path/file
-
-> {.ieee-refs}[6] &nbsp;&nbsp; State of Victoria (Department of Treasury and Finance), “Victorian state of engineering 2018,” Victoria State Government, Melbourne, Australia, 2018. [Online]. Available: http<nolink>://nla.gov.au/nla.obj-1562872137/view {/.ieee-refs}
-
-
-
-###### end-subtype-content
 
 ###### end-subtype-item
 
