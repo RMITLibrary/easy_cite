@@ -345,6 +345,8 @@ Below is an example of a reference list displaying various resource types includ
 
 AASW (Australian Association of Social Workers) (2021) *Annual report 2020-2021*, AASW website, accessed 13 December 2021. https<nolink>://www.aasw.asn.au/publications/reports
 
+Cassiano DR, Bertoncini BV and de Oliveira LK (2021) 'A conceptual model based on the activity system and transportation system for sustainable urban freight transport', Sustainability,  13(10):5642, doi:10.3390/su13105642.
+
 *Child Wellbeing and Safety Act 2005* (Vic).
 
 Day T (2018) *Success in academic writing*, 2nd edn, Palgrave, Basingstoke.
