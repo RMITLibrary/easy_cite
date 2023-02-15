@@ -1,4 +1,4 @@
-<!-- IEEE Style Guide -->
+'ll <!-- IEEE Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
@@ -238,7 +238,7 @@ When citing journals, patents and websites, use the following abbreviations for 
 
 > Jan., Feb., Mar., Apr., May, Jun,, Jul., Aug., Sept., Oct., Nov., and Dec. (*note that the month of May appears in full and does not require a full stop*).
 
-Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for a quarterly issue e.g. June–Aug. 2015.
+Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for a quarterly issue e.g. Jun–Aug. 2015.
 
 #### Word abbreviations
 
@@ -317,7 +317,7 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 
 When citing electronic sources such as e-journal articles or e-books, you **must** include a digital object identifier (DOI) if stated. A DOI is a unique identifier that is assigned to certain electronic sources, and provides a persistent link to online content. 
 
-The DOI can be added to the reference list using the following format: doi:xx.xxxxxxxxxxxx.
+The DOI can be added to the reference list using the following formats: doi:xx.xxxxxxxxxxxx or http://doi:xx.xxxxxxxxxxxxx
 
 if a URL is available for that source that must also be included. 
 
@@ -329,7 +329,7 @@ If no DOI is assigned, include either the journal/database homepage URL if taken
 
 #### Place of publication
 
-For the place of publication, add the city, and then include the state code (if applicable) and country name, followed by the publisher and year of publication.
+For the place of publication, add the city, and then include the state abbreviation (if applicable) and country name, followed by the publisher and year of publication.
 
 Cities in the USA need the city name, state abbreviation and country abbreviation.
 
@@ -376,7 +376,7 @@ Cities in other countries (outside the USA and UK) just need to include the city
 
 [8] &nbsp;&nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow
 
-[9] &nbsp;&nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, doi:10.4225/08/5913e0247881b.
+[9] &nbsp;&nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, http://doi:10.4225/08/5913e0247881b.
 
 [10] &nbsp; K. Deby, “Multinode temperature sensor,” Patent 2016102110, 2016. [Online]. Available: https<nolink>://www.austpat/189907465454.com
 
@@ -1417,6 +1417,37 @@ Organisation/company name. "Title of Webpage." Title of Website (if available). 
 ###### end-subtype-content
 
 ###### end-subtype-item
+ 
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Blog
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> Updating the Kinect software has enabled the creators to track a maximum of 25 body joints; 20% more than the first version, and now including fists and thumbs [9].
+
+> Pterneas [9] relates that updating the Kinect software has enabled the creators to track a maximum of 25 body joints; 20% more than the first version, and now including fists and thumbs.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: Page numbers are NOT required for this format type.*
+
+> "The initial version of Kinect allowed us to track up to 20 body joints. The second version allows up to 25 joints. The new joints include the fists and thumbs!" [9].
+
+#### Reference list
+
+When citing a blog make sure to include the following information where available:
+
+Author(s) initials. Family name(s), Place of Publication City, abbrev. US State (if applicable), Country. Title of Blog. Release date (Month Day if available, Year). Accessed Month Day, Year. [Blog]. Available: site/path/file
+
+> {.ieee-refs}[9] &nbsp;&nbsp; V. Pterneas, Kinect for windows version 2: Body tracking, (Mar. 13, 2014). Accessed June 2, 2017. [Blog]. Available: https<nolink>://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/ {/.ieee-refs}
 
 
 ###### end-subtype
@@ -1545,47 +1576,6 @@ Podcast Owner/Creator, Place of Publication City, abbrev. US State (if applicabl
 ###### end-type-content
 
 <!-- Other sources - links to the ninth type menu item -->
-###### start-type-content
-
-###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### Blog
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> Updating the Kinect software has enabled the creators to track a maximum of 25 body joints; 20% more than the first version, and now including fists and thumbs [9].
-
-> Pterneas [9] relates that updating the Kinect software has enabled the creators to track a maximum of 25 body joints; 20% more than the first version, and now including fists and thumbs.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
-
-*Note: Page numbers are NOT required for this format type.*
-
-> "The initial version of Kinect allowed us to track up to 20 body joints. The second version allows up to 25 joints. The new joints include the fists and thumbs!" [9].
-
-#### Reference list
-
-When citing a blog make sure to include the following information where available:
-
-Author(s) initials. Family name(s), Place of Publication City, abbrev. US State (if applicable), Country. Title of Blog. Release date (Month Day if available, Year). Accessed Month Day, Year. [Blog]. Available: site/path/file
-
-> {.ieee-refs}[9] &nbsp;&nbsp; V. Pterneas, Kinect for windows version 2: Body tracking, (Mar. 13, 2014). Accessed June 2, 2017. [Blog]. Available: https<nolink>://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/ {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
 
 ###### start-subtype-item
 
