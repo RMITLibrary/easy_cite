@@ -79,16 +79,16 @@ Download the IEEE referencing guide (DOCX, 74.8 KB, 14 pages) from the IEEE Auth
 
 - In your writing, you must acknowledge each author or source of information (whether print or online) either by **paraphrasing** or using a direct quote.
 
-- References that are cited in-text MUST appear as a number within square brackets, and need to come before any punctuation with a space before the bracket.
+- References that are cited in-text appear as a number within square brackets, and need to come before any punctuation with a space before the bracket.
 
-- Numbered references used in-text MUST start at [1] and continue in **ascending** order within the body of the work.
+- Numbered references used in-text start at [1] and continue in **ascending** order within the body of the work.
 Once a source has been cited and allocated a reference number, the same reference number MUST be used throughout the body of a work if it’s referred to multiple times.
 
 - Numbered citations may be treated grammatically as footnote numbers in the text e.g. As demonstrated by Smith [5] . . . OR, For further details, see [1], [5], [7].
 
 - Numbered citations may also be treated as nouns in the text e.g. According to [7] . . . OR, As mentioned in [4], [5], [6]-[8] . . . (note the use of the **en dash** symbol ‘–’ between a source range).
 
-- The **en-dash** symbol should be used between a source range e.g. [6]-[8]. The en-dash is wider than the hyphen and can be typed by holding down **Alt + 0150** on the numeric keypad.
+- A hyphen symbol should be used between a source range e.g. [6]-[8].
 
 - List all multiple citations in ascending numerical order e.g. [1], [5], [6]-[8] or as [1,5], [6-8].
 
