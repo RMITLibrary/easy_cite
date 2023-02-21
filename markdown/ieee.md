@@ -1,4 +1,4 @@
-'ll <!-- IEEE Style Guide -->
+<!-- IEEE Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
@@ -1334,8 +1334,6 @@ Organisation/company name, "Title of report," Company, City, abbrev. US State (i
 
 ###### end-subtype-item
 
-###### end-subtype-item
-
 
 ###### end-subtype
 
@@ -1450,6 +1448,9 @@ Author(s) initials. Family name(s), Place of Publication City, abbrev. US State 
 
 > {.ieee-refs}[9] &nbsp;&nbsp; V. Pterneas, Kinect for windows version 2: Body tracking, (Mar. 13, 2014). Accessed June 2, 2017. [Blog]. Available: https<nolink>://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/ {/.ieee-refs}
 
+###### end-subtype-content
+
+###### end-subtype-item
 
 ###### end-subtype
 
@@ -1581,42 +1582,6 @@ Podcast Owner/Creator, Place of Publication City, abbrev. US State (if applicabl
 ###### start-type-content
 
 ###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### Blog
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> Updating the Kinect software has enabled the creators to track a maximum of 25 body joints; 20% more than the first version, and now including fists and thumbs [9].
-
-> Pterneas [9] relates that updating the Kinect software has enabled the creators to track a maximum of 25 body joints; 20% more than the first version, and now including fists and thumbs.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
-
-*Note: Page numbers are NOT required for this format type.*
-
-> "The initial version of Kinect allowed us to track up to 20 body joints. The second version allows up to 25 joints. The new joints include the fists and thumbs!" [9].
-
-#### Reference list
-
-When citing a blog make sure to include the following information where available:
-
-Author(s) initials. Family name(s). "Page Title." Title of Blog. Accessed: abbrev. Month Day, Year. [Online]. Available: site/path/file
-
-> {.ieee-refs}[9] &nbsp;&nbsp; V. Pterneas. "Kinect for Windows version 2: Body tracking." Blog - Vangos Pterneas. Accessed: Jun. 2, 2017. [Online]. Available: https<nolink>://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/ {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
 
 ###### start-subtype-item
 
