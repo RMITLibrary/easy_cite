@@ -392,7 +392,7 @@ Legal abbreviations for English language legal publications, from the British Is
 
 | Title | Year | Jurisdiction | Pinpoint |
 | ------ | ------ | ------ | ------ |
-| *Copyright Act* | 1968 | (Cth) | s 1 |
+| *Copyright Act* | *1968* | (Cth) | s 1 |
 
 - Both the title of the act and the year in which the act was passed appear in italics.
 - The jurisdiction is abbreviated and within parentheses '( )'.
