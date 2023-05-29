@@ -519,7 +519,7 @@ These rules apply when referencing both printed books and e-books.
 
 | Author | Title | Publication details |
 | ------ | ------ | ------ |
-| Geoffrey A Manne and Joshua D Wright, | Competition Policy and Patent Law under Un­certainty Regulating Innovation | (Cambridge University Press, 2011) |
+| Geoffrey A Manne and Joshua D Wright, | *Competition Policy and Patent Law under Un­certainty Regulating Innovation* | (Cambridge University Press, 2011) |
 
 - Where there are two or three authors, the names of all authors should be included and the word 'and' should separate the names of the last two authors.
 
@@ -566,7 +566,7 @@ These rules apply when referencing both printed books and e-books.
 
 | Author | Chapter title | in Author | Title | Details |
 | ------ | ------ | ------ | ------ | ------ |
-| William Gough, | 'Securities over Debts' | in Gregory Burton (ed), | Directions in Finance Law | (Butterworths, 1990) |
+| William Gough, | 'Securities over Debts' | in Gregory Burton (ed), | *Directions in Finance Law* | (Butterworths, 1990) |
 
 When citing chapters in a book list the author and enclose the title of the chapter in single inverted commas - do **not** italicise the title.
 
@@ -678,7 +678,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 | Two authors | Title | Year | Vol. & Issue | Journal | Page |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Samantha Joseph and Erin Mackay, | 'Moral Rights and Indigenous Communities' | 2006 | 3 | Art and Law, | 6 |
+| Samantha Joseph and Erin Mackay, | 'Moral Rights and Indigenous Communities' | 2006 | 3 | *Art and Law*, | 6 |
 
 - When citing the names of the authors, they should appear in the exact order as they are listed in the source material.
 
