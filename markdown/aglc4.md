@@ -655,7 +655,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 #### Footnote example
 
-> <sup>1</sup> Dan Meagher, 'Digital Sampling/Remix Culture' (2012) 17(2) *Deakin Law Review*, 307.
+> <sup>1</sup> Dan Meagher, 'Digital Sampling/Remix Culture' (2012) 17(2) *Deakin Law Review* 307.
 
 #### Pinpoint example
 
