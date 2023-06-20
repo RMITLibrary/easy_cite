@@ -465,7 +465,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Reference list
 
-> {.hanging-indent}Sullivan, E. J. (2013). *Becoming influential: A guide for nurses* (2nd ed.). Pearson.
+> {.hanging-indent}Sullivan, E. J. (2013). *Becoming influential: A guide for nurses* (2nd ed.). Pearson. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -496,7 +496,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 List both authors, and separate the names with an ampersand symbol **&**.
 
-> Pastorino, E., & Doyle-Portillo, S. (2016). *What is psychology?: Foundations, applications and integration*. Cengage Learning.
+> {.hanging-indent}Pastorino, E., & Doyle-Portillo, S. (2016). *What is psychology?: Foundations, applications and integration*. Cengage Learning. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -527,7 +527,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 List all authors, placing an ampersand symbol **&** before the last name.
 
-> Kraemer, W. J., Fleck, S. J., & Deschenes, M. R. (2016). *Exercise physiology: Integrating theory and application* (2nd ed.). Wolters Kluwer.
+> {.hanging-indent}Kraemer, W. J., Fleck, S. J., & Deschenes, M. R. (2016). *Exercise physiology: Integrating theory and application* (2nd ed.). Wolters Kluwer. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -544,7 +544,7 @@ List all authors, placing an ampersand symbol **&** before the last name.
 
 Include the edition number followed by the abbreviation **ed.** in brackets after the book title. If the book is a first edition, or no edition is stated, do NOT include the edition number.
 
-> Mash, E. J., & Wolfe, D. A. (2013). *Abnormal child psychology* (5th ed.). Wadsworth.
+> {.hanging-indent}Mash, E. J., & Wolfe, D. A. (2013). *Abnormal child psychology* (5th ed.). Wadsworth. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -587,7 +587,7 @@ Enclose in brackets the edition number (if applicable).
 
 Enclose in brackets the page numbers of the chapter directly after the title.
 
-> Schirm, V. (2013). Quality of life. In I. M. Lubkin & P. D. Larsen (Eds.), *Chronic illness: Impact and intervention*s (8th ed., pp. 183-206). Jones & Bartlett Learning.
+> {.hanging-indent}Schirm, V. (2013). Quality of life. In I. M. Lubkin & P. D. Larsen (Eds.), *Chronic illness: Impact and intervention*s (8th ed., pp. 183-206). Jones & Bartlett Learning. {/.hanging-indent}
 
 #### Chapter in an authored book
 
@@ -622,7 +622,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 Follow the same rules for citing a book, but provide a DOI or URL if stated.
 
-> {.hanging-indent}Watkins, J. (2017). *Laboratory and field exercises in sport and exercise biomechanics*. Routledge. https<nolink>//doi.org/10.4324/9781315306315{/.hanging-indent}
+> {.hanging-indent}Watkins, J. (2017). *Laboratory and field exercises in sport and exercise biomechanics*. Routledge. https<nolink>//doi.org/10.4324/9781315306315 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -653,7 +653,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 Include the translator(s) after the title and add the date of original publication in brackets (if applicable) after the publication details.
 
-> {.hanging-indent}Piaget, J. (2007). *The child's conception of the world* (J. Tomlinson & A. Tomlinson, Trans.). Rowman & Littlefield. (Original work published 1929){/.hanging-indent}
+> {.hanging-indent}Piaget, J. (2007). *The child's conception of the world* (J. Tomlinson & A. Tomlinson, Trans.). Rowman & Littlefield. (Original work published 1929) {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -696,7 +696,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 When including journal articles in the reference list, you must italicise the title of the Journal and volume number, and include the digital object identifier (DOI) at the end of the reference (if stated).
 
-> {.hanging-indent}Musiek, E. S. (2017). Circadian rhythms in AD pathogenesis: A critical appraisal. *Current Sleep Medicine Reports*, *3*(2), 85-92. https<nolink>://doi.org/10.1007/s40675-017-0072-5{/.hanging-indent}
+> {.hanging-indent}Musiek, E. S. (2017). Circadian rhythms in AD pathogenesis: A critical appraisal. *Current Sleep Medicine Reports*, *3*(2), 85-92. https<nolink>://doi.org/10.1007/s40675-017-0072-5 {/.hanging-indent}
 
 ###### end-subtype-content
 

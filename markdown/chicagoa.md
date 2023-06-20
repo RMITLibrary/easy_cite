@@ -107,7 +107,7 @@ Example;
 
 **When do I use a shortened note?**
 
-The first time you cite a source in a note,include all the recommended citation information. If you cite that same source again, use a shortened note.
+The first time you cite a source in a note, include all the recommended citation information. If you cite that same source again, use a shortened note.
 
 - Author full-names are shortened to Family Name.
 

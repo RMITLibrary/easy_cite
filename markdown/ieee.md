@@ -26,7 +26,6 @@
 ## Using IEEE
 ## Books
 ## Journal articles
-## Magazines
 ## Conferences
 ## Reports
 ## Webpages
@@ -56,15 +55,15 @@
 
 - Confirm the referencing requirements of your School with your lecturer, and
 
-- Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide, 2021</a> (opens in a new tab)(PDF, 1.37Kb, 43 pages) to clarify referencing rules or if you need more examples. This guide is based on this publication.
+- Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide, 2022</a> (opens in a new tab)(PDF, 1.37Kb, 43 pages) to clarify referencing rules or if you need more examples. This guide is based on this publication.
 
 The IEEE (Institute of Electrical and Electronics Engineers) citation style is a **numbered** style where references are numbered [1], [2], [3] in-text and so on in the order of appearance in the body of the document. A **Reference List** at the end of the work provides full details of all references cited in-text. The references are ordered as they appear in the in-text references (in order of citation, not in alphabetical order). You need to follow this style when acknowledging your information sources.
 
 ##### Additional resources
 
-Download the IEEE referencing guide (DOCX, 74.8 KB, 14 pages) from the IEEE Author Center:
+Download the IEEE referencing guide (PDF, 685 KB, 43 pages) from the IEEE Author Center:
  
-<a href="https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/" target="_blank">Referencing guides for printing list</a> (opens in a new tab).
+<a href="http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">Referencing guides for printing list</a> (opens in a new tab).
 
 
 ###### end-subtype-content
@@ -79,29 +78,29 @@ Download the IEEE referencing guide (DOCX, 74.8 KB, 14 pages) from the IEEE Auth
 
 - In your writing, you must acknowledge each author or source of information (whether print or online) either by **paraphrasing** or using a direct quote.
 
-- References that are cited in-text MUST appear as a number within square brackets, and need to come before any punctuation with a space before the bracket.
+- References that are cited in-text must appear as a number within square brackets, and need to come before any punctuation with a space before the bracket [1].
 
-- Numbered references used in-text MUST start at [1] and continue in **ascending** order within the body of the work.
-Once a source has been cited and allocated a reference number, the same reference number MUST be used throughout the body of a work if it’s referred to multiple times.
-
-- Numbered citations may be treated grammatically as footnote numbers in the text e.g. As demonstrated by Smith [5] . . . OR, For further details, see [1], [5], [7].
-
-- Numbered citations may also be treated as nouns in the text e.g. According to [7] . . . OR, As mentioned in [4], [5], [6]-[8] . . . (note the use of the **en dash** symbol ‘–’ between a source range).
-
-- The **en-dash** symbol should be used between a source range e.g. [6]-[8]. The en-dash is wider than the hyphen and can be typed by holding down **Alt + 0150** on the numeric keypad.
+- Numbered references used in-text start at [1] and continue in **ascending** order within the body of the work.
+Once a source has been cited and allocated a reference number, the same reference number must be used throughout the body of a work if it’s referred to multiple times.
 
 - List all multiple citations in ascending numerical order e.g. [1], [5], [6]-[8] or as [1,5], [6-8].
 
-- It is NOT necessary to mention either the author(s) or dates of any work cited in-text.
+- Numbered citations may be treated grammatically as footnote numbers in the text e.g. As demonstrated by Smith [5] . . . OR, For further details, see [1], [5], [7].
 
-- If referring to authors in the body of the text, then all author family names must be listed up to **two** authors. If there are **three or more** authors, then cite only the family name of the first author followed by **et al.** for the first and subsequent citations.
+- Numbered citations may also be treated as nouns in the text e.g. According to [7] . . . OR, As mentioned in [4], [5], [6]-[8].
 
-- When directly quoting, that is using the exact words that an author has used, you must enclose the quote in double quotation marks “ ” and allocate a citation number along with the page number(s) in square brackets.
+- Use a dash between source range eg. [6]-[8] and include the dash outside of the brackets.  
+
+- It is **not** necessary to mention either the author(s) or dates of any work cited in-text.
+
+- When citing in text, for **one to two** authors, include both author’s family names. When there are **three or more** authors, cite the first family name, followed by **et al.**
+
+- When directly quoting, that is using the exact words that an author has used, enclose the quote in double quotation marks “ ” and allocate a citation number along with the page number(s) in square brackets [2, p.44].
 
 - In your writing, **acronyms** should be written out in full the first time referred to, followed by the acronym in parentheses. For subsequent occurrences, the use of the acronym is acceptable. See the **Abbreviations** section for more details.
 
 #### Paraphrasing
-Paraphrasing is when you are expressing the ideas of the author(s) in your own words. When paraphrasing, it’s acceptable to include only the citation as a number in square brackets, or as a number along with the author’s family name as part of your sentence.
+Paraphrasing is when you express the ideas of the author(s) in your own words. When paraphrasing, it’s acceptable to include only the citation as a number in square brackets, or as a number along with the author’s family name as part of your sentence.
 
 *Note: When paraphrasing, the citation details can be placed at the beginning, middle or end of a sentence.*
 
@@ -131,7 +130,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 When paraphrasing, page numbers are not usually used as part of the citation, unless it intends to help the reader to locate the source of the information in a lengthy or complex document.
 
-*Note: Including page numbers when paraphrasing is optional, and is NOT a requirement of the IEEE referencing style.*
+*Note: Including page numbers when paraphrasing is optional, and is not a requirement of the IEEE referencing style.*
 
 #### Direct quotes
 
@@ -141,7 +140,7 @@ Direct quotes are used when you are using the exact words of the author(s). Put 
 
 #### Citing a source with no page number(s)
 
-If the work you are referencing does NOT contain page numbers, then use chapter numbers, section headings and paragraph numbers as part of the in-text reference.
+If the work you are referencing does not contain page numbers, then use chapter numbers, section headings and paragraph numbers as part of the in-text reference.
 
 > "Many physical dynamic systems can be represented and modeled by first-order differential equations" [1, Ch. 3, para. 1].
 
@@ -164,7 +163,7 @@ If you omit words from a direct quote, you will need to add a space followed by 
 
 ###### start-subtype-content
 
-If citing the same reference within the body of the text, then use the same citation number throughout the text. IEEE does NOT allow for the use of terms such as “ibid.” or “op. cit.” when citing the same reference multiple times. Instead, if the same source is cited multiple times, then it is preferable to distinguish between these with reference to the appropriate section, for example:
+If citing the same reference within the body of the text, then use the same citation number throughout the text. IEEE does **not** allow for the use of terms such as “ibid.” or “op. cit.” when citing the same reference multiple times. Instead, if the same source is cited multiple times, then it is preferable to distinguish between these with reference to the appropriate section, for example:
 
 - [1, p. 15] when directly quoting a single page
 
@@ -180,10 +179,6 @@ If citing the same reference within the body of the text, then use the same cita
 
 - [1, eq. (7)] an equation
 
-- [1, Appendix IV] an appendix
-
-- [1, Algorithm 9] an algorithm
-
 ###### end-subtype-content
 
 ###### end-subtype-item
@@ -196,7 +191,7 @@ If citing the same reference within the body of the text, then use the same cita
 
 ###### start-subtype-content
 
-If listing multiple citations within a sentence of text, then the preferred method is to list each citation number separately, or by inserting a **comma** or **en dash** between each number.
+If listing multiple citations within a sentence of text, list each citation number separately, or by inserting a **comma** or **dash** between each number.
 
 List all **multiple citations** in ascending numerical order e.g. [1], [6], [9]. Or [5-8].
 
@@ -224,11 +219,11 @@ It is also acceptable for multiple citations to be listed the following way in-t
 
 A secondary citation is used when you acknowledge the work of an author that you have read about in another author’s work.
 
-The IEEE referencing style does **NOT** allow for the use of secondary citations.
+The IEEE referencing style does **not** allow for the use of secondary citations.
 
-If a secondary citation has to be used, then the original source MUST be located and cited.
+If a secondary citation has to be used, then the original source must be located and cited.
 
-If the original source cannot be located, then do NOT cite it.
+If the original source cannot be located, then do **not** cite it.
 
 ###### end-subtype-content
 
@@ -246,29 +241,29 @@ If the original source cannot be located, then do NOT cite it.
 
 When citing journals, patents and websites, use the following abbreviations for months:
 
-> Jan., Feb., Mar., Apr., May, June, July, Aug., Sept., Oct., Nov., and Dec. (*note that some months appear in full and DO NOT require a full stop*).
+> Jan., Feb., Mar., Apr., May, Jun., Jul., Aug., Sept., Oct., Nov., and Dec. (*note that the month of May appears in full and does not require a full stop*).
 
-Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for a quarterly issue e.g. June–Aug. 2015.
+Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for a quarterly issue e.g. Jun–Aug. 2015.
 
 #### Word abbreviations
 
-Standard IEEE words when used in a reference should be abbreviated. See the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2021)</a> (opens in a new tab) pp. 20–24.
+Standard IEEE words when used in a reference should be abbreviated. See the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
 
 #### Journal title abbreviations
 
-If referencing any IEEE journal titles, then refer to the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) document.
+If referencing any IEEE journal titles, then refer to the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
 
 #### Magazine title abbreviations
 
-When referencing IEEE magazine titles, then refer to the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Magazine-Titles-and-Abbreviations.pdf" target="_blank">IEEE Magazine Titles and Reference Abbreviations (2018)</a> (opens in a new tab) document.
+When referencing IEEE magazine titles, then refer to the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
 
 #### Conference proceeding abbreviations
 
-When citing conference proceedings, the common rule is to list the author(s), title, name and location (if provided) of the conference and use any standard abbreviations where necessary. For further details, refer to the **Conferences and Conference Proceedings** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2021)</a> (hopens in a new tab) p. 5.
+When citing conference proceedings, the common rule is to list the author(s), title, name and location (if provided) of the conference and use any standard abbreviations where necessary. For further details, refer to the **Conferences and Conference Proceedings** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) p. 6.
 
 #### Publisher abbreviations
 
-For a list of some publisher abbreviations refer to the **List of Publishers** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2021)</a> (opens in a new tab) pp. 24–39.
+For a list of some publisher abbreviations refer to the **List of Publishers** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 24–40.
 
 #### Acronyms in-text
 
@@ -315,7 +310,7 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 
 - Capitalise and italicise titles where appropriate.
 
-- Do NOT combine references – only one reference per number. See **Example of a reference list** section for formatting details.
+- Do not combine references – only one reference per number. See **Example of a reference list** section for formatting details.
 
 - Include a retrieval statement in the form of a URL (where possible) if the reference is taken from an electronic or online source, or alternatively, where stated in the rules, a database name. There is **no** full stop after a URL, and the URL should not be hyperlinked.
 
@@ -325,15 +320,13 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 
 #### Digital object identifier (DOI)
 
-When citing electronic sources such as e-journal articles or e-books, you ****MUST** include a digital object identifier (DOI) if stated. A DOI is a unique identifier that is assigned to certain electronic sources, and provides a persistent link to online content.
+When citing electronic sources such as e-journal articles or e-books, you **must** include a digital object identifier (DOI) if stated. A DOI is a unique identifier that is assigned to certain electronic sources, and provides a persistent link to online content. 
 
-The DOI can be added to the reference list using the following formats:
+The DOI can be added to the reference list using the following formats: doi:xx.xxxxxxxxxxxx or http://doi:xx.xxxxxxxxxxxxx
 
-> 1. doi:xx.xxxxxxxxxxxx.
+If a URL is available for that source that must also be included. 
 
-> 2. http<nolink>://dx.doi.org/xxxxxxxxxxxxx.
-
-> 3. https<nolink>://doi.org/xxxxxxxxxxxxxxx.
+If a reference contains both a DOI or accessed date, as well as a URL, place the DOI or accessed date first and the URL at the end.
 
 If no DOI is assigned, include either the journal/database homepage URL if taken from a library database, or the full URL if taken from a source on the open web.
 
@@ -341,7 +334,7 @@ If no DOI is assigned, include either the journal/database homepage URL if taken
 
 #### Place of publication
 
-For the place of publication, add the city, and then include the state code (if applicable) and country name, followed by the publisher and year of publication.
+For the place of publication, add the city, and then include the state abbreviation (if applicable) and country name, followed by the publisher and year of publication.
 
 Cities in the USA need the city name, state abbreviation and country abbreviation.
 
@@ -372,7 +365,7 @@ Cities in other countries (outside the USA and UK) just need to include the city
 #### Reference List
 
 {.ieee-refs}
-[1] &nbsp;&nbsp; J. L. Blackburn, Protective Relaying: *Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014.
+[1] &nbsp;&nbsp; J. L. Blackburn, *Protective Relaying: Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014.
 
 [2] &nbsp;&nbsp; H. F. Lodish *et al.*, *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012.
 
@@ -388,11 +381,11 @@ Cities in other countries (outside the USA and UK) just need to include the city
 
 [8] &nbsp;&nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow
 
-[9] &nbsp;&nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, doi: http<nolink>://doi.org/10.4225/08/5913e0247881b.
+[9] &nbsp;&nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, http<nolink>://doi:10.4225/08/5913e0247881b.
 
 [10] &nbsp; K. Deby, “Multinode temperature sensor,” Patent 2016102110, 2016. [Online]. Available: https<nolink>://www.austpat/189907465454.com
 
-[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: https<nolink>://www.saiglobal/ieee2743287647644
+[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. doi:<nolink>10.1002/9781119573784.ch18. Available: https<nolink>://www.saiglobal/ieee2743287647644
 
 [12] &nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: https<nolink>://researchrepository.rmit.edu.au/esploro/outputs/doctoral/A-model-formulation-approach-for-system/9921863821301341?institution=61RMIT_INST#file-0
 {/.ieee-refs}
@@ -440,7 +433,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing books make sure to include the following information where available:
 
-Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. State (US only), Country: Publisher, Year of Publication.
 
 > {.ieee-refs}[2] &nbsp;&nbsp; J. L. Blackburn, *Protective Relaying: Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014. {/.ieee-refs}
 
@@ -657,9 +650,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a book chapter make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of the chapter," in *Title of the Book*, Ed., (editor if available), ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication, pp. chapter/s or first and last pages of the article.
+Author(s) initials. Family name(s), "Title of the chapter," in *Title of the Book*, Ed., (editor if available), ed. (edition, except the first). City of Publisher, abbrev. State (US only), Country: Abbrev. of Publisher, Year of Publication, ch. x, pp. xxx–xxx (chapter/s or first and last pages of the article).
 
-> {.ieee-refs}[2] &nbsp;&nbsp; L. B. Wagenaar, "Electrical bushings," in *Electric Power Transformer Engineering*, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, pp. 1-24. {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; L. B. Wagenaar, "Electrical bushings," in *Electric Power Transformer Engineering*, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, ch.13, pp. 1-24. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -691,7 +684,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing e-books from a database make sure to include the following information where available:
 
-Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication. [Online]. Available: database homepage URL
+Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). City of Publisher, State (US only), Country: Abbrev. of Publisher, Year of Publication. [Online]. Available: database homepage URL
 
 > {.ieee-refs}[2] &nbsp;&nbsp; P. Curwen and J. Whalley, *Mobile Telecommunications in a High-Speed World: Industry Structure, Strategic Behaviour and Socio-Economic Impact*. Farnham, U.K.: Ashgate Publishing Ltd, 2011. [Online]. Available: https<nolink>://ebookcentral.proquest.com {/.ieee-refs}
 
@@ -727,9 +720,10 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing e-books from the internet make sure to include the following information where available:
 
-Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Year of Publication. [Online]. Available: site/path/file
+Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). City of Publisher, State (US only), Country: Abbrev. of Publisher, Year of Publication. [Online]. Available: site/path/file
 
-> {.ieee-refs}[2] &nbsp;&nbsp; L. Scharf, *A First Course in Electrical and Computer Engineering*, 2012. [Online]. Available: http<nolink>://www.freetechbooks.com/a-first-course-in-electrical-and-computer-engineering-t1038.html {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; M.H. Bollen, and H. Hassan. *Integration of Distributed Generation in the Power System*. 
+Somerset, UK: Wiley-IEEE Press. [Online]. Available: doi.org/10.1002/9781118029039. {/.ieee-refs}
 
 
 
@@ -756,7 +750,8 @@ Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the fi
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the  <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -786,9 +781,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing journal articles make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
 
-> {.ieee-refs}[3] &nbsp;&nbsp; D. Ibrahim, “Development of a low-cost educational liquid-level sensor circuit,” *International Journal of Electrical Engineering Education*, vol. 52, no. 2, pp. 168-181, 2015. {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; D. Ibrahim, “Development of a low-cost educational liquid-level sensor circuit,” *Int. J. Elect. Eng. Educ.*, vol. 52, no. 2, pp. 168-181, Apr. 2015. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -802,7 +797,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -836,7 +831,7 @@ List both authors, separating the two author names with ‘and’.
 
 When citing journal articles make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
 
 > {.ieee-refs}[3] &nbsp;&nbsp; T. Song and P. Y. Kam, “Robust data detection for the photon-counting free-space optical system with implicit CSI acquisition and background radiation compensation,” *J. Lightwave Technol*., vol. 34, no. 4, pp. 1120-1132, Feb. 2016. {/.ieee-refs}
 
@@ -852,7 +847,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -886,7 +881,7 @@ List all authors (up to six), separating the last two author names with ‘and�
 
 When citing journal articles make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
 
 > {.ieee-refs}[3] &nbsp;&nbsp; A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del*., vol. 31, no. 2, pp. 428-436, Apr. 2016. {/.ieee-refs}
 
@@ -902,7 +897,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -936,7 +931,7 @@ If there are more than six authors listed, use *et al*. (in italics) after the f
 
 When citing journal articles make sure to include the following information where available:
 
-Author initials. Family name, "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
+Author initials. Family name, "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
 
 > {.ieee-refs}[3] &nbsp;&nbsp; C. Y. Chun *et al*., “Current sensor-less state-of-charge estimation algorithm for lithium-ion batteries utilizing filtered terminal voltage,” *J. Power Sources*, vol. 273, pp. 255-263, Jan. 2015. {/.ieee-refs}
 
@@ -952,7 +947,7 @@ Author initials. Family name, "Title of article," abbrev. *Title of Journal*, vo
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -982,9 +977,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing e-journal articles with a DOI make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year, doi:.
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year, doi:.
 
-> {.ieee-refs}[3] &nbsp;&nbsp; S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transportation Research Part D: Transport and Environment*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013. {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transp. Res. Part D: Transport Environ.*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -998,7 +993,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -1028,9 +1023,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing e-journal articles from a library database make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year. [Online]. Available: database homepage URL
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year. [Online]. Available: site/path/file
 
-> {.ieee-refs}[3] &nbsp;&nbsp; J. Blau, “Big demand for big data scientists in Europe,” *Research Technology Management*, vol. 58, no. 3, pp. 3-6, May/June 2015. [Online]. Available: http<nolink>://ebscohost.com {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; J. Blau, “Big demand for big data scientists in Europe,” *Res. Technol. Manage.*, vol. 58, no. 3, pp. 3-6, May/Jun. 2015. [Online]. Available: https<nolink>://www.proquest.com/scholarly-journals/big-demand-data-scientists-europe/docview/1682657590/se-2 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1044,7 +1039,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
 For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
@@ -1074,112 +1069,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing e-journal articles from the internet make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year. [Online]. Available: site/path/file
+Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year. [Online]. Available: site/path/file
 
-> {.ieee-refs}[3] &nbsp;&nbsp; C. Song and S. W. Tan, “A perspective on the rise of optofluidics and the future,” *Micromachines*, vol. 8, no. 5, pp. 1-17, May 2017. [Online]. Available: http<nolink>://www.mdpi.com/2072-666X/8/5/152 {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### end-subtype
-
-###### end-type-content
-
-
-<!-- Magazines - links to the fourth type menu item -->
-###### start-type-content
-
-###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### Magazine article, print
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf" target="_blank">IEEE Journal Titles and Reference Abbreviations (2018)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
-
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
-
-Other examples include:
-
-- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
-
-- Chemistry in Microelectronics = Chem. Microelectron.
-
-*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> The plane will have greater payload capacity if the energy storage system is lighter [4].
-
-> When considering reduction of payload capacity, Burke [4] concluded that the weight reduction of the energy storage system would be beneficial.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
-
-> "The lighter the energy storage system, the greater the payload the plane will be able to carry and sustain in flight" [4, p. 33].
-
-#### Reference list
-
-When citing magazine articles from a print source make sure to include the following information where available:
-
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazine*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
-
-> {.ieee-refs}[4] &nbsp;&nbsp; K. A. Burke, “High energy density regenerative fuel cells systems for terrestrial applications,” *IEEE Aerosp. Electron. Syst. Mag*., vol. 14, no. 12, pp. 23-34, Dec. 1999. {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-
-###### start-subtype-item
-
-### Magazine article, online
-
-###### start-subtype-content
-
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Journal Titles and Reference Abbreviations (2018)](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/Journal-Titles-and-Abbreviations.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
-
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
-
-Other examples include:
-
-- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
-
-- Chemistry in Microelectronics = Chem. Microelectron.
-
-*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> As mentioned in [4], new machines will be as adaptable as our brains.
-
-> It is Rothganger’s [4] hypothesis that machines will become more like humans.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
-
-> Rothganger describes artificial intelligence as "the dream of a thinking machine" [4, p. 24].
-
-#### Reference list
-
-When citing magazine articles from an online source make sure to include the following information where available:
-
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazine*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year. [Online]. Available: name of database
-
-> {.ieee-refs}[4] &nbsp;&nbsp; F. Rothganger, “Special report: Can we copy the brain? The dawn of the real thinking machine,” *IEEE Spectr*., vol. 54, no. 6, pp. 22-25, May 2017. [Online]. Available: IEEE database {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; C. Song and S. H. Tan, “A perspective on the rise of optofluidics and the future,” *Micromachines*, vol. 8, no. 5, pp. 1-17, May 2017. [Online]. Available: http<nolink>://www.mdpi.com/2072-666X/8/5/152 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1191,7 +1083,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazi
 ###### end-type-content
 
 
-<!-- Conferences - links to the fifth type menu item -->
+<!-- Conferences - links to the fourth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1199,7 +1091,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazi
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Conference paper, published in proceedings
+### Conference paper, online
 
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -1220,11 +1112,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a conference paper that has been published in proceedings make sure to include the following information where available:
+When citing a conference paper that has been presented make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of paper," in abbrev. *Title of Proceedings*, Place of Publication, Year (only if not already stated in title), pp. first and last pages of paper, doi:. (if available)
+Author(s) initials. Family name(s). (Date). Title. Presented at Abbreviated Conf. title. [Online]. Available: site/path/file
 
-> {.ieee-refs}[5] &nbsp;&nbsp; B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Computational Intelligence and Communication Networks (CICN)*, Los Alamitos, CA, USA, pp. 1354-1357, doi:10.1109/62.811091. {/.ieee-refs}
+> {.ieee-refs}[5] &nbsp;&nbsp; Y.S. Sergeev,  S.V. Sergeev, and G.E. Karpov. (2019). Modeling Three-Dimensional Liquid Flows in Computer-Controlled Vibrojet Mixer Using FlowVision. Presented at Proc. of the 5th Int. Conf. on Ind. Eng. (ICIE). [Online]. Available: doi: 10.1007/978-3-030-22063-1_145. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1234,7 +1126,7 @@ Author(s) initials. Family name(s), "Title of paper," in abbrev. *Title of Proce
 
 ###### start-subtype-item
 
-### Conference paper, presented (not published in proceedings)
+### Conference paper, print
 
 ###### start-subtype-content
 
@@ -1254,11 +1146,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a conference paper that has been presented make sure to include the following information where available:
+When citing a conference paper that has been published in proceedings make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of paper," presented at the abbrev. Title and Year of Conference. [Online]. Available: site/path/file
+Author(s) initials. Family name(s), “Title of paper,” in *Abbreviated Name of Conf.*, (location of conference is optional), (Month and day(s) if provided) year, pp. xxx-xxx.
 
-> {.ieee-refs}[5] &nbsp;&nbsp; X. Yang, "NIRA: A new internet routing architecture," presented at the ACM SIGCOMM FDNA 2003 Workshop. [Online]. Available: http<nolink>://www.isi.edu/newarch/DOCUMENTS/yang.nira.pdf {/.ieee-refs}
+> {.ieee-refs}[5] &nbsp;&nbsp; P. J. Cornwell, "Implementing a program to motivate math and science grade school classrooms," in *Proc. IEEE Frontiers in Educ. Conf.*, Washington, DC, USA, 1993, pp. 529-534. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1270,7 +1162,7 @@ Author(s) initials. Family name(s), "Title of paper," presented at the abbrev. T
 ###### end-type-content
 
 
-<!-- Reports - links to the sixth type menu item -->
+<!-- Reports - links to the fifth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1301,7 +1193,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing reports from a print source with an author(s) make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if available), Month Day (if available), Year of Publication.
+Author(s) initials. Family name(s), "Title of report," Abbrev. name of Company, City of Company, abbrev. US State (if applicable), Country, Report Number/Type (if available), Year of Publication.
 
 > {.ieee-refs}[6] &nbsp;&nbsp; M. L. James, “A history of Australia’s space involvement,” Australian National University, Canberra, Australia, Working Paper 241, Nov. 1991. {/.ieee-refs}
 
@@ -1313,7 +1205,7 @@ Author(s) initials. Family name(s), "Title of report," Publisher, Place of Publi
 
 ###### start-subtype-item
 
-### Report, print (corporate author)
+### Report, online
 
 ###### start-subtype-content
 
@@ -1333,81 +1225,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing reports from a print source with a corporate author make sure to include the following information where available:
+When citing reports from an online source make sure to include the following information where available:
 
-Organisation/company name, "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if available), Month Day (if available), Year of Publication.
+Organisation/company name, "Title of report," Company, City, abbrev. US State (if applicable), Country, Report Number/Type (if available). Date. Accessed Date. [Online]. Available: site/path/file
 
-> {.ieee-refs}[6] &nbsp;&nbsp; National Aeronautics and Space Administration, “Space flight: The first 30 years,” NASA, Washington, DC, USA, Report 1, 1991. {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-
-###### start-subtype-item
-
-### Report, online
-
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> The experimental design described in [6] allowed the engineer to measure the number of words correctly received by each listener.
-
-> Catellier and Voran [6] describe the design, implementation and analysis of a speech intelligibility test.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
-
-> Catellier and Voran state that "There may be negative consequences for speech intelligibility even as it becomes particularly important to coordinate the new personnel" [6, p. 3].
-
-#### Reference list
-
-When citing reports from an online source with an author(s) make sure to include the following information where available:
-
-Author(s) initials. Family name(s), "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report Number/Type (if not in title), Month Day, Year of Publication. [Online]. Available: site/path/file
-
-> {.ieee-refs}[6] &nbsp;&nbsp; A. A. Catellier and S. D. Voran, “NTIA technical report TR-17-522: Intelligibility of selected speech codecs in frame-erasure conditions,” NTIA, Washington, DC, USA, May 5, 2016. [Online]. Available: https<nolink>://www.its.bldrdoc.gov/publications/3165.aspx {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-
-###### start-subtype-item
-
-### Report, online (corporate author)
-
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> Water supply systems are being impacted due to Victoria's population growth [6].
-
-> Water saving initiatives are already being implemented such as large reservoirs, desalination plants and pipelines, according to the Victorian State Government [6].
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
-
-> The report states that "a key challenge for engineers is helping protect and enhance our state's biodiversity, together with maintaining the viability of the agricultural sector, which is essential to all Victorians" [6, p.12].
-
-#### Reference list
-
-When citing reports from an online source with a corporate author make sure to include the following information where available:
-
-Organisation/company name, "Title of report," Publisher, Place of Publication City, abbrev. US State (if applicable), Country, Report number/Type, Month Day (if available), Year of Publication. [Online]. Available: name of database or site/path/file
-
-> {.ieee-refs}[6] &nbsp;&nbsp; State of Victoria (Department of Treasury and Finance), “Victorian state of engineering 2018,” Victoria State Government, Melbourne, Australia, 2018. [Online]. Available: http<nolink>://nla.gov.au/nla.obj-1562872137/view {/.ieee-refs}
-
-
+> {.ieee-refs}[6] &nbsp;&nbsp; A. A. Catellier and S. D. Voran, “NTIA technical report TR-17-522: Intelligibility of selected speech codecs in frame-erasure conditions,” NTIA, Washington, DC, USA, May 5, 2016. Accessed 21 Sep. 2017. [Online]. Available: https://www.its.bldrdoc.gov/publications/3165.aspx {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1419,7 +1241,7 @@ Organisation/company name, "Title of report," Publisher, Place of Publication Ci
 ###### end-type-content
 
 
-<!-- Webpages - links to the seventh type menu item -->
+<!-- Webpages - links to the sixth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1452,7 +1274,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing webpages make sure to include the following information where available:
 
-Author(s) initials. Family name(s). "Title of Webpage." Title of Website (if available). URL (accessed Month Day, Year).
+Author(s) initials. Family name(s). "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
 
 > {.ieee-refs}[7] &nbsp;&nbsp; T. Fleischman. "Stabilizing molecule could pave way for lithium-air fuel cell." CNN.com. https<nolink>://www.news.cornell.edu/stories/2017/04/stabilizing-molecule-could-pave-way-lithium-air-fuel-cell (accessed Apr. 30, 2017). {/.ieee-refs}
 
@@ -1488,146 +1310,14 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing webpages with a corporate author make sure to include the following information where available:
 
-Organisation/company name. "Title of Webpage." Title of Website (if available). URL (accessed Month Day, Year).
+Organisation/company name. "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
 
 > {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017). {/.ieee-refs}
 
 ###### end-subtype-content
 
 ###### end-subtype-item
-
-
-###### end-subtype
-
-###### end-type-content
-
-
-<!-- Audiovisual media - links to the eighth type menu item -->
-###### start-type-content
-
-###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### Streaming video / YouTube video
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> Nanotechnology explores how matter is built on a small scale, from atoms to molecules [8].
-
-> As explained by nottinghamscience [8], nanotechnology explores how matter is built on a small scale, from atoms to molecules.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
-
-*Note: A timestamp is NOT required when directly quoting from this type of source.*
-
-> "Nanotechnology is not only about making things small, but actually having a new function" [8].
-
-#### Reference list
-
-When citing a streaming video / YouTube video make sure to include the following information where available:
-
-Video Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Video. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file
-
-> {.ieee-refs}[8] &nbsp;&nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. [Online Video]. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-
-###### start-subtype-item
-
-### Video tutorial
-
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> When software is being developed, it needs to consider new additions, error fixing and an ongoing process of improvement or development [8].
-
-> Allardice [8] asserts that when software is being developed, it needs to consider new additions, error fixing and an ongoing process of improvement or development.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
-
-*Note: A timestamp is NOT required when directly quoting from this type of source.*
-
-> As explained in [8, para. 6], "Software development needs to be responsive. We need to add new features, we need to fix bugs, we need to support continual development".
-
-#### Reference list
-
-When citing a video tutorial make sure to include the following information where available:
-
-Video Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Video. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file
-
-> {.ieee-refs}[8] &nbsp;&nbsp; S. Allardice, Reviewing Software Development Methodologies. (May 22, 2012). Accessed June 2, 2017. [Online Video]. Available: https<nolink>://www.linkedin.com/learning?trk=learning-topics_nav-header-logo&upsellOrderOrigin=default_guest_learning {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-
-###### start-subtype-item
-
-### Audio podcast
-
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> At a tiny scale, and contrary to our expectations, material acts differently than at a larger scale [8].
-
-> Schiffrin [8] states that at a tiny scale, and contrary to our expectations, material acts differently than at a larger scale.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
-
-*Note: A timestamp is NOT required when directly quoting from this type of source.*
-
-> According to Schiffrin, "We can look at a chunk of material, but at a small scale, and it behaves completely differently than what we might expect" [8].
-
-#### Reference list
-
-When citing an audio podcast make sure to include the following information where available:
-
-Podcast Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Podcast. Release date (Month Day if available, Year). Accessed Month Day, Year. [Podcast]. Available: site/path/file
-
-> {.ieee-refs}[8] &nbsp;&nbsp; A. Schiffrin, Sydney, Australia. Materials go Nano. (Jan. 8, 2017). Accessed May 12, 2017. [Podcast]. Available: http<nolink>://www.abc.net.au/radionational/programs/scienceextra/materials-go-nano/8117286 {/.ieee-refs}
-
-
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### end-subtype
-
-###### end-type-content
-
-<!-- Other sources - links to the ninth type menu item -->
-###### start-type-content
-
-###### start-subtype
-
-
+ 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Blog
@@ -1663,7 +1353,136 @@ Author(s) initials. Family name(s), Place of Publication City, abbrev. US State 
 
 ###### end-subtype-item
 
+###### end-subtype
 
+###### end-type-content
+
+
+<!-- Audiovisual media - links to the seventh type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Streaming video / YouTube video
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> Nanotechnology explores how matter is built on a small scale, from atoms to molecules [8].
+
+> As explained by nottinghamscience [8], nanotechnology explores how matter is built on a small scale, from atoms to molecules.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: A timestamp is NOT required when directly quoting from this type of source.*
+
+> "Nanotechnology is not only about making things small, but actually having a new function" [8].
+
+#### Reference list
+
+When citing a streaming video / YouTube video make sure to include the following information where available:
+
+Video Owner/Creator, Location (if available). *Title of Video*. Release date (Month, Day if available, Year). Accessed: Month Day, Year. [Online Video]. Available: site/path/file
+
+> {.ieee-refs}[8] &nbsp;&nbsp; nottinghamscience, U.K. *What is Nanotechnology?* (Apr. 15, 2008). Accessed Feb. 22, 2018. [Online Video]. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow {/.ieee-refs}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+
+###### start-subtype-item
+
+### Video tutorial
+
+###### start-subtype-content
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> When software is being developed, it needs to consider new additions, error fixing and an ongoing process of improvement or development [8].
+
+> Allardice [8] asserts that when software is being developed, it needs to consider new additions, error fixing and an ongoing process of improvement or development.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: A timestamp is NOT required when directly quoting from this type of source.*
+
+> As explained in [8, para. 6], "Software development needs to be responsive. We need to add new features, we need to fix bugs, we need to support continual development".
+
+#### Reference list
+
+When citing a video tutorial make sure to include the following information where available:
+
+Video Owner/Creator, Location (if available), Country. *Title of Video*. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file 
+
+> {.ieee-refs}[8] &nbsp;&nbsp; S. Allardice, *Reviewing Software Development Methodologies*. (May 22, 2012). Accessed June 2, 2017. [Online Video]. Available: https<nolink>://www.linkedin.com/learning?trk=learning-topics_nav-header-logo&upsellOrderOrigin=default_guest_learning {/.ieee-refs}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+
+###### start-subtype-item
+
+### Audio podcast
+
+###### start-subtype-content
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
+
+> At a tiny scale, and contrary to our expectations, material acts differently than at a larger scale [8].
+
+> Schiffrin [8] states that at a tiny scale, and contrary to our expectations, material acts differently than at a larger scale.
+
+#### Direct quote in-text
+
+When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
+
+*Note: A timestamp is NOT required when directly quoting from this type of source.*
+
+> According to Schiffrin, "We can look at a chunk of material, but at a small scale, and it behaves completely differently than what we might expect" [8].
+
+#### Reference list
+
+When citing an audio podcast make sure to include the following information where available:
+
+Podcast Owner/Creator, Location (if available). *Title of Podcast*. Release date (Month Day if available, Year). Accessed Month Day, Year. [Podcast]. Available: site/path/file
+
+> {.ieee-refs}[8] &nbsp;&nbsp; A. Schiffrin, Sydney, Australia. Materials go Nano. (Jan. 8, 2017). Accessed May 12, 2017. [Podcast]. Available: http<nolink>://www.abc.net.au/radionational/programs/scienceextra/materials-go-nano/8117286 {/.ieee-refs}
+
+
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### end-subtype
+
+###### end-type-content
+
+<!-- Other sources - links to the eighth type menu item -->
+
+###### start-type-content
+
+###### start-subtype
 
 ###### start-subtype-item
 
@@ -1691,9 +1510,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a dataset with a DOI make sure to include the following information where available:
 
-Author(s) initials. Family name(s), *Title of dataset*, *vol*. (volume number, if applicable), Publisher, Month Day, Year, doi:.
+Author(s) initials. Family name(s), abbrev. Month Day (if available), Year, "Title of dataset, including the edition, version or volume number (if applicable)," Publisher/Distributor, doi:.
 
-> {.ieee-refs}[9] &nbsp;&nbsp; Y. Ren *et al*. *Microstructures of cold-sprayed titanium before and after heat treatment*, *vol. 7*, CSIRO Data Collection, 2017, doi:https<nolink>://doi.org/10.4225/08/5913e0247881b. {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; Y. Ren *et al.*, May 11, 2017, "Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7," CSIRO Data Collection, doi<nolink>:10.4225/08/5913e0247881b. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1727,9 +1546,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a dataset with a URL make sure to include the following information where available:
 
-Author(s) initials. Family name(s), *Title of dataset*, *vol.* (volume number, if applicable), Publisher, Month Day, Year. [Online]. Available: site/path/file
+Author(s) initials. Family name(s), abbrev. Month Day (if available), Year, "Title of dataset, including the edition, version or volume number (if applicable)," Publisher/Distributor. [Online]. Available: site/path/file 
 
-> {.ieee-refs}[9] &nbsp;&nbsp; D. Gore, *The hydraulic behaviour of permeable reactive barrier materials under freeze-thaw conditions*, Australian Antarctic Data Centre, 2005. [Online]. Available: http<nolink>://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=ASAC_2576 {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; D. Gore, 2005, "The hydraulic behaviour of permeable reactive barrier materials under freeze-thaw conditions, ver. 1," Australian Antarctic Data Centre. [Online]. Available: https<nolink>://data.aad.gov.au/metadata/records/ASAC_2576 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1763,12 +1582,6 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 If citing a figure or table make sure to reference it according to its original source type i.e. book, journal article, report etc.
 
-When citing figures and tables make sure to include the following information where available:
-
-Author(s) initials. Family name(s), “Title of figure/table,” abbrev. *Title of Publication*, vol. (volume number), no. (issue number), p. or pp. page(s) of figure, Month Year of Publication.
-
-> {.ieee-refs}[9] &nbsp;&nbsp; Y. Karatas and F. Ince, "Fuzzy system with two inputs and one output," *IEEE Aerosp. Electron. Syst. Mag.*, vol. 31, no. 5, p. 32, May 2016. {/.ieee-refs}
-
 ###### end-subtype-content
 
 ###### end-subtype-item
@@ -1777,7 +1590,7 @@ Author(s) initials. Family name(s), “Title of figure/table,” abbrev. *Title 
 
 ###### start-subtype-item
 
-### Patent
+### Patent - Online
 
 ###### start-subtype-content
 
@@ -1801,9 +1614,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a patent make sure to include the following information where available:
 
-Author(s) initials. Family name(s), “Title of patent,” abbrev. Country (if applicable) Patent Number, Month Day (if available), Year. [Online]. Available: site/path/file
+Author(s) initials. Family name(s), "Title of patent," abbrev. Country (if applicable) Patent Number, abbrev. Month Day (if available), Year. [Online]. Available: site/path/file
 
-> {.ieee-refs}[9] &nbsp;&nbsp; K. Deby, "Multinode temperature sensor," Aus. Patent 2016102110, 2016. [Online]. Available: http<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2016102110 {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; K. Deby, "Multinode temperature sensor," Aus. Patent 2016102110, Dec. 2016. [Online]. Available: http<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2016102110 {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1885,9 +1698,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a standard make sure to include the following information where available:
 
-*Title of Standard*, Standard Number, Publisher (if applicable), Year. [Online]. Available: site/path/file
+*Title of Standard*, Standard number, date. [Online]. Available: site/path/file
 
-> {.ieee-refs}[9] &nbsp;&nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: https<nolink>://ieeexplore.ieee.org/document/5756728 {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; *IEEE Standard for Floating Part Arithmetic*, 754-2019, Jul.22. [Online]. Available: https<nolink>://ieeexplore.ieee.org/document/8766229  {/.ieee-refs}
 
 ###### end-subtype-content
 
