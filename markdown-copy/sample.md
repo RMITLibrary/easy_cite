@@ -55,6 +55,8 @@ Confirm the referencing requirements of your school with your lecturer, and
 
 Use <a href="http://www.nlm.nih.gov/citingmedicine" target="_blank">Citing medicine: the NLM style guide for authors, editors, and publishers (2nd ed.)</a> (opens in a new tab) to clarify referencing rules or if you need more examples. This guide is based on this publication.
 skjgnfkgkdfg kng
+dmlkdngldkngf
+;kdfg;dfk
 
 The Vancouver referencing style is a **numbered system**, predominantly used in the medical field. Authorship is acknowledged using a number to represent a reference. From the in-text reference number, the reader may consult the reference list for full publication details.
 
