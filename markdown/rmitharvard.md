@@ -104,16 +104,6 @@ RMIT Harvard style requires in-text references and the reference list.
 - If the author of a reference is unknown, list the reference based on the title of the work.
 
 - If no publication year is supplied, write **n.d.** (for 'no date'). If year can be reliably estimated or inferred from the text, then write **c.** (meaning 'circa' or approximately) followed by the year.
-
-- A **secondary citation** acknowledges the work of an author (the original source) you refer to in your writing that you have read about in someone else's work. Where possible, try to use the original source. A secondary citation should only be used if you are unable to track down and access the original source. You should also keep secondary citations to a minimum. 
-    
-    For example, if you use Vanna's (2019) ideas (the original source), which you read about in an article by Martin and Rodriguez (2021), you will need to show who the ideas belong to (Vanna 2019) and where you read about them (Martin and Rodriguez 2021).
-
-    > **First example:** Previous research appears to indicate... (Vanna 2019, cited in Martin and Rodriguez 2021).
-
-    > **Second example:** Vanna (2019, cited in Martin and Rodriguez 2021) suggests that...
-
-    In both examples, the ideas belong to Vanna (2019), but you paraphrased them from your reading of Martin and Rodriguez's (2021) work.
     
 - For **multiple citations in the same parentheses**, list all citations chronologically, separated by a semi-colon (;) for example:  
     
@@ -332,10 +322,6 @@ In the reference list, only include the source you read. For this example, if yo
 
 - If the place of publication (city name) is not commonly known (e.g. Harlow) or the place of publication could be in two or more countries, put the country name after the city. For example, Harlow, England.
 
-- **Secondary citations** acknowledge the work of an author (the original source) you refer to in your writing that you have read about in someone else's work. Where possible, try to use the original source. A secondary citation should only be used if you are unable to track down and access the original source. You should also keep secondary citations to a minimum.
-
-    For example, if you use Vanna's (2019) ideas (the original source) which you read about in an article by Martin and Rodriguez (2021), in your reference list you will only need to show where you read Vanna's (2019) ideas in (Martin and Rodriguez 2021). In this case, you would only put the Martin and Rodriguez (2021) reference in the reference list, not Vanna (2019).
-
 - If citing a **PDF**, link to the page where the PDF is hosted not the PDF link.
 
 - If the publication has a **DOI** (Digital Object Identifier), include it in the reference list, at the end of the citation using the short form ‘doi’ in lower case, e.g. Zufferey C, Yu N and Hand T (2020) ‘Researching home in social work’, *Qualitative Social Work*, 19(5-6):1095-1110, doi:10.1177/1473325019880244.
@@ -358,6 +344,8 @@ Below is an example of a reference list displaying various resource types includ
 #### Reference List
 
 AASW (Australian Association of Social Workers) (2021) *Annual report 2020-2021*, AASW website, accessed 13 December 2021. https<nolink>://www.aasw.asn.au/publications/reports
+
+Cassiano DR, Bertoncini BV and de Oliveira LK (2021) 'A conceptual model based on the activity system and transportation system for sustainable urban freight transport', *Sustainability*,  13(10):5642, doi:10.3390/su13105642.
 
 *Child Wellbeing and Safety Act 2005* (Vic).
 
