@@ -32,6 +32,8 @@
 ## Reports, standards and patents
 ## Images
 ## Other sources
+## Using AI-generated content
+## Referencing guidelines for AI-generated content
 ###### end-type-menu
 
 <!-- start the content area which will contain all the type/subtype panes -->
@@ -2228,6 +2230,113 @@ When the document is labelled PhD dissertation, use the abbreviation PhD diss.
 
 > {.hanging-indent}Court, Tanya. 2019. "The Site Re-Presented: Everyday Civic Landscapes." PhD diss., RMIT University. RMIT Research Repository (9921864000901341). {/.hanging-indent}
 > {.hanging-indent}Rutz, Cynthia Lillian. 2013. “King Lear and Its Folktale Analogues.” PhD diss., University of Chicago. {/.hanging-indent}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### end-subtype
+
+###### end-type-content
+
+
+<!-- Using AI-generated content - links to the ninth type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### subtype - accordion 1
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### subtype - accordion 2
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### subtype - accordion 3
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### end-subtype
+
+###### end-type-content
+
+
+
+<!-- Referencing guidelines for AI-generated content - links to the ninth type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### subtype - accordion 1
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### subtype - accordion 2
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### subtype - accordion 3
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+enter subtype details here
 
 ###### end-subtype-content
 
