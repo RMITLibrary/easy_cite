@@ -32,8 +32,7 @@
 ## Web pages / Social media
 ## Images / Tables
 ## Other sources
-## Using AI-generated content
-## Referencing guidelines for AI-generated content
+## AI-generated content
 ###### end-type-menu
 
 <!-- start the content area which will contain all the type/subtype panes -->
@@ -2059,15 +2058,14 @@ In the Reference list include:
 
 
 
-<!-- Using AI-generated content - links to the ninth type menu item -->
+<!-- AI-generated content - links to the tenth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
 
-
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### subtype - accordion 1
+### Using AI-generated content
 
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -2081,9 +2079,8 @@ enter subtype details here
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### subtype - accordion 2
+### Referencing guidelines for AI-generated content
 
-<!-- first accordion item -->
 ###### start-subtype-content
 
 enter subtype details here
@@ -2091,75 +2088,6 @@ enter subtype details here
 ###### end-subtype-content
 
 ###### end-subtype-item
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### subtype - accordion 3
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-enter subtype details here
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### end-subtype
-
-###### end-type-content
-
-
-
-<!-- Referencing guidelines for AI-generated content - links to the ninth type menu item -->
-###### start-type-content
-
-###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### subtype - accordion 1
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-enter subtype details here
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### subtype - accordion 2
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-enter subtype details here
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### subtype - accordion 3
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-enter subtype details here
-
-###### end-subtype-content
-
-###### end-subtype-item
-
 
 ###### end-subtype
 
