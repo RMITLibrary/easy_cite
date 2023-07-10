@@ -3971,7 +3971,7 @@ If using reproduced images, reference the published source. In a caption below t
 > Figure number: Creator's family name Initial [if artist/creator is known] OR leave blank if artist/creator unknown (year produced) _Title or description of artwork or image_ [format], publishing details of where artwork or image was sourced
 
 **Example**
-> Allen, JM (2022) _Théâtre D’opéra Spatial_ [artwork generated using Midjourney], Roose K (2 September 2022) 'An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.', _The New York Times_, accessed 3 March 2023. https<nolink>://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
+> Figure 1: Allen, JM (2022) _Théâtre D’opéra Spatial_ [artwork generated using Midjourney], Roose K (2 September 2022) 'An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.', _The New York Times_, accessed 3 March 2023. https<nolink>://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### AI-generated images that you produce:
