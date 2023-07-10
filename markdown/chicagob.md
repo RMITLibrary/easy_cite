@@ -2252,9 +2252,9 @@ When the document is labelled PhD dissertation, use the abbreviation PhD diss.
 <!-- first accordion item -->
 ###### start-subtype-content
 
-### AI-generated text
+#### AI-generated text
 
-#### Using generative artificial intelligence (AI) in learning and research, including assessment tasks
+##### Using generative artificial intelligence (AI) in learning and research, including assessment tasks
 
 The educators within your courses can tell you if you are able to use artificial intelligence (AI) tools in your assessment tasks, including how you can use the tools and what tools you can use. If you use any AI tools, you must appropriately acknowledge and reference the use of these tools and their outputs. Failure to reference the use of these tools can result in academic misconduct.
 
