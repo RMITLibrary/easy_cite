@@ -2333,7 +2333,7 @@ If a shareable URL to the content is available, include it in your reference lis
 
 #### In-text citation - narrative (author-prominent):
 
-##### Rule: 
+##### Rule 
 
 > Author (year)
 
