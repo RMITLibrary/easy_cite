@@ -2363,25 +2363,21 @@ If a shareable URL to the content is available, include it in your reference lis
 
 ##### Rule
 
-> Author. Year. Name of tool. Version (if available). Month Day, Year.
-> URL
+> {.hanging-indent}Author. Year. Name of tool. Version (if available). Month Day, Year. URL{/.hanging-indent}
 
 ##### Example
 
-> OpenAI. 2023. ChatGPT. May 24 version.  June 26, 2023.
-> https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c
+> {.hanging-indent}OpenAI. 2023. ChatGPT. May 24 version.  June 26, 2023. https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c {/.hanging-indent}
 
 #### Reference list entry - non-shareable AI-generated content:
 
 ##### Rule
 
-> Author. Year. *Name of tool*. Version (if available). Month Day, Year.
-> Appendix.
+> {.hanging-indent}Author. Year. *Name of tool*. Version (if available). Month Day, Year. Appendix.{/.hanging-indent}
 
 ##### Example
 
-> Google. 2023. *Bard*. 2023.06.07. June 26, 2023. See Appendix for
-> generated text and prompt used.
+> {.hanging-indent}Google. 2023. *Bard*. 2023.06.07. June 26, 2023. See Appendix for generated text and prompt used.{/.hanging-indent}
 
 ###### end-subtype-content
 
