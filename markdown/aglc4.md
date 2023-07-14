@@ -31,6 +31,7 @@
 ## Online sources
 ## Audio visual material
 ## Other sources
+## AI-generated content
 ###### end-type-menu
 <!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
@@ -392,7 +393,7 @@ Legal abbreviations for English language legal publications, from the British Is
 
 | Title | Year | Jurisdiction | Pinpoint |
 | ------ | ------ | ------ | ------ |
-| *Copyright Act* | 1968 | (Cth) | s 1 |
+| *Copyright Act* | *1968* | (Cth) | s 1 |
 
 - Both the title of the act and the year in which the act was passed appear in italics.
 - The jurisdiction is abbreviated and within parentheses '( )'.
@@ -519,7 +520,7 @@ These rules apply when referencing both printed books and e-books.
 
 | Author | Title | Publication details |
 | ------ | ------ | ------ |
-| Geoffrey A Manne and Joshua D Wright, | Competition Policy and Patent Law under Un­certainty Regulating Innovation | (Cambridge University Press, 2011) |
+| Geoffrey A Manne and Joshua D Wright, | *Competition Policy and Patent Law under Un­certainty Regulating Innovation* | (Cambridge University Press, 2011) |
 
 - Where there are two or three authors, the names of all authors should be included and the word 'and' should separate the names of the last two authors.
 
@@ -566,7 +567,7 @@ These rules apply when referencing both printed books and e-books.
 
 | Author | Chapter title | in Author | Title | Details |
 | ------ | ------ | ------ | ------ | ------ |
-| William Gough, | 'Securities over Debts' | in Gregory Burton (ed), | Directions in Finance Law | (Butterworths, 1990) |
+| William Gough, | 'Securities over Debts' | in Gregory Burton (ed), | *Directions in Finance Law* | (Butterworths, 1990) |
 
 When citing chapters in a book list the author and enclose the title of the chapter in single inverted commas - do **not** italicise the title.
 
@@ -655,15 +656,15 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 #### Footnote example
 
-> <sup>1</sup> Dan Meagher, 'Digital Sampling/Remix Culture' (2012) 17(2) Deakin Law Review, 307.
+> <sup>1</sup> Dan Meagher, 'Digital Sampling/Remix Culture' (2012) 17(2) *Deakin Law Review* 307.
 
 #### Pinpoint example
 
-> <sup>1</sup> Dan Meagher, 'Digital Sampling/Remix Culture' (2012) 17(2) Deakin Law Review 307, 22.
+> <sup>1</sup> Dan Meagher, 'Digital Sampling/Remix Culture' (2012) 17(2) *Deakin Law Review* 307, 22.
 
 #### Bibliography example
 
-> Meagher, Dan, 'Digital Sampling/Remix Culture' (2012) 17(2) Deakin Law Review 307
+> Meagher, Dan, 'Digital Sampling/Remix Culture' (2012) 17(2) *Deakin Law Review* 307
 
 ###### end-subtype-content
 
@@ -678,7 +679,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 | Two authors | Title | Year | Vol. & Issue | Journal | Page |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Samantha Joseph and Erin Mackay, | 'Moral Rights and Indigenous Communities' | 2006 | 3 | Art and Law, | 6 |
+| Samantha Joseph and Erin Mackay, | 'Moral Rights and Indigenous Communities' | 2006 | 3 | *Art and Law*, | 6 |
 
 - When citing the names of the authors, they should appear in the exact order as they are listed in the source material.
 
@@ -962,6 +963,46 @@ For example, if Geoffrey Smith wanted to cite a paper they wrote at RMIT Univers
 ###### end-subtype
 
 ###### end-type-content
+
+
+<!-- AI-generated content - links to the ninth type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Using AI-generated content
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Referencing guidelines for AI-generated content
+
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
+
+
+
 
 
 <!-- you may add more type/sub-type sections here if needed -->

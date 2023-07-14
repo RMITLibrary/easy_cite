@@ -1,4 +1,4 @@
-'ll <!-- IEEE Style Guide -->
+<!-- IEEE Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
@@ -26,12 +26,12 @@
 ## Using IEEE
 ## Books
 ## Journal articles
-## Magazines
 ## Conferences
 ## Reports
 ## Webpages
 ## Audiovisual media
 ## Other sources
+## AI-generated content
 ###### end-type-menu
 
 <!-- start the content area which will contain all the type/subtype panes -->
@@ -79,7 +79,7 @@ Download the IEEE referencing guide (PDF, 685 KB, 43 pages) from the IEEE Author
 
 - In your writing, you must acknowledge each author or source of information (whether print or online) either by **paraphrasing** or using a direct quote.
 
-- References that are cited in-text must appear as a number within square brackets, and placed before any punctuation with a space before the bracket [5].
+- References that are cited in-text must appear as a number within square brackets, and need to come before any punctuation with a space before the bracket [1].
 
 - Numbered references used in-text start at [1] and continue in **ascending** order within the body of the work.
 Once a source has been cited and allocated a reference number, the same reference number must be used throughout the body of a work if it’s referred to multiple times.
@@ -94,9 +94,9 @@ Once a source has been cited and allocated a reference number, the same referenc
 
 - It is **not** necessary to mention either the author(s) or dates of any work cited in-text.
 
-- If referring to authors in the body of the text, then all author family names must be listed up to **two** authors. If there are **three or more** authors, then cite only the family name of the first author followed by **et al.** for the first and subsequent citations.
+- When citing in text, for **one to two** authors, include both author’s family names. When there are **three or more** authors, cite the first family name, followed by **et al.**
 
-- When directly quoting, that is using the exact words that an author has used, enclose the quote in double quotation marks “ ” and allocate a citation number along with the page number(s) in square brackets [5, p.74].
+- When directly quoting, that is using the exact words that an author has used, enclose the quote in double quotation marks “ ” and allocate a citation number along with the page number(s) in square brackets [2, p.44].
 
 - In your writing, **acronyms** should be written out in full the first time referred to, followed by the acronym in parentheses. For subsequent occurrences, the use of the acronym is acceptable. See the **Abbreviations** section for more details.
 
@@ -174,6 +174,12 @@ If citing the same reference within the body of the text, then use the same cita
 
 - [1, Fig. 31] a figure
 
+- [1, Sec. 6.5] a section
+
+- [1, Tab. 12] a table
+
+- [1, eq. (7)] an equation
+
 ###### end-subtype-content
 
 ###### end-subtype-item
@@ -236,7 +242,7 @@ If the original source cannot be located, then do **not** cite it.
 
 When citing journals, patents and websites, use the following abbreviations for months:
 
-> Jan., Feb., Mar., Apr., May, Jun,, Jul., Aug., Sept., Oct., Nov., and Dec. (*note that the month of May appears in full and does not require a full stop*).
+> Jan., Feb., Mar., Apr., May, Jun., Jul., Aug., Sept., Oct., Nov., and Dec. (*note that the month of May appears in full and does not require a full stop*).
 
 Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for a quarterly issue e.g. Jun–Aug. 2015.
 
@@ -319,7 +325,7 @@ When citing electronic sources such as e-journal articles or e-books, you **must
 
 The DOI can be added to the reference list using the following formats: doi:xx.xxxxxxxxxxxx or http://doi:xx.xxxxxxxxxxxxx
 
-if a URL is available for that source that must also be included. 
+If a URL is available for that source that must also be included. 
 
 If a reference contains both a DOI or accessed date, as well as a URL, place the DOI or accessed date first and the URL at the end.
 
@@ -360,7 +366,7 @@ Cities in other countries (outside the USA and UK) just need to include the city
 #### Reference List
 
 {.ieee-refs}
-[1] &nbsp;&nbsp; J. L. Blackburn, Protective Relaying: *Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014.
+[1] &nbsp;&nbsp; J. L. Blackburn, *Protective Relaying: Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014.
 
 [2] &nbsp;&nbsp; H. F. Lodish *et al.*, *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012.
 
@@ -376,11 +382,11 @@ Cities in other countries (outside the USA and UK) just need to include the city
 
 [8] &nbsp;&nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow
 
-[9] &nbsp;&nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, http://doi:10.4225/08/5913e0247881b.
+[9] &nbsp;&nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, http<nolink>://doi:10.4225/08/5913e0247881b.
 
 [10] &nbsp; K. Deby, “Multinode temperature sensor,” Patent 2016102110, 2016. [Online]. Available: https<nolink>://www.austpat/189907465454.com
 
-[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online].doi:<nolink>10.1002/9781119573784.ch18. Available: https<nolink>://www.saiglobal/ieee2743287647644
+[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. doi:<nolink>10.1002/9781119573784.ch18. Available: https<nolink>://www.saiglobal/ieee2743287647644
 
 [12] &nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: https<nolink>://researchrepository.rmit.edu.au/esploro/outputs/doctoral/A-model-formulation-approach-for-system/9921863821301341?institution=61RMIT_INST#file-0
 {/.ieee-refs}
@@ -428,7 +434,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing books make sure to include the following information where available:
 
-Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. State (US only), Country: Publisher, Year of Publication.
 
 > {.ieee-refs}[2] &nbsp;&nbsp; J. L. Blackburn, *Protective Relaying: Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014. {/.ieee-refs}
 
@@ -645,9 +651,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a book chapter make sure to include the following information where available:
 
-Author(s) initials. Family name(s), "Title of the chapter," in *Title of the Book*, Ed., (editor if available), ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication, ch., pp.
+Author(s) initials. Family name(s), "Title of the chapter," in *Title of the Book*, Ed., (editor if available), ed. (edition, except the first). City of Publisher, abbrev. State (US only), Country: Abbrev. of Publisher, Year of Publication, ch. x, pp. xxx–xxx (chapter/s or first and last pages of the article).
 
-> {.ieee-refs}[2] &nbsp;&nbsp; L. B. Wagenaar, "Electrical bushings," in *Electric Power Transformer Engineering*, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, ch.9, pp. 1-24. {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; L. B. Wagenaar, "Electrical bushings," in *Electric Power Transformer Engineering*, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, ch.13, pp. 1-24. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -679,7 +685,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing e-books from a database make sure to include the following information where available:
 
-Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication. [Online]. Available: database homepage URL
+Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). City of Publisher, State (US only), Country: Abbrev. of Publisher, Year of Publication. [Online]. Available: database homepage URL
 
 > {.ieee-refs}[2] &nbsp;&nbsp; P. Curwen and J. Whalley, *Mobile Telecommunications in a High-Speed World: Industry Structure, Strategic Behaviour and Socio-Economic Impact*. Farnham, U.K.: Ashgate Publishing Ltd, 2011. [Online]. Available: https<nolink>://ebookcentral.proquest.com {/.ieee-refs}
 
@@ -715,9 +721,10 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing e-books from the internet make sure to include the following information where available:
 
-Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Year of Publication. [Online]. Available: site/path/file
+Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). City of Publisher, State (US only), Country: Abbrev. of Publisher, Year of Publication. [Online]. Available: site/path/file
 
-> {.ieee-refs}[2] &nbsp;&nbsp; L. Scharf, *A First Course in Electrical and Computer Engineering*, 2012. [Online]. Available: http<nolink>://www.freetechbooks.com/a-first-course-in-electrical-and-computer-engineering-t1038.html {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; M.H. Bollen, and H. Hassan. *Integration of Distributed Generation in the Power System*. 
+Somerset, UK: Wiley-IEEE Press. [Online]. Available: doi.org/10.1002/9781118029039. {/.ieee-refs}
 
 
 
@@ -1077,7 +1084,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 ###### end-type-content
 
 
-<!-- Magazines - links to the fourth type menu item -->
+<!-- Conferences - links to the fourth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1085,110 +1092,7 @@ Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journa
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Magazine article, print
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use <a href="http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IUseful Abbreviations in References (2022)</a> (opens in a new tab) or the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation.
-
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
-
-Other examples include:
-
-- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
-
-- Chemistry in Microelectronics = Chem. Microelectron.
-
-*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> The plane will have greater payload capacity if the energy storage system is lighter [4].
-
-> When considering reduction of payload capacity, Burke [4] concluded that the weight reduction of the energy storage system would be beneficial.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
-
-> "The lighter the energy storage system, the greater the payload the plane will be able to carry and sustain in flight" [4, p. 33].
-
-#### Reference list
-
-When citing magazine articles from a print source make sure to include the following information where available:
-
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazine*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year.
-
-> {.ieee-refs}[4] &nbsp;&nbsp; K. A. Burke, “High energy density regenerative fuel cells systems for terrestrial applications,” *IEEE Aerosp. Electron. Syst. Mag*., vol. 14, no. 12, pp. 23-34, Dec. 1999. {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-
-###### start-subtype-item
-
-### Magazine article, online
-
-###### start-subtype-content
-
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use [IEEE Useful Abbreviations in References(2022)](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf) or the [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) to locate the correct abbreviation.
-
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in [CAS Source Index (CASSI) Search Tool](https://cassi.cas.org/) is Int. J. Adv. Mater. Res.
-
-Other examples include:
-
-- Advances in Optical and Photonic Devices = Adv. Opt. Photonic Devices
-
-- Chemistry in Microelectronics = Chem. Microelectron.
-
-*Note: If you cannot locate the journal title, you can spell out the name of the journal title in full.*
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> As mentioned in [4], new machines will be as adaptable as our brains.
-
-> It is Rothganger’s [4] hypothesis that machines will become more like humans.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide both the citation number and the page number(s) from the source in square brackets.
-
-> Rothganger describes artificial intelligence as "the dream of a thinking machine" [4, p. 24].
-
-#### Reference list
-
-When citing magazine articles from an online source make sure to include the following information where available:
-
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Magazine*, vol. (volume number), no. (issue number), pp. first and last pages of the article, Month (if available) Year. [Online]. Available: name of database
-
-> {.ieee-refs}[4] &nbsp;&nbsp; F. Rothganger, “Special report: Can we copy the brain? The dawn of the real thinking machine,” *IEEE Spectr*., vol. 54, no. 6, pp. 22-25, May 2017. [Online]. Available: IEEE database {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### end-subtype
-
-###### end-type-content
-
-
-<!-- Conferences - links to the fifth type menu item -->
-###### start-type-content
-
-###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### Conference paper, Online
+### Conference paper, online
 
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -1209,11 +1113,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a conference paper that has been published in proceedings make sure to include the following information where available:
+When citing a conference paper that has been presented make sure to include the following information where available:
 
-Author(s) initials. Family name(s), (Date). Title of paper. Presented at Abbreviated Conf. title. [Online]. Available: site/path/file 
+Author(s) initials. Family name(s). (Date). Title. Presented at Abbreviated Conf. title. [Online]. Available: site/path/file
 
-> {.ieee-refs}[5] &nbsp;&nbsp; Y.S. Sergeev,  S.V. Sergeev, and G.E. Karpov, (2019). Modeling Three-Dimensional Liquid Flows in Computer-Controlled Vibrojet Mixer Using FlowVision. Presented at 5th Int. Conf. on Ind. Eng. (ICIE). [Online]. Available:  doi: 10.1007/978-3-030-22063-1_145 . {/.ieee-refs}
+> {.ieee-refs}[5] &nbsp;&nbsp; Y.S. Sergeev,  S.V. Sergeev, and G.E. Karpov. (2019). Modeling Three-Dimensional Liquid Flows in Computer-Controlled Vibrojet Mixer Using FlowVision. Presented at Proc. of the 5th Int. Conf. on Ind. Eng. (ICIE). [Online]. Available: doi: 10.1007/978-3-030-22063-1_145. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1243,13 +1147,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a conference paper that has been presented make sure to include the following information where available:
+When citing a conference paper that has been published in proceedings make sure to include the following information where available:
 
-Author(s) initials. Family name(s), “Title of paper,” in Abbreviated Name of Conf., (location of conference is optional), (Month and
-day(s) if provided) year, pp. xxx-xxx.
+Author(s) initials. Family name(s), “Title of paper,” in *Abbreviated Name of Conf.*, (location of conference is optional), (Month and day(s) if provided) year, pp. xxx-xxx.
 
-
-> {.ieee-refs}[5] &nbsp;&nbsp;P. J. Cornwell, "Implementing a program to motivate math and science grade school classrooms," in Proc. IEEE Frontiers in Educ. Conf., Washington, DC, USA, 1993, pp. 529-534. {/.ieee-refs}
+> {.ieee-refs}[5] &nbsp;&nbsp; P. J. Cornwell, "Implementing a program to motivate math and science grade school classrooms," in *Proc. IEEE Frontiers in Educ. Conf.*, Washington, DC, USA, 1993, pp. 529-534. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1261,7 +1163,7 @@ day(s) if provided) year, pp. xxx-xxx.
 ###### end-type-content
 
 
-<!-- Reports - links to the sixth type menu item -->
+<!-- Reports - links to the fifth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1328,11 +1230,9 @@ When citing reports from an online source make sure to include the following inf
 
 Organisation/company name, "Title of report," Company, City, abbrev. US State (if applicable), Country, Report Number/Type (if available). Date. Accessed Date. [Online]. Available: site/path/file
 
-> {.ieee-refs}[6] &nbsp;&nbsp;A. A. Catellier and S. D. Voran, “NTIA technical report TR-17-522: Intelligibility of selected speech codecs in frame-erasure conditions,” NTIA, Washington, DC, USA, May 5, 2016. Accessed 21 Sep. 2017. [Online]. Available: https://www.its.bldrdoc.gov/publications/3165.aspx {/.ieee-refs}
+> {.ieee-refs}[6] &nbsp;&nbsp; A. A. Catellier and S. D. Voran, “NTIA technical report TR-17-522: Intelligibility of selected speech codecs in frame-erasure conditions,” NTIA, Washington, DC, USA, May 5, 2016. Accessed 21 Sep. 2017. [Online]. Available: https://www.its.bldrdoc.gov/publications/3165.aspx {/.ieee-refs}
 
 ###### end-subtype-content
-
-###### end-subtype-item
 
 ###### end-subtype-item
 
@@ -1342,7 +1242,7 @@ Organisation/company name, "Title of report," Company, City, abbrev. US State (i
 ###### end-type-content
 
 
-<!-- Webpages - links to the seventh type menu item -->
+<!-- Webpages - links to the sixth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1375,7 +1275,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing webpages make sure to include the following information where available:
 
-Author(s) initials. Family name(s). "Title of Webpage." Title of Website (if available). URL (accessed Month Day, Year).
+Author(s) initials. Family name(s). "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
 
 > {.ieee-refs}[7] &nbsp;&nbsp; T. Fleischman. "Stabilizing molecule could pave way for lithium-air fuel cell." CNN.com. https<nolink>://www.news.cornell.edu/stories/2017/04/stabilizing-molecule-could-pave-way-lithium-air-fuel-cell (accessed Apr. 30, 2017). {/.ieee-refs}
 
@@ -1411,7 +1311,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing webpages with a corporate author make sure to include the following information where available:
 
-Organisation/company name. "Title of Webpage." Title of Website (if available). URL (accessed Month Day, Year).
+Organisation/company name. "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
 
 > {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017). {/.ieee-refs}
 
@@ -1450,13 +1350,16 @@ Author(s) initials. Family name(s), Place of Publication City, abbrev. US State 
 
 > {.ieee-refs}[9] &nbsp;&nbsp; V. Pterneas, Kinect for windows version 2: Body tracking, (Mar. 13, 2014). Accessed June 2, 2017. [Blog]. Available: https<nolink>://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/ {/.ieee-refs}
 
+###### end-subtype-content
+
+###### end-subtype-item
 
 ###### end-subtype
 
 ###### end-type-content
 
 
-<!-- Audiovisual media - links to the eighth type menu item -->
+<!-- Audiovisual media - links to the seventh type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1489,9 +1392,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a streaming video / YouTube video make sure to include the following information where available:
 
-Video Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Video. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file
+Video Owner/Creator, Location (if available). *Title of Video*. Release date (Month, Day if available, Year). Accessed: Month Day, Year. [Online Video]. Available: site/path/file
 
-> {.ieee-refs}[8] &nbsp;&nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. [Online Video]. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow {/.ieee-refs}
+> {.ieee-refs}[8] &nbsp;&nbsp; nottinghamscience, U.K. *What is Nanotechnology?* (Apr. 15, 2008). Accessed Feb. 22, 2018. [Online Video]. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1525,9 +1428,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a video tutorial make sure to include the following information where available:
 
-Video Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Video. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file
+Video Owner/Creator, Location (if available), Country. *Title of Video*. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file 
 
-> {.ieee-refs}[8] &nbsp;&nbsp; S. Allardice, Reviewing Software Development Methodologies. (May 22, 2012). Accessed June 2, 2017. [Online Video]. Available: https<nolink>://www.linkedin.com/learning?trk=learning-topics_nav-header-logo&upsellOrderOrigin=default_guest_learning {/.ieee-refs}
+> {.ieee-refs}[8] &nbsp;&nbsp; S. Allardice, *Reviewing Software Development Methodologies*. (May 22, 2012). Accessed June 2, 2017. [Online Video]. Available: https<nolink>://www.linkedin.com/learning?trk=learning-topics_nav-header-logo&upsellOrderOrigin=default_guest_learning {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1561,7 +1464,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing an audio podcast make sure to include the following information where available:
 
-Podcast Owner/Creator, Place of Publication City, abbrev. US State (if applicable), Country. Title of Podcast. Release date (Month Day if available, Year). Accessed Month Day, Year. [Podcast]. Available: site/path/file
+Podcast Owner/Creator, Location (if available). *Title of Podcast*. Release date (Month Day if available, Year). Accessed Month Day, Year. [Podcast]. Available: site/path/file
 
 > {.ieee-refs}[8] &nbsp;&nbsp; A. Schiffrin, Sydney, Australia. Materials go Nano. (Jan. 8, 2017). Accessed May 12, 2017. [Podcast]. Available: http<nolink>://www.abc.net.au/radionational/programs/scienceextra/materials-go-nano/8117286 {/.ieee-refs}
 
@@ -1576,47 +1479,11 @@ Podcast Owner/Creator, Place of Publication City, abbrev. US State (if applicabl
 
 ###### end-type-content
 
-<!-- Other sources - links to the ninth type menu item -->
+<!-- Other sources - links to the eighth type menu item -->
 
 ###### start-type-content
 
 ###### start-subtype
-
-
-###### start-subtype-item
-<!-- the SUBTYPE headings must use heading 3 (###) -->
-### Blog
-
-<!-- first accordion item -->
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the citation number in square brackets. Or, if referring to the author(s) family name in the body of the text, then include the citation number in square brackets immediately after the family name.
-
-> Updating the Kinect software has enabled the creators to track a maximum of 25 body joints; 20% more than the first version, and now including fists and thumbs [9].
-
-> Pterneas [9] relates that updating the Kinect software has enabled the creators to track a maximum of 25 body joints; 20% more than the first version, and now including fists and thumbs.
-
-#### Direct quote in-text
-
-When directly quoting, place the quote in double quotation marks " " and provide the citation number in square brackets.
-
-*Note: Page numbers are NOT required for this format type.*
-
-> "The initial version of Kinect allowed us to track up to 20 body joints. The second version allows up to 25 joints. The new joints include the fists and thumbs!" [9].
-
-#### Reference list
-
-When citing a blog make sure to include the following information where available:
-
-Author(s) initials. Family name(s). "Page Title." Title of Blog. Accessed: abbrev. Month Day, Year. [Online]. Available: site/path/file
-
-> {.ieee-refs}[9] &nbsp;&nbsp; V. Pterneas. "Kinect for Windows version 2: Body tracking." Blog - Vangos Pterneas. Accessed: Jun. 2, 2017. [Online]. Available: https<nolink>://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/ {/.ieee-refs}
-
-###### end-subtype-content
-
-###### end-subtype-item
 
 ###### start-subtype-item
 
@@ -1832,9 +1699,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing a standard make sure to include the following information where available:
 
-*Title of Standard*, Standard Number, Publisher (if applicable), Year. [Online]. Available: site/path/file
+*Title of Standard*, Standard number, date. [Online]. Available: site/path/file
 
-> {.ieee-refs}[9] &nbsp;&nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. Available: https<nolink>://ieeexplore.ieee.org/document/5756728 {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; *IEEE Standard for Floating Part Arithmetic*, 754-2019, Jul.22. [Online]. Available: https<nolink>://ieeexplore.ieee.org/document/8766229  {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1936,6 +1803,44 @@ In the Reference list include:
 ###### end-subtype
 
 ###### end-type-content
+
+
+
+<!-- AI-generated content - links to the ninth type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Using AI-generated content
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Referencing guidelines for AI-generated content
+
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
 
 
 <!-- you may add more type/sub-type sections here if needed -->
