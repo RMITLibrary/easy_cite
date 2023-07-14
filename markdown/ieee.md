@@ -31,6 +31,7 @@
 ## Webpages
 ## Audiovisual media
 ## Other sources
+## AI-generated content
 ###### end-type-menu
 
 <!-- start the content area which will contain all the type/subtype panes -->
@@ -1802,6 +1803,44 @@ In the Reference list include:
 ###### end-subtype
 
 ###### end-type-content
+
+
+
+<!-- AI-generated content - links to the ninth type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Using AI-generated content
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Referencing guidelines for AI-generated content
+
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
 
 
 <!-- you may add more type/sub-type sections here if needed -->
