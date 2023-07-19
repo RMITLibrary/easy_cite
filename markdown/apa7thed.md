@@ -2199,7 +2199,7 @@ If using AI-generated images reproduced in a published source (e.g. a newspaper 
 
 
 **Example**
-> _Note_. An AI-generated image took first place in the digital category at the Colorado State Fair. From "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy." by K. Roose, 2022, _The New York Times_, https<nolink>://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html, Copyright 2023 The New York Times Company.
+> _Note_. An AI-generated image took first place in the digital category at the Colorado State Fair. From "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy." by K. Roose, 2022, _The New York Times_, https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html, Copyright 2023 The New York Times Company.
 
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
