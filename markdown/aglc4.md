@@ -803,11 +803,11 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 **Footnote example**
 
-> <sup>1</sup> Board of Examiners, 'Admission Requirements', *Council of Legal Information* (18 February 2010 <http<nolink>://www.lawadmissions.vic.gov.au>
+> <sup>1</sup> Board of Examiners, 'Admission Requirements', *Council of Legal Information* (18 February 2010) <http<nolink>://www.lawadmissions.vic.gov.au>.
 
 **Bibliography example**
 
-> Board of Examiners, "Admission Requirements', *Council of Legal Information* (18 February 2010) <http<nolink>://www.lawadmissions.vic.gov.au>
+> Board of Examiners, 'Admission Requirements', *Council of Legal Information* (18 February 2010) <http<nolink>://www.lawadmissions.vic.gov.au>
 
 ###### end-subtype-content
 
