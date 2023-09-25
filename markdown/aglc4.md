@@ -31,6 +31,7 @@
 ## Online sources
 ## Audio visual material
 ## Other sources
+## AI-generated content
 ###### end-type-menu
 <!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
@@ -194,7 +195,9 @@ Meagher, Dan, ‘Digital Sampling/Remix Culture Forum’ (2012) 17(2) *Deakin La
 
 {.centre-align}B *Cases*{/.centre-align}
 
-*Roadshow Films Pty Limited v iiNet Limited* \[2012\] HCA 16; (2012) 248 CLR 42
+*Minister for Immigration and Citizenship v SZIAI* \[2009\] HCA 39 
+
+*Roadshow Films Pty Limited v iiNet Limited* (2012) 248 CLR 42
 
 *Walton v Gardiner* (1993) 112 ALR 289
 
@@ -678,7 +681,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 | Two authors | Title | Year | Vol. & Issue | Journal | Page |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Samantha Joseph and Erin Mackay, | 'Moral Rights and Indigenous Communities' | 2006 | 3 | *Art and Law*, | 6 |
+| Samantha Joseph and Erin Mackay, | 'Moral Rights and Indigenous Communities' | 2006 | 3 | *Art and Law* | 6 |
 
 - When citing the names of the authors, they should appear in the exact order as they are listed in the source material.
 
@@ -694,7 +697,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 **Footnote example**
 
-> <sup>1</sup> Benjamin Hayward, John Morss and Oscar Roos, 'Beyond the Separation of Powers: Judicial Review and the Regulatory Proscription of Terrorist Organisations' (2010) 35 (1) *University of Western Australia Law Review*, 81.
+> <sup>1</sup> Benjamin Hayward, John Morss and Oscar Roos, 'Beyond the Separation of Powers: Judicial Review and the Regulatory Proscription of Terrorist Organisations' (2010) 35 (1) *University of Western Australia Law Review* 81.
 
 **Pinpoint example**
 
@@ -708,11 +711,11 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 **Footnote example**
 
-> <sup>1</sup> Gary Edmond et al, 'Law’s Looking Glass: Expert Identification Evidence Derived from Photographic and Video Images' (2009) 20 *Current issues in Criminal Justice*, 337.
+> <sup>1</sup> Gary Edmond et al, 'Law’s Looking Glass: Expert Identification Evidence Derived from Photographic and Video Images' (2009) 20 *Current issues in Criminal Justice* 337.
 
 **Pinpoint example**
 
-> <sup>1</sup> Gary Edmond et al, 'Law’s Looking Glass: Expert Identification Evidence Derived from Photographic and Video Images' (2009) 20 *Current issues in Criminal Justice*, 337, 338.
+> <sup>1</sup> Gary Edmond et al, 'Law’s Looking Glass: Expert Identification Evidence Derived from Photographic and Video Images' (2009) 20 *Current issues in Criminal Justice* 337, 338.
 
 **Bibliography example**
 
@@ -729,9 +732,9 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 ###### start-subtype-content
 
-| Author | Title | Newspaper | (Place) | Date | Pinpoint |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| Laura Tingle | 'Norway fund ponders dumping coal', | *The Australian Financial Review*, | (Sydney) | 24 February 2015, | 8 |
+| Author | Title | Newspaper | Place and Date | Pinpoint |
+| ------ | ------ | ------ | ------ | ------ |
+| Laura Tingle | 'Norway fund ponders dumping coal', | *The Australian Financial Review*, | (Sydney, 24 February 2015) | 8 |
 
 - The title of the article should appear un-italicised within single quotation marks.
 
@@ -745,15 +748,15 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 #### Footnote example
 
-> <sup>1</sup> Laura Tingle, 'Norway fund ponders dumping coal', *The Australian Financial Review*, (Sydney), 24 February 2015.
+> <sup>1</sup> Laura Tingle, 'Norway fund ponders dumping coal', *The Australian Financial Review*, (Sydney, 24 February 2015).
 
 #### Pinpoint example
 
-> <sup>1</sup> Laura Tingle, 'Norway fund ponders dumping coal', *The Australian Financial Review*, (Sydney), 24 February 2015, 8.
+> <sup>1</sup> Laura Tingle, 'Norway fund ponders dumping coal', *The Australian Financial Review*, (Sydney, 24 February 2015) 8.
 
 #### Bibliography example
 
-> Tingle, Laura, 'Norway fund ponders dumping coal', *The Australian Financial Review*, (Sydney), 24 February 2015
+> Tingle, Laura, 'Norway fund ponders dumping coal', *The Australian Financial Review*, (Sydney, 24 February 2015)
 
 
 
@@ -780,15 +783,15 @@ When the citation appears in a bibliography, list the family name first. Sources
 <!-- first accordion item -->
 ###### start-subtype-content
 
-| Author | Document title | Full date | Website name | URL |
-| ------ | ------ | ------ | ------ | ------ |
-| Board of Examiners, | *Admission Requirements* | (18 February 2010) | Council of Legal Information | <http<nolink>://lawadmissions.vic.gov.au> |
+| Author | Document title | Website name | Document type | Full date | URL |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Board of Examiners, | 'Admission Requirements', | *Council of Legal Information* | (Web page, | 18 February 2010) | <http<nolink>://lawadmissions.vic.gov.au> |
 
 - A source should only be cited like this if it does not exist in published form.
 
 - The author's name should be included if available on the webpage or document.
 
-- The title of the page or document cited should be included in italics after the author’s name.
+- The title of the page or document cited should be included after the author’s name.
 
 - Where available, the full date of the last update of the page or document should be included.
 
@@ -800,11 +803,11 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 **Footnote example**
 
-> <sup>1</sup> Board of Examiners, *Admission Requirements* (18 February 2010) Council of Legal Information <http<nolink>://www.lawadmissions.vic.gov.au>
+> <sup>1</sup> Board of Examiners, 'Admission Requirements', *Council of Legal Information* (18 February 2010) <http<nolink>://www.lawadmissions.vic.gov.au>.
 
 **Bibliography example**
 
-> Board of Examiners, *Admission Requirements* (18 February 2010) Council of Legal Information <http<nolink>://www.lawadmissions.vic.gov.au>
+> Board of Examiners, 'Admission Requirements', *Council of Legal Information* (18 February 2010) <http<nolink>://www.lawadmissions.vic.gov.au>
 
 ###### end-subtype-content
 
@@ -829,15 +832,15 @@ When the citation appears in a bibliography, list the family name first. Sources
 <!-- first accordion item -->
 ###### start-subtype-content
 
-| Title | (Directed by Name, Production Company, Year) | Pinpoint |
+| Title | (Production Company, Year) | Pinpoint |
 | ------ | ------ | ------ |
-| *A Few Good Men* | (Directed by Rob Reiner, Castle Rock Entertainment, 1992) | 1:15:25 |
+| *A Few Good Men* | (Castle Rock Entertainment, 1992) | 1:15:25 |
 
 - The same convention applies for both film and sound recordings.
 
 - List the title first in italics.
 
-- Enclose the name of the director, production company and year of the recording in parentheses '( )'.
+- Enclose the name of the production company and year of the recording in parentheses '( )'.
 
 - Pinpoint references should be at the point of time of the recording, and appear in the following format - hours: minutes: seconds.
 
@@ -845,15 +848,15 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 #### Footnote example
 
-> <sup>1</sup> *A Few Good Men* (Directed by Rob Reiner, Castle Rock Entertainment, 1992).
+> <sup>1</sup> *A Few Good Men* (Castle Rock Entertainment, 1992).
 
 #### Pinpoint example
 
-> <sup>1</sup> *A Few Good Men* (Directed by Rob Reiner, Castle Rock Entertainment, 1992) 1:15:25.
+> <sup>1</sup> *A Few Good Men* (Castle Rock Entertainment, 1992) 1:15:25.
 
 #### Bibliography example
 
-> *A Few Good Men* (Directed by Rob Reiner, Castle Rock Entertainment, 1992)
+> *A Few Good Men* (Castle Rock Entertainment, 1992)
 
 ###### end-subtype-content
 
@@ -886,7 +889,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 **Footnote example**
 
-> <sup>1</sup> ABC Radio National, 'Using evidence obtained in search warrants', *The Law Report*, 3 February 2015, (Damian Carrick) <http<nolink>://www.abc.net.au/radionational/programs/lawreport/surfers-paradise/6028122#transcript>
+> <sup>1</sup> ABC Radio National, 'Using evidence obtained in search warrants', *The Law Report*, 3 February 2015, (Damian Carrick) <http<nolink>://www.abc.net.au/radionational/programs/lawreport/surfers-paradise/6028122#transcript>.
 
 **Bibliography example**
 
@@ -962,6 +965,46 @@ For example, if Geoffrey Smith wanted to cite a paper they wrote at RMIT Univers
 ###### end-subtype
 
 ###### end-type-content
+
+
+<!-- AI-generated content - links to the ninth type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Using AI-generated content
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Referencing guidelines for AI-generated content
+
+###### start-subtype-content
+
+enter subtype details here
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
+
+
+
 
 
 <!-- you may add more type/sub-type sections here if needed -->
