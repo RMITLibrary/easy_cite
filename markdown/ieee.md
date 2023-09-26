@@ -1277,7 +1277,7 @@ When citing webpages make sure to include the following information where availa
 
 Author(s) initials. Family name(s). "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
 
-> {.ieee-refs}[7] &nbsp;&nbsp; T. Fleischman. "Stabilizing molecule could pave way for lithium-air fuel cell." CNN.com. https<nolink>://www.news.cornell.edu/stories/2017/04/stabilizing-molecule-could-pave-way-lithium-air-fuel-cell (accessed Apr. 30, 2017). {/.ieee-refs}
+> {.ieee-refs}[7] &nbsp;&nbsp; T. Fleischman. "Stabilizing molecule could pave way for lithium-air fuel cell." CNN.com. Accessed: Apr. 30, 2017. [Online]. Available: https<nolink>://www.news.cornell.edu/stories/2017/04/stabilizing-molecule-could-pave-way-lithium-air-fuel-cell. {/.ieee-refs}
 
 ###### end-subtype-content
 
@@ -1313,7 +1313,7 @@ When citing webpages with a corporate author make sure to include the following 
 
 Organisation/company name. "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
 
-> {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017). {/.ieee-refs}
+> {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." (accessed June 1, 2017). [Online] Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ {/.ieee-refs}
 
 ###### end-subtype-content
 
