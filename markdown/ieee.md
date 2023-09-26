@@ -1313,7 +1313,7 @@ When citing webpages with a corporate author make sure to include the following 
 
 Organisation/company name. "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
 
-> {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." (accessed June 1, 2017). [Online] Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ {/.ieee-refs}
+> {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." (accessed June 1, 2017). [Online] Energy Networks Australia.Available:  https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ {/.ieee-refs}
 
 ###### end-subtype-content
 
