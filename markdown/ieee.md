@@ -1907,12 +1907,15 @@ Rule: Reference number. Title of Software. (version or year), Publisher Name. Ac
 Example: 1. Bard (2023.06.07), Google. Accessed: Jun 23, 2023. [Online]. See Appendix for generated text and prompt used.
 #### How to reference AI-generated images in IEEE
 **How to reference images that you produce using an AI tool:**
+
 Include the image in your work with a caption that explains that the work was generated using an AI tool, and what prompt was used.
 Example:
-<img https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/215296/images/Firefly_a_typical_engineer_70080.jpg alt="typical engineer" style="height: 100px; width: 100px;"/>
+https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/215296/images/Firefly_a_typical_engineer_70080.jpg
+
 **Fig 1.** Image generated using Adobe Firefly from the prompt a typical engineer.
 
 **How to reference AI-generated images reproduced in a published source:**
+
 If using reproduced images, the IEEE style advice is to reference the published source, using a numbered in-text citation that matches the corresponding reference list entry. If including the AI-generated image in your work, include information and a numbered citation in the figure caption below the image.
 
 **Caption**
@@ -1920,6 +1923,7 @@ Rule: **Fig. number.** Description of figure [reference number]
 Example: **Fig 1.** A typical engineer as created by Stylianos Moschoglou using an AI machine learning model [1]
 
 **Reference list entry:**
+
 Reference the published source according to the [relevant source guidelines](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf). The example below is a webpage.
 Example: 1. C. Barkla. "AI created an image of the ‘average’ engineer – but it’s not the whole picture." Create Digital. Available: https://createdigital.org.au/what-average-engineer-looks-like-ai/ (accessed Mar. 1, 2023).
 
