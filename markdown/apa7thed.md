@@ -971,7 +971,7 @@ It is necessary to also state the jurisdiction of the legislation, either in the
 
 *Note: Include the jurisdiction the first time the act is cited. The jurisdiction can be dropped with subsequent citations.*
 
-> According to the *Victorian Mental Health Act* (2014, s. 29) . . .
+> According to the Victorian *Mental Health Act* (2014, s. 29) . . .
 
 > Victoria’s *Mental Health Act* (2014, s. 29) states that . . .
 
