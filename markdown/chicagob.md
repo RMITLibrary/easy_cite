@@ -2399,7 +2399,8 @@ As from a copyright perspective, you are considered the creator of work that is 
 
 ##### Example
 
-> Figure 1. Artwork created using Adobe Firefly in response to the prompt two students studying in a park in the sunshine.
+> ![Sample image](images/two-students-studying.jpg)</br>
+> Figure 1. Artwork created using Adobe Firefly in response to the prompt: two students studying in a park in the sunshine.
 
 
 **How to reference an AI-generated image reproduced from a published source:**
