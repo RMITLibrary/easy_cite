@@ -1767,7 +1767,7 @@ Make sure you refer to the figure in your writing and include the figure number.
 #### Captions for your own Work
 
 - Images you create of your own work are not usually referenced. However, a caption such as “Figure 2. Illustration by author” or “Figure 3. Draft sketches” might be appropriate when other images in your assignment are referenced.
-- See <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-5#stn-9#subtype-44">AI-generated content</a> for examples of how to reference an image you produce using an AI tool.
+- See <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-5#stn-9#subtype-44">AI-generated content</a> for examples of how to caption an image you produce using an AI tool.
 
 Figure number. Description or explanation.
 
