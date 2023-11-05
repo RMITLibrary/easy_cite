@@ -29,7 +29,8 @@
 ## Newspaper articles
 ## Legal material
 ## Audiovisual materials
-## Web pages / Social media
+## Webpages and websites
+## Social media
 ## Images / Tables
 ## Other sources
 ## AI-generated content
@@ -53,14 +54,14 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: This is a guide only**. To avoid losing marks:
+**Important: This is a guide only.** To avoid losing marks:
 
-- Confirm the referencing requirements of your school with your lecturer, and
-Use the <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341" target="_blank">American Psychological Association. (2020). Publication manual of the American Psychological Association (7<sup>th</sup> ed.)</a> (opens in a new tab). to clarify referencing rules or if you need more examples. This guide is based on this publication.
-APA is an **author-date** referencing style. You need to follow this style when acknowledging your information sources.
-
-- APA style requires that all references in a document are to be cited in-text, and that all in-text citations are compiled in a reference list at the end of the document. **In-text citations** appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable). The **reference list** must provide full details of all in-text citations, and be arranged alphabetically by author.
-
+- Confirm the referencing requirements for your course with your lecturer.
+- To clarify referencing rules or if you need more examples, refer to the following publication that this guide is based on; American Psychological Association. (2020). <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341" target="_blank">*Publication manual of the American Psychological Association* (7<sup>th</sup> ed.).</a> 
+- APA 7<sup>th</sup> ed. is an **author-date** referencing style which requires all references to be cited in-text and in a reference list.
+- **In-text references** appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable).
+- A **reference list** provides the full bibliographic details of all in-text references and is arranged alphabetically by author at the end of the document.
+- Refer to the <a href="https://apastyle.apa.org/style-grammar-guidelines/references" target="_blank">*Style and Grammar Guidelines*</a> page (opens in a new tab) on the <a href="https://apastyle.apa.org/" target="_blank">*APA Style website*</a> for updates to the APA style and additional referencing examples.
 
 ###### end-subtype-content
 
@@ -655,11 +656,11 @@ Follow the same rules for citing a book, but provide a DOI or URL if stated.
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year). *Title of book: Subtitle of book*. Publisher Name. https://doi.org/xxxx  {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year). *Title of book: Subtitle of book*. Publisher Name. https:<nolink>//doi.org/xxxxx  {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Watkins, J. (2017). *Laboratory and field exercises in sport and exercise biomechanics*. Routledge. https<nolink>//doi.org/10.4324/9781315306315 {/.hanging-indent}
+> {.hanging-indent}Watkins, J. (2017). *Laboratory and field exercises in sport and exercise biomechanics*. Routledge. https:<nolink>//doi.org/10.4324/9781315306315 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -739,6 +740,12 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 When including journal articles in the reference list, you must italicise the title of the Journal and volume number, and include the digital object identifier (DOI) at the end of the reference (if stated).
 
+##### Rule
+
+> {.hanging-indent}Author, A. A. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https<nolink>://doi.org/xxxxx {/.hanging-indent}
+
+##### Example
+
 > {.hanging-indent}Musiek, E. S. (2017). Circadian rhythms in AD pathogenesis: A critical appraisal. *Current Sleep Medicine Reports*, *3*(2), 85-92. https<nolink>://doi.org/10.1007/s40675-017-0072-5 {/.hanging-indent}
 
 ###### end-subtype-content
@@ -772,6 +779,12 @@ List both authors, and separate the names with an ampersand symbol &.
 
 When including journal articles in the reference list, you must italicise the title of the Journal and volume number, and include the **digital object identifier (DOI)** at the end of the reference (if stated).
 
+##### Rule
+
+> {.hanging-indent}Author, A. A., & Author, B. B. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https<nolink>://doi.org/xxxxx {/.hanging-indent}
+
+##### Example
+
 > {.hanging-indent}Felton, A., & Royal, J. (2015). Skills for nursing practice: Development of clinical skills in pre-registration nurse education. *Nurse Education in Practice*, *15*(1), 38-43. https<nolink>://doi.org/10.1016/j.nepr.2014.11.009 {/.hanging-indent}
 
 ###### end-subtype-content
@@ -801,9 +814,15 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Reference list
 
-List all authors (up to 20), placing an ampersand symbol & before the last name.
+List all authors (up to 20), placing an ampersand symbol (&) before the last author's name.
 
 When including journal articles in the reference list, you must italicise the title of the Journal and volume number, and include the digital object identifier (DOI) at the end of the reference (if stated).
+
+##### Rule
+
+> {.hanging-indent}Author, A. A., Author, B. B., Author, C. C., Author, D. D., Author, E. E., & Author, F. F. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https<nolink>://doi.org/xxxxx {/.hanging-indent}
+
+##### Example
 
 > {.hanging-indent}Demacheva, I., Ladouceur, M., Steinberg, E., Pogossova, G., & Raz, A. (2012). The applied cognitive psychology of attention: A step closer to understanding magic tricks. *Applied Cognitive Psychology*, *26*, 541-549. https<nolink>://doi.org/10.1002/acp.2825 {/.hanging-indent}
 
@@ -833,6 +852,12 @@ Place direct quotes between double quotation marks " " and provide the page numb
 #### Reference list
 
 List the first 19 authors followed by three ellipsis points (. . .) then the last author.
+
+##### Rule
+
+> {.hanging-indent}Author, A. A., Author, B. B., Author, C. C., Author, D. D., Author, E. E., Author, F. F., Author, G. G., Author, H. H., Author, I. I., Author, J. J., Author, K. K., Author, L. L., Author, M. M., Author, N. N., Author, O. O., Author, P. P., Author, Q. Q., Author, R. R., Author, S. S., . . . Author, T. T. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https<nolink>://doi.org/xxxxx {/.hanging-indent}
+
+##### Example
 
 > {.hanging-indent}Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., . . . Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. *Bulletin of the American Meteorological Society*, *77*(3), 437-472. https<nolink>://doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2 {/.hanging-indent}
 
@@ -864,6 +889,12 @@ Place direct quotes between double quotation marks " " and provide the page numb
 #### Reference list
 
 If citing a journal article without a DOI, include the volume, issue number (if available), and page number(s).
+
+##### Rule
+
+> {.hanging-indent}Author, A. A., & Author, B. B. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. {/.hanging-indent}
+
+##### Example
 
 > {.hanging-indent}Walker, B., & Buchbinder, R. (1997). Most commonly used methods of detecting spinal subluxation and the preferred term for its description: A survey of chiropractors in Victoria, Australia. *Journal of Manipulative & Physiological Therapeutics*, *20*(9), 583-589. {/.hanging-indent}
 
@@ -910,6 +941,12 @@ Do NOT italicise the title of the article, only the title of the newspaper.
 
 Include the day, month and year, as well as the exact URL of the article.
 
+##### Rule
+
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* https<nolink>://xxxxx {/.hanging-indent}
+
+##### Example
+
 > {.hanging-indent}Evans, K. (2015, January 5). Aspirin study raises hopes for dementia prevention. *The Age*. http<nolink>://search.proquest.com/docview/1641732086?accountid=13552 {/.hanging-indent}
 
 ###### end-subtype-content
@@ -942,6 +979,12 @@ Place direct quotes between double quotation marks " " and provide the page numb
 Do NOT italicise the title of the article, only the title of the newspaper.
 
 Include the day, month and year of the article, as well as the URL.
+
+##### Rule
+
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* https<nolink>://xxxxx {/.hanging-indent}
+
+##### Example
 
 > {.hanging-indent}Baird, J. (2016, November 4). There’s no such thing as ‘just a nurse’. *The Sydney Morning Herald*. https<nolink>://www.smh.com.au/opinion/why-we-need-to-listen-to-nurses-when-talking-about-health-20161103-gshfq1.html {/.hanging-indent}
 
@@ -977,6 +1020,12 @@ Do NOT italicise the title of the article, only the title of the newspaper.
 Include the day, month and year of the article.
 
 If the article is spread across discontinuous pages, provide all page numbers separated by a comma e.g. 2, 4, 8-9.
+
+##### Rule
+
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* Page number(s) or range. {/.hanging-indent}
+
+##### Example
 
 > {.hanging-indent}Parnell, S. (2016, November 16). Medicare freeze no check on GP visits. *The Australian*, 1, 5. {/.hanging-indent}
 
@@ -1092,9 +1141,54 @@ If a case is obtained from an electronic database, add a retrieval statement.
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Audio podcast
+### Film or movie
 
 <!-- first accordion item -->
+###### start-subtype-content
+
+The director should be considered the author of a film. If the director is not known, credit someone in a similar role (e.g. Executive Producer).
+
+#### Paraphrasing in-text
+
+When citing in-text, include the director’s family name and year of publication.
+
+> The character reveals . . . (Haynes, 1995).
+
+> Haynes (1995) demonstrates that . . .
+
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the year and a timestamp to indicate the exact starting point of the quote.
+
+> "I guess I'm just a little stressed out lately" (Haynes, 1995, 22:59).
+
+#### Reference list
+
+- When a film title is in a different language to your paper, include a translation of the title in square brackets.
+
+- Separate multiple production companies with a semicolon.
+
+##### Rule
+
+> {.hanging-indent}Director, D. D. (Director). (Year). *Title of work* [Film]. Production Company(-ies). {/.hanging-indent}
+
+##### Examples
+
+> {.hanging-indent}Haynes, T. (Director). (1995). *Safe* [Film]. American Playhouse; Killer Films; Film4 Productions; Good Machine. {/.hanging-indent}
+
+> {.hanging-indent}Erice, V. (Director). (1973). *El espíritu de la colmena* [The spirit of the beehive] [Film]. Bocaccio Distribución. {/.hanging-indent}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### Podcast
+
+
 ###### start-subtype-content
 
 #### Paraphrasing in-text
@@ -1121,44 +1215,13 @@ Italicise the podcast title and describe the form type inside square brackets e.
 
 Provide the exact URL.
 
+##### Rule
+
+> {.hanging-indent}Host, H. H. (Host). (Year, Month Day). *Title of work* [Audio podcast]. Production Company. https<nolink>:/xxxxx {/.hanging-indent}
+
+##### Example
+
 > {.hanging-indent}Swannell, C. (Host). (2019, November 25). *The effect of codeine rescheduling, with Dr Keith Harris* [Audio podcast]. https<nolink>://staging.mja.com.au/podcast/211/11/mja-podcasts-2019-episode-51-effect-codeine-rescheduling-dr-keith-harris {/.hanging-indent}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-
-### Video podcast
-
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include the host's family name and year of publication in brackets. Or, if referring to the host’s family name in the body of the text, then just include the year of publication in brackets immediately after the family name. If there is no host listed, then use either the executive producer or producer as author instead.
-
-> Current research indicates . . . (Taylor, 2016).
-
-> Taylor (2016) states that . . .
-
-*Note: If referring to the interviewee in-text, then incorporate them into the sentence e.g. On the subject of gene editing, Tizard (Taylor, 2016) states . . .*
-
-#### Direct quote in-text
-
-Place direct quotes between double quotation marks " " and provide the year and a timestamp to indicate the exact starting point of the quote.
-
-> "By editing DNA, we can not only eliminate the chance of disease, but also change how a person develops. . .and fundamentally understand what a single gene does" (Taylor, 2016, 2:00).
-
-#### Reference list
-
-Include details of the host or executive producer in the author position and their title.
-
-Italicise the podcast title and describe the form type inside square brackets e.g. [Video podcast].
-
-Provide the exact URL.
-
-> {.hanging-indent}Taylor, A. (Host). (2016, August 30). *Gene editing made simple* [Video podcast]. https<nolink>://www.abc.net.au/catalyst/gene-editing-made-simple/11016800 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1185,13 +1248,70 @@ Place direct quotes between double quotation marks " " and provide the year and 
 
 #### Reference list
 
-Include the database name in the author position.
+- Include the database name in the author position.
 
-Include the video title in italics and describe the form type inside square brackets e.g. [Video].
+- Include the video title in italics and describe the form type inside square brackets e.g. [Video].
 
-Provide the URL login page.
+- Provide the URL login page.
+
+##### Example
 
 > {.hanging-indent}Informit EduTV. (2016, May 31). *Revolution school: Ep. 1 of 4* [Video]. http<nolink>://edutv.informit.com.au {/.hanging-indent}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### TV series and episodes
+
+###### start-subtype-content
+
+- The executive producer(s) should be considered the author of a TV series.
+- When citing in-text for a TV episode, you will need to attribute the authors of the TV episode you are referencing, NOT the Executive Producer(s) of the entire work.
+- Provide the year(s) from when the series aired.
+- If the series is still airing, replace the second year with “present”: (2020–present)
+
+#### Paraphrasing in-text
+
+When paraphrasing, include the author's name and the year(s) from when the series or episode aired.
+
+> According to the protagonist . . . (Fielder et al., 2022–present).
+
+> Fielder et al., (2022–present) demonstrates a . . .
+
+#### Reference list
+
+##### TV series
+
+- When there is one executive producer, use the notation “(Executive Producer).” When there are multiple executive producers use (Executive Producers).”
+- Separate multiple production companies with a semicolon.
+
+##### Rule
+
+> {.hanging-indent}Producer, P. P. (Executive Producer). (Year-Year). *Title of series* [TV series]. Production Company/-ies. {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Fielder, N., Smith, C., Reinking, C., McManus, D., & Paige, D. (Executive Producers). (2022–present). *The Rehearsal* [TV series]. Blow Out Productions; HBO. {/.hanging-indent}
+
+##### TV episode
+
+- Include the writers and directors for the episode. Include the contributor’s role in parentheses after each name.
+- If one person performed multiple roles, combine the descriptions with an ampersand (&).
+- Provide the season number and episode number after the title in brackets.
+- Separate multiple production companies with a semicolon.
+
+##### Rule
+
+> {.hanging-indent}Writer, W. W. (Writer), & Director, D. D. (Director). (Year, Month Day). Title of episode (Season x, Episode x) [TV series episode]. In P. P. Producer (Executive Producer), *Title of series* Production Company/-ies. {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Kemper, C. (Writer), Notarnicola, E. (Writer), & Fielder, N. (Writer & Director). (2022, July 15). Orange juice, no pulp (Season 1, Episode 1) [TV series episode]. In Fielder, N., Smith, C., Reinking, C., McManus, D., & Paige, D. (Executive Producers), *The Rehearsal.* Blow Out Productions; HBO. {/.hanging-indent}
+
 
 ###### end-subtype-content
 
@@ -1223,6 +1343,12 @@ Include either the author/company/organisation name in the author position.
 Include the video title in italics and describe the form type inside square brackets e.g. [Video].
 
 Provide the exact URL in the retrieval statement.
+
+##### Rule
+
+> {.hanging-indent}Author, A. A. or Username. (Year, Month Day). *Title of video* [Video]. YouTube. https<nolink>://xxxxx {/.hanging-indent}
+
+##### Example
 
 > {.hanging-indent}Primal Pictures. (2014, September 19). *Primal’s 3D atlas of human anatomy* [Video]. YouTube. https<nolink>://youtu.be/g-BtsX3bGvs {/.hanging-indent}
 
