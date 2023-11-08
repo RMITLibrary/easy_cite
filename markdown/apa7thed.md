@@ -85,7 +85,7 @@
 
 #### Paraphrasing
 
-Paraphrasing is when you are expressing the ideas of the author(s) in your own words. When paraphrasing, use round brackets to add the author(s) family name and the year of publication, or use the author(s) family name as part of your sentence, followed by the year of publication in round brackets.
+Paraphrasing is when you are expressing the ideas of the author(s) in your own words. When paraphrasing, use round brackets (parentheses) to add the author(s) family name and the year of publication, or use the author(s) family name as part of your sentence, followed by the year of publication in parentheses.
 
 *Note: When paraphrasing, the citation details can be used at the beginning, middle or end of the sentence.*
 
@@ -137,7 +137,7 @@ If you omit words from a direct quote, you will need to add a space followed by 
 
 > Cannon (2012) argues that "changes in corporate approaches to such sensitive areas . . . will require coherent change strategies" (p. 165).
 
-*Note: Quotes more than **40 words** in length need to be in **block** form – without using quotation marks, begin the quote on a new, indented line, and double-space the entire quote. At the end of the quote, include citation details such as author(s), year and page number(s) in brackets.*
+*Note: Quotes more than **40 words** in length need to be in **block** form – without using quotation marks, begin the quote on a new, indented line, and double-space the entire quote. At the end of the quote, include citation details such as author(s), year and page number(s) in parentheses.*
 
 >> The difference between intrinsic motivation and motivation to learn is closely related to the difference between affective and cognitive engagement experiences. Intrinsic motivation refers primarily to affective experience—enjoyment of the processes involved in engaging in an activity. In contrast, motivation to learn is primarily a cognitive experience involving attempts to make sense of the information that an activity conveys, to relate this information to prior knowledge, and to master the skills that the activity develops. (Brophy, 2010, p. 12)
 
@@ -167,7 +167,7 @@ List all citations alphabetically, with a semi-colon to separate them.
 
 ###### start-subtype-content
 
-When an author has published more than one cited work in the same year, distinguish each work by using a lower case letter after the year within the brackets (this is also written in the reference list).
+When an author has published more than one cited work in the same year, distinguish each work by using a lower case letter after the year within the parentheses (this is also written in the reference list).
 
 **Paraphrasing in-text**
 
@@ -181,9 +181,9 @@ Identify works by the same author(s) in the same year by the suffixes a, b, c, e
 
 References by the same author(s) with the same publication year are arranged alphabetically by the title (excluding A or The) that follows the date.
 
-> Dean, E. (2017a). Practice nursing: An action plan for a disparate workforce. *Nursing Standard*, *32*(3), 25. https<nolink>://doi.org/10.7748/ns.32.3.25.s24
+> Dean, E. (2017a). Practice nursing: An action plan for a disparate workforce. *Nursing Standard*, *32*(3), 25. https://doi.org/10.7748/ns.32.3.25.s24
 
-> Dean, E. (2017b). Top nursing universities fall short in new ratings. *Nursing Standard*, *31*(44), 9. https<nolink>://doi.org/10.7748/ns.31.44.9.s8
+> Dean, E. (2017b). Top nursing universities fall short in new ratings. *Nursing Standard*, *31*(44), 9. https://doi.org/10.7748/ns.31.44.9.s8
 
 &nbsp;
 #### Lead authors are the same in the same year
@@ -200,9 +200,9 @@ If there are more than 3 authors and the lead author(s) are the same, but there 
 
 The reference list would include all authors.
 
-> Arnaiz, M., Cochrane, T., Calizaya, A., & Shrestha, M. (2018). A framework for evaluating the current level of success of micro-hydropower schemes in remote communities of developing countries. *Energy for Sustainable Development*, *44*, 55-63. https<nolink>://doi.org/10.1016/j.esd.2018.03.002
+> Arnaiz, M., Cochrane, T., Calizaya, A., & Shrestha, M. (2018). A framework for evaluating the current level of success of micro-hydropower schemes in remote communities of developing countries. *Energy for Sustainable Development*, *44*, 55-63. https://doi.org/10.1016/j.esd.2018.03.002
 
-> Arnaiz, M., Cochrane, T., Hastie, R., & Bellen, C. (2018). Micro-hydropower impact on communities' livelihood analysed with the capability approach. *Energy for Sustainable Development*, *45*, 206-210. https<nolink>://doi.org/10.1016/j.esd.2018.07.003
+> Arnaiz, M., Cochrane, T., Hastie, R., & Bellen, C. (2018). Micro-hydropower impact on communities' livelihood analysed with the capability approach. *Energy for Sustainable Development*, *45*, 206-210. https://doi.org/10.1016/j.esd.2018.07.003
 
 ###### end-subtype-content
 
@@ -243,7 +243,7 @@ Do NOT italicise the title of the article, only the title of the newspaper or ma
 
 Include the day, month and year of the article, as well as the URL.
 
-> {.hanging-indent}Budget to link school spending to outcomes. (2016, May 2). *The Australian*. <br> https<nolink>://www.theaustralian.com.au/opinion/editorials/budget-to-link-school-spending-to-outcomes/news-story/b1b98475b68869356cc6540766d6358a{/.hanging-indent}
+> {.hanging-indent}Budget to link school spending to outcomes. (2016, May 2). *The Australian*. <br> https://www.theaustralian.com.au/opinion/editorials/budget-to-link-school-spending-to-outcomes/news-story/b1b98475b68869356cc6540766d6358a{/.hanging-indent}
 
 
 #### Encyclopedia, Wikipedia or dictionary entry with no author
@@ -270,7 +270,7 @@ If the reference work is continously updated use **n.d.** as the year of publica
 
 If the reference work is taken from an archived page then no retrieval date is needed.
 
-> {.hanging-indent}Achromatopsia. (2005). In *Van Nostrand's scientific encyclopedia* (10th ed.). <br> https<nolink>://www.wiley.com/en-au/Van+Nostrand%27s+Scientific+Encyclopedia%2C+3+Volume+Set%2C+10th+Edition-p-9780471743385{/.hanging-indent}
+> {.hanging-indent}Achromatopsia. (2005). In *Van Nostrand's scientific encyclopedia* (10th ed.). <br> https://www.wiley.com/en-au/Van+Nostrand%27s+Scientific+Encyclopedia%2C+3+Volume+Set%2C+10th+Edition-p-9780471743385{/.hanging-indent}
 
 #### Book or report with no author
 
@@ -290,7 +290,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 Italicise the title and place it in the author position.
 
-Include a report number, not in italics and in brackets, directly after the title (if applicable).
+Include a report number, not in italics and in parentheses, directly after the title (if applicable).
 
 Include the year of publication (if available).
 
@@ -319,7 +319,7 @@ For example, if you read an article written by Hosany and Martin and they cite i
 
 In the reference list, you need to include the citation information for the Hosany and Martin article as that is where the Heath and Scott information was sourced:
 
-> {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, *65*(5), 685-691. https<nolink>://doi.org/10.1016/j.jbusres.2011.03.015{/.hanging-indent}
+> {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, *65*(5), 685-691. https://doi.org/10.1016/j.jbusres.2011.03.015{/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -379,17 +379,19 @@ When citing in-text, include the author first name initial(s) followed by their 
 
 - Italicise all book titles, journal titles, volume numbers, titles of newspapers and titles of webpages and websites.
 
+- Present both DOIs and URLs as hyperlinks. The default display settings for hyperlinks in your word-processing program (e.g., usually blue font, underlined) or plain text that is not underlined is acceptable.
+
 #### Digital object identifier (DOI)
 
 When citing electronic journal articles, you **MUST** include a digital object identifier (DOI) if stated. A DOI is a unique identifier that is assigned to individual journal articles, and provides a persistent link to online content.
 
 The recommended DOI format should appear in your reference list as:
 
-> https<nolink>://doi.org/xxxxxxxxxxxxxxx
+> https://doi.org/xxxxxxxxxxxxxxx
 
 If no DOI is assigned, include the journal’s **homepage URL** instead.
 
-*Note: There is no full stop after the URL, and the hyperlink is removed.*
+*Note: There is no full stop after the URL*
 
 ###### end-subtype-content
 
@@ -405,21 +407,21 @@ If no DOI is assigned, include the journal’s **homepage URL** instead.
 {.centre-align}**References**{/.centre-align}
 
 {.hanging-indent}
-Baird, J. (2016, November 4). There’s no such thing as ‘just a nurse’. *The Sydney Morning Herald*. https<nolink>://www.smh.com.au/opinion/why-we-need-to-listen-to-nurses-when-talking-about-health-20161103-gshfq1.html
+Baird, J. (2016, November 4). There’s no such thing as ‘just a nurse’. *The Sydney Morning Herald*. https://www.smh.com.au/opinion/why-we-need-to-listen-to-nurses-when-talking-about-health-20161103-gshfq1.html
 
-Destounis, S. V., Arieno, A. L., Morgan, R. C., Cavanaugh, D., Seifert, P. J., Murphy, P. F., & Somerville, P. A. (2014). Comparison of breast cancers diagnosed in screening patients in their 40s with and without family history of breast cancer in a community outpatient facility. *American Journal of Roentgenology*, *202*(4), 928-932. https<nolink>://doi.org/10.2214/ajr.13.11194
+Destounis, S. V., Arieno, A. L., Morgan, R. C., Cavanaugh, D., Seifert, P. J., Murphy, P. F., & Somerville, P. A. (2014). Comparison of breast cancers diagnosed in screening patients in their 40s with and without family history of breast cancer in a community outpatient facility. *American Journal of Roentgenology*, *202*(4), 928-932. https://doi.org/10.2214/ajr.13.11194
 
-Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: Advocacy goals*. http<nolink>://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/
+Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: Advocacy goals*. https://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/
 
-*Mental Health Act 2014* (Vic) s. 115.1. http<nolink>://www.legislation.vic.gov.au/
+*Mental Health Act 2014* (Vic) s. 115.1. https://www.legislation.vic.gov.au/
 
-Primal Pictures. (2014, September 19). *Primal’s 3D atlas of human anatomy* [Video]. YouTube. https<nolink>://youtu.be/g-BtsX3bGvs
+Primal Pictures. (2014, September 19). *Primal’s 3D atlas of human anatomy* [Video]. YouTube. https://youtu.be/g-BtsX3bGvs
 
 Schirm, V. (2013). Quality of life. In I. M. Lubkin & P. D. Larsen (Eds.), *Chronic illness: Impact and interventions* (8th ed., pp. 183-206). Jones & Bartlett Learning.
 
 Sullivan, E. J. (2013). *Becoming influential: A guide for nurses* (2nd ed.). Pearson.
 
-Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance.* [Doctoral dissertation, RMIT University]. RMIT Research Repository. http<nolink>://researchbank.rmit.edu.au/view/rmit:161444
+Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance.* [Doctoral dissertation, RMIT University]. RMIT Research Repository. https://researchbank.rmit.edu.au/view/rmit:161444
 {/.hanging-indent}
 
 ###### end-subtype-content
@@ -447,7 +449,7 @@ Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin 
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author(s) family name and year of publication in parentheses. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in parentheses immediately after the family name(s).
 
 > Studies indicate that . . . (Sullivan, 2013).
 
@@ -488,7 +490,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Paraphrasing in-text
 
-When paraphrasing, use the ampersand symbol **&** between author family names only when they appear in brackets. Otherwise, just use **and** to separate author names in the body of the text.
+When paraphrasing, use the ampersand symbol **&** between author family names only when they appear in parentheses. Otherwise, just use **and** to separate author names in the body of the text.
 
 > . . . and is vital in order to encode memories (Pastorino & Doyle-Portillo, 2016).
 
@@ -562,7 +564,7 @@ List all authors, placing an ampersand symbol **&** before the last name.
 
 #### Reference list
 
-Include the edition number followed by the abbreviation **ed.** in brackets after the book title. If the book is a first edition, or no edition is stated, do NOT include the edition number.
+Include the edition number followed by the abbreviation **ed.** in parentheses after the book title. If the book is a first edition, or no edition is stated, do NOT include the edition number.
 
 ##### Rule
 
@@ -589,7 +591,7 @@ An edited book will generally be comprised of chapters written by several differ
 
 **Paraphrasing in-text**
 
-When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author(s) family name and year of publication in parentheses. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in parentheses immediately after the family name(s).
 
 > Quality of life is defined as . . . (Schirm, 2013).
 
@@ -609,9 +611,9 @@ Author(s) of the chapter, year of publication, and title of the chapter precede 
 
 Following the word In is the editor(s) initials then family names.
 
-Enclose in brackets the edition number (if applicable).
+Enclose in parentheses the edition number (if applicable).
 
-Enclose in brackets the page numbers of the chapter directly after the title.
+Enclose in parentheses the page numbers of the chapter directly after the title.
 
 ##### Rule
 
@@ -656,11 +658,11 @@ Follow the same rules for citing a book, but provide a DOI or URL if stated.
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year). *Title of book: Subtitle of book*. Publisher Name. https:<nolink>//doi.org/xxxxx  {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year). *Title of book: Subtitle of book*. Publisher Name. https://doi.org/xxxxx  {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Watkins, J. (2017). *Laboratory and field exercises in sport and exercise biomechanics*. Routledge. https:<nolink>//doi.org/10.4324/9781315306315 {/.hanging-indent}
+> {.hanging-indent}Watkins, J. (2017). *Laboratory and field exercises in sport and exercise biomechanics*. Routledge. https://doi.org/10.4324/9781315306315 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -675,7 +677,7 @@ Follow the same rules for citing a book, but provide a DOI or URL if stated.
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the author(s) family name, year(s) of publication in brackets (include both the original year of publication, if applicable, as well as the year of publication from the source). Or, if referring to the author(s) family name in the body of the text, then just include the year(s) of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author(s) family name, year(s) of publication in parentheses (include both the original year of publication, if applicable, as well as the year of publication from the source). Or, if referring to the author(s) family name in the body of the text, then just include the year(s) of publication in parentheses immediately after the family name(s).
 
 > The study of the first stage reveals . . . (Piaget, 1929/2007).
 
@@ -689,7 +691,7 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Reference list
 
-Include the translator(s) after the title and add the date of original publication in brackets (if applicable) after the publication details.
+Include the translator(s) after the title and add the date of original publication in parentheses (if applicable) after the publication details.
 
 ##### Rule
 
@@ -724,7 +726,7 @@ Include the translator(s) after the title and add the date of original publicati
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author(s) family name and year of publication in parentheses. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in parentheses immediately after the family name(s).
 
 > Recent studies indicate that . . . (Musiek, 2017).
 
@@ -742,11 +744,11 @@ When including journal articles in the reference list, you must italicise the ti
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https<nolink>://doi.org/xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https://doi.org/xxxxx {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Musiek, E. S. (2017). Circadian rhythms in AD pathogenesis: A critical appraisal. *Current Sleep Medicine Reports*, *3*(2), 85-92. https<nolink>://doi.org/10.1007/s40675-017-0072-5 {/.hanging-indent}
+> {.hanging-indent}Musiek, E. S. (2017). Circadian rhythms in AD pathogenesis: A critical appraisal. *Current Sleep Medicine Reports*, *3*(2), 85-92. https://doi.org/10.1007/s40675-017-0072-5 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -761,7 +763,7 @@ When including journal articles in the reference list, you must italicise the ti
 
 #### Paraphrasing in-text
 
-The ampersand symbol **&** is used between the author family names only when they appear in brackets.
+The ampersand symbol **&** is used between the author family names only when they appear in parentheses.
 
 > . . . identifies skills intrinsic to current nursing practitioners (Felton & Royal, 2015).
 
@@ -781,11 +783,11 @@ When including journal articles in the reference list, you must italicise the ti
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A., & Author, B. B. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https<nolink>://doi.org/xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A., & Author, B. B. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https://doi.org/xxxxx {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Felton, A., & Royal, J. (2015). Skills for nursing practice: Development of clinical skills in pre-registration nurse education. *Nurse Education in Practice*, *15*(1), 38-43. https<nolink>://doi.org/10.1016/j.nepr.2014.11.009 {/.hanging-indent}
+> {.hanging-indent}Felton, A., & Royal, J. (2015). Skills for nursing practice: Development of clinical skills in pre-registration nurse education. *Nurse Education in Practice*, *15*(1), 38-43. https://doi.org/10.1016/j.nepr.2014.11.009 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -820,11 +822,11 @@ When including journal articles in the reference list, you must italicise the ti
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A., Author, B. B., Author, C. C., Author, D. D., Author, E. E., & Author, F. F. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https<nolink>://doi.org/xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A., Author, B. B., Author, C. C., Author, D. D., Author, E. E., & Author, F. F. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https://doi.org/xxxxx {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Demacheva, I., Ladouceur, M., Steinberg, E., Pogossova, G., & Raz, A. (2012). The applied cognitive psychology of attention: A step closer to understanding magic tricks. *Applied Cognitive Psychology*, *26*, 541-549. https<nolink>://doi.org/10.1002/acp.2825 {/.hanging-indent}
+> {.hanging-indent}Demacheva, I., Ladouceur, M., Steinberg, E., Pogossova, G., & Raz, A. (2012). The applied cognitive psychology of attention: A step closer to understanding magic tricks. *Applied Cognitive Psychology*, *26*, 541-549. https://doi.org/10.1002/acp.2825 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -855,11 +857,11 @@ List the first 19 authors followed by three ellipsis points (. . .) then the las
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A., Author, B. B., Author, C. C., Author, D. D., Author, E. E., Author, F. F., Author, G. G., Author, H. H., Author, I. I., Author, J. J., Author, K. K., Author, L. L., Author, M. M., Author, N. N., Author, O. O., Author, P. P., Author, Q. Q., Author, R. R., Author, S. S., . . . Author, T. T. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https<nolink>://doi.org/xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A., Author, B. B., Author, C. C., Author, D. D., Author, E. E., Author, F. F., Author, G. G., Author, H. H., Author, I. I., Author, J. J., Author, K. K., Author, L. L., Author, M. M., Author, N. N., Author, O. O., Author, P. P., Author, Q. Q., Author, R. R., Author, S. S., . . . Author, T. T. (Year). Title of article: Subtitle of article. *Title of Periodical, Volume number*(Issue number), Page range. https://doi.org/xxxxx {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., . . . Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. *Bulletin of the American Meteorological Society*, *77*(3), 437-472. https<nolink>://doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2 {/.hanging-indent}
+> {.hanging-indent}Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., . . . Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. *Bulletin of the American Meteorological Society*, *77*(3), 437-472. https://doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -874,7 +876,7 @@ List the first 19 authors followed by three ellipsis points (. . .) then the las
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the author family name(s) and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author family name(s) and year of publication in parentheses. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in parentheses immediately after the family name(s).
 
 > Recent studies indicate that . . . (Walker & Buchbinder, 1997).
 
@@ -923,7 +925,7 @@ If citing a journal article without a DOI, include the volume, issue number (if 
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author(s) family name and year of publication in parentheses. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in parentheses immediately after the family name(s).
 
 > The results of the study indicate . . . (Evans, 2015).
 
@@ -943,11 +945,11 @@ Include the day, month and year, as well as the exact URL of the article.
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* https<nolink>://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* https://xxxxx {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Evans, K. (2015, January 5). Aspirin study raises hopes for dementia prevention. *The Age*. http<nolink>://search.proquest.com/docview/1641732086?accountid=13552 {/.hanging-indent}
+> {.hanging-indent}Evans, K. (2015, January 5). Aspirin study raises hopes for dementia prevention. *The Age*. https://search.proquest.com/docview/1641732086?accountid=13552 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -962,7 +964,7 @@ Include the day, month and year, as well as the exact URL of the article.
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author(s) family name and year of publication in parentheses. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in parentheses immediately after the family name(s).
 
 > The debate around health reform involves . . . (Baird, 2016).
 
@@ -982,11 +984,11 @@ Include the day, month and year of the article, as well as the URL.
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* https<nolink>://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* https://xxxxx {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Baird, J. (2016, November 4). There’s no such thing as ‘just a nurse’. *The Sydney Morning Herald*. https<nolink>://www.smh.com.au/opinion/why-we-need-to-listen-to-nurses-when-talking-about-health-20161103-gshfq1.html {/.hanging-indent}
+> {.hanging-indent}Baird, J. (2016, November 4). There’s no such thing as ‘just a nurse’. *The Sydney Morning Herald*. https://www.smh.com.au/opinion/why-we-need-to-listen-to-nurses-when-talking-about-health-20161103-gshfq1.html {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1001,7 +1003,7 @@ Include the day, month and year of the article, as well as the URL.
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author(s) family name and year of publication in parentheses. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in parentheses immediately after the family name(s).
 
 > Official survey results indicate . . . (Parnell, 2016).
 
@@ -1056,9 +1058,9 @@ If the article is spread across discontinuous pages, provide all page numbers se
 
 #### Paraphrasing in-text
 
-Include the title of the legislation and the year in italics if referring to an Act in the body of the text. Otherwise, place the year and section number s. (if applicable) in brackets.
+Include the title of the legislation and the year in italics if referring to an Act in the body of the text. Otherwise, place the year and section number s. (if applicable) in parentheses.
 
-It is necessary to also state the jurisdiction of the legislation, either in the body of the text, or enclosed in brackets e.g. (Cth) for Commonwealth, (Vic) for Victoria, (UK) for United Kingdom etc.
+It is necessary to also state the jurisdiction of the legislation, either in the body of the text, or enclosed in parentheses e.g. (Cth) for Commonwealth, (Vic) for Victoria, (UK) for United Kingdom etc.
 
 *Note: Include the jurisdiction the first time the act is cited. The jurisdiction can be dropped with subsequent citations.*
 
@@ -1078,13 +1080,15 @@ Place direct quotes between double quotation marks " " and provide the title of 
 
 The title of the legislation and year are to be italicised.
 
-Include the jurisdiction of the legislation in brackets e.g. (Cth) for Commonwealth, or the State abbreviation.
+Include the jurisdiction of the legislation in parentheses e.g. (Cth) for Commonwealth, or the State abbreviation.
 
 If a specific section of the legislation is used, this can be highlighted by using an **s**. for section.
 
 If the legislation is obtained from an electronic source, add a retrieval statement to the reference.
 
-> {.hanging-indent}*Mental Health Act 2014* (Vic) s. 115.1. http<nolink>://www.legislation.vic.gov.au/ {/.hanging-indent}
+##### Example
+
+> {.hanging-indent}*Mental Health Act 2014* (Vic) s. 115.1. https://www.legislation.vic.gov.au/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1101,7 +1105,7 @@ If the legislation is obtained from an electronic source, add a retrieval statem
 
 #### Paraphrasing in-text
 
-When citing a **Case** in-text, it is necessary to include the title of the case in italics followed by the year in brackets. Alternatively, it is also acceptable to include all case details enclosed in brackets; italicise only the case title, followed by the year.
+When citing a **Case** in-text, it is necessary to include the title of the case in italics followed by the year in parentheses. Alternatively, it is also acceptable to include all case details enclosed in parentheses; italicise only the case title, followed by the year.
 
 *Note: Include the year with the first citation. The year can be dropped in subsequent citations.*
 
@@ -1117,11 +1121,13 @@ Place direct quotes between double quotation marks " " and provide the title of 
 
 #### Reference list
 
-For court decisions the elements to include are: title of the case in italics, year in brackets, volume number, reporter abbreviation, and starting page number.
+For court decisions the elements to include are: title of the case in italics, year in parentheses, volume number, reporter abbreviation, and starting page number.
 
 If a case is obtained from an electronic database, add a retrieval statement.
 
-> {.hanging-indent}*Drew v Minister for Health and Ageing* (2011) 56 AAR 227. http<nolink>://www.westlaw.com.au/maf/wlau/app/document?docguid=I49472f517b6911e18eefa443f89988a0 {.hanging-indent}
+##### Example
+
+> {.hanging-indent}*Drew v Minister for Health and Ageing* (2011) 56 AAR 227. https://www.westlaw.com.au/maf/wlau/app/document?docguid=I49472f517b6911e18eefa443f89988a0 {.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1165,8 +1171,7 @@ Place direct quotes between double quotation marks " " and provide the year and 
 
 #### Reference list
 
-- When a film title is in a different language to your paper, include a translation of the title in square brackets.
-
+- When a film title is in a different language to your paper, include a translation of the title in square parentheses.
 - Separate multiple production companies with a semicolon.
 
 ##### Rule
@@ -1188,12 +1193,11 @@ Place direct quotes between double quotation marks " " and provide the year and 
 
 ### Podcast
 
-
 ###### start-subtype-content
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the host’s family name and year of publication in brackets. Or, if referring to the host's family name in the body of the text, then just include the year of publication in brackets immediately after the family name. If there is no host listed, then use either the executive producer or producer as author instead.
+When paraphrasing, include the host’s family name and year of publication in parentheses. Or, if referring to the host's family name in the body of the text, then just include the year of publication in parentheses immediately after the family name. If there is no host listed, then use either the executive producer or producer as author instead.
 
 > Current research shows that . . . (Swannell, 2019).
 
@@ -1211,17 +1215,17 @@ Place direct quotes between double quotation marks " " and provide the year and 
 
 Include details of the host or executive producer in the author position and their title.
 
-Italicise the podcast title and describe the form type inside square brackets e.g. [Audio podcast].
+Italicise the podcast title and describe the form type inside square parentheses e.g. [Audio podcast].
 
 Provide the exact URL.
 
 ##### Rule
 
-> {.hanging-indent}Host, H. H. (Host). (Year, Month Day). *Title of work* [Audio podcast]. Production Company. https<nolink>:/xxxxx {/.hanging-indent}
+> {.hanging-indent}Host, H. H. (Host). (Year, Month Day). *Title of work* [Audio podcast]. Production Company. https:/xxxxx {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Swannell, C. (Host). (2019, November 25). *The effect of codeine rescheduling, with Dr Keith Harris* [Audio podcast]. https<nolink>://staging.mja.com.au/podcast/211/11/mja-podcasts-2019-episode-51-effect-codeine-rescheduling-dr-keith-harris {/.hanging-indent}
+> {.hanging-indent}Swannell, C. (Host). (2019, November 25). *The effect of codeine rescheduling, with Dr Keith Harris* [Audio podcast]. https://staging.mja.com.au/podcast/211/11/mja-podcasts-2019-episode-51-effect-codeine-rescheduling-dr-keith-harris {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1236,27 +1240,31 @@ Provide the exact URL.
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the database name and year of publication in brackets.
+Include the creator(s) name and year of publication in parentheses. If the creator's name is not available, use the company/organisation hosting the content as the author.
 
-> According to the latest research . . . (Informit EduTV, 2016).
+> The Apology to the Stolen Generations by the Australian Parliament . . . (Spillane, 2019).
 
 #### Direct quote in-text
 
 Place direct quotes between double quotation marks " " and provide the year and a timestamp to indicate the exact starting point of the quote.
 
-> "Australia's education system is falling behind. 15 years ago our schools were ranked sixth in the world, but now we're struggling to make the top 20" (Informit EduTV, 2016, 00:13).
+> "It gives a chance to think about the possibilities of what we can achieve" (Spillane, 2019, 11:21).
 
 #### Reference list
 
-- Include the database name in the author position.
+- Include the creator or company/organisation that has published the content as the author.
 
 - Include the video title in italics and describe the form type inside square brackets e.g. [Video].
 
-- Provide the URL login page.
+- Provide the publisher or platform name followed by the database homepage URL.
+
+##### Rule
+
+> {.hanging-indent}Producer, A. A. (Producer) or Company/Organisation Name. (Year). *Title of work* [Video]. Publisher. https://xxxxx {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Informit EduTV. (2016, May 31). *Revolution school: Ep. 1 of 4* [Video]. http<nolink>://edutv.informit.com.au {/.hanging-indent}
+> {.hanging-indent}Spillane, S. (Director) (2019, November 23). *The apology* [Video]. Informit EduTV. https://search.informit.org/ourcollections/media/edutv {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1301,7 +1309,7 @@ When paraphrasing, include the author's name and the year(s) from when the serie
 
 - Include the writers and directors for the episode. Include the contributor’s role in parentheses after each name.
 - If one person performed multiple roles, combine the descriptions with an ampersand (&).
-- Provide the season number and episode number after the title in brackets.
+- Provide the season number and episode number after the title in parentheses.
 - Separate multiple production companies with a semicolon.
 
 ##### Rule
@@ -1326,7 +1334,7 @@ When paraphrasing, include the author's name and the year(s) from when the serie
 
 #### Paraphrasing in-text
 
-When paraphrasing, include either the author/company/organisation name and year of publication in brackets.
+When paraphrasing, include either the author/company/organisation name and year of publication in parentheses.
 
 > . . . anatomical structures are highly detailed and annotated (Primal Pictures, 2014).
 
@@ -1340,17 +1348,17 @@ Place direct quotes between double quotation marks " " and provide the year and 
 
 Include either the author/company/organisation name in the author position.
 
-Include the video title in italics and describe the form type inside square brackets e.g. [Video].
+Include the video title in italics and describe the form type inside square parentheses e.g. [Video].
 
 Provide the exact URL in the retrieval statement.
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. or Username. (Year, Month Day). *Title of video* [Video]. YouTube. https<nolink>://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. or Username. (Year, Month Day). *Title of video* [Video]. YouTube. https://xxxxx {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Primal Pictures. (2014, September 19). *Primal’s 3D atlas of human anatomy* [Video]. YouTube. https<nolink>://youtu.be/g-BtsX3bGvs {/.hanging-indent}
+> {.hanging-indent}Primal Pictures. (2014, September 19). *Primal’s 3D atlas of human anatomy* [Video]. YouTube. https://youtu.be/g-BtsX3bGvs {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1362,7 +1370,7 @@ Provide the exact URL in the retrieval statement.
 ###### end-type-content
 
 
-<!-- Web pages / Social media - links to the seventh type menu item -->
+<!-- Webpages and websites - links to the seventh type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1377,7 +1385,7 @@ Provide the exact URL in the retrieval statement.
 
 #### Paraphrasing in-text
 
-When paraphrasing, include either the author/company/organisation name and year of publication in brackets.
+When paraphrasing, include either the author/company/organisation name and year of publication in parentheses.
 
 > Organisational values are defined by . . . (Early Childhood Australia, 2016).
 
@@ -1391,11 +1399,17 @@ Place direct quotes between double quotation marks " " and use the name of the s
 
 #### Reference list
 
-If citing information taken directly from a webpage include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year in brackets, webpage title in italics, website name and URL.
+If citing information taken directly from a webpage include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year in parentheses, webpage title in italics, website name and URL.
 
 If no year is stated then use n.d. for no date.
 
-> {.hanging-indent}Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: Advocacy goals.* http<nolink>://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/ {/.hanging-indent}
+##### Rule
+
+> {.hanging-indent}Author, A. A. or Organisation Name (Year). Title of work. *Site Name.* https://xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: Advocacy goals.* https://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1410,7 +1424,7 @@ If no year is stated then use n.d. for no date.
 
 #### Paraphrasing in-text
 
-When paraphrasing, include either the author/company/organisation name and year of publication in brackets.
+When paraphrasing, include either the author/company/organisation name and year of publication in parentheses.
 
 > Preventative measures are determined by . . . (World Health Organization, 2016).
 
@@ -1426,73 +1440,17 @@ If the document does NOT contain page numbers, then use the name of the section 
 
 #### Reference list
 
-If citing information taken directly from a webpage document include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year in brackets, title of document in italics and retrieval statement in the form of a URL.
+If citing information taken directly from a webpage document include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year in parentheses, title of document in italics and retrieval statement in the form of a URL.
 
 If no year is stated then use n.d. for no date.
 
-> {.hanging-indent}World Health Organization. (2016). *WHO guideline on the use of safety-engineered syringes for intramuscular, intradermal and subcutaneous injections in health-care settings.* http<nolink>://apps.who.int/iris/bitstream/10665/250144/1/9789241549820-eng.pdf {/.hanging-indent}
+##### Rule
 
-###### end-subtype-content
+> {.hanging-indent}Author, A. A. or Group Author. (Year). *Title of work.* Site Name. https://xxxxx {/.hanging-indent}
 
-###### end-subtype-item
+##### Example
 
-
-###### start-subtype-item
-
-### Facebook
-
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include either the author/company/organisation name and year of the Facebook post in brackets.
-
-> Australian Nursing and Midwifery Federation (2020) states that workplace mental health hazards are responsible for . . .
-
-#### Direct quote in-text
-
-Many electronic sources do not provide page numbers, unless they are in PDF format.
-
-Place direct quotes between double quotation marks " " and provide the author and year.
-
-> "A mental hazard at work can be poor support to workers" (Australian Nursing and Midwifery Federation, 2019).
-
-#### Reference list
-
-If citing information taken directly from a Facebook post include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year, month and day in brackets, include the first 20 words of the post as the title in italics, if the post contains an image or video include it in square brackets, describe the form type in square brackets e.g. [Status update], include Facebook as the source and provide a URL to the post.
-
-> {.hanging-indent}Australian Nursing and Midwifery Federation. (2020, November 28). *Workplace mental health hazards injure thousands of workers each year, just like physical hazards but they often fly under the* [Image attached] [Status update]. Facebook. https<nolink>://www.facebook.com/AustralianNursingandMidwiferyFederation/photos/a.136188899856341/1935273223281224/ {/.hanging-indent}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-
-### Twitter
-
-###### start-subtype-content
-
-#### Paraphrasing in-text
-
-When paraphrasing, include either the author/company/organisation name and year of tweet in brackets.
-
-> Barack Obama (2016) tweeted his concerns over the Supreme Court vacancy.
-
-#### Direct quote in-text
-
-Many electronic sources do not provide page numbers, unless they are in PDF format.
-
-Place direct quotes between double quotation marks " " and provide the author and year.
-
-> In relation to the Supreme Court vacancy in the United States, Barack Obama (2016) tweeted that "it's time for Senate leaders to put politics aside and fill the Supreme Court vacancy."
-
-#### Reference list
-
-If citing information taken directly from a tweet include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the Twitter handle in square brackets, include the year, month and day in brackets, followed by the first 20 words of the tweet as the title and hashtag(s) in italics, if the post contains an image or video include it in square brackets, describe the form type in square brackets e.g. [Tweet], include Twitter as the source and provide a URL to the tweet.
-
-> {.hanging-indent}Obama, B. [@BarackObama]. (2016, May 18). *It's time for Senate leaders to put politics aside and fill the Supreme Court vacancy #DoYourJob* [Image attached] [Tweet]. Twitter. https<nolink>://twitter.com/BarackObama/status/732589315478290432 {/.hanging-indent}
+> {.hanging-indent}World Health Organization. (2016). *WHO guideline on the use of safety-engineered syringes for intramuscular, intradermal and subcutaneous injections in health-care settings.* https://apps.who.int/iris/bitstream/10665/250144/1/9789241549820-eng.pdf {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1507,7 +1465,7 @@ If citing information taken directly from a tweet include author(s) if applicabl
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author(s) family name and year of publication in parentheses. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in parentheses immediately after the family name(s).
 
 > Workplace stress is increasing . . . (Bratianu, 2015).
 
@@ -1523,7 +1481,13 @@ Place direct quotes between double quotation marks " " and provide the paragraph
 
 If referencing a blog post include the following: the author(s) name, year of publication, month, day, title of blog post, blog title (italicised) and a retrieval statement in the form of a URL.
 
-> {.hanging-indent}Bratianu, P. (2015, June 10). *Why workplace stress impacts nurses. Ausmed*. https<nolink>://www.ausmed.com/articles/stress-in-nursing/ {/.hanging-indent}
+##### Rule
+
+> {.hanging-indent}Author, A. or Username. (Year, Month Day). *Title of entry. Title of Blog*. https://xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Bratianu, P. (2015, June 10). *Why workplace stress impacts nurses. Ausmed*. https://www.ausmed.com/articles/stress-in-nursing/ {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1535,7 +1499,185 @@ If referencing a blog post include the following: the author(s) name, year of pu
 ###### end-type-content
 
 
-<!-- Images / Tables - links to the eighth type menu item -->
+<!-- Social media - links to the eighth type menu item -->
+###### start-type-content
+
+###### start-subtype
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Facebook
+
+<!-- first accordion item -->
+###### start-subtype-content
+
+#### Paraphrasing in-text
+
+When paraphrasing, include either the author/company/organisation name and year of the Facebook post in parentheses.
+
+> Australian Nursing and Midwifery Federation (2020) states that workplace mental health hazards are responsible for . . .
+
+#### Direct quote in-text
+
+Many electronic sources do not provide page numbers, unless they are in PDF format.
+
+Place direct quotes between double quotation marks " " and provide the author and year.
+
+> "A mental hazard at work can be poor support to workers" (Australian Nursing and Midwifery Federation, 2019).
+
+#### Reference list
+
+If citing information taken directly from a Facebook post include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year, month and day in parentheses, include the first 20 words of the post as the title in italics, if the post contains an image or video include it in square parentheses, describe the form type in square parentheses e.g. [Status update], include Facebook as the source and provide a URL to the post.
+
+##### Rule
+
+> {.hanging-indent}Author, A. or Name of Group. (Year, Month Day). *Enter Facebook post here (up to first 20 words)* [Description of audiovisuals] [Format]. Facebook. https://facebook.com/xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Australian Nursing and Midwifery Federation. (2020, November 28). *Workplace mental health hazards injure thousands of workers each year, just like physical hazards but they often fly under the* [Image attached] [Status update]. Facebook. https://www.facebook.com/AustralianNursingandMidwiferyFederation/photos/a.136188899856341/1935273223281224/ {/.hanging-indent}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### Instagram
+
+###### start-subtype-content
+
+Cite a temporary post (e.g., Instagram Story or Live) that is not archived and cannot be retrieved as a personal communication. See section Using APA 7<sup>th</sup> ed. > Personal communication.
+
+#### Paraphrasing in-text
+
+Include the name of the individual's family name or group author and year of the post in parentheses.
+
+> National Gallery of Australia (2023) promoted the artwork of . . .
+
+> After eight years working as an artist . . . (National Gallery of Australia, 2023).
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the author and year in parentheses.
+
+> "It is estimated that Emily Kam Kngwarray produced over 3000 paintings in her short eight-year career" National Gallery of Australia (2023).
+
+#### Reference list
+
+- Present the name of the individual or group author as well as the Instagram handle (beginning with the @ sign) in square parentheses, followed by a period.
+- Provide the year, month, and day of post in parentheses.
+- Provide the first 20 words of the caption as the title in italics.
+- Include a description of the post (e.g., “[Photo],” “[Video]”) in square parentheses after the title.
+- List Instagram as the site name in the source element and then provide the URL of the post.
+- The reference list format used for Instagram is also used for X (Twitter) and TikTok.
+
+##### Rule
+
+> {.hanging-indent}Author, A. [@username]. (Year, Month Day). *Content of the post up to the first 20 words* [Description of audiovisuals]. [Post type]. Site Name. https://xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}National Gallery of Australia. [@nationalgalleryaus]. (2023, November 6). *It is estimated that Emily Kam Kngwarray produced over 3000 paintings in her short eight-year career, an average of one* [Photograph]. Instagram. https://www.instagram.com/p/CzRtYfBSGNO/ {/.hanging-indent}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### TikTok
+
+###### start-subtype-content
+
+This page contains examples for a TikTok video, for a livestream (e.g., TikTok Live) that is not archived and cannot be retrieved elsewhere online, cite as a personal communication. See section Using APA 7<sup>th</sup> ed. > Personal communication.
+
+#### Paraphrasing in-text
+
+Include the name of the individual's family name or group author and year of the post in parentheses.
+
+> Amnesty Australia (2022) details the proposal of new protest laws . . .
+
+#### Direct quote in-text
+
+Place direct quotes between double quotation marks " " and provide the author and year in parentheses.
+
+> "Many of the rights we now take for granted were born in protest" (Amnesty Australia, 2022).
+
+#### Reference list
+
+- Present the name of the individual or group author as well as the TikTok handle (beginning with the @ sign) in square parentheses, followed by a period.
+- Provide the year, month and day of post.
+- Provide the first 20 words of the caption as the title in italics.
+- List TikTok as the site name in the source element and then provide the URL of the video.
+- The reference list format used for TikTok is also used for Instagram and X (Twitter).
+- Note: Date and month of posting to the app can only be seen on a desktop device.
+
+##### Rule
+
+> {.hanging-indent}Author, A. [@username]. (Year, Month Day). *Content of the post up to the first 20 words* [Description of audiovisuals]. [Post type]. Site Name. https://xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Amnesty Australia. [@amnestyoz]. (2022, June 30). *Freedom of assembly and of expression is a fundamental human right #humanrights #activism #auspol #victoria #nsw #tasmania #climateaction #protest #amnesty* [Video]. TikTok. https://www.tiktok.com/@amnestyoz/video/7114966919257525506 {/.hanging-indent}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+
+### X (Twitter)
+
+###### start-subtype-content
+
+**Note:** Twitter has changed its name to X, APA is updating their advice for how to cite a Tweet to match the wording on the platform. We have updated our examples accordingly. We have left the previous Twitter examples to assist markers who may be looking at assignments which have used the guide prior to this update.
+
+#### Paraphrasing in-text
+
+When paraphrasing, include either the author/company/organisation name and year of the post in parentheses.
+
+> Barack Obama (2016) expressed his concerns over the Supreme Court vacancy.
+
+#### Direct quote in-text
+
+Many electronic sources do not provide page numbers, unless they are in PDF format.
+
+Place direct quotes between double quotation marks " " and provide the author and year.
+
+> In relation to the Supreme Court vacancy in the United States, Barack Obama (2016) posted that "it's time for Senate leaders to put politics aside and fill the Supreme Court vacancy."
+
+#### Reference list
+
+If citing information taken directly from a post, include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the username in square parentheses, include the year, month and day in parentheses, followed by the first 20 words of the post as the title and hashtag(s) in italics, if the post contains an image or video include it in square parentheses, describe the form type in square parentheses e.g. [Post], include X as the source and provide a URL to the post.
+
+##### Rule
+
+> {.hanging-indent}Author, A. [@username]. (Year, Month Day). *Content of the post up to the first 20 words* [Description of audiovisuals]. [Post type]. Site Name. https://xxxxx {/.hanging-indent}
+
+##### Examples
+
+**Current X version**
+> {.hanging-indent}Obama, B. [@BarackObama]. (2016, May 18). *It's time for Senate leaders to put politics aside and fill the Supreme Court vacancy #DoYourJob* [Image attached] [Post]. X. https://twitter.com/BarackObama/status/732589315478290432 {/.hanging-indent}
+
+**Previous Twitter version**
+> {.hanging-indent}Obama, B. [@BarackObama]. (2016, May 18). *It's time for Senate leaders to put politics aside and fill the Supreme Court vacancy #DoYourJob* [Image attached] [Tweet]. Twitter. https://twitter.com/BarackObama/status/732589315478290432 {/.hanging-indent}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### end-subtype
+
+###### end-type-content
+
+
+<!-- Images / Tables - links to the ninth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1638,13 +1780,15 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 > {.figure-text}**Figure 1**<br>
 > *Dose Distributions for a Left-Breast Tumor*<br>
 > ![Sample image](images/sample-image.gif)<br>
-> Note. Dose distributions for a left-breast tumor (a, b) at the level of surgical bed defined by titanium clips (arrows) and the corresponding DVH (c, d) for supine (left) and prone (right) positions. From “Pilot Study of Feasibility and Dosimetric Comparison of Prone Versus Supine Breast Radiotherapy,” by E. Fernandez-Lizarbe, A. Montero, A. Polo, R. Hernanz, R. Moris, S. Formenti, and A. Ramos, 2013, *Clinical and Translational Oncology*, 15, p. 453 (https<nolink>://doi.org/10.1007/s12094-012-0950-8). Copyright 2013 by Springer International Publishing. {/.figure-text}
+> Note. Dose distributions for a left-breast tumor (a, b) at the level of surgical bed defined by titanium clips (arrows) and the corresponding DVH (c, d) for supine (left) and prone (right) positions. From “Pilot Study of Feasibility and Dosimetric Comparison of Prone Versus Supine Breast Radiotherapy,” by E. Fernandez-Lizarbe, A. Montero, A. Polo, R. Hernanz, R. Moris, S. Formenti, and A. Ramos, 2013, *Clinical and Translational Oncology*, 15, p. 453 (https://doi.org/10.1007/s12094-012-0950-8). Copyright 2013 by Springer International Publishing. {/.figure-text}
 
 #### Reference list
 
 The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
 
-> {.hanging-indent}Fernandez-Lizarbe, E., Montero, A., Polo, A., Hernanz, R., Moris, R., Formenti, S., & Ramos, A. (2013). Pilot study of feasibility and dosimetric comparison of prone versus supine breast radiotherapy. *Clinical and Translational Oncology*, 15, 450-459. https<nolink>://doi.org/10.1007/s12094-012-0950-8 {/.hanging-indent}
+##### Example
+
+> {.hanging-indent}Fernandez-Lizarbe, E., Montero, A., Polo, A., Hernanz, R., Moris, R., Formenti, S., & Ramos, A. (2013). Pilot study of feasibility and dosimetric comparison of prone versus supine breast radiotherapy. *Clinical and Translational Oncology*, 15, 450-459. https://doi.org/10.1007/s12094-012-0950-8 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1692,7 +1836,7 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 > {.figure-text}**Figure 2**<br>
 *Anatomy of the Thyroid and Parathyroid Glands*<br>
 ![anatomical illustration showing thyroid and parathroid glands](images/ThyroidParathyroidAnatomy96dpi.jpeg)<br>
-*Note*. Anatomy of the thyroid and parathyroid glands. From "Parathyroid cancer Treatment (PDQ®) – Patient Version," by National Cancer Institute, 2016, (https<nolink>://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq). Copyright 2012 by Terese Winslow LLC. Reprinted with permission. {/.figure-text}
+*Note*. Anatomy of the thyroid and parathyroid glands. From "Parathyroid cancer Treatment (PDQ®) – Patient Version," by National Cancer Institute, 2016, (https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq). Copyright 2012 by Terese Winslow LLC. Reprinted with permission. {/.figure-text}
 
 Acknowledgement for the use of the image in this guide: For the National Cancer Institute © 2012 Terese Winslow LLC, U.S. Govt. has certain rights.
 
@@ -1700,7 +1844,9 @@ Acknowledgement for the use of the image in this guide: For the National Cancer 
 
 The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
 
-> {.hanging-indent}National Cancer Institute. (2016). *Anatomy of the thyroid and parathyroid glands*. https<nolink>://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq {/.hanging-indent}
+##### Example
+
+> {.hanging-indent}National Cancer Institute. (2016). *Anatomy of the thyroid and parathyroid glands*. https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq {/.hanging-indent}
 
 **Copyright information for the Anatomy of the Thyroid image**
 
@@ -1758,13 +1904,15 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 > {.figure-text}**Figure 3**<br>
 *Lumbar Intervertebral Disc Herniation*<br>
 ![Sample image](images/sample-image.gif)<br>
-*Note*. Graphic of large recurrent disc herniation shows displacement of the nuclear material through a large defect in the posterior annular fibers with effacement of the ventral thecal sac and displacement of the intrathecal nerve roots. From "Lumbar Intervertebral Disc Herniation," by J. S. Ross, 2017, Imaging Reference Center (https<nolink>://app.imagingreferencecenter.com). Copyright 2017 by J. S. Ross. {/.figure-text}
+*Note*. Graphic of large recurrent disc herniation shows displacement of the nuclear material through a large defect in the posterior annular fibers with effacement of the ventral thecal sac and displacement of the intrathecal nerve roots. From "Lumbar Intervertebral Disc Herniation," by J. S. Ross, 2017, Imaging Reference Center (https://app.imagingreferencecenter.com). Copyright 2017 by J. S. Ross. {/.figure-text}
 
 #### Reference list
 
 The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
 
-> {.hanging-indent}Ross, J. S. (2017). *Lumbar intervertebral disc herniation*. Imaging Reference Center. https<nolink>://app.imagingreferencecenter.com {/.hanging-indent}
+##### Example
+
+> {.hanging-indent}Ross, J. S. (2017). *Lumbar intervertebral disc herniation*. Imaging Reference Center. https://app.imagingreferencecenter.com {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1812,17 +1960,19 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 > {.figure-text}**Figure 4**<br>
 *MRI*<br>
 ![MRI](images/MRI_machine.jpeg)<br>
-*Note*. A magnetic resonance imaging machine. From "MRI," by L. West, 2012, (https<nolink>://www.flickr.com/photos/calliope/7694882446). Copyright 2012 by L. West. CC BY 2.0.{/.figure-text}
+*Note*. A magnetic resonance imaging machine. From "MRI," by L. West, 2012, (https://www.flickr.com/photos/calliope/7694882446). Copyright 2012 by L. West. CC BY 2.0.{/.figure-text}
 
 #### Reference list
 
 The figure must appear in the reference list, and the citation is formatted in correct APA style of the original source.
 
-> West, L. (2012). *MRI*. Flickr. https<nolink>://www.flickr.com/photos/calliope/7694882446
+##### Example
+
+> West, L. (2012). *MRI*. Flickr. https://www.flickr.com/photos/calliope/7694882446
 
 **Copyright information for the MRI image**
 
-["MRI"](https<nolink>://www.flickr.com/photos/calliope/7694882446) by [Liz West](https<nolink>://www.flickr.com/photos/calliope/) can be reused under the [CC BY 2.0 license](https<nolink>://creativecommons.org/licenses/by/2.0/).
+["MRI"](https://www.flickr.com/photos/calliope/7694882446) by [Liz West](https://www.flickr.com/photos/calliope/) can be reused under the [CC BY 2.0 license](https://creativecommons.org/licenses/by/2.0/).
 
 ###### end-subtype-content
 
@@ -1916,7 +2066,7 @@ All reference list entries should appear as per the convention of the source bei
 
 ###### end-type-content
 
-<!-- Other sources - links to the ninth type menu item -->
+<!-- Other sources - links to the tenth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1929,9 +2079,13 @@ All reference list entries should appear as per the convention of the source bei
 <!-- first accordion item -->
 ###### start-subtype-content
 
+- Conference proceedings published in a journal follow the same format as journal articles.
+- Conference proceedings published as a whole book follow the same reference format as whole edited books.
+- The format for conference proceedings published as an edited book chapter is the same as for edited book chapters.
+
 #### Paraphrasing in-text
 
-When paraphrasing, include the author(s) family name and year of publication in brackets.
+Include the author(s) family name and year of publication in parentheses.
 
 If there are three or more authors list the first family name followed by et al.
 
@@ -1947,9 +2101,11 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Reference list
 
-For proceedings sourced from a print book or e-book, use the same format for a book or book chapter e.g. author(s), year of publication, title of conference paper, editor(s), title of book in italics, page number(s) in brackets, publisher and DOI.
+For proceedings sourced from a print book or e-book, use the same format for a book or book chapter e.g. author(s), year of publication, title of conference paper, editor(s), title of book in italics, page number(s) in parentheses, publisher and DOI.
 
-> {.hanging-indent}Katashev, A., Romberg, K., Danielsson, A., & Saraste, H. (2015). Application of 3D scanner for estimation of chest movement in scoliotic patients. In H. Mindedal & M. Persson (Eds.). *16th Nordic-Baltic Conference on Biomedical Engineering: 16 NBC & 10. MTD 2014 joint conferences* (pp. 63-66). Springer International Publishing. https<nolink>://doi.org/10.1007/978-3-319-12967-9 {/.hanging-indent}
+##### Example
+
+> {.hanging-indent}Katashev, A., Romberg, K., Danielsson, A., & Saraste, H. (2015). Application of 3D scanner for estimation of chest movement in scoliotic patients. In H. Mindedal & M. Persson (Eds.). *16th Nordic-Baltic Conference on Biomedical Engineering: 16 NBC & 10. MTD 2014 joint conferences* (pp. 63-66). Springer International Publishing. https://doi.org/10.1007/978-3-319-12967-9 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1964,7 +2120,7 @@ For proceedings sourced from a print book or e-book, use the same format for a b
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author(s) family name and year of publication in parentheses. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in parentheses immediately after the family name(s).
 
 > The characteristics of insulin deficiency are . . . (Wang, 2015).
 
@@ -1978,11 +2134,17 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Reference list
 
-For a thesis sourced from an **institutional repository**, use the following format: author, year of publication in brackets, title in italics, identify the type of work and institution in square brackets e.g. [Doctoral dissertation, RMIT University] or [Master's thesis, RMIT University], repository/archive/database name and include a retrieval statement in the form of a URL.
+##### Rule
 
-> {.hanging-indent}Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance* [Doctoral dissertation, RMIT University]. RMIT Research Repository. http<nolink>://researchbank.rmit.edu.au/view/rmit:161444 {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year). *Title of dissertation* [Doctoral dissertation, Name of Institution Awarding the Degree]. Database name. https://xxxxx {/.hanging-indent}
 
-For a thesis sourced from a **library database** include the following information: author, year of publication in brackets, title in italics, accession or order number in brackets, type of work and institution in square brackets, and the name of the database.
+##### Examples
+
+For a thesis sourced from an **institutional repository**, use the following format: author, year of publication in parentheses, title in italics, identify the type of work and institution in square parentheses e.g. [Doctoral dissertation, RMIT University] or [Master's thesis, RMIT University], repository/archive/database name and include a retrieval statement in the form of a URL.
+
+> {.hanging-indent}Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance* [Doctoral dissertation, RMIT University]. RMIT Research Repository. https://researchbank.rmit.edu.au/view/rmit:161444 {/.hanging-indent}
+
+For a thesis sourced from a **library database** include the following information: author, year of publication in parentheses, title in italics, accession or order number in parentheses, type of work and institution in square parentheses, and the name of the database.
 
 > {.hanging-indent}Sutherland, A. M. (2016). *Technology for single cell protein analysis in immunology and cancer prognostics* (Order No. 3738948) [Doctoral dissertation, California Institute of Technology]. ProQuest Dissertations and Theses Global. {/.hanging-indent}
 
@@ -1999,7 +2161,7 @@ For a thesis sourced from a **library database** include the following informati
 
 #### Paraphrasing in-text
 
-When paraphrasing, include the organisation name (in this instance, Standards Australia) and year of publication in brackets.
+When paraphrasing, include the organisation name (in this instance, Standards Australia) and year of publication in parentheses.
 
 > Needle tip evaluation methods are determined by . . . (Standards Australia, 2014).
 
@@ -2011,9 +2173,15 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 #### Reference list
 
-Provide the title in italics, the standard number in brackets and a URL.
+Provide the title in italics, the standard number in parentheses and a URL.
 
-> {.hanging-indent}Standards Australia. (2014). *Sterile acupuncture needles for single use* (AS ISO Standard No. 17218:2014). https<nolink>://infostore.saiglobal.com/en-us/Standards/AS-ISO-17218-2014-111547_SAIG_AS_AS_233329/ {/.hanging-indent}
+##### Rule
+
+> {.hanging-indent}Name of Group. (Year). *Title of standard* (Standard number). Publisher Name. https://xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Standards Australia. (2014). *Sterile acupuncture needles for single use* (AS ISO Standard No. 17218:2014). https://infostore.saiglobal.com/en-us/Standards/AS-ISO-17218-2014-111547_SAIG_AS_AS_233329/ {/.hanging-indent}
 
 
 
@@ -2034,7 +2202,7 @@ If referencing a PowerPoint presentation that has been published and sourced onl
 
 To reference a PowerPoint presentation that was taken from a university learning management system (e.g. Canvas), refer to the **Other sources > Course materials** section.
 
-When paraphrasing, include the author(s) family name and year of publication in brackets. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in brackets immediately after the family name(s).
+When paraphrasing, include the author(s) family name and year of publication in parentheses. Or, if referring to the author(s) family name in the body of the text, then just include the year of publication in parentheses immediately after the family name(s).
 
 > Chiropractic improves . . . (Haavik, 2014).
 
@@ -2052,9 +2220,15 @@ Use **s.** to denote slide number. If there is no assigned slide number then cou
 
 #### Reference list
 
-The reference list citation should include: the author(s) name, year of publication, title of the slide presentation in italics, a description of the form type inside square brackets e.g. [PowerPoint slides], Publisher name, and a retrieval statement in the form of a URL.
+Include the author(s) name, year of publication, title of the slide presentation in italics, a description of the form type inside square parentheses e.g. [PowerPoint slides], Publisher name, and a retrieval statement in the form of a URL.
 
-> {.hanging-indent}Haavik, H. (2014). *How to confidently communicate the science of chiropractic* [PowerPoint slides]. SlideShare. https<nolink>://www.slideshare.net/heidihaavik/how-to-confidently-communicate-the-science-of-chiropractic {/.hanging-indent}
+##### Rule
+
+> {.hanging-indent}Author, A. A. (Year). *Title of slides* [PowerPoint slides]. Platform name e.g. Canvas. https://rmit.xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Haavik, H. (2014). *How to confidently communicate the science of chiropractic* [PowerPoint slides]. SlideShare. https://www.slideshare.net/heidihaavik/how-to-confidently-communicate-the-science-of-chiropractic {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -2067,7 +2241,7 @@ The reference list citation should include: the author(s) name, year of publicat
 
 ###### start-subtype-content
 
-Only include a full reference to lecture notes or class materials that are behind a login screen (such as Canvas) if you are writing for an audience that will be able to retrieve them. Otherwise, cite it as a **personal communication**.
+Only include a full reference to lecture notes or class materials that are behind a login screen (such as Canvas) if you are writing for an audience that will be able to retrieve them. Otherwise, cite it as a **personal communication**. See section Using APA 7th ed. >Personal communication.
 
 Examples of course materials are:
 
@@ -2087,23 +2261,35 @@ When citing in-text, include the author family name and year.
 
 **Reference list**
 
-The reference list citation should include: the author(s) name, year, month and day of lecture, title of the lecture in italics, a description of the form type inside square brackets e.g. [Lecture recording], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
+The reference list citation should include: the author(s) name, year, month and day of lecture, title of the lecture in italics, a description of the form type inside square parentheses e.g. [Lecture recording], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
 
-> {.hanging-indent}Lee, M. (2017, May 10). *Maslow's hierarchy* [Lecture recording]. Canvas@RMIT University. https<nolink>://rmit.instructure.com {/.hanging-indent}
+##### Rule
+
+> {.hanging-indent}Author, A. A. (Year, Month Day). *Title of lecture* [Lecture recording]. Platform name e.g. Canvas. https://rmit.xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Lee, M. (2017, May 10). *Maslow's hierarchy* [Lecture recording]. Canvas@RMIT University. https://rmit.instructure.com {/.hanging-indent}
 
 #### PowerPoint slides from lectures
 
 **Paraphrasing in-text**
 
-When citing in-text, be sure to include the author family name and year
+When citing in-text, include the author(s) family name and year.
 
 > The topic of postural assessment was examined and found that . . . (Draper, 2017).
 
 **Reference list**
 
-The reference list citation should include: the author(s) name, year of publication, title of the slide presentation in italics, a description of the form type inside square brackets e.g. [PowerPoint slides], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
+The reference list citation should include: the author(s) name, year of publication, title of the slide presentation in italics, a description of the form type inside square parentheses e.g. [PowerPoint slides], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
 
-> {.hanging-indent}Draper, B. (2017). *Postural assessment* [PowerPoint slides]. Canvas@RMIT University. https<nolink>://rmit.instructure.com {/.hanging-indent}
+##### Rule
+
+> {.hanging-indent}Author, A. A. (Year). *Title of slides* [PowerPoint slides]. Platform name e.g. Canvas. https://rmit.xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Draper, B. (2017). *Postural assessment* [PowerPoint slides]. Canvas@RMIT University. https://rmit.instructure.com {/.hanging-indent}
 
 #### Practical / Laboratory manual
 
@@ -2115,9 +2301,15 @@ When citing in-text, be sure to include the author family name and year.
 
 **Reference list**
 
-The reference list citation should include: the author(s) name, year of publication, title of the practical/laboratory manual in italics, a description of the form type inside square brackets e.g. [Practical manual], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
+The reference list citation should include: the author(s) name, year of publication, title of the practical/laboratory manual in italics, a description of the form type inside square parentheses e.g. [Practical manual], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
 
-> {.hanging-indent}Mouradov, A. (2017). *ONPS1052 gene technologies 1 - practical class* [Practical manual]. Canvas@RMIT University. https<nolink>://rmit.instructure.com {/.hanging-indent}
+##### Rule
+
+> {.hanging-indent}Author, A. A. (Year). *Title of practical/laboratory manual* [Format description]. Platform name e.g. Canvas. https://rmit.xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Mouradov, A. (2017). *ONPS1052 gene technologies 1 - practical class* [Practical manual]. Canvas@RMIT University. https://rmit.instructure.com {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -2132,7 +2324,7 @@ The reference list citation should include: the author(s) name, year of publicat
 
 #### Paraphrasing in-text
 
-When paraphrasing, include either the author/company/government department name and year of publication in brackets.
+When paraphrasing, include either the author/company/government department name and year of publication in parentheses.
 
 > Public hospital expenditure increased dramatically . . . (Australian Institute of Health and Welfare, 2016).
 
@@ -2148,13 +2340,19 @@ If the document does NOT contain page numbers, then use the name of the section 
 
 #### Reference list
 
-Include the author(s) if stated; otherwise add the company, organisation or government department, followed by the year of publication in brackets.
+Include the author(s) if stated; otherwise add the company, organisation or government department, followed by the year of publication in parentheses.
 
-As the document is a report, the title is italicised and, if there is a report number, place it in brackets immediately after the title. If the report has been sourced online make sure to include the retrieval statement.
+As the document is a report, the title is italicised and, if there is a report number, place it in parentheses immediately after the title. If the report has been sourced online make sure to include the retrieval statement.
 
 Only identify the publisher as part of the retrieval statement if the publisher has NOT been identified as the author.
 
-> {.hanging-indent}Australian Institute of Health and Welfare. (2016). *Hospital resources 2014–15: Australian hospital statistics* (Health services series No. 71, Cat. No. HSE 176). http<nolink>://www.aihw.gov.au/publication-detail/?id=60129556122 {/.hanging-indent}
+##### Rule
+
+> {.hanging-indent}Author, A. A. or Group Author. (Year). *Title of report* (Report Number) or [Description]. Publisher Name. https://xxxxx {/.hanging-indent}
+
+##### Example
+
+> {.hanging-indent}Australian Institute of Health and Welfare. (2016). *Hospital resources 2014–15: Australian hospital statistics* (Health services series No. 71, Cat. No. HSE 176). https://www.aihw.gov.au/publication-detail/?id=60129556122 {/.hanging-indent}
 
 
 
@@ -2181,7 +2379,7 @@ If you cite or quote your previous work, treat yourself as the author and your o
 
 #### Paraphrasing in-text
 
-When paraphrasing, include your family name and year of previous work in brackets. Or, if referring to your family name in the body of the text, then just include the year of previous work in brackets immediately after your family name.
+When paraphrasing, include your family name and year of previous work in parentheses. Or, if referring to your family name in the body of the text, then just include the year of previous work in parentheses immediately after your family name.
 
 For example, if Jane Smith wanted to cite a paper she wrote at RMIT University in 2018 her in-text reference may look like this:
 
@@ -2203,15 +2401,11 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 In the Reference list include:
 
-- Student name
+##### Rule
 
-- Year of previous work
+> {.hanging-indent}Author, A. A. (Year). *Title of work: Subtitle of work* [Unpublished resource type]. Institution Name. {/.hanging-indent}
 
-- Title of previous work (italicised)
-
-- Unpublished paper (in square brackets)
-
-- Institution name
+##### Example
 
 > {.hanging-indent}Smith, J. (2018). *An analysis of personality theory* [Unpublished paper]. RMIT University. {/.hanging-indent}
 
@@ -2226,7 +2420,7 @@ In the Reference list include:
 
 
 
-<!-- AI-generated content - links to the tenth type menu item -->
+<!-- AI-generated content - links to the eleventh type menu item -->
 ###### start-type-content
 
 ###### start-subtype
