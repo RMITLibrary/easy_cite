@@ -1171,7 +1171,7 @@ Place direct quotes between double quotation marks " " and provide the year and 
 
 #### Reference list
 
-- When a film title is in a different language to your paper, include a translation of the title in square parentheses.
+- When a film title is in a different language to your paper, include a translation of the title in square brackets.
 - Separate multiple production companies with a semicolon.
 
 ##### Rule
@@ -1215,7 +1215,7 @@ Place direct quotes between double quotation marks " " and provide the year and 
 
 Include details of the host or executive producer in the author position and their title.
 
-Italicise the podcast title and describe the form type inside square parentheses e.g. [Audio podcast].
+Italicise the podcast title and describe the form type inside square brackets e.g. [Audio podcast].
 
 Provide the exact URL.
 
@@ -1348,7 +1348,7 @@ Place direct quotes between double quotation marks " " and provide the year and 
 
 Include either the author/company/organisation name in the author position.
 
-Include the video title in italics and describe the form type inside square parentheses e.g. [Video].
+Include the video title in italics and describe the form type inside square brackets e.g. [Video].
 
 Provide the exact URL in the retrieval statement.
 
@@ -1528,7 +1528,7 @@ Place direct quotes between double quotation marks " " and provide the author an
 
 #### Reference list
 
-If citing information taken directly from a Facebook post include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year, month and day in parentheses, include the first 20 words of the post as the title in italics, if the post contains an image or video include it in square parentheses, describe the form type in square parentheses e.g. [Status update], include Facebook as the source and provide a URL to the post.
+If citing information taken directly from a Facebook post include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year, month and day in parentheses, include the first 20 words of the post as the title in italics, if the post contains an image or video include it in square brackets, describe the form type in square brackets e.g. [Status update], include Facebook as the source and provide a URL to the post.
 
 ##### Rule
 
@@ -1567,10 +1567,10 @@ Place direct quotes between double quotation marks " " and provide the author an
 
 #### Reference list
 
-- Present the name of the individual or group author as well as the Instagram handle (beginning with the @ sign) in square parentheses, followed by a period.
+- Present the name of the individual or group author as well as the Instagram handle (beginning with the @ sign) in square brackets, followed by a period.
 - Provide the year, month, and day of post in parentheses.
 - Provide the first 20 words of the caption as the title in italics.
-- Include a description of the post (e.g., “[Photo],” “[Video]”) in square parentheses after the title.
+- Include a description of the post (e.g., “[Photo],” “[Video]”) in square brackets after the title.
 - List Instagram as the site name in the source element and then provide the URL of the post.
 - The reference list format used for Instagram is also used for X (Twitter) and TikTok.
 
@@ -1609,7 +1609,7 @@ Place direct quotes between double quotation marks " " and provide the author an
 
 #### Reference list
 
-- Present the name of the individual or group author as well as the TikTok handle (beginning with the @ sign) in square parentheses, followed by a period.
+- Present the name of the individual or group author as well as the TikTok handle (beginning with the @ sign) in square brackets, followed by a period.
 - Provide the year, month and day of post.
 - Provide the first 20 words of the caption as the title in italics.
 - List TikTok as the site name in the source element and then provide the URL of the video.
@@ -1653,7 +1653,7 @@ Place direct quotes between double quotation marks " " and provide the author an
 
 #### Reference list
 
-If citing information taken directly from a post, include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the username in square parentheses, include the year, month and day in parentheses, followed by the first 20 words of the post as the title and hashtag(s) in italics, if the post contains an image or video include it in square parentheses, describe the form type in square parentheses e.g. [Post], include X as the source and provide a URL to the post.
+If citing information taken directly from a post, include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the username in square brackets, include the year, month and day in parentheses, followed by the first 20 words of the post as the title and hashtag(s) in italics, if the post contains an image or video include it in square brackets, describe the form type in square brackets e.g. [Post], include X as the source and provide a URL to the post.
 
 ##### Rule
 
@@ -2140,11 +2140,11 @@ Place direct quotes between double quotation marks " " and provide the page numb
 
 ##### Examples
 
-For a thesis sourced from an **institutional repository**, use the following format: author, year of publication in parentheses, title in italics, identify the type of work and institution in square parentheses e.g. [Doctoral dissertation, RMIT University] or [Master's thesis, RMIT University], repository/archive/database name and include a retrieval statement in the form of a URL.
+For a thesis sourced from an **institutional repository**, use the following format: author, year of publication in parentheses, title in italics, identify the type of work and institution in square brackets e.g. [Doctoral dissertation, RMIT University] or [Master's thesis, RMIT University], repository/archive/database name and include a retrieval statement in the form of a URL.
 
 > {.hanging-indent}Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance* [Doctoral dissertation, RMIT University]. RMIT Research Repository. https://researchbank.rmit.edu.au/view/rmit:161444 {/.hanging-indent}
 
-For a thesis sourced from a **library database** include the following information: author, year of publication in parentheses, title in italics, accession or order number in parentheses, type of work and institution in square parentheses, and the name of the database.
+For a thesis sourced from a **library database** include the following information: author, year of publication in parentheses, title in italics, accession or order number in parentheses, type of work and institution in square brackets, and the name of the database.
 
 > {.hanging-indent}Sutherland, A. M. (2016). *Technology for single cell protein analysis in immunology and cancer prognostics* (Order No. 3738948) [Doctoral dissertation, California Institute of Technology]. ProQuest Dissertations and Theses Global. {/.hanging-indent}
 
@@ -2220,7 +2220,7 @@ Use **s.** to denote slide number. If there is no assigned slide number then cou
 
 #### Reference list
 
-Include the author(s) name, year of publication, title of the slide presentation in italics, a description of the form type inside square parentheses e.g. [PowerPoint slides], Publisher name, and a retrieval statement in the form of a URL.
+Include the author(s) name, year of publication, title of the slide presentation in italics, a description of the form type inside square brackets e.g. [PowerPoint slides], Publisher name, and a retrieval statement in the form of a URL.
 
 ##### Rule
 
@@ -2261,7 +2261,7 @@ When citing in-text, include the author family name and year.
 
 **Reference list**
 
-The reference list citation should include: the author(s) name, year, month and day of lecture, title of the lecture in italics, a description of the form type inside square parentheses e.g. [Lecture recording], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
+The reference list citation should include: the author(s) name, year, month and day of lecture, title of the lecture in italics, a description of the form type inside square brackets e.g. [Lecture recording], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
 
 ##### Rule
 
@@ -2281,7 +2281,7 @@ When citing in-text, include the author(s) family name and year.
 
 **Reference list**
 
-The reference list citation should include: the author(s) name, year of publication, title of the slide presentation in italics, a description of the form type inside square parentheses e.g. [PowerPoint slides], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
+The reference list citation should include: the author(s) name, year of publication, title of the slide presentation in italics, a description of the form type inside square brackets e.g. [PowerPoint slides], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
 
 ##### Rule
 
@@ -2301,7 +2301,7 @@ When citing in-text, be sure to include the author family name and year.
 
 **Reference list**
 
-The reference list citation should include: the author(s) name, year of publication, title of the practical/laboratory manual in italics, a description of the form type inside square parentheses e.g. [Practical manual], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
+The reference list citation should include: the author(s) name, year of publication, title of the practical/laboratory manual in italics, a description of the form type inside square brackets e.g. [Practical manual], LMS@Publisher name, and a retrieval statement in the form of a URL (use the login page).
 
 ##### Rule
 
