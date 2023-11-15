@@ -83,9 +83,9 @@ For examples and advice regarding **Notes-Bibliography** of Chicago, please see 
 
 - Use in-text citations to acknowledge each author or source of information used within your writing either by paraphrasing or using a direct quote.
 
-- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://emedia.rmit.edu.au/learninglab/content/paraphrasing" target="_blank">Learning lab: Guide to paraphrasing</a> (opens in a new tab)
+- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/content/paraphrasing" target="_blank">Learning lab: Guide to paraphrasing</a> (opens in a new tab)
 
-- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://emedia.rmit.edu.au/learninglab/content/inserting-references" target="_blank">Learning Lab: Guide to inserting references</a> (opens in a new tab)
+- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/content/inserting-references" target="_blank">Learning Lab: Guide to inserting references</a> (opens in a new tab)
 
 - For specific advice on each reference you must determine the type of resource ie. book, journal article etc. and follow the recommended advice within this guide.
 
@@ -2274,7 +2274,7 @@ Some generative AI tools are not connected to the internet and are trained on da
 -   While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 -   The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
 
-The  [Learning Lab Artificial Intelligence Tools module](https://emedia.rmit.edu.au/learninglab/content/artificial-intelligence-tools)  has more information on how these AI tools work, and some points to consider when using them.
+The  [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/content/artificial-intelligence-tools)  has more information on how these AI tools work, and some points to consider when using them.
 
 ##### Copyright and non-human authors
 
