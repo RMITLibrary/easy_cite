@@ -1056,7 +1056,7 @@ AI-generated images are an emerging technology, and there are not yet clear guid
 
 #### How to reference AI-generated text in AGLC4 - interim guidelines
 
-The [Australian Guide to Legal Citation 4th edition[(https://law.unimelb.edu.au/mulr/aglc/about) does not currently contain any guidelines for referencing AI-generated content, and the style guide does not include guidelines for referencing software.
+The [Australian Guide to Legal Citation 4th edition](https://law.unimelb.edu.au/mulr/aglc/about) does not currently contain any guidelines for referencing AI-generated content, and the style guide does not include guidelines for referencing software.
 
 Our interim advice is to reference AI-generated text as a written correspondence (section 7.12), as we believe this is the best match for the AGLC style.  As generative AI tools are not considered authors from a copyright perspective, we recommend using language such as 'response generated using [the creator's AI tool]', rather than using the name of the tool as the author. Please note these guidelines may be updated in the future if the AGLC style manual editors release formal advice.
 
@@ -1072,7 +1072,6 @@ Rule: Note number Correspondence generated using the AI tool to Recipient, full 
 
 Example:  1 Response generated using Google's Bard to Matt Smith, 23 June 2023, see Appendix A for generated text and prompt
 
-<!-- using heading 4 (####) for sub-heading within this tab -->
 
 #### How to reference AI-generated images in AGLC4
 The [Australian Guide to Legal Citation 4th](https://law.unimelb.edu.au/mulr/aglc/about) edition does not specifically contain information about citing and referencing images. The information below is a suggested caption format if including an image that you have produced using an AI tool, as well as guidelines for referencing AI-generated images reproduced from published sources.
@@ -1100,7 +1099,7 @@ Example: Figure 1. An AI-generated image took first place in the digital categor
 
 Reference the published source according to the relevant source guidelines. The example below is an electronic newspaper article.
 
-Example: 1. Kevin Roose, 'An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.' The New York Times (online, 2 September 2022) <https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html>.
+Example: 1. Kevin Roose, 'An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.' The New York Times (online, 2 September 2022) < https<nolink>://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html >.
 
 
 

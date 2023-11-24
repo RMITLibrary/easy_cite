@@ -1925,7 +1925,7 @@ Example: **Fig 1.** A typical engineer as created by Stylianos Moschoglou using 
 **Reference list entry:**
 
 Reference the published source according to the [relevant source guidelines](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf). The example below is a webpage.
-Example: 1. C. Barkla. "AI created an image of the ‘average’ engineer – but it’s not the whole picture." Create Digital. Available: https://createdigital.org.au/what-average-engineer-looks-like-ai/ (accessed Mar. 1, 2023).
+Example: 1. C. Barkla. "AI created an image of the ‘average’ engineer – but it’s not the whole picture." Create Digital. Available: https<nolink>://createdigital.org.au/what-average-engineer-looks-like-ai/ (accessed Mar. 1, 2023).
 
 ###### end-subtype-content
 
