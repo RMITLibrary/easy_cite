@@ -979,10 +979,8 @@ For example, if Geoffrey Smith wanted to cite a paper they wrote at RMIT Univers
 <!-- first accordion item -->
 ###### start-subtype-content
 
-<!-- using heading 4 (####) for sub-heading within this tab -->
 #### AI-generated text
 
-<!-- using heading 5 (#####) for sub-heading within this text -->
 ##### Using generative artificial intelligence (AI) in learning and research, including assessment tasks
 The educators within your courses can tell you if you are able to use artificial intelligence (AI) tools in your assessment tasks, including how you can use the tools and what tools you can use. If you use any AI tools, you must appropriately acknowledge and reference the use of these tools and their outputs. Failure to reference the use of these tools can result in academic misconduct. 
 
@@ -1051,7 +1049,11 @@ AI-generated images are an emerging technology, and there are not yet clear guid
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
+
 ### Referencing guidelines for AI-generated content
+
+###### start-subtype-content
+
 #### How to reference AI-generated text in AGLC4 - interim guidelines
 
 The [Australian Guide to Legal Citation 4th edition[(https://law.unimelb.edu.au/mulr/aglc/about) does not currently contain any guidelines for referencing AI-generated content, and the style guide does not include guidelines for referencing software.
@@ -1100,9 +1102,7 @@ Reference the published source according to the relevant source guidelines. The 
 
 Example: 1. Kevin Roose, 'An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.' The New York Times (online, 2 September 2022) <https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html>.
 
-###### start-subtype-content
 
-enter subtype details here
 
 ###### end-subtype-content
 
