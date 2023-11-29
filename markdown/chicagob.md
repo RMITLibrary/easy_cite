@@ -83,9 +83,9 @@ For examples and advice regarding **Notes-Bibliography** of Chicago, please see 
 
 - Use in-text citations to acknowledge each author or source of information used within your writing either by paraphrasing or using a direct quote.
 
-- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://emedia.rmit.edu.au/learninglab/content/paraphrasing" target="_blank">Learning lab: Guide to paraphrasing</a> (opens in a new tab)
+- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/content/paraphrasing" target="_blank">Learning lab: Guide to paraphrasing</a> (opens in a new tab)
 
-- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://emedia.rmit.edu.au/learninglab/content/inserting-references" target="_blank">Learning Lab: Guide to inserting references</a> (opens in a new tab)
+- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/content/inserting-references" target="_blank">Learning Lab: Guide to inserting references</a> (opens in a new tab)
 
 - For specific advice on each reference you must determine the type of resource ie. book, journal article etc. and follow the recommended advice within this guide.
 
@@ -2274,7 +2274,7 @@ Some generative AI tools are not connected to the internet and are trained on da
 -   While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 -   The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
 
-The  [Learning Lab Artificial Intelligence Tools module](https://emedia.rmit.edu.au/learninglab/content/artificial-intelligence-tools)  has more information on how these AI tools work, and some points to consider when using them.
+The  [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/content/artificial-intelligence-tools)  has more information on how these AI tools work, and some points to consider when using them.
 
 ##### Copyright and non-human authors
 
@@ -2404,7 +2404,7 @@ As from a copyright perspective, you are considered the creator of work that is 
 
 **How to reference an AI-generated image reproduced from a published source:**
 
-Follow the general guidelines for [Artwork](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-5#stn-7#subtype-33), noting that the [Chicago Manual of Style](https://www-chicagomanualofstyle-org.ezproxy.lib.rmit.edu.au/book/ed17/part3/ch14/psec235.html) states that information about images and works of art can usually be presented in the text, rather than a note or bibliography. A caption below the image can be used to include the necessary information. Use the name of the human as the creator (if known) and include information that the work was generated using AI - we recommend adding this information in the medium field. If the human creator of the image is unknown, use text such as Artwork created using (the AI tool) in place of the creator's name.
+Follow the general guidelines for [Artwork](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-5#stn-7#subtype-33), noting that the [Chicago Manual of Style](https://go.openathens.net/redirector/rmit.edu.au?url=https%3A%2F%2Fwww.chicagomanualofstyle.org%2Fbook%2Fed17%2Fpart3%2Fch14%2Fpsec235.html) states that information about images and works of art can usually be presented in the text, rather than a note or bibliography. A caption below the image can be used to include the necessary information. Use the name of the human as the creator (if known) and include information that the work was generated using AI - we recommend adding this information in the medium field. If the human creator of the image is unknown, use text such as Artwork created using (the AI tool) in place of the creator's name.
 
 **Caption**
 
