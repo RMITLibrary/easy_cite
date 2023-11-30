@@ -2574,7 +2574,7 @@ To include the image in your work provide a figure number and brief title above 
 > _Note_. Description of figure.
 
 **Example**
-![Interstellar space squid](images/Firefly interstellar purple and orange space squid 62452.jpg)<br>
+![Interstellar space squid](images/Firefly-interstellar-purple-and-orange-space-squid-62452.jpg)<br>
 
 > _Note_. Image generated using Adobe Firefly
 

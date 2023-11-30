@@ -1399,7 +1399,7 @@ The RMIT Vancouver guide contains general information on [using and referencing 
 Include the image in your work with a caption that explains that the work was generated using an AI tool, and what prompt was used.
 
 Example:
-![Sunset over the ocean on a stormy day](images/Firefly sunset over the ocean on a stormy day 16158.jpg)<br>
+![Sunset over the ocean on a stormy day](images/Firefly-sunset-over-the-ocean-on-a-stormy-day-16158.jpg)<br>
 
 Figure 1. Image generated using Adobe Firefly from the prompt sunset over the ocean on a stormy day.
 

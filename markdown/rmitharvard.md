@@ -3979,7 +3979,7 @@ Include the image in your work with a caption that explains that the work was ge
 
 **Caption**
 Example:
-.![A brown owl in a forest](images/Firefly a brown owl in a forest 16158.jpg)<br>
+.![A brown owl in a forest](images/Firefly-a-brown-owl-in-a-forest-16158.jpg)<br>
 
 **Rule**
 > Figure number: Description or explanation

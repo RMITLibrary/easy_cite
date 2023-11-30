@@ -2399,7 +2399,7 @@ As from a copyright perspective, you are considered the creator of work that is 
 
 ##### Example
 
-<![Two students studying in a park](Firefly two students studying in a park in the sunshine 16158.jpg)<br>
+<![Two students studying in a park](Firefly-two-students-studying-in-a-park-in-the-sunshine-16158.jpg)<br>
 > Figure 1. Artwork created using Adobe Firefly in response to the prompt: two students studying in a park in the sunshine.
 
 
