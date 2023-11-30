@@ -2018,21 +2018,21 @@ If a shareable URL to the content is available, include it in your reference lis
 
 ##### Rule
 
-> {hanging-indent}Note number. AI tool used, Month Day, Year, Creator of tool, URL.
+> {.hanging-indent}Note number. AI tool used, Month Day, Year, Creator of tool, URL.{/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}1. Text generated using ChatGPT, June 26, 2023, OpenAI, https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c
+> {.hanging-indent}1. Text generated using ChatGPT, June 26, 2023, OpenAI, https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c{/.hanging-indent}
 
 #### Footnote example - non-shareable AI-generated content:
 
 ##### Rule
 
-> {hanging-indent}Note number. AI tool used, Month Day, Year, Creator of tool, Appendix.
+> {.hanging-indent}Note number. AI tool used, Month Day, Year, Creator of tool, Appendix.{/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}1. Text generated using Bard, June 23, 2023, Google, see Appendix for generated text and prompt used.
+> {.hanging-indent}1. Text generated using Bard, June 23, 2023, Google, see Appendix for generated text and prompt used.{/.hanging-indent}
 
 #### How to reference AI-generated images
 
