@@ -1909,7 +1909,9 @@ Example: 1. Bard (2023.06.07), Google. Accessed: Jun 23, 2023. [Online]. See App
 **How to reference images that you produce using an AI tool:**
 
 Include the image in your work with a caption that explains that the work was generated using an AI tool, and what prompt was used.
+
 Example:
+
 ![A Typical Engineer](images/Firefly-a-typical-engineer-16158.jpg)<br>
 
 **Fig 1.** Image generated using Adobe Firefly from the prompt a typical engineer.
