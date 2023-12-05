@@ -1921,7 +1921,9 @@ Example:
 If using reproduced images, the IEEE style advice is to reference the published source, using a numbered in-text citation that matches the corresponding reference list entry. If including the AI-generated image in your work, include information and a numbered citation in the figure caption below the image.
 
 **Caption**
+
 Rule: **Fig. number.** Description of figure [reference number]
+
 Example: **Fig 1.** A typical engineer as created by Stylianos Moschoglou using an AI machine learning model [1]
 
 **Reference list entry:**
