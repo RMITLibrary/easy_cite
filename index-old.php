@@ -448,7 +448,7 @@ echo($mylist);
 			<p>The styles included are RMIT Harvard, AGLC4, APA, Chicago A: footnotes and bibliography, Chicago B: author-date, IEEE, and Vancouver.</p>
             <p>Easy Cite includes as many examples of reference types as possible. If the style guides shown here do not include your specific reference or citation type, consider applying the format from similar types within Easy Cite for your reference and citation, or check the relevant style manual.</p>
             <p>Easy Cite is intended as a guide only and some styles are open to interpretation. You should always check with your instructor to ensure you are using the correct style for your assignments and assessment tasks.</p>
-			<p>Visit the <a href="https://emedia.rmit.edu.au/learninglab/content/referencing" target="_blank">Learning Lab Referencing Tutorial (opens in a new tab)</a> and find out how to correctly use different referencing styles in academic writing to avoid plagiarism and get better marks.</p>
+			<p>Visit the <a href="https://learninglab.rmit.edu.au/content/referencing" target="_blank">Learning Lab Referencing Tutorial (opens in a new tab)</a> and find out how to correctly use different referencing styles in academic writing to avoid plagiarism and get better marks.</p>
         </div>
 		<div class="col-12 col-sm-6 colpad">	
 			<h5>Select a style guide from the tabs above to start using Easy Cite.</br>
