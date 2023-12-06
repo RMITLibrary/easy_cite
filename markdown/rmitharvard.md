@@ -3983,9 +3983,6 @@ Include the image in your work with a caption that explains that the work was ge
 
 **Example**
 > Figure 1: Image generated using OpenAI's DALL-E 2 from the prompt a brown owl in a forest.
-
-Example:
-
 > ![A brown owl in a forest](images/Firefly-a-brown-owl-in-a-forest-16158.jpg)<br>
 
 
