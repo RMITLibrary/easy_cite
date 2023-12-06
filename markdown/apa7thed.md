@@ -2548,7 +2548,7 @@ For in-text citations, use the creator of the AI tool as the author (i.e., OpenA
 
 <!-- using heading 4 (####) for sub-heading within this tab -->
 #### How to reference AI-generated images in APA 7th
-RMIT's APA 7th guide contains information about using and referencing images. [using and referencing images](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-3#stn-7).
+RMIT's APA 7th guide contains information about using and referencing images [using and referencing images](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-3#stn-7).
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### AI-generated images reproduced in a published source:
