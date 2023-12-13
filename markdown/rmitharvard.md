@@ -26,7 +26,7 @@
 ## Using RMIT Harvard
 ## Books
 ## Journal articles
-## Newspaper articles
+## Newspaper and magazine articles
 ## Conference papers
 ## Websites and webpage documents
 ## Social media
@@ -64,9 +64,9 @@
 
 RMIT Harvard is an author-date referencing style based on the **Author-date** referencing style of the AGSM.
 
-RMIT Harvard style requires in-text references and the reference list.
+RMIT Harvard style requires in-text citations and the reference list.
 
-**In-text references** appear within the body of the document. They include the author’s family name or name of the organisation responsible for the information source and the year of publication, with page numbers required for quotes if available.
+**In-text citations** appear within the body of the document. They include the author’s family name or name of the organisation responsible for the information source and the year of publication, with page numbers required for quotes if available.
 
 **A reference list** provides the full bibliographic details of all in-text references at the end of the assignment.
 
@@ -79,19 +79,19 @@ RMIT Harvard style requires in-text references and the reference list.
 
 ###### start-subtype-item
 
-### General rules for in-text references
+### General rules for in-text citations
 
 ###### start-subtype-content
 
-- Use in-text references to acknowledge each author or source of information (print or online) used within your writing either by paraphrasing or using a direct quote.  
+- Use in-text citations to acknowledge each author or source of information (print or online) used within your writing either by paraphrasing or using a direct quote.  
     
     **Paraphrasing** is when you express the author’s ideas in your own words. Paraphrasing is generally preferred to quotes as they show you understand and can explain the ideas you have read rather than simply copying them.
     
     **A direct quote** is when you use the exact words from the original source. Use quotes sparingly, such as when the exact words of the author are important to the claim you are making. Put direct quotes between single inverted commas (quotation marks). Include a page number in the in-text reference if available.
     
-    In-text references include the author’s family name (or company or organisation name, if the author is a company or organisation) and year of publication, with page numbers (if available) required for quotes.
+    In-text citations include the author’s family name (or company or organisation name, if the author is a company or organisation) and year of publication, with page numbers (if available) required for quotes.
     
-- An in-text reference can be inserted at the beginning, middle or end of a sentence. When you are referencing information that authors/researchers agree about, the reference is placed at the end of the sentence (an information prominent citation). This is the most common type of in-text reference. Referencing at the beginning of a sentence (author prominent citation) is used to focus on a particular author/researcher’s point of view or on specific research that might not apply in all situations.
+- An in-text citation can be inserted at the beginning, middle or end of a sentence. When you are referencing information that authors/researchers agree about, the citation is placed at the end of the sentence (an information prominent citation). This is the most common type of in-text citation. Citing at the beginning of a sentence (author prominent citation) is used to focus on a particular author/researcher’s point of view or on specific research that might not apply in all situations.
 
 - If the author is integrated as part of the sentence, the date (and page number for direct quote) is placed in parentheses immediately after the author's family name.
 
@@ -138,7 +138,7 @@ With direct quotes, always use the spelling and formatting style of the original
 
 If the source contains grammatical or spelling errors, you must copy the quote exactly as it appears in the original source (including the errors). Then put sic in parentheses **(sic)** immediately after the error.
 
-A quote in an in-text reference can be inserted at the beginning, middle or end of a sentence.
+A quote in an in-text citation can be inserted at the beginning, middle or end of a sentence.
 
 ##### Beginning of a sentence
 
@@ -166,7 +166,7 @@ As Smithers (2020:57) points out:
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-Paraphrasing in an in-text reference can be inserted at the beginning, middle or end of a sentence.
+Paraphrasing in an in-text citation can be inserted at the beginning, middle or end of a sentence.
 
 ##### Beginning of a sentence
 
@@ -193,7 +193,7 @@ Paraphrasing in an in-text reference can be inserted at the beginning, middle or
 
 Identify works by the same author in the same year by inserting a letter after the year, starting with the letter ‘a’ for the first work you cite, e.g. 2021a, 2021b. In the reference list, include the same letter after each year of publication.
 
-#### In-text reference
+#### In-text citation
 
 > It is argued that...(Ayoob 2021a, 2021b).
 
@@ -218,7 +218,7 @@ Identify works by the same author in the same year by inserting a letter after t
 
 To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text references. In the reference list, order their works by the year of publication.
 
-#### In-text reference
+#### In-text citation
 
 > It is argued that...(Peterson M 2019), but others claim that...(Peterson JR et al. 2021).
 
@@ -239,7 +239,7 @@ In the reference list, order the works of each author by the year of publication
 
 When including two or more references in the same parentheses in a sentence, list all citations chronologically, separated by a semi-colon (;).
 
-#### In-text reference
+#### In-text citation
 
 > It has been claimed that...(Ghezzi and Cavallo 2018; Jocevski 2020; Soluk et al. 2021).
 
@@ -263,7 +263,7 @@ A **secondary citation** acknowledges the work of an author (the original source
 
 For example, if you use Vanna's (2019) ideas (the original source), which you read about in an article by Martin and Rodriguez (2021), you will need to show who the ideas belong to (Vanna 2019) and where you read about them (Martin and Rodriguez 2021).
 
-#### In-text reference
+#### In-text citation
 
 > Previous research appears to indicate... (Vanna 2019, cited in Martin and Rodriguez 2021).
 
@@ -287,7 +287,7 @@ In the reference list, only include the source you read. For this example, if yo
 
 ###### start-subtype-content
 
-- Use a reference list at the end of the document to include the publication details of all the in-text references cited within your writing.
+- Use a reference list at the end of the document to include the publication details of all the in-text citations cited within your writing.
 
 - The general order of the elements is:
     - author or authoring organisation’s name
@@ -405,7 +405,7 @@ WHO (World Health Organization) (2021) *WHO accelerates work on nutrition target
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -413,7 +413,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Day (2018:3) states that 'writing is a uniquely powerful, precise and satisfying form of expression. It is also a vital skill for future employment'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -452,7 +452,7 @@ In your reference list:
 
 Use the full word **and** when citing two authors. This applies to referring directly to the authors in a sentence or if citing them in parentheses.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -462,7 +462,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'Building plans tend to ignore climate risks in most instances' (Hill and Martinez-Diez 2020:18).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -500,7 +500,7 @@ In your reference list:
 
 For in-text references, give only the first author's family name, followed by **et al.** and the publication year.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -508,7 +508,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > In the context of nursing, decision making is defined by DeLaune et al. (2019:63) as 'considering and selecting interventions from a range of actions that facilitate the achievement of a desired outcome'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 > Decision making, when applied to the nursing profession, means the selection of careful consideration of interventions from a broad spectrum of actions that can lead to a satisfactory outcome (DeLaune et al. 2019).
 
@@ -545,7 +545,7 @@ Where the author is an organisation, use the name of the organisation as the aut
 
 When the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'OECD' rather than 'Organisation for Economic Co-operation and Development'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -555,7 +555,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > The International Civil Aviation Organization (2018:1-1) defines safety management as a role that 'seeks to proactively mitigate safety risks before they result in aviation accidents and incidents'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -606,7 +606,7 @@ In your reference list:
 
 In place of the author, cite the book title and the year. Italicise the book title. If quoting, include a colon and page number (if available) after the year.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -616,7 +616,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > According to *A Warning* (2019:15) 'the...'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -653,7 +653,7 @@ In your reference list:
 
 When citing two or more works by the same author(s) in the same in-text reference, place the years of publication in chronological order after the author(s)'s name. If the works were written in the same year, place a letter after the year of each work, i.e. **a** after the first, **b** after the second and so on. For example: (2020a), (2020b).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -726,7 +726,7 @@ In your in-text references, use the name of the chapter author(s), not the name 
 
 If you use an edited book where the chapters have no identified authors, give the editor(s)'s family name as the author(s) in an in-text reference.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -734,7 +734,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'In the past decade smart technology, including networking and big data have given ways to organizations to expand their horizons' (Sahai et al. 2021:102).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -816,7 +816,7 @@ In your reference list:
 
 For online books sourced from Library databases or websites.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -828,7 +828,7 @@ The first example below comes from an e-book that has a page number, i.e. 35. Th
 
 > Shann (1948) argues in the opening paragraphs of Chapter 1 that 'neither legal restrictions nor isolation made the "settlers from convicts" better able to read the riddle of agriculture in a climate fruitful at times but fatally capricious'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -880,7 +880,7 @@ In your reference list:
 
 If there is no author, cite the encyclopedia or dictionary title and the year. Italicise the encyclopedia or dictionary title. If quoting, include a colon and page number (if available) after the year.
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -888,7 +888,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Megaphone democracy is defined as 'the diplomatic strategy of talking freely in public forums about an issue in order to persuade people to accept a particular point of view' (*Macquarie dictionary* 2017:936).
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -901,7 +901,7 @@ Encyclopedia or dictionary entries **without an author** do not need to be inclu
 
 #### Encyclopedia or dictionary entry with an author
 
-##### In-text reference: Direct quote
+##### In-text citation: Direct quote
 
 A direct quote is when you are using the exact words of the author(s). Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -909,7 +909,7 @@ If quoting, include a colon and page number (if available) after the year.
 
 > 'Philosophical conversations about determinism can be traced back through history as the question of whether human existence is planned or random and have perennially captured the imagination of thoughtful people' (Baird 2018:890).
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -955,7 +955,7 @@ In your reference list:
 
 - If there is no author, cite the publication title and the year. Italicise the publication title.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -965,7 +965,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Regarding paediatric ultrasound, the Specialist Imaging For Women (c. 2021) offers 'neonatal hip ultrasound – screening for developmental hip dysplasia – up to 6 months of age'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1007,7 +1007,7 @@ An exhibition catalogue can be physical (print) or online from a website.
 
 The author may be a person/people or the gallery/museum/public space (e.g. library).
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1015,7 +1015,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'The art of costume seems to have been intrinsically linked to Chanel's career path' (NGV International:259).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1047,7 +1047,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ##### Example
 
->Carpenter JT (2012) *Designing nature: the Rinpa aesthetic in Japanese art* [online exhibition catalogue], 26 May 2012 – 13 January 2013, The Metropolitan Museum of Art website, accessed 13 December 2021. https<nolink>://www.metmuseum.org/art/metpublications/Designing_Nature_The_Rinpa_Aesthetic_in_Japanese_Art?Tag=Notable%20exhibition%20catalogues&title=&author=&pt=&tc=&dept=&fmt=
+> Carpenter JT (2012) *Designing nature: the Rinpa aesthetic in Japanese art* [online exhibition catalogue], 26 May 2012 – 13 January 2013, The Metropolitan Museum of Art website, accessed 13 December 2021. https<nolink>://www.metmuseum.org/art/metpublications/Designing_Nature_The_Rinpa_Aesthetic_in_Japanese_Art?Tag=Notable%20exhibition%20catalogues&title=&author=&pt=&tc=&dept=&fmt=
 
 ###### end-subtype-content
 
@@ -1073,7 +1073,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1081,7 +1081,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > One of the themes of their Early Childhood Education and Care (ECEC) program, according to Papadopoulou (2020:686), is 'fostering in our students a strong sense of professional identity and empowering them to develop and even redefine their practice'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1126,7 +1126,7 @@ In your reference list:
 
 For two authors, use **and** to separate them. This applies to both referring to the authors in the sentence and references in parentheses at the end of the sentence.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1134,7 +1134,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'In the field of design, novelty is widely acknowledged as a key parameter for creativity assessments' (Fiorineschi and Rotini 2021:590).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1180,7 +1180,7 @@ In your reference list:
 
 Shorten the in-text reference to the first author followed by **et al.** (Latin for 'and others'). All authors are included in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1190,7 +1190,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Bichler et al. (2021:1829) assert that 'different polymer architectures behave differently regarding their dynamics'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1240,7 +1240,7 @@ In your reference list:
 
 If the journal article does not have a person identified as the author, begin the reference with the name of the journal instead (do no italicise) followed by the year of the article.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1252,7 +1252,7 @@ The examples below come from a source that does not have page numbers:
 
 > The Lancet Rheumatology (2021) explains in the opening paragraph that '...there is only one targeted drug approved for the disease, despite decades of research...'
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1296,7 +1296,7 @@ In your reference list:
 
 For online journal articles sourced from Library databases or websites.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1308,7 +1308,7 @@ The first example below comes from a source that has a page number, i.e. 163. Th
 
 > 'The association between SSB \[sugar-sweetened beverages\] consumption and both endometrial and ovarian cancer risk tended to be positive but did not reach statistically significant levels' (Llaha et al. 2021).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1363,7 +1363,7 @@ In your reference list:
 
 
 
-<!-- Newspaper articles - links to the fourth type menu item -->
+<!-- Newspaper and magazine articles - links to the fourth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1372,14 +1372,14 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Print newspaper article 
+### Print newspaper or magazine article 
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
 In hardcopy (print) format.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1387,7 +1387,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'The pay of bank chief executives could be linked to climate change targets in the future' (Yeates 2021:24).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1399,13 +1399,13 @@ In your reference list:
 
 - Enclose the title of the article in single inverted commas (quotation marks).
 
-- Italicise the newspaper title.
+- Italicise the newspaper or magazine title.
 
 - Include the full publication date in brackets after author (e.g. 6 December 2021).
 
 ##### Rule
 
-> Author’s family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*.
+> Author’s family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*.
 
 ##### Examples
 
@@ -1421,13 +1421,13 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Print newspaper article with no author
+### Print newspaper or magazine article with no author
 
 ###### start-subtype-content
 
 In hardcopy (print) format.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1437,7 +1437,7 @@ The example below comes from a source that has a page number, i.e. 25:
 
 > 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1447,15 +1447,15 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- If the newspaper article does not have a person identified as the author, use the name of the newspaper instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. Financial Review (7 August 2021).
+- If the newspaper or magazine article does not have a person identified as the author, put the name of the newspaper or magazine instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. Financial Review (7 August 2021).
 
 - Put the title of the article in single inverted commas (quotation marks).
 
-- Italicise only the second instance of the newspaper name after the article title.
+- Italicise only the second instance of the newspaper or magazine name after the article title.
 
 ##### Rule
 
-> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*.
+> Name of Newspaper or Magazine (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*.
 
 ##### Example
 
@@ -1469,11 +1469,11 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a library database
+### Newspaper or magazine article from a library database
 
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1485,7 +1485,7 @@ The examples below come from sources that do not have page numbers:
 
 > Wright and Duke (2021) begin their article on housing affordability by reporting on the Reserve Bank of Australia’s statement that although increases in property value had provided a 'financial boost to people already with a home', the 'market could take on a life of its own' if those looking to buy property accumulate too much debt.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1501,13 +1501,13 @@ In your reference list:
 
 - Enclose the title of the article in single inverted commas (quotation marks).
 
-- Italicise the newspaper name.
+- Italicise the newspaper or magazine name.
 
 - Add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
 
 ##### Rule
 
-> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year, Name of Database database.
+> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*, accessed Day Month Year, Name of Database database.
 
 ##### Example
 
@@ -1521,13 +1521,13 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a library database with no author
+### Newspaper or magazine article from a library database with no author
 
 ###### start-subtype-content
 
-If the newspaper article does not have a person identified as the author, begin the reference with the name of the newspaper instead (do no italicise) followed by the day, month and year of the article.
+If the newspaper or magazine article does not have a person identified as the author, begin the reference with the name of the newspaper or magazine instead (do no italicise) followed by the day, month and year of the article.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1537,7 +1537,7 @@ The example below comes from a source that has a page number, i.e. 25:
 
 > 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1547,17 +1547,17 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- If the newspaper article does not have a person identified as the author, use the name of the newspaper instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. The Age (28 June 2022).
+- If the newspaper or magazine article does not have a person identified as the author, use the name of the newspaper or magazine instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. The Age (28 June 2022).
 
 - Put the title of the article in single inverted commas (quotation marks).
 
-- Italicise only the second instance of the newspaper name after the article title.
+- Italicise only the second instance of the newspaper or magazine name after the article title.
 
-- After the second instance of the newspaper name, add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+- After the second instance of the newspaper or magazine name, add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
 
 ##### Rule
 
-> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year, Name of Database database.
+> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*, accessed Day Month Year, Name of Database database.
 
 ##### Example
 
@@ -1571,11 +1571,11 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a webpage
+### Newspaper or magazine article from a webpage
 
 ###### start-subtype-content
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1587,7 +1587,7 @@ The examples below come from sources that do not have page numbers:
 
 > Wright and Duke (2021) begin their article on housing affordability by reporting on the Reserve Bank of Australia's statement that although increases in property value had provided a 'financial boost to people already with a home', the 'market could take on a life of its own' if those looking to buy property accumulate too much debt.
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1603,13 +1603,13 @@ In your reference list:
 
 - Enclose the title of the article in single inverted commas (quotation marks).
 
-- Italicise the newspaper name.
+- Italicise the newspaper or magazine name.
 
 - Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
-> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year. URL
+> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*, accessed Day Month Year. URL
 
 ##### Example
 
@@ -1623,13 +1623,13 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a webpage with no author
+### Newspaper or magazine article from a webpage with no author
 
 ###### start-subtype-content
 
-If the newspaper article does not have a person identified as the author, begin the reference with the name of the newspaper instead (do no italicise) followed by the day, month and year of the article.
+If the newspaper or magazine article does not have a person identified as the author, begin the reference with the name of the newspaper or magazine instead (do no italicise) followed by the day, month and year of the article.
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1639,7 +1639,7 @@ The example below comes from a source that has a page number, i.e. 25:
 
 > 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1649,17 +1649,17 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- If the newspaper article does not have a person identified as the author, use the name of the newspaper instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. The Age (24 January 2022).
+- If the newspaper or magazine article does not have a person identified as the author, use the name of the newspaper or magazine instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. The Age (24 January 2022).
 
 - Put the title of the article in single inverted commas (quotation marks).
 
-- Italicise only the second instance of the newspaper name after the article title.
+- Italicise only the second instance of the newspaper or magazine name after the article title.
 
-- After the second instance of the newspaper name, add the accessed date (e.g. accessed 2 November 2021) followed by a full stop, a space then the URL. No full stop after URL.
+- After the second instance of the newspaper or magazine name, add the accessed date (e.g. accessed 2 November 2021) followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
-> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year. URL
+> Name of Newspaper or Magazine (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*, accessed Day Month Year. URL
 
 Example
 
@@ -1693,7 +1693,7 @@ Example
 
 Generally, conference papers are published within conference proceedings, either online or in hardcopy (print) format. In most cases, a conference paper (rather than the conference proceedings) will be used as a reference.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1703,7 +1703,7 @@ The example below comes from a source that has a page number, i.e. 76:
 
 > 'Students should engage in critical self-reflection regarding their ability to apply the theory they study to their future employment' (Rasmussen and Ngwenya 2021:76).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1745,7 +1745,7 @@ Generally, conference papers are published within conference proceedings, either
 
 A conference paper from a webpage will generally be sourced from the conference's website or the website of the organisation hosting the conference.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1755,7 +1755,7 @@ The example below comes from a source that has a page number, i.e. 76:
 
 > 'Students should engage in critical self-reflection regarding their ability to apply the theory they study to their future employment' (Rasmussen and Ngwenya 2021:76).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1809,7 +1809,7 @@ For conference papers sourced from conference proceedings in hardcopy (print) fo
 
 An unpublished conference paper is a work in progress, has already been submitted for publication but has yet to be published, or has been completed but has not been submitted for publication yet.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1819,7 +1819,7 @@ The example below comes from a source that has a page number, i.e. 76:
 
 > 'Students should engage in critical self-reflection regarding their ability to apply the theory they study to their future employment' (Rasmussen and Ngwenya 2021:76).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1881,7 +1881,7 @@ If a webpage does not have an author name (individual or organisation), use the 
 
 If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
@@ -1893,7 +1893,7 @@ The examples below come from sources that do not have page numbers:
 
 > Heath (2021) explains that artificial intelligence is seen as being 'tied to a system's ability to adapt and improvise in a new environment, to generalise its knowledge and apply it to unfamiliar scenarios'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1956,7 +1956,7 @@ If a downloadable webpage document (e.g. PDF) does not have an author name (indi
 
 If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1966,7 +1966,7 @@ The example below comes from a source that has a page number, i.e. 4:
 
 > The DET, Victoria (2020:4) states that 'when teachers work together to improve their practice, students learn more'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2030,7 +2030,7 @@ In your reference list:
 
 If the blog post does not have a person identified as the author, begin the reference with the name of the blog instead (do no italicise) followed by the day, month and year of the post.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
@@ -2038,7 +2038,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > In a post introducing the delights of Australian native food in the opening paragraph, Welcome to Country (6 August 2021) notes that if you have not 'explored Australian native Bush Food you are missing out on some incredible flavours, textures and nutritional benefits'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2096,7 +2096,7 @@ The author may be a person/people or an organisation.
 
 If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
@@ -2108,7 +2108,7 @@ Cite the author's name (the poster) and the year of publication as you would for
 
 > In Greta Thunberg's Instagram post, she asserts that 'we can no longer let the people in power decide what hope is. Hope is not passive' (Thunberg 2021b).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2171,13 +2171,13 @@ Cite the title of the film, movie or television program in italics, followed by 
 
 The title can be abbreviated after the first mention as long as the meaning remains clear. You can also leave out the date when subsequently referring to the film, movie or television program.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
 > David Gulpilil describes the documentary of his life in the opening scenes by simply stating, 'This is my story of my story' (*My name is Gulpilil* 2017).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of author(s) in your own words.
 
@@ -2247,13 +2247,13 @@ In your reference list for **television program**:
 
 Only cite the host(s) in the in-text reference (quote or paraphrase), not the producer. Both the producer and host(s) are included in the reference list entry.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
 > Bessell and Hunter (2020) points out that despite the Covid-19 pandemic having driven governments to implement 'previously unseen welfare interventions...social and economic inequality is deepening around the globe'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2303,7 +2303,7 @@ For YouTube videos and other online streaming videos located on other websites.
 
 The creator (author) can be a person, channel name or organisation.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
@@ -2313,7 +2313,7 @@ If the creator is unknown, cite the title of the video in italics and the year o
 
 > Nabben (2021) points out that there is still much 'catching up \[to do\] in terms of the law...around blockchains considering how fast the space is evolving'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2374,13 +2374,13 @@ If you refer to the name of the song, cite the author/artist and the year in the
 
 When you quote someone's lyrics, cite the song name, the author and the year of publication in the sentence or parentheses.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
 > The psychedelic imagery of 'tangerine trees and marmalade skies \[and\] cellophane flowers of yellow and green' represents...(The Beatles, 'Lucy in the sky with diamonds' 1967).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2434,13 +2434,13 @@ In your reference list:
 
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
 > On an episode of *The world today*, Smail (2021) reported on the need for an 'overhaul of the existing the tax and welfare system...to boost female workforce participation'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2587,7 +2587,7 @@ If the artwork or image (non-artwork) was on a website, include the URL (no full
 
 > {.figure-text}Figure 8: Untitled screenshot of Zelphr homepage. {/.figure-text}
 
-#### In-text reference to artworks or images (non-artworks)
+#### In-text citation to artworks or images (non-artworks)
 
 Italicise the titles of individual artworks or images (non-artworks) and use sentence case. If the artist/creator has made typographic decisions for the title where it has to appear in a certain way, use capitalisation, numbers or punctuation in exactly the same way as the artist/creator does in original title, e.g. *flight research #6*.
 
@@ -2717,7 +2717,7 @@ If the map was on a website, include the URL (no full stop after URL) after the 
 
 > {.figure-text}Figure 10: VicPlan (2020) *Plenty Road Bundoora 3083* [digital map], VicPlan website, accessed 13 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/. {/.figure-text}
 
-#### In-text references
+#### In-text citation
 
 If you use a map, refer to the figure number when you discuss it.
 
@@ -2839,7 +2839,7 @@ If you are using a table or graph that has been published elsewhere, acknowledge
 > {.figure-text}Figure 10: Buy now, pay later payments in Australia {/.figure-text}
 > {.figure-text}Source: Fisher, Holland and West 2021:61 {/.figure-text}
 
-#### In-text references - examples
+#### In-text citation - examples
 
 If you use a table, graph or diagram, refer to the table or figure number when you discuss it.
 
@@ -2890,7 +2890,7 @@ Authors are often organisations, departments or committees rather than individua
 
 For in-text citations in parentheses, use the commonly used abbreviated name form of 'ABS' rather than the full name of the 'Australian Bureau of Statistics'. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -2898,7 +2898,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'For both males and females, Australia has a higher life expectancy than similar countries such as New Zealand, the United Kingdom and the United States of America' (ABS 2021).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2948,7 +2948,7 @@ Authors are often organisations, departments or committees rather than individua
 
 If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -2956,7 +2956,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > This 'review provides an opportunity to reflect on the lessons that can be learned from the first five years of the TEQSA Act's operation' (DET 2016).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3018,7 +3018,7 @@ Where there is no author, use the name of the company or organisation responsibl
 
 If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'NAB' rather than 'National Australia Bank'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3028,7 +3028,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > The company claims that it aims to 'continuously improve waste performance with all our divisions striving to divert waste from landfill' (Wesfarmers Limited 2021).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3090,11 +3090,11 @@ If available, include a reference point (e.g. figure number or table number) in 
 
 If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'RBA' rather than 'Reserve Bank of Australia'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 When you copy or adapt specific data sets in the form of tables, charts or figures you must acknowledge them both in your writing and with a caption below the figure. Refer to the sections on table and figures for more information.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3148,7 +3148,7 @@ In your reference list:
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3156,7 +3156,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'For single or upper storey construction, the spacing of bracing elements, measured at right angles to elements, shall not exceed 9000 mm' (Standards Australia 2010:11).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3200,7 +3200,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3208,7 +3208,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 >The technologies used for the conversion of energy 'deserve thinner functional materials to allow optimum light into the interiors of interest' (Shanmugam, Shown and Sridhara 2021:1).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3257,7 +3257,7 @@ In your reference list:
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3265,7 +3265,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Khoo (2018:44) argues that 'the idea of service design challenges the aesthetics of interiors due to its focus on functionality and efficiency rather than creating a liveable and appealing environment'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3303,7 +3303,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3311,7 +3311,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Khoo (2018:44) argues that 'the idea of service design challenges the aesthetics of interiors due to its focus on functionality and efficiency rather than creating a liveable and appealing environment'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3349,7 +3349,7 @@ In your reference list:
 
 In hardcopy (print) format.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3357,7 +3357,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Khoo (2018:44) argues that 'the idea of service design challenges the aesthetics of interiors due to its focus on functionality and efficiency rather than creating a liveable and appealing environment'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3413,7 +3413,7 @@ Material from your course may include lecture notes, PowerPoint slides, course h
 
 **Note:** Some courses and lecturers might not accept lecture notes or course material as references in assignments / assessment. Check with your lecturer or teacher.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3421,7 +3421,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > The emphasis in week 3's lecture on the 'cultural and social background of employees as an important step in managing workplace diversity' (Tran 2022) led me to reflect on my own experiences in human resource management.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3475,7 +3475,7 @@ Depending on the context, you might need to refer to specific sections, paragrap
 
 The units are written in lower case unless they begin a sentence. Units of an Act can be written in long or abbreviated form. Do not begin sentences with the abbreviated form.
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available) or pinpoint reference.
 
@@ -3483,7 +3483,7 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 > Section 55 of the *Competition and Consumer Act 2010* (Cth) sch 2 ('Australian Consumer Law') states that 'there is a guarantee that the goods are reasonably fit for any disclosed purpose, and for any purpose for which the supplier represents that they are reasonably fit'.
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3517,7 +3517,7 @@ In your reference list:
 
 Reference a **Bill** in the same manner as an **Act**, ensuring that the title and year are NOT italicised.
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available) or pinpoint reference.
 
@@ -3525,7 +3525,7 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 > It is acknowledged that '...' under the Mental Health and Wellbeing Bill 2022 (Vic).
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3555,13 +3555,13 @@ In your reference list:
 
 #### Legal Case
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks). Include the location of the quote using a page number (if available). To specify a page number, use the word **at** rather than **p**, e.g. 'at 72'.
 
 > It was identified that '...' (*Beasley v Francis* (2008) 237 CLR 1 at 72).
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3611,7 +3611,7 @@ The *Australian Government Style Manual (AGSM)* does not provide information on 
 
 - Include the year that you submitted your previous work.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3619,7 +3619,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'Risk taking behaviours align with certain personality traits or disorders' (Smith 2021:13).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3667,7 +3667,9 @@ If it is permissible to cite your previously submitted work, in your reference l
 
 ###### start-subtype-content
 
-Case studies are not a publication or reference type. They are a type of writing found in various sources such as books, journal articles, websites, etc. Reference the case study according to the rules for the source in which it is found.
+Case studies are not a publication or reference type. They are a type of writing found in various sources such as books, journal articles, websites, etc.
+
+The source that the case study appears in should be referenced. For example, if the case study appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
 
 ###### end-subtype-content
 
@@ -3681,11 +3683,11 @@ Case studies are not a publication or reference type. They are a type of writing
 
 ###### start-subtype-content
 
-**Face-to-face interviews** that you conduct yourself are considered personal communication and are therefore not included in the reference list.
+**Face-to-face interviews** that you conduct yourself are considered personal communication and are therefore **not** included in the reference list.
 
-**Published interviews** follow the same rules as the source that the published interview appears in. For example, if the interview appears in a television program or podcast, you reference the television program or podcast. Please refer to the relevant section(s) within this guide for how to reference the various sources.
+**Published interviews** The source that the published interview appears in should be referenced. For example, if the interview appears in a television program or podcast, you reference the television program or podcast. Please refer to the relevant section within this guide for how to reference various sources.
 
-The person cited in the in-text reference is treated as the author since they have primary responsibility for communicating the content you are referring to.
+The person cited in the in-text citation is treated as the author since they have primary responsibility for communicating the content you are referring to.
 
 #### Reference list entry
 
@@ -3711,7 +3713,7 @@ In your in-text references, include the author's name (individual or organisatio
 
 If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'RBA' rather than 'Reserve Bank of Australia'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3721,7 +3723,7 @@ The example below comes from a source that does not have page numbers:
 
 > In a recent media statement, the Minister for Housing acknowledged that 'young people leaving state care are at much higher risk of homelessness and unemployment' (Office of the Premier of Victoria 2021).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3763,13 +3765,13 @@ In your reference list:
 
 ###### start-subtype-content
 
-Personal communication, such as face-to-face interviews, conversations, telephone calls, letters or emails, is only cited an in-text reference.
+Personal communication, such as face-to-face interviews, conversations, telephone calls, letters or emails, is only cited an **in-text citation**.
 
-Information about personal communication must be included in the in-text reference. Include the type of personal communication (for example, personal conversation, email, interview, telephone conversation) and the date in a date month year format.
+In the in-text citation, include information about the personal communication, such as the format of personal communication (e.g. personal in-person conversation, email, verbal or written interview, telephone conversation, etc.) and the date in the format of Day Month Year.
 
 Personal communication is not published and therefore unavailable for verification. For this reason, it is **not** included in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3781,7 +3783,7 @@ The examples below come from sources that do not have page numbers:
 
 > Rowlands (personal communication, 20 February 2022) stated...
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3789,7 +3791,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 #### Reference list entry
 
-Since personal communication is not published and therefore unavailable for verification, it is not included in reference lists.
+Since personal communication is not published and therefore unavailable for verification, it is **not** included in reference lists.
 
 ###### end-subtype-content
 
@@ -3803,9 +3805,9 @@ Since personal communication is not published and therefore unavailable for veri
 
 ###### start-subtype-content
 
-For sources you read in a language other than English, follow the referencing requirements for the type of source you used (e.g. newspaper article, website, book, journal article).
+For work you read in a language other than English, the source that the non-English work appears in should be referenced. For example, if the non-English work appears in a book, newspaper article, webpage or journal article, you reference the book, newspaper article, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
 
-List the title in the original language. If the original language uses a different alphabet or script from English, use the anglicised spelling.
+List the title in the **original language**. If the original language uses a different alphabet or script from English, use the anglicised spelling.
 
 Place the English translation in parenthesis after the original title.
 
@@ -3938,7 +3940,7 @@ For in-text citations, use the creator of the AI tool as the author (i.e., OpenA
 > Example 2: (Google 2023)
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
-##### Reference list entry example - shareable URL generated by the AI tool:
+##### Reference list entry example -- shareable URL generated by the AI tool:
 **Rule**
 > Author (Year) _Title of software program_ (Version) [Format], Publisher*, accessed Day Month Year. URL
 
@@ -3948,7 +3950,7 @@ For in-text citations, use the creator of the AI tool as the author (i.e., OpenA
 > OpenAI (2023) _ChatGPT_ (May 24 version) [Large language model], accessed 26 June 2023. https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
-##### Reference list entry example - non-shareable AI-generated content:
+##### Reference list entry example -- non-shareable AI-generated content:
 **Rule**
 > Author (Year) _Title of software program_ (Version) [Format], Publisher*, accessed Day Month Year. Appendix.
 
