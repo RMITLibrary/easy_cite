@@ -68,7 +68,7 @@ RMIT Harvard style requires in-text citations and the reference list.
 
 **In-text citations** appear within the body of the document. They include the author’s family name or name of the organisation responsible for the information source and the year of publication, with page numbers required for quotes if available.
 
-**A reference list** provides the full bibliographic details of all in-text references at the end of the assignment.
+**A reference list** provides the full bibliographic details of all in-text citations at the end of the assignment.
 
 **Note:** Although the AGSM states that the title of online sources should be hyperlinked for electronic formats, RMIT Harvard style does not do this because hyperlinked titles are not compatible with the EndNote program. In addition, the links would not be available when the work is printed.
 
@@ -87,7 +87,7 @@ RMIT Harvard style requires in-text citations and the reference list.
     
     **Paraphrasing** is when you express the author’s ideas in your own words. Paraphrasing is generally preferred to quotes as they show you understand and can explain the ideas you have read rather than simply copying them.
     
-    **A direct quote** is when you use the exact words from the original source. Use quotes sparingly, such as when the exact words of the author are important to the claim you are making. Put direct quotes between single inverted commas (quotation marks). Include a page number in the in-text reference if available.
+    **A direct quote** is when you use the exact words from the original source. Use quotes sparingly, such as when the exact words of the author are important to the claim you are making. Put direct quotes between single inverted commas (quotation marks). Include a page number in the in-text citation if available.
     
     In-text citations include the author’s family name (or company or organisation name, if the author is a company or organisation) and year of publication, with page numbers (if available) required for quotes.
     
@@ -115,7 +115,7 @@ RMIT Harvard style requires in-text citations and the reference list.
     
     > Ayoob (2021a, 2021b) states that...
     
-- Some works have **different first authors with the same family name**. To identify their works, insert the initial(s) of all the first authors’ given names in the in-text references. In the reference list, order their works by the year of publication.  
+- Some works have **different first authors with the same family name**. To identify their works, insert the initial(s) of all the first authors’ given names in the in-text citations. In the reference list, order their works by the year of publication.  
     
     > It is argued that ... (Peterson M 2019), but others claim that... (Peterson JR et al. 2021).
     
@@ -216,7 +216,7 @@ Identify works by the same author in the same year by inserting a letter after t
 
 ###### start-subtype-content
 
-To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text references. In the reference list, order their works by the year of publication.
+To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text citations. In the reference list, order their works by the year of publication.
 
 #### In-text citation
 
@@ -498,7 +498,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-For in-text references, give only the first author's family name, followed by **et al.** and the publication year.
+For in-text citations, give only the first author's family name, followed by **et al.** and the publication year.
 
 #### In-text citation: Direct quotes
 
@@ -543,7 +543,7 @@ In your reference list:
 
 Where the author is an organisation, use the name of the organisation as the author.
 
-When the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'OECD' rather than 'Organisation for Economic Co-operation and Development'. This saves you space. The full name is provided in the reference list.
+When the author's name is an organisation, you can use the shortened name form for your in-text citations in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'OECD' rather than 'Organisation for Economic Co-operation and Development'. This saves you space. The full name is provided in the reference list.
 
 #### In-text citation: Direct quotes
 
@@ -651,7 +651,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-When citing two or more works by the same author(s) in the same in-text reference, place the years of publication in chronological order after the author(s)'s name. If the works were written in the same year, place a letter after the year of each work, i.e. **a** after the first, **b** after the second and so on. For example: (2020a), (2020b).
+When citing two or more works by the same author(s) in the same in-text citation, place the years of publication in chronological order after the author(s)'s name. If the works were written in the same year, place a letter after the year of each work, i.e. **a** after the first, **b** after the second and so on. For example: (2020a), (2020b).
 
 #### In-text citation: Paraphrasing
 
@@ -722,9 +722,9 @@ In your reference list:
 
 Generally, an edited book includes chapters written by different authors.
 
-In your in-text references, use the name of the chapter author(s), not the name of the book editor(s). Editor details are included in the reference list.
+In your in-text citation, use the name of the chapter author(s), not the name of the book editor(s). Editor details are included in the reference list.
 
-If you use an edited book where the chapters have no identified authors, give the editor(s)'s family name as the author(s) in an in-text reference.
+If you use an edited book where the chapters have no identified authors, give the editor(s)'s family name as the author(s) in an in-text citation.
 
 #### In-text citation: Direct quotes
 
@@ -782,7 +782,7 @@ In your reference list:
 
 In the reference list, add **(ed)** for a single editor and **(eds)** for two or more editors.
 
-An edited book will follow the same in-text referencing rules as books with authors. Please see these relevant sections on this page
+An edited book will follow the same in-text citation rules as books with authors. Please see these relevant sections on this page
 
 #### Reference list entry
 
@@ -1178,7 +1178,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-Shorten the in-text reference to the first author followed by **et al.** (Latin for 'and others'). All authors are included in the reference list.
+Shorten the in-text citation to the first author followed by **et al.** (Latin for 'and others'). All authors are included in the reference list.
 
 #### In-text citation: Direct quotes
 
@@ -1879,7 +1879,7 @@ Include the author's name (individual or corporate), followed by publication yea
 
 If a webpage does not have an author name (individual or organisation), use the title of the webpage in italics, followed by year of publication.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
 #### In-text citation: Direct quotes
 
@@ -1954,7 +1954,7 @@ Include the author's name (individual or organisation), followed by publication 
 
 If a downloadable webpage document (e.g. PDF) does not have an author name (individual or organisation), use the title of the document in italics, followed by year of publication.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
 #### In-text citation: Direct quotes
 
@@ -2094,7 +2094,7 @@ For social media accounts that are not publicly accessible (e.g. a private Faceb
 
 The author may be a person/people or an organisation.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
 #### In-text citation: Direct quotes
 
@@ -2118,7 +2118,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- Enclose the full publication date (e.g. 15 November 2021) in parentheses after the author or page name. If the multiple posts are from the same author and same year, put a chronological letter after the year to differentiate their corresponding in-text references, e.g. 2021a, 2021b, 2021c.
+- Enclose the full publication date (e.g. 15 November 2021) in parentheses after the author or page name. If the multiple posts are from the same author and same year, put a chronological letter after the year to differentiate their corresponding in-text citations, e.g. 2021a, 2021b, 2021c.
 
 - Put title of the social media post in single inverted commas (quotation marks), followed by the type of post in square brackets, e.g. \[Facebook post\], \[Tweet\], \[Instagram post\].
 
@@ -2245,7 +2245,7 @@ In your reference list for **television program**:
 
 ###### start-subtype-content
 
-Only cite the host(s) in the in-text reference (quote or paraphrase), not the producer. Both the producer and host(s) are included in the reference list entry.
+Only cite the host(s) in the in-text citation (quote or paraphrase), not the producer. Both the producer and host(s) are included in the reference list entry.
 
 #### In-text citation: Direct quotes
 
@@ -2307,7 +2307,7 @@ The creator (author) can be a person, channel name or organisation.
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
-If the creator is unknown, cite the title of the video in italics and the year of video in the in-text reference. If known, cite the creator's name and the year of video. If no year is supplied, write **n.d.** (for 'no date').
+If the creator is unknown, cite the title of the video in italics and the year of video in the in-text citation. If known, cite the creator's name and the year of video. If no year is supplied, write **n.d.** (for 'no date').
 
 > There are conflicting opinions of crypto currency that frame it as either the potential 'future currency of Earth' or full of pitfalls due to being 'vulnerable to hacking security issues' (ABC News 2021).
 
@@ -2317,7 +2317,7 @@ If the creator is unknown, cite the title of the video in italics and the year o
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-If the creator is unknown, cite the title of the video in italics and the year of video in the in-text reference. If known, cite the creator's name and the year of video. If no year is supplied, write n.d. (for 'no date').
+If the creator is unknown, cite the title of the video in italics and the year of video in the in-text citation. If known, cite the creator's name and the year of video. If no year is supplied, write n.d. (for 'no date').
 
 > Opinions of crypto currency vary widely from those that see it as the future of financial exchange to those that consider it to be an insecure proposition at risk from hacking (ABC News 2021).
 
@@ -2530,7 +2530,7 @@ Artworks and images (non-artworks) that you use in your assignment or for study 
 
 When citing artworks or images (non-artworks) in the text of your assignment, you need to acknowledge them in two places:
 
-1.  within the written body of your paper, as you would for a normal in-text reference, and
+1.  within the written body of your paper, as you would for a normal in-text citation, and
 2.  in the figure layout (caption).
 
 Citations are also influenced by where you sourced the artwork or image (non-artwork). Where possible, cite the original rather than copies from a reproduction.
@@ -2567,7 +2567,7 @@ Refer to a figure by its assigned number, not as the "figure above" or "figure b
 
 #### Short captions for reproduced works
 
-If the artwork or image (non-artwork) was on a website, include the URL (no full stop after URL) after the website name and the accessed date. If it was in a Library database, include the database name after the accessed date instead. If it was in a gallery, museum or other public space, include the name and location of the gallery, museum or public space. If it was in other sources, provide the in-text referencing details of the source as described in other areas of this guide.
+If the artwork or image (non-artwork) was on a website, include the URL (no full stop after URL) after the website name and the accessed date. If it was in a Library database, include the database name after the accessed date instead. If it was in a gallery, museum or other public space, include the name and location of the gallery, museum or public space. If it was in other sources, provide the in-text citation details of the source as described in other areas of this guide.
 
 ##### Rule
 
@@ -2694,8 +2694,7 @@ Maps can also be in hardcopy/print format.
 
 When citing maps in the text of your work, you need to acknowledge them in two places:
 
-1. within the written body of your paper, as you would for a normal in-text reference, and
-
+1. within the written body of your paper, as you would for a normal in-text citation, and
 2. in the figure layout (caption).
 
 Refer to a figure by its assigned number, not as the "figure above" or "figure below" or "figure on page 3", for example.
@@ -2705,7 +2704,7 @@ The cartographer (author) can be a person or an organisation.
 
 #### Captions
 
-If the map was on a website, include the URL (no full stop after URL) after the accessed date. If the map appeared in other sources, provide the in-text referencing details of the source as described in other areas of this guide.
+If the map was on a website, include the URL (no full stop after URL) after the accessed date. If the map appeared in other sources, provide the in-text citation details of the source as described in other areas of this guide.
 
 ##### Rule
 
@@ -2783,8 +2782,7 @@ In your reference list:
 
 When citing tables, graphs or other diagrams in the text of your work, you need to acknowledge them in two places:
 
-1. within the written body of your paper, as you would for a normal in-text reference, and
-
+1. within the written body of your paper, as you would for a normal in-text citation, and
 2. in the table/figure layout (caption).
 
 Label **tables** sequentially as **Table 1, Table 2** and so on, followed by a colon. Other **graphs and diagrams** are labelled sequentially as **Figure 1, Figure 2** and so on.
@@ -2946,7 +2944,7 @@ As details will vary for government or organisation reports, try to extract as m
 
 Authors are often organisations, departments or committees rather than individuals.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
 #### In-text citation: Direct quotes
 
@@ -3016,7 +3014,7 @@ Authors are often organisations rather than individuals.
 
 Where there is no author, use the name of the company or organisation responsible for the report.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'NAB' rather than 'National Australia Bank'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'NAB' rather than 'National Australia Bank'. This saves you space. The full name is provided in the reference list.
 
 #### In-text citation: Direct quotes
 
@@ -3086,9 +3084,9 @@ In your reference list:
 
 Details will vary for data sets, so try to extract as much information as you can about authorship and publication information, etc.
 
-If available, include a reference point (e.g. figure number or table number) in the in-text reference.
+If available, include a reference point (e.g. figure number or table number) in the in-text citation.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'RBA' rather than 'Reserve Bank of Australia'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'RBA' rather than 'Reserve Bank of Australia'. This saves you space. The full name is provided in the reference list.
 
 #### In-text citation: Direct quotes
 
@@ -3709,9 +3707,9 @@ The person cited in the in-text citation is treated as the author since they hav
 
 The author can be an individual person or organisation.
 
-In your in-text references, include the author's name (individual or organisation), followed by publication year (e.g. 2021).
+In your in-text citation, include the author's name (individual or organisation), followed by publication year (e.g. 2021).
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'RBA' rather than 'Reserve Bank of Australia'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'RBA' rather than 'Reserve Bank of Australia'. This saves you space. The full name is provided in the reference list.
 
 #### In-text citation: Direct quotes
 
@@ -3982,12 +3980,11 @@ Include the image in your work with a caption that explains that the work was ge
 **Caption**
 
 **Rule**
-> Figure number: Description or explanation
+> Figure number: Description or explanation.
 
 **Example**
-> Figure 1: Image generated using OpenAI's DALL-E 2 from the prompt a brown owl in a forest.
 > ![A brown owl in a forest](images/Firefly-a-brown-owl-in-a-forest-16158.jpg)<br>
-
+> Figure 1: Image generated using OpenAI's DALL-E 2 from the prompt: a brown owl in a forest.<br>
 
 ###### end-subtype-content
 
