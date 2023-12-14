@@ -31,7 +31,7 @@
 ## Websites and webpage documents
 ## Social media
 ## Audiovisual material
-## Artworks, images and figures
+## Artworks, images, tables and graphs
 ## Reports and data sets
 ## Standards and patents
 ## Theses and dissertations
@@ -2478,295 +2478,196 @@ In your reference list:
 
 
 
-<!-- Images and figures - links to the ninth type menu item -->
+<!-- Artwork, images, tables and graphs - links to the ninth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
 
-
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Artwork and images (non-artworks)
-
+### Artwork and images
 <!-- first accordion item -->
-###### start-subtype-content
-
-#### General rules for artworks and images (non-artworks)
-
-RMIT Harvard includes the following within the definition of an **artwork:**
-
-- paintings, drawings, illustrations, prints, sculptures and ceramics
-
-- street art and neon sign art
-
-- photographs, posters, cartoons and clip art
-
-- performance and ephemeral artwork
-
-- digital art – created using technology such as video, computer or laser beam
-
-- antiquities - objects from ancient history such as coins and pottery
-
-- images of any of the above
-
-- maps
-
-RMIT Harvard includes the following within the definition of an **image (non-artwork)**:
-
-- photographs, illustrations, drawings, illustrative diagrams and other images of a medical, anatomical, physiological or scientific nature (e.g. human body, histology, radiology/medical imaging such as x-rays, ultrasounds and scans)
-
-- photographs, illustrations, drawings and illustrative diagrams of a technical nature (e.g. vehicle or aircraft engines, architectural blueprints, anatomy of an airplane)
-
-- photographs, illustrations, drawings and illustrative diagrams of any other non-artwork subject matter not covered above (e.g. fashion/clothing/accessories, nature, people)
-
-
-Artworks and images (non-artworks) can be physical or online/digital.
-
-The artist or creator can be a person, the gallery/museum/public space like a library, or other organisations.
-
-If no publication year is supplied, write **n.d.** (for 'no date'). If the year can be reliably estimated or inferred from the text, then write c. (meaning 'circa' or approximately) followed by the year.
-
-Artworks and images (non-artworks) that you use in your assignment or for study purposes do not need the copyright permissions that are required for publishing or commercial use. However, it is essential that you give credit to the creator of the work and reference it in your work.
-
-When citing artworks or images (non-artworks) in the text of your assignment, you need to acknowledge them in two places:
-
-1.  within the written body of your paper, as you would for a normal in-text citation, and
-2.  in the figure layout (caption).
-
-Citations are also influenced by where you sourced the artwork or image (non-artwork). Where possible, cite the original rather than copies from a reproduction.
-
-How you capture and include the artwork or image (non-artwork), e.g. screenshot, photograph, copy-and-paste, does not influence the way in which it is referenced. Cite the work based on where you sourced the work.
-
-**Note:** Your lecturer may have specific requirements for referencing artworks or images (non-artwork). Any directions given by your lecturer must be followed, even if they differ from this guide.
-
-#### Captions
-
-Captions are used to provide a description of the artworks or images (non-artwork) you use. These are usually placed below the illustration.
-
-A figure number is used in the caption to identify each illustration. These figures are numbered sequentially in the order in which they appear and followed by a colon.
-
-Illustrations you create of your own work are not usually referenced. However, a caption such as 'Figure 7: Photograph by author' or 'Figure 11: Initial sketches' might be appropriate when other illustrations in your assignment are referenced. Check your lecturer's requirements.
-
-Make sure you refer to the figure in your writing and include the figure number. This can be in the sentence or in parentheses, for example (see Figure 1).
-
-Refer to a figure by its assigned number, not as the "figure above" or "figure below" or "figure on page 3", for example.
-
-**Note:**Your lecturer might require a specific long or short caption style. Whichever style you use, make sure you apply it consistently.
-
-#### Captions (Own work)
-
-##### Rule
-
-> {.figure-text}Figure number: Description or explanation {/.figure-text}
-
-##### Examples
-
-> {.figure-text}Figure 1: Author’s photograph {/.figure-text}
-
-> {.figure-text}Figure 2: Initial sketches of the design {/.figure-text}
-
-#### Short captions for reproduced works
-
-If the artwork or image (non-artwork) was on a website, include the URL (no full stop after URL) after the website name and the accessed date. If it was in a Library database, include the database name after the accessed date instead. If it was in a gallery, museum or other public space, include the name and location of the gallery, museum or public space. If it was in other sources, provide the in-text citation details of the source as described in other areas of this guide.
-
-##### Rule
-
-> {.figure-text}Figure number: Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (year produced) *Title or description of artwork or image (non-artwork)* [format], publishing details of where artwork or image (non-artwork) was sourced. {/.figure-text}
-
-##### Examples
-
-> {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with dragons and flowers* [silk tapestry], The Metropolitan Museum of Art website, accessed 13 December 2021. https<nolink>://www.metmuseum.org/art/collection/search/39733? {/.figure-text}
- 
-> {.figure-text}Figure 4: Artist unknown (11-12th C) *Tapestry with dragons and flowers* [silk tapestry], in Jaynes A and Liaw J (1968:37). {/.figure-text}
-
-> {.figure-text}Figure 5: Burn H (1861) *Swanston Street from the bridge* [oil on canvas], National Gallery of Victoria, Melbourne. {/.figure-text}
-
-> {.figure-text}Figure 6: Mari (Maria Giovanna Colli) (2009) *Bilbao_6: Guggenheim Museum Bilbao* [photograph], Flickr website, accessed 13 December 2021. https<nolink>://www.flickr.com/photos/52355315@N08/5757476385/in/album-72157626677144865/ {/.figure-text}
-
-> {.figure-text}Figure 7: Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], Anatomy.tv database, accessed 19 August 2022. {/.figure-text}
-
-> {.figure-text}Figure 8: Untitled screenshot of Zelphr homepage. {/.figure-text}
-
-#### In-text citation to artworks or images (non-artworks)
-
-Italicise the titles of individual artworks or images (non-artworks) and use sentence case. If the artist/creator has made typographic decisions for the title where it has to appear in a certain way, use capitalisation, numbers or punctuation in exactly the same way as the artist/creator does in original title, e.g. *flight research #6*.
-
-When first mentioning the work, include the artist or creator of the artwork or image (non-artwork), year of creation and title of the artwork or image (non-artwork) in parentheses, if not mentioned in the sentence.
-
-If you use an artwork or image (non-artwork), refer to the figure number when you discuss it.
-
-##### Examples
-
-> The exhibition *Gabrielle Chanel. Fashion manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11).
-
-> The purchase of Pollock's (1952) *Blue poles*, as seen in Figure 12, created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia.
-
-> As illustrated in Figure 5, the painting *Swanston Street from the bridge* (Burn 1861) depicts Melbourne's growth into a city of domes and spires.
-
-#### Reference list entry
-
-In your reference list:
-
-- Artworks and images (non-artworks) can be physical or online/digital.
-
-- Your own unpublished work or artworks discussed without an image or picture of them are not included in the reference list.
-
-- Artworks or images (non-artwork) viewed in-person, such as at art galleries, museums and other public spaces like a library, are cited to acknowledge their influence on the development of your own ideas or work. Please note that an image does not need to be of an artistic nature to be in a museum or other public space.
-
-- Artworks or images (non-artwork) that you reproduced from books, websites and other sources should be cited in accordance with the source they appear in. For example, if the artwork or image (non-artwork) appears in a book or website, you reference the book or website. Please refer to the relevant section(s) within this guide for how to reference the various sources.
-
-- The artist or creator can be a person, the gallery/museum/public space (e.g. library), or other organisations.
-
-- If no publication year is supplied, write **n.d.** (for 'no date'). If the year can be reliably estimated or inferred from the text, then write c. (meaning 'circa' or approximately) followed by the year.
-
-- Italicise the title of the artwork or image (non-artwork). After the title, provide the format of the artwork or image (non-artwork) in square brackets.
-
-- **Physical -- viewed in-person at an art gallery, museum or other public space:** add the name and location of the museum, gallery or other public space.
-
-- **Online -- from a website:** add the name of the website followed by the word **website**. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
-
-- **Online -- from a Library database:** add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
-
-##### Rule (physical -- viewed in-person at an art gallery, museum or other public space)
-
-> Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (Year) *Title or description of artwork or image (non-artwork)* [format], Name of Museum/Gallery/Public Space, Location of Museum/Gallery/Public Space.
-
-##### Examples
- 
-> Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton, VIC.
- 
-> Pollock J (1952) *Blue poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
-
-##### Rule (online -- from a website)
-
-> Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (Year) *Title or description of artwork or image (non-artwork)* [format], Name of Website website, accessed Day Month Year. URL
-
-##### Example
-
-> Artist unknown (c. 11-12th C) *Tapestry with dragons and flowers* [silk tapestry], The Metropolitan Museum of Art website, accessed 9 December 2021. https<nolink>://www.metmuseum.org/art/ collection/search/39733?
-
-##### Rule (online -- from a Library database)
-
-> Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (Year) *Title or description of artwork or image (non-artwork)* [format], accessed Day Month Year, Name of Database database.
-
-##### Examples
-
-**Note:** Although RMIT Harvard does NOT include a URL link if there is a database name or vice-versa, it has been decided to include *both* only for **WGSN database images** in order to make the image easier to find and access.
-
-**WSGN report image**
-
-Maggioni S (2022) *Womenswear forecast S/S 24: SenseScapes* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www-wgsn-com.ezproxy.lib.rmit.edu.au/fashion/article/62d668672dbcfed4840eacf3#page4
-
-**WSGN image library**
-
-Chanel (n.d.) *cha_mon_ps23_003* [photograph], accessed 19 August 2022, WGSN database. www.wgsn.com/content/image_viewer/#/image.35640165
-
-**WSGN catwalk gallery**
-
-Jacobs M (n.d.) *New York autumn/winter 2022, women* [gallery of photographs], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316
-
-**Anatomy.tv (Primal Pictures)**
-
-Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], accessed 19 August 2022, Anatomy.tv database.
-
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-
-###### start-subtype-item
-
-### Maps
 
 ###### start-subtype-content
 
-RMIT Harvard identifies maps as a type of artwork. Please see section on **Artworks** for further details.
+RMIT Harvard includes photographs (including photographs of artwork or images), drawings, illustrations, diagrams, digital art and maps within the definition of artwork and images.
 
-Maps taken from an online source can include:
+#### General rules for artworks and images
 
-- digitised maps that originate from a print source such as old maps and are made available in an electronic format by museums, galleries and libraries
+When citing artworks or images, you need to acknowledge them in three places:
 
-- web maps that use satellite imagery and GPS data and are taken from online navigation and mapping sites such as Google Maps
+- Within the written body of your work, as you would for an in-text citation.
+- As a figure number within the caption. See the section on **Captions for figures and tables**.
+- As an entry in your reference list.
 
-Maps can also be in hardcopy/print format.
+Your lecturer, teacher or supervisor may have specific requirements for referencing artworks or images. Follow any directions they give, even if they differ from this guide.
 
-When citing maps in the text of your work, you need to acknowledge them in two places:
+You may **create your own artwork or image**, e.g. photograph or screenshot you took of your own artwork; an illustration, diagram or painting you created, etc. In this case, the creator is you.
 
-1. within the written body of your paper, as you would for a normal in-text citation, and
-2. in the figure layout (caption).
-
-Refer to a figure by its assigned number, not as the "figure above" or "figure below" or "figure on page 3", for example.
-
-The cartographer (author) can be a person or an organisation.
-
-
-#### Captions
-
-If the map was on a website, include the URL (no full stop after URL) after the accessed date. If the map appeared in other sources, provide the in-text citation details of the source as described in other areas of this guide.
-
-##### Rule
-
-> {.figure-text}Figure number: Cartographer's family name Initial OR Organisation's name [if cartographer] (year produced) *Title of map* [format], Publishing details of where map was sourced. {/.figure-text}
-
-##### Examples
-
-> {.figure-text}Figure 9: Kearney J (1855) *Melbourne and its suburbs: map 1* [digitised map], State Library of Victoria website, accessed 13 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
-
-> {.figure-text}Figure 10: VicPlan (2020) *Plenty Road Bundoora 3083* [digital map], VicPlan website, accessed 13 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/. {/.figure-text}
+You may also **reproduce an artwork or image from a source** rather than create it yourself. A source could be a book, journal article, map, website, webpage document, database, conference paper, technical report, newspaper article, or photograph or screenshot you take of somebody else’s artwork or image (with permission, where applicable), for example.
 
 #### In-text citation
 
-If you use a map, refer to the figure number when you discuss it.
+When you reproduce an artwork or image from a source, if the creator of the artwork or image is **different** to the author of the source, cite the **creator as the author** and the **year** that the artwork or image has been **created**.
 
-> As shown by Figure 9, *Melbourne and its suburbs: map 1* depicts...(Kearney 1855).
+Italicise the titles of artworks and images, and use sentence case.
 
-> Figure 9 depicts...(Kearney 1855).
+If the creator has made typographic decisions for the title so it appears in a certain way, use any capitalisation, italicisation, numbers or punctuation in **exactly the same way** the creator did, e.g. *flight research #6*.
 
-> As illustrated in Figure 10, *Plenty Road Bundoora 3083* highlights...(VicPlan 2020).
+If the creator is **unknown**, cite the title of the artwork or image in italics and the year of creation instead.
 
-> As shown in Figure 10,...(VicPlan 2020).
+If **no** publication or creation year is supplied, write **n.d.** (meaning 'no date') in place of year. If the year can be reliably estimated or inferred from the text, write **c.** (meaning 'circa' or approximately) followed by the year, e.g. c. 1900.
 
-#### Reference list entry
-
-In your reference list:
-
-- The cartographer (author) can be a person or an organisation.
-
-- Add the map title in italics. After the title, provide the format of the resource in square brackets, e.g. [digital map], [print map], [digitised map]. 'Print map' is for hardcopy maps.  'Digitised map' is for maps that used to be in hardcopy (print) format but have now been digitised. 'Digital map' is for an online map sourced from a website or Library database that was created digitally/electronically – most maps are like this today.
-
-- **Hardcopy (print):** add the name of publisher and place published.
-
-- **Online -- from a website:** add the website name followed by the word **website**. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
-
-- **Online -- from a Library database:** add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
-
-##### Rule (hardcopy/print)
-
-> Cartographer's family name Initial OR Organisation's name [if cartographer] (Year of creation) *Title of map* [format], Name of Publisher, Place of Publication.
-
-##### Example
-
-> Melway (2021) *Geelong* \[print map\], Melway, Clayton, VIC.
-
-##### Rule (online -- from a website)
-
-> Cartographer's family name Initial OR Organisation's name [if cartographer] (Year of creation) *Title of map* [format], Name of Website website, accessed Day Month Year. URL
+When you discuss an artwork or image, refer to its figure number. Do **not** refer to the figure as the "figure above" or "figure below" or "figure on page 3", for example.
 
 ##### Examples
 
-> Kearney J (1855) *Melbourne and its suburbs: map 1* \[digitised map\], State Library of Victoria website, accessed 10 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
+**For an artwork or image you created yourself**
 
-> VicPlan (2020) *Plenty Road Bundoora 3083* \[digital map\], Victoria State Government website, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
+> {.figure-text}Produced by the author, Figure 1 illustrates their own drawing of a car created in AutoCAD in 2020. {/.figure-text}
 
-##### Rule (online -- from a Library database)
+> {.figure-text}The author’s own initial sketch of a floral summer dress was made for Melbourne Fashion Week 2022 (see Figure 2). {/.figure-text}
 
-> Cartographer's family name Initial OR Organisation's name [if cartographer] (Year of creation) *Title of map* [format], accessed Day Month Year, Name of Database database.
+> {.figure-text}Figure 3 shows the author’s own photograph of a leaf taken close-up in 2021. {/.figure-text}
 
-##### Example
+**For an artwork or image you reproduced from other sources**
 
-> Aerometrex (2021) *ANZ stadium, Sydney Olympic Park, NSW* [digital map], accessed 10 December 2021, MetroMap database.
+> {.figure-text}The exhibition *Gabrielle Chanel. Fashion manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11). {/.figure-text}
+
+> {.figure-text}The purchase of Pollock's (1952) *Blue poles*, as seen in Figure 12, created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia. {/.figure-text}
+
+> {.figure-text}As illustrated in Figure 5, the painting *Swanston Street from the bridge* (Burn 1861) depicts Melbourne's growth into a city of domes and spires. {/.figure-text}
+
+> {.figure-text}As depicted in Figure 3, *Tapestry with dragons and flowers* (11th-12th century) suggests... {/.figure-text}
+
+> {.figure-text}Figure 3 depicts...(*Tapestry with dragons and flowers* 11th-12th century) {/.figure-text}
+
+> {.figure-text}As shown by Figure 9, *Melbourne and its suburbs: map 1*...(Kearney 1855). {/.figure-text}
+
+> {.figure-text}As illustrated in Figure 10, *Plenty Road Bundoora 3083* highlights...(DTP 2020). {/.figure-text}
+
+#### Reference list entry
+
+**For an artwork or image you created yourself**
+
+Although artwork or images you create yourself are not usually included in the reference list, check with your lecturer or supervisor’s requirements.
+
+**For an artwork or image you reproduced from other sources**
+
+In your reference list:
+
+- When you reproduce an artwork or image from a source, if the creator of the artwork or image is **different** to the author of the source, include in the reference:
+
+     - the **creator as the author** and the **year** that the artwork or image has been **created**, and
+
+     - the details of the source that the artwork or image appears in. For example, if the artwork or image appears in a book, webpage or journal article, include the details of the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
+
+- If the creator is **unknown**, start the reference with the title of the artwork or image in italics, followed by the year of creation in parentheses, then the format in square brackets. Do **not** put "Unknown creator/artist". e.g. *Tapestry with dragons and flowers* (11th-12th century) [silk tapestry]...
+
+- If **no** publication or creation year is supplied, write **n.d.** (meaning 'no date') in place of year. If the year can be reliably estimated or inferred from the text, write **c.** (meaning 'circa' or approximately) followed by the year, e.g. c. 1900.
+
+- When an artwork or image is:
+
+     - **Online -- from a webpage:** add the name of the website followed by the word website. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+
+     - **Online -- from a Library database:** add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+
+     - **Physical -- viewed in-person at an art gallery, museum or other public space:** add the name and location of the museum, gallery or public space.
+
+     - **Physical -- hardcopy (print) map:** add the name of the publisher and place published. 
+
+- When an image is a map, put the following information within the [format] field:
+
+     - **[digital map]:** for an online map sourced from a website or Library database that was created digitally/electronically. Most maps are like this today.
+
+     - **[print map]:** for a hardcopy map.
+
+     - **[digitised map]:** for a map that used to be in hardcopy (print) format but has now been digitised.
+
+##### Rule (online -- from website)
+
+> Creator's Family Name Initial (Year) *Title of artwork or image* [format], Name of Website website, accessed Day Month Year. URL
+
+##### Examples
+ 
+> DTP (Department of Transport and Planning, Victoria) (2020) *Plenty Road Bundoora 3083* [digital map], VicPlan website, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
+
+> Kaiser P (1975) *Growing over the fence* [synthetic polymer paint on canvas], National Gallery of Victoria website, accessed 20 July 2023. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/60587/
+
+> Kearney J (1855) *Melbourne and its suburbs: map 1* [digitised map], State Library of Victoria website, accessed 10 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
+
+> *Tapestry with dragons and flowers* (11th-12th century) [silk tapestry], The Metropolitan Museum of Art website, accessed 9 December 2021. https<nolink>://www.metmuseum.org/art/collection/search/39733
+
+##### Rule (online -- from from Library database)
+
+> Creator's Family Name Initial (Year) *Title of artwork or image* [format], accessed Day Month Year, Name of Database database.
+
+##### Examples
+ 
+> Aerometrex (2021) ANZ stadium, *Sydney Olympic Park, NSW* [digital map], accessed 10 December 2021, MetroMap database.
+
+> Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], accessed 19 August 2022, Anatomy.tv database.
+
+**Note:** Although RMIT Harvard does *not* include a URL link if there is a database name, include *both* database name and URL link *only* for images from the **WGSN database**. This will make it easier to locate and access the image. 
+
+> Chanel (n.d.) *cha_mon_ps23_003* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/content/image_viewer/#/image.35640165
+
+> Jacobs M (2022) *New York autumn/winter 2022: women* [gallery of photographs], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316 
+
+> Khan A (n.d.) *Womenswear forecast S/S 24: SenseScapes* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/fashion/article/62d668672dbcfed4840eacf3#page4 
+
+##### Rule (physical -- viewed in-person at art gallery, museum or public space)
+
+> Creator's family name Initial (Year) *Title of artwork or image* [format], Name of Museum/Gallery/Public Space, Location of Museum/Gallery/Public Space.
+
+##### Examples
+ 
+> Dwyer M (2021) *Apparition* [night-time digital projection onto holo-gauze screen], University Square, Carlton, VIC.
+
+> Pollock J (1952) *Blue poles* [Oil, enamel, aluminium paint, and glass on canvas], National Gallery of Australia, Canberra.
+
+##### Rule (physical -- hardcopy/print map)
+
+> Creator’s Family Name Initial (Year of creation) *Title of map* [format], Name of Publisher, Place of Publication. 
+
+##### Examples
+ 
+> Melway (2021) *Geelong* [print map], Melway, Clayton, VIC.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Tables and graphs
+<!-- second accordion item -->
+
+###### start-subtype-content
+
+#### General rules for tables and graphs
+
+When citing tables and graphs, you need to acknowledge them in three places:
+
+- Within the written body of your work, as you would for an in-text citation.
+- As a table number (for tables) or figure number (for graphs) within the caption. See the section on **Captions for figures and tables**.
+- As an entry in your reference list.
+
+Your lecturer, teacher or supervisor may have specific requirements for referencing tables or graphs. Follow any directions they give, even if they differ from this guide.
+
+You may **create your own table or graph using your own data** that you obtained from a study, research or experiment you carried out yourself. This is data that you have created or generated yourself. In this case, the author is you.
+
+You may also **create your own table or graph using other people’s data from published sources**. This is data that other people/organisations have published from their study, research or experiment. In this case, the author is the person/organisation that created or generated the published data you used.
+
+You may also **reproduce a table or graph from a published source** rather than create it yourself. For example, a source could be a book, journal article, webpage and more. In this case, the author is the person/organisation that created the table or graph you reproduced.
+
+If no publication year is supplied, write **n.d.** (meaning 'no date') in place of year.
+
+#### In-text citation
+[NOTE TO ME] UP TO HERE TO REPLACE TEXT FROM MS WORD DOC
+
+
 
 ###### end-subtype-content
 
@@ -2774,9 +2675,12 @@ In your reference list:
 
 
 
-###### start-subtype-item
 
-### Tables and diagrams
+
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Captions for figures and tables
+<!-- third accordion item -->
 
 ###### start-subtype-content
 
