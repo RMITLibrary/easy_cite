@@ -2518,7 +2518,11 @@ If the creator is **unknown**, cite the title of the artwork or image in italics
 
 If **no** publication or creation year is supplied, write **n.d.** (meaning 'no date') in place of year. If the year can be reliably estimated or inferred from the text, write **c.** (meaning 'circa' or approximately) followed by the year, e.g. c. 1900.
 
-When you discuss an artwork or image, refer to its figure number. Do **not** refer to the figure as the "figure above" or "figure below" or "figure on page 3", for example.
+A **figure number** is used to identify **each artwork or image**. These figures are numbered sequentially in the order in which they appear.
+
+When you discuss an artwork or image, refer to its assigned figure number within your writing. The figure number can be within the sentence or in parentheses, for example: “As seen in Figure 1...”, or “As seen in... (see Figure 1)”.
+
+Do **not** refer to an artwork or image as " figure above" or " figure below" or " figure on page 3", for example.
 
 ##### Examples
 
@@ -2670,7 +2674,7 @@ A **table number** is used to identify each table. These tables are numbered seq
 
 A **figure number** is used to identify each graph. These figures are numbered sequentially in the order in which they appear.
 
-When you discuss a table or graph, refer to its assigned table/figure number within your writing. The table/figure number can be within the sentence or in parentheses, for example: “As seen in Table 1/Figure 1...”, or “As seen in... (see Table 1/Figure 1)”, etc.
+When you discuss a table or graph, refer to its assigned table/figure number within your writing. The table/figure number can be within the sentence or in parentheses, for example: “As seen in Table 1/Figure 1...”, or “As seen in... (see Table 1/Figure 1)”.
 
 Do **not** refer to a table or graph as " table/figure above" or " table/figure below" or " table/figure on page 3", for example.
 
