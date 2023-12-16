@@ -2524,33 +2524,33 @@ When you discuss an artwork or image, refer to its figure number. Do **not** ref
 
 **For an artwork or image you created yourself**
 
-> {.figure-text}Produced by the author, Figure 1 illustrates their own drawing of a car created in AutoCAD in 2020. {/.figure-text}
+> Produced by the author, Figure 1 illustrates their own drawing of a car created in AutoCAD in 2020.
 
-> {.figure-text}The author’s own initial sketch of a floral summer dress was made for Melbourne Fashion Week 2022 (see Figure 2). {/.figure-text}
+> The author’s own initial sketch of a floral summer dress was made for Melbourne Fashion Week 2022 (see Figure 2).
 
-> {.figure-text}Figure 3 shows the author’s own photograph of a leaf taken close-up in 2021. {/.figure-text}
+> Figure 3 shows the author’s own photograph of a leaf taken close-up in 2021.
 
 **For an artwork or image you reproduced from other sources**
 
-> {.figure-text}The exhibition *Gabrielle Chanel. Fashion manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11). {/.figure-text}
+> The exhibition *Gabrielle Chanel. Fashion manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11).
 
-> {.figure-text}The purchase of Pollock's (1952) *Blue poles*, as seen in Figure 12, created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia. {/.figure-text}
+> The purchase of Pollock's (1952) *Blue poles*, as seen in Figure 12, created great controversy regarding the value of abstract art when it was purchased for the National Gallery of Australia.
 
-> {.figure-text}As illustrated in Figure 5, the painting *Swanston Street from the bridge* (Burn 1861) depicts Melbourne's growth into a city of domes and spires. {/.figure-text}
+> As illustrated in Figure 5, the painting *Swanston Street from the bridge* (Burn 1861) depicts Melbourne's growth into a city of domes and spires.
 
-> {.figure-text}As depicted in Figure 3, *Tapestry with dragons and flowers* (11th-12th century) suggests... {/.figure-text}
+> As depicted in Figure 3, *Tapestry with dragons and flowers* (11th-12th century) suggests...
 
-> {.figure-text}Figure 3 depicts...(*Tapestry with dragons and flowers* 11th-12th century) {/.figure-text}
+> Figure 3 depicts...(*Tapestry with dragons and flowers* 11th-12th century)
 
-> {.figure-text}As shown by Figure 9, *Melbourne and its suburbs: map 1*...(Kearney 1855). {/.figure-text}
+> As shown by Figure 9, *Melbourne and its suburbs: map 1*...(Kearney 1855).
 
-> {.figure-text}As illustrated in Figure 10, *Plenty Road Bundoora 3083* highlights...(DTP 2020). {/.figure-text}
+> As illustrated in Figure 10, *Plenty Road Bundoora 3083* highlights...(DTP 2020).
 
 #### Reference list entry
 
 **For an artwork or image you created yourself**
 
-Although artwork or images you create yourself are not usually included in the reference list, check with your lecturer or supervisor’s requirements.
+Although artwork or images you create yourself are not usually included in the reference list, check with your teacher, lecturer or supervisor’s requirements.
 
 **For an artwork or image you reproduced from other sources**
 
@@ -2608,7 +2608,7 @@ In your reference list:
 
 > Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], accessed 19 August 2022, Anatomy.tv database.
 
-**Note:** Although RMIT Harvard does *not* include a URL link if there is a database name, include *both* database name and URL link *only* for images from the **WGSN database**. This will make it easier to locate and access the image. 
+**Note:** Although RMIT Harvard does not include a URL link if there is a database name, include BOTH database name and URL link *only* for images from the **WGSN database**. This will make it easier to locate and access the image. 
 
 > Chanel (n.d.) *cha_mon_ps23_003* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/content/image_viewer/#/image.35640165
 
@@ -2630,7 +2630,7 @@ In your reference list:
 
 > Creator’s Family Name Initial (Year of creation) *Title of map* [format], Name of Publisher, Place of Publication. 
 
-##### Examples
+##### Example
  
 > Melway (2021) *Geelong* [print map], Melway, Clayton, VIC.
 
@@ -2665,16 +2665,96 @@ You may also **reproduce a table or graph from a published source** rather than 
 If no publication year is supplied, write **n.d.** (meaning 'no date') in place of year.
 
 #### In-text citation
-[NOTE TO ME] UP TO HERE TO REPLACE TEXT FROM MS WORD DOC
 
+A **table number** is used to identify each table. These tables are numbered sequentially in the order in which they appear.
 
+A **figure number** is used to identify each graph. These figures are numbered sequentially in the order in which they appear.
+
+When you discuss a table or graph, refer to its assigned table/figure number within your writing. The table/figure number can be within the sentence or in parentheses, for example: “As seen in Table 1/Figure 1...”, or “As seen in... (see Table 1/Figure 1)”, etc.
+
+Do **not** refer to a table or graph as " table/figure above" or " table/figure below" or " table/figure on page 3", for example.
+
+##### Examples
+
+**For a table or graph you created yourself using your own data**
+
+> Figure 1 shows the main expenditures of Australian households between 2020-2022, as based on the author’s own study.
+
+> The author’s own 2018 experiment compares the outcomes from categories A, B and C (see Figure 2).
+
+> Incidences of eczema in adults 18-50 years of age before and after intervention have been compared in the author’s own 2019 study, as shown in Table 1.
+
+> Based on the author’s own 2021 experiment, there is a discrepancy in results from groups A, B and C (see Table 2).
+
+**For a table or graph you created yourself using others' data from published sources**
+
+> Figure 1 shows the top five overseas countries of birth in the 2021 Australian census, as adapted from the ABS (2022).
+
+> As adapted from García-Martínez et al. (2023), the percentage chemical composition by weight of an aircraft's engine blade material is illustrated in Figure 2.
+
+> Table 1 highlights the average forecast unemployment rate in Australia between February 2012- February 2022, as adapted from the RBA (n.d.).
+
+> As adapted from Ellis et al. (2020), a number of factors that contributed to plagiarism are identified in Table 2.
+
+> Fluctuations in the imports over the last decade are represented in Table 3, as adapted from Mitchelton (2018), ABS (2019) and DFAT (2020).
+
+**For a table or graph you reproduced from published sources**
+
+> Fu (2022) discusses the numbers of students with disabilities enrolled in primary and junior schools in China, 2015-2017, as represented in Figure 1.
+
+> The impact of a small increase in media bias is illustrated by Raymond and Taylor (2021) (see Figure 2).
+
+> Figure 3 shows the infrared thermography and temperature of MW and MW-alkali pretreated industrial fruit biowaste (Barrera et al. 2023).
+
+> Voorveld et al. (2018) identifies the instruments used to measure social media engagement, as listed in Table 1.
+
+> As highlighted in Table 2, there is a correlation between quality of nursing care, caring nature and person-centredness (Edvardsson et al. 2016).
+
+> The number of males and females experiencing homelessness in Australia between 2006-2021 is represented by ABS (2023) (see Table 3).
+
+#### Reference list entry
+
+**For a table or graph you created yourself using your own data**
+
+Although tables or graphs you create yourself using your own data are not usually included in the reference list, check with your teacher, lecturer or supervisor’s requirements.
+
+**For a table or graph you created yourself using others' data from published sources**
+
+In your reference list:
+
+> When you use other people’s data from published sources to create your own table or graph, the source that the data appears in should be referenced.
+
+> For example, if the data appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
+
+> If your table or graph includes data from **more than one** source, you must separately reference ALL sources you used to create your table or graph.
+
+**For a table or graph you reproduced from published sources**
+
+In your reference list:
+
+> Tables or graphs that you reproduced from a published source should be referenced as the source they appear in. 
+
+> For example, if the table or graph appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
+
+##### Examples
+
+> ABS (Australian Bureau of Statistics) (2023) *Estimating homelessness: census 2021*, ABS website, accessed 15 September 2023. https://www.abs.gov.au/statistics/people/housing/estimating-homelessness-census/2021
+
+> Barrera C, Fito PJ, Castro-Giraldez M, Betoret N and Segui L (2023) 'Microwave application to food and food waste processing', in Chhikara N, Panghal A and Chaudhary G (eds) *Novel technologies in food science*, Scrivener Publishing, Beverly, Massachusetts.
+
+> DEWR (Department of Employment and Workplace Relations, Australia) (2023) *Skills for Education and Employment (SEE) training sites* [data set], data.gov.au, accessed 15 September 2023. https://data.gov.au/data/dataset/skills-for-education-and-employment-see-training-sites
+
+> Edvardsson D, Watt E and Pearce F (2017) 'Patient experiences of caring and person-centredness are associated with perceived nursing care quality', *Journal of Advanced Nursing*, 73(1):217-227, doi:10.1111/jan.13105.
+
+> Fu W (2022) *Inclusive education in China: ideas, practices and challenges*, Routledge, Abingdon, Oxfordshire.
+
+> MarketLine Limited (2023) *General Motors Company*, accessed 16 September 2023, MarketLine database.
+
+> Wheeler K (2023) *Clothing retailing in Australia*, report number G4251, accessed 15 September 2023, IBISWorld database.
 
 ###### end-subtype-content
 
 ###### end-subtype-item
-
-
-
 
 
 ###### start-subtype-item
@@ -2684,92 +2764,163 @@ If no publication year is supplied, write **n.d.** (meaning 'no date') in place 
 
 ###### start-subtype-content
 
-When citing tables, graphs or other diagrams in the text of your work, you need to acknowledge them in two places:
+#### General rules for captions
 
-1. within the written body of your paper, as you would for a normal in-text citation, and
-2. in the table/figure layout (caption).
+Please see the sections on **Artwork and images** and **Tables and graphs** for how to create in-text citations and reference list entries for artwork, images, tables and graphs. This section discusses how to create captions for these sources.
 
-Label **tables** sequentially as **Table 1, Table 2** and so on, followed by a colon. Other **graphs and diagrams** are labelled sequentially as **Figure 1, Figure 2** and so on.
+Captions are used to provide a description and attribution of the artworks, images, tables or graphs you use in your work. A caption is usually placed below the artwork, image, table or graph.
 
-Include a title that describes or explains the information in the table or diagram. Note, this is not italicised.
+A **figure number** is used in the caption to identify **each artwork, image or graph**. These figures are numbered sequentially in the order in which they appear.
 
-Refer to a table or figure by its assigned number (e.g. Table 1, Figure 2), not as the "table/figure below" or "table/figure above" or "table/figure on page 3", for example.
+A **table number** is used in the caption to identify **each table**. These tables are numbered sequentially in the order in which they appear.
 
-For tables, graphs and diagrams using published content, acknowledge the source below the table/figure number and title, on a new line.
+When you discuss an artwork, image, graph or table, refer to its assigned figure/table number within your writing. The figure/table number can be within the sentence or in parentheses, for example: “As seen in Figure 1/Table 1...”, or “As seen in... (see Figure 1/Table 1)”.
 
-#### Tables (your own work)
+Do **not** refer to an artwork, image, graph or table as "figure/table above" or "figure/table below" or "figure/table on page 3", for example.
 
-When the information is your own work based on data you have collected independently, for example, from your own research or experiments, label your table with a number and give a title to the work. Use standard font (no italics).
+For the **Source** within the caption:
 
-##### Example
+- If the creator of the artwork or image is **unknown**, begin with the title of the artwork or image in italics, then put the year of creation. Do **not** put "Unknown creator/artist". e.g. Source: *Tapestry with dragons and flowers* 11-12th century.
 
-> Table 1: Comparison of results from groups A, B and C
+- If **no** creation/publication year is supplied, write **n.d.** (meaning 'no date') in place of year. If the year can be reliably estimated or inferred from the text, write **c.** (meaning 'circa' or approximately) followed by the year, e.g. c. 1900.
 
-#### Tables (adapted from published material)
+#### For an artwork or image you created yourself
 
-If you are using information gathered from published information but are presenting it in a table or figure that you have created, acknowledge the source as you would for paraphrased information in a caption.
-
-When the table includes data from more than one source, you must cite all sources you relied on to create the table.
+Although artwork or images you create yourself are not usually included in the reference list, check with your lecturer or supervisor’s requirements.
 
 ##### Rule
 
-> {.figure-text}Figure number: Title of table {/.figure-text}
-> {.figure-text}Source: adapted from Publishing details of where the information was sourced {/.figure-text}
+> {.figure-text}Figure figure number: Brief description of artwork or image. {/.figure-text}
 
 ##### Examples
-
-> {.figure-text}Table 2: Reason why students plagiarise {/.figure-text}
-> {.figure-text}Source: adapted from Bretag et al. 2020 {/.figure-text}
-
-> Table 3: Fluctuation in imports 2010 to 2020  
-> Source: adapted from Mitchelton 2018; ABS 2019; DFAT 2020
-
-#### Tables (reproduced from published material)
-
-If you are using a table or graph that has been published elsewhere, acknowledge the source and provide the same details you would for quoted information.
-
-##### Rule
-
-> {.figure-text}Figure number: Title of table {/.figure-text}
-> {.figure-text}Source: Publishing details of where the information was sourced {/.figure-text}
-
-##### Examples
-
-> {.figure-text}Table 4: Prison demographics in Australia {/.figure-text}
-> {.figure-text}Source: AIHW 2018:1 {/.figure-text}
-
-> {.figure-text}Figure 10: Buy now, pay later payments in Australia {/.figure-text}
-> {.figure-text}Source: Fisher, Holland and West 2021:61 {/.figure-text}
-
-#### In-text citation - examples
-
-If you use a table, graph or diagram, refer to the table or figure number when you discuss it.
-
-> Bretag et al. (2020) identified a number of factors that contributed to plagiarism as listed in Table 2.
-
-> Fluctuations in the imports over the last decade are represented in Table 3.
-
-> Table 4 highlights current prison demographics in Australia, based on data compiled by AIHW (2018).
-
-#### Reference list entry
-
-In your reference list, reference tables and diagrams in accordance with the source they appear in. For example, if the table or diagram appears in a book or journal article, you reference the book or journal article. Please refer to the relevant section(s) within this guide for how to reference the various sources.
-
-##### Examples
-
-> IAHW (Australian Institute of Health and Welfare) (2018) '5.7 Prisoners', *Australia's health 2018*, Australia's health series no. 1, catalogue number AUS 221, IAHW, Australian Government, accessed 13 December 2021. https<nolink>://www.aihw.gov.au/getmedia/0f15de30-8575-4e80-ac9d-5560633635e0/aihw-aus-221-chapter-5-7.pdf.aspx
  
-> Fisher C, Holland C and West T (18 March 2021) 'Developments in the buy now, pay later market', *Bulletin*, RBA, accessed 13 December 2021. https<nolink>://www.rba.gov.au/publications/bulletin/2021/mar/ developments-in-the-buy-now-pay-later-market.html
+> {.figure-text}Figure 1: Drawing of a car created by the author in AutoCAD in 2020. {/.figure-text}
+
+> {.figure-text}Figure 2: Author’s initial sketch of a floral summer dress for Melbourne Fashion Week 2022. {/.figure-text}
+
+#### For an artwork or image you reproduced from other sources
+
+Include in the reference list the **full reference** of the source you used. Please refer to the relevant section within this guide for how to reference various sources.
+
+##### Rule (artwork or image created by the source it appears in)
+
+Cite the **name of the source’s creator** in both the caption and its corresponding reference list entry.
+
+> {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name/Organisation Year of creation/publication. {/.figure-text}
+
+##### Examples
+ 
+> {.figure-text}Figure 1: A diagram of the lateral nasal cavity. Source: Primal Pictures n.d. {/.figure-text}
+
+> {.figure-text}Figure 2: A screenshot of the Sephora homepage. Source: Sephora 2023. {/.figure-text}
+
+> {.figure-text}Figure 3: A photograph of the partial collapse of the Ronan Point building, UK, in 1968. Source: Allan 2022. {/.figure-text}
+
+> {.figure-text}Figure 4: A map of Geelong, 2021. Source: Melway 2021. {/.figure-text}
+
+> {.figure-text}Figure 5: A photograph of senior knowledge holders having interviews with Ngukurr Yangbala Rangers at Ngudjuli Billabong (late dry season, Nov 2017). Source: Russell and Ens 2020. {/.figure-text}
+
+> {.figure-text}Figure 6: Histology images of various thyroid cancers and tumours. Source: Newbold and Harmer 2021. {/.figure-text}
+
+##### Rule (artwork or image has its own creator -- not created by the source it appears in)
+
+Cite the **name of the artwork/image’s creator** in both the caption and its corresponding reference list entry.
+
+> {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name Year of creation. {/.figure-text}
+
+##### Examples
+ 
+> {.figure-text}Figure 1: An abstract expressionist painting on canvas using various mediums such as oil, enamel, aluminium paint and glass. Source: Pollock 1952. {/.figure-text}
+
+> {.figure-text}Figure 2: A night-time digital projection onto holo-gauze screen. Source: Dwyer 2021. {/.figure-text}
+
+> {.figure-text}Figure 3: A photo of the Guggenheim Museum Bilbao. Source: Mari (Maria Giovanna Colli) 2009. {/.figure-text}
+
+> {.figure-text}Figure 4: A photo of one of Chanel’s fashion designs from WGSN’s image library. Source: Chanel n.d. {/.figure-text}
+
+> {.figure-text}Figure 5: A silk tapestry depicting dragons and flowers, artist unknown. Source: Tapestry with dragons and flowers 11-12th century. {/.figure-text}
+
+> {.figure-text}Figure 6: A map of Melbourne and its suburbs, 1855. Source: Kearney 1855. {/.figure-text}
+
+> {.figure-text}Figure 7: A map of ANZ stadium at Sydney Olympic Park, NSW, 2021. Source: Aerometrex 2021. {/.figure-text}
+
+#### For a table or graph you created yourself using your own data
+
+In the caption, include the **figure number (for graphs)** or **table number (for tables)**. 
+
+Although tables and graphs you create using your own data are not usually included in the reference list, check with your teacher, lecturer or supervisor’s requirements.
+
+##### Rule
+
+> {.figure-text}Figure/Table figure/table number: Brief description of graph or table. {/.figure-text}
+
+##### Examples
+ 
+> {.figure-text}Figure 1: Differences in student enrolment numbers pre- and post-COVID-19, Australia. Based on the author’s own 2020-2022 study. {/.figure-text}
+
+> {.figure-text}Figure 2: Comparison of outcomes from categories A, B and C. Based on the author’s own 2018 experiment. {/.figure-text}
+
+> {.figure-text}Table 1: Water quality of various beaches in Victoria, 2015-2020. Based on the author’s own study. {/.figure-text}
+
+> {.figure-text}Table 2: Comparison of results from groups A, B and C. Based on the author’s own 2021 experiment. {/.figure-text}
+
+#### For a table or graph you created yourself using others’ data from published sources
+
+In the caption, include the **figure number (for graphs)** or **table number (for tables)**.
+
+If your table or graph includes published data from **more than one source**, you must cite ALL sources you used to create your table or graph.
+
+Include in the reference list the **full reference** of the source/s you used. Please refer to the relevant section within this guide for how to reference various sources.
+
+##### Rule
+
+> {.figure-text}Figure/Table figure/table number: Brief description of graph or table. Source: adapted from [Author’s Family Name/Organisation Year of publication]. {/.figure-text}
+
+##### Examples
+ 
+> {.figure-text}Figure 1: Top five overseas countries of birth in the 2021 Australian census, by population count. Source: adapted from ABS 2022. {/.figure-text}
+
+> {.figure-text}Figure 2: Chemical composition (%) by weight of an aircraft's engine blade material. Source: adapted from García-Martínez et al. 2023. {/.figure-text}
+
+> {.figure-text}Table 1: Average forecast unemployment rate in Australia, February 2012- February 2022. Source: adapted from RBA n.d {/.figure-text}
+
+> {.figure-text}Table 2: Total number of Skills for Education and Employment (SEE) providers in Australia, by state or territory. Source: adapted from DEWR 2023. {/.figure-text}
+
+> {.figure-text}Table 3: Australian industry earnings and share, 2019-2020. Source: adapted from ABS 2021; DFAT 2021. {/.figure-text}
+
+#### For a table or graph you reproduced from published sources
+
+In the caption, include the **figure number (for graphs)** or **table number (for tables)**.
+
+Include in the reference list the **full reference** of the source you used. Please refer to the relevant section within this guide for how to reference various sources.
+
+##### Rule
+
+> {.figure-text}Figure/Table figure/table number: Brief description of table or graph. Source: Author’s Family Name/Organisation Year of publication. {/.figure-text}
+
+##### Examples
+ 
+> {.figure-text}Figure 1: Number of students with disability and enrolment in primary and junior schools in China, 2015-2017. Source: Fu 2022. {/.figure-text}
+
+> {.figure-text}Figure 2: Yearly rainfall (mm) in Australia, 1900-2022. Source: BOM n.d. {/.figure-text}
+
+> {.figure-text}Figure 3: Thermographs and temperature histogram of MW and MW-alkali pretreated industrial fruit biowaste. Source: Barrera et al. 2023. {/.figure-text}
+
+> {.figure-text}Table 1: Sources of Warlpiri, Yolngu and Pintupi legal orders for First Nations people. Source: Randazzo 2023. {/.figure-text}
+
+> {.figure-text}Table 2: Number of males and females experiencing homelessness in Australia, 2006-2021. Source: ABS 2023. {/.figure-text}
+
+> {.figure-text}Table 3: General Motors Company, 2023 capital market ratios. Source: MarketLine Limited 2023. {/.figure-text}
 
 ###### end-subtype-content
 
 ###### end-subtype-item
 
 
+
 ###### end-subtype
 
 ###### end-type-content
-
 
 
 
