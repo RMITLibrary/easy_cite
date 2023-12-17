@@ -26,12 +26,12 @@
 ## Using RMIT Harvard
 ## Books
 ## Journal articles
-## Newspaper articles
+## Newspaper and magazine articles
 ## Conference papers
 ## Websites and webpage documents
 ## Social media
 ## Audiovisual material
-## Artworks, images and figures
+## Artworks, images, tables and graphs
 ## Reports and data sets
 ## Standards and patents
 ## Theses and dissertations
@@ -64,11 +64,11 @@
 
 RMIT Harvard is an author-date referencing style based on the **Author-date** referencing style of the AGSM.
 
-RMIT Harvard style requires in-text references and the reference list.
+RMIT Harvard style requires in-text citations and the reference list.
 
-**In-text references** appear within the body of the document. They include the author’s family name or name of the organisation responsible for the information source and the year of publication, with page numbers required for quotes if available.
+**In-text citations** appear within the body of the document. They include the author’s family name or name of the organisation responsible for the information source and the year of publication, with page numbers required for quotes if available.
 
-**A reference list** provides the full bibliographic details of all in-text references at the end of the assignment.
+**A reference list** provides the full bibliographic details of all in-text citations at the end of the assignment.
 
 **Note:** Although the AGSM states that the title of online sources should be hyperlinked for electronic formats, RMIT Harvard style does not do this because hyperlinked titles are not compatible with the EndNote program. In addition, the links would not be available when the work is printed.
 
@@ -79,19 +79,19 @@ RMIT Harvard style requires in-text references and the reference list.
 
 ###### start-subtype-item
 
-### General rules for in-text references
+### General rules for in-text citations
 
 ###### start-subtype-content
 
-- Use in-text references to acknowledge each author or source of information (print or online) used within your writing either by paraphrasing or using a direct quote.  
+- Use in-text citations to acknowledge each author or source of information (print or online) used within your writing either by paraphrasing or using a direct quote.  
     
     **Paraphrasing** is when you express the author’s ideas in your own words. Paraphrasing is generally preferred to quotes as they show you understand and can explain the ideas you have read rather than simply copying them.
     
-    **A direct quote** is when you use the exact words from the original source. Use quotes sparingly, such as when the exact words of the author are important to the claim you are making. Put direct quotes between single inverted commas (quotation marks). Include a page number in the in-text reference if available.
+    **A direct quote** is when you use the exact words from the original source. Use quotes sparingly, such as when the exact words of the author are important to the claim you are making. Put direct quotes between single inverted commas (quotation marks). Include a page number in the in-text citation if available.
     
-    In-text references include the author’s family name (or company or organisation name, if the author is a company or organisation) and year of publication, with page numbers (if available) required for quotes.
+    In-text citations include the author’s family name (or company or organisation name, if the author is a company or organisation) and year of publication, with page numbers (if available) required for quotes.
     
-- An in-text reference can be inserted at the beginning, middle or end of a sentence. When you are referencing information that authors/researchers agree about, the reference is placed at the end of the sentence (an information prominent citation). This is the most common type of in-text reference. Referencing at the beginning of a sentence (author prominent citation) is used to focus on a particular author/researcher’s point of view or on specific research that might not apply in all situations.
+- An in-text citation can be inserted at the beginning, middle or end of a sentence. When you are referencing information that authors/researchers agree about, the citation is placed at the end of the sentence (an information prominent citation). This is the most common type of in-text citation. Citing at the beginning of a sentence (author prominent citation) is used to focus on a particular author/researcher’s point of view or on specific research that might not apply in all situations.
 
 - If the author is integrated as part of the sentence, the date (and page number for direct quote) is placed in parentheses immediately after the author's family name.
 
@@ -115,7 +115,7 @@ RMIT Harvard style requires in-text references and the reference list.
     
     > Ayoob (2021a, 2021b) states that...
     
-- Some works have **different first authors with the same family name**. To identify their works, insert the initial(s) of all the first authors’ given names in the in-text references. In the reference list, order their works by the year of publication.  
+- Some works have **different first authors with the same family name**. To identify their works, insert the initial(s) of all the first authors’ given names in the in-text citations. In the reference list, order their works by the year of publication.  
     
     > It is argued that ... (Peterson M 2019), but others claim that... (Peterson JR et al. 2021).
     
@@ -138,7 +138,7 @@ With direct quotes, always use the spelling and formatting style of the original
 
 If the source contains grammatical or spelling errors, you must copy the quote exactly as it appears in the original source (including the errors). Then put sic in parentheses **(sic)** immediately after the error.
 
-A quote in an in-text reference can be inserted at the beginning, middle or end of a sentence.
+A quote in an in-text citation can be inserted at the beginning, middle or end of a sentence.
 
 ##### Beginning of a sentence
 
@@ -166,7 +166,7 @@ As Smithers (2020:57) points out:
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-Paraphrasing in an in-text reference can be inserted at the beginning, middle or end of a sentence.
+Paraphrasing in an in-text citation can be inserted at the beginning, middle or end of a sentence.
 
 ##### Beginning of a sentence
 
@@ -193,7 +193,7 @@ Paraphrasing in an in-text reference can be inserted at the beginning, middle or
 
 Identify works by the same author in the same year by inserting a letter after the year, starting with the letter ‘a’ for the first work you cite, e.g. 2021a, 2021b. In the reference list, include the same letter after each year of publication.
 
-#### In-text reference
+#### In-text citation
 
 > It is argued that...(Ayoob 2021a, 2021b).
 
@@ -216,9 +216,9 @@ Identify works by the same author in the same year by inserting a letter after t
 
 ###### start-subtype-content
 
-To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text references. In the reference list, order their works by the year of publication.
+To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text citations. In the reference list, order their works by the year of publication.
 
-#### In-text reference
+#### In-text citation
 
 > It is argued that...(Peterson M 2019), but others claim that...(Peterson JR et al. 2021).
 
@@ -239,7 +239,7 @@ In the reference list, order the works of each author by the year of publication
 
 When including two or more references in the same parentheses in a sentence, list all citations chronologically, separated by a semi-colon (;).
 
-#### In-text reference
+#### In-text citation
 
 > It has been claimed that...(Ghezzi and Cavallo 2018; Jocevski 2020; Soluk et al. 2021).
 
@@ -263,7 +263,7 @@ A **secondary citation** acknowledges the work of an author (the original source
 
 For example, if you use Vanna's (2019) ideas (the original source), which you read about in an article by Martin and Rodriguez (2021), you will need to show who the ideas belong to (Vanna 2019) and where you read about them (Martin and Rodriguez 2021).
 
-#### In-text reference
+#### In-text citation
 
 > Previous research appears to indicate... (Vanna 2019, cited in Martin and Rodriguez 2021).
 
@@ -287,7 +287,7 @@ In the reference list, only include the source you read. For this example, if yo
 
 ###### start-subtype-content
 
-- Use a reference list at the end of the document to include the publication details of all the in-text references cited within your writing.
+- Use a reference list at the end of the document to include the publication details of all the in-text citations cited within your writing.
 
 - The general order of the elements is:
     - author or authoring organisation’s name
@@ -405,7 +405,7 @@ WHO (World Health Organization) (2021) *WHO accelerates work on nutrition target
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -413,7 +413,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Day (2018:3) states that 'writing is a uniquely powerful, precise and satisfying form of expression. It is also a vital skill for future employment'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -452,7 +452,7 @@ In your reference list:
 
 Use the full word **and** when citing two authors. This applies to referring directly to the authors in a sentence or if citing them in parentheses.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -462,7 +462,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'Building plans tend to ignore climate risks in most instances' (Hill and Martinez-Diez 2020:18).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -498,9 +498,9 @@ In your reference list:
 
 ###### start-subtype-content
 
-For in-text references, give only the first author's family name, followed by **et al.** and the publication year.
+For in-text citations, give only the first author's family name, followed by **et al.** and the publication year.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -508,7 +508,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > In the context of nursing, decision making is defined by DeLaune et al. (2019:63) as 'considering and selecting interventions from a range of actions that facilitate the achievement of a desired outcome'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 > Decision making, when applied to the nursing profession, means the selection of careful consideration of interventions from a broad spectrum of actions that can lead to a satisfactory outcome (DeLaune et al. 2019).
 
@@ -543,9 +543,9 @@ In your reference list:
 
 Where the author is an organisation, use the name of the organisation as the author.
 
-When the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'OECD' rather than 'Organisation for Economic Co-operation and Development'. This saves you space. The full name is provided in the reference list.
+When the author's name is an organisation, you can use the shortened name form for your in-text citations in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'OECD' rather than 'Organisation for Economic Co-operation and Development'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -555,7 +555,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > The International Civil Aviation Organization (2018:1-1) defines safety management as a role that 'seeks to proactively mitigate safety risks before they result in aviation accidents and incidents'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -606,7 +606,7 @@ In your reference list:
 
 In place of the author, cite the book title and the year. Italicise the book title. If quoting, include a colon and page number (if available) after the year.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -616,7 +616,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > According to *A Warning* (2019:15) 'the...'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -651,9 +651,9 @@ In your reference list:
 
 ###### start-subtype-content
 
-When citing two or more works by the same author(s) in the same in-text reference, place the years of publication in chronological order after the author(s)'s name. If the works were written in the same year, place a letter after the year of each work, i.e. **a** after the first, **b** after the second and so on. For example: (2020a), (2020b).
+When citing two or more works by the same author(s) in the same in-text citation, place the years of publication in chronological order after the author(s)'s name. If the works were written in the same year, place a letter after the year of each work, i.e. **a** after the first, **b** after the second and so on. For example: (2020a), (2020b).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -722,11 +722,11 @@ In your reference list:
 
 Generally, an edited book includes chapters written by different authors.
 
-In your in-text references, use the name of the chapter author(s), not the name of the book editor(s). Editor details are included in the reference list.
+In your in-text citation, use the name of the chapter author(s), not the name of the book editor(s). Editor details are included in the reference list.
 
-If you use an edited book where the chapters have no identified authors, give the editor(s)'s family name as the author(s) in an in-text reference.
+If you use an edited book where the chapters have no identified authors, give the editor(s)'s family name as the author(s) in an in-text citation.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -734,7 +734,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'In the past decade smart technology, including networking and big data have given ways to organizations to expand their horizons' (Sahai et al. 2021:102).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -782,7 +782,7 @@ In your reference list:
 
 In the reference list, add **(ed)** for a single editor and **(eds)** for two or more editors.
 
-An edited book will follow the same in-text referencing rules as books with authors. Please see these relevant sections on this page
+An edited book will follow the same in-text citation rules as books with authors. Please see these relevant sections on this page
 
 #### Reference list entry
 
@@ -816,7 +816,7 @@ In your reference list:
 
 For online books sourced from Library databases or websites.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -828,7 +828,7 @@ The first example below comes from an e-book that has a page number, i.e. 35. Th
 
 > Shann (1948) argues in the opening paragraphs of Chapter 1 that 'neither legal restrictions nor isolation made the "settlers from convicts" better able to read the riddle of agriculture in a climate fruitful at times but fatally capricious'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -880,7 +880,7 @@ In your reference list:
 
 If there is no author, cite the encyclopedia or dictionary title and the year. Italicise the encyclopedia or dictionary title. If quoting, include a colon and page number (if available) after the year.
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -888,7 +888,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Megaphone democracy is defined as 'the diplomatic strategy of talking freely in public forums about an issue in order to persuade people to accept a particular point of view' (*Macquarie dictionary* 2017:936).
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -901,7 +901,7 @@ Encyclopedia or dictionary entries **without an author** do not need to be inclu
 
 #### Encyclopedia or dictionary entry with an author
 
-##### In-text reference: Direct quote
+##### In-text citation: Direct quote
 
 A direct quote is when you are using the exact words of the author(s). Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -909,7 +909,7 @@ If quoting, include a colon and page number (if available) after the year.
 
 > 'Philosophical conversations about determinism can be traced back through history as the question of whether human existence is planned or random and have perennially captured the imagination of thoughtful people' (Baird 2018:890).
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -955,7 +955,7 @@ In your reference list:
 
 - If there is no author, cite the publication title and the year. Italicise the publication title.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -965,7 +965,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Regarding paediatric ultrasound, the Specialist Imaging For Women (c. 2021) offers 'neonatal hip ultrasound – screening for developmental hip dysplasia – up to 6 months of age'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1007,7 +1007,7 @@ An exhibition catalogue can be physical (print) or online from a website.
 
 The author may be a person/people or the gallery/museum/public space (e.g. library).
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1015,7 +1015,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'The art of costume seems to have been intrinsically linked to Chanel's career path' (NGV International:259).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1047,7 +1047,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ##### Example
 
->Carpenter JT (2012) *Designing nature: the Rinpa aesthetic in Japanese art* [online exhibition catalogue], 26 May 2012 – 13 January 2013, The Metropolitan Museum of Art website, accessed 13 December 2021. https<nolink>://www.metmuseum.org/art/metpublications/Designing_Nature_The_Rinpa_Aesthetic_in_Japanese_Art?Tag=Notable%20exhibition%20catalogues&title=&author=&pt=&tc=&dept=&fmt=
+> Carpenter JT (2012) *Designing nature: the Rinpa aesthetic in Japanese art* [online exhibition catalogue], 26 May 2012 – 13 January 2013, The Metropolitan Museum of Art website, accessed 13 December 2021. https<nolink>://www.metmuseum.org/art/metpublications/Designing_Nature_The_Rinpa_Aesthetic_in_Japanese_Art?Tag=Notable%20exhibition%20catalogues&title=&author=&pt=&tc=&dept=&fmt=
 
 ###### end-subtype-content
 
@@ -1073,7 +1073,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1081,7 +1081,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > One of the themes of their Early Childhood Education and Care (ECEC) program, according to Papadopoulou (2020:686), is 'fostering in our students a strong sense of professional identity and empowering them to develop and even redefine their practice'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1126,7 +1126,7 @@ In your reference list:
 
 For two authors, use **and** to separate them. This applies to both referring to the authors in the sentence and references in parentheses at the end of the sentence.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1134,7 +1134,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'In the field of design, novelty is widely acknowledged as a key parameter for creativity assessments' (Fiorineschi and Rotini 2021:590).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1178,9 +1178,9 @@ In your reference list:
 
 ###### start-subtype-content
 
-Shorten the in-text reference to the first author followed by **et al.** (Latin for 'and others'). All authors are included in the reference list.
+Shorten the in-text citation to the first author followed by **et al.** (Latin for 'and others'). All authors are included in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1190,7 +1190,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Bichler et al. (2021:1829) assert that 'different polymer architectures behave differently regarding their dynamics'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1240,7 +1240,7 @@ In your reference list:
 
 If the journal article does not have a person identified as the author, begin the reference with the name of the journal instead (do no italicise) followed by the year of the article.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1252,7 +1252,7 @@ The examples below come from a source that does not have page numbers:
 
 > The Lancet Rheumatology (2021) explains in the opening paragraph that '...there is only one targeted drug approved for the disease, despite decades of research...'
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1296,7 +1296,7 @@ In your reference list:
 
 For online journal articles sourced from Library databases or websites.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1308,7 +1308,7 @@ The first example below comes from a source that has a page number, i.e. 163. Th
 
 > 'The association between SSB \[sugar-sweetened beverages\] consumption and both endometrial and ovarian cancer risk tended to be positive but did not reach statistically significant levels' (Llaha et al. 2021).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1363,7 +1363,7 @@ In your reference list:
 
 
 
-<!-- Newspaper articles - links to the fourth type menu item -->
+<!-- Newspaper and magazine articles - links to the fourth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1372,14 +1372,14 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Print newspaper article 
+### Print newspaper or magazine article 
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
 In hardcopy (print) format.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1387,7 +1387,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'The pay of bank chief executives could be linked to climate change targets in the future' (Yeates 2021:24).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1399,13 +1399,13 @@ In your reference list:
 
 - Enclose the title of the article in single inverted commas (quotation marks).
 
-- Italicise the newspaper title.
+- Italicise the newspaper or magazine title.
 
 - Include the full publication date in brackets after author (e.g. 6 December 2021).
 
 ##### Rule
 
-> Author’s family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*.
+> Author’s family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*.
 
 ##### Examples
 
@@ -1421,13 +1421,13 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Print newspaper article with no author
+### Print newspaper or magazine article with no author
 
 ###### start-subtype-content
 
 In hardcopy (print) format.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1437,7 +1437,7 @@ The example below comes from a source that has a page number, i.e. 25:
 
 > 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1447,15 +1447,15 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- If the newspaper article does not have a person identified as the author, use the name of the newspaper instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. Financial Review (7 August 2021).
+- If the newspaper or magazine article does not have a person identified as the author, put the name of the newspaper or magazine instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. Financial Review (7 August 2021).
 
 - Put the title of the article in single inverted commas (quotation marks).
 
-- Italicise only the second instance of the newspaper name after the article title.
+- Italicise only the second instance of the newspaper or magazine name after the article title.
 
 ##### Rule
 
-> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*.
+> Name of Newspaper or Magazine (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*.
 
 ##### Example
 
@@ -1469,11 +1469,11 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a library database
+### Newspaper or magazine article from a library database
 
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1485,7 +1485,7 @@ The examples below come from sources that do not have page numbers:
 
 > Wright and Duke (2021) begin their article on housing affordability by reporting on the Reserve Bank of Australia’s statement that although increases in property value had provided a 'financial boost to people already with a home', the 'market could take on a life of its own' if those looking to buy property accumulate too much debt.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1501,13 +1501,13 @@ In your reference list:
 
 - Enclose the title of the article in single inverted commas (quotation marks).
 
-- Italicise the newspaper name.
+- Italicise the newspaper or magazine name.
 
 - Add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
 
 ##### Rule
 
-> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year, Name of Database database.
+> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*, accessed Day Month Year, Name of Database database.
 
 ##### Example
 
@@ -1521,13 +1521,13 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a library database with no author
+### Newspaper or magazine article from a library database with no author
 
 ###### start-subtype-content
 
-If the newspaper article does not have a person identified as the author, begin the reference with the name of the newspaper instead (do no italicise) followed by the day, month and year of the article.
+If the newspaper or magazine article does not have a person identified as the author, begin the reference with the name of the newspaper or magazine instead (do no italicise) followed by the day, month and year of the article.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1537,7 +1537,7 @@ The example below comes from a source that has a page number, i.e. 25:
 
 > 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1547,17 +1547,17 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- If the newspaper article does not have a person identified as the author, use the name of the newspaper instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. The Age (28 June 2022).
+- If the newspaper or magazine article does not have a person identified as the author, use the name of the newspaper or magazine instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. The Age (28 June 2022).
 
 - Put the title of the article in single inverted commas (quotation marks).
 
-- Italicise only the second instance of the newspaper name after the article title.
+- Italicise only the second instance of the newspaper or magazine name after the article title.
 
-- After the second instance of the newspaper name, add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+- After the second instance of the newspaper or magazine name, add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
 
 ##### Rule
 
-> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year, Name of Database database.
+> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*, accessed Day Month Year, Name of Database database.
 
 ##### Example
 
@@ -1571,11 +1571,11 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a webpage
+### Newspaper or magazine article from a webpage
 
 ###### start-subtype-content
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1587,7 +1587,7 @@ The examples below come from sources that do not have page numbers:
 
 > Wright and Duke (2021) begin their article on housing affordability by reporting on the Reserve Bank of Australia's statement that although increases in property value had provided a 'financial boost to people already with a home', the 'market could take on a life of its own' if those looking to buy property accumulate too much debt.
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1603,13 +1603,13 @@ In your reference list:
 
 - Enclose the title of the article in single inverted commas (quotation marks).
 
-- Italicise the newspaper name.
+- Italicise the newspaper or magazine name.
 
 - Add the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
-> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year. URL
+> Author's family name Initial (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*, accessed Day Month Year. URL
 
 ##### Example
 
@@ -1623,13 +1623,13 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Newspaper article from a webpage with no author
+### Newspaper or magazine article from a webpage with no author
 
 ###### start-subtype-content
 
-If the newspaper article does not have a person identified as the author, begin the reference with the name of the newspaper instead (do no italicise) followed by the day, month and year of the article.
+If the newspaper or magazine article does not have a person identified as the author, begin the reference with the name of the newspaper or magazine instead (do no italicise) followed by the day, month and year of the article.
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1639,7 +1639,7 @@ The example below comes from a source that has a page number, i.e. 25:
 
 > 'Australia's aged-care system is revealing itself to be all too frequently woefully ineffective in meeting the needs of those who rely on its services' (The Sunday Age 2 October 2021:25).
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1649,17 +1649,17 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- If the newspaper article does not have a person identified as the author, use the name of the newspaper instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. The Age (24 January 2022).
+- If the newspaper or magazine article does not have a person identified as the author, use the name of the newspaper or magazine instead (do no italicise) followed by the day, month and year of the article in parentheses, e.g. The Age (24 January 2022).
 
 - Put the title of the article in single inverted commas (quotation marks).
 
-- Italicise only the second instance of the newspaper name after the article title.
+- Italicise only the second instance of the newspaper or magazine name after the article title.
 
-- After the second instance of the newspaper name, add the accessed date (e.g. accessed 2 November 2021) followed by a full stop, a space then the URL. No full stop after URL.
+- After the second instance of the newspaper or magazine name, add the accessed date (e.g. accessed 2 November 2021) followed by a full stop, a space then the URL. No full stop after URL.
 
 ##### Rule
 
-> Name of Newspaper (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper*, accessed Day Month Year. URL
+> Name of Newspaper or Magazine (Day Month Year) 'Title of article: subtitle of article', *Name of Newspaper or Magazine*, accessed Day Month Year. URL
 
 Example
 
@@ -1693,7 +1693,7 @@ Example
 
 Generally, conference papers are published within conference proceedings, either online or in hardcopy (print) format. In most cases, a conference paper (rather than the conference proceedings) will be used as a reference.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1703,7 +1703,7 @@ The example below comes from a source that has a page number, i.e. 76:
 
 > 'Students should engage in critical self-reflection regarding their ability to apply the theory they study to their future employment' (Rasmussen and Ngwenya 2021:76).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1745,7 +1745,7 @@ Generally, conference papers are published within conference proceedings, either
 
 A conference paper from a webpage will generally be sourced from the conference's website or the website of the organisation hosting the conference.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1755,7 +1755,7 @@ The example below comes from a source that has a page number, i.e. 76:
 
 > 'Students should engage in critical self-reflection regarding their ability to apply the theory they study to their future employment' (Rasmussen and Ngwenya 2021:76).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1809,7 +1809,7 @@ For conference papers sourced from conference proceedings in hardcopy (print) fo
 
 An unpublished conference paper is a work in progress, has already been submitted for publication but has yet to be published, or has been completed but has not been submitted for publication yet.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1819,7 +1819,7 @@ The example below comes from a source that has a page number, i.e. 76:
 
 > 'Students should engage in critical self-reflection regarding their ability to apply the theory they study to their future employment' (Rasmussen and Ngwenya 2021:76).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1879,9 +1879,9 @@ Include the author's name (individual or corporate), followed by publication yea
 
 If a webpage does not have an author name (individual or organisation), use the title of the webpage in italics, followed by year of publication.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
@@ -1893,7 +1893,7 @@ The examples below come from sources that do not have page numbers:
 
 > Heath (2021) explains that artificial intelligence is seen as being 'tied to a system's ability to adapt and improvise in a new environment, to generalise its knowledge and apply it to unfamiliar scenarios'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -1954,9 +1954,9 @@ Include the author's name (individual or organisation), followed by publication 
 
 If a downloadable webpage document (e.g. PDF) does not have an author name (individual or organisation), use the title of the document in italics, followed by year of publication.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -1966,7 +1966,7 @@ The example below comes from a source that has a page number, i.e. 4:
 
 > The DET, Victoria (2020:4) states that 'when teachers work together to improve their practice, students learn more'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2030,7 +2030,7 @@ In your reference list:
 
 If the blog post does not have a person identified as the author, begin the reference with the name of the blog instead (do no italicise) followed by the day, month and year of the post.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
@@ -2038,7 +2038,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > In a post introducing the delights of Australian native food in the opening paragraph, Welcome to Country (6 August 2021) notes that if you have not 'explored Australian native Bush Food you are missing out on some incredible flavours, textures and nutritional benefits'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2094,9 +2094,9 @@ For social media accounts that are not publicly accessible (e.g. a private Faceb
 
 The author may be a person/people or an organisation.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
@@ -2108,7 +2108,7 @@ Cite the author's name (the poster) and the year of publication as you would for
 
 > In Greta Thunberg's Instagram post, she asserts that 'we can no longer let the people in power decide what hope is. Hope is not passive' (Thunberg 2021b).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2118,7 +2118,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- Enclose the full publication date (e.g. 15 November 2021) in parentheses after the author or page name. If the multiple posts are from the same author and same year, put a chronological letter after the year to differentiate their corresponding in-text references, e.g. 2021a, 2021b, 2021c.
+- Enclose the full publication date (e.g. 15 November 2021) in parentheses after the author or page name. If the multiple posts are from the same author and same year, put a chronological letter after the year to differentiate their corresponding in-text citations, e.g. 2021a, 2021b, 2021c.
 
 - Put title of the social media post in single inverted commas (quotation marks), followed by the type of post in square brackets, e.g. \[Facebook post\], \[Tweet\], \[Instagram post\].
 
@@ -2171,13 +2171,13 @@ Cite the title of the film, movie or television program in italics, followed by 
 
 The title can be abbreviated after the first mention as long as the meaning remains clear. You can also leave out the date when subsequently referring to the film, movie or television program.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
 > David Gulpilil describes the documentary of his life in the opening scenes by simply stating, 'This is my story of my story' (*My name is Gulpilil* 2017).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of author(s) in your own words.
 
@@ -2245,15 +2245,15 @@ In your reference list for **television program**:
 
 ###### start-subtype-content
 
-Only cite the host(s) in the in-text reference (quote or paraphrase), not the producer. Both the producer and host(s) are included in the reference list entry.
+Only cite the host(s) in the in-text citation (quote or paraphrase), not the producer. Both the producer and host(s) are included in the reference list entry.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
 > Bessell and Hunter (2020) points out that despite the Covid-19 pandemic having driven governments to implement 'previously unseen welfare interventions...social and economic inequality is deepening around the globe'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2303,21 +2303,21 @@ For YouTube videos and other online streaming videos located on other websites.
 
 The creator (author) can be a person, channel name or organisation.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
-If the creator is unknown, cite the title of the video in italics and the year of video in the in-text reference. If known, cite the creator's name and the year of video. If no year is supplied, write **n.d.** (for 'no date').
+If the creator is unknown, cite the title of the video in italics and the year of video in the in-text citation. If known, cite the creator's name and the year of video. If no year is supplied, write **n.d.** (for 'no date').
 
 > There are conflicting opinions of crypto currency that frame it as either the potential 'future currency of Earth' or full of pitfalls due to being 'vulnerable to hacking security issues' (ABC News 2021).
 
 > Nabben (2021) points out that there is still much 'catching up \[to do\] in terms of the law...around blockchains considering how fast the space is evolving'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-If the creator is unknown, cite the title of the video in italics and the year of video in the in-text reference. If known, cite the creator's name and the year of video. If no year is supplied, write n.d. (for 'no date').
+If the creator is unknown, cite the title of the video in italics and the year of video in the in-text citation. If known, cite the creator's name and the year of video. If no year is supplied, write n.d. (for 'no date').
 
 > Opinions of crypto currency vary widely from those that see it as the future of financial exchange to those that consider it to be an insecure proposition at risk from hacking (ABC News 2021).
 
@@ -2374,13 +2374,13 @@ If you refer to the name of the song, cite the author/artist and the year in the
 
 When you quote someone's lyrics, cite the song name, the author and the year of publication in the sentence or parentheses.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
 > The psychedelic imagery of 'tangerine trees and marmalade skies \[and\] cellophane flowers of yellow and green' represents...(The Beatles, 'Lucy in the sky with diamonds' 1967).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2434,13 +2434,13 @@ In your reference list:
 
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks).
 
 > On an episode of *The world today*, Smail (2021) reported on the need for an 'overhaul of the existing the tax and welfare system...to boost female workforce participation'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2478,124 +2478,63 @@ In your reference list:
 
 
 
-<!-- Images and figures - links to the ninth type menu item -->
+<!-- Artwork, images, tables and graphs - links to the ninth type menu item -->
 ###### start-type-content
 
 ###### start-subtype
 
-
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Artwork and images (non-artworks)
-
+### Artwork and images
 <!-- first accordion item -->
+
 ###### start-subtype-content
 
-#### General rules for artworks and images (non-artworks)
+RMIT Harvard includes photographs (including photographs of artwork or images), drawings, illustrations, diagrams, digital art and maps within the definition of artwork and images.
 
-RMIT Harvard includes the following within the definition of an **artwork:**
+#### General rules for artworks and images
 
-- paintings, drawings, illustrations, prints, sculptures and ceramics
+When citing artworks or images, you need to acknowledge them in three places:
 
-- street art and neon sign art
+- Within the written body of your work, as you would for an in-text citation.
+- As a figure number within the caption. See the section on **Captions for figures and tables**.
+- As an entry in your reference list.
 
-- photographs, posters, cartoons and clip art
+Your lecturer, teacher or supervisor may have specific requirements for referencing artworks or images. Follow any directions they give, even if they differ from this guide.
 
-- performance and ephemeral artwork
+You may **create your own artwork or image**, e.g. photograph or screenshot you took of your own artwork; an illustration, diagram or painting you created, etc. In this case, the creator is you.
 
-- digital art – created using technology such as video, computer or laser beam
+You may also **reproduce an artwork or image from a source** rather than create it yourself. A source could be a book, journal article, map, website, webpage document, database, conference paper, technical report, newspaper article, or photograph or screenshot you take of somebody else’s artwork or image (with permission, where applicable), for example.
 
-- antiquities - objects from ancient history such as coins and pottery
+#### In-text citation
 
-- images of any of the above
+When you reproduce an artwork or image from a source, if the creator of the artwork or image is **different** to the author of the source, cite the **creator as the author** and the **year** that the artwork or image has been **created**.
 
-- maps
+Italicise the titles of artworks and images, and use sentence case.
 
-RMIT Harvard includes the following within the definition of an **image (non-artwork)**:
+If the creator has made typographic decisions for the title so it appears in a certain way, use any capitalisation, italicisation, numbers or punctuation in **exactly the same way** the creator did, e.g. *flight research #6*.
 
-- photographs, illustrations, drawings, illustrative diagrams and other images of a medical, anatomical, physiological or scientific nature (e.g. human body, histology, radiology/medical imaging such as x-rays, ultrasounds and scans)
+If the creator is **unknown**, cite the title of the artwork or image in italics and the year of creation instead.
 
-- photographs, illustrations, drawings and illustrative diagrams of a technical nature (e.g. vehicle or aircraft engines, architectural blueprints, anatomy of an airplane)
+If **no** publication or creation year is supplied, write **n.d.** (meaning 'no date') in place of year. If the year can be reliably estimated or inferred from the text, write **c.** (meaning 'circa' or approximately) followed by the year, e.g. c. 1900.
 
-- photographs, illustrations, drawings and illustrative diagrams of any other non-artwork subject matter not covered above (e.g. fashion/clothing/accessories, nature, people)
+A **figure number** is used to identify **each artwork or image**. These figures are numbered sequentially in the order in which they appear.
 
+When you discuss an artwork or image, refer to its assigned figure number within your writing. The figure number can be within the sentence or in parentheses, for example: “As seen in Figure 1...”, or “As seen in... (see Figure 1)”.
 
-Artworks and images (non-artworks) can be physical or online/digital.
-
-The artist or creator can be a person, the gallery/museum/public space like a library, or other organisations.
-
-If no publication year is supplied, write **n.d.** (for 'no date'). If the year can be reliably estimated or inferred from the text, then write c. (meaning 'circa' or approximately) followed by the year.
-
-Artworks and images (non-artworks) that you use in your assignment or for study purposes do not need the copyright permissions that are required for publishing or commercial use. However, it is essential that you give credit to the creator of the work and reference it in your work.
-
-When citing artworks or images (non-artworks) in the text of your assignment, you need to acknowledge them in two places:
-
-1.  within the written body of your paper, as you would for a normal in-text reference, and
-2.  in the figure layout (caption).
-
-Citations are also influenced by where you sourced the artwork or image (non-artwork). Where possible, cite the original rather than copies from a reproduction.
-
-How you capture and include the artwork or image (non-artwork), e.g. screenshot, photograph, copy-and-paste, does not influence the way in which it is referenced. Cite the work based on where you sourced the work.
-
-**Note:** Your lecturer may have specific requirements for referencing artworks or images (non-artwork). Any directions given by your lecturer must be followed, even if they differ from this guide.
-
-#### Captions
-
-Captions are used to provide a description of the artworks or images (non-artwork) you use. These are usually placed below the illustration.
-
-A figure number is used in the caption to identify each illustration. These figures are numbered sequentially in the order in which they appear and followed by a colon.
-
-Illustrations you create of your own work are not usually referenced. However, a caption such as 'Figure 7: Photograph by author' or 'Figure 11: Initial sketches' might be appropriate when other illustrations in your assignment are referenced. Check your lecturer's requirements.
-
-Make sure you refer to the figure in your writing and include the figure number. This can be in the sentence or in parentheses, for example (see Figure 1).
-
-Refer to a figure by its assigned number, not as the "figure above" or "figure below" or "figure on page 3", for example.
-
-**Note:**Your lecturer might require a specific long or short caption style. Whichever style you use, make sure you apply it consistently.
-
-#### Captions (Own work)
-
-##### Rule
-
-> {.figure-text}Figure number: Description or explanation {/.figure-text}
+Do **not** refer to an artwork or image as " figure above" or " figure below" or " figure on page 3", for example.
 
 ##### Examples
 
-> {.figure-text}Figure 1: Author’s photograph {/.figure-text}
+**For an artwork or image you created yourself**
 
-> {.figure-text}Figure 2: Initial sketches of the design {/.figure-text}
+> Produced by the author, Figure 1 illustrates their own drawing of a car created in AutoCAD in 2020.
 
-#### Short captions for reproduced works
+> The author’s own initial sketch of a floral summer dress was made for Melbourne Fashion Week 2022 (see Figure 2).
 
-If the artwork or image (non-artwork) was on a website, include the URL (no full stop after URL) after the website name and the accessed date. If it was in a Library database, include the database name after the accessed date instead. If it was in a gallery, museum or other public space, include the name and location of the gallery, museum or public space. If it was in other sources, provide the in-text referencing details of the source as described in other areas of this guide.
+> Figure 3 shows the author’s own photograph of a leaf taken close-up in 2021.
 
-##### Rule
-
-> {.figure-text}Figure number: Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (year produced) *Title or description of artwork or image (non-artwork)* [format], publishing details of where artwork or image (non-artwork) was sourced. {/.figure-text}
-
-##### Examples
-
-> {.figure-text}Figure 3: Artist unknown (11-12th C) *Tapestry with dragons and flowers* [silk tapestry], The Metropolitan Museum of Art website, accessed 13 December 2021. https<nolink>://www.metmuseum.org/art/collection/search/39733? {/.figure-text}
- 
-> {.figure-text}Figure 4: Artist unknown (11-12th C) *Tapestry with dragons and flowers* [silk tapestry], in Jaynes A and Liaw J (1968:37). {/.figure-text}
-
-> {.figure-text}Figure 5: Burn H (1861) *Swanston Street from the bridge* [oil on canvas], National Gallery of Victoria, Melbourne. {/.figure-text}
-
-> {.figure-text}Figure 6: Mari (Maria Giovanna Colli) (2009) *Bilbao_6: Guggenheim Museum Bilbao* [photograph], Flickr website, accessed 13 December 2021. https<nolink>://www.flickr.com/photos/52355315@N08/5757476385/in/album-72157626677144865/ {/.figure-text}
-
-> {.figure-text}Figure 7: Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], Anatomy.tv database, accessed 19 August 2022. {/.figure-text}
-
-> {.figure-text}Figure 8: Untitled screenshot of Zelphr homepage. {/.figure-text}
-
-#### In-text reference to artworks or images (non-artworks)
-
-Italicise the titles of individual artworks or images (non-artworks) and use sentence case. If the artist/creator has made typographic decisions for the title where it has to appear in a certain way, use capitalisation, numbers or punctuation in exactly the same way as the artist/creator does in original title, e.g. *flight research #6*.
-
-When first mentioning the work, include the artist or creator of the artwork or image (non-artwork), year of creation and title of the artwork or image (non-artwork) in parentheses, if not mentioned in the sentence.
-
-If you use an artwork or image (non-artwork), refer to the figure number when you discuss it.
-
-##### Examples
+**For an artwork or image you reproduced from other sources**
 
 > The exhibition *Gabrielle Chanel. Fashion manifesto* displays the Chanel's (1925) little black dress in silk organza transformed black from being the colour of mourning to the height of chic and modernity (see Figure 11).
 
@@ -2603,271 +2542,389 @@ If you use an artwork or image (non-artwork), refer to the figure number when yo
 
 > As illustrated in Figure 5, the painting *Swanston Street from the bridge* (Burn 1861) depicts Melbourne's growth into a city of domes and spires.
 
+> As depicted in Figure 3, *Tapestry with dragons and flowers* (11th-12th century) suggests...
+
+> Figure 3 depicts...(*Tapestry with dragons and flowers* 11th-12th century)
+
+> As shown by Figure 9, *Melbourne and its suburbs: map 1*...(Kearney 1855).
+
+> As illustrated in Figure 10, *Plenty Road Bundoora 3083* highlights...(DTP 2020).
+
 #### Reference list entry
+
+**For an artwork or image you created yourself**
+
+Although artwork or images you create yourself are not usually included in the reference list, check with your teacher, lecturer or supervisor’s requirements.
+
+**For an artwork or image you reproduced from other sources**
 
 In your reference list:
 
-- Artworks and images (non-artworks) can be physical or online/digital.
+- When you reproduce an artwork or image from a source, if the creator of the artwork or image is **different** to the author of the source, include in the reference:
 
-- Your own unpublished work or artworks discussed without an image or picture of them are not included in the reference list.
+     - the **creator as the author** and the **year** that the artwork or image has been **created**, and
 
-- Artworks or images (non-artwork) viewed in-person, such as at art galleries, museums and other public spaces like a library, are cited to acknowledge their influence on the development of your own ideas or work. Please note that an image does not need to be of an artistic nature to be in a museum or other public space.
+     - the details of the source that the artwork or image appears in. For example, if the artwork or image appears in a book, webpage or journal article, include the details of the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
 
-- Artworks or images (non-artwork) that you reproduced from books, websites and other sources should be cited in accordance with the source they appear in. For example, if the artwork or image (non-artwork) appears in a book or website, you reference the book or website. Please refer to the relevant section(s) within this guide for how to reference the various sources.
+- If the creator is **unknown**, start the reference with the title of the artwork or image in italics, followed by the year of creation in parentheses, then the format in square brackets. Do **not** put "Unknown creator/artist". e.g. *Tapestry with dragons and flowers* (11th-12th century) [silk tapestry]...
 
-- The artist or creator can be a person, the gallery/museum/public space (e.g. library), or other organisations.
+- If **no** publication or creation year is supplied, write **n.d.** (meaning 'no date') in place of year. If the year can be reliably estimated or inferred from the text, write **c.** (meaning 'circa' or approximately) followed by the year, e.g. c. 1900.
 
-- If no publication year is supplied, write **n.d.** (for 'no date'). If the year can be reliably estimated or inferred from the text, then write c. (meaning 'circa' or approximately) followed by the year.
+- When an artwork or image is:
 
-- Italicise the title of the artwork or image (non-artwork). After the title, provide the format of the artwork or image (non-artwork) in square brackets.
+     - **Online -- from a webpage:** add the name of the website followed by the word website. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
 
-- **Physical -- viewed in-person at an art gallery, museum or other public space:** add the name and location of the museum, gallery or other public space.
+     - **Online -- from a Library database:** add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
 
-- **Online -- from a website:** add the name of the website followed by the word **website**. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+     - **Physical -- viewed in-person at an art gallery, museum or other public space:** add the name and location of the museum, gallery or public space.
 
-- **Online -- from a Library database:** add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+     - **Physical -- hardcopy (print) map:** add the name of the publisher and place published. 
 
-##### Rule (physical -- viewed in-person at an art gallery, museum or other public space)
+- When an image is a map, put the following information within the [format] field:
 
-> Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (Year) *Title or description of artwork or image (non-artwork)* [format], Name of Museum/Gallery/Public Space, Location of Museum/Gallery/Public Space.
+     - **[digital map]:** for an online map sourced from a website or Library database that was created digitally/electronically. Most maps are like this today.
+
+     - **[print map]:** for a hardcopy map.
+
+     - **[digitised map]:** for a map that used to be in hardcopy (print) format but has now been digitised.
+
+##### Rule (online -- from website)
+
+> Creator's Family Name Initial (Year) *Title of artwork or image* [format], Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
  
-> Dwyer M (2021) *Apparition* \[night-time digital projection onto holo-gauze screen\], University Square, Carlton, VIC.
+> DTP (Department of Transport and Planning, Victoria) (2020) *Plenty Road Bundoora 3083* [digital map], VicPlan website, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
+
+> Kaiser P (1975) *Growing over the fence* [synthetic polymer paint on canvas], National Gallery of Victoria website, accessed 20 July 2023. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/60587/
+
+> Kearney J (1855) *Melbourne and its suburbs: map 1* [digitised map], State Library of Victoria website, accessed 10 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
+
+> *Tapestry with dragons and flowers* (11th-12th century) [silk tapestry], The Metropolitan Museum of Art website, accessed 9 December 2021. https<nolink>://www.metmuseum.org/art/collection/search/39733
+
+##### Rule (online -- from from Library database)
+
+> Creator's Family Name Initial (Year) *Title of artwork or image* [format], accessed Day Month Year, Name of Database database.
+
+##### Examples
  
-> Pollock J (1952) *Blue poles* \[Oil, enamel, aluminium paint, and glass on canvas\], National Gallery of Australia, Canberra.
+> Aerometrex (2021) ANZ stadium, *Sydney Olympic Park, NSW* [digital map], accessed 10 December 2021, MetroMap database.
 
-##### Rule (online -- from a website)
+> Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], accessed 19 August 2022, Anatomy.tv database.
 
-> Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (Year) *Title or description of artwork or image (non-artwork)* [format], Name of Website website, accessed Day Month Year. URL
+**Note:** Although RMIT Harvard does not include a URL link if there is a database name, include BOTH database name and URL link *only* for images from the **WGSN database**. This will make it easier to locate and access the image. 
+
+> Chanel (n.d.) *cha_mon_ps23_003* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/content/image_viewer/#/image.35640165
+
+> Jacobs M (2022) *New York autumn/winter 2022: women* [gallery of photographs], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316 
+
+> Khan A (n.d.) *Womenswear forecast S/S 24: SenseScapes* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/fashion/article/62d668672dbcfed4840eacf3#page4 
+
+##### Rule (physical -- viewed in-person at art gallery, museum or public space)
+
+> Creator's family name Initial (Year) *Title of artwork or image* [format], Name of Museum/Gallery/Public Space, Location of Museum/Gallery/Public Space.
+
+##### Examples
+ 
+> Dwyer M (2021) *Apparition* [night-time digital projection onto holo-gauze screen], University Square, Carlton, VIC.
+
+> Pollock J (1952) *Blue poles* [Oil, enamel, aluminium paint, and glass on canvas], National Gallery of Australia, Canberra.
+
+##### Rule (physical -- hardcopy/print map)
+
+> Creator’s Family Name Initial (Year of creation) *Title of map* [format], Name of Publisher, Place of Publication. 
 
 ##### Example
-
-> Artist unknown (c. 11-12th C) *Tapestry with dragons and flowers* [silk tapestry], The Metropolitan Museum of Art website, accessed 9 December 2021. https<nolink>://www.metmuseum.org/art/ collection/search/39733?
-
-##### Rule (online -- from a Library database)
-
-> Artist's or Creator's family name Initial OR Gallery/Museum/Public Space name [if artist/creator] OR Organisation's name [if artist/creator] (Year) *Title or description of artwork or image (non-artwork)* [format], accessed Day Month Year, Name of Database database.
-
-##### Examples
-
-**Note:** Although RMIT Harvard does NOT include a URL link if there is a database name or vice-versa, it has been decided to include *both* only for **WGSN database images** in order to make the image easier to find and access.
-
-**WSGN report image**
-
-Maggioni S (2022) *Womenswear forecast S/S 24: SenseScapes* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www-wgsn-com.ezproxy.lib.rmit.edu.au/fashion/article/62d668672dbcfed4840eacf3#page4
-
-**WSGN image library**
-
-Chanel (n.d.) *cha_mon_ps23_003* [photograph], accessed 19 August 2022, WGSN database. www.wgsn.com/content/image_viewer/#/image.35640165
-
-**WSGN catwalk gallery**
-
-Jacobs M (n.d.) *New York autumn/winter 2022, women* [gallery of photographs], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316
-
-**Anatomy.tv (Primal Pictures)**
-
-Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], accessed 19 August 2022, Anatomy.tv database.
-
+ 
+> Melway (2021) *Geelong* [print map], Melway, Clayton, VIC.
 
 ###### end-subtype-content
 
 ###### end-subtype-item
 
 
-
 ###### start-subtype-item
-
-### Maps
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Tables and graphs
+<!-- second accordion item -->
 
 ###### start-subtype-content
 
-RMIT Harvard identifies maps as a type of artwork. Please see section on **Artworks** for further details.
+#### General rules for tables and graphs
 
-Maps taken from an online source can include:
+When citing tables and graphs, you need to acknowledge them in three places:
 
-- digitised maps that originate from a print source such as old maps and are made available in an electronic format by museums, galleries and libraries
+- Within the written body of your work, as you would for an in-text citation.
+- As a table number (for tables) or figure number (for graphs) within the caption. See the section on **Captions for figures and tables**.
+- As an entry in your reference list.
 
-- web maps that use satellite imagery and GPS data and are taken from online navigation and mapping sites such as Google Maps
+Your lecturer, teacher or supervisor may have specific requirements for referencing tables or graphs. Follow any directions they give, even if they differ from this guide.
 
-Maps can also be in hardcopy/print format.
+You may **create your own table or graph using your own data** that you obtained from a study, research or experiment you carried out yourself. This is data that you have created or generated yourself. In this case, the author is you.
 
-When citing maps in the text of your work, you need to acknowledge them in two places:
+You may also **create your own table or graph using other people’s data from published sources**. This is data that other people/organisations have published from their study, research or experiment. In this case, the author is the person/organisation that created or generated the published data you used.
 
-1. within the written body of your paper, as you would for a normal in-text reference, and
+You may also **reproduce a table or graph from a published source** rather than create it yourself. For example, a source could be a book, journal article, webpage and more. In this case, the author is the person/organisation that created the table or graph you reproduced.
 
-2. in the figure layout (caption).
+If no publication year is supplied, write **n.d.** (meaning 'no date') in place of year.
 
-Refer to a figure by its assigned number, not as the "figure above" or "figure below" or "figure on page 3", for example.
+#### In-text citation
 
-The cartographer (author) can be a person or an organisation.
+A **table number** is used to identify each table. These tables are numbered sequentially in the order in which they appear.
 
+A **figure number** is used to identify each graph. These figures are numbered sequentially in the order in which they appear.
 
-#### Captions
+When you discuss a table or graph, refer to its assigned table/figure number within your writing. The table/figure number can be within the sentence or in parentheses, for example: “As seen in Table 1/Figure 1...”, or “As seen in... (see Table 1/Figure 1)”.
 
-If the map was on a website, include the URL (no full stop after URL) after the accessed date. If the map appeared in other sources, provide the in-text referencing details of the source as described in other areas of this guide.
-
-##### Rule
-
-> {.figure-text}Figure number: Cartographer's family name Initial OR Organisation's name [if cartographer] (year produced) *Title of map* [format], Publishing details of where map was sourced. {/.figure-text}
+Do **not** refer to a table or graph as " table/figure above" or " table/figure below" or " table/figure on page 3", for example.
 
 ##### Examples
 
-> {.figure-text}Figure 9: Kearney J (1855) *Melbourne and its suburbs: map 1* [digitised map], State Library of Victoria website, accessed 13 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs {/.figure-text}
+**For a table or graph you created yourself using your own data**
 
-> {.figure-text}Figure 10: VicPlan (2020) *Plenty Road Bundoora 3083* [digital map], VicPlan website, accessed 13 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/. {/.figure-text}
+> Figure 1 shows the main expenditures of Australian households between 2020-2022, as based on the author’s own study.
 
-#### In-text references
+> The author’s own 2018 experiment compares the outcomes from categories A, B and C (see Figure 2).
 
-If you use a map, refer to the figure number when you discuss it.
+> Incidences of eczema in adults 18-50 years of age before and after intervention have been compared in the author’s own 2019 study, as shown in Table 1.
 
-> As shown by Figure 9, *Melbourne and its suburbs: map 1* depicts...(Kearney 1855).
+> Based on the author’s own 2021 experiment, there is a discrepancy in results from groups A, B and C (see Table 2).
 
-> Figure 9 depicts...(Kearney 1855).
+**For a table or graph you created yourself using others' data from published sources**
 
-> As illustrated in Figure 10, *Plenty Road Bundoora 3083* highlights...(VicPlan 2020).
+> Figure 1 shows the top five overseas countries of birth in the 2021 Australian census, as adapted from the ABS (2022).
 
-> As shown in Figure 10,...(VicPlan 2020).
+> As adapted from García-Martínez et al. (2023), the percentage chemical composition by weight of an aircraft's engine blade material is illustrated in Figure 2.
+
+> Table 1 highlights the average forecast unemployment rate in Australia between February 2012- February 2022, as adapted from the RBA (n.d.).
+
+> As adapted from Ellis et al. (2020), a number of factors that contributed to plagiarism are identified in Table 2.
+
+> Fluctuations in the imports over the last decade are represented in Table 3, as adapted from Mitchelton (2018), ABS (2019) and DFAT (2020).
+
+**For a table or graph you reproduced from published sources**
+
+> Fu (2022) discusses the numbers of students with disabilities enrolled in primary and junior schools in China, 2015-2017, as represented in Figure 1.
+
+> The impact of a small increase in media bias is illustrated by Raymond and Taylor (2021) (see Figure 2).
+
+> Figure 3 shows the infrared thermography and temperature of MW and MW-alkali pretreated industrial fruit biowaste (Barrera et al. 2023).
+
+> Voorveld et al. (2018) identifies the instruments used to measure social media engagement, as listed in Table 1.
+
+> As highlighted in Table 2, there is a correlation between quality of nursing care, caring nature and person-centredness (Edvardsson et al. 2016).
+
+> The number of males and females experiencing homelessness in Australia between 2006-2021 is represented by ABS (2023) (see Table 3).
 
 #### Reference list entry
+
+**For a table or graph you created yourself using your own data**
+
+Although tables or graphs you create yourself using your own data are not usually included in the reference list, check with your teacher, lecturer or supervisor’s requirements.
+
+**For a table or graph you created yourself using others' data from published sources**
 
 In your reference list:
 
-- The cartographer (author) can be a person or an organisation.
+> When you use other people’s data from published sources to create your own table or graph, the source that the data appears in should be referenced.
 
-- Add the map title in italics. After the title, provide the format of the resource in square brackets, e.g. [digital map], [print map], [digitised map]. 'Print map' is for hardcopy maps.  'Digitised map' is for maps that used to be in hardcopy (print) format but have now been digitised. 'Digital map' is for an online map sourced from a website or Library database that was created digitally/electronically – most maps are like this today.
+> For example, if the data appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
 
-- **Hardcopy (print):** add the name of publisher and place published.
+> If your table or graph includes data from **more than one** source, you must separately reference ALL sources you used to create your table or graph.
 
-- **Online -- from a website:** add the website name followed by the word **website**. Then put the accessed date (e.g. accessed 13 December 2021), followed by a full stop, a space then the URL. No full stop after URL.
+**For a table or graph you reproduced from published sources**
 
-- **Online -- from a Library database:** add the accessed date (e.g. accessed 13 December 2021), then the database name followed by the word **database**.
+In your reference list:
 
-##### Rule (hardcopy/print)
+> Tables or graphs that you reproduced from a published source should be referenced as the source they appear in. 
 
-> Cartographer's family name Initial OR Organisation's name [if cartographer] (Year of creation) *Title of map* [format], Name of Publisher, Place of Publication.
-
-##### Example
-
-> Melway (2021) *Geelong* \[print map\], Melway, Clayton, VIC.
-
-##### Rule (online -- from a website)
-
-> Cartographer's family name Initial OR Organisation's name [if cartographer] (Year of creation) *Title of map* [format], Name of Website website, accessed Day Month Year. URL
+> For example, if the table or graph appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
 
 ##### Examples
 
-> Kearney J (1855) *Melbourne and its suburbs: map 1* \[digitised map\], State Library of Victoria website, accessed 10 December 2021. https<nolink>://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs
+> ABS (Australian Bureau of Statistics) (2023) *Estimating homelessness: census 2021*, ABS website, accessed 15 September 2023. https://www.abs.gov.au/statistics/people/housing/estimating-homelessness-census/2021
 
-> VicPlan (2020) *Plenty Road Bundoora 3083* \[digital map\], Victoria State Government website, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
+> Barrera C, Fito PJ, Castro-Giraldez M, Betoret N and Segui L (2023) 'Microwave application to food and food waste processing', in Chhikara N, Panghal A and Chaudhary G (eds) *Novel technologies in food science*, Scrivener Publishing, Beverly, Massachusetts.
 
-##### Rule (online -- from a Library database)
+> DEWR (Department of Employment and Workplace Relations, Australia) (2023) *Skills for Education and Employment (SEE) training sites* [data set], data.gov.au, accessed 15 September 2023. https://data.gov.au/data/dataset/skills-for-education-and-employment-see-training-sites
 
-> Cartographer's family name Initial OR Organisation's name [if cartographer] (Year of creation) *Title of map* [format], accessed Day Month Year, Name of Database database.
+> Edvardsson D, Watt E and Pearce F (2017) 'Patient experiences of caring and person-centredness are associated with perceived nursing care quality', *Journal of Advanced Nursing*, 73(1):217-227, doi:10.1111/jan.13105.
 
-##### Example
+> Fu W (2022) *Inclusive education in China: ideas, practices and challenges*, Routledge, Abingdon, Oxfordshire.
 
-> Aerometrex (2021) *ANZ stadium, Sydney Olympic Park, NSW* [digital map], accessed 10 December 2021, MetroMap database.
+> MarketLine Limited (2023) *General Motors Company*, accessed 16 September 2023, MarketLine database.
+
+> Wheeler K (2023) *Clothing retailing in Australia*, report number G4251, accessed 15 September 2023, IBISWorld database.
 
 ###### end-subtype-content
 
 ###### end-subtype-item
-
 
 
 ###### start-subtype-item
-
-### Tables and diagrams
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Captions for figures and tables
+<!-- third accordion item -->
 
 ###### start-subtype-content
 
-When citing tables, graphs or other diagrams in the text of your work, you need to acknowledge them in two places:
+#### General rules for captions
 
-1. within the written body of your paper, as you would for a normal in-text reference, and
+Please see the sections on **Artwork and images** and **Tables and graphs** for how to create in-text citations and reference list entries for artwork, images, tables and graphs. This section discusses how to create captions for these sources.
 
-2. in the table/figure layout (caption).
+Captions are used to provide a description and attribution of the artworks, images, tables or graphs you use in your work. A caption is usually placed below the artwork, image, table or graph.
 
-Label **tables** sequentially as **Table 1, Table 2** and so on, followed by a colon. Other **graphs and diagrams** are labelled sequentially as **Figure 1, Figure 2** and so on.
+A **figure number** is used in the caption to identify **each artwork, image or graph**. These figures are numbered sequentially in the order in which they appear.
 
-Include a title that describes or explains the information in the table or diagram. Note, this is not italicised.
+A **table number** is used in the caption to identify **each table**. These tables are numbered sequentially in the order in which they appear.
 
-Refer to a table or figure by its assigned number (e.g. Table 1, Figure 2), not as the "table/figure below" or "table/figure above" or "table/figure on page 3", for example.
+When you discuss an artwork, image, graph or table, refer to its assigned figure/table number within your writing. The figure/table number can be within the sentence or in parentheses, for example: “As seen in Figure 1/Table 1...”, or “As seen in... (see Figure 1/Table 1)”.
 
-For tables, graphs and diagrams using published content, acknowledge the source below the table/figure number and title, on a new line.
+Do **not** refer to an artwork, image, graph or table as "figure/table above" or "figure/table below" or "figure/table on page 3", for example.
 
-#### Tables (your own work)
+For the **Source** within the caption:
 
-When the information is your own work based on data you have collected independently, for example, from your own research or experiments, label your table with a number and give a title to the work. Use standard font (no italics).
+- If the creator of the artwork or image is **unknown**, begin with the title of the artwork or image in italics, then put the year of creation. Do **not** put "Unknown creator/artist". e.g. Source: *Tapestry with dragons and flowers* 11-12th century.
 
-##### Example
+- If **no** creation/publication year is supplied, write **n.d.** (meaning 'no date') in place of year. If the year can be reliably estimated or inferred from the text, write **c.** (meaning 'circa' or approximately) followed by the year, e.g. c. 1900.
 
-> Table 1: Comparison of results from groups A, B and C
+#### For an artwork or image you created yourself
 
-#### Tables (adapted from published material)
-
-If you are using information gathered from published information but are presenting it in a table or figure that you have created, acknowledge the source as you would for paraphrased information in a caption.
-
-When the table includes data from more than one source, you must cite all sources you relied on to create the table.
+Although artwork or images you create yourself are not usually included in the reference list, check with your lecturer or supervisor’s requirements.
 
 ##### Rule
 
-> {.figure-text}Figure number: Title of table {/.figure-text}
-> {.figure-text}Source: adapted from Publishing details of where the information was sourced {/.figure-text}
+> {.figure-text}Figure figure number: Brief description of artwork or image. {/.figure-text}
 
 ##### Examples
-
-> {.figure-text}Table 2: Reason why students plagiarise {/.figure-text}
-> {.figure-text}Source: adapted from Bretag et al. 2020 {/.figure-text}
-
-> Table 3: Fluctuation in imports 2010 to 2020  
-> Source: adapted from Mitchelton 2018; ABS 2019; DFAT 2020
-
-#### Tables (reproduced from published material)
-
-If you are using a table or graph that has been published elsewhere, acknowledge the source and provide the same details you would for quoted information.
-
-##### Rule
-
-> {.figure-text}Figure number: Title of table {/.figure-text}
-> {.figure-text}Source: Publishing details of where the information was sourced {/.figure-text}
-
-##### Examples
-
-> {.figure-text}Table 4: Prison demographics in Australia {/.figure-text}
-> {.figure-text}Source: AIHW 2018:1 {/.figure-text}
-
-> {.figure-text}Figure 10: Buy now, pay later payments in Australia {/.figure-text}
-> {.figure-text}Source: Fisher, Holland and West 2021:61 {/.figure-text}
-
-#### In-text references - examples
-
-If you use a table, graph or diagram, refer to the table or figure number when you discuss it.
-
-> Bretag et al. (2020) identified a number of factors that contributed to plagiarism as listed in Table 2.
-
-> Fluctuations in the imports over the last decade are represented in Table 3.
-
-> Table 4 highlights current prison demographics in Australia, based on data compiled by AIHW (2018).
-
-#### Reference list entry
-
-In your reference list, reference tables and diagrams in accordance with the source they appear in. For example, if the table or diagram appears in a book or journal article, you reference the book or journal article. Please refer to the relevant section(s) within this guide for how to reference the various sources.
-
-##### Examples
-
-> IAHW (Australian Institute of Health and Welfare) (2018) '5.7 Prisoners', *Australia's health 2018*, Australia's health series no. 1, catalogue number AUS 221, IAHW, Australian Government, accessed 13 December 2021. https<nolink>://www.aihw.gov.au/getmedia/0f15de30-8575-4e80-ac9d-5560633635e0/aihw-aus-221-chapter-5-7.pdf.aspx
  
-> Fisher C, Holland C and West T (18 March 2021) 'Developments in the buy now, pay later market', *Bulletin*, RBA, accessed 13 December 2021. https<nolink>://www.rba.gov.au/publications/bulletin/2021/mar/ developments-in-the-buy-now-pay-later-market.html
+> {.figure-text}Figure 1: Drawing of a car created by the author in AutoCAD in 2020. {/.figure-text}
+
+> {.figure-text}Figure 2: Author’s initial sketch of a floral summer dress for Melbourne Fashion Week 2022. {/.figure-text}
+
+#### For an artwork or image you reproduced from other sources
+
+Include in the reference list the **full reference** of the source you used. Please refer to the relevant section within this guide for how to reference various sources.
+
+##### Rule (artwork or image created by the source it appears in)
+
+Cite the **name of the source’s creator** in both the caption and its corresponding reference list entry.
+
+> {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name/Organisation Year of creation/publication. {/.figure-text}
+
+##### Examples
+ 
+> {.figure-text}Figure 1: A diagram of the lateral nasal cavity. Source: Primal Pictures n.d. {/.figure-text}
+
+> {.figure-text}Figure 2: A screenshot of the Sephora homepage. Source: Sephora 2023. {/.figure-text}
+
+> {.figure-text}Figure 3: A photograph of the partial collapse of the Ronan Point building, UK, in 1968. Source: Allan 2022. {/.figure-text}
+
+> {.figure-text}Figure 4: A map of Geelong, 2021. Source: Melway 2021. {/.figure-text}
+
+> {.figure-text}Figure 5: A photograph of senior knowledge holders having interviews with Ngukurr Yangbala Rangers at Ngudjuli Billabong (late dry season, Nov 2017). Source: Russell and Ens 2020. {/.figure-text}
+
+> {.figure-text}Figure 6: Histology images of various thyroid cancers and tumours. Source: Newbold and Harmer 2021. {/.figure-text}
+
+##### Rule (artwork or image has its own creator -- not created by the source it appears in)
+
+Cite the **name of the artwork/image’s creator** in both the caption and its corresponding reference list entry.
+
+> {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name Year of creation. {/.figure-text}
+
+##### Examples
+ 
+> {.figure-text}Figure 1: An abstract expressionist painting on canvas using various mediums such as oil, enamel, aluminium paint and glass. Source: Pollock 1952. {/.figure-text}
+
+> {.figure-text}Figure 2: A night-time digital projection onto holo-gauze screen. Source: Dwyer 2021. {/.figure-text}
+
+> {.figure-text}Figure 3: A photo of the Guggenheim Museum Bilbao. Source: Mari (Maria Giovanna Colli) 2009. {/.figure-text}
+
+> {.figure-text}Figure 4: A photo of one of Chanel’s fashion designs from WGSN’s image library. Source: Chanel n.d. {/.figure-text}
+
+> {.figure-text}Figure 5: A silk tapestry depicting dragons and flowers, artist unknown. Source: Tapestry with dragons and flowers 11-12th century. {/.figure-text}
+
+> {.figure-text}Figure 6: A map of Melbourne and its suburbs, 1855. Source: Kearney 1855. {/.figure-text}
+
+> {.figure-text}Figure 7: A map of ANZ stadium at Sydney Olympic Park, NSW, 2021. Source: Aerometrex 2021. {/.figure-text}
+
+#### For a table or graph you created yourself using your own data
+
+In the caption, include the **figure number (for graphs)** or **table number (for tables)**. 
+
+Although tables and graphs you create using your own data are not usually included in the reference list, check with your teacher, lecturer or supervisor’s requirements.
+
+##### Rule
+
+> {.figure-text}Figure/Table figure/table number: Brief description of graph or table. {/.figure-text}
+
+##### Examples
+ 
+> {.figure-text}Figure 1: Differences in student enrolment numbers pre- and post-COVID-19, Australia. Based on the author’s own 2020-2022 study. {/.figure-text}
+
+> {.figure-text}Figure 2: Comparison of outcomes from categories A, B and C. Based on the author’s own 2018 experiment. {/.figure-text}
+
+> {.figure-text}Table 1: Water quality of various beaches in Victoria, 2015-2020. Based on the author’s own study. {/.figure-text}
+
+> {.figure-text}Table 2: Comparison of results from groups A, B and C. Based on the author’s own 2021 experiment. {/.figure-text}
+
+#### For a table or graph you created yourself using others’ data from published sources
+
+In the caption, include the **figure number (for graphs)** or **table number (for tables)**.
+
+If your table or graph includes published data from **more than one source**, you must cite ALL sources you used to create your table or graph.
+
+Include in the reference list the **full reference** of the source/s you used. Please refer to the relevant section within this guide for how to reference various sources.
+
+##### Rule
+
+> {.figure-text}Figure/Table figure/table number: Brief description of graph or table. Source: adapted from [Author’s Family Name/Organisation Year of publication]. {/.figure-text}
+
+##### Examples
+ 
+> {.figure-text}Figure 1: Top five overseas countries of birth in the 2021 Australian census, by population count. Source: adapted from ABS 2022. {/.figure-text}
+
+> {.figure-text}Figure 2: Chemical composition (%) by weight of an aircraft's engine blade material. Source: adapted from García-Martínez et al. 2023. {/.figure-text}
+
+> {.figure-text}Table 1: Average forecast unemployment rate in Australia, February 2012- February 2022. Source: adapted from RBA n.d {/.figure-text}
+
+> {.figure-text}Table 2: Total number of Skills for Education and Employment (SEE) providers in Australia, by state or territory. Source: adapted from DEWR 2023. {/.figure-text}
+
+> {.figure-text}Table 3: Australian industry earnings and share, 2019-2020. Source: adapted from ABS 2021; DFAT 2021. {/.figure-text}
+
+#### For a table or graph you reproduced from published sources
+
+In the caption, include the **figure number (for graphs)** or **table number (for tables)**.
+
+Include in the reference list the **full reference** of the source you used. Please refer to the relevant section within this guide for how to reference various sources.
+
+##### Rule
+
+> {.figure-text}Figure/Table figure/table number: Brief description of table or graph. Source: Author’s Family Name/Organisation Year of publication. {/.figure-text}
+
+##### Examples
+ 
+> {.figure-text}Figure 1: Number of students with disability and enrolment in primary and junior schools in China, 2015-2017. Source: Fu 2022. {/.figure-text}
+
+> {.figure-text}Figure 2: Yearly rainfall (mm) in Australia, 1900-2022. Source: BOM n.d. {/.figure-text}
+
+> {.figure-text}Figure 3: Thermographs and temperature histogram of MW and MW-alkali pretreated industrial fruit biowaste. Source: Barrera et al. 2023. {/.figure-text}
+
+> {.figure-text}Table 1: Sources of Warlpiri, Yolngu and Pintupi legal orders for First Nations people. Source: Randazzo 2023. {/.figure-text}
+
+> {.figure-text}Table 2: Number of males and females experiencing homelessness in Australia, 2006-2021. Source: ABS 2023. {/.figure-text}
+
+> {.figure-text}Table 3: General Motors Company, 2023 capital market ratios. Source: MarketLine Limited 2023. {/.figure-text}
 
 ###### end-subtype-content
 
 ###### end-subtype-item
+
 
 
 ###### end-subtype
 
 ###### end-type-content
-
 
 
 
@@ -2890,7 +2947,7 @@ Authors are often organisations, departments or committees rather than individua
 
 For in-text citations in parentheses, use the commonly used abbreviated name form of 'ABS' rather than the full name of the 'Australian Bureau of Statistics'. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -2898,7 +2955,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'For both males and females, Australia has a higher life expectancy than similar countries such as New Zealand, the United Kingdom and the United States of America' (ABS 2021).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -2946,9 +3003,9 @@ As details will vary for government or organisation reports, try to extract as m
 
 Authors are often organisations, departments or committees rather than individuals.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'WHO' rather than 'World Health Organization'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -2956,7 +3013,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > This 'review provides an opportunity to reflect on the lessons that can be learned from the first five years of the TEQSA Act's operation' (DET 2016).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3016,9 +3073,9 @@ Authors are often organisations rather than individuals.
 
 Where there is no author, use the name of the company or organisation responsible for the report.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'NAB' rather than 'National Australia Bank'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'NAB' rather than 'National Australia Bank'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3028,7 +3085,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > The company claims that it aims to 'continuously improve waste performance with all our divisions striving to divert waste from landfill' (Wesfarmers Limited 2021).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3086,15 +3143,15 @@ In your reference list:
 
 Details will vary for data sets, so try to extract as much information as you can about authorship and publication information, etc.
 
-If available, include a reference point (e.g. figure number or table number) in the in-text reference.
+If available, include a reference point (e.g. figure number or table number) in the in-text citation.
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'RBA' rather than 'Reserve Bank of Australia'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'RBA' rather than 'Reserve Bank of Australia'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 When you copy or adapt specific data sets in the form of tables, charts or figures you must acknowledge them both in your writing and with a caption below the figure. Refer to the sections on table and figures for more information.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3148,7 +3205,7 @@ In your reference list:
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3156,7 +3213,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'For single or upper storey construction, the spacing of bracing elements, measured at right angles to elements, shall not exceed 9000 mm' (Standards Australia 2010:11).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3200,7 +3257,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3208,7 +3265,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 >The technologies used for the conversion of energy 'deserve thinner functional materials to allow optimum light into the interiors of interest' (Shanmugam, Shown and Sridhara 2021:1).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3257,7 +3314,7 @@ In your reference list:
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3265,7 +3322,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Khoo (2018:44) argues that 'the idea of service design challenges the aesthetics of interiors due to its focus on functionality and efficiency rather than creating a liveable and appealing environment'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3303,7 +3360,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3311,7 +3368,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Khoo (2018:44) argues that 'the idea of service design challenges the aesthetics of interiors due to its focus on functionality and efficiency rather than creating a liveable and appealing environment'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3349,7 +3406,7 @@ In your reference list:
 
 In hardcopy (print) format.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3357,7 +3414,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > Khoo (2018:44) argues that 'the idea of service design challenges the aesthetics of interiors due to its focus on functionality and efficiency rather than creating a liveable and appealing environment'.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3413,7 +3470,7 @@ Material from your course may include lecture notes, PowerPoint slides, course h
 
 **Note:** Some courses and lecturers might not accept lecture notes or course material as references in assignments / assessment. Check with your lecturer or teacher.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3421,7 +3478,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > The emphasis in week 3's lecture on the 'cultural and social background of employees as an important step in managing workplace diversity' (Tran 2022) led me to reflect on my own experiences in human resource management.
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3475,7 +3532,7 @@ Depending on the context, you might need to refer to specific sections, paragrap
 
 The units are written in lower case unless they begin a sentence. Units of an Act can be written in long or abbreviated form. Do not begin sentences with the abbreviated form.
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available) or pinpoint reference.
 
@@ -3483,7 +3540,7 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 > Section 55 of the *Competition and Consumer Act 2010* (Cth) sch 2 ('Australian Consumer Law') states that 'there is a guarantee that the goods are reasonably fit for any disclosed purpose, and for any purpose for which the supplier represents that they are reasonably fit'.
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3517,7 +3574,7 @@ In your reference list:
 
 Reference a **Bill** in the same manner as an **Act**, ensuring that the title and year are NOT italicised.
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available) or pinpoint reference.
 
@@ -3525,7 +3582,7 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 > It is acknowledged that '...' under the Mental Health and Wellbeing Bill 2022 (Vic).
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3555,13 +3612,13 @@ In your reference list:
 
 #### Legal Case
 
-##### In-text reference: Direct quotes
+##### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks). Include the location of the quote using a page number (if available). To specify a page number, use the word **at** rather than **p**, e.g. 'at 72'.
 
 > It was identified that '...' (*Beasley v Francis* (2008) 237 CLR 1 at 72).
 
-##### In-text reference: Paraphrasing
+##### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3611,7 +3668,7 @@ The *Australian Government Style Manual (AGSM)* does not provide information on 
 
 - Include the year that you submitted your previous work.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3619,7 +3676,7 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 > 'Risk taking behaviours align with certain personality traits or disorders' (Smith 2021:13).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3667,7 +3724,9 @@ If it is permissible to cite your previously submitted work, in your reference l
 
 ###### start-subtype-content
 
-Case studies are not a publication or reference type. They are a type of writing found in various sources such as books, journal articles, websites, etc. Reference the case study according to the rules for the source in which it is found.
+Case studies are not a publication or reference type. They are a type of writing found in various sources such as books, journal articles, websites, etc.
+
+The source that the case study appears in should be referenced. For example, if the case study appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
 
 ###### end-subtype-content
 
@@ -3681,11 +3740,11 @@ Case studies are not a publication or reference type. They are a type of writing
 
 ###### start-subtype-content
 
-**Face-to-face interviews** that you conduct yourself are considered personal communication and are therefore not included in the reference list.
+**Face-to-face interviews** that you conduct yourself are considered personal communication and are therefore **not** included in the reference list.
 
-**Published interviews** follow the same rules as the source that the published interview appears in. For example, if the interview appears in a television program or podcast, you reference the television program or podcast. Please refer to the relevant section(s) within this guide for how to reference the various sources.
+**Published interviews** The source that the published interview appears in should be referenced. For example, if the interview appears in a television program or podcast, you reference the television program or podcast. Please refer to the relevant section within this guide for how to reference various sources.
 
-The person cited in the in-text reference is treated as the author since they have primary responsibility for communicating the content you are referring to.
+The person cited in the in-text citation is treated as the author since they have primary responsibility for communicating the content you are referring to.
 
 #### Reference list entry
 
@@ -3707,11 +3766,11 @@ The person cited in the in-text reference is treated as the author since they ha
 
 The author can be an individual person or organisation.
 
-In your in-text references, include the author's name (individual or organisation), followed by publication year (e.g. 2021).
+In your in-text citation, include the author's name (individual or organisation), followed by publication year (e.g. 2021).
 
-If the author's name is an organisation, you can use the shortened name form for your in-text references in parentheses if the organisation uses it regularly and it has become commonly accepted, e.g. 'RBA' rather than 'Reserve Bank of Australia'. This saves you space. The full name is provided in the reference list.
+If the author's name is an organisation, you can use the shortened name form in parentheses for your in-text citation if the organisation uses it regularly and it has become commonly accepted, e.g. 'RBA' rather than 'Reserve Bank of Australia'. This saves you space. The full name is provided in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3721,7 +3780,7 @@ The example below comes from a source that does not have page numbers:
 
 > In a recent media statement, the Minister for Housing acknowledged that 'young people leaving state care are at much higher risk of homelessness and unemployment' (Office of the Premier of Victoria 2021).
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3763,13 +3822,13 @@ In your reference list:
 
 ###### start-subtype-content
 
-Personal communication, such as face-to-face interviews, conversations, telephone calls, letters or emails, is only cited an in-text reference.
+Personal communication, such as face-to-face interviews, conversations, telephone calls, letters or emails, is only cited an **in-text citation**.
 
-Information about personal communication must be included in the in-text reference. Include the type of personal communication (for example, personal conversation, email, interview, telephone conversation) and the date in a date month year format.
+In the in-text citation, include information about the personal communication, such as the format of personal communication (e.g. personal in-person conversation, email, verbal or written interview, telephone conversation, etc.) and the date in the format of Day Month Year.
 
 Personal communication is not published and therefore unavailable for verification. For this reason, it is **not** included in the reference list.
 
-#### In-text reference: Direct quotes
+#### In-text citation: Direct quotes
 
 A direct quote is when you are using the exact words of the work. Put direct quotes between single inverted commas (quotation marks), and add a page number (if available).
 
@@ -3781,7 +3840,7 @@ The examples below come from sources that do not have page numbers:
 
 > Rowlands (personal communication, 20 February 2022) stated...
 
-#### In-text reference: Paraphrasing
+#### In-text citation: Paraphrasing
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
@@ -3789,7 +3848,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 #### Reference list entry
 
-Since personal communication is not published and therefore unavailable for verification, it is not included in reference lists.
+Since personal communication is not published and therefore unavailable for verification, it is **not** included in reference lists.
 
 ###### end-subtype-content
 
@@ -3803,9 +3862,9 @@ Since personal communication is not published and therefore unavailable for veri
 
 ###### start-subtype-content
 
-For sources you read in a language other than English, follow the referencing requirements for the type of source you used (e.g. newspaper article, website, book, journal article).
+For work you read in a language other than English, the source that the non-English work appears in should be referenced. For example, if the non-English work appears in a book, newspaper article, webpage or journal article, you reference the book, newspaper article, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
 
-List the title in the original language. If the original language uses a different alphabet or script from English, use the anglicised spelling.
+List the title in the **original language**. If the original language uses a different alphabet or script from English, use the anglicised spelling.
 
 Place the English translation in parenthesis after the original title.
 
@@ -3938,7 +3997,7 @@ For in-text citations, use the creator of the AI tool as the author (i.e., OpenA
 > Example 2: (Google 2023)
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
-##### Reference list entry example - shareable URL generated by the AI tool:
+##### Reference list entry example -- shareable URL generated by the AI tool:
 **Rule**
 > Author (Year) _Title of software program_ (Version) [Format], Publisher*, accessed Day Month Year. URL
 
@@ -3948,7 +4007,7 @@ For in-text citations, use the creator of the AI tool as the author (i.e., OpenA
 > OpenAI (2023) _ChatGPT_ (May 24 version) [Large language model], accessed 26 June 2023. https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
-##### Reference list entry example - non-shareable AI-generated content:
+##### Reference list entry example -- non-shareable AI-generated content:
 **Rule**
 > Author (Year) _Title of software program_ (Version) [Format], Publisher*, accessed Day Month Year. Appendix.
 
@@ -3980,12 +4039,11 @@ Include the image in your work with a caption that explains that the work was ge
 **Caption**
 
 **Rule**
-> Figure number: Description or explanation
+> Figure number: Description or explanation.
 
 **Example**
-> Figure 1: Image generated using OpenAI's DALL-E 2 from the prompt a brown owl in a forest.
 > ![A brown owl in a forest](images/Firefly-a-brown-owl-in-a-forest-16158.jpg)<br>
-
+> Figure 1: Image generated using OpenAI's DALL-E 2 from the prompt: a brown owl in a forest.<br>
 
 ###### end-subtype-content
 
