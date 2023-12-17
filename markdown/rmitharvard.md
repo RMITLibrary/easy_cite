@@ -2496,8 +2496,8 @@ RMIT Harvard includes photographs (including photographs of artwork or images), 
 
 When citing artworks or images, you need to acknowledge them in three places:
 
-- Within the written body of your work, as you would for an in-text citation.
-- As a figure number within the caption. See the section on **Captions for figures and tables**.
+- As an in-text citation within the written body of your work.
+- As a figure number within the caption. See the section on **[Captions for figures and tables]**(https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-47).
 - As an entry in your reference list.
 
 Your lecturer, teacher or supervisor may have specific requirements for referencing artworks or images. Follow any directions they give, even if they differ from this guide.
@@ -2514,7 +2514,7 @@ Italicise the titles of artworks and images, and use sentence case.
 
 If the creator has made typographic decisions for the title so it appears in a certain way, use any capitalisation, italicisation, numbers or punctuation in **exactly the same way** the creator did, e.g. *flight research #6*.
 
-If the creator is **unknown**, cite the title of the artwork or image in italics and the year of creation instead.
+If the creator is **unknown**, cite the title of the artwork or image in italics and the year of creation instead. Do **not** put "Unknown creator/artist". e.g. (*Tapestry with dragons and flowers* 11th-12th century).
 
 If **no** publication or creation year is supplied, write **n.d.** (meaning 'no date') in place of year. If the year can be reliably estimated or inferred from the text, write **c.** (meaning 'circa' or approximately) followed by the year, e.g. c. 1900.
 
@@ -2544,7 +2544,7 @@ Do **not** refer to an artwork or image as " figure above" or " figure below" or
 
 > As depicted in Figure 3, *Tapestry with dragons and flowers* (11th-12th century) suggests...
 
-> Figure 3 depicts...(*Tapestry with dragons and flowers* 11th-12th century)
+> Figure 3 depicts...(*Tapestry with dragons and flowers* 11th-12th century).
 
 > As shown by Figure 9, *Melbourne and its suburbs: map 1*...(Kearney 1855).
 
@@ -2654,8 +2654,8 @@ In your reference list:
 
 When citing tables and graphs, you need to acknowledge them in three places:
 
-- Within the written body of your work, as you would for an in-text citation.
-- As a table number (for tables) or figure number (for graphs) within the caption. See the section on **Captions for figures and tables**.
+- As an in-text citation within the written body of your work.
+- As a table number (for tables) or figure number (for graphs) within the caption. See the section on **[Captions for figures and tables]**(https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-47).
 - As an entry in your reference list.
 
 Your lecturer, teacher or supervisor may have specific requirements for referencing tables or graphs. Follow any directions they give, even if they differ from this guide.
@@ -2770,7 +2770,7 @@ In your reference list:
 
 #### General rules for captions
 
-Please see the sections on **Artwork and images** and **Tables and graphs** for how to create in-text citations and reference list entries for artwork, images, tables and graphs. This section discusses how to create captions for these sources.
+Please see the sections on **[Artwork and images]**(https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-45) and **[Tables and graphs]**(https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-46) for how to create in-text citations and reference list entries for artwork, images, tables and graphs. This section discusses how to create captions for these sources.
 
 Captions are used to provide a description and attribution of the artworks, images, tables or graphs you use in your work. A caption is usually placed below the artwork, image, table or graph.
 
@@ -2842,7 +2842,7 @@ Cite the **name of the artwork/image’s creator** in both the caption and its c
 
 > {.figure-text}Figure 4: A photo of one of Chanel’s fashion designs from WGSN’s image library. Source: Chanel n.d. {/.figure-text}
 
-> {.figure-text}Figure 5: A silk tapestry depicting dragons and flowers, artist unknown. Source: Tapestry with dragons and flowers 11-12th century. {/.figure-text}
+> {.figure-text}Figure 5: A silk tapestry depicting dragons and flowers. Source: *Tapestry with dragons and flowers* 11-12th century. {/.figure-text}
 
 > {.figure-text}Figure 6: A map of Melbourne and its suburbs, 1855. Source: Kearney 1855. {/.figure-text}
 
