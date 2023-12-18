@@ -2804,9 +2804,9 @@ For the **Source** within the caption:
 
 ##### Rule (artwork or image created by the source it appears in)
 
-In the caption, cite the **author of the source** (as the creator) and the **year** that the source was created/published.
+In the caption, cite the **author of the source** (as the creator) and the **year** that the source was published.
 
-> {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name/Organisation Year of creation/publication. {/.figure-text}
+> {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name/Organisation Year of publication. {/.figure-text}
 
 ##### Examples
  
@@ -2846,7 +2846,7 @@ In the caption, cite the **creator of the artwork or image** and the **year** th
 
 #### For a table or graph you created yourself using your own data
 
-In the caption, include the **figure number (for graphs)** or **table number (for tables)**. 
+In the caption, include the **figure number (for graphs)** or **table number (for tables)**.
 
 ##### Rule
 
@@ -2878,7 +2878,7 @@ If your table or graph includes published data from **more than one** source, yo
 
 > {.figure-text}Figure 2: Chemical composition (%) by weight of an aircraft's engine blade material. Source: adapted from García-Martínez et al. 2023. {/.figure-text}
 
-> {.figure-text}Table 1: Average forecast unemployment rate in Australia, February 2012- February 2022. Source: adapted from RBA n.d {/.figure-text}
+> {.figure-text}Table 1: Average forecast unemployment rate in Australia, February 2012- February 2022. Source: adapted from RBA n.d. {/.figure-text}
 
 > {.figure-text}Table 2: Total number of Skills for Education and Employment (SEE) providers in Australia, by state or territory. Source: adapted from DEWR 2023. {/.figure-text}
 
@@ -2886,7 +2886,11 @@ If your table or graph includes published data from **more than one** source, yo
 
 #### For a table or graph you reproduced from published sources
 
-In the caption, include the **figure number (for graphs)** or **table number (for tables)**.
+In the caption:
+
+- Include the **figure number (for graphs)** or **table number (for tables)**.
+
+- Cite the **author of the source** and the **year** that the source was published.
 
 ##### Rule
 
