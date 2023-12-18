@@ -2497,7 +2497,7 @@ RMIT Harvard includes photographs (including photographs of artwork or images), 
 When citing artworks or images, you need to acknowledge them in three places:
 
 - As an in-text citation within the written body of your work.
-- As a figure number within the caption. See the section on **[Captions for figures and tables]**(https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-47).
+- As a figure number within the caption. See the section on **[Captions for figures and tables](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-47)**.
 - As an entry in your reference list.
 
 Your lecturer, teacher or supervisor may have specific requirements for referencing artworks or images. Follow any directions they give, even if they differ from this guide.
@@ -2508,7 +2508,7 @@ You may also **reproduce an artwork or image from a source** rather than create 
 
 #### In-text citation
 
-When you reproduce an artwork or image from a source, if the creator of the artwork or image is **different** to the author of the source, cite the **creator as the author** and the **year** that the artwork or image has been **created**.
+When you reproduce an artwork or image from a source, if the **creator of the artwork or image** is DIFFERENT to the **author of the source** that the artwork or image is in, cite the **creator's name** and the **year** that the artwork or image has been **created**.
 
 Italicise the titles of artworks and images, and use sentence case.
 
@@ -2560,9 +2560,9 @@ Although artwork or images you create yourself are not usually included in the r
 
 In your reference list:
 
-- When you reproduce an artwork or image from a source, if the creator of the artwork or image is **different** to the author of the source, include in the reference:
+- When you reproduce an artwork or image from a source, if the **creator of the artwork or image** is DIFFERENT to the **author of the source** that the artwork or image is in, include in the reference:
 
-     - the **creator as the author** and the **year** that the artwork or image has been **created**, and
+     - the **creator's name** as the author and the **year** that the artwork or image has been **created**, and
 
      - the details of the source that the artwork or image appears in. For example, if the artwork or image appears in a book, webpage or journal article, include the details of the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
 
@@ -2655,7 +2655,7 @@ In your reference list:
 When citing tables and graphs, you need to acknowledge them in three places:
 
 - As an in-text citation within the written body of your work.
-- As a table number (for tables) or figure number (for graphs) within the caption. See the section on **[Captions for figures and tables]**(https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-47).
+- As a table number (for tables) or figure number (for graphs) within the caption. See the section on **[Captions for figures and tables](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-47)**.
 - As an entry in your reference list.
 
 Your lecturer, teacher or supervisor may have specific requirements for referencing tables or graphs. Follow any directions they give, even if they differ from this guide.
@@ -2726,27 +2726,27 @@ Although tables or graphs you create yourself using your own data are not usuall
 
 In your reference list:
 
-> When you use other people’s data from published sources to create your own table or graph, the source that the data appears in should be referenced.
+- When you use other people’s data from published sources to create your own table or graph, the source that the data appears in should be referenced.
 
-> For example, if the data appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
+- For example, if the data appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
 
-> If your table or graph includes data from **more than one** source, you must separately reference ALL sources you used to create your table or graph.
+- If your table or graph includes data from **more than one** source, you must separately reference ALL sources you used to create your table or graph.
 
 **For a table or graph you reproduced from published sources**
 
 In your reference list:
 
-> Tables or graphs that you reproduced from a published source should be referenced as the source they appear in. 
+- Tables or graphs that you reproduced from a published source should be referenced as the source they appear in. 
 
-> For example, if the table or graph appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
+- For example, if the table or graph appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
 
 ##### Examples
 
-> ABS (Australian Bureau of Statistics) (2023) *Estimating homelessness: census 2021*, ABS website, accessed 15 September 2023. https://www.abs.gov.au/statistics/people/housing/estimating-homelessness-census/2021
+> ABS (Australian Bureau of Statistics) (2023) *Estimating homelessness: census 2021*, ABS website, accessed 15 September 2023. https<nolink>://www.abs.gov.au/statistics/people/housing/estimating-homelessness-census/2021
 
 > Barrera C, Fito PJ, Castro-Giraldez M, Betoret N and Segui L (2023) 'Microwave application to food and food waste processing', in Chhikara N, Panghal A and Chaudhary G (eds) *Novel technologies in food science*, Scrivener Publishing, Beverly, Massachusetts.
 
-> DEWR (Department of Employment and Workplace Relations, Australia) (2023) *Skills for Education and Employment (SEE) training sites* [data set], data.gov.au, accessed 15 September 2023. https://data.gov.au/data/dataset/skills-for-education-and-employment-see-training-sites
+> DEWR (Department of Employment and Workplace Relations, Australia) (2023) *Skills for Education and Employment (SEE) training sites* [data set], data.gov.au, accessed 15 September 2023. https<nolink>://data.gov.au/data/dataset/skills-for-education-and-employment-see-training-sites
 
 > Edvardsson D, Watt E and Pearce F (2017) 'Patient experiences of caring and person-centredness are associated with perceived nursing care quality', *Journal of Advanced Nursing*, 73(1):217-227, doi:10.1111/jan.13105.
 
@@ -2770,7 +2770,7 @@ In your reference list:
 
 #### General rules for captions
 
-Please see the sections on **[Artwork and images]**(https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-45) and **[Tables and graphs]**(https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-46) for how to create in-text citations and reference list entries for artwork, images, tables and graphs. This section discusses how to create captions for these sources.
+Please see the sections on **[Artwork and images](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-45)** and **[Tables and graphs](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-46)** for how to create in-text citations and reference list entries for artwork, images, tables and graphs. This section discusses how to create captions for these sources.
 
 Captions are used to provide a description and attribution of the artworks, images, tables or graphs you use in your work. A caption is usually placed below the artwork, image, table or graph.
 
@@ -2790,8 +2790,6 @@ For the **Source** within the caption:
 
 #### For an artwork or image you created yourself
 
-Although artwork or images you create yourself are not usually included in the reference list, check with your lecturer or supervisor’s requirements.
-
 ##### Rule
 
 > {.figure-text}Figure figure number: Brief description of artwork or image. {/.figure-text}
@@ -2804,11 +2802,9 @@ Although artwork or images you create yourself are not usually included in the r
 
 #### For an artwork or image you reproduced from other sources
 
-Include in the reference list the **full reference** of the source you used. Please refer to the relevant section within this guide for how to reference various sources.
-
 ##### Rule (artwork or image created by the source it appears in)
 
-Cite the **name of the source’s creator** in both the caption and its corresponding reference list entry.
+In the caption, cite the **author of the source** (as the creator) and the **year** that the source was created/published.
 
 > {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name/Organisation Year of creation/publication. {/.figure-text}
 
@@ -2828,7 +2824,7 @@ Cite the **name of the source’s creator** in both the caption and its correspo
 
 ##### Rule (artwork or image has its own creator -- not created by the source it appears in)
 
-Cite the **name of the artwork/image’s creator** in both the caption and its corresponding reference list entry.
+In the caption, cite the **creator of the artwork or image** and the **year** that the source was created.
 
 > {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name Year of creation. {/.figure-text}
 
@@ -2852,8 +2848,6 @@ Cite the **name of the artwork/image’s creator** in both the caption and its c
 
 In the caption, include the **figure number (for graphs)** or **table number (for tables)**. 
 
-Although tables and graphs you create using your own data are not usually included in the reference list, check with your teacher, lecturer or supervisor’s requirements.
-
 ##### Rule
 
 > {.figure-text}Figure/Table figure/table number: Brief description of graph or table. {/.figure-text}
@@ -2872,9 +2866,7 @@ Although tables and graphs you create using your own data are not usually includ
 
 In the caption, include the **figure number (for graphs)** or **table number (for tables)**.
 
-If your table or graph includes published data from **more than one source**, you must cite ALL sources you used to create your table or graph.
-
-Include in the reference list the **full reference** of the source/s you used. Please refer to the relevant section within this guide for how to reference various sources.
+If your table or graph includes published data from **more than one** source, you must cite in your caption ALL sources you used (i.e. adapted) to create your table or graph. Separate each source used with a semicolon (;) followed by a space -- see *Table 3* example below for an illustration.
 
 ##### Rule
 
@@ -2895,8 +2887,6 @@ Include in the reference list the **full reference** of the source/s you used. P
 #### For a table or graph you reproduced from published sources
 
 In the caption, include the **figure number (for graphs)** or **table number (for tables)**.
-
-Include in the reference list the **full reference** of the source you used. Please refer to the relevant section within this guide for how to reference various sources.
 
 ##### Rule
 
