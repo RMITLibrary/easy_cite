@@ -2824,7 +2824,7 @@ In the caption, cite the **author of the source** (as the creator) and the **yea
 
 ##### Rule (artwork or image has its own creator -- not created by the source it appears in)
 
-In the caption, cite the **creator of the artwork or image** and the **year** that the source was created.
+In the caption, cite the **creator of the artwork or image** and the **year** that the artwork or image was created.
 
 > {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name Year of creation. {/.figure-text}
 
