@@ -2670,9 +2670,9 @@ If no publication year is supplied, write **n.d.** (meaning 'no date') in place 
 
 #### In-text citation
 
-A **table number** is used to identify each table. These tables are numbered sequentially in the order in which they appear.
+A **table number** is used to identify **each table**. These tables are numbered sequentially in the order in which they appear.
 
-A **figure number** is used to identify each graph. These figures are numbered sequentially in the order in which they appear.
+A **figure number** is used to identify **each graph**. These figures are numbered sequentially in the order in which they appear.
 
 When you discuss a table or graph, refer to its assigned table/figure number within your writing. The table/figure number can be within the sentence or in parentheses, for example: “As seen in Table 1/Figure 1...”, or “As seen in... (see Table 1/Figure 1)”.
 
