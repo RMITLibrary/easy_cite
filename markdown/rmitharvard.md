@@ -2508,7 +2508,7 @@ You may also **reproduce an artwork or image from a source** rather than create 
 
 #### In-text citation
 
-When you reproduce an artwork or image from a source, if the **creator of the artwork or image** is DIFFERENT to the **author of the source** that the artwork or image is in, cite the **creator's name** and the **year** that the artwork or image has been **created**.
+When you reproduce an artwork or image from a source, if the **creator of the artwork or image** is DIFFERENT to the **author of the source** that the artwork or image appears in, cite the **creator of the artwork or image** and the **year** that the artwork or image was **created**.
 
 Italicise the titles of artworks and images, and use sentence case.
 
@@ -2560,9 +2560,9 @@ Although artwork or images you create yourself are not usually included in the r
 
 In your reference list:
 
-- When you reproduce an artwork or image from a source, if the **creator of the artwork or image** is DIFFERENT to the **author of the source** that the artwork or image is in, include in the reference:
+- When you reproduce an artwork or image from a source, if the **creator of the artwork or image** is DIFFERENT to the **author of the source** that the artwork or image appears in, include in the reference:
 
-     - the **creator's name** as the author and the **year** that the artwork or image has been **created**, and
+     - the **creator of the artwork or image** and the **year** that the artwork or image was **created**, and 
 
      - the details of the source that the artwork or image appears in. For example, if the artwork or image appears in a book, webpage or journal article, include the details of the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
 
