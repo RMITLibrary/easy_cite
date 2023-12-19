@@ -2497,7 +2497,7 @@ RMIT Harvard includes photographs (including photographs of artwork or images), 
 When citing artworks or images, you need to acknowledge them in three places:
 
 - As an in-text citation within the written body of your work.
-- As a figure number within the caption. See the section on **[Captions for figures and tables](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-47)**.
+- As a figure number within the caption. See the section on **Captions for figures and tables** on this page.
 - As an entry in your reference list.
 
 Your lecturer, teacher or supervisor may have specific requirements for referencing artworks or images. Follow any directions they give, even if they differ from this guide.
@@ -2655,7 +2655,7 @@ In your reference list:
 When citing tables and graphs, you need to acknowledge them in three places:
 
 - As an in-text citation within the written body of your work.
-- As a table number (for tables) or figure number (for graphs) within the caption. See the section on **[Captions for figures and tables](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-47)**.
+- As a table number (for tables) or figure number (for graphs) within the caption. See the section on **Captions for figures and tables** on this page.
 - As an entry in your reference list.
 
 Your lecturer, teacher or supervisor may have specific requirements for referencing tables or graphs. Follow any directions they give, even if they differ from this guide.
@@ -2770,7 +2770,7 @@ In your reference list:
 
 #### General rules for captions
 
-Please see the sections on **[Artwork and images](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-45)** and **[Tables and graphs](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-8#subtype-46)** for how to create in-text citations and reference list entries for artwork, images, tables and graphs. This section discusses how to create captions for these sources.
+Please see the sections on **Artwork and images** and **Tables and graphs** on this page, for how to create in-text citations and reference list entries for artwork, images, tables and graphs. This section discusses how to create captions for these sources.
 
 Captions are used to provide a description and attribution of the artworks, images, tables or graphs you use in your work. A caption is usually placed below the artwork, image, table or graph.
 
