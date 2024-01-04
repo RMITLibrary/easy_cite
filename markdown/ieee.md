@@ -60,13 +60,6 @@
 
 The IEEE (Institute of Electrical and Electronics Engineers) citation style is a **numbered** style where references are numbered [1], [2], [3] in-text and so on in the order of appearance in the body of the document. A **Reference List** at the end of the work provides full details of all references cited in-text. The references are ordered as they appear in the in-text references (in order of citation, not in alphabetical order). You need to follow this style when acknowledging your information sources.
 
-##### Additional resources
-
-Download the IEEE referencing guide (PDF, 685 KB, 43 pages) from the IEEE Author Center:
- 
-<a href="http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">Referencing guides for printing list</a> (opens in a new tab).
-
-
 ###### end-subtype-content
 
 ###### end-subtype-item
@@ -84,13 +77,11 @@ Download the IEEE referencing guide (PDF, 685 KB, 43 pages) from the IEEE Author
 - Numbered references used in-text start at [1] and continue in **ascending** order within the body of the work.
 Once a source has been cited and allocated a reference number, the same reference number must be used throughout the body of a work if it’s referred to multiple times.
 
-- List all multiple citations in ascending numerical order e.g. [1], [5], [6]-[8] or as [1,5], [6-8].
+- List all multiple citations in ascending numerical order enclosing each citation number in brackets, e.g. [1], [5], [6], [7], [11] or as [1], [2], [3], [4], [5]. Do not use an en dash.
 
 - Numbered citations may be treated grammatically as footnote numbers in the text e.g. As demonstrated by Smith [5] . . . OR, For further details, see [1], [5], [7].
 
 - Numbered citations may also be treated as nouns in the text e.g. According to [7] . . . OR, As mentioned in [4], [5], [6]-[8].
-
-- Use a dash between source range eg. [6]-[8] and include the dash outside of the brackets.  
 
 - It is **not** necessary to mention either the author(s) or dates of any work cited in-text.
 
@@ -172,13 +163,8 @@ If citing the same reference within the body of the text, then use the same cita
 
 - [1, Ch. 8] referring to a chapter
 
-- [1, Fig. 31] a figure
-
-- [1, Sec. 6.5] a section
-
 - [1, Tab. 12] a table
 
-- [1, eq. (7)] an equation
 
 ###### end-subtype-content
 
@@ -192,19 +178,14 @@ If citing the same reference within the body of the text, then use the same cita
 
 ###### start-subtype-content
 
-If listing multiple citations within a sentence of text, list each citation number separately, or by inserting a **comma** or **dash** between each number.
+If listing multiple citations within a sentence of text, list each citation number separately within square brackets and with a comma between each citation. 
 
-List all **multiple citations** in ascending numerical order e.g. [1], [6], [9]. Or [5-8].
+List all **multiple citations** in ascending numerical order e.g. [1], [6], [9]. Or [5], [6], [7], [8].
 
 > In [1], [4], [8] it was noted that . . .
 
-> It is suggested by [6]-[9] that . . .
+> It is suggested by [6], [7], [8], [9] that . . .
 
-It is also acceptable for multiple citations to be listed the following way in-text:
-
-> Recent studies [1, 2, 5] have noted that . . .
-
-> Specific objectives [4-7] indicate that . . .
 
 ###### end-subtype-content
 
@@ -238,33 +219,17 @@ If the original source cannot be located, then do **not** cite it.
 
 ###### start-subtype-content
 
-#### Month abbreviations
+#### Abbreviations
 
 When citing journals, patents and websites, use the following abbreviations for months:
 
-> Jan., Feb., Mar., Apr., May, Jun., Jul., Aug., Sept., Oct., Nov., and Dec. (*note that the month of May appears in full and does not require a full stop*).
+> Jan., Feb., Mar., Apr., May, Jun., July, Aug., Sept., Oct., Nov., and Dec. (*note that the month of May appears in full and does not require a full stop*).
 
 Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for a quarterly issue e.g. Jun–Aug. 2015.
 
-#### Word abbreviations
+#### All other abbreviations
 
-Standard IEEE words when used in a reference should be abbreviated. See the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
-
-#### Journal title abbreviations
-
-If referencing any IEEE journal titles, then refer to the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
-
-#### Magazine title abbreviations
-
-When referencing IEEE magazine titles, then refer to the **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
-
-#### Conference proceeding abbreviations
-
-When citing conference proceedings, the common rule is to list the author(s), title, name and location (if provided) of the conference and use any standard abbreviations where necessary. For further details, refer to the **Conferences and Conference Proceedings** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) p. 6.
-
-#### Publisher abbreviations
-
-For a list of some publisher abbreviations refer to the **List of Publishers** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 24–40.
+For all abbreviations, including for words, journal titles, magazine titles, conferencing proceedings, and publishers, see Section IV for **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
 
 #### Acronyms in-text
 
@@ -299,55 +264,28 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 
 - Use a reference list to include all of the publications you have acknowledged at the end of your work, and use the heading **References** or **Reference List** on a new page.
 
-- The reference list is arranged in an ascending numbered sequence such as [1], [2], [3] and so on, and MUST be presented in the order in which they appear in the body of the text.
+- The reference list is arranged in an ascending numbered sequence such as [1], [2], [3] and so on, and must be presented in the order in which they appear in the body of the text.
 
-- Reference list numbers should be positioned flush against the left page margin, and the citation details MUST appear on the same line, and be indented.
+- Reference list numbers should be positioned flush against the left page margin, and the citation details must appear on the same line, and be indented.
 
 - IEEE requires some words, months, publisher names, conference proceedings and journal titles to be abbreviated where appropriate – see **Abbreviations** section for further details.
 
 - **Publisher names** in the reference list can be abbreviated or an acronym can be used e.g. WHO may be used instead of World Health Organization.
 
-- Do NOT abbreviate or use acronyms for **corporate/organisation author names** e.g. CSIRO should be written out as Commonwealth Scientific and Industrial Research Organisation in the reference list.
+- Do not abbreviate or use acronyms for **corporate/organisation author names** e.g. CSIRO should be written out as Commonwealth Scientific and Industrial Research Organisation in the reference list.
 
 - Capitalise and italicise titles where appropriate.
 
 - Do not combine references – only one reference per number. See **Example of a reference list** section for formatting details.
 
-- Include a retrieval statement in the form of a URL (where possible) if the reference is taken from an electronic or online source, or alternatively, where stated in the rules, a database name. There is **no** full stop after a URL, and the URL should not be hyperlinked.
+- Include a retrieval statement in the form of a DOI or URL (where possible) if the reference is taken from an electronic or online source, or alternatively, where stated in the rules, a database name. The DOI can be added to the reference list using the following formats: doi:xx.xxxxxxxxxxxx or http<nolink>://doi:xx.xxxxxxxxxxxxx. There is **no** full stop after a URL, but there is after a DOI. Neither the DOI or URL should be hyperlinked.
 
 - Take care when editing any references, as this may require careful renumbering of sources cited both in-text and in the reference list.
 
 - The Reference List is to be formatted using 1.5 line spacing and single paragraph spacing between each citation. For clarification see your lecturer.
+  
+- For the place of publication, add the city, and then include the state abbreviation (if applicable) and country name, followed by the publisher and year of publication. Cities in the USA need the city name, state abbreviation and country abbreviation.
 
-#### Digital object identifier (DOI)
-
-When citing electronic sources such as e-journal articles or e-books, you **must** include a digital object identifier (DOI) if stated. A DOI is a unique identifier that is assigned to certain electronic sources, and provides a persistent link to online content. 
-
-The DOI can be added to the reference list using the following formats: doi:xx.xxxxxxxxxxxx or http://doi:xx.xxxxxxxxxxxxx
-
-If a URL is available for that source that must also be included. 
-
-If a reference contains both a DOI or accessed date, as well as a URL, place the DOI or accessed date first and the URL at the end.
-
-If no DOI is assigned, include either the journal/database homepage URL if taken from a library database, or the full URL if taken from a source on the open web.
-
-*Note: A full stop should appear at the end of the DOI.*
-
-#### Place of publication
-
-For the place of publication, add the city, and then include the state abbreviation (if applicable) and country name, followed by the publisher and year of publication.
-
-Cities in the USA need the city name, state abbreviation and country abbreviation.
-
-> Boston, MA, USA: Cengage Learning, 2017.
-
-Cities in the UK need the city name and country abbreviation.
-
-> Oxford, U.K.: Newnes, 2012.
-
-Cities in other countries (outside the USA and UK) just need to include the city name and country.
-
-> Carlton South, Australia: Melbourne University Press, 1991.
 
 ###### end-subtype-content
 
@@ -370,25 +308,25 @@ Cities in other countries (outside the USA and UK) just need to include the city
 
 [2] &nbsp;&nbsp; H. F. Lodish *et al.*, *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012.
 
-[3] &nbsp;&nbsp; A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del.*, vol. 31, no. 2, pp. 428-436, Apr. 2016.
+[3] &nbsp;&nbsp; A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del.*, vol. 31, no. 2, pp. 428-436, Apr. 2016, doi:10.1109/TPWRD.2015.2464098.
 
 [4] &nbsp;&nbsp; S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transportation Research Part D: Transport and Environment*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013.
 
 [5] &nbsp;&nbsp; K. A. Burke, “High energy density regenerative fuel cells systems for terrestrial applications,” *IEEE Aerosp. Syst.* Mag., vol. 14, no. 12, pp. 23-34, Dec. 1999.
 
-[6] &nbsp;&nbsp; B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Computational Intelligence and Communication Networks (CICN)*, Los Alamitos, CA, USA, pp. 1354-1357, doi: 10.1109/62.811091.
+[6] &nbsp;&nbsp; B. Lin, X. Tang, and X. Huang, "Research on fiber optic gyroscope adaptive filtering algorithm based on FPGA," in *Proc. 2015 Int. Conf. Comput. Intell. and Communication Networks (CICN)*, Jaipur, India, pp. 1354-1357, doi: 10.1109/62.811091.
 
-[7] &nbsp;&nbsp; Energy Networks Australia, "Judicial review of energy network regulatory decisions." Energy Networks Australia. https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ (accessed June 1, 2017).
+[7] &nbsp;&nbsp; Energy Networks Australia, "Judicial review of energy network regulatory decisions." Energy Networks Australia. Accessed: Feb. 1, 2017. [Online]. Available: https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions
 
-[8] &nbsp;&nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow
+[8] &nbsp;&nbsp; nottinghamscience, U.K. What is Nanotechnology? (Apr. 15, 2008). Accessed Feb. 22, 2018. [Online video]. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow
 
-[9] &nbsp;&nbsp; Y. Ren *et al.*, *Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7*, CSIRO Data Collection, 2017, http<nolink>://doi:10.4225/08/5913e0247881b.
+[9] &nbsp;&nbsp; Y. Ren et al., 2017. "Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7," CSIRO Data Collection, http<nolink>://doi:10.4225/08/5913e0247881b.
 
-[10] &nbsp; K. Deby, “Multinode temperature sensor,” Patent 2016102110, 2016. [Online]. Available: https<nolink>://www.austpat/189907465454.com
+[10] &nbsp; Multinode temperature sensor, by K.Deby. (2016, May 19). Patent 2016102110 [Online]. Available: https<nolink>://www.austpat/189907465454.com
 
-[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, 2011. [Online]. doi:<nolink>10.1002/9781119573784.ch18. Available: https<nolink>://www.saiglobal/ieee2743287647644
+[11] &nbsp; *IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems*, 1900.6, IEEE, New York, NY, USA, May 2011. [Online]. doi:<nolink>10.1002/9781119573784.ch18. Available: https<nolink>://www.saiglobal/ieee2743287647644
 
-[12] &nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: https<nolink>://researchrepository.rmit.edu.au/esploro/outputs/doctoral/A-model-formulation-approach-for-system/9921863821301341?institution=61RMIT_INST#file-0
+[12] &nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: https: <nolink>://researchrepository.rmit.edu.au/esploro/outputs/doctoral/A-model-formulation-approach-for-system/9921863821301341?institution=61RMIT_INST#file-0
 {/.ieee-refs}
 
 ###### end-subtype-content
