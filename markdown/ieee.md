@@ -219,7 +219,7 @@ If the original source cannot be located, then do **not** cite it.
 
 ###### start-subtype-content
 
-#### Abbreviations
+#### Abbreviations - Months
 
 When citing journals, patents and websites, use the following abbreviations for months:
 
@@ -370,9 +370,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing books make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. State (US only), Country: Publisher, Year of Publication.
+>Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. State (US only), Country: Publisher, Year of Publication.
+
+##### Example
 
 > {.ieee-refs}[2] &nbsp;&nbsp; J. L. Blackburn, *Protective Relaying: Principles and Applications*, 4th ed. Boca Raton, FL, USA: CRC Press, 2014. {/.ieee-refs}
 
@@ -407,9 +409,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 List both authors, separating the two author names with ‘and’.
 
-When citing books make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+> Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+
+##### Example
 
 > {.ieee-refs}[2] &nbsp;&nbsp; C. R. Bayliss and B. J. Hardy, *Transmission and Distribution Electrical Engineering*, 4th ed. Oxford, U.K.: Newnes, 2012. {/.ieee-refs}
 
@@ -444,9 +448,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 List all authors (up to six), separating the last two author names with ‘and’.
 
-When citing books make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+> Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+
+##### Example
 
 > {.ieee-refs}[2] &nbsp;&nbsp; G. Radulov, P. Quinn, H. Hegt, and A. van Roermund, *Smart and Flexible Digital-to-Analog Converters*. Dordrecht, The Netherlands: Springer, 2011. {/.ieee-refs}
 
@@ -482,9 +488,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 If there are more than six authors listed, use *et al*. (in italics) after the first author’s family name.
 
-When citing books make sure to include the following information where available:
+##### Rule
 
-Author initials. Family name, or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+> Author initials. Family name, or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+
+##### Example
 
 > {.ieee-refs}[2] &nbsp;&nbsp; H. F. Lodish *et al*., *Molecular Cell Biology*, 7th ed. New York, NY, USA: W. H. Freeman and Co., 2012. {/.ieee-refs}
 
@@ -517,9 +525,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 Place corporate name in the author position.
 
-When citing a book by a corporate author make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+> Author(s) initials. Family name(s), or name of organisation/company, *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher, Year of Publication.
+
+> ##### Example
 
 > {.ieee-refs}[2] &nbsp;&nbsp; Commonwealth Scientific and Industrial Research Organisation Division of Entomology, *The Insects of Australia: A Textbook for Students and Research Workers*, 2nd ed. Carlton South, Australia: Melbourne University Press, 1991. {/.ieee-refs}
 
@@ -553,9 +563,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 Include the translated title and details such as language directly after the publisher.
 
-When citing a translated book make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher (in Language), Year of Publication.
+> Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). Place of Publication City, abbrev. U.S. State (if applicable), Country: Publisher (in Language), Year of Publication.
+
+##### Example
 
 > {.ieee-refs}[2] &nbsp;&nbsp; L. Y. Kupriyanov, *Semiconductor Sensors in Physico-Chemical Studies*. Burlington, VT, USA: Elsevier Science (in English), 1996. {/.ieee-refs}
 
@@ -587,9 +599,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a book chapter make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), "Title of the chapter," in *Title of the Book*, Ed., (editor if available), ed. (edition, except the first). City of Publisher, abbrev. State (US only), Country: Abbrev. of Publisher, Year of Publication, ch. x, pp. xxx–xxx (chapter/s or first and last pages of the article).
+> Author(s) initials. Family name(s), "Title of the chapter," in *Title of the Book*, Ed., (editor if available), ed. (edition, except the first). City of Publisher, abbrev. State (US only), Country: Abbrev. of Publisher, Year of Publication, ch. x, pp. xxx–xxx (chapter/s or first and last pages of the article).
+
+##### Example
 
 > {.ieee-refs}[2] &nbsp;&nbsp; L. B. Wagenaar, "Electrical bushings," in *Electric Power Transformer Engineering*, J. H. Harlow, Ed., 3rd ed. Boca Raton, FL, USA: CRC Press, 2012, ch.13, pp. 1-24. {/.ieee-refs}
 
@@ -621,9 +635,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing e-books from a database make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). City of Publisher, State (US only), Country: Abbrev. of Publisher, Year of Publication. [Online]. Available: database homepage URL
+> Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). City of Publisher, State (US only), Country: Abbrev. of Publisher, Year of Publication. [Online]. Available: database homepage URL
+
+##### Example
 
 > {.ieee-refs}[2] &nbsp;&nbsp; P. Curwen and J. Whalley, *Mobile Telecommunications in a High-Speed World: Industry Structure, Strategic Behaviour and Socio-Economic Impact*. Farnham, U.K.: Ashgate Publishing Ltd, 2011. [Online]. Available: https<nolink>://ebookcentral.proquest.com {/.ieee-refs}
 
@@ -657,13 +673,14 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing e-books from the internet make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). City of Publisher, State (US only), Country: Abbrev. of Publisher, Year of Publication. [Online]. Available: site/path/file
+> Author(s) initials. Family name(s), *Title of Book*, ed. (edition, except the first). City of Publisher, State (US only), Country: Abbrev. of Publisher, Year of Publication. [Online]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[2] &nbsp;&nbsp; M.H. Bollen, and H. Hassan. *Integration of Distributed Generation in the Power System*. 
 Somerset, UK: Wiley-IEEE Press. [Online]. Available: doi.org/10.1002/9781118029039. {/.ieee-refs}
-
 
 
 ###### end-subtype-content
@@ -718,9 +735,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing journal articles make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
+> Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
+
+##### Example
 
 > {.ieee-refs}[3] &nbsp;&nbsp; D. Ibrahim, “Development of a low-cost educational liquid-level sensor circuit,” *Int. J. Elect. Eng. Educ.*, vol. 52, no. 2, pp. 168-181, Apr. 2015. {/.ieee-refs}
 
@@ -768,9 +787,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 List both authors, separating the two author names with ‘and’.
 
-When citing journal articles make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
+> Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
+
+##### Example
 
 > {.ieee-refs}[3] &nbsp;&nbsp; T. Song and P. Y. Kam, “Robust data detection for the photon-counting free-space optical system with implicit CSI acquisition and background radiation compensation,” *J. Lightwave Technol*., vol. 34, no. 4, pp. 1120-1132, Feb. 2016. {/.ieee-refs}
 
@@ -818,9 +839,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 List all authors (up to six), separating the last two author names with ‘and’.
 
-When citing journal articles make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
+> Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
+
+##### Example
 
 > {.ieee-refs}[3] &nbsp;&nbsp; A. A. P. Biscaro, R. A. F. Pereira, M. Kezunovic, and J. R. S. Mantovani, “Integrated fault location and power-quality analysis in electric power distribution systems,” *IEEE Trans. Power Del*., vol. 31, no. 2, pp. 428-436, Apr. 2016. {/.ieee-refs}
 
@@ -868,9 +891,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 If there are more than six authors listed, use *et al*. (in italics) after the first author’s family name.
 
-When citing journal articles make sure to include the following information where available:
+##### Rule
 
-Author initials. Family name, "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
+> Author initials. Family name, "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year.
+
+##### Example
 
 > {.ieee-refs}[3] &nbsp;&nbsp; C. Y. Chun *et al*., “Current sensor-less state-of-charge estimation algorithm for lithium-ion batteries utilizing filtered terminal voltage,” *J. Power Sources*, vol. 273, pp. 255-263, Jan. 2015. {/.ieee-refs}
 
@@ -914,9 +939,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing e-journal articles with a DOI make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year, doi:.
+> Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year, doi:.
+
+##### Example
 
 > {.ieee-refs}[3] &nbsp;&nbsp; S. Shao, J. Bi, F. Yang, and W. Guan, “On-line estimation of state-of-charge of Li-ion batteries in electric vehicle using the resampling particle filter,” *Transp. Res. Part D: Transport Environ.*, vol. 32, pp. 207-217, Oct. 2014, doi: 10.1016/j.trd.2014.07.013. {/.ieee-refs}
 
@@ -960,9 +987,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing e-journal articles from a library database make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year. [Online]. Available: site/path/file
+> Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year. [Online]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[3] &nbsp;&nbsp; J. Blau, “Big demand for big data scientists in Europe,” *Res. Technol. Manage.*, vol. 58, no. 3, pp. 3-6, May/Jun. 2015. [Online]. Available: https<nolink>://www.proquest.com/scholarly-journals/big-demand-data-scientists-europe/docview/1682657590/se-2 {/.ieee-refs}
 
@@ -1006,9 +1035,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing e-journal articles from the internet make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year. [Online]. Available: site/path/file
+> Author(s) initials. Family name(s), "Title of article," abbrev. *Title of Journal*, vol. (volume number), no. (issue number), pp. first and last pages of the article, abbrev. Month (if available) Year. [Online]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[3] &nbsp;&nbsp; C. Song and S. H. Tan, “A perspective on the rise of optofluidics and the future,” *Micromachines*, vol. 8, no. 5, pp. 1-17, May 2017. [Online]. Available: http<nolink>://www.mdpi.com/2072-666X/8/5/152 {/.ieee-refs}
 
@@ -1051,9 +1082,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a conference paper that has been presented make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s). (Date). Title. Presented at Abbreviated Conf. title. [Online]. Available: site/path/file
+> Author(s) initials. Family name(s). (Date). Title. Presented at Abbreviated Conf. title. [Online]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[5] &nbsp;&nbsp; Y.S. Sergeev,  S.V. Sergeev, and G.E. Karpov. (2019). Modeling Three-Dimensional Liquid Flows in Computer-Controlled Vibrojet Mixer Using FlowVision. Presented at Proc. of the 5th Int. Conf. on Ind. Eng. (ICIE). [Online]. Available: doi: 10.1007/978-3-030-22063-1_145. {/.ieee-refs}
 
@@ -1085,9 +1118,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a conference paper that has been published in proceedings make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), “Title of paper,” in *Abbreviated Name of Conf.*, (location of conference is optional), (Month and day(s) if provided) year, pp. xxx-xxx.
+> Author(s) initials. Family name(s), “Title of paper,” in *Abbreviated Name of Conf.*, (location of conference is optional), (Month and day(s) if provided) year, pp. xxx-xxx.
+
+##### Example
 
 > {.ieee-refs}[5] &nbsp;&nbsp; P. J. Cornwell, "Implementing a program to motivate math and science grade school classrooms," in *Proc. IEEE Frontiers in Educ. Conf.*, Washington, DC, USA, 1993, pp. 529-534. {/.ieee-refs}
 
@@ -1130,9 +1165,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing reports from a print source with an author(s) make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), "Title of report," Abbrev. name of Company, City of Company, abbrev. US State (if applicable), Country, Report Number/Type (if available), Year of Publication.
+> Author(s) initials. Family name(s), "Title of report," Abbrev. name of Company, City of Company, abbrev. US State (if applicable), Country, Report Number/Type (if available), Year of Publication.
+
+##### Example
 
 > {.ieee-refs}[6] &nbsp;&nbsp; M. L. James, “A history of Australia’s space involvement,” Australian National University, Canberra, Australia, Working Paper 241, Nov. 1991. {/.ieee-refs}
 
@@ -1164,9 +1201,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing reports from an online source make sure to include the following information where available:
+##### Rule
 
-Organisation/company name, "Title of report," Company, City, abbrev. US State (if applicable), Country, Report Number/Type (if available). Date. Accessed Date. [Online]. Available: site/path/file
+> Organisation/company name, "Title of report," Company, City, abbrev. US State (if applicable), Country, Report Number/Type (if available). Date. Accessed Date. [Online]. Available: site/path/file
+
+> ##### Example
 
 > {.ieee-refs}[6] &nbsp;&nbsp; A. A. Catellier and S. D. Voran, “NTIA technical report TR-17-522: Intelligibility of selected speech codecs in frame-erasure conditions,” NTIA, Washington, DC, USA, May 5, 2016. Accessed 21 Sep. 2017. [Online]. Available: https://www.its.bldrdoc.gov/publications/3165.aspx {/.ieee-refs}
 
@@ -1211,9 +1250,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing webpages make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s). "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
+> Author(s) initials. Family name(s). "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[7] &nbsp;&nbsp; T. Fleischman. "Stabilizing molecule could pave way for lithium-air fuel cell." CNN.com. Accessed: Apr. 30, 2017. [Online]. Available: https<nolink>://www.news.cornell.edu/stories/2017/04/stabilizing-molecule-could-pave-way-lithium-air-fuel-cell. {/.ieee-refs}
 
@@ -1247,9 +1288,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing webpages with a corporate author make sure to include the following information where available:
+##### Rule
 
-Organisation/company name. "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
+> Organisation/company name. "Title of Webpage." Title of Website. Date Accessed (Abbrev. month and day, year). [Online]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." (accessed June 1, 2017). [Online] Energy Networks Australia.Available:  https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ {/.ieee-refs}
 
@@ -1259,6 +1302,7 @@ Organisation/company name. "Title of Webpage." Title of Website. Date Accessed (
  
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
+
 ### Blog
 
 <!-- first accordion item -->
@@ -1282,9 +1326,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a blog make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), Place of Publication City, abbrev. US State (if applicable), Country. Title of Blog. Release date (Month Day if available, Year). Accessed Month Day, Year. [Blog]. Available: site/path/file
+> Author(s) initials. Family name(s), Place of Publication City, abbrev. US State (if applicable), Country. Title of Blog. Release date (Month Day if available, Year). Accessed Month Day, Year. [Blog]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[9] &nbsp;&nbsp; V. Pterneas, Kinect for windows version 2: Body tracking, (Mar. 13, 2014). Accessed June 2, 2017. [Blog]. Available: https<nolink>://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/ {/.ieee-refs}
 
@@ -1328,9 +1374,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a streaming video / YouTube video make sure to include the following information where available:
+##### Rule
 
-Video Owner/Creator, Location (if available). *Title of Video*. Release date (Month, Day if available, Year). Accessed: Month Day, Year. [Online Video]. Available: site/path/file
+> Video Owner/Creator, Location (if available). *Title of Video*. Release date (Month, Day if available, Year). Accessed: Month Day, Year. [Online Video]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[8] &nbsp;&nbsp; nottinghamscience, U.K. *What is Nanotechnology?* (Apr. 15, 2008). Accessed Feb. 22, 2018. [Online Video]. Available: https<nolink>://www.youtube.com/watch?v=gYR8lV23Pow {/.ieee-refs}
 
@@ -1364,9 +1412,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a video tutorial make sure to include the following information where available:
+##### Rule
 
-Video Owner/Creator, Location (if available), Country. *Title of Video*. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file 
+> Video Owner/Creator, Location (if available), Country. *Title of Video*. Release date (Month Day if available, Year). Accessed Month Day, Year. [Online Video]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[8] &nbsp;&nbsp; S. Allardice, *Reviewing Software Development Methodologies*. (May 22, 2012). Accessed June 2, 2017. [Online Video]. Available: https<nolink>://www.linkedin.com/learning?trk=learning-topics_nav-header-logo&upsellOrderOrigin=default_guest_learning {/.ieee-refs}
 
@@ -1402,7 +1452,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 When citing an audio podcast make sure to include the following information where available:
 
-Podcast Owner/Creator, Location (if available). *Title of Podcast*. Release date (Month Day if available, Year). Accessed Month Day, Year. [Podcast]. Available: site/path/file
+##### Rule
+
+> Podcast Owner/Creator, Location (if available). *Title of Podcast*. Release date (Month Day if available, Year). Accessed Month Day, Year. [Podcast]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[8] &nbsp;&nbsp; A. Schiffrin, Sydney, Australia. Materials go Nano. (Jan. 8, 2017). Accessed May 12, 2017. [Podcast]. Available: http<nolink>://www.abc.net.au/radionational/programs/scienceextra/materials-go-nano/8117286 {/.ieee-refs}
 
@@ -1447,9 +1501,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a dataset with a DOI make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), abbrev. Month Day (if available), Year, "Title of dataset, including the edition, version or volume number (if applicable)," Publisher/Distributor, doi:.
+> Author(s) initials. Family name(s), abbrev. Month Day (if available), Year, "Title of dataset, including the edition, version or volume number (if applicable)," Publisher/Distributor, doi:.
+
+> ##### Example
 
 > {.ieee-refs}[9] &nbsp;&nbsp; Y. Ren *et al.*, May 11, 2017, "Microstructures of cold-sprayed titanium before and after heat treatment, vol. 7," CSIRO Data Collection, doi<nolink>:10.4225/08/5913e0247881b. {/.ieee-refs}
 
@@ -1483,9 +1539,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a dataset with a URL make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), abbrev. Month Day (if available), Year, "Title of dataset, including the edition, version or volume number (if applicable)," Publisher/Distributor. [Online]. Available: site/path/file 
+> Author(s) initials. Family name(s), abbrev. Month Day (if available), Year, "Title of dataset, including the edition, version or volume number (if applicable)," Publisher/Distributor. [Online]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[9] &nbsp;&nbsp; D. Gore, 2005, "The hydraulic behaviour of permeable reactive barrier materials under freeze-thaw conditions, ver. 1," Australian Antarctic Data Centre. [Online]. Available: https<nolink>://data.aad.gov.au/metadata/records/ASAC_2576 {/.ieee-refs}
 
@@ -1551,9 +1609,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a patent make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), "Title of patent," abbrev. Country (if applicable) Patent Number, abbrev. Month Day (if available), Year. [Online]. Available: site/path/file
+> Author(s) initials. Family name(s), "Title of patent," abbrev. Country (if applicable) Patent Number, abbrev. Month Day (if available), Year. [Online]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[9] &nbsp;&nbsp; K. Deby, "Multinode temperature sensor," Aus. Patent 2016102110, Dec. 2016. [Online]. Available: http<nolink>://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2016102110 {/.ieee-refs}
 
@@ -1599,9 +1659,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a personal communication make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), private communication, Month Year.
+> Author(s) initials. Family name(s), private communication, Month Year.
+
+##### Example
 
 > {.ieee-refs}[9] &nbsp;&nbsp; L. Nguyen, private communication, Aug. 2016. {/.ieee-refs}
 
@@ -1635,9 +1697,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a standard make sure to include the following information where available:
+##### Rule
 
-*Title of Standard*, Standard number, date. [Online]. Available: site/path/file
+> *Title of Standard*, Standard number, date. [Online]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[9] &nbsp;&nbsp; *IEEE Standard for Floating Part Arithmetic*, 754-2019, Jul.22. [Online]. Available: https<nolink>://ieeexplore.ieee.org/document/8766229  {/.ieee-refs}
 
@@ -1669,9 +1733,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 #### Reference list
 
-When citing a thesis make sure to include the following information where available:
+##### Rule
 
-Author(s) initials. Family name(s), "Title of thesis," Type of thesis (Ph.D. dissertation or M.S. thesis), abbrev. Department, abbrev. University, Place of Publication City, abbrev. US State (if applicable), Country, Year of Publication. [Online]. Available: site/path/file
+> Author(s) initials. Family name(s), "Title of thesis," Type of thesis (Ph.D. dissertation or M.S. thesis), abbrev. Department, abbrev. University, Place of Publication City, abbrev. US State (if applicable), Country, Year of Publication. [Online]. Available: site/path/file
+
+##### Example
 
 > {.ieee-refs}[9] &nbsp;&nbsp; M. Al-Saidi, “A model formulation approach for system support engineering,” Ph.D. dissertation, Aero., Mech. and Manuf. Eng., RMIT Univ., Melbourne, Australia, 2014. [Online]. Available: http<nolink>://researchrepository.rmit.edu.au/esploro/outputs/doctoral/A-model-formulation-approach-for-system/9921863821301341?institution=61RMIT_INST {/.ieee-refs}
 
@@ -1730,6 +1796,8 @@ In the Reference list include:
 - Unpublished
 
 - Month and year
+
+##### Example
 
 > {.ieee-refs}[9] &nbsp;&nbsp; B. Smith, "An approach to graphs of linear form," unpublished, Oct. 2019. {/.ieee-refs}
 
@@ -1840,7 +1908,11 @@ Example: 1. ChatGPT (May 24 Version), OpenAI. Accessed: Jun 23, 2023. [Online]. 
 
 ##### Reference list entry example - non-shareable AI generated content:
 
-Rule: Reference number. Title of Software. (version or year), Publisher Name. Accessed: Mon. DD, YYYY. [Type of Medium]. Appendix.
+##### Rule
+
+> Reference number. Title of Software. (version or year), Publisher Name. Accessed: Mon. DD, YYYY. [Type of Medium]. Appendix.
+
+> ##### Example
 
 Example: 1. Bard (2023.06.07), Google. Accessed: Jun 23, 2023. [Online]. See Appendix for generated text and prompt used.
 #### How to reference AI-generated images in IEEE
@@ -1848,7 +1920,7 @@ Example: 1. Bard (2023.06.07), Google. Accessed: Jun 23, 2023. [Online]. See App
 
 Include the image in your work with a caption that explains that the work was generated using an AI tool, and what prompt was used.
 
-Example:
+##### Example
 
 ![A Typical Engineer](images/Firefly-a-typical-engineer-16158.jpg)<br>
 
@@ -1860,9 +1932,13 @@ If using reproduced images, the IEEE style advice is to reference the published 
 
 **Caption**
 
-Rule: **Fig. number.** Description of figure [reference number]
+##### Rule
 
-Example: **Fig 1.** A typical engineer as created by Stylianos Moschoglou using an AI machine learning model [1]
+> **Fig. number.** Description of figure [reference number]
+
+##### Example
+
+>**Fig 1.** A typical engineer as created by Stylianos Moschoglou using an AI machine learning model [1]
 
 **Reference list entry:**
 
