@@ -2010,7 +2010,7 @@ AI-generated images are an emerging technology, and there are not yet clear guid
 
 The Chicago Manual of Style editors have released a [Q&A post on referencing AI-generated text](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html). We have adapted these guidelines to accommodate the current Australian copyright advice that AI tools cannot be listed as authors. Instead, use the creator of the tool as the author in the in-text citation and provide bibliographic details in a reference list entry.
 
-If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the generated text in an appendix, and refer to the appendix in the reference list entry.
+If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the output generated in an appendix. Include the general URL for the tool and a note about the appendix in the reference list entry.
 
 **Chicago A (Notes-Bibliography) style** uses numbered in-text citations that match the corresponding footnote or endnote entry.
 
