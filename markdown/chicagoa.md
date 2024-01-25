@@ -2028,11 +2028,11 @@ If a shareable URL to the content is available, include it in your reference lis
 
 ##### Rule
 
-> {.hanging-indent}Note number. AI tool used, Month Day, Year, Creator of tool, Appendix.{/.hanging-indent}
+> {.hanging-indent}Note number. AI tool used, Month Day, Year, Creator of tool, URL, Appendix.{/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}1. Text generated using Bard, June 23, 2023, Google, see Appendix for generated text and prompt used.{/.hanging-indent}
+> {.hanging-indent}1. Text generated using Claude, January 22, 2024, Anthropic, https://claude.ai/chats, see Appendix for prompt used and output generated.{/.hanging-indent}
 
 #### How to reference AI-generated images
 
