@@ -1070,7 +1070,7 @@ Example: 1 Response generated using OpenAI's ChatGPT to Matt Smith, 23 June 2023
 
 Rule: Note number Correspondence generated using the AI tool to Recipient, full date, Appendix.
 
-Example:  1 Response generated using Google's Bard to Matt Smith, 23 June 2023, see Appendix A for generated text and prompt
+Example:  1 Response generated using Anthropic's Claude to Matt Smith, 24 January 2024, see Appendix A for prompt used and output generated.
 
 
 #### How to reference AI-generated images in AGLC4
