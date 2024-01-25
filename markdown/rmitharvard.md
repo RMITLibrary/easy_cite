@@ -3974,7 +3974,7 @@ AI-generated images are an emerging technology, and there are not yet clear guid
 #### How to reference AI-generated text in RMIT Harvard - interim guidelines
 The [Australian Government Style Manual](https://www.stylemanual.gov.au/referencing-and-attribution/author-date), on which our RMIT Harvard referencing style is based, currently contains no guidelines for referencing AI-generated content, and also has no guidelines for referencing software programs. As the RMIT Harvard style is similar to the APA 7th style, we have based the interim guidelines for RMIT Harvard on the current APA guidelines for referencing AI-generated content, adapted to match the RMIT Harvard style. Please note these are interim guidelines and these may be updated in the future if the Australian Government Style Manual editors release formal advice.
 
-Use the name of the creator of the tool as the author and include both an in-text citation and a reference list entry. If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the output generated text in an appendix. Include the general URL for the tool and a note about the appendix in the reference list entry.
+Use the name of the creator of the tool as the author and include both an in-text citation and a reference list entry. If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the output generated in an appendix. Include the general URL for the tool and a note about the appendix in the reference list entry.
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### In-text citations:
