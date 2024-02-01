@@ -1374,7 +1374,7 @@ The RMIT Vancouver guide is based on the e-book Citing Medicine: The NLM Style G
 
 The NLM style guide includes guidelines for referencing a number of internet source types. We have adapted these guidelines below, as we believe this is the best match for the style.  Please note these are interim guidelines and these may be updated in the future when the NLM style manual editors release formal advice.
 
-Use the name of the creator of the tool as the author. If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the generated text in an appendix, and refer to the appendix in the reference list entry.
+Use the name of the creator of the tool as the author. If a shareable URL to the content is available, include it in your reference list entry.  If the content is not shareable, include the prompt used and the output generated in an appendix. Include the general URL for the tool and a note about the appendix in the reference list entry.
 
 The Vancouver style uses numbered in-text citations that match the corresponding footnote or endnote entry. 
 
@@ -1386,10 +1386,9 @@ Example: 1. ChatGPT [Internet]. OpenAI; 2023 May [cited 2023 Jun 26]. Available 
 
 ##### Reference list entry example - non-shareable AI-generated content:
 
-Rule: Reference number. Name of AI tool [Type of medium]. Creator of tool; Date of version YYYY Mon [cited YYYY Mon DD]. Appendix.
+Rule: Reference number. Name of AI tool [Type of medium]. Creator of tool; Date of version YYYY Mon [cited YYYY Mon DD]. Available from URL. Appendix.
 
-Example: 1. Bard [Internet]. Google; 2023 Jun [cited 2023 Jun 26]. See Appendix for text generated and prompt.
-
+Example: 1. Claude [Internet]. Anthropic [cited 2024 Jan 22]. Available from https<nolink>://claude.ai/chats. See Appendix for text generated and prompt used.
 
 #### How to reference AI-generated images in Vancouver
 The RMIT Vancouver guide contains general information on [using and referencing images](https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-4).
