@@ -2866,7 +2866,9 @@ In the caption, include the **figure number (for graphs)** or **table number (fo
 
 In the caption, include the **figure number (for graphs)** or **table number (for tables)**.
 
-If your table or graph includes published data from **more than one** source, you must cite in your caption ALL sources you used (i.e. adapted) to create your table or graph. Separate each source used with a semicolon (;) followed by a space -- see *Table 3* example below for an illustration.
+Cite the **author of the source** and the **year** that the source was published.
+
+If your table or graph includes published data from **more than one** source, you must cite in your caption ALL sources you used (i.e. adapted) to create your table or graph. List each source used in alphabetical order of author family name/organisational name, then separate each source with a semicolon (;) followed by a space -- see *Table 3* example below for an illustration.
 
 ##### Rule
 
