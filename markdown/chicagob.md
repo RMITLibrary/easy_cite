@@ -307,13 +307,13 @@ Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales:
 
 Sample, Sara. 2017. "Human rights in indigenous communities:Lecture 8." HUSO2301: *Applied Human Rights and indigenous Peoples*. Melbourne: RMIT University. Accessed April 10, 2017. Powerpoint presentation. https<nolink>://www.dlsweb.rmit.edu.au/set/Courses/Content/CSIT/oua/cpt250/chapter/02/documents/L2Internetworking.pdf.
 
-Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. Sydney: SAI Global. https<nolink>://www.saiglobal.com
+Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. Sydney: SAI Global. https<nolink>://www.saiglobal.com.
 
 Tame, Grace (@tamepunk). 2021. “Making Noise” Kirsty Neilson—for this year’s Archibald Prize. Instagram photo, May 27, 2021. https<nolink>://www.instagram.com/p/CPXh8CRLJTE/.
 
 Trask, Steven. 2017. “Adria Village Nursing Home Sanctioned After Aged Care Quality Agency Audit.” *Canberra Times*, August 29, 2017.
 
-Tudor, Ken. 2015. "Protecting Pets in Abusive Human Relationships." *The Daily Vet (blog)*, June 9. http<nolink>://www.petmd.com/blogs/thedailyvet/ken-tudor/2015/june/pets-abusive-human-relationships-32819
+Tudor, Ken. 2015. "Protecting Pets in Abusive Human Relationships." *The Daily Vet (blog)*, June 9. http<nolink>://www.petmd.com/blogs/thedailyvet/ken-tudor/2015/june/pets-abusive-human-relationships-32819.
 {/.hanging-indent}
 
 ###### end-subtype-content
@@ -635,7 +635,7 @@ When author/editor for a dictionary or encyclopedia section is unknown, use the 
 
 {.hanging-indent}Author of Section Last name, First name. Year. "Title of Section". In *Title of Dictionary or Encyclopedia*, edited by Editor First name Family name, page range if applicable. Place of Publication: Publisher Name. Accessed Month day, year if online. URL, DOI or database name if online. {/.hanging-indent}
 
-> {.hanging-indent}Cox, Damian, Marguerite La Caze, and Michael Levine. 2021. "Integrity." In *The Stanford Encyclopedia of Philosophy* , edited by Edward N. Zalta. Palo Alto: Metaphysics Research Lab, Stanford University. Accessed May 5, 2022. https<nolink>://plato.stanford.edu/archives/fall2021/entries/integrity/ {/.hanging-indent}
+> {.hanging-indent}Cox, Damian, Marguerite La Caze, and Michael Levine. 2021. "Integrity." In *The Stanford Encyclopedia of Philosophy* , edited by Edward N. Zalta. Palo Alto: Metaphysics Research Lab, Stanford University. Accessed May 5, 2022. https<nolink>://plato.stanford.edu/archives/fall2021/entries/integrity/. {/.hanging-indent}
 > {.hanging-indent}*Macquarie Concise Dictionary*. 2020. 8th edition. Sydney: Macquarie Dictionary Publishers. {/.hanging-indent}
 > {.hanging-indent}Moore, Clive, and Martin Crotty. 2007. "Australian masculinities." In *International encyclopedia of men and masculinities*, edited by Michael Flood, Judith Kegan Gardiner, Bob Pease and Keith Pringle, 31-33. London: Routledge. {/.hanging-indent}
 > {.hanging-indent}"Diwungarna." 2021. In *Ngarinyman to English Dictionary*, edited by Caroline Jones, Eva Schultze-Berndt and Jessica Denniss, 93. Canberra: Aboriginal Studies Press. Accessed May 5, 2022. ProQuest Ebook Central. {/.hanging-indent}
@@ -1661,7 +1661,7 @@ Artist’s Family Name (Year of publication)
 
 ##### Reference list
 
-{.hanging-indent}Artist's Family Name, Given Name. Year. *Title: Subtitle.* Medium (if appropriate). Place: Publisher. URL or database name {/.hanging-indent}
+{.hanging-indent}Artist's Family Name, Given Name. Year. *Title: Subtitle.* Medium (if appropriate). Place: Publisher. URL or database name. {/.hanging-indent}
 
 > {.hanging-indent}Burn, Henry. 1861. *Swanston Street from the Bridge*. Oil on canvas. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/. {/.hanging-indent}
 > {.hanging-indent}Dupain, Max. 1937. *Sunbaker. Photograph.* Photograph. Melbourne: National Gallery of Victoria. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/7621/. {/.hanging-indent}
@@ -1747,12 +1747,12 @@ Create the reference list entry according to the rules for the source. List auth
 ##### Example 1
 
 > ![Sample image](images/Design-for-Coach-no.3022.jpg)
-> {.figure-text}Figure 1. Author unknown, *Design for Coach: no. 3022*, 1874. Pen and black ink, watercolor and gouache with gum arabic, 18.1 x 24.8 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/378235 {/.figure-text}
+> {.figure-text}Figure 1. Author unknown, *Design for Coach: no. 3022*, 1874. Pen and black ink, watercolor and gouache with gum arabic, 18.1 x 24.8 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/378235. {/.figure-text}
 
 ##### Example 2
 
 > ![Sample image](images/Dragon_tapestry.jpg)
-> {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?  {/.figure-text}
+> {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?.  {/.figure-text}
 
 Or if located in a book  
 
@@ -1909,7 +1909,7 @@ An access date is only included in the reference list entry if no date of public
 
 {.hanging-indent}Author family name, First name OR Organisation name. Year of publication. ‘Title of dataset.’ Identifying number if applicable. *Title of series if applicable*. Dataset. Accessed Month Day, Year if applicable. URL. {/.hanging-indent}
 
-> {.hanging-indent}Australian Bureau of Statistics. 2020. ‘Table 15: Average weekly cash earnings, Australia by sector (dollars) – original.’ *6302.0 Average Weekly Earnings, Australia, May 2020.* Dataset. https<nolink>://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/may-2020 {/.hanging-indent}
+> {.hanging-indent}Australian Bureau of Statistics. 2020. ‘Table 15: Average weekly cash earnings, Australia by sector (dollars) – original.’ *6302.0 Average Weekly Earnings, Australia, May 2020.* Dataset. https<nolink>://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/may-2020. {/.hanging-indent}
 > {.hanging-indent}Bureau of Meteorology. 2022. ‘Melbourne Botanical Gardens.’ Station number 86232. *Monthly rainfall*. Dataset. http<nolink>://www.bom.gov.au/climate/data/?ref=ftr. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -2365,11 +2365,11 @@ If a shareable URL to the content is available, include it in your reference lis
 
 ##### Rule
 
-> {.hanging-indent}Author. Year. Name of tool. Version (if available). Month Day, Year. URL{/.hanging-indent}
+> {.hanging-indent}Author. Year. Name of tool. Version (if available). Month Day, Year. URL.{/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}OpenAI. 2023. ChatGPT. May 24 version.  June 26, 2023. https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c {/.hanging-indent}
+> {.hanging-indent}OpenAI. 2023. ChatGPT. May 24 version.  June 26, 2023. https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c. {/.hanging-indent}
 
 #### Reference list entry - non-shareable AI-generated content:
 
@@ -2415,9 +2415,9 @@ Follow the general guidelines for [Artwork](https://www.lib.rmit.edu.au/easy-cit
 
 ##### Examples
 
-> Figure 1: Jason Allen, *Théâtre D’opéra Spatial*, 2022. Artwork created using Midjourney, in Kevin Roose, "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy." *The New York Times*, September 2, 2022, https<nolink>://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
+> Figure 1: Jason Allen, *Théâtre D’opéra Spatial*, 2022. Artwork created using Midjourney, in Kevin Roose, "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy." *The New York Times*, September 2, 2022, https<nolink>://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html.
 
-> Figure 1: Artwork created using OpenAI's DALLE-2, in Adam Gopnick, "What Can A.I. Art Teach Us About the Real Thing?" *The New Yorker*, March 1, 2023, https<nolink>://www.newyorker.com/culture/cultural-comment/what-can-ai-art-teach-us-about-the-real-thing
+> Figure 1: Artwork created using OpenAI's DALLE-2, in Adam Gopnick, "What Can A.I. Art Teach Us About the Real Thing?" *The New Yorker*, March 1, 2023, https<nolink>://www.newyorker.com/culture/cultural-comment/what-can-ai-art-teach-us-about-the-real-thing.
 
 ###### end-subtype-content
 
