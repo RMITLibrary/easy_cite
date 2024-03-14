@@ -219,7 +219,7 @@ The second line of each bibliography entry has a hanging indent.
 {.centre-align}**Bibliography**{/.centre-align}
 
 {.hanging-indent}
-Bagley,Benjamin. “Loving Someone in Particular,” *Ethics* 125, no. 2 (January 2015): 477–507
+Bagley,Benjamin. “Loving Someone in Particular,” *Ethics* 125, no. 2 (January 2015): 477–507.
 
 Fellini, Federico. “Fountain Scene.” *La Dolce Vita*. Australia: Umbrella Entertainment, 2005. DVD.
 
@@ -1586,7 +1586,7 @@ If the image was on a website include the URL, otherwise provide the source deta
 ##### Caption example
 
 > ![Image of a silk tapestry of a dragon and flowers](images/Dragon_tapestry.jpg)
-> {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733? {/.figure-text}
+> {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?.{/.figure-text}
 
 or if found in a book
 
@@ -2068,9 +2068,9 @@ Follow the general guidelines for [Art or creative works](https://www.lib.rmit.e
 
 ##### Examples
 
-> Figure 1: Jason Allen, *Théâtre D’opéra Spatial*, 2022. Artwork created using Midjourney, in Kevin Roose, "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy." *The New York Times*, September 2, 2022, https<nolink>://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html
+> Figure 1: Jason Allen, *Théâtre D’opéra Spatial*, 2022. Artwork created using Midjourney, in Kevin Roose, "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy." *The New York Times*, September 2, 2022, https<nolink>://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html.
 
-> Figure 1: Artwork created using OpenAI's DALLE-2, in Adam Gopnick, "What Can A.I. Art Teach Us About the Real Thing?" *The New Yorker*, March 1, 2023, https<nolink>://www.newyorker.com/culture/cultural-comment/what-can-ai-art-teach-us-about-the-real-thing
+> Figure 1: Artwork created using OpenAI's DALLE-2, in Adam Gopnick, "What Can A.I. Art Teach Us About the Real Thing?" *The New Yorker*, March 1, 2023, https<nolink>://www.newyorker.com/culture/cultural-comment/what-can-ai-art-teach-us-about-the-real-thing.
 
 ###### end-subtype-content
 
