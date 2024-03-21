@@ -1402,14 +1402,18 @@ Place direct quotes between double quotation marks " " and use the name of the s
 If citing information taken directly from a webpage include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year in parentheses, webpage title in italics, website name and URL.
 
 If no year is stated then use n.d. for no date.
+Omit the website name if it is the same as the author.
+Include the most specific date possible. The in-text citation only requires the year. 
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. or Organisation Name (Year). Title of work. *Site Name.* https://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. or Organisation Name (Year). *Title of work*. Website Name. https://xxxxx {/.hanging-indent}
 
-##### Example
+##### Examples
 
 > {.hanging-indent}Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: Advocacy goals.* https://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/ {/.hanging-indent}
+
+> {.hanging-indent}Sandoval, E. (2024, March 20). *A former FI engineer-turned-pastry chef's weekend guide to Melbourne.* BBC. https://www.bbc.com/travel/article/20240320-a-former-f1-engineer-turned-pastry-chefs-weekend-guide-to-melbourne{/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1443,10 +1447,13 @@ If the document does NOT contain page numbers, then use the name of the section 
 If citing information taken directly from a webpage document include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year in parentheses, title of document in italics and retrieval statement in the form of a URL.
 
 If no year is stated then use n.d. for no date.
+Omit the website name if it is the same as the author.
+Include the most specific date possible. The in-text citation only requires the year. 
+
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. or Group Author. (Year). *Title of work.* Site Name. https://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. or Group Author. (Year). *Title of work.* Website Name. https://xxxxx {/.hanging-indent}
 
 ##### Example
 
