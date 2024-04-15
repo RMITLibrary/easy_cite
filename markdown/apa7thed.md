@@ -243,7 +243,7 @@ Do NOT italicise the title of the article, only the title of the newspaper or ma
 
 Include the day, month and year of the article, as well as the URL.
 
-> {.hanging-indent}Budget to link school spending to outcomes. (2016, May 2). *The Australian*. <br> https://www.theaustralian.com.au/opinion/editorials/budget-to-link-school-spending-to-outcomes/news-story/b1b98475b68869356cc6540766d6358a{/.hanging-indent}
+> {.hanging-indent}Budget to link school spending to outcomes. (2016, May 2). *The Australian*. <br> https://www.theaustralian.com.au/opinion/editorials/budget-to-link-school-spending-to-outcomes/news-story/b1b98475b68869356cc6540766d6358a {/.hanging-indent}
 
 
 #### Encyclopedia, Wikipedia or dictionary entry with no author
@@ -270,7 +270,7 @@ If the reference work is continously updated use **n.d.** as the year of publica
 
 If the reference work is taken from an archived page then no retrieval date is needed.
 
-> {.hanging-indent}Achromatopsia. (2005). In *Van Nostrand's scientific encyclopedia* (10th ed.). <br> https://www.wiley.com/en-au/Van+Nostrand%27s+Scientific+Encyclopedia%2C+3+Volume+Set%2C+10th+Edition-p-9780471743385{/.hanging-indent}
+> {.hanging-indent}Achromatopsia. (2005). In *Van Nostrand's scientific encyclopedia* (10th ed.). <br> https://www.wiley.com/en-au/Van+Nostrand%27s+Scientific+Encyclopedia%2C+3+Volume+Set%2C+10th+Edition-p-9780471743385 {/.hanging-indent}
 
 #### Book or report with no author
 
@@ -319,7 +319,7 @@ For example, if you read an article written by Hosany and Martin and they cite i
 
 In the reference list, you need to include the citation information for the Hosany and Martin article as that is where the Heath and Scott information was sourced:
 
-> {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, *65*(5), 685-691. https://doi.org/10.1016/j.jbusres.2011.03.015{/.hanging-indent}
+> {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, *65*(5), 685-691. https://doi.org/10.1016/j.jbusres.2011.03.015 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -421,8 +421,7 @@ Schirm, V. (2013). Quality of life. In I. M. Lubkin & P. D. Larsen (Eds.), *Chro
 
 Sullivan, E. J. (2013). *Becoming influential: A guide for nurses* (2nd ed.). Pearson.
 
-Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance.* [Doctoral dissertation, RMIT University]. RMIT Research Repository. https://researchbank.rmit.edu.au/view/rmit:161444
-{/.hanging-indent}
+Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance.* [Doctoral dissertation, RMIT University]. RMIT Research Repository. https://researchbank.rmit.edu.au/view/rmit:161444 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1413,7 +1412,7 @@ Include the most specific date possible. The in-text citation only requires the 
 
 > {.hanging-indent}Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: Advocacy goals.* https://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/ {/.hanging-indent}
 
-> {.hanging-indent}Sandoval, E. (2024, March 20). *A former FI engineer-turned-pastry chef's weekend guide to Melbourne.* BBC. https://www.bbc.com/travel/article/20240320-a-former-f1-engineer-turned-pastry-chefs-weekend-guide-to-melbourne{/.hanging-indent}
+> {.hanging-indent}Sandoval, E. (2024, March 20). *A former FI engineer-turned-pastry chef's weekend guide to Melbourne.* BBC. https://www.bbc.com/travel/article/20240320-a-former-f1-engineer-turned-pastry-chefs-weekend-guide-to-melbourne {/.hanging-indent}
 
 ###### end-subtype-content
 
