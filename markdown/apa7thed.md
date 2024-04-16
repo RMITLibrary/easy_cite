@@ -181,9 +181,9 @@ Identify works by the same author(s) in the same year by the suffixes a, b, c, e
 
 References by the same author(s) with the same publication year are arranged alphabetically by the title (excluding A or The) that follows the date.
 
-> Dean, E. (2017a). Practice nursing: An action plan for a disparate workforce. *Nursing Standard*, *32*(3), 25. https://doi.org/10.7748/ns.32.3.25.s24
+> {.hanging-indent}Dean, E. (2017a). Practice nursing: An action plan for a disparate workforce. *Nursing Standard*, *32*(3), 25. https://doi.org/10.7748/ns.32.3.25.s24 {/.hanging-indent}
 
-> Dean, E. (2017b). Top nursing universities fall short in new ratings. *Nursing Standard*, *31*(44), 9. https://doi.org/10.7748/ns.31.44.9.s8
+> {.hanging-indent}Dean, E. (2017b). Top nursing universities fall short in new ratings. *Nursing Standard*, *31*(44), 9. https://doi.org/10.7748/ns.31.44.9.s8 {/.hanging-indent}
 
 &nbsp;
 #### Lead authors are the same in the same year
@@ -200,9 +200,9 @@ If there are more than 3 authors and the lead author(s) are the same, but there 
 
 The reference list would include all authors.
 
-> Arnaiz, M., Cochrane, T., Calizaya, A., & Shrestha, M. (2018). A framework for evaluating the current level of success of micro-hydropower schemes in remote communities of developing countries. *Energy for Sustainable Development*, *44*, 55-63. https://doi.org/10.1016/j.esd.2018.03.002
+> {.hanging-indent}Arnaiz, M., Cochrane, T., Calizaya, A., & Shrestha, M. (2018). A framework for evaluating the current level of success of micro-hydropower schemes in remote communities of developing countries. *Energy for Sustainable Development*, *44*, 55-63. https://doi.org/10.1016/j.esd.2018.03.002 {/.hanging-indent}
 
-> Arnaiz, M., Cochrane, T., Hastie, R., & Bellen, C. (2018). Micro-hydropower impact on communities' livelihood analysed with the capability approach. *Energy for Sustainable Development*, *45*, 206-210. https://doi.org/10.1016/j.esd.2018.07.003
+> {.hanging-indent}Arnaiz, M., Cochrane, T., Hastie, R., & Bellen, C. (2018). Micro-hydropower impact on communities' livelihood analysed with the capability approach. *Energy for Sustainable Development*, *45*, 206-210. https://doi.org/10.1016/j.esd.2018.07.003 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -296,7 +296,7 @@ Include the year of publication (if available).
 
 Include the publisher name and URL (if applicable).
 
-> *Higher education in Australia: the facts.* (2004). Business/Higher Education Round Table.
+> {.hanging-indent}*Higher education in Australia: the facts.* (2004). Business/Higher Education Round Table. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1126,7 +1126,7 @@ If a case is obtained from an electronic database, add a retrieval statement.
 
 ##### Example
 
-> {.hanging-indent}*Drew v Minister for Health and Ageing* (2011) 56 AAR 227. https://www.westlaw.com.au/maf/wlau/app/document?docguid=I49472f517b6911e18eefa443f89988a0 {.hanging-indent}
+> {.hanging-indent}*Drew v Minister for Health and Ageing* (2011) 56 AAR 227. https://www.westlaw.com.au/maf/wlau/app/document?docguid=I49472f517b6911e18eefa443f89988a0 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1448,7 +1448,6 @@ If citing information taken directly from a webpage document include author(s) i
 If no year is stated then use n.d. for no date.
 Omit the website name if it is the same as the author.
 Include the most specific date possible. The in-text citation only requires the year. 
-
 
 ##### Rule
 
