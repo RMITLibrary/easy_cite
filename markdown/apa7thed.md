@@ -860,7 +860,7 @@ List the first 19 authors followed by three ellipsis points (. . .) then the las
 
 ##### Example
 
-> {.hanging-indent}Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., . . . Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. *Bulletin of the American Meteorological Society*, *77*(3), 437-472. https://doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2 {/.hanging-indent}
+> {.hanging-indent}Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., . . . Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. *Bulletin of the American Meteorological Society*, *77*(3), 437-472. [https://doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2] (https://doi.org/10.1175/1520-0477(1996)077%3C0437:TNYRP%3E2.0.CO;2) {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1220,7 +1220,7 @@ Provide the exact URL.
 
 ##### Rule
 
-> {.hanging-indent}Host, H. H. (Host). (Year, Month Day). *Title of work* [Audio podcast]. Production Company. https:/xxxxx {/.hanging-indent}
+> {.hanging-indent}Host, H. H. (Host). (Year, Month Day). *Title of work* [Audio podcast]. Production Company. https://xxxxx {/.hanging-indent}
 
 ##### Example
 
@@ -1974,7 +1974,7 @@ The figure must appear in the reference list, and the citation is formatted in c
 
 ##### Example
 
-> West, L. (2012). *MRI*. Flickr. https://www.flickr.com/photos/calliope/7694882446
+> {.hanging-indent}West, L. (2012). *MRI*. Flickr. https://www.flickr.com/photos/calliope/7694882446 {/.hanging-indent}
 
 **Copyright information for the MRI image**
 
