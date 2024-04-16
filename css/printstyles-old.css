@@ -23,9 +23,6 @@
 	h1, h2, h3, h4, h5 {
   		page-break-after: avoid !important;
 	}
-   a[href]:after {
-      visibility: hidden !important;
-   }
 }
 body {
 	margin: 20px 30px 30px 40px;
@@ -143,7 +140,7 @@ li {
 	font-size: 12px;
 }
 a::after {
-  visibility: hidden !important;
+  content: " (" attr(href) ")";
 }
 .accordion-button{
 	background-color: #ffffff;

@@ -57,11 +57,11 @@
 **Important: This is a guide only.** To avoid losing marks:
 
 - Confirm the referencing requirements for your course with your lecturer.
-- To clarify referencing rules or if you need more examples, refer to the following publication that this guide is based on; American Psychological Association. (2020). <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341" target="_blank">*Publication manual of the American Psychological Association* (7<sup>th</sup> ed.).</a> 
+- To clarify referencing rules or if you need more examples, refer to the following publication that this guide is based on; American Psychological Association. (2020). <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341">*Publication manual of the American Psychological Association* (7<sup>th</sup> ed.).</a> 
 - APA 7<sup>th</sup> ed. is an **author-date** referencing style which requires all references to be cited in-text and in a reference list.
 - **In-text references** appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable).
 - A **reference list** provides the full bibliographic details of all in-text references and is arranged alphabetically by author at the end of the document.
-- Refer to the <a href="https://apastyle.apa.org/style-grammar-guidelines/references" target="_blank">*Style and Grammar Guidelines*</a> page (opens in a new tab) on the <a href="https://apastyle.apa.org/" target="_blank">*APA Style website*</a> for updates to the APA style and additional referencing examples.
+- Refer to the <a href="https://apastyle.apa.org/style-grammar-guidelines/references">*Style and Grammar Guidelines*</a> page on the <a href="https://apastyle.apa.org/">*APA Style website*</a> for updates to the APA style and additional referencing examples.
 
 ###### end-subtype-content
 
@@ -2377,7 +2377,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration">Assessment Declaration</a>.
 
 The *Publication manual of the American Psychological Association* does not provide information on how to cite your own work. The following is based on how to cite dissertations and theses.
 
