@@ -57,11 +57,11 @@
 **Important: This is a guide only.** To avoid losing marks:
 
 - Confirm the referencing requirements for your course with your lecturer.
-- To clarify referencing rules or if you need more examples, refer to the following publication that this guide is based on; American Psychological Association. (2020). <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341" target="_blank">*Publication manual of the American Psychological Association* (7<sup>th</sup> ed.).</a> 
+- To clarify referencing rules or if you need more examples, refer to the following publication that this guide is based on; American Psychological Association. (2020). <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341">*Publication manual of the American Psychological Association* (7<sup>th</sup> ed.).</a> 
 - APA 7<sup>th</sup> ed. is an **author-date** referencing style which requires all references to be cited in-text and in a reference list.
 - **In-text references** appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable).
 - A **reference list** provides the full bibliographic details of all in-text references and is arranged alphabetically by author at the end of the document.
-- Refer to the <a href="https://apastyle.apa.org/style-grammar-guidelines/references" target="_blank">*Style and Grammar Guidelines*</a> page (opens in a new tab) on the <a href="https://apastyle.apa.org/" target="_blank">*APA Style website*</a> for updates to the APA style and additional referencing examples.
+- Refer to the <a href="https://apastyle.apa.org/style-grammar-guidelines/references">*Style and Grammar Guidelines*</a> page on the <a href="https://apastyle.apa.org/">*APA Style website*</a> for updates to the APA style and additional referencing examples.
 
 ###### end-subtype-content
 
@@ -181,9 +181,9 @@ Identify works by the same author(s) in the same year by the suffixes a, b, c, e
 
 References by the same author(s) with the same publication year are arranged alphabetically by the title (excluding A or The) that follows the date.
 
-> Dean, E. (2017a). Practice nursing: An action plan for a disparate workforce. *Nursing Standard*, *32*(3), 25. https://doi.org/10.7748/ns.32.3.25.s24
+> {.hanging-indent}Dean, E. (2017a). Practice nursing: An action plan for a disparate workforce. *Nursing Standard*, *32*(3), 25. https://doi.org/10.7748/ns.32.3.25.s24 {/.hanging-indent}
 
-> Dean, E. (2017b). Top nursing universities fall short in new ratings. *Nursing Standard*, *31*(44), 9. https://doi.org/10.7748/ns.31.44.9.s8
+> {.hanging-indent}Dean, E. (2017b). Top nursing universities fall short in new ratings. *Nursing Standard*, *31*(44), 9. https://doi.org/10.7748/ns.31.44.9.s8 {/.hanging-indent}
 
 &nbsp;
 #### Lead authors are the same in the same year
@@ -200,9 +200,9 @@ If there are more than 3 authors and the lead author(s) are the same, but there 
 
 The reference list would include all authors.
 
-> Arnaiz, M., Cochrane, T., Calizaya, A., & Shrestha, M. (2018). A framework for evaluating the current level of success of micro-hydropower schemes in remote communities of developing countries. *Energy for Sustainable Development*, *44*, 55-63. https://doi.org/10.1016/j.esd.2018.03.002
+> {.hanging-indent}Arnaiz, M., Cochrane, T., Calizaya, A., & Shrestha, M. (2018). A framework for evaluating the current level of success of micro-hydropower schemes in remote communities of developing countries. *Energy for Sustainable Development*, *44*, 55-63. https://doi.org/10.1016/j.esd.2018.03.002 {/.hanging-indent}
 
-> Arnaiz, M., Cochrane, T., Hastie, R., & Bellen, C. (2018). Micro-hydropower impact on communities' livelihood analysed with the capability approach. *Energy for Sustainable Development*, *45*, 206-210. https://doi.org/10.1016/j.esd.2018.07.003
+> {.hanging-indent}Arnaiz, M., Cochrane, T., Hastie, R., & Bellen, C. (2018). Micro-hydropower impact on communities' livelihood analysed with the capability approach. *Energy for Sustainable Development*, *45*, 206-210. https://doi.org/10.1016/j.esd.2018.07.003 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -243,7 +243,7 @@ Do NOT italicise the title of the article, only the title of the newspaper or ma
 
 Include the day, month and year of the article, as well as the URL.
 
-> {.hanging-indent}Budget to link school spending to outcomes. (2016, May 2). *The Australian*. <br> https://www.theaustralian.com.au/opinion/editorials/budget-to-link-school-spending-to-outcomes/news-story/b1b98475b68869356cc6540766d6358a{/.hanging-indent}
+> {.hanging-indent}Budget to link school spending to outcomes. (2016, May 2). *The Australian*. <br> https://www.theaustralian.com.au/opinion/editorials/budget-to-link-school-spending-to-outcomes/news-story/b1b98475b68869356cc6540766d6358a {/.hanging-indent}
 
 
 #### Encyclopedia, Wikipedia or dictionary entry with no author
@@ -270,7 +270,7 @@ If the reference work is continously updated use **n.d.** as the year of publica
 
 If the reference work is taken from an archived page then no retrieval date is needed.
 
-> {.hanging-indent}Achromatopsia. (2005). In *Van Nostrand's scientific encyclopedia* (10th ed.). <br> https://www.wiley.com/en-au/Van+Nostrand%27s+Scientific+Encyclopedia%2C+3+Volume+Set%2C+10th+Edition-p-9780471743385{/.hanging-indent}
+> {.hanging-indent}Achromatopsia. (2005). In *Van Nostrand's scientific encyclopedia* (10th ed.). <br> https://www.wiley.com/en-au/Van+Nostrand%27s+Scientific+Encyclopedia%2C+3+Volume+Set%2C+10th+Edition-p-9780471743385 {/.hanging-indent}
 
 #### Book or report with no author
 
@@ -296,7 +296,7 @@ Include the year of publication (if available).
 
 Include the publisher name and URL (if applicable).
 
-> *Higher education in Australia: the facts.* (2004). Business/Higher Education Round Table.
+> {.hanging-indent}*Higher education in Australia: the facts.* (2004). Business/Higher Education Round Table. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -319,7 +319,7 @@ For example, if you read an article written by Hosany and Martin and they cite i
 
 In the reference list, you need to include the citation information for the Hosany and Martin article as that is where the Heath and Scott information was sourced:
 
-> {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, *65*(5), 685-691. https://doi.org/10.1016/j.jbusres.2011.03.015{/.hanging-indent}
+> {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, *65*(5), 685-691. https://doi.org/10.1016/j.jbusres.2011.03.015 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -421,8 +421,7 @@ Schirm, V. (2013). Quality of life. In I. M. Lubkin & P. D. Larsen (Eds.), *Chro
 
 Sullivan, E. J. (2013). *Becoming influential: A guide for nurses* (2nd ed.). Pearson.
 
-Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance.* [Doctoral dissertation, RMIT University]. RMIT Research Repository. https://researchbank.rmit.edu.au/view/rmit:161444
-{/.hanging-indent}
+Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin resistance.* [Doctoral dissertation, RMIT University]. RMIT Research Repository. https://researchbank.rmit.edu.au/view/rmit:161444 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -861,7 +860,7 @@ List the first 19 authors followed by three ellipsis points (. . .) then the las
 
 ##### Example
 
-> {.hanging-indent}Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., . . . Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. *Bulletin of the American Meteorological Society*, *77*(3), 437-472. https://doi.org/10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2 {/.hanging-indent}
+> {.hanging-indent}Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., . . . Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. *Bulletin of the American Meteorological Society*, *77*(3), 437-472. https://doi.org/10.1175/1520-0477(1996)077%3C0437:TNYRP%3E2.0.CO;2 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1127,7 +1126,7 @@ If a case is obtained from an electronic database, add a retrieval statement.
 
 ##### Example
 
-> {.hanging-indent}*Drew v Minister for Health and Ageing* (2011) 56 AAR 227. https://www.westlaw.com.au/maf/wlau/app/document?docguid=I49472f517b6911e18eefa443f89988a0 {.hanging-indent}
+> {.hanging-indent}*Drew v Minister for Health and Ageing* (2011) 56 AAR 227. https://www.westlaw.com.au/maf/wlau/app/document?docguid=I49472f517b6911e18eefa443f89988a0 {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1221,7 +1220,7 @@ Provide the exact URL.
 
 ##### Rule
 
-> {.hanging-indent}Host, H. H. (Host). (Year, Month Day). *Title of work* [Audio podcast]. Production Company. https:/xxxxx {/.hanging-indent}
+> {.hanging-indent}Host, H. H. (Host). (Year, Month Day). *Title of work* [Audio podcast]. Production Company. https://xxxxx {/.hanging-indent}
 
 ##### Example
 
@@ -1402,14 +1401,18 @@ Place direct quotes between double quotation marks " " and use the name of the s
 If citing information taken directly from a webpage include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year in parentheses, webpage title in italics, website name and URL.
 
 If no year is stated then use n.d. for no date.
+Omit the website name if it is the same as the author.
+Include the most specific date possible. The in-text citation only requires the year. 
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. or Organisation Name (Year). Title of work. *Site Name.* https://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. or Organisation Name (Year). *Title of work*. Website Name. https://xxxxx {/.hanging-indent}
 
-##### Example
+##### Examples
 
 > {.hanging-indent}Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: Advocacy goals.* https://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/ {/.hanging-indent}
+
+> {.hanging-indent}Sandoval, E. (2024, March 20). *A former FI engineer-turned-pastry chef's weekend guide to Melbourne.* BBC. https://www.bbc.com/travel/article/20240320-a-former-f1-engineer-turned-pastry-chefs-weekend-guide-to-melbourne {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1443,10 +1446,12 @@ If the document does NOT contain page numbers, then use the name of the section 
 If citing information taken directly from a webpage document include author(s) if applicable, or if no author(s) are stated then use a company or organisation name, followed by the year in parentheses, title of document in italics and retrieval statement in the form of a URL.
 
 If no year is stated then use n.d. for no date.
+Omit the website name if it is the same as the author.
+Include the most specific date possible. The in-text citation only requires the year. 
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. or Group Author. (Year). *Title of work.* Site Name. https://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. or Group Author. (Year). *Title of work.* Website Name. https://xxxxx {/.hanging-indent}
 
 ##### Example
 
@@ -1968,7 +1973,7 @@ The figure must appear in the reference list, and the citation is formatted in c
 
 ##### Example
 
-> West, L. (2012). *MRI*. Flickr. https://www.flickr.com/photos/calliope/7694882446
+> {.hanging-indent}West, L. (2012). *MRI*. Flickr. https://www.flickr.com/photos/calliope/7694882446 {/.hanging-indent}
 
 **Copyright information for the MRI image**
 
@@ -2371,7 +2376,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration">Assessment Declaration</a>.
 
 The *Publication manual of the American Psychological Association* does not provide information on how to cite your own work. The following is based on how to cite dissertations and theses.
 
@@ -2509,7 +2514,7 @@ AI-generated images are an emerging technology, and there are not yet clear guid
 
 <!-- using heading 4 (####) for sub-heading within this tab -->
 #### How to reference AI-generated text in APA 7th
-The [current (April 2023) guidelines](https://apastyle.apa.org/blog/how-to-cite-chatgpt) from the APA style manual editors are to reference outputs from AI tools such as ChatGPT in a similar way to referencing software outputs. Use the name of the creator of the tool as the author and include both an in-text citation and a reference list entry. If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the generated text in an appendix, and refer to the appendix in the reference list entry.
+The [current (April 2023) guidelines](https://apastyle.apa.org/blog/how-to-cite-chatgpt) from the APA style manual editors are to reference outputs from AI tools such as ChatGPT in a similar way to referencing software outputs. Use the name of the creator of the tool as the author and include both an in-text citation and a reference list entry. If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the output generated in an appendix. Include the general URL for the tool and a note about the appendix in the reference list entry
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### In-text citations:
@@ -2518,12 +2523,12 @@ For in-text citations, use the creator of the AI tool as the author (i.e., OpenA
 **Guide for narrative (author-prominent) citations: Author (year)**
 > Example 1: OpenAI (2023)
 
-> Example 2: Google (2023)
+> Example 2: Anthropic (2024)
 
 **Guide for parenthetical (information-prominent) citations: (Author, year)**
 > Example 1: (OpenAI, 2023)
 
-> Example 2: (Google, 2023)
+> Example 2: (Anthropic, 2024)
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### Reference list entry example - shareable URL generated by the AI tool:
@@ -2539,12 +2544,12 @@ For in-text citations, use the creator of the AI tool as the author (i.e., OpenA
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### Reference list entry example - non-shareable AI-generated content:
 **Guide**
-> Author. (Year). _Title of software program_ (Version) [Format]. Publisher*. Appendix.
+> Author. (Year). _Title of software program_ (Version) [Format]. Publisher*. URL. Appendix.
 
 *Note: when the publisher and author name are the same, do not repeat the publisher name after the format, and instead move directly to the URL.
 
 **Example**
-> {.hanging-indent}Google. (2023). _Bard_ (2023.06.07 version) [Large language model]. See Appendix for text generated and prompt used. {/.hanging-indent}
+> {.hanging-indent}Anthropic. (2024). _Claude_ [Large language model].  https://claude.ai/chats. See Appendix for prompt used and output generated. {/.hanging-indent}
 
 <!-- using heading 4 (####) for sub-heading within this tab -->
 #### How to reference AI-generated images in APA 7th

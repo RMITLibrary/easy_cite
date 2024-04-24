@@ -216,7 +216,7 @@ Identify works by the same author in the same year by inserting a letter after t
 
 ###### start-subtype-content
 
-To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text citations. In the reference list, order their works by the year of publication.
+To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text citations.
 
 #### In-text citation
 
@@ -224,7 +224,7 @@ To identify the works of different first authors with the same family name, inse
 
 #### Reference list entry
 
-In the reference list, order the works of each author by the year of publication. For this example, since Peterson M published their work in 2019 and Peterson JR in 2021, you need to list the Peterson M (2019) reference **before** that of Peterson JR (2021).
+In the reference list, order the works of each author alphabetically by the initial(s) of the first author's given names. 
 
 ###### end-subtype-content
 
@@ -2866,7 +2866,9 @@ In the caption, include the **figure number (for graphs)** or **table number (fo
 
 In the caption, include the **figure number (for graphs)** or **table number (for tables)**.
 
-If your table or graph includes published data from **more than one** source, you must cite in your caption ALL sources you used (i.e. adapted) to create your table or graph. Separate each source used with a semicolon (;) followed by a space -- see *Table 3* example below for an illustration.
+Cite the **author of the source** and the **year** that the source was published.
+
+If your table or graph includes published data from **more than one** source, you must cite in your caption ALL sources you used (i.e. adapted) to create your table or graph. List each source used in alphabetical order of author family name/organisational name, then separate each source with a semicolon (;) followed by a space -- see *Table 3* example below for an illustration.
 
 ##### Rule
 
@@ -3903,7 +3905,7 @@ The educators within your courses can tell you if you are able to use artificial
 
 **Please confirm with your course educator** before using any AI tools in your assessment tasks. 
 
-**Please note** that the guidelines on how to reference AI tools have been updated on Monday the 26th of June 2023. This is in response to updated guidelines from the APA style manual editors, as well as the new ability to generate shareable URLs in some of the AI tools.
+**Please note** that the guidelines on how to reference AI tools have been updated in January 2024. This is in response to changes in the ability to generate shareable URLs in some AI tools.
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### Overview of text-generating AI tools
@@ -3974,7 +3976,7 @@ AI-generated images are an emerging technology, and there are not yet clear guid
 #### How to reference AI-generated text in RMIT Harvard - interim guidelines
 The [Australian Government Style Manual](https://www.stylemanual.gov.au/referencing-and-attribution/author-date), on which our RMIT Harvard referencing style is based, currently contains no guidelines for referencing AI-generated content, and also has no guidelines for referencing software programs. As the RMIT Harvard style is similar to the APA 7th style, we have based the interim guidelines for RMIT Harvard on the current APA guidelines for referencing AI-generated content, adapted to match the RMIT Harvard style. Please note these are interim guidelines and these may be updated in the future if the Australian Government Style Manual editors release formal advice.
 
-Use the name of the creator of the tool as the author and include both an in-text citation and a reference list entry. If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the generated text in an appendix, and refer to the appendix in the reference list entry.
+Use the name of the creator of the tool as the author and include both an in-text citation and a reference list entry. If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the output generated in an appendix. Include the general URL for the tool and a note about the appendix in the reference list entry.
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### In-text citations:
@@ -3983,12 +3985,12 @@ For in-text citations, use the creator of the AI tool as the author (i.e., OpenA
 **Rule for narrative (author-prominent) citations: Author (year)**
 > Example 1: OpenAI (2023)
 
-> Example 2: Google (2023)
+> Example 2: Anthropic (2024)
 
 **Rule for parenthetical (information-prominent) citations: (Author, year)**
 > Example 1: (OpenAI 2023)
 
-> Example 2: (Google 2023)
+> Example 2: (Anthropic 2024)
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### Reference list entry example -- shareable URL generated by the AI tool:
@@ -4003,12 +4005,12 @@ For in-text citations, use the creator of the AI tool as the author (i.e., OpenA
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### Reference list entry example -- non-shareable AI-generated content:
 **Rule**
-> Author (Year) _Title of software program_ (Version) [Format], Publisher*, accessed Day Month Year. Appendix.
+> Author (Year) _Title of software program_ (Version) [Format], Publisher*, accessed Day Month Year. URL. Appendix.
 
 *Note: when the publisher and author name are the same, do not repeat the publisher name after the format, and instead move directly to the accessed date and appendix.
 
 **Example**
-> Google (2023) _Bard_ (2023.06.07 version) [Large language model], accessed 26 June 2023. See Appendix for text generated and prompt used.
+> Anthropic (2024) _Claude_ [Large language model], accessed 22 January 2024. https://claude.ai/chats. See Appendix for prompt used and output generated.
 
 <!-- using heading 4 (####) for sub-heading within this tab -->
 #### How to reference AI-generated images in RMIT Harvard - guidelines
