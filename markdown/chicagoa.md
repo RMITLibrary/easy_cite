@@ -80,12 +80,6 @@ For examples and advice regarding **author-date style** of Chicago, please see [
 
 Always check with your tutor or lecturer about any specific requirements they have around referencing.
 
-Look at the example documents to view footnotes and endnotes in Microsoft Word.
-
-- <a href="https://rmit.libguides.com/ld.php?content_id=49642286" target="_blank">Sample essay - footnotes</a> (downloads a document)
-
-- <a href="https://rmit.libguides.com/ld.php?content_id=49642290" target="_blank">Sample essay - endnotes</a> (downloads a document)
-
 #### Notes - Footnotes or Endnotes
 
 - Each time you paraphrase, summarise, or use a direct quote in your paper, include a note to cite your source. A note can be a footnote or an endnote.
