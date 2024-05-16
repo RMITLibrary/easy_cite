@@ -137,8 +137,43 @@ If the references have **consecutive numbers**, then use a hyphen. There should 
 
 ###### end-subtype-item
 
+###### start-subtype-item
 
+### Secondary citations
 
+###### start-subtype-content
+
+A secondary citation is used when you acknowledge the work of an author that you have read about in another author’s work.
+
+It is always preferable to read and reference the original source if it is available. When that is not possible, ask your educator if a secondary citation is acceptable.
+
+Secondary citation does not appear in <a href="http://www.nlm.nih.gov/citingmedicine" target="_blank">*Citing medicine: the NLM style guide for authors, editors, and publishers* (2nd ed.)</a> or <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/tcai14/alma9921837011901341" target="_blank">*The AMA manual of style: a guide for authors and editors* (11th ed.)</a> upon which the Vancouver style is based. The recommendation below is from <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/tcai14/alma9910090260001341" target="_blank">*The AMA manual of style: a guide for authors and editors* (10th ed.)</a> .
+
+The Vancouver style requires you to distinguish between **citation** (works mentioned or paraphrased) and **quotation** (works quoted) by the subsequent author.
+
+#### Cited by
+
+If you read an article written by Acheson and they **cite** (that is, mention or paraphrase) information from another study written by Cauley et al., you need to acknowledge Cauley et al. in your text:
+
+> Cauley et al. (1), as cited by Acheson, concluded that risk of fractures is...
+
+In your reference list, you need to reference Cauley et al. **cited by** Acheson.
+
+> 1. Cauley JA, Lui L-Y, Ensrud KE, et al. Osteoporosis and fracture risk in women of different ethnic groups. JAMA. 2005;293(17):2102-2108. Cited by: Acheson LS. Bone density and the risk of fractures: should treatment thresholds vary by race [editorial]? JAMA. 2005;293(17):2151-2154.
+
+#### Quoted by
+
+If you read an article written by Prazar that **directly quotes** information from another study written by Kato et al., you need to acknowledge Kato et al. in your text:
+
+> Prazar quotes Kato et al. (2) to explain new treatments in...
+
+In your reference list, you need to reference Kato et al. **quoted by** Prazar.
+
+> 2. Kato S, Sherman PM. What is new related to Helicobacter pylori infection in children and teenagers? Arch Pediatr Adolesc Med. 2005;159(5):415-421. Quoted by: Prazar G. How many pediatricians does it take to change a practice? or how to incorporate change in a practice [editorial]. 2005;159(5):500-502.
+
+###### end-subtype-content
+
+###### end-subtype-item
 
 ###### start-subtype-item
 
