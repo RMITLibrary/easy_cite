@@ -1454,6 +1454,7 @@ Reference the published source according to the relevant source guidelines, and 
 
 Example: 1. Roose K. An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy. The New York Times [Internet]. 2022 Sep 2. [cited 2023 Mar 3]; [about 9 screens]. Available from https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html. [Figure 1], Jason Allen’s A.I.-generated work, “Théâtre D’opéra Spatial,” took first place in the digital category at the Colorado State Fair.
 
+
 ###### end-subtype-content
 
 ###### end-subtype-item
