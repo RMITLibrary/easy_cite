@@ -1940,13 +1940,13 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Webpage document (PDF)                      
+### Webpage document (PDF or other file type)                      
 
 ###### start-subtype-content
 
-Do NOT use for government reports (they tend to report on a matter), organisational reports (e.g. annual reports, research conducted by the organisation and presented in a report), Australian Bureau of Statistics (ABS) reports or company/industry/market reports. To reference these reports, please see the relevant sections in EasyCite.
+Do **not** use for these resource types: government reports, organisational reports (e.g. annual reports, research conducted by the organisation and presented in a report), Australian Bureau of Statistics (ABS) reports, or company, industry or market reports. To reference these resource types, please see the <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-1#stn-9">**Reports and data sets**</a> section.
 
-Use only for PDF documents NOT within any of the above categories.
+**Use only** for a webpage's document (PDF or other file type) that is **not** any of the above resource types.
 
 The author may be a person/people, an organisation or a government department.
 
