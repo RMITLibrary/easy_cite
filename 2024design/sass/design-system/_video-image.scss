@@ -1,0 +1,232 @@
+$img-width-xl: 100%;
+$img-width-lg: 40rem;       //640px
+$img-width-md: 25rem;       //400px
+$img-width-sm: 18.5rem;     //296px
+
+
+/* Figures are centred, limit to 40rem width by default*/
+figure {
+    @include do-space(margin-top, lg); 
+    @include do-space(margin-bottom, lg); 
+    margin-left: auto;
+	margin-right: auto;
+    
+    width: 100%;
+    max-width: $img-width-lg;
+}
+
+/* Use this class to align left rather than centre */
+figure.img-left {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.responsive-video {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+	width: 100%;
+	
+	@include media-breakpoint-up(md) { 
+		width: $img-width-lg;
+		height: 22.5rem;
+		padding-bottom: 0;
+	}
+}
+
+
+.video {
+	border-bottom: 1px solid $interface-grey;
+	
+	.responsive-video {
+		position: relative;
+		padding-bottom: 56.25%;
+		height: 0;
+		overflow: hidden;
+		width: 100%;
+		
+			/* At large screen sizes, we can set 16:9 values as layout is adaptive rather than responsive */
+	}
+	
+	figcaption {
+		border-bottom: 0;
+		padding-bottom: 0;
+	}
+}
+
+.portrait-video {
+	margin-left: auto;
+	margin-right: auto;
+	
+	width: 80%;
+    max-width: $img-width-md;
+	
+	.responsive-video {
+		position: relative;
+		padding-bottom: 177%;
+		height: 0;
+		overflow: hidden;
+		width: 100%;
+		
+	}
+}
+
+
+
+
+.responsive-video iframe, .responsive-video object, .responsive-video embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* A border can be added */
+img.border {
+    box-sizing: border-box;
+    border: 1px solid $interface-grey;
+}
+
+/* img width classes to override default max-width */
+.img-width- {
+    &full {
+        max-width: $img-width-xl;
+    }
+    
+    &lg {
+        max-width: $img-width-lg;
+    }
+    
+    &md {
+        max-width: $img-width-md;
+    }
+    
+    &sm {
+        max-width: $img-width-sm;
+    }
+}
+
+/* 
+For portrait images, wrap img tag in another div to limit img width 
+while maintaining width for captions, transcripts etc.
+*/
+figure {
+	.portrait {
+		max-width: $img-width-md;
+		margin: 0px auto;
+		flex-shrink: 0;
+	}
+	
+	.portrait-sm {
+		max-width: $img-width-sm;
+		margin: 0px auto;
+		flex-shrink: 0;
+	}
+}
+
+//Replicates above behaviour, insurance if class applied to image rather than creating new div.
+img.portrait {
+	max-width: $img-width-md;
+	margin: 0px auto;
+}
+
+
+//reduce type size, add border to the bottom by default
+figcaption {
+	@include type-small;
+	margin-top: 0.25rem;
+	padding-bottom: 1rem;
+	border-bottom: 1px solid $interface-grey;
+}
+
+
+
+//if threre's a transcript, add border bottom to the figure, remove from figcaption
+figure.img-transcript {
+	
+	padding-bottom: 0rem;
+	border-bottom: 1px solid $interface-grey;
+	
+	figcaption {
+		border-bottom: 0;
+		padding-bottom: 0;
+	}
+}
+
+//caption-side allows to present portrait images side by side with a caption
+.caption-side {
+	
+	//make the div fill whole contianer
+	max-width: $img-width-xl !important;
+	
+	//add border bottom to the figure
+	padding-bottom: 1rem;
+	border-bottom: 1px solid $interface-grey;
+	
+	//for sceens > 768px, so image and caption side by side
+	.img-caption-wrap {
+		@include media-breakpoint-up(md) { 
+
+			display: flex;
+			align-items: flex-end;
+			gap: 1.5rem;
+			flex: 1 0 0;
+			align-self: stretch;
+
+			.portrait {
+				width: $img-width-md;
+				margin: 0;
+			}		
+		} 
+	}
+	
+	//remove border, padding from caption
+	figcaption {
+		border-bottom: 0;
+		padding-bottom: 0;
+	}
+}
+
+
+//floaty floaty
+.float-right, .float-left {
+    
+    @include media-breakpoint-up(md) { 
+        width: 16rem;
+        
+        figcaption {
+            border-bottom: 0;
+            padding-bottom: 0;
+        }
+    }
+}
+
+@include media-breakpoint-up(md) { 
+    .float-right {   
+        float: right;
+        margin: 0.25rem 0 1.5rem 1.5rem !important;
+    }
+    
+    .float-left {   
+        float: left;
+        margin: 0.25rem 1.5rem 1.5rem 0 !important;
+    }
+}
+
+.image-sm {
+	width: 12rem;
+	
+	@include media-breakpoint-up(md) { 
+        width: 12rem;
+    }
+}
+
+    
+

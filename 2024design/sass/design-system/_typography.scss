@@ -1,0 +1,118 @@
+//@import "fonts/museo";
+
+//These mixins can be useful to save us repeating code
+@mixin type-small {
+    font-size: 0.8125rem;
+    @include media-breakpoint-up(md) { font-size: 0.9375rem; }
+    
+    letter-spacing: 0.02rem;    //to increase readability
+}
+
+@mixin type-default {
+    font-size: 1rem;
+    line-height: 1.5;
+    
+    @include media-breakpoint-up(md) {
+        font-size: 1.125rem;
+    }
+}
+
+@mixin type-lead {
+    font-size: 1.125rem;
+    font-weight: 500;
+    
+    @include media-breakpoint-up(md) {
+        font-size: 1.25rem;
+    }
+}
+
+
+//keep default font-size at 1rem, adjust default p and body style here
+body { 
+    @include media-breakpoint-up(md) { font-size: 1.125rem; } 
+}
+
+/*
+It's debatable whether to include margin top for p, ul, ol etc.
+Worth consideringsome css trickery to remove margin if p is the first element???
+*/
+p {
+    @include media-breakpoint-up(md) { font-size: 1.125rem; } 
+    @include do-space(margin-top, xs);      //should we have margin-top?
+    @include do-space(margin-bottom, xs);
+}
+
+small, .small {
+    @include type-small;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: $primary;
+    font-family: $font-family-serif;
+    
+    @include do-space(margin-top, lg); 
+    
+	margin-bottom: 0.75rem;
+	@include media-breakpoint-up(md) { margin-bottom: 1rem; }
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6 {
+	color: $primary;
+    font-family: $font-family-serif;
+    
+    @include do-space(margin-top, lg); 
+   
+	margin-bottom: 0.75rem;
+	@include media-breakpoint-up(md) { margin-bottom: 1rem; }
+}
+
+//h1 has a slightly increased margin bottom
+h1, .h1 {
+    @include do-space(margin-bottom, sm); 
+}
+
+//h6 and h5 are the same size, use h6 sparingly
+h6, .h6 {
+    font-size: 1.25rem;
+}
+
+//reduce indenting on lists
+ul, ol {
+    @include do-space(margin-top, xs);          //should we have margin-top?
+    @include do-space(margin-bottom, sm, important);
+    @include do-space(padding-left, sm); 
+}
+
+li {
+    padding-left: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+//ensure nested lists have adaquate vertical margins
+li > ul {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem !important;
+}
+
+//As we are using bootstrap default sizes for headings, it makes sense to go down here
+@include media-breakpoint-down(md) { 
+    
+    h1, .h1 { font-size: 2rem; }
+    h2, .h2 { font-size: 1.625rem; }
+    h3, .h3 { font-size: 1.4375rem; }
+    h4, .h4 { font-size: 1.25rem; }
+    h5, .h5 { font-size: 1.125rem; }
+    h6, .h6 { font-size: 1.125rem; }
+    
+    .lead {  font-size: 1.125rem;  }  
+} 
+
+.apa {
+    padding-left: 2rem;
+    text-indent: -2rem;
+}
+
+.nowrap, .no-wrap {
+	white-space: nowrap;
+}

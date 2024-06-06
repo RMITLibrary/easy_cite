@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<style>
+div {
+  border: 1px solid black;
+  padding:16px;
+}
+</style>
+
+<body>
+<h1>The Element Object</h1>
+<h2>The getElementsByClassName() Method</h2>
+<div id="parent1">
+<div class="accordion-item" id="mydiv1">
+  <p class="child" id="p1">I am a paragraph.</p>
+  <p class="child" id="p2">I am a paragraph.</p>
+  <p class="child" id="p3">I am a paragraph.</p>
+</div>
+</div>
+<div id="parent2">
+<div class="accordion-item" id="mydiv2">
+  <p class="child" id="p4" data-bs-parent="parent-x">I am a paragraph.</p>
+  <p class="child" id="p5" data-bs-parent="parent-x">I am a paragraph.</p>
+  <p class="child" id="p6" data-bs-parent="parent-x">I am a paragraph.</p>
+</div>
+</div>
+  <p class="child" id="p7" data-bs-parent="parent-x">I am a paragraph.</p>
+  <p class="child" id="p8" data-bs-parent="parent-x">I am a paragraph.</p>
+  <p class="child" id="p9" data-bs-parent="parent-x">I am a paragraph.</p>
+
+
+<script>
+const mylist = document.getElementsByClassName("accordion-item"); //get all accordion-item class divs
+	//loop through all the divs
+	for (let p = 0; p < mylist.length; p++){
+		console.log(mylist[p].id);
+		//get the children of each accordion-item classed div
+		const nodes = mylist[p].getElementsByClassName("child");
+		//loop through all the children
+		for (let i = 0; i < nodes.length; i++) { 
+			//change values for the children
+			var randomColor = Math.floor(Math.random()*16777215).toString(16); //just added a random colour to test that the loop is working
+			nodes[i].style.backgroundColor = "#" + randomColor; 
+			//nodes[i].id = "#" + mylist[p].parentElement.id;
+			nodes[i].setAttribute("data-bs-parent", "#" + mylist[p].parentElement.id); //this line not working - can't set new value for data-bs-parent
+			console.log(nodes[i].getAttribute("data-bs-parent"));
+		}
+	}
+</script>
+
+</body>
+</html>

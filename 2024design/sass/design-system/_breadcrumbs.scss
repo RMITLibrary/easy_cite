@@ -1,0 +1,46 @@
+ul.breadcrumbs {
+	color: $dark-grey;
+	@include type-small;
+	
+	margin: 0;
+	padding: 0;
+	@do-space(margin-bottom, sm);
+	
+	li:first-child { padding: 0; }
+	
+	li {
+		display: inline;
+		padding-left: 0.25rem;
+	}
+	
+	li::after {
+		content: '/';
+		padding-left: 0.5rem;
+	}
+	
+	li:last-child::after { 
+		content: none;
+		padding: 0;
+	}
+	
+	a {
+		color: $dark-grey;
+	}
+	
+	/* At small and x-small breakpoints, only show the last breadcrumb due to space constraints */
+	
+	@include media-breakpoint-down(md) { 
+		li {
+			display: none;
+		}
+		
+		li:last-child { 
+			display: inline;
+		}
+		
+		li:last-child::before { 
+			content: '<';
+			padding-right: 0.5rem;
+		}
+	}
+}

@@ -1,0 +1,439 @@
+@charset "UTF-8";
+/* CSS Document */
+body {}
+nav {
+	border:none !important;
+}
+.ectitle{
+
+	margin-left: 20px;
+	font-weight: 500;
+	text-align: right !important;
+
+}
+.echeadtitle{
+	color: #ffffff;
+	margin-left: 40px;
+	margin-top: 20px;
+	font-weight: 500;
+	text-align: right !important;
+	font-size: 1.8rem !important;
+}
+.ectitle:hover{
+    color: #E61E2A;	
+	text-decoration: none;
+  }
+.ectitle:focus {
+    color: #E61E2A;
+	outline: 1px solid #000054 !important;
+  }
+.ectitle.active:focus{
+	outline: none !important;
+}
+.trighty{
+	align-content: flex-end !important;
+}
+.ecsubtitle{
+	color: #000054;
+	font-weight: 500;
+	Font-size: 1.1rem;
+}
+.ecinstructions {
+	margin-bottom: 20px;
+	padding: 10px;
+	font-size: 0.9rem;
+	background-color: #f3f3f3;
+}
+.ecinstructbox{
+	padding: 20px;
+	margin: 10px;
+	width: 100%;
+	height: 100%;
+	vertical-align: bottom;
+}
+.plc-hldr{
+	width: 100%;
+	height: 100%;
+
+}
+.topnavbar .a {
+	colour: #ffffff !important;
+}
+.navbar {
+	background: #000054 !important;
+	font-family: Helvetica, Arial, 'sans-serif' !important;
+	colour: #ffffff;
+	border:hidden !important;
+
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #cdcecc !important;
+}
+.navbar-dark:hover .navbar-nav:hover .nav-link:hover {
+    color: #FFFFFF !important;
+}
+.mynavtabs {
+	margin-top: 3px !important;
+    font-weight: 500;
+    color: #000054;
+    background: #ffffff !important;
+	outline: hidden !important;
+    padding: 12px 12px 10px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    border-bottom: solid #e61e2a !important;
+	border-width: 0px 0px 4px 0px !important;
+	border-top: hidden !important;
+	border-bottom-style: inset !important;
+}
+
+.mynavtabs .layer {
+  	color: #ffffff;
+  	font-weight: 500;
+  	position: absolute;
+  	bottom: -98%;
+  	display: flex;
+  	flex-basis: 100%;
+  	width: 100%;
+  	justify-content: center;
+  	align-items: center;
+  	height: 100%;
+  	left: 0;
+  	padding: 12px 12px 10px;
+  	background-color: #e61e2a;
+	border-width: 0px 0px 0px 0px !important;
+}
+@media (min-width: 768px) {
+  .mynavtabs:not(.active) .layer {
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+  }
+}
+@media (max-width: 767px) {
+  .mynavtabs:not(.active) .layer {
+    transition: all 0.1s ease;
+    -webkit-transition: all 0.1s ease;
+    -moz-transition: all 0.1s ease;
+    -o-transition: all 0.1s ease;
+    -ms-transition: all 0.1s ease;
+  }
+}
+.mynavtabs:hover .layer {
+  	bottom: 0;
+}
+.mynavtabs:hover {
+  	text-decoration: none;
+	outline: hidden;
+}
+.mynavtabs:focus {
+  	background: #e61e2a !important;
+    color: #ffffff !important;
+	text-decoration: none !important;
+	outline: hidden !important;
+}
+.nav-tabs, .nav-tabs:focus,
+.nav-item, .nav-item:focus,
+.nav-link, .nav-link:focus {
+ /*outline: hidden !important; */
+  border-bottom: 0px; /* kills grey border bottom bug */
+}
+
+.nav-link.active {
+	background: #e61e2a !important;
+    color: #ffffff !important;
+	text-decoration: none !important;
+	outline: hidden !important;
+	border-top: hidden !important;
+}
+.myleftpills {
+	text-align: left !important;
+	background: #ffffff !important;
+    color: #000054 !important;
+    font-size: 1.1rem;
+    transition-duration: 0.2s;
+	margin-bottom: 3px;
+}
+.myleftpills:hover {
+	color: #454545 !important;
+	background: #DEDFDD !important;
+	outline: none !important;
+}
+.myleftpills:focus {
+	color: #454545 !important;
+	background: #DEDFDD !important;
+	outline: none !important;
+}
+.myleftpills.active {
+	color: #ffffff !important;
+	background: #000054 !important;
+	outline: none !important;	
+}
+.easyaccbutton {
+	background: #e3e5e0 !important;
+	color: #000054 !important;
+	outline: none !important;
+	font-size: 1.1rem;
+}
+.easyaccbutton:hover {
+	background:#DEDFDD !important;
+	color: #454545 !important;
+	outline: none !important;
+}
+.easyaccbutton:focus {
+	background:#DEDFDD !important;
+	color: #454545 !important;
+	outline: none !important;
+}
+.easyaccbutton.active {
+	background: #fac800 !important;
+	color: #000054 !important;
+	font-weight: 600;
+	outline: none !important;
+}
+button.easyaccbutton:not(.collapsed),
+button.easyaccbutton:focus:not(.collapsed) {
+	background: #fac800 !important;
+	color: #000054 !important;
+	font-weight: 600;
+	outline: none !important;
+}
+.accordion-item {
+	border: hidden !important;
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
+h4{
+	font-size: 1.4rem !important;
+	font-weight: 400;
+	color: #000054 !important;
+}
+h5{
+	font-size: 1.2rem;
+	font-weight: 500;
+	color: #000054;
+}
+blockquote{
+	font-family: Helvetica, Arial, "sans-serif" !important;
+	margin-left: 30px; 
+	background-color: #f0f0f0 !important;
+	padding: 10px;
+	font-size: 1rem !important;
+	line-height: 200%;
+	overflow-wrap: break-word;
+}
+.grey {
+	background-color: #f0f0f0 !important;
+	padding: 10px;
+}
+table {
+	border: hidden  !important;
+	border-collapse: collapse;
+	margin-left: 10px;
+}
+td {
+	text-align: left !important;
+	font-family: Helvetica, Arial, "sans-serif" !important;
+	
+}
+th {
+	vertical-align: top !important;
+}
+img {
+	width: 80% !important;
+}
+.hanging-indent{
+	padding-left: 4em !important;
+ 	text-indent: -4em !important;
+	font-size: 1rem !important;
+	line-height: 2;
+	overflow-wrap: break-word;
+}
+.footnote-indent{
+	padding-left: -3em !important;
+ 	text-indent: 3em !important;
+	font-size: 1rem !important;
+	line-height: 2;
+	overflow-wrap: break-word;
+}
+.ieee-refs {
+	line-height: 1.5;
+    padding-left: 2.4em;
+    text-indent: -2.4em;
+	font-size: 1rem !important;
+	overflow-wrap: break-word;
+}
+.centre-align{
+	text-align: center !important;
+}
+.figure-text {
+	font-size: 1rem !important;
+	line-height: 1.5;
+	overflow-wrap: break-word;
+}
+.accordion-button{
+	background-color: #e3e5e0 !important;
+}
+.accordion-button.active:focus {
+	background-color: #e3e5e0 !important;
+	outline: none !important;
+}
+
+.notabutton{
+    border: hidden !important;
+	background-color: #ffffff !important;
+    color: #000054;
+    font-size: 0.9rem;
+    transition-duration: 0.2s;
+  }
+.notabutton:hover{
+    color: #E61E2A;	
+	text-decoration: none;
+  }
+.notabutton:focus {
+    color: #E61E2A;
+	outline: 1px solid #000054 !important;
+  }
+.notabutton.active:focus{
+	outline: none !important;
+}
+.printtitle {
+	display: none;
+	visibility: hidden;
+}
+.footerarea {
+	text-align: center;
+}
+.footerlinks {
+	color: #000054;
+	text-decoration: none;
+	font-size: 0.9rem;
+}
+.footerlinks:hover {
+	color: #e61e2a;
+	text-decoration: underline;
+}
+.footerlinks:focus {
+	color: #e61e2a;
+	text-decoration: underline;
+}
+.modallinks {
+	color: #000054;
+	text-decoration: none;
+}
+.modallinks:hover {
+	color: #e61e2a;
+	text-decoration: underline;
+}
+.modallinks:focus {
+	color: #e61e2a;
+	text-decoration: underline;
+}
+/** tooltip styles
+  * based on http://www.flatypo.net/tutorials/how-to-create-animated-tooltips-css3-hiperlink/ 
+ **/
+a.atooltip{
+  	position: relative;
+  	display: inline;
+	padding: 3px;
+}
+a.atooltip:after{
+  	display: block;
+  	visibility: hidden;
+  	position: absolute;
+  	bottom: 0;
+  	left: 20%;
+  	opacity: 0;
+  	content: attr(data-tool); /* might also use attr(title) */
+  	height: auto;
+  	min-width: 200px;
+  	padding: 5px 8px;
+  	z-index: 999;
+  	color: #fff;
+  	text-decoration: none;
+  	text-align: center;
+  	background: rgba(0,0,0,0.85);
+  	-webkit-border-radius: 5px;
+  	-moz-border-radius: 5px;
+  	border-radius: 5px;
+}
+a.atooltip:before {
+  	position: absolute;
+  	visibility: hidden;
+  	width: 0;
+  	height: 0;
+  	left: 50%;
+  	bottom: 0px;
+  	opacity: 0;
+  	content: "";
+  	border-style: solid;
+  	border-width: 6px 6px 0 6px;
+  	border-color: rgba(0,0,0,0.85) transparent transparent transparent;
+}
+a.atooltip:hover:after{ visibility: visible; opacity: 1; bottom: 30px; }
+a.atooltip:hover:before{ visibility: visible; opacity: 1; bottom: 24px; }
+a.atooltip:focus:after{ visibility: visible; opacity: 1; bottom: 30px; }
+a.atooltip:focus:before{ visibility: visible; opacity: 1; bottom: 24px; }
+a.atooltip.aanimate:after, a.atooltip.aanimate:before {
+  	-webkit-transition: all 0.2s ease-in-out;
+  	-moz-transition: all 0.2s ease-in-out;
+  	-ms-transition: all 0.2s ease-in-out;
+  	-o-transition: all 0.2s ease-in-out;
+  	transition: all 0.2s ease-in-out;
+}
+a.atooltip:focus{
+	outline: 1px solid #000054 !important;
+}
+/* accordion fix to resolve whitespace created by opacity: 0 used to improve accessibility over display: none for accordions. */ 
+.fade:not(.show) {
+  	height: 0;
+}
+/* bugfix to stop generating button styles in safari for things called buttons but are not. Maybe we rename button elements as <a class=""> */
+button, [type="button"], [type="submit"] {
+	-webkit-appearance: caret;
+}
+/* reapplies focus outline on left pills */
+button.nav-link:focus,
+button.notabutton:focus {
+	outline: 2px solid #777777 !important;
+}
+button.nav-link.active:focus {
+	outline: 1px solid #777777 !important;
+}
+.easyaccbutton:focus {
+	outline: 1px solid #777777 !important;
+}
+.easyaccbutton.active:focus {
+	outline: 1px solid #777777 !important;
+}
+.transcripticon {
+    text-align: right;
+    margin-right: 10px;
+    color: #000054 !important;
+    font-weight: normal;
+}
+.embedhide {
+	display: block;
+}
+#iframetitle {
+	display: none;
+}
+.iframeheading {
+	font-size: 1.3rem;
+	color: #000054;
+	font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.colpad {
+	padding-right: 50px;
+	padding-left: 20px;
+	vertical-align:text-top !important;	
+}

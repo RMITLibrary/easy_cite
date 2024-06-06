@@ -1,0 +1,131 @@
+/* Adjust main-content padding top  to account for sub-menu behaviour */
+.main-content {
+	padding-top: 3rem;
+	@include media-breakpoint-down(lg) { padding-top: 5.5rem; }
+}
+
+//hide hamburger from large screen sizes
+.top-navigation .menu {
+	display: none;
+	@include media-breakpoint-down(lg) { display: block; }
+}
+
+/* Only displayed on large screen sizes */
+#sub-menu {
+    //To fix sub-menu, uncomment this!
+    //position: fixed;
+    padding-top: 3.5rem;
+    @include media-breakpoint-down(lg) { display: none; }
+}
+
+/* Extra links for context menu/hamburger nav */
+.additional-links {
+	margin-top: 1.5rem !important;
+    
+    list-style: none;
+    padding: 0;
+    padding-top: 2rem;
+    margin: 0;
+    
+    font-weight: 500;
+    
+    border-top: 1px solid $white;
+    
+    li {
+        margin-bottom: 1rem;
+    }
+    
+    a { text-decoration: none; }
+    a:hover { text-decoration: underline; }
+}
+
+/* Style buttons as links */
+.right-nav-simple {
+    .nav-link {
+        border: 0;
+        background-color: $underlay-grey;
+        width: 100%;
+        padding: 0.75rem 2rem 0.75rem 2rem;
+        text-align: left;
+
+        &:hover {
+            text-decoration: underline;
+            color: $rmit-blue;
+        }
+    }  
+    
+    .selected {
+        border-left: 0.25rem solid $red;
+        padding-left: 1.75rem;
+        background-color: $underlay-selected;
+    }
+}
+
+/* Do apa indenting on text */
+.hanging-indent {
+    padding-left: 2rem;
+    text-indent: -2rem;
+}
+
+.footnote-indent{
+	padding-left: -2rem;
+ 	text-indent: 2rem;
+}
+.ieee-refs {
+    padding-left: 2rem;
+    text-indent: -2rem;
+}
+.centre-align{
+	text-align: center !important;
+}
+
+.figure-text {
+    @include type-small;
+}
+
+/* Display page-title and print button side by side */
+.page-title {
+	display: flex;
+	justify-content: space-between;
+	gap: 2rem;
+	
+	/* Remove h1 marginsd for this context (other elements with provide margins) */
+	h1 {
+		margin: 0; 
+	}
+	
+	/* Fix button width to prevent flexbox from stretching button at small sizes */
+	.btn-print {
+		width: 94px;
+	}
+	
+	/* Stack elements at smaller sizes */
+	@include media-breakpoint-down(lg) {
+		flex-direction: column;
+		justify-content: flex-start;
+		
+		/* Change visdual order for smaller sizes*/
+		h1 { order: 2; }
+		.btn-print { order: 1; }
+	}
+}
+
+/* Cope with long links in accordion content */
+.accordion-body a {
+	overflow-wrap: break-word;
+}
+
+/* footer */
+.footer-info {
+	@include do-space(margin-top, md);
+	
+	p { @include type-small; 
+		margin: 0;
+	}
+}
+
+.footer-links {
+	margin-top: 1.5rem !important;
+}
+
+

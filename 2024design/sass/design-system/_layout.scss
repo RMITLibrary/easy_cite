@@ -1,0 +1,112 @@
+/*$img-width-xl: 100%;
+$img-width-lg: 40rem;       //640px
+$img-width-md: 25rem;       //400px
+$img-width-sm: 18.5rem;     //296px*/
+/*
+.img-width- {
+    &full {
+        max-width: $img-width-xl;
+    }
+    
+    &lg {
+        max-width: $img-width-lg;
+    }
+    
+    &md {
+        max-width: $img-width-md;
+    }
+    
+    &sm {
+        max-width: $img-width-sm;
+    }
+}
+*/
+
+
+/* On smaller screens we still stack everything */
+.two-col {
+    @include do-space(margin-top, lg); 
+    @include do-space(margin-bottom, lg); 
+    
+    /* remove margins expect for a small one at the bottom */
+    figure {
+        margin: 0 0 0.5rem 0;
+    }
+    
+    /* no margin or border */
+    figcaption {
+        padding: 0;
+        border: 0;
+    }
+    
+    /* small margin for headings in this context */
+    h2, h3, h4, h5, h6 {
+        margin-top: 1rem;
+    }
+    
+    /* START small screen sizes */
+    /* At screen widths greater then 576px, swap to two column */
+    @include media-breakpoint-up(sm) {  
+        display: flex;
+        
+        /* Vertically align items */
+        align-items: center;
+        gap: 1rem;
+        
+        /* flex this to exploit ordering */
+        .content {
+            /* Content to the right */
+            order: 1;
+            display: flex;
+            gap: 1rem;
+            flex-direction: column;
+        }
+        
+        /* remove margins as collapsible margins don't work in flex :( */
+        * {
+            margin: 0 !important;
+        }
+        
+        
+        figure {
+            /* Figure to the right */
+            order: 2;
+            margin: 0;
+            
+            width: 17.5rem;
+            flex-shrink: 0;
+        }
+        
+        
+        /* Once we aren't stacking everything, photo caption comes last */
+        figcaption {
+            order: 100;
+        }        
+    }
+    /* END small screen sizes */
+    
+    @include media-breakpoint-up(lg) {  
+        gap: 1.5rem;
+    }
+}
+
+/* Customisation options */
+.align-top {
+    align-items: flex-start;
+}
+
+/* Swap image and content around, image is on the left */
+.img-left {
+    figure {
+        order: 1;
+    }
+    .content {
+        order: 2;
+    }
+}
+
+/* Small image across all sizes */
+.img-xs {
+    figure { width: 7.5rem; }
+}
+
