@@ -5,15 +5,15 @@
 <!-- unless you need to add or delete sections as required for type and subtype content -->
 
 <!-- start the top style guide menu -->
-<!-- the HAMBURGER and STYLE GUIDE menu lists must use heading 1 (#) -->
+<!-- the menu headings must use heading 1 (#) -->
 <!-- add additional style guides if needed -->
-###### start-mobile-menu
+###### start-mobile-title
 # RMIT Harvard
-###### end-mobile-menu
+###### end-mobile-title
 
-###### start-desktop-menu
+###### start-desktop-title
 # RMIT Harvard
-###### end-desktop-menu
+###### end-desktop-title
 
 ###### start-style-guide
 <!-- start the left-hand TYPE menu -->
