@@ -5,18 +5,15 @@
 <!-- unless you need to add or delete sections as required for type and subtype content -->
 
 <!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
+<!-- the HAMBURGER and STYLE GUIDE menu lists must use heading 1 (#) -->
 <!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
+###### start-mobile-menu
 # RMIT Harvard
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# Vancouver
-###### end-style-menu
+###### end-mobile-menu
+
+###### start-desktop-menu
+# RMIT Harvard
+###### end-desktop-menu
 
 ###### start-style-guide
 <!-- start the left-hand TYPE menu -->
