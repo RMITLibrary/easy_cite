@@ -1,7 +1,7 @@
 /* Adjust main-content padding top  to account for sub-menu behaviour */
 .main-content {
 	padding-top: 3rem;
-	@include media-breakpoint-down(lg) { padding-top: 5.5rem; }
+	@include media-breakpoint-down(lg) { padding-top: 4rem; }
 }
 
 //hide hamburger from large screen sizes
@@ -41,6 +41,18 @@
 
 /* Style buttons as links */
 .right-nav-simple {
+    
+    h1 {
+        font-size: 1.5rem;
+        padding: 0.25rem 1.5rem 0.75rem 1.5rem;
+        margin: 0;
+        
+         /* Hide h1 at smaller sizes */
+        @include media-breakpoint-down(lg) {
+            display: none;
+        }
+    }
+    
     .nav-link {
         border: 0;
         background-color: $underlay-grey;
@@ -83,6 +95,47 @@
     @include type-small;
 }
 
+/* only displayed when hamburger menu is displayed */
+.mobile-title {
+    display: none;
+    
+    /* Show a title at the top of the page on mobile*/
+    @include media-breakpoint-down(lg) {
+        display: block;
+        margin-top: 0;
+        margin-bottom: 3rem;
+        
+        padding-top: 1rem;
+        padding-bottom: 0.75rem;
+        border-bottom: 1px solid $interface-grey;
+        
+        font-size: 1.25rem;
+        
+    }
+    
+    /* adjust padding to account for no logo tab overhang */
+    @include media-breakpoint-down(md) {
+        padding-top: 0;
+    }
+    
+    /* make divider go full screen width */
+    @include media-breakpoint-down(sm) {
+        
+        margin-left: -0.75rem;
+        margin-right: -0.75rem;
+        
+        padding-left: 0.75rem;
+        padding-right: 0.75rem;
+    }
+}
+
+.home-title {
+    margin-top: 1.5rem;
+    @include media-breakpoint-up(lg) {
+        margin-top: 0;
+    }
+}
+
 /* Display page-title and print button side by side */
 .page-title {
 	display: flex;
@@ -90,7 +143,7 @@
 	gap: 2rem;
 	
 	/* Remove h1 marginsd for this context (other elements with provide margins) */
-	h1 {
+	h2 {
 		margin: 0; 
 	}
 	
@@ -103,10 +156,7 @@
 	@include media-breakpoint-down(lg) {
 		flex-direction: column;
 		justify-content: flex-start;
-		
-		/* Change visdual order for smaller sizes*/
-		h1 { order: 2; }
-		.btn-print { order: 1; }
+        gap: 1rem;
 	}
 }
 

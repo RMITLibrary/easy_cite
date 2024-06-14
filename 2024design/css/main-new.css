@@ -12006,7 +12006,7 @@ $img-width-sm: 18.5rem;     //296px*/
 }
 @media (max-width: 991.98px) {
   .main-content {
-    padding-top: 5.5rem;
+    padding-top: 4rem;
   }
 }
 
@@ -12050,6 +12050,17 @@ $img-width-sm: 18.5rem;     //296px*/
 }
 
 /* Style buttons as links */
+.right-nav-simple h1, .right-nav-simple .h1 {
+  font-size: 1.5rem;
+  padding: 0.25rem 1.5rem 0.75rem 1.5rem;
+  margin: 0;
+  /* Hide h1 at smaller sizes */
+}
+@media (max-width: 991.98px) {
+  .right-nav-simple h1, .right-nav-simple .h1 {
+    display: none;
+  }
+}
 .right-nav-simple .nav-link {
   border: 0;
   background-color: #f5f5f5;
@@ -12097,6 +12108,47 @@ $img-width-sm: 18.5rem;     //296px*/
   }
 }
 
+/* only displayed when hamburger menu is displayed */
+.mobile-title {
+  display: none;
+  /* Show a title at the top of the page on mobile*/
+  /* adjust padding to account for no logo tab overhang */
+  /* make divider go full screen width */
+}
+@media (max-width: 991.98px) {
+  .mobile-title {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid #BFBFBF;
+    font-size: 1.25rem;
+  }
+}
+@media (max-width: 767.98px) {
+  .mobile-title {
+    padding-top: 0;
+  }
+}
+@media (max-width: 575.98px) {
+  .mobile-title {
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+}
+
+.home-title {
+  margin-top: 1.5rem;
+}
+@media (min-width: 992px) {
+  .home-title {
+    margin-top: 0;
+  }
+}
+
 /* Display page-title and print button side by side */
 .page-title {
   display: flex;
@@ -12106,7 +12158,7 @@ $img-width-sm: 18.5rem;     //296px*/
   /* Fix button width to prevent flexbox from stretching button at small sizes */
   /* Stack elements at smaller sizes */
 }
-.page-title h1, .page-title .h1 {
+.page-title h2, .page-title .h2 {
   margin: 0;
 }
 .page-title .btn-print {
@@ -12116,13 +12168,7 @@ $img-width-sm: 18.5rem;     //296px*/
   .page-title {
     flex-direction: column;
     justify-content: flex-start;
-    /* Change visdual order for smaller sizes*/
-  }
-  .page-title h1, .page-title .h1 {
-    order: 2;
-  }
-  .page-title .btn-print {
-    order: 1;
+    gap: 1rem;
   }
 }
 
