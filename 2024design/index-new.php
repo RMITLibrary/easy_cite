@@ -204,25 +204,29 @@ $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div id="page-content">
 	
 //DESKTOP TITLE top of SIDEBAR
 $mylist = preg_replace("/<h6>start-desktop-title<\/h6>/", '<h1>', $mylist);
-$mylist = preg_replace("/<h6>end-desktop-title<\/h6>/", '</h1><p>&nbsp;</p>', $mylist);
+$mylist = preg_replace("/<h6>end-desktop-title<\/h6>/", '</h1>', $mylist);
 	
 //SIDEBAR	
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<!-- START sidebar nav -->', $mylist);
-$mylist = preg_replace("/<h2>/", '<button class="nav-link selected" id="stn-0" data-bs-toggle="pill" data-bs-target="#sgt-0" type="button" role="tab" tabindex="0" aria-controls="sgt-0" aria-selected="true" onclick="myFunction(this, \'#stn-0\')">', $mylist); 
+$mylist = preg_replace("/<h2>/", '<button class="nav-link selected" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="true" onclick="myFunction(this, \'thishash1\')">', $mylist); 
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
 	
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '</nav></div>', $mylist);	
 	
-//MOBILE TITLE - only visible in mobile view
-$mylist = preg_replace("/<h6>start-mobile-title<\/h6>/", '<ul class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
-$mylist = preg_replace("/<h6>end-mobile-title<\/h6>/", '</ul><p>&nbsp;</p>', $mylist);	
 	
+//MOBILE TITLE - title part only visible in mobile view
+$mylist = preg_replace("/<h6>start-mobile-title<\/h6>/", '<!-- START content columns --><div class="col-xl-8 order-first">				<!-- START printable guide div --><div id="printable-guide"><!-- START tab-content stnContent-0 --><div class="tab-content" id="stnContent-0"><h1 class="mobile-title">', $mylist);
+$mylist = preg_replace("/<h6>end-mobile-title<\/h6>/", '</h1>', $mylist);	
+
 // ACCORDIONS
-$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-12 col-sm-9 flex-grow-1"><div id="printable-guide"><div class="tab-content" id="stnContent-yy">', $mylist);
-$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy"><div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print this part of the style guide (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
-  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
-  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
-</svg></button></div>', $mylist);	
+$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '&nbsp;', $mylist);
+
+//TYPE TITLE
+$mylist = preg_replace("/<h6>start-type-title<\/h6>/", '<div class="page-title"><h2 class="h1">', $mylist);
+$mylist = preg_replace("/<h6>end-type-title<\/h6>/", '</h2>', $mylist);	
+
+// PRINT SECTION	
+$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>', $mylist);	
 	
 // ACCORDION ITEMS
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
@@ -231,12 +235,12 @@ $mylist = preg_replace("/<h3>/s", '<h3 class="accordion-header mt-1" id="heading
 $mylist = preg_replace("/<\/h3>/s", '</button></h3>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
       <div class="accordion-body">', $mylist);
-$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<div class="d-md-flex justify-content-md-end"><button class="notabutton bi bi-printer sectionprint" tabindex="0" onClick="printThisGuide(this)">Print this section only (opens new window) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer" viewBox="0 0 16 16">
-  <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
-  <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z"/>
-</svg></button></div></div></div>', $mylist);
+$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<button class="btn btn-print sectionprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
+</div></div></div>', $mylist);
+	
 $mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
+	
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div>', $mylist);
