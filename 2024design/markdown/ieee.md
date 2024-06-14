@@ -3,22 +3,14 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-
-<!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
-# RMIT Harvard
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# Vancouver
-###### end-style-menu
-
+<!-- -->
 ###### start-style-guide
+<!-- start the desktop style guide title -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-desktop-title
+# IEEE
+###### end-desktop-title
+<!-- -->
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -33,12 +25,23 @@
 ## Other sources
 ## AI-generated content
 ###### end-type-menu
-
+<!-- -->
+<!-- start the mobile style guide title (only visible in mobile view) -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-mobile-title
+# IEEE
+###### end-mobile-title
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 
 <!-- Using IEEE - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
+<!-- -->
+###### start-type-title
+Using IEEE
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -340,6 +343,11 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 
 
 <!-- Books - links to the second type menu item -->
+<!-- -->
+###### start-type-title
+Books
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -694,6 +702,11 @@ Somerset, UK: Wiley-IEEE Press. [Online]. Available: doi.org/10.1002/97811180290
 
 
 <!-- Journal articles - links to the third type menu item -->
+<!-- -->
+###### start-type-title
+Journal articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1054,6 +1067,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 
 <!-- Conferences - links to the fourth type menu item -->
+<!-- -->
+###### start-type-title
+Conferences
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1137,6 +1155,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 
 <!-- Reports - links to the fifth type menu item -->
+<!-- -->
+###### start-type-title
+Reports
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1220,6 +1243,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 
 <!-- Webpages - links to the sixth type menu item -->
+<!-- -->
+###### start-type-title
+Webpages
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1344,6 +1372,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 
 <!-- Audiovisual media - links to the seventh type menu item -->
+<!-- -->
+###### start-type-title
+Audiovisual media
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1472,7 +1505,11 @@ When citing an audio podcast make sure to include the following information wher
 ###### end-type-content
 
 <!-- Other sources - links to the eighth type menu item -->
-
+<!-- -->
+###### start-type-title
+Other sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1813,6 +1850,11 @@ In the Reference list include:
 
 
 <!-- AI-generated content - links to the ninth type menu item -->
+<!-- -->
+###### start-type-title
+AI-generated content
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype

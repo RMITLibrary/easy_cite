@@ -52,6 +52,7 @@
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
+<!-- START top nav -->
 <header>
 	<a href="#main-content" class="visually-hidden">Skip to main content</a>
 	<div class="top-navigation">
@@ -61,7 +62,7 @@
 				<!-- START left hand column -->
 				<div class="col-auto left-nav">
 					<div class="rmit-logo"><span class="visually-hidden">RMIT University logo</span></div>
-					<a href="/" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
+					<a href="#" id="nav-link-0" href="#" tabindex="0" data-bs-target="#nav-0" aria-controls="nav-0" onclick="myFunction2(this, 'styleguide-0')" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
 				</div>
 				<!-- END left hand column -->
 				<!-- START right hand column -->
@@ -86,10 +87,53 @@
 		</div>
 		<!-- END container -->
 	</div>
-	
-
-	
+    <!-- START expanded hamburger menu -->
+    <div id="context-menu" class="collapse">
+		<!-- START container -->
+		<div class="container nav-container">
+            <nav aria-label="Main Menu">
+                <ul class="link-list-white">
+                    <li><a id="nav-linkh-2" href="#" tabindex="0" data-bs-target="#nav-2" aria-controls="nav-2" onclick="myFunction2(this, 'styleguide-2')">AGLC4</a></li>
+                    <li><a id="nav-linkh-3" href="#" tabindex="0" data-bs-target="#nav-3" aria-controls="nav-3" onclick="myFunction2(this, 'styleguide-3')">APA 7th edition</a></li>
+                    <li><a id="nav-linkh-4" href="#" tabindex="0" data-bs-target="#nav-4" aria-controls="nav-4" onclick="myFunction2(this, 'styleguide-4')">Chicago A</a></li>
+                    <li><a id="nav-linkh-5" href="#" tabindex="0" data-bs-target="#nav-5" aria-controls="nav-5" onclick="myFunction2(this, 'styleguide-5')">Chicago B</a></li>
+                    <li><a id="nav-linkh-6" href="#" tabindex="0" data-bs-target="#nav-6" aria-controls="nav-6" onclick="myFunction2(this, 'styleguide-6')">IEEE</a></li>
+                    <li><a id="nav-linkh-1" href="#" tabindex="0" data-bs-target="#nav-1" aria-controls="nav-1" onclick="myFunction2(this, 'styleguide-1')">RMIT Harvard</a></li>
+                    <li><a id="nav-linkh-7" href="#" tabindex="0" data-bs-target="#nav-7" aria-controls="nav-7" onclick="myFunction2(this, 'styleguide-7')">Vancouver</a></li>
+                </ul>
+            </nav>
+            <ul class="additional-links">
+                <li>
+                    <a href="https://www.rmit.edu.au/library">Library</a>
+                </li>
+                <li>
+                    <a href="https://www.rmit.edu.au/library">Referencing</a>
+                </li>
+            </ul>
+		</div>
+		<!-- END container -->
+	</div>
+    <!-- END expanded hamburger menu -->
+    
+    <!-- START submenu desktop only -->
+	<div id="sub-menu">    
+		<div class="container">
+			<nav aria-label="Main Menu">
+				<ul>
+					<li><a id="nav-link-2" href="#" tabindex="0" data-bs-target="#nav-2" role="tab" aria-controls="nav-2" onclick="myFunction2(this, 'styleguide-2')">AGLC4</a></li>
+					<li><a id="nav-link-3" href="#" tabindex="0" data-bs-target="#nav-3" role="tab" aria-controls="nav-3" onclick="myFunction2(this, 'styleguide-3')">APA 7th edition</a>
+					<li><a id="nav-link-4" href="#" tabindex="0" data-bs-target="#nav-4" role="tab" aria-controls="nav-4" onclick="myFunction2(this, 'styleguide-4')">Chicago A</a></li>
+					<li><a id="nav-link-5" href="#" tabindex="0" data-bs-target="#nav-5" role="tab" aria-controls="nav-5" onclick="myFunction2(this, 'styleguide-5')">Chicago B</a></li>
+					<li><a id="nav-link-6" href="#" tabindex="0" data-bs-target="#nav-6" role="tab" aria-controls="nav-6" onclick="myFunction2(this, 'styleguide-6')">IEEE</a></li>
+					<li><a id="nav-link-1" href="#" tabindex="0" data-bs-target="#nav-1" role="tab" aria-controls="nav-1" onclick="myFunction2(this, 'styleguide-1')">RMIT Harvard</a></li>
+                    <li><a id="nav-link-7" href="#" tabindex="0" data-bs-target="#nav-7" role="tab" aria-controls="nav-7" onclick="myFunction2(this, 'styleguide-7')">Vancouver</a></li>
+				</ul>
+			</nav>
+		</div>		
+	</div>
+	<!-- END submenu desktop only -->
 </header>
+<!-- END top nav -->
 	
 <!-- Page content--> 
 		
@@ -150,28 +194,28 @@ if ($whichstyleguide == "styleguide-0"){
 $mylist = $parsedown->text($thestyleguide);
 	
 //replace heading tags with bootstrap layout
-// NAV TABS
-$mylist = preg_replace("/<h6>start-style-menu<\/h6>/", '<ul class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
-$mylist = preg_replace("/<h1>/", '<li id="nav-xx-tab" class="nav-item" data-bs-toggle="tab" data-bs-target="#nav-xx" type="button" role="tab" aria-controls="nav-xx" aria-selected="false">
-<a id="nav-link-xx" class="nav-link mynavtabs" href="#" tabindex="0" onclick="myFunction2(this, \'thisstyleguide\')">', $mylist);
-$mylist = preg_replace("/<\/h1>/", '<div class="layer" aria-hidden="true">whichguidetitle</div></a></li>', $mylist);
-$mylist = preg_replace("/<h6>end-style-menu<\/h6>/", '</ul><p>&nbsp;</p>', $mylist);
-//REPLACE whichguidetitle with the correct title for the animated nav tabs
-$mylist = preg_replace("/Using Easy Cite<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Using Easy Cite<div class="layer" aria-hidden="true">Using Easy Cite</div>', $mylist);
-$mylist = preg_replace("/RMIT Harvard<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'RMIT Harvard<div class="layer" aria-hidden="true">RMIT Harvard</div>', $mylist);
-$mylist = preg_replace("/AGLC4<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'AGLC4<div class="layer" aria-hidden="true">AGLC4</div>', $mylist);
-$mylist = preg_replace("/APA 7<sup>th<\/sup> ed.<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'APA 7<sup>th</sup> ed.<div class="layer" aria-hidden="true">APA 7<sup>th</sup> ed.</div>', $mylist);
-$mylist = preg_replace("/Chicago A<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago A<div class="layer" aria-hidden="true">Chicago A</div>', $mylist);
-$mylist = preg_replace("/Chicago B<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Chicago B<div class="layer" aria-hidden="true">Chicago B</div>', $mylist);
-$mylist = preg_replace("/IEEE<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'IEEE<div class="layer" aria-hidden="true">IEEE</div>', $mylist);
-$mylist = preg_replace("/Vancouver<div class=\"layer\" aria-hidden=\"true\">whichguidetitle<\/div>/", 'Vancouver<div class="layer" aria-hidden="true">Vancouver</div>', $mylist);
+
+
 	
-//PILLS
-$mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div class="tab-content" id="nav-tabContent-xx"><div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><div class="d-flex flex-row flex-wrap">', $mylist);
-$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
-$mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); 
+
+	
+//START STYLE GUIDE
+$mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div id="page-content"><main class="container main-content"><div class="row "><!-- START right nav --><div class="col-xl-4 order-last"><nav class="right-nav-simple" aria-label="Section Menu">', $mylist);
+	
+//DESKTOP TITLE top of SIDEBAR
+$mylist = preg_replace("/<h6>start-desktop-title<\/h6>/", '<h1>', $mylist);
+$mylist = preg_replace("/<h6>end-desktop-title<\/h6>/", '</h1><p>&nbsp;</p>', $mylist);
+	
+//SIDEBAR	
+$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<!-- START sidebar nav -->', $mylist);
+$mylist = preg_replace("/<h2>/", '<button class="nav-link selected" id="stn-0" data-bs-toggle="pill" data-bs-target="#sgt-0" type="button" role="tab" tabindex="0" aria-controls="sgt-0" aria-selected="true" onclick="myFunction(this, \'#stn-0\')">', $mylist); 
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick=" window.open(\'https://rmit.libguides.com/referencing_AI_tools\', \'_blank\'); return false;">AI generated content<br />(opens new window)</button><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
+	
+$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '</nav></div>', $mylist);	
+	
+//MOBILE TITLE - only visible in mobile view
+$mylist = preg_replace("/<h6>start-mobile-title<\/h6>/", '<ul class="nav nav-tabs" id="nav-tab" role="tablist">', $mylist);
+$mylist = preg_replace("/<h6>end-mobile-title<\/h6>/", '</ul><p>&nbsp;</p>', $mylist);	
 	
 // ACCORDIONS
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-12 col-sm-9 flex-grow-1"><div id="printable-guide"><div class="tab-content" id="stnContent-yy">', $mylist);
@@ -442,43 +486,128 @@ echo($mylist);
 </div><!-- end padding for content -->
 <!-- end page content-->
 		
-<!-- footer content-->	
-<div class="">
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
-	<div class="footerarea">
-		<div id="gotoeasycite"><a href="https://www.lib.rmit.edu.au/easy-cite/" class="footerlinks atooltip aanimate" data-tool="Link opens in a new tab" target="_blank" >Go to Easy Cite home</a> | &nbsp; </div>
-			<a href="https://forms.office.com/r/ZCZH0nR4HF" target="_blank" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here. Link opens in a new tab." >Send us feedback</a>&nbsp; |&nbsp; 
-		<!-- Trigger modal -->
-			<a type="button" class="notabutton footerlinks atooltip aanimate" data-bs-toggle="modal" data-bs-target="#exampleModal" data-tool="Select this link to see copyright and licensing information">About Easy Cite</a>
-	</div>
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
-</div>
+    <!-- START footer -->
 	
+	<!-- START ask the librsary -->
+	<div class="footer-container">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<!-- START ask the library -->
+					<div class="ask-container">
 
-<!-- Modal: About Easy Cite -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-header">
-		  <h3 class="modal-title" id="exampleModalLabel">Easy Cite referencing tool </h3> 
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <p>Easy Cite referencing tool by <a href="https://www.rmit.edu.au/library" target="_blank" class="modallinks" >RMIT University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" class="modallinks" >Creative Commons CC BY-NC-SA 3.0</a>. </p>
-		  <p>This resource is derived from a work by <a href="https://www.swinburne.edu.au/library" target="_blank" class="modallinks" >Swinburne University Library</a>, based on an original work by <a href="https://www.griffith.edu.au/library" target="_blank" class="modallinks" >Griffith University Library</a>.</p>
-		  <p>(links open in new tabs)</p>
-		  <p><strong>&copy; RMIT University Library</strong></p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
+						<div class="ask-the-library">
+							<a href="https://www.rmit.edu.au/library/about-and-contacts/ask-the-library">
+								<img src="https://rmitlibrary.github.io/cdn/image/svg/ask-the-library.svg" class="ask-logo" alt="Ask the library" />
+								<div class="ask-text">
+									<p class="lead">Still can't find what you need?</p>
+									<p>The RMIT University Library provides study support, one-on-one consultations and peer mentoring to RMIT students.</p>
+								</div>
+							</a>
+						</div>
+
+					</div>
+					<!-- END ask the library -->
+				</div>
+			</div>
+		</div>
+		<!-- START acknowledgement -->
+		<div class="acknowledgement">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<div class="acknowledgement-container">
+							<div class="acknowledgement-image">
+								<img src="https://www.rmit.edu.au/content/dam/rmit/images/luwaytini.png" alt="" />
+							</div>
+
+							<div class="content">
+								<img alt="aboriginal flag" src="https://www.rmit.edu.au/content/dam/rmit/au/en/news/homepage/flag-red.png" />
+								<img alt="torres strait flag" src="https://www.rmit.edu.au/content/dam/rmit/au/en/news/homepage/flag-green.png">
+
+								<h2 class="h4 margin-top-zero">Acknowledgement of Country</h2>
+								<p>RMIT University acknowledges the people of the Woi wurrung and Boon wurrung language groups of the eastern Kulin Nation on whose unceded lands we conduct the business of the University. RMIT University respectfully acknowledges their Ancestors and Elders, past and present. RMIT also acknowledges the Traditional Custodians and their Ancestors of the lands and waters across Australia where we conduct our business - Artwork 'Luwaytini' by Mark Cleaver, Palawa.</p>
+								<a href="#" class="link-large">More information</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>    
+		<!-- END acknowledgement -->
+		<!-- START footer -->
+		<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<!-- START logo -->    
+					<a aria-label="Royal Melbourne Institute of Technology University Logo" href="https://www.rmit.edu.au/">
+						<div aria-hidden="true" class="logo"><span class="no-focus" tabindex="-1"><img src="https://rmitlibrary.github.io/cdn/image/svg/rmit-logo.svg" style="width: 100px" alt="" /></span>
+						</div>
+					</a>
+					<!-- END logo -->
+					<!-- START links -->
+					<div class="footer-info">
+						<p>Easy Cite referencing guide by <a href="https://www.rmit.edu.au/library" target="_blank" class="modallinks">RMIT University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" class="modallinks">Creative Commons CC BY-NC-SA 4.0</a>. </p>
+					 	<p>This resource is derived from a work by <a href="https://www.swinburne.edu.au/library" target="_blank" class="modallinks">Swinburne University Library</a>, based on an original work by <a href="https://www.griffith.edu.au/library" target="_blank" class="modallinks">Griffith University Library</a>.</p>
+					 	<p>(links open in new tabs)</p>
+					</div>
+					<ul class="footer-links"><li><a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback" target="_blank">Send us feedback</a></li></ul>
+					
+					<!-- END links -->
+					<!-- START legal-social -->
+					<div class="footerlegalShareItems">
+						<!-- START legal -->
+						<div class="footer-legal">
+						<ul>
+							<li>Copyright © 2024 RMIT University<span> | </span></li>
+							<li><a href="https://www.rmit.edu.au/utilities/terms"><span class="no-focus" tabindex="-1">Terms</span></a><span> | </span></li>
+							<li><a href="https://www.rmit.edu.au/utilities/privacy"><span class="no-focus" tabindex="-1">Privacy</span></a><span> | </span></li>
+							<li><a href="https://www.rmit.edu.au/utilities/accessibility"><span class="no-focus" tabindex="-1">Accessibility</span></a> <span> | </span></li>
+							<li><a data-analytics-type="footerlink" data-analytics-value="Website feedback" href="https://www.rmit.edu.au/utilities/website-feedback"><span class="no-focus" tabindex="-1">Website feedback</span></a><span> | </span></li>
+							<li><a data-analytics-type="footerlink" data-analytics-value="Complaints" href="https://www.rmit.edu.au/utilities/complaints"><span class="no-focus" tabindex="-1">Complaints</span></a><span> | </span></li>
+							<li>ABN 49 781 030 034<span> | </span></li>
+							<li>CRICOS provider number: 00122A<span> | </span></li>
+							<li>TEQSA provider number: PRV12145<span> | </span></li>
+							<li>RTO Code: 3046<span> | </span></li>
+							<li><a href="https://www.open.edu.au/online-courses/rmit-university"><span class="no-focus" tabindex="-1">Open Universities Australia</span></a> </li>
+						  </ul>
+						</div>
+						<!-- END legal -->
+						<!-- START social -->
+						<div class="social-nav">
+						<ul> 
+							<!-- START facebook -->
+							<li><a aria-label="For Facebook"  href="https://www.facebook.com/RMITuniversity/"> <span class="no-focus" tabindex="-1"><img src="https://rmitlibrary.github.io/cdn/image/svg/social/facebook.svg" alt="" /></span></a></li>
+							<!-- END facebook -->
+							<!-- START twitter/x -->
+							<li><a aria-label="For Twitter" href="https://twitter.com/rmit"> <span class="no-focus" tabindex="-1"><img src="https://rmitlibrary.github.io/cdn/image/svg/social/twitter.svg" alt="" /></span></a></li>
+							<!-- END twitter/x -->
+							<!-- START insta -->
+							<li><a aria-label="For Instagram" href="https://www.instagram.com/rmituniversity/"> <span class="no-focus" tabindex="-1"><img src="https://rmitlibrary.github.io/cdn/image/svg/social/instagram.svg" alt="" /></span> </a></li>
+							<!-- END insta -->              
+							<!-- START LinkedIn -->
+							<li><a aria-label="For LinkedIn" data-analytics-type="socialshare" data-analytics-value="LinkedIn" href="https://www.linkedin.com/school/rmit-university/"><span class="no-focus" tabindex="-1"><img src="https://rmitlibrary.github.io/cdn/image/svg/social/linkedin.svg" alt="" /></span></a></li>
+							<!-- END LinkedIn -->
+							<!-- START YouTube -->
+							<li><a aria-label="For Youtube" href="https://www.youtube.com/user/rmitmedia"> <span class="no-focus" tabindex="-1"><img src="https://rmitlibrary.github.io/cdn/image/svg/social/youtube.svg" alt="" /></span></a></li>
+							<!-- END YouTube -->     
+							<!-- START Weibo -->          
+							<li><a aria-label="For Weibo" href="https://www.weibo.com/rmituni"> <span class="no-focus" tabindex="-1"><img src="https://rmitlibrary.github.io/cdn/image/svg/social/weibo.svg" alt="" /></span></a></li>
+							<!-- END Weibo -->                
+						</ul>
+						</div>
+						<!-- END social -->
+					</div>
+					<!-- END legal-social -->
+				</div>
+			</div>
+		</div>
+		</footer>
+		<!-- END footer -->
+	</div>
 	
-<!-- end footer content-->	
+	<!-- END footer -->	
 
 <script>
 // URL STRING TO SAVE AND SHOW CORRECT CONTENT
@@ -645,7 +774,7 @@ function printThisGuide(elem) {
 // -----------------------------
 // INSTRUCTIONS TOGGLE
 // toggle the instructions box text - open/close
-function textToggle(elem){
+/*function textToggle(elem){
 	var thiscol = document.getElementById('collapseExample');
 	var colstatus = thiscol.getAttribute('aria-expanded');
 	if (colstatus == 'false'){
@@ -657,31 +786,44 @@ function textToggle(elem){
 		thiscol.setAttribute("aria-expanded", "false");
 		console.log("close");
 	}
-}
-
+}*/
 // -----------------------------
-// HIDE BANNER IN IFRAME
-// and show a different page title, 
-// and link to the actual Easy Cite page in the footer
-function iniFrame() {
-    if ( window.location !== window.parent.location )
-    { 
-        // The page is in an iFrames
-		document.getElementById("embedhide").style.display = "none";
-		document.getElementById("gotoeasycite").style.display = "block";
-		//console.log(document.getElementById("gotoeasycite").className);
-    } 
-    else {
-        // The page is not in an iFrame
-        //document.write("The page is not in an iFrame");
-		document.getElementById("embedhide").style.display = "block";
-		document.getElementById("gotoeasycite").style.display = "none";
-		//console.log(document.getElementById("gotoeasycite").className);
+//START HAMBURGER MENU 
+//If true, menu covers content
+//If false, menu pushes content down
+var menuCover = true;   
+/* Grab both the menu button and the page content */
+var menuButton = document.getElementById("menu-button");
+var pageContent = document.getElementById("page-content");
+/* Store content scroll position */
+var scrollPosition;
+/* Store display status of menu */
+var menuDisplay = false;
+/* Listen for click */
+if(menuCover) menuButton.addEventListener("click", showHideMenu);
+/*
+If menu is hidden, bootstrap wll show it, hide page content.
+If it's displayed, bottstrap will hide it, show the content.
+*/
+function showHideMenu() {
+    if(menuDisplay == false)
+    {
+        menuDisplay = true;
+        scrollPosition = window.scrollY;    
+        pageContent.style.display = "none"; 
+    }
+    else
+    {
+        menuDisplay = false;
+        pageContent.style.display = "block";
+        
+        /* Change scroll behaviour, jump to where the user had scrolled to on the page, then revert to smooth scrolling again. */
+        document.documentElement.style.scrollBehavior = "auto";
+        window.scroll(0, scrollPosition);
+        document.documentElement.style.scrollBehavior = "smooth";
     }
 }
-  
-// Calling iniFrame function
-iniFrame();
+//END HAMBURGER MENU 
 </script>
 </body>
 </html>

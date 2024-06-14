@@ -3,22 +3,14 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-
-<!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
-# RMIT Harvard
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# Vancouver
-###### end-style-menu
-
+<!-- -->
 ###### start-style-guide
+<!-- start the desktop style guide title -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-desktop-title
+# Vancouver
+###### end-desktop-title
+<!-- -->
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -31,12 +23,23 @@
 ## Other sources
 ## AI-generated content
 ###### end-type-menu
-
+<!-- -->
+<!-- start the mobile style guide title (only visible in mobile view) -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-mobile-title
+# Vancouver
+###### end-mobile-title
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 
 <!-- Using Vancouver - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
+<!-- -->
+###### start-type-title
+Using Vancouver
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -299,6 +302,11 @@ Check:
 
 
 <!-- Books - links to the second type menu item -->
+<!-- -->
+###### start-type-title
+Books
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -474,6 +482,11 @@ Include the same information as you would for a print book **as well as** the fo
 
 
 <!-- Journals - links to the third type menu item -->
+<!-- -->
+###### start-type-title
+Journals
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -596,6 +609,11 @@ In the Reference List, include the same information as you would for a print jou
 
 
 <!-- Newspaper articles - links to the fourth type menu item -->
+<!-- -->
+###### start-type-title
+Newspaper articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -767,6 +785,11 @@ If no author has been identified, begin the reference with the title of the arti
 
 
 <!-- Images - links to the fifth type menu item -->
+<!-- -->
+###### start-type-title
+Images
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1144,6 +1167,11 @@ The citation in the reference list will include the reference number you assigne
 ###### end-type-content
 
 <!-- Other sources - links to the sixth type menu item -->
+<!-- -->
+###### start-type-title
+Other sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1321,6 +1349,11 @@ Include in the reference list:
 
 
 <!-- AI-generated content - links to the seventh type menu item -->
+<!-- -->
+###### start-type-title
+AI-generated content
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype

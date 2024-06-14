@@ -3,19 +3,14 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-
-<!-- start the top style guide menu -->
-<!-- the menu headings must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-mobile-title
-# RMIT Harvard
-###### end-mobile-title
-
+<!-- -->
+###### start-style-guide
+<!-- start the desktop style guide title -->
+<!-- the title headings must use heading 1 (#) -->
 ###### start-desktop-title
 # RMIT Harvard
 ###### end-desktop-title
-
-###### start-style-guide
+<!-- -->
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -35,11 +30,22 @@
 ## Other sources
 ## AI-generated content
 ###### end-type-menu
-
+<!-- -->
+<!-- start the mobile style guide title (only visible in mobile view) -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-mobile-title
+# RMIT Harvard
+###### end-mobile-title
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 <!-- Using Harvard - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
+<!-- -->
+###### start-type-title
+Using Harvard
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -390,6 +396,11 @@ WHO (World Health Organization) (2021) *WHO accelerates work on nutrition target
 
 
 <!-- Books - links to the second type menu item -->
+<!-- -->
+###### start-type-title
+Books
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1058,6 +1069,11 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 
 <!-- Journal articles - links to the third type menu item -->
+<!-- -->
+###### start-type-title
+Journal articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1361,6 +1377,11 @@ In your reference list:
 
 
 <!-- Newspaper and magazine articles - links to the fourth type menu item -->
+<!-- -->
+###### start-type-title
+Newspaper and magazine articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1675,6 +1696,11 @@ Example
 
 
 <!-- Conference papers - links to the fifth type menu item -->
+<!-- -->
+###### start-type-title
+Conference papers
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1854,6 +1880,11 @@ In your reference list:
 
 
 <!-- Websites and webpage documents - links to the sixth type menu item -->
+<!-- -->
+###### start-type-title
+Websites and webpage documents
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2013,6 +2044,11 @@ In your reference list:
 
 
 <!-- Social media - links to the seventh type menu item -->
+<!-- -->
+###### start-type-title
+Social media
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2150,6 +2186,11 @@ In your reference list:
 
 
 <!-- Audiovisual material - links to the eighth type menu item -->
+<!-- -->
+###### start-type-title
+Audiovisual material
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2476,6 +2517,11 @@ In your reference list:
 
 
 <!-- Artwork, images, tables and graphs - links to the ninth type menu item -->
+<!-- -->
+###### start-type-title
+Artwork, images, tables and graphs
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2922,6 +2968,11 @@ In the caption:
 
 
 <!-- Reports and data sets - links to the tenth type menu item -->
+<!-- -->
+###### start-type-title
+Reports and data sets
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -3186,6 +3237,11 @@ In your reference list:
 
 
 <!-- Standards and patents - links to the eleventh type menu item -->
+<!-- -->
+###### start-type-title
+Standards and patents
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -3295,6 +3351,11 @@ In your reference list:
 
 
 <!-- Theses and dissertations - links to the twelfth type menu item -->
+<!-- -->
+###### start-type-title
+Theses and dissertations
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -3446,6 +3507,11 @@ In your reference list:
 
 
 <!-- Other sources - links to the thirteenth type menu item -->
+<!-- -->
+###### start-type-title
+Other sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -3881,6 +3947,11 @@ Add the accessed date (e.g. accessed 5 December 2021), followed by a full stop, 
 
 
 <!-- AI-generated content - links to the fourteenth type menu item -->
+<!-- -->
+###### start-type-title
+AI-generated content
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype

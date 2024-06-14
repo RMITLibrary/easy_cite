@@ -3,22 +3,14 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-
-<!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
-# RMIT Harvard
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# Vancouver
-###### end-style-menu
-
+<!-- -->
 ###### start-style-guide
+<!-- start the desktop style guide title -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-desktop-title
+# Chicago A
+###### end-desktop-title
+<!-- -->
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -34,12 +26,23 @@
 ## Other sources
 ## AI-generated content
 ###### end-type-menu
-
+<!-- -->
+<!-- start the mobile style guide title (only visible in mobile view) -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-mobile-title
+# Chicago A
+###### end-mobile-title
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 
 <!-- Using Chicago - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
+<!-- -->
+###### start-type-title
+Using Chicago A (footnotes)
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -342,6 +345,11 @@ Refer to original source
 
 
 <!-- Books - links to the second type menu item -->
+<!-- -->
+###### start-type-title
+Books
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -661,6 +669,11 @@ As exhibition catalogues and brochures are often published like a book, referenc
 
 
 <!-- Journals - links to the third type menu item -->
+<!-- -->
+###### start-type-title
+Journals
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -764,6 +777,11 @@ Cite journal articles accessed in print in the same way as journal articles acce
 
 
 <!-- Newspapers - links to the fourth type menu item -->
+<!-- -->
+###### start-type-title
+Newspapers
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -833,6 +851,11 @@ or if no author
 
 
 <!-- Audiovisual materials - links to the fifth type menu item -->
+<!-- -->
+###### start-type-title
+Audiovisual materials
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1248,6 +1271,11 @@ Unpublished scores are cited and referenced like unpublished manuscripts.
 
 
 <!-- Websites and social media - links to the sixth type menu item -->
+<!-- -->
+###### start-type-title
+Websites, blogs and social media
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1393,6 +1421,11 @@ Private content, including direct messages, is considered a form of personal com
 
 
 <!-- Reports and Standards - links to the seventh type menu item -->
+<!-- -->
+###### start-type-title
+Reports, standards and patents
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1518,6 +1551,11 @@ Patents are cited under the names of the creators and dated by the year of filin
 
 
 <!-- Images - links to the eighth type menu item -->
+<!-- -->
+###### start-type-title
+Images
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1732,6 +1770,11 @@ Unpublished tables, graphs and other diagrams that you create are not recorded i
 
 
 <!-- Other sources - links to the ninth type menu item -->
+<!-- -->
+###### start-type-title
+Other sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1918,6 +1961,11 @@ Include the lecture URL if there is one available.
 
 
 <!-- AI-generated content - links to the tenth type menu item -->
+<!-- -->
+###### start-type-title
+AI-generated content
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype

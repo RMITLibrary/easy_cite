@@ -3,22 +3,14 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-
-<!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
-# RMIT Harvard
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# Vancouver
-###### end-style-menu
-
+<!-- -->
 ###### start-style-guide
+<!-- start the desktop style guide title -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-desktop-title
+# APA 7<sup>th</sup> ed.
+###### end-desktop-title
+<!-- -->
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -35,12 +27,23 @@
 ## Other sources
 ## AI-generated content
 ###### end-type-menu
-
+<!-- -->
+<!-- start the mobile style guide title (only visible in mobile view) -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-mobile-title
+# APA 7<sup>th</sup> ed.
+###### end-mobile-title
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 
 <!-- Using APA 7th ed. - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
+<!-- -->
+###### start-type-title
+Using APA 7<sup>th</sup> ed.
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -434,6 +437,11 @@ Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin 
 
 
 <!-- Books - links to the second type menu item -->
+<!-- -->
+###### start-type-title
+Books
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -711,6 +719,11 @@ Include the translator(s) after the title and add the date of original publicati
 
 
 <!-- Journal articles - links to the third type menu item -->
+<!-- -->
+###### start-type-title
+Journal articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -910,6 +923,11 @@ If citing a journal article without a DOI, include the volume, issue number (if 
 
 
 <!-- Newspaper articles - links to the fourth type menu item -->
+<!-- -->
+###### start-type-title
+Newspaper articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1041,6 +1059,11 @@ If the article is spread across discontinuous pages, provide all page numbers se
 
 
 <!-- Legal material - links to the fifth type menu item -->
+<!-- -->
+###### start-type-title
+Legal material
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1139,6 +1162,11 @@ If a case is obtained from an electronic database, add a retrieval statement.
 
 
 <!-- Audiovisual material - links to the sixth type menu item -->
+<!-- -->
+###### start-type-title
+Audiovisual material
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1370,6 +1398,11 @@ Provide the exact URL in the retrieval statement.
 
 
 <!-- Webpages and websites - links to the seventh type menu item -->
+<!-- -->
+###### start-type-title
+Webpages and websites
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1505,6 +1538,11 @@ If referencing a blog post include the following: the author(s) name, year of pu
 
 
 <!-- Social media - links to the eighth type menu item -->
+<!-- -->
+###### start-type-title
+Social media
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1683,6 +1721,11 @@ If citing information taken directly from a post, include author(s) if applicabl
 
 
 <!-- Images / Tables - links to the ninth type menu item -->
+<!-- -->
+###### start-type-title
+Images / Tables
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2072,6 +2115,11 @@ All reference list entries should appear as per the convention of the source bei
 ###### end-type-content
 
 <!-- Other sources - links to the tenth type menu item -->
+<!-- -->
+###### start-type-title
+Other sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2426,6 +2474,11 @@ In the Reference list include:
 
 
 <!-- AI-generated content - links to the eleventh type menu item -->
+<!-- -->
+###### start-type-title
+AI-generated content
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype

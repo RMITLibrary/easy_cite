@@ -3,22 +3,14 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-
-<!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
-# RMIT Harvard
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# Vancouver
-###### end-style-menu
-
+<!-- -->
 ###### start-style-guide
+<!-- start the desktop style guide title -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-desktop-title
+# Chicago B
+###### end-desktop-title
+<!-- -->
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -34,12 +26,23 @@
 ## Other sources
 ## AI-generated content
 ###### end-type-menu
-
+<!-- -->
+<!-- start the mobile style guide title (only visible in mobile view) -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-mobile-title
+# Chicago B
+###### end-mobile-title
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 
 <!-- Using Chicago - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
+<!-- -->
+###### start-type-title
+Using Chicago B (author-date)
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -327,6 +330,11 @@ Tudor, Ken. 2015. "Protecting Pets in Abusive Human Relationships." *The Daily V
 
 
 <!-- Books - links to the second type menu item -->
+<!-- -->
+###### start-type-title
+Books
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -651,6 +659,11 @@ When author/editor for a dictionary or encyclopedia section is unknown, use the 
 
 
 <!-- Journals - links to the third type menu item -->
+<!-- -->
+###### start-type-title
+Journals
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -761,6 +774,11 @@ Where only the volume and a month or season is available, include this in place 
 
 
 <!-- Newspaper articles - links to the fourth type menu item -->
+<!-- -->
+###### start-type-title
+Newspaper articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -884,6 +902,11 @@ Sources such as webpages or online newspaper articles do not always include page
 
 
 <!-- Audiovisual - links to the fifth type menu item -->
+<!-- -->
+###### start-type-title
+Audiovisual
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1225,6 +1248,11 @@ Include an accessed date and URL/ Database name for online scores.
 
 
 <!-- Webpages, blogs and social media - links to the sixth type menu item -->
+<!-- -->
+###### start-type-title
+Webpages, blogs and social media
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1410,6 +1438,11 @@ Private content, including direct messages, should be cited as personal communic
 
 
 <!-- Reports and Standards - links to the seventh type menu item -->
+<!-- -->
+###### start-type-title
+Reports, standards and patents
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1588,6 +1621,11 @@ For eleven (11) or more Creators, list up to seven (7) Creators and end with et 
 
 
 <!-- Images - links to the eighth type menu item -->
+<!-- -->
+###### start-type-title
+Images
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1877,6 +1915,11 @@ Follow the reference list rules for the type of resource you are citing ie. book
 
 
 <!-- Other sources - links to the ninth type menu item -->
+<!-- -->
+###### start-type-title
+Other sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2242,6 +2285,11 @@ When the document is labelled PhD dissertation, use the abbreviation PhD diss.
 
 
 <!-- AI-generated content - links to the tenth type menu item -->
+<!-- -->
+###### start-type-title
+AI-generated content
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype

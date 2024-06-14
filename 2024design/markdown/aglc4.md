@@ -4,22 +4,14 @@
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
 <!-- -->
-<!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
-# RMIT Harvard
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# Vancouver
-###### end-style-menu
-<!-- -->
 ###### start-style-guide
-<!-- start the left-hand TYPE menu -->
+<!-- start the desktop style guide title -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-desktop-title
+# AGLC4
+###### end-desktop-title
+<!-- -->
+<!-- start the right-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
@@ -34,10 +26,21 @@
 ## AI-generated content
 ###### end-type-menu
 <!-- -->
+<!-- start the mobile style guide title (only visible in mobile view) -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-mobile-title
+# AGLC4
+###### end-mobile-title
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 <!-- Using AGLC4 - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
+<!-- -->
+###### start-type-title
+Using AGLC4
+###### end-type-title
+<!-- -->
 ###### start-type-content
 <!-- -->
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -223,11 +226,14 @@ Board of Examiners, *Admission Requirements* (18 February 2010) Council of Legal
 
 
 <!-- Case law - links to the second type menu item -->
+###### start-type-title
+Case law
+###### end-type-title
+<!-- -->
 ###### start-type-content
-
+<!-- -->
 ###### start-subtype
-
-
+<!-- -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Case law - reported decision
@@ -381,11 +387,14 @@ Legal abbreviations for English language legal publications, from the British Is
 
 
 <!-- Legislation - links to the third type menu item -->
+###### start-type-title
+Legislation
+###### end-type-title
+<!-- -->
 ###### start-type-content
-
+<!-- -->
 ###### start-subtype
-
-
+<!-- -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Legislation - statute or regulation (Act of Parliament)
@@ -453,11 +462,14 @@ Legal abbreviations for English language legal publications, from the British Is
 
 
 <!-- Books and e-books - links to the fourth type menu item -->
+###### start-type-title
+Books and e-books
+###### end-type-title
+<!-- -->
 ###### start-type-content
-
+<!-- -->
 ###### start-subtype
-
-
+<!-- -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Books and e-books: single author
@@ -622,11 +634,14 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 
 <!-- Articles - links to the fifth type menu item -->
+###### start-type-title
+Articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
-
+<!-- -->
 ###### start-subtype
-
-
+<!-- -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Journal article with single author
@@ -771,11 +786,14 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 
 <!-- Online sources - links to the sixth type menu item -->
+###### start-type-title
+Online sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
-
+<!-- -->
 ###### start-subtype
-
-
+<!-- -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Internet source
@@ -821,6 +839,10 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 <!-- Audiovisual material - links to the seventh type menu item -->
 ###### start-type-content
+<!-- -->
+###### start-type-title
+Audiovisual material
+###### end-type-title
 
 ###### start-subtype
 
@@ -907,11 +929,14 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 
 <!-- Other sources - links to the eighth type menu item -->
+###### start-type-title
+Other sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
-
+<!-- -->
 ###### start-subtype
-
-
+<!-- -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Student's own work
@@ -968,10 +993,14 @@ For example, if Geoffrey Smith wanted to cite a paper they wrote at RMIT Univers
 
 
 <!-- AI-generated content - links to the ninth type menu item -->
+###### start-type-title
+AI-generated content
+###### end-type-title
+<!-- -->
 ###### start-type-content
-
+<!-- -->
 ###### start-subtype
-
+<!-- -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Using AI-generated content

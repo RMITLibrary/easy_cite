@@ -2,16 +2,14 @@
 <!-- RMIT Library, Digital Learning -->
 <!-- USING EASY CITE -->
 <!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
-# RMIT Harvard
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# Vancouver
-###### end-style-menu
+<!-- start the top style guide title -->
+<!-- the title headings must use heading 1 (#) -->
+
+###### start-desktop-title
+# How to use Easy Cite
+###### end-desktop-title
+
+###### start-mobile-title
+# How to use Easy Cite
+###### end-mobile-title
 <!-- this file intentionally blank - do not add content -->
