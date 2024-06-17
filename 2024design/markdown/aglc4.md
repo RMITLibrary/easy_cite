@@ -835,14 +835,14 @@ Online sources
 ###### end-subtype
 
 ###### end-type-content
-
-
 <!-- Audiovisual material - links to the seventh type menu item -->
-###### start-type-content
 <!-- -->
 ###### start-type-title
 Audiovisual material
 ###### end-type-title
+<!-- -->
+###### start-type-content
+<!-- -->
 
 ###### start-subtype
 

@@ -72,7 +72,7 @@
 						<a href="https://www.rmit.edu.au/library">Library</a>
                         </li>
                         <li class="hide-md">
-                            <a href="https://www.rmit.edu.au/library">Referencing</a>
+                            <a href="https://www.rmit.edu.au/library/study/referencing">Referencing</a>
                         </li>
 						<li class="menu">
 							<button id="menu-button" 
@@ -107,7 +107,7 @@
                     <a href="https://www.rmit.edu.au/library">Library</a>
                 </li>
                 <li>
-                    <a href="https://www.rmit.edu.au/library">Referencing</a>
+                    <a href="https://www.rmit.edu.au/library/study/referencing">Referencing</a>
                 </li>
             </ul>
 		</div>
@@ -138,7 +138,8 @@
 <!-- Page content--> 
 		
 <!-- style guides content--> 	
-<div class="container p-1"><!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
+<div class="container p-1">
+	<!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
 <?php 
 // include the parsedown code
 require_once 'Parsedown.php';
@@ -193,57 +194,89 @@ if ($whichstyleguide == "styleguide-0"){
 // get the markdown content - populates the page with content from a particular style guide	
 $mylist = $parsedown->text($thestyleguide);
 	
-//replace heading tags with bootstrap layout
-
-
-	
 
 	
 //START STYLE GUIDE
-$mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div id="page-content"><main class="container main-content"><div class="row "><!-- START right nav --><div class="col-xl-4 order-last"><nav class="right-nav-simple" aria-label="Section Menu">', $mylist);
+$mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '
+
+<div id="page-content">
+<main class="container main-content">
+<div id="nav-tabContent-xx">
+<div id="nav-xx" aria-labelledby="nav-xx-tab">
+<div class="row ">
+<!-- START right nav -->
+
+<div class="col-xl-4 order-last">
+<nav class="right-nav-simple" aria-label="Section Menu">', $mylist);
 	
 //DESKTOP TITLE top of SIDEBAR
 $mylist = preg_replace("/<h6>start-desktop-title<\/h6>/", '<h1>', $mylist);
 $mylist = preg_replace("/<h6>end-desktop-title<\/h6>/", '</h1>', $mylist);
 	
 //SIDEBAR	
-$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<!-- START sidebar nav -->', $mylist);
-$mylist = preg_replace("/<h2>/", '<button class="nav-link selected" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="true" onclick="myFunction(this, \'thishash1\')">', $mylist); 
-$mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
+$mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '
+<!-- START sidebar nav -->', $mylist);
+$mylist = preg_replace("/<h2>/", '
+<button class="nav-link" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); 
+$mylist = preg_replace("/<\/h2>/s", '
+</button>', $mylist);
 	
-$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '</nav></div>', $mylist);	
+$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '
+</nav>
+</div>', $mylist);	
 	
 	
 //MOBILE TITLE - title part only visible in mobile view
-$mylist = preg_replace("/<h6>start-mobile-title<\/h6>/", '<!-- START content columns --><div class="col-xl-8 order-first">				<!-- START printable guide div --><div id="printable-guide"><!-- START tab-content stnContent-0 --><div class="tab-content" id="stnContent-0"><h1 class="mobile-title">', $mylist);
+$mylist = preg_replace("/<h6>start-mobile-title<\/h6>/", '
+<!-- START content columns -->
+<div class="col-xl-8 order-first">				
+<!-- START printable guide div -->
+<div id="printable-guide">
+<!-- START tab-content stnContent-0 -->
+<div class="tab-content" id="stnContent-0"><h1 class="mobile-title">', $mylist);
 $mylist = preg_replace("/<h6>end-mobile-title<\/h6>/", '</h1>', $mylist);	
 
 // ACCORDIONS
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '&nbsp;', $mylist);
 
 //TYPE TITLE
-$mylist = preg_replace("/<h6>start-type-title<\/h6>/", '<div class="page-title"><h2 class="h1">', $mylist);
+$mylist = preg_replace("/<h6>start-type-title<\/h6>/", '
+<div class="page-title"><h2 class="h1">', $mylist);
 $mylist = preg_replace("/<h6>end-type-title<\/h6>/", '</h2>', $mylist);	
 
 // PRINT SECTION	
-$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>', $mylist);	
+$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button>
+</div>', $mylist);	
 	
 // ACCORDION ITEMS
-$mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '<div class="accordion" id="accordionExample-zz">', $mylist);
-$mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '<div class="accordion-item" id="accordion-item-zz">', $mylist);
-$mylist = preg_replace("/<h3>/s", '<h3 class="accordion-header mt-1" id="heading-zz"><button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
+$mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '
+<div class="accordion" id="accordionExample-zz">', $mylist);
+$mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '
+<div class="accordion-item" id="accordion-item-zz">', $mylist);
+$mylist = preg_replace("/<h3>/s", '
+<h3 class="accordion-header mt-1" id="heading-zz">
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button></h3>', $mylist);		
-$mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
-      <div class="accordion-body">', $mylist);
-$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '<button class="btn btn-print sectionprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div></div></div>', $mylist);
+$mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '
+<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
+<div class="accordion-body">', $mylist);
+$mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '
+<button class="btn btn-print sectionprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
+</div>
+</div>
+</div>', $mylist);
 	
 $mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div>', $mylist);
 $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
-	
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
-$mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '</div></div></div>', $mylist);
-$mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '</div></div></div>', $mylist);
+	
+$mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '
+</div></main></div>', $mylist);
+$mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '
+</div></div>
+<button class="btn btn-print guideprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print the entire style guide<span class="visually-hidden"> (opens new window)</span>
+</button>', $mylist);
 	
 // CUSTOM TAGS TO CLASSES
 // these custom tags are used in the markdown (.md) files where markdown limitations required inventing 
@@ -465,6 +498,8 @@ if ($whichstyleguide == "styleguide-0"){
 //OUTPUT THE PARSED CONTENT TO HTML
 echo($mylist);
 ?>
+
+	
 <!-- start info box-->
 <div id="ecinfopane" style="display: <?= $showInfobox?>">
 	<h3><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;How to use the Easy Cite referencing tool</h3>
@@ -487,12 +522,12 @@ echo($mylist);
 </div>
 <!-- end info box-->	
 	
-</div><!-- end padding for content -->
+<!-- end padding for content -->
 <!-- end page content-->
-		
+</div>	
     <!-- START footer -->
 	
-	<!-- START ask the librsary -->
+	<!-- START ask the library -->
 	<div class="footer-container">
 		<div class="container">
 			<div class="row">
