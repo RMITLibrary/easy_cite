@@ -169,7 +169,7 @@ If you read an article written by Prazar that **directly quotes** information fr
 
 In your reference list, you need to reference Kato et al. **quoted by** Prazar.
 
-> 2. Kato S, Sherman PM. What is new related to Helicobacter pylori infection in children and teenagers? Arch Pediatr Adolesc Med. 2005;159(5):415-421. Quoted by: Prazar G. How many pediatricians does it take to change a practice? or how to incorporate change in a practice [editorial]. 2005;159(5):500-502.
+> 2. Kato S, Sherman PM. What is new related to Helicobacter pylori infection in children and teenagers? Arch Pediatr Adolesc Med. 2005;159(5):415-421. Quoted by: Prazar G. How many pediatricians does it take to change a practice? or how to incorporate change in a practice [editorial]. Arch Pediatr Adolesc Med.  2005;159(5):500-502.
 
 ###### end-subtype-content
 
@@ -195,7 +195,7 @@ In your reference list, you need to reference Kato et al. **quoted by** Prazar.
 
 - For book titles and journal article titles, capitalise the first word and proper nouns only (i.e. use minimal capitalisation).
 
-- For journal titles, use an abbreviated format. To find the title abbreviation, go to the PubMed database, select "Journals in NCBI Datbases", and then enter the journal’s full title to display its abbreviation.
+- For journal titles, use an abbreviated format. To find the correct title abbreviation, go to <a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/" target="_blank">Journals in NCBI Databases</a>  and then enter the journal’s full title to display its abbreviation.
 
 #### Authors
 
@@ -211,7 +211,11 @@ For the place of publication, add the city, and then qualify it – see below �
 
 - **Cities in the USA and Canada**: Include the two-letter abbreviation for the state or province, e.g. St Louis (MO); Hamilton (ON).
 
-- **Cities in other countries**: Use either the country name after all cities not in the USA or Canada, e.g. Melbourne (Australia); Oxford (England).
+- **Cities in other countries**: Use the country name after all cities not in the USA or Canada, e.g. Melbourne (Australia); Oxford (England).
+
+- **No place of publication**: Use [place unknown] in square brackets.
+
+> Kuttner L. A child in pain: how to help, what to do. [place unknown]: Hartley & Marks; 1996.
 
 #### Pagination
 
@@ -288,6 +292,14 @@ Check:
 
 23. Institute of Biomedical Science. Guidance on quality management in laboratories [Internet]: Institute of Biomedical Science; 2015 [updated 2015 Jun; cited 2016 Sep 1]. Available from: https<nolink>://www.ibms.org/resources/documents/quality-management-in-laboratories/guidance-on-quality-management-in-laboratories.pdf
 
+24. Cauley JA, Lui L-Y, Ensrud KE, et al. Osteoporosis and fracture risk in women of different ethnic groups. JAMA. 2005;293(17):2102-2108. Cited by: Acheson LS. Bone density and the risk of fractures: should treatment thresholds vary by race [editorial]? JAMA. 2005;293(17):2151-2154.
+
+25. Kato S, Sherman PM. What is new related to Helicobacter pylori infection in children and teenagers? Arch Pediatr Adolesc Med. 2005;159(5):415-421. Quoted by: Prazar G. How many pediatricians does it take to change a practice? or how to incorporate change in a practice [editorial]. Arch Pediatr Adolesc Med. 2005;159(5):500-502.
+
+26. Kuttner L. A child in pain: how to help, what to do. [place unknown]: Hartley & Marks; 1996.
+
+27. Frumkin H, editor. Environmental health: from global to local. 3rd ed. San Francisco (CA): Jossey-Bass; 2016.
+
 ###### end-subtype-content
 
 ###### end-subtype-item
@@ -311,13 +323,17 @@ Check:
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text paraphrasing
+#### In-text citation: paraphrasing
+
+Paraphrasing is when you use someone else's ideas or research and express them in your own words. For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
 
 > Using a case study, Sullivan (1) demonstrates the relationship between goal setting and career advancement.
 
 > Effective verbal and non-verbal communication skills are essential for nurses. (1)
 
-#### In-text direct quote
+#### In-text citation: direct quote
+
+A direct quote is when you use someone else's exact words. Your in-text citation must always include the page number where the author's quotation is found. For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
 
 > According to Sullivan (1), nurses "get fulfillment from caring for others". (p29)
 
@@ -325,9 +341,11 @@ Check:
 
 #### Reference list
 
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a>.
+
+> 1. Author family name initials. Book title: book subtitle. City of publication (State or Country): Publisher; Year of publication.
+
 > 1. Sullivan EJ. Becoming influential: a guide for nurses. 2nd ed. Boston (MA): Pearson; 2013.
-
-
 
 ###### end-subtype-content
 
@@ -340,25 +358,39 @@ Check:
 
 ###### start-subtype-content
 
-#### In-text citations
+#### In-text citation: paraphrasing
 
-For an in-text citation that has multiple authors, list the first author, and then abbreviate subsequent authors using **et al**.
+Paraphrasing is when you use someone else's ideas or research and express them in your own words. For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
 
-> Researchers are advised that "the possibility of bias should be kept in mind". (2 p132)
+When paraphrasing a book with multiple authors, insert the reference list number for that title as you would for a book with one author: 
+
+> The use of binomial control charts (2) is recommended for...
+
+However, if you wish to include the authors' names in your sentence, use the family name of the first author only followed by **et al.**:
 
 > Morton et al. (2) suggest that the use of binomial control charts ...
 
+#### In-text citation: direct quote
+
+A direct quote is when you use someone else's exact words. Your in-text citation must always include the page number where the author's quotation is found. For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+
+When quoting directly from a book with more than one author, insert the reference list number for that title followed by the page number:
+
+> Researchers are advised that "the possibility of bias should be kept in mind". (2 p132)
+
+However, if you wish to write the authors' names in your sentence, use the family name of the first author only followed by **et al.**:
+
+> According to Morton et al., "the possibility of bias should be kept in mind" (2 p132) when using any chart type to...
+
 #### Reference list
 
-In the reference list:
+When there are six or fewer authors, list all the authors in the reference list entry:
 
-- If there are six or fewer authors, list all the authors
+> 2. Morton A, Mengersen KL, Playford G, Whitby M. Statistical methods for hospital monitoring with R. Chichester (England): John Wiley & Sons; 2013.
 
-- If there are more than six authors, list the first six, followed by **et al**.
+When there are more than six authors, list the first six, followed by **et al.**:
 
-> 2. Morton A, Mengersen KL, Playford G, Whitby M. Statistical methods for hospital monitoring with R. Chichester (England): John Wiley & Sons; 2013. <br>
 > 3. Goering RV, Dockrell HM, Wakelin D, Zuckerman M, Chiodini PL, Roitt IM, et al. Mims' medical microbiology. 4th ed. Philadelphia (PA): Mosby Elsevier; 2008.
-
 
 ###### end-subtype-content
 
@@ -394,15 +426,25 @@ Include the edition number followed by the abbreviation "ed." after the book tit
 
 ###### start-subtype-content
 
-Usually, part of a chapter in an edited book is cited in-text unless you refer to an edited book as a whole. Firstly, here is how an edited book is cited in-text and then in the reference list.
+Usually, a chapter in an edited book is cited in-text unless you refer to an edited book as a whole. For a single chapter, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-1#subtype-10" target="_blank">Chapter in an edited book</a>.
 
 #### In-text citations
 
-Cite as you would for a book with an author or authors. If the book has multiple editors, list the first editor and then abbreviate subsequent editors using et al.
+Cite as you would for a book with an author or authors. Instead of author names, you will use editor name(s).
+
+- When a book has one editor, cite as you would for a book with one author.
+
+- When a book has multiple editors, cite as you would for a book with multiple authors.
 
 > Changes to the nature of healthcare as they relate to inclusive practice are outlined by Davis et al. (5)
 
 #### Reference List entry
+
+When an edited book has one editor:
+
+> 4. Frumkin H, editor. Environmental health: from global to local. 3rd ed. San Francisco (CA): Jossey-Bass; 2016.
+
+When an edited book has multiple editors:
 
 > 5. Davis J, Birks M, Chapman YB, editors. Inclusive practice for health professionals. South Melbourne (Australia): Oxford University Press; 2015.
 
@@ -419,20 +461,23 @@ Cite as you would for a book with an author or authors. If the book has multiple
 
 #### In-text citations
 
-In the example below, Williams wrote a particular chapter in an edited book and some information in it has been paraphrased. The Reference List entry, given the number (6), shows the author's name and chapter title, followed by details of the book in which that chapter is found.
+When paraphrasing or quoting from one chapter in an edited book, cite as you would for a book with one author:
 
-> According to Williams (6), National Health Surveys are valuable sources of information on the state of health and well-being of Australians.
+> The health of some demographic groups in Australia is far worse than the general population. (6)
+
+> According to Williams (6), The National Health Survey provides valuable insight into ...
 
 #### Reference List entry
 
-In the Reference List, provide:
+A reference list entry for a chapter in an edited book includes:
 
-- the name(s) of the author(s) of the chapter and the chapter title
+- author(s) of the chapter, the chapter title, followed by In:
 
-- the citation details for the book in which the chapter is found and the page numbers of the chapter. Preface these details with "In: ... "
+- details of the book in which the chapter is found
+  
+- page numbers of the chapter. 
 
 > 6. Williams G. Population health and health outcomes. In: Davis J, Birks M, Chapman YB, editors. Inclusive practice for health professionals. South Melbourne (Australia): Oxford University Press; 2015. p. 128-60.
-
 
 ###### end-subtype-content
 
@@ -447,19 +492,21 @@ In the Reference List, provide:
 
 #### In-text citations
 
-The information provided here is for an e-book from a library database. The rules for citing an e-book in-text are the same as for a physical (i.e. print) book.
+When paraphrasing or quoting from an e-book in a database, cite as you would for a hardcopy (print) book.
+
+> Cortical brain blood flow in jailed violent offenders is lower than the general population. (6)
 
 > According to Wagner (6), the cortical brain blood flow in imprisoned violent lawbreakers is lower than that of the general population.
 
 #### Reference list
 
-Include the same information as you would for a print book **as well as** the following additions:
+Your reference list entry will be the same as a hardcopy (print) book, with these additional elements:
 
-- after the title, add the type of medium - for e-books, use: [Internet]
+- After the title, add the type of medium in square brackets: [Internet]
 
-- add the date you cited the book in this order: year, month then day, e.g. [cited 2012 Aug 24]
+- After year of publication, add the date you cited the book in square brackets: year, month, day: [cited 2012 Aug 24]
 
-- add the name of the Library database which provided the e-book.
+- After the cited date, type Available from: followed by the name of the library database in which the e-book can be found. Available from: SpringerLink eBooks.
 
 > 6. Wagner HN. Brain imaging: the chemistry of mental activity [Internet]. London (England): Springer London; 2009 [cited 2012 Aug 24]. Available from: SpringerLink eBooks.
 
@@ -494,23 +541,23 @@ For in-text citations, cite as you would for a book. An example of paraphrasing:
 
 #### Reference list
 
-Include the following, noting the use of punctuation and spaces.
+Include the following parts in this order, noting the use of punctuation and spaces.
 
-- The author's surname and initials.
+- Author's family name and initials.
 
-- The title of the article. Capitalise the first word and proper nouns only (i.e. minimal capitalisation).
+- Title of the article. Capitalise the first word and proper nouns only (i.e. minimal capitalisation).
 
-- The journal title. Note that in the Vancouver style, journal titles are abbreviated. To find the title abbreviation, go to the PubMed database, select "Journals in NCBI Databases", and then enter the journal’s full title to display its abbreviation.
+- Journal title. Note that in the Vancouver style, journal titles are abbreviated. To find the correct title abbreviation, go to <a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/" target="_blank">Journals in NCBI Databases</a>, then enter the journal’s full title to display its abbreviation.
 
-- The year of publication.
+- Year of publication.
 
-- The month. Note that only the first three letters of the month are given. Optional: if available, the Day can be added after the Month, e.g. Mar 5
+- Month of publication. Note that only the first three letters of the month are given. Optional: if available, the Day can be added after the Month, e.g. Mar 5
 
-- The volume number of the journal and the issue number (in parentheses).
+- Volume number and the issue number of the journal (in parentheses).
 
-- The page range of the article. Note that page numbers are not repeated unless they are followed by a letter, e.g. 17-8 not 17-18; however, 145A-149A is correct.
+- Page range of the article. Note that page numbers are not repeated unless they are followed by a letter, e.g. 17-8 not 17-18; however, 145A-149A is correct.
 
-> 8. Musiek ES. Circadian rhythms in AD pathogenesis: a critical appraisal. Curr Sleep Med Rep. 2017 Jun;3(2):85-92.NT
+> 8. Musiek ES. Circadian rhythms in AD pathogenesis: a critical appraisal. Curr Sleep Med Rep. 2017 Jun;3(2):85-92.
 
 ###### end-subtype-content
 
@@ -614,9 +661,9 @@ In the Reference List, include the same information as you would for a print jou
 
 #### In-text direct quote
 
-> "With 1.2 million Aussies currently living with type 2 diabetes, the breakthrough could lead to a widely-available, simple, cheap and effective complementary treatment for diabetics across the country". (14 p1)
+> "With 1.2 million Aussies currently living with type 2 diabetes, the breakthrough could lead to a widely-available, simple, cheap and effective complementary treatment for diabetics across the country". (14 p4)
 
-> According to Squires (14), "with 1.2 million Aussies currently living with type 2 diabetes, the breakthrough could lead to a widely-available, simple, cheap and effective complementary treatment for diabetics across the country". (p1)
+> According to Squires (14), "with 1.2 million Aussies currently living with type 2 diabetes, the breakthrough could lead to a widely-available, simple, cheap and effective complementary treatment for diabetics across the country". (p4)
 
 #### Reference list
 
