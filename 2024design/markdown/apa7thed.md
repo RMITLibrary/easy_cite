@@ -52,7 +52,7 @@ Using APA 7<sup>th</sup> ed.
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to the APA 7<sup>th</sup> ed. referencing style
+### Introduction to APA 7<sup>th</sup> ed.
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content

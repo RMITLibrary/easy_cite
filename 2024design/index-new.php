@@ -29,27 +29,10 @@
 </script>
 	
     <!-- Core theme CSS, JS & JQUERY (includes Bootstrap)-->
-    <!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-	<link href="css/main.css" rel="stylesheet">
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>-->
-   
-
-	
-	
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-
-	<!-- RMIT stylesheet
-	<link href="css/main.css" rel="stylesheet">
-	Easy Cite stylesheet
-	<link href="css/easycite.css" rel="stylesheet">
-	-->
-	
-		<link href="css/main-new.css" rel="stylesheet">
-	
-	<!--<link rel="stylesheet" href="https://rmitlibrary.github.io/rmit-ui/main.a6920974bb956370c6f620c64120f27b3809b38bc662ffc4d0c3e8b31e4bfab58d15e2b021b2fbb83b9eb476dfdf4e39c24a4c853170bcf8f0e37a0369af15ad.css">-->
-	
+	<link href="css/main-new.css" rel="stylesheet">
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	
 </head>
 <body>
 <!-- START top nav -->
@@ -62,7 +45,7 @@
 				<!-- START left hand column -->
 				<div class="col-auto left-nav">
 					<div class="rmit-logo"><span class="visually-hidden">RMIT University logo</span></div>
-					<a href="#" id="nav-link-0" href="#" tabindex="0" data-bs-target="#nav-0" aria-controls="nav-0" onclick="myFunction2(this, 'styleguide-0')" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
+					<a href="#" id="nav-link-0" tabindex="0" data-bs-target="#nav-0" aria-controls="nav-0" onclick="myFunction2(this, 'styleguide-0')" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
 				</div>
 				<!-- END left hand column -->
 				<!-- START right hand column -->
@@ -87,19 +70,19 @@
 		</div>
 		<!-- END container -->
 	</div>
-    <!-- START expanded hamburger menu -->
+    <!-- START expanded styles hamburger menu -->
     <div id="context-menu" class="collapse">
 		<!-- START container -->
 		<div class="container nav-container">
             <nav aria-label="Main Menu">
                 <ul class="link-list-white">
-                    <li><a id="nav-linkh-2" href="#" tabindex="0" data-bs-target="#nav-2" aria-controls="nav-2" onclick="myFunction2(this, 'styleguide-2')">AGLC4</a></li>
-                    <li><a id="nav-linkh-3" href="#" tabindex="0" data-bs-target="#nav-3" aria-controls="nav-3" onclick="myFunction2(this, 'styleguide-3')">APA 7th edition</a></li>
-                    <li><a id="nav-linkh-4" href="#" tabindex="0" data-bs-target="#nav-4" aria-controls="nav-4" onclick="myFunction2(this, 'styleguide-4')">Chicago A</a></li>
-                    <li><a id="nav-linkh-5" href="#" tabindex="0" data-bs-target="#nav-5" aria-controls="nav-5" onclick="myFunction2(this, 'styleguide-5')">Chicago B</a></li>
-                    <li><a id="nav-linkh-6" href="#" tabindex="0" data-bs-target="#nav-6" aria-controls="nav-6" onclick="myFunction2(this, 'styleguide-6')">IEEE</a></li>
-                    <li><a id="nav-linkh-1" href="#" tabindex="0" data-bs-target="#nav-1" aria-controls="nav-1" onclick="myFunction2(this, 'styleguide-1')">RMIT Harvard</a></li>
-                    <li><a id="nav-linkh-7" href="#" tabindex="0" data-bs-target="#nav-7" aria-controls="nav-7" onclick="myFunction2(this, 'styleguide-7')">Vancouver</a></li>
+                    <li><a id="nav-linkh-2" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-2" aria-controls="nav-2" onclick="myFunction2(this, 'styleguide-2')">AGLC4</a></li>
+                    <li><a id="nav-linkh-3" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-3" aria-controls="nav-3" onclick="myFunction2(this, 'styleguide-3')">APA 7th edition</a></li>
+                    <li><a id="nav-linkh-4" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-4" aria-controls="nav-4" onclick="myFunction2(this, 'styleguide-4')">Chicago A</a></li>
+                    <li><a id="nav-linkh-5" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-5" aria-controls="nav-5" onclick="myFunction2(this, 'styleguide-5')">Chicago B</a></li>
+                    <li><a id="nav-linkh-6" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-6" aria-controls="nav-6" onclick="myFunction2(this, 'styleguide-6')">IEEE</a></li>
+                    <li><a id="nav-linkh-1" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-1" aria-controls="nav-1" onclick="myFunction2(this, 'styleguide-1')">RMIT Harvard</a></li>
+                    <li><a id="nav-linkh-7" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-7" aria-controls="nav-7" onclick="myFunction2(this, 'styleguide-7')">Vancouver</a></li>
                 </ul>
             </nav>
             <ul class="additional-links">
@@ -115,18 +98,18 @@
 	</div>
     <!-- END expanded hamburger menu -->
     
-    <!-- START submenu desktop only -->
+    <!-- START styles menu desktop only -->
 	<div id="sub-menu">    
 		<div class="container">
 			<nav aria-label="Main Menu">
-				<ul>
-					<li><a id="nav-link-2" href="#" tabindex="0" data-bs-target="#nav-2" role="tab" aria-controls="nav-2" onclick="myFunction2(this, 'styleguide-2')">AGLC4</a></li>
-					<li><a id="nav-link-3" href="#" tabindex="0" data-bs-target="#nav-3" role="tab" aria-controls="nav-3" onclick="myFunction2(this, 'styleguide-3')">APA 7th edition</a>
-					<li><a id="nav-link-4" href="#" tabindex="0" data-bs-target="#nav-4" role="tab" aria-controls="nav-4" onclick="myFunction2(this, 'styleguide-4')">Chicago A</a></li>
-					<li><a id="nav-link-5" href="#" tabindex="0" data-bs-target="#nav-5" role="tab" aria-controls="nav-5" onclick="myFunction2(this, 'styleguide-5')">Chicago B</a></li>
-					<li><a id="nav-link-6" href="#" tabindex="0" data-bs-target="#nav-6" role="tab" aria-controls="nav-6" onclick="myFunction2(this, 'styleguide-6')">IEEE</a></li>
-					<li><a id="nav-link-1" href="#" tabindex="0" data-bs-target="#nav-1" role="tab" aria-controls="nav-1" onclick="myFunction2(this, 'styleguide-1')">RMIT Harvard</a></li>
-                    <li><a id="nav-link-7" href="#" tabindex="0" data-bs-target="#nav-7" role="tab" aria-controls="nav-7" onclick="myFunction2(this, 'styleguide-7')">Vancouver</a></li>
+				<ul class="nav" id="nav-tab">
+					<li><a id="nav-link-2" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-2" role="tab" aria-controls="nav-2" onclick="myFunction2(this, 'styleguide-2')">AGLC4</a></li>
+					<li><a id="nav-link-3" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-3" role="tab" aria-controls="nav-3" onclick="myFunction2(this, 'styleguide-3')">APA 7th edition</a></li>
+					<li><a id="nav-link-4" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-4" role="tab" aria-controls="nav-4" onclick="myFunction2(this, 'styleguide-4')">Chicago A</a></li>
+					<li><a id="nav-link-5" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-5" role="tab" aria-controls="nav-5" onclick="myFunction2(this, 'styleguide-5')">Chicago B</a></li>
+					<li><a id="nav-link-6" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-6" role="tab" aria-controls="nav-6" onclick="myFunction2(this, 'styleguide-6')">IEEE</a></li>
+					<li><a id="nav-link-1" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-1" role="tab" aria-controls="nav-1" onclick="myFunction2(this, 'styleguide-1')">RMIT Harvard</a></li>
+                    <li><a id="nav-link-7" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-7" role="tab" aria-controls="nav-7" onclick="myFunction2(this, 'styleguide-7')">Vancouver</a></li>
 				</ul>
 			</nav>
 		</div>		
@@ -202,7 +185,7 @@ $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '
 <div id="page-content">
 <main class="container main-content">
 <div id="nav-tabContent-xx">
-<div id="nav-xx" aria-labelledby="nav-xx-tab">
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab">
 <div class="row ">
 <!-- START right nav -->
 
@@ -210,14 +193,15 @@ $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '
 <nav class="right-nav-simple" aria-label="Section Menu">', $mylist);
 	
 //DESKTOP TITLE top of SIDEBAR
-$mylist = preg_replace("/<h6>start-desktop-title<\/h6>/", '<h1>', $mylist);
-$mylist = preg_replace("/<h6>end-desktop-title<\/h6>/", '</h1>', $mylist);
+$mylist = preg_replace("/<h6>start-desktop-title<\/h6>/", ' ', $mylist);
+$mylist = preg_replace("/<h6>end-desktop-title<\/h6>/", ' ', $mylist);
 	
 //SIDEBAR	
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '
 <!-- START sidebar nav -->', $mylist);
 $mylist = preg_replace("/<h2>/", '
 <button class="nav-link" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); 
+
 $mylist = preg_replace("/<\/h2>/s", '
 </button>', $mylist);
 	
@@ -233,21 +217,22 @@ $mylist = preg_replace("/<h6>start-mobile-title<\/h6>/", '
 <!-- START printable guide div -->
 <div id="printable-guide">
 <!-- START tab-content stnContent-0 -->
-<div class="tab-content" id="stnContent-0"><h1 class="mobile-title">', $mylist);
-$mylist = preg_replace("/<h6>end-mobile-title<\/h6>/", '</h1>', $mylist);	
+<div class="tab-content" id="stnContent-yy">
+<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy">', $mylist);
+$mylist = preg_replace("/<h6>end-mobile-title<\/h6>/", '<!-- end mobile title -->', $mylist);	
 
 // ACCORDIONS
-$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '&nbsp;', $mylist);
-
+$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<!-- start content area -->', $mylist);
+	
+// PRINTABLE SECTION	
+$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<!-- start type content -->', $mylist);	
+//<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy">
 //TYPE TITLE
 $mylist = preg_replace("/<h6>start-type-title<\/h6>/", '
-<div class="page-title"><h2 class="h1">', $mylist);
-$mylist = preg_replace("/<h6>end-type-title<\/h6>/", '</h2>', $mylist);	
+<div class="page-title">', $mylist);
+$mylist = preg_replace("/<h6>end-type-title<\/h6>/", '<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>', $mylist);	
 
-// PRINT SECTION	
-$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '
-<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button>
-</div>', $mylist);	
+
 	
 // ACCORDION ITEMS
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '
@@ -262,21 +247,24 @@ $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '
 <div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
 <div class="accordion-body">', $mylist);
 $mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '
-<button class="btn btn-print sectionprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
+<button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
 </div>
 </div>
 </div>', $mylist);
 	
 $mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div>', $mylist);
-$mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '</div>', $mylist);
+$mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '', $mylist);
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
 	
 $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '
-</div></main></div>', $mylist);
+</div></div></div></div>', $mylist);
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '
-</div></div>
-<button class="btn btn-print guideprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print the entire style guide<span class="visually-hidden"> (opens new window)</span>
-</button>', $mylist);
+</div></div></div>
+<div id="print-title">
+<button class="btn btn-print guideprint" id="sgt-print-tab" type="button" tabindex="0" onclick="printThisGuide(this);">Print the entire style guide<span class="visually-hidden"> (opens new window)</span>
+</button></div>
+</main></div></div>
+', $mylist);
 	
 // CUSTOM TAGS TO CLASSES
 // these custom tags are used in the markdown (.md) files where markdown limitations required inventing 
@@ -299,13 +287,25 @@ $mylist = preg_replace("/{\/.figure-text}/s", '</p>', $mylist);
 // GREY BACKGROUND FOR TABLE CELL CONTENT
 $mylist = preg_replace("/<grey>/s", '<div class="grey">', $mylist);
 $mylist = preg_replace("/<\/grey>/s", '</div>', $mylist);
+//CUSTOM TITLES
+$mylist = preg_replace("/{.desktop-title}/s", '<h1>', $mylist);
+$mylist = preg_replace("/{\/.desktop-title}/s", '</h1>', $mylist);
+$mylist = preg_replace("/{.mobile-title}/s", '<h1 class="mobile-title">', $mylist);
+$mylist = preg_replace("/{\/.mobile-title}/s", '</h1>', $mylist);
+$mylist = preg_replace("/{.type-title}/s", '<h2 class="h1">', $mylist);
+$mylist = preg_replace("/{\/.type-title}/s", '</h2>', $mylist);
+//REMOVE EMPTY <P>
+$mylist = preg_replace("/<p><h1/s", '<h1', $mylist);
+$mylist = preg_replace("/<\/h1><\/p>/s", '</h1>', $mylist);
+$mylist = preg_replace("/<p><h2/s", '<h2', $mylist);
+$mylist = preg_replace("/<\/h2><\/p>/s", '</h2>', $mylist);
 // END CONTENT
 	
 	
 // REPLACE FOR FIRST
 //replace property for the first tab, pill, accordion only - to show, true or active
 $mylist = preg_replace("/class=\"tab-pane fade\" id=\"nav/", 'class="tab-pane fade show active" id="nav', $mylist, 1);
-$mylist = preg_replace("/class=\"tab-pane fade\" id=\"v/", 'class="tab-pane fade show active" id="v', $mylist, 1);
+$mylist = preg_replace("/class=\"tab-pane fade\" id=\"s/", 'class="tab-pane fade show active" id="s', $mylist, 1);
 // first accordion button remove collapsed
 $mylist = preg_replace("/<!-- first accordion item -->\s<div class=\"accordion-collapse collapse/", '<!-- first accordion item --><div class="accordion-collapse collapse show', $mylist, 1); //remove number "1" to open all first accordion items
 
@@ -470,23 +470,32 @@ foreach($matches20[0] as $titles20){
 }
 //make the correct styleguide tab active
 if ($whichstyleguide == "styleguide-0"){
-	$mylist = preg_replace("/id=\"nav-link-0\" class=\"nav-link/", 'id="nav-link-0" class="nav-link active', $mylist, 1); 
+	$mylist = preg_replace("/id=\"nav-link-0\" class=\"nav-link/", 'id="nav-link-0" class="nav-link selected', $mylist, 1); 
+	$mylist = preg_replace("/id=\"nav-linkh-0\" class=\"nav-link/", 'id="nav-link-0" class="nav-link selected', $mylist, 1); 
 }	else if ($whichstyleguide == "styleguide-1"){
-	$mylist = preg_replace("/id=\"nav-link-1\" class=\"nav-link/", 'id="nav-link-1" class="nav-link active', $mylist, 1); 
+	$mylist = preg_replace("/id=\"nav-link-1\" class=\"nav-link/", 'id="nav-link-1" class="nav-link selected', $mylist, 1); 
+	$mylist = preg_replace("/id=\"nav-linkh-1\" class=\"nav-link/", 'id="nav-link-1" class="nav-link selected', $mylist, 1); 
 }	else if ($whichstyleguide == "styleguide-2"){
-	$mylist = preg_replace("/id=\"nav-link-2\" class=\"nav-link/", 'id="nav-link-2" class="nav-link active', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-link-2\" class=\"nav-link/", 'id="nav-link-2" class="nav-link selected', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-linkh-2\" class=\"nav-link/", 'id="nav-link-2" class="nav-link selected', $mylist, 1);  
 }	else if ($whichstyleguide == "styleguide-3"){
-	$mylist = preg_replace("/id=\"nav-link-3\" class=\"nav-link/", 'id="nav-link-3" class="nav-link active', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-link-3\" class=\"nav-link/", 'id="nav-link-3" class="nav-link selected', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-linkh-3\" class=\"nav-link/", 'id="nav-link-3" class="nav-link selected', $mylist, 1);  
 }	else if ($whichstyleguide == "styleguide-4"){
-	$mylist = preg_replace("/id=\"nav-link-4\" class=\"nav-link/", 'id="nav-link-4" class="nav-link active', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-link-4\" class=\"nav-link/", 'id="nav-link-4" class="nav-link selected', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-linkh-4\" class=\"nav-link/", 'id="nav-link-4" class="nav-link selected', $mylist, 1);  
 }	else if ($whichstyleguide == "styleguide-5"){
-	$mylist = preg_replace("/id=\"nav-link-5\" class=\"nav-link/", 'id="nav-link-5" class="nav-link active', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-link-5\" class=\"nav-link/", 'id="nav-link-5" class="nav-link selected', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-linkh-5\" class=\"nav-link/", 'id="nav-link-5" class="nav-link selected', $mylist, 1);  
 }	else if ($whichstyleguide == "styleguide-6"){
-	$mylist = preg_replace("/id=\"nav-link-6\" class=\"nav-link/", 'id="nav-link-6" class="nav-link active', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-link-6\" class=\"nav-link/", 'id="nav-link-6" class="nav-link selected', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-linkh-6\" class=\"nav-link/", 'id="nav-link-6" class="nav-link selected', $mylist, 1); 
 }	else if ($whichstyleguide == "styleguide-7"){
-	$mylist = preg_replace("/id=\"nav-link-7\" class=\"nav-link/", 'id="nav-link-6" class="nav-link active', $mylist, 1); 
+	$mylist = preg_replace("/id=\"nav-link-7\" class=\"nav-link/", 'id="nav-link-6" class="nav-link selected', $mylist, 1); 
+	$mylist = preg_replace("/id=\"nav-linkh-7\" class=\"nav-link/", 'id="nav-link-6" class="nav-link selected', $mylist, 1); 
 }	else {
-	$mylist = preg_replace("/id=\"nav-link-0\" class=\"nav-link/", 'id="nav-link-0" class="nav-link active', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-link-0\" class=\"nav-link/", 'id="nav-link-0" class="nav-link selected', $mylist, 1);  
+	$mylist = preg_replace("/id=\"nav-linkh-0\" class=\"nav-link/", 'id="nav-link-0" class="nav-link selected', $mylist, 1);  
 }
 	
 // ISSUES TO BE RESOLVED / Development to-do list
@@ -515,7 +524,7 @@ echo($mylist);
 			<h5>Select a style guide from the tabs above to start using Easy Cite.</br>
            Or view this instructional video first...</h5>
 		
-            <p><iframe width="537" height="302" src="https://www.youtube.com/embed/60J55xXbu8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+            <p>&nbsp;</p>
             <p><a href="transcripts/EasyCite-video-transcript.rtf">Video transcript (RTF)</a></p>
         </div>
     </div>
@@ -524,7 +533,7 @@ echo($mylist);
 	
 <!-- end padding for content -->
 <!-- end page content-->
-</div>	
+</div>	<!-- end container p-1-->
     <!-- START footer -->
 	
 	<!-- START ask the library -->
@@ -551,7 +560,7 @@ echo($mylist);
 			</div>
 		</div>
 		<!-- START acknowledgement -->
-		<div class="acknowledgement">
+		    <div class="acknowledgement">
 			<div class="container">
 				<div class="row">
 					<div class="col">
@@ -702,8 +711,8 @@ function myFunction(button, sethash){
 		//console.log(globalpillshash + accordionhash);
 	}
 	//keep page scrolled to the top - avoids the content jumping around when selecting vertical pills
-	document.body.scrollTop = 0; // For Safari - not working
-  	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera - is working
+	//document.body.scrollTop = 0; // For Safari - not working
+  	//document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera - is working
 }
 
 // this function takes the info from the tab button to output a query string 
@@ -745,13 +754,13 @@ const mylist = document.getElementsByClassName("accordion-item");
 	}
 // remove the "collapsed" class from the first accordion button in each accordion so it's in its "open" state
 // Use this code to open all accordions first sub-type in a style guide
-/*const acclist = document.getElementsByClassName("accordion");
+const acclist = document.getElementsByClassName("accordion");
 	for (let q = 0; q < acclist.length; q++){
 		const acbuttons = acclist[q].getElementsByClassName("accordion-button");
 		acbuttons[0].classList.remove("collapsed");
 		//console.log(acbuttons[0].className);
 	}
-*/	
+
 // OR
 // Use this code to only open the first accordion subtype in a style guide
 //only run this code if there are accordions - i.e. not the "Using Easy Cite" tab.
@@ -813,7 +822,7 @@ function printThisGuide(elem) {
 // -----------------------------
 // INSTRUCTIONS TOGGLE
 // toggle the instructions box text - open/close
-/*function textToggle(elem){
+function textToggle(elem){
 	var thiscol = document.getElementById('collapseExample');
 	var colstatus = thiscol.getAttribute('aria-expanded');
 	if (colstatus == 'false'){
@@ -825,7 +834,7 @@ function printThisGuide(elem) {
 		thiscol.setAttribute("aria-expanded", "false");
 		console.log("close");
 	}
-}*/
+}
 // -----------------------------
 //START HAMBURGER MENU 
 //If true, menu covers content

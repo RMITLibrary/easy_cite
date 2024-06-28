@@ -8,7 +8,7 @@
 <!-- start the desktop style guide title -->
 <!-- the title headings must use heading 1 (#) -->
 ###### start-desktop-title
-# AGLC4
+{.desktop-title}AGLC4 {/.desktop-title}
 ###### end-desktop-title
 <!-- -->
 <!-- start the right-hand TYPE menu -->
@@ -29,19 +29,20 @@
 <!-- start the mobile style guide title (only visible in mobile view) -->
 <!-- the title headings must use heading 1 (#) -->
 ###### start-mobile-title
-# AGLC4
+{.mobile-title}AGLC4 {/.mobile-title}
 ###### end-mobile-title
 <!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
+
+###### start-type-content
+<!-- -->
 <!-- Using AGLC4 - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
 <!-- -->
 ###### start-type-title
-Using AGLC4
+{.type-title}Using AGLC4 {/.type-title}
 ###### end-type-title
-<!-- -->
-###### start-type-content
 <!-- -->
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 ###### start-subtype
@@ -49,7 +50,7 @@ Using AGLC4
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to the AGLC4 referencing style
+### Introduction to AGLC4
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -61,7 +62,6 @@ Using AGLC4
 -	The Australian Guide to Legal Citation (AGLC) 4th ed, 2018 is a required referencing style for students enrolled in the Juris Doctor program at RMIT University.
 
 -	Use <a href="https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf" target="_blank">*Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018)</a> (opens in a new tab), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
-
 
 ###### end-subtype-content
 
@@ -225,12 +225,14 @@ Board of Examiners, *Admission Requirements* (18 February 2010) Council of Legal
 ###### end-type-content
 
 
+###### start-type-content
+
 <!-- Case law - links to the second type menu item -->
 ###### start-type-title
-Case law
+{.type-title}Case law {/.type-title}
+
 ###### end-type-title
-<!-- -->
-###### start-type-content
+
 <!-- -->
 ###### start-subtype
 <!-- -->
@@ -386,12 +388,14 @@ Legal abbreviations for English language legal publications, from the British Is
 ###### end-type-content
 
 
+###### start-type-content
+
 <!-- Legislation - links to the third type menu item -->
 ###### start-type-title
-Legislation
+{.type-title}Legislation {/.type-title}
+
 ###### end-type-title
-<!-- -->
-###### start-type-content
+
 <!-- -->
 ###### start-subtype
 <!-- -->
@@ -461,12 +465,14 @@ Legislation
 ###### end-type-content
 
 
+###### start-type-content
+
 <!-- Books and e-books - links to the fourth type menu item -->
 ###### start-type-title
-Books and e-books
+{.type-title}Books and e-books {/.type-title}
+
 ###### end-type-title
-<!-- -->
-###### start-type-content
+
 <!-- -->
 ###### start-subtype
 <!-- -->
@@ -633,12 +639,15 @@ When the citation appears in a bibliography, list the family name first. Sources
 ###### end-type-content
 
 
-<!-- Articles - links to the fifth type menu item -->
-###### start-type-title
-Articles
-###### end-type-title
 <!-- -->
 ###### start-type-content
+
+<!-- Articles - links to the fifth type menu item -->
+###### start-type-title
+{.type-title}Articles {/.type-title}
+
+###### end-type-title
+
 <!-- -->
 ###### start-subtype
 <!-- -->
@@ -785,12 +794,14 @@ Articles
 ###### end-type-content
 
 
-<!-- Online sources - links to the sixth type menu item -->
-###### start-type-title
-Online sources
-###### end-type-title
 <!-- -->
 ###### start-type-content
+
+<!-- Online sources - links to the sixth type menu item -->
+###### start-type-title
+{.type-title}Online sources {/.type-title}
+
+###### end-type-title
 <!-- -->
 ###### start-subtype
 <!-- -->
@@ -821,7 +832,7 @@ Online sources
 
 **Footnote example**
 
-> <sup>1</sup> Board of Examiners, 'Admission Requirements', *Council of Legal Information* (18 February 2010) <http<nolink>://www.lawadmissions.vic.gov.au>.
+> <sup>1</sup> Board of Examiners, 'Admission Requirements', *Council of Legal Information* (18 February 2010) <http<nolink>://www.lawadmissions.vic.gov.au >.
 
 **Bibliography example**
 
@@ -835,13 +846,15 @@ Online sources
 ###### end-subtype
 
 ###### end-type-content
+
+<!-- -->
+###### start-type-content
 <!-- Audiovisual material - links to the seventh type menu item -->
 <!-- -->
 ###### start-type-title
-Audiovisual material
+{.type-title} Audiovisual material {/.type-title}
+
 ###### end-type-title
-<!-- -->
-###### start-type-content
 <!-- -->
 
 ###### start-subtype
@@ -926,14 +939,14 @@ Audiovisual material
 
 ###### end-type-content
 
-
+<!-- -->
+###### start-type-content
 
 <!-- Other sources - links to the eighth type menu item -->
 ###### start-type-title
-Other sources
+{.type-title}Other sources {/.type-title}
+
 ###### end-type-title
-<!-- -->
-###### start-type-content
 <!-- -->
 ###### start-subtype
 <!-- -->
@@ -992,12 +1005,13 @@ For example, if Geoffrey Smith wanted to cite a paper they wrote at RMIT Univers
 ###### end-type-content
 
 
-<!-- AI-generated content - links to the ninth type menu item -->
-###### start-type-title
-AI-generated content
-###### end-type-title
 <!-- -->
 ###### start-type-content
+<!-- AI-generated content - links to the ninth type menu item -->
+###### start-type-title
+{.type-title}AI-generated content {/.type-title}
+
+###### end-type-title
 <!-- -->
 ###### start-subtype
 <!-- -->
