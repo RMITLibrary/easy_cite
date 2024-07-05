@@ -50,14 +50,13 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
+In the Vancouver referencing style sources are acknowledged by inserting a **number** in-text. A reference list at the end of the document is arranged in **numerical** order. This style is often used in the health sciences. 
+
 **Important: This is a guide only**. To avoid losing marks:
 
-Confirm the referencing requirements of your school with your lecturer, and
+- Confirm the referencing requirements of your school with your lecturer.
 
-Use <a href="http://www.nlm.nih.gov/citingmedicine" target="_blank">Citing medicine: the NLM style guide for authors, editors, and publishers (2nd ed.)</a> (opens in a new tab) to clarify referencing rules or if you need more examples. This guide is based on this publication.
-
-The Vancouver referencing style is a **numbered system**, predominantly used in the medical field. Authorship is acknowledged using a number to represent a reference. From the in-text reference number, the reader may consult the reference list for full publication details.
-
+- Use <a href="http://www.nlm.nih.gov/citingmedicine" target="_blank">Citing medicine: the NLM style guide for authors, editors, and publishers (2nd ed.)</a> (opens in a new tab) to clarify referencing rules or find more examples. Easy Cite Vancouver referencing guide is based on this publication.
 
 ###### end-subtype-content
 
@@ -73,7 +72,7 @@ The Vancouver referencing style is a **numbered system**, predominantly used in 
 
 - Once you have given a source a number, use the same number whenever you refer to that source in the text.
 
-- Identifying numbers are placed outside the sentence punctuation. In the text, the number appears in parentheses (either round or square) or as superscript. Examples:
+- Identifying numbers are placed outside the sentence punctuation. In the text, the number appears in parentheses (either round or square) or as superscript. Be consistent: choose one way to format the numbers and use it throughout your document. Examples:
 
 > The theory was first put forward in 1987. (1)
 
@@ -85,25 +84,23 @@ The Vancouver referencing style is a **numbered system**, predominantly used in 
 
 Paraphrasing is when you use someone else's ideas or research and express them in your own words. The way you cite the information depends on the emphasis you wish to apply.
 
-**Information-prominent citations** emphasise the information you have paraphrased or quoted from an author:
+**Information-prominent citations** emphasise the information you have paraphrased or quoted:
 
 > . . . as evidenced from a recent Australian study. (1)
 
-**Author-prominent citations** emphasise the author. Note: When citing a reference with **multiple authors**, list the first author, and then abbreviate subsequent authors using **et al**.
+**Author-prominent citations** emphasise the author: 
 
 > In his research, Jones (2) asserts that . . .
-
-> Morton et al. (2) suggest that the use of binomial control charts . . .
 
 #### Direct quotes
 
 Direct quotes are rarely used in the Vancouver style. However, if you use the exact wording of a source:
 
-- include the page number in the in-text citation
+- Use quotation marks around short direct quotes (fewer than four lines in length) 
+  
+- Include the page number in the in-text citation
 
-- enclose short direct quotes within quotation marks
-
-**Note**: Within the parentheses, the in-text number is followed by a space, then the lower case letter 'p' with no space and the page number.
+**Note**: Within the parentheses, the in-text number is followed by a space, then the lower case letter 'p' with no space before the page number.
 
 > "The increasing availability and growth rate of biomedical information, also known as ‘big data’, provides an opportunity for future personalized medicine programs that will significantly improve patient care". (1 p433)
 
@@ -128,7 +125,7 @@ When citing more than one reference at the same point in your text, give the rel
 
 > A number of researchers (3, 6, 10) discovered that . . .
 
-If the references have **consecutive numbers**, then use a hyphen. There should be no spaces between numbers and hyphens:
+If the references have **consecutive numbers**, use a hyphen between numbers. There should be no space between numbers and hyphens:
 
 > A number of researchers (4-7) discovered that . . .
 
@@ -143,7 +140,7 @@ If the references have **consecutive numbers**, then use a hyphen. There should 
 
 ###### start-subtype-content
 
-A secondary citation is used when you acknowledge the work of an author that you have read about in another author’s work.
+A secondary citation is used when you acknowledge the work of an author that you have read about in a different author’s work.
 
 It is always preferable to read and reference the original source if it is available. When that is not possible, ask your educator if a secondary citation is acceptable.
 
@@ -181,21 +178,27 @@ In your reference list, you need to reference Kato et al. **quoted by** Prazar.
 
 ###### start-subtype-content
 
-- On a new page, under the heading 'Reference List’, list the publication details of all your in-text references. The reference list should be at the end of your document.
+- Create a reference list at the end of your document, on a **new page**.
 
-- List references numerically in the order they first appear in the text.
+- Under the heading Reference List, list the publication details of all your in-text references. Include only those works cited in the text. 
 
-- Include only those works cited in the text. List all other sources you have used separately under the heading ‘Bibliography’.
+- List references **numerically in the order they first appear in your text**, matching the numbers used in-text.
 
-- Format the reference list to be single-spaced with one line space between each entry.
+- The reference list should be single-spaced with one line space between each entry.
+
+#### Bibliography
+
+- Any sources that you have read but **not** paraphrased or quoted are listed separately under the heading Bibliography.
+
+- The bibliography is arranged in **alphabetical order** by author family name or title (where no author is given), and otherwise follows the same Vancouver style as reference list entries.
 
 #### Titles
 
 - Do not use italics for any titles, e.g. book titles, journal titles, titles of journal articles.
 
-- For book titles and journal article titles, capitalise the first word and proper nouns only (i.e. use minimal capitalisation).
+- Use sentence case for minimal capitalisation. For book titles and journal article titles, capitalise the first word and proper nouns only.
 
-- For journal titles, use an abbreviated format. To find the correct title abbreviation, go to <a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/" target="_blank">Journals in NCBI Databases</a>  and then enter the journal’s full title to display its abbreviation.
+- For journal titles, use the abbreviated format. To find the correct title abbreviation, go to <a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/" target="_blank">Journals in NCBI Databases</a>  and then enter the journal’s full title to display its abbreviation.
 
 #### Authors
 
@@ -207,11 +210,11 @@ If there are more than six authors, list the first six followed by **et al**.
 
 #### Place of publication
 
-For the place of publication, add the city, and then qualify it – see below – by the state code or country name.
+For the place of publication, add the city, and then qualify it – see below – by the US or Canada state code or country name.
 
 - **Cities in the USA and Canada**: Include the two-letter abbreviation for the state or province, e.g. St Louis (MO); Hamilton (ON).
 
-- **Cities in other countries**: Use the country name after all cities not in the USA or Canada, e.g. Melbourne (Australia); Oxford (England).
+- **Cities in other countries**: Use the country name after all cities not in the USA or Canada, e.g. Melbourne (Australia); Oxford (United Kingdom).
 
 - **No place of publication**: Use [place unknown] in square brackets.
 
@@ -219,17 +222,15 @@ For the place of publication, add the city, and then qualify it – see below �
 
 #### Pagination
 
-For books in the Reference List, pagination (i.e. total number of pages) is optional. *Note: The examples in this guide do not include pagination for books.*
+For books in the reference list, pagination (i.e. total number of pages) is optional. *Note: The examples in this guide do not include pagination for books.*
+
+If there is no pagination, give an indication of the length of the source in square brackets. This can be provided as print pages, screens or paragraphs e.g. [about 1 p.], [about 5 screens], [8 paragraphs]
 
 #### Punctuation for references ending with a URL
 
-End citations with a full stop unless the citation ends with a URL or other electronic address.
+When a URL ends with a forward slash, end the citation with a full stop.
 
-Check:
-
-- If the URL ends with a forward slash, end the citation with a full stop.
-
-- If the URL does not end with a forward slash, do not end the citation with a full stop.
+When a URL does not end with a forward slash, do not end the citation with a full stop.
 
 ###### end-subtype-content
 
@@ -248,7 +249,7 @@ Check:
 
 1. Sullivan EJ. Becoming influential: a guide for nurses. 2nd ed. Boston (MA): Pearson; 2013.
 
-2. Morton A, Mengersen KL, Playford G, Whitby M. Statistical methods for hospital monitoring with R. Chichester (England): John Wiley & Sons; 2013.
+2. Morton A, Mengersen KL, Playford G, Whitby M. Statistical methods for hospital monitoring with R. Chichester (United Kingdom): John Wiley & Sons; 2013.
 
 3. Goering RV, Dockrell HM, Wakelin D, Zuckerman M, Chiodini PL, Roitt IM, et al. Mims' medical microbiology. 4th ed. Philadelphia (PA): Mosby Elsevier; 2008.
 
@@ -258,7 +259,7 @@ Check:
 
 6. Williams G. Population health and health outcomes. In: Davis J, Birks M, Chapman YB, editors. Inclusive practice for health professionals. South Melbourne, (Australia): Oxford University Press; 2015. p. 128-60.
 
-7. Wagner, HN. Brain imaging: the chemistry of mental activity [Internet]. London (England): Springer London; 2009 [cited 2012 Aug 24]. Available from: SpringerLink eBooks.
+7. Wagner, HN. Brain imaging: the chemistry of mental activity [Internet]. London (United Kingdom): Springer London; 2009 [cited 2012 Aug 24]. Available from: SpringerLink eBooks.
 
 8. Musiek ES. Circadian rhythms in AD pathogenesis: a critical appraisal. Curr Sleep Med Rep. 2017 Jun;3(2):85-92.
 
@@ -318,32 +319,49 @@ Check:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Book with single author
+### Book with one author
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text citation: paraphrasing
+#### In-text citation: paraphrase
 
-Paraphrasing is when you use someone else's ideas or research and express them in your own words. For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+Paraphrasing is when you use someone else's ideas or research and express them in your own words. Acknowledge the author by **inserting a number** after their name (if you use it) or at the end of your sentence. 
 
 > Using a case study, Sullivan (1) demonstrates the relationship between goal setting and career advancement.
 
 > Effective verbal and non-verbal communication skills are essential for nurses. (1)
 
+Number each source in the order in which they **first** appear in your text. Your in-text citation will correspond to the same number in the reference list. Use the same number whenever you cite that source.
+
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+
 #### In-text citation: direct quote
 
-A direct quote is when you use someone else's exact words. Your in-text citation must always include the page number where the author's quotation is found. For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+A direct quote is when you use someone else's exact words. Acknowledge the author in the same way as a paraphrase, with the addition of the **page number** where the author's quotation is found. Place quotation marks around the quotation to make it clear these are not your own words.
 
 > According to Sullivan (1), nurses "get fulfillment from caring for others". (p29)
 
 > While the public may value nurses highly, "nursing ranks low in career desirability". (1 p47)
 
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+
 #### Reference list
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a>.
+Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list. 
+
+When following the example below it is important to:
+
+- Place each element in the **same order** as the example
+- Use the same **punctuation**
+- Do **not** use italics
+- Use **sentence case** for titles: capitalise the first word and proper nouns only.
+
+**Rule**
 
 > 1. Author family name initials. Book title: book subtitle. City of publication (State or Country): Publisher; Year of publication.
+
+**Example**
 
 > 1. Sullivan EJ. Becoming influential: a guide for nurses. 2nd ed. Boston (MA): Pearson; 2013.
 
@@ -358,9 +376,9 @@ For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleg
 
 ###### start-subtype-content
 
-#### In-text citation: paraphrasing
+#### In-text citation: paraphrase
 
-Paraphrasing is when you use someone else's ideas or research and express them in your own words. For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+Paraphrasing is when you use someone else's ideas or research and express them in your own words. 
 
 When paraphrasing a book with multiple authors, insert the reference list number for that title as you would for a book with one author: 
 
@@ -370,9 +388,11 @@ However, if you wish to include the authors' names in your sentence, use the fam
 
 > Morton et al. (2) suggest that the use of binomial control charts ...
 
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+
 #### In-text citation: direct quote
 
-A direct quote is when you use someone else's exact words. Your in-text citation must always include the page number where the author's quotation is found. For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+A direct quote is when you use someone else's exact words. Your in-text citation must always include the page number where the author's quotation is found. 
 
 When quoting directly from a book with more than one author, insert the reference list number for that title followed by the page number:
 
@@ -382,15 +402,31 @@ However, if you wish to write the authors' names in your sentence, use the famil
 
 > According to Morton et al., "the possibility of bias should be kept in mind" (2 p132) when using any chart type to...
 
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+
 #### Reference list
 
-When there are six or fewer authors, list all the authors in the reference list entry:
+When there are **six or fewer authors**, list all the authors in the reference list entry.
 
-> 2. Morton A, Mengersen KL, Playford G, Whitby M. Statistical methods for hospital monitoring with R. Chichester (England): John Wiley & Sons; 2013.
+**Rule**
 
-When there are more than six authors, list the first six, followed by **et al.**:
+> 2. Author family name initials, Author family name initials, Author family name initials, Author family name initials, Author family name initials, Author family name initials. Book title: book subtitle. City of publication (State or Country): Publisher; Year of publication.
+
+**Example**
+
+> 2. Morton A, Mengersen KL, Playford G, Whitby M. Statistical methods for hospital monitoring with R. Chichester (United Kingdom): John Wiley & Sons; 2013.
+
+When there are **more than six authors**, list the first six, followed by **et al.**
+
+**Rule**
+
+> 3. Author family name initials, Author family name initials, Author family name initials, Author family name initials, Author family name initials, Author family name initials, et al. Book title: book subtitle. City of publication (State or Country): Publisher; Year of publication.
+
+**Example**
 
 > 3. Goering RV, Dockrell HM, Wakelin D, Zuckerman M, Chiodini PL, Roitt IM, et al. Mims' medical microbiology. 4th ed. Philadelphia (PA): Mosby Elsevier; 2008.
+
+Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
 
 ###### end-subtype-content
 
@@ -405,15 +441,27 @@ When there are more than six authors, list the first six, followed by **et al.**
 
 #### In-text citations
 
-Whether you are paraphrasing or using a direct quote, in-text citations do not include the edition number of a book.
+Whether you are paraphrasing or using a direct quote, in-text citations do **not** include the edition number of a book. Format your in-text citations as you would a book with one author.
 
 > Colbert et al. (4) highlight the important role that skin plays in protecting the body.
 
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+
 #### Reference list
 
-Include the edition number followed by the abbreviation "ed." after the book title. There is no need to include edition information if a book is a first edition, or if no edition is mentioned.
+Format your reference entry as you would for a book with one author. After the title, add the edition in the format 2nd, 3rd, 4th, and so on, followed by the abbreviation "ed.". 
+
+There is no need to include edition information if a book is a first edition, or if no edition is stated on or in the book.
+
+**Rule**
+
+> 4. Author family name initials, Author family name initials, Author family name initials, Author family name initials, Author family name initials, Author family name initials, et al. Book title: book subtitle. Numeral with letter suffix ed. City of publication (State or Country): Publisher; Year of publication.
+
+**Example**
 
 > 4. Colbert BJ, Ankney J, Lee KT. Anatomy, physiology & disease: an interactive journey for health professionals. 2nd ed. Upper Saddle River (NJ): Pearson Education; 2013.
+
+Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
 
 ###### end-subtype-content
 
@@ -426,7 +474,7 @@ Include the edition number followed by the abbreviation "ed." after the book tit
 
 ###### start-subtype-content
 
-Usually, a chapter in an edited book is cited in-text unless you refer to an edited book as a whole. For a single chapter, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-1#subtype-10" target="_blank">Chapter in an edited book</a>.
+Usually, a chapter in an edited book is cited in-text unless you refer to an edited book as a whole. To cite one chapter only, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-1#subtype-10" target="_blank">Chapter in an edited book</a>.
 
 #### In-text citations
 
@@ -438,15 +486,43 @@ Cite as you would for a book with an author or authors. Instead of author names,
 
 > Changes to the nature of healthcare as they relate to inclusive practice are outlined by Davis et al. (5)
 
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+
 #### Reference List entry
 
-When an edited book has one editor:
+Instead of author names, you will use editor name(s) followed by a comma and the word editor or editors.
 
-> 4. Frumkin H, editor. Environmental health: from global to local. 3rd ed. San Francisco (CA): Jossey-Bass; 2016.
+When an edited book has **one editor**:
 
-When an edited book has multiple editors:
+**Rule**
 
-> 5. Davis J, Birks M, Chapman YB, editors. Inclusive practice for health professionals. South Melbourne (Australia): Oxford University Press; 2015.
+> 5. Editor's family name initials, editor. Book title: book subtitle. City of publication (State or Country): Publisher; Year of publication.
+
+**Example**
+
+> 5. Frumkin H, editor. Environmental health: from global to local. 3rd ed. San Francisco (CA): Jossey-Bass; 2016.
+
+When an edited book has **six or fewer editors**:
+
+**Rule**
+
+> 6. Editor's family name initials, Editor's family name initials, Editor's family name initials, Editor's family name initials, editors. Book title: book subtitle. City of publication (State or Country): Publisher; Year of publication.
+
+**Example**
+
+> 6. Davis J, Birks M, Chapman YB, editors. Inclusive practice for health professionals. South Melbourne (Australia): Oxford University Press; 2015.
+
+When there are **more than six editors**, list the first six, followed by **et al.** then a comma and the word editors:
+
+**Rule**
+
+> 7. Editor's family name initials, Editor's family name initials, Editor's family name initials, Editor's family name initials, Editor's family name initials, Editor's family name initials, et al., editors. Book title: book subtitle. City of publication (State or Country): Publisher; Year of publication.
+
+**Example**
+
+> 7. Bast RC Jr, Croce CM, Hait WN, Hong WK, Kufe DW, Piccart-Gebhart M, et al., editors. Holland-Frei cancer medicine. 9th ed. Hoboken (NJ): Wiley; 2017.
+
+Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
 
 ###### end-subtype-content
 
@@ -467,17 +543,35 @@ When paraphrasing or quoting from one chapter in an edited book, cite as you wou
 
 > According to Williams (6), The National Health Survey provides valuable insight into ...
 
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+
 #### Reference List entry
 
-A reference list entry for a chapter in an edited book includes:
+Cite as you would for an edited book, preceded by these additional parts to identify the chapter and its author(s):
 
 - author(s) of the chapter, the chapter title, followed by In:
 
-- details of the book in which the chapter is found
+- details of the edited book in which the chapter is found
   
 - page numbers of the chapter. 
 
-> 6. Williams G. Population health and health outcomes. In: Davis J, Birks M, Chapman YB, editors. Inclusive practice for health professionals. South Melbourne (Australia): Oxford University Press; 2015. p. 128-60.
+When the chapter is in an edited ebook, add the additional elements described in <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-1#subtype-11">Ebook from a database</a>
+
+**Rule**
+
+> 8. Author family name initials. Chapter title. In: Editor's family name initials, editor. Book title: book subtitle. City of publication (State or Country): Publisher; Year of publication.
+
+**Example**
+
+> 8. Renk K. Reactive attachment disorder. In: Olatunji BO, editor. The Cambridge handbook of anxiety and other disorders. Cambridge (United Kingdom): Cambridge University Press; 2019.
+
+When there are multiple chapter authors, format their names as you would for a book with multiple authors.
+
+When there are multiple book editors, format their names as you would for a book with multiple editors.
+
+> 9. Williams G. Population health and health outcomes. In: Davis J, Birks M, Chapman YB, editors. Inclusive practice for health professionals. South Melbourne (Australia): Oxford University Press; 2015. p. 128-60.
+
+Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
 
 ###### end-subtype-content
 
@@ -486,29 +580,47 @@ A reference list entry for a chapter in an edited book includes:
 
 ###### start-subtype-item
 
-### E-book (from a database)
+### E-book or e-book chapter from a database
 
 ###### start-subtype-content
 
 #### In-text citations
 
-When paraphrasing or quoting from an e-book in a database, cite as you would for a hardcopy (print) book.
+When paraphrasing or quoting from an e-book in a database, cite as you would for a book with one author or multiple authors.
 
-> Cortical brain blood flow in jailed violent offenders is lower than the general population. (6)
+> Cortical brain blood flow in jailed violent offenders is lower than the general population. (10)
 
-> According to Wagner (6), the cortical brain blood flow in imprisoned violent lawbreakers is lower than that of the general population.
+> According to Wagner (10), the cortical brain blood flow in imprisoned violent lawbreakers is lower than that of the general population.
+
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
 
 #### Reference list
 
-Your reference list entry will be the same as a hardcopy (print) book, with these additional elements:
+Your reference list entry will be the same as a book with one or more authors, with these three additional elements:
 
-- After the title, add the type of medium in square brackets: [Internet]
+- After the title, add the type of medium in square brackets: **[Internet]**
 
-- After year of publication, add the date you cited the book in square brackets: year, month, day: [cited 2012 Aug 24]
+- After year of publication, add the date you cited the book in square brackets: year, month (abbreviated to three letters), day: **[cited 2012 Aug 24]**
 
-- After the cited date, type Available from: followed by the name of the library database in which the e-book can be found. Available from: SpringerLink eBooks.
+- After the cited date, type Available from: followed by the name of the library database in which you accessed the e-book. **Available from: SpringerLink eBooks**.
 
-> 6. Wagner HN. Brain imaging: the chemistry of mental activity [Internet]. London (England): Springer London; 2009 [cited 2012 Aug 24]. Available from: SpringerLink eBooks.
+**Rule**
+
+> 10. Author family name initials. Book title: book subtitle. [Internet]. City of publication (State or Country): Publisher; Year of publication [cited year Month day]. Available from: Database name.
+
+> 10. Wagner HN. Brain imaging: the chemistry of mental activity [Internet]. London (United Kingdom): Springer; 2009 [cited 2012 Aug 24]. Available from: SpringerLink eBooks.
+
+For an **ebook chapter**, format it as you would a chapter in an edited book and add the extra elements as for an ebook (described above):
+
+**Rule**
+
+11. Author family name initials. Chapter title. In: Editor's family name initials, editor. Book title: book subtitle. [Internet]. City of publication (State or Country): Publisher; Year of publication [cited year Month day]. Available from: Database name.
+
+**Example**
+
+11. Hetherington K, Hamlet N. Health and homelessness. In: Bonner A, editor. Social determinants of health: an interdisciplinary approach to social inequality and well-being. [Internet]. Bristol (United Kingdom): Policy Press; 2018 [cited 2024 Jul 5]. Available from: Cambridge University Press Online Books.
+
+Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
 
 ###### end-subtype-content
 
@@ -528,36 +640,53 @@ Your reference list entry will be the same as a hardcopy (print) book, with thes
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Journal article with single author
+### Journal article with one author
 
 <!-- first accordion item -->
 ###### start-subtype-content
 
-#### In-text citations
+#### In-text citation: paraphrase
 
-For in-text citations, cite as you would for a book. An example of paraphrasing:
+Paraphrasing is when you use someone else's ideas or research and express them in your own words. Acknowledge the author by **inserting a number** after their name (if you use it) or at the end of your sentence. 
 
->In his research, Musiek (8) found that sleep and the circadian system ...
+Number each source in the order in which they **first** appear in your text. Your in-text citation will correspond to the same number in the reference list. Use the same number whenever you cite that source.
+
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+
+>In his research, Musiek (12) found that sleep and the circadian system ...
+
+#### In-text citation: direct quote
+
+A direct quote is when you use someone else's exact words. Acknowledge the author in the same way as a paraphrase, with the addition of the **page number** where the author's quotation is found. Place quotation marks around the quotation to make it clear these are not your own words.
+
+> Whilst there has been widespread description of circadian rhythm abnormalities in individuals with symptoms of AD dementia, there are "discrepancies regarding rhythms in temperature and cortisol secretion." (12 p87)
+
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
 
 #### Reference list
 
-Include the following parts in this order, noting the use of punctuation and spaces.
+Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list. 
 
-- Author's family name and initials.
+When following the example below it is important to:
 
-- Title of the article. Capitalise the first word and proper nouns only (i.e. minimal capitalisation).
+- Place each element in the **same order** as the example
+- Use the same **punctuation**
+- Do **not** use italics
+- Use **sentence case** for titles: capitalise the first word and proper nouns only.
+- **Journals titles** must be abbreviated.
+- **Page numbers** are not repeated (that is, 17-8 not 17-18) unless followed by a letter (eg. 145A-149A).
 
-- Journal title. Note that in the Vancouver style, journal titles are abbreviated. To find the correct title abbreviation, go to <a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/" target="_blank">Journals in NCBI Databases</a>, then enter the journal’s full title to display its abbreviation.
+**Abbreviated journal titles**
 
-- Year of publication.
+To find the correct title abbreviation, go to <a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/" target="_blank">Journals in NCBI Databases</a>  and then enter the journal’s full title to display its abbreviation.
 
-- Month of publication. Note that only the first three letters of the month are given. Optional: if available, the Day can be added after the Month, e.g. Mar 5
+**Rule**
 
-- Volume number and the issue number of the journal (in parentheses).
+> 12. Author family name Initials. Article title: article subtitle. Abbreviated Journal Title. Year Mon;Volume number(Issue number):page range.
 
-- Page range of the article. Note that page numbers are not repeated unless they are followed by a letter, e.g. 17-8 not 17-18; however, 145A-149A is correct.
+**Example**
 
-> 8. Musiek ES. Circadian rhythms in AD pathogenesis: a critical appraisal. Curr Sleep Med Rep. 2017 Jun;3(2):85-92.
+> 12. Musiek ES. Circadian rhythms in AD pathogenesis: a critical appraisal. Curr Sleep Med Rep. 2017 Jun;3(2):85-92.
 
 ###### end-subtype-content
 
@@ -570,32 +699,45 @@ Include the following parts in this order, noting the use of punctuation and spa
 
 ###### start-subtype-content
 
-#### In-text citations
+#### In-text citation: paraphrase
 
-For in-text citations, cite as you would for a book. An example of paraphrasing:
+Paraphrasing is when you use someone else's ideas or research and express them in your own words. 
 
-> Marinovich et al. (9) conducted a systematic review on the accuracy of breast magnetic resonance imaging.
+When paraphrasing a journal article with multiple authors, insert the reference list number for that article as you would for a journal article with one author: 
+
+> A 2013 meta-analysis of forty-four studies found the accuracy of MRI is superior to mammography. (14)
+
+However, if you wish to include the authors' names in your sentence, use the family name of the first author only followed by **et al.**:
+
+> Marinovich et al. (14) conducted a meta-analysis to investigate the accuracy of magnetic resonance imaging to detect breast cancer.
+
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
 
 #### Reference list
 
-Include the following, noting the use of punctuation and spaces.
+Format your reference list entry in the same way as a journal article with one author, but of course with additional authors.
 
-- Where there are six or fewer authors, list all the authors. If there are more than six authors, list the first six followed by **et al**.
+When there are **six or fewer authors**, list all the authors.
 
-- The title of the article. Capitalise the first word and proper nouns only.
+**Rule**
 
-- The journal title. Note that journal titles are abbreviated. To find the title abbreviation, go to the PubMed database, select "Journals in NCBI Databases", and then enter the journal’s full title to display its abbreviation.
-The year of publication.
+> 13. Author family name Initials, Author family name Initials, Author family name Initials, Author family name Initials, Author family name Initials. Article title: article subtitle. Abbreviated Journal Title. Year Mon;Volume number(Issue number):page range.
 
-- The month. Note that only the first three letters of the month are given. Optional: if available, the Day can be added after the Month, e.g. Mar 5
+**Example**
 
-- The volume number of the journal and the issue number (in parentheses).
+> 13. Koloskov V, Brink WM, Webb AG, Shchelokova A. Flexible metasurface for improving brain imaging at 7T. Magn Reson Med. 2024 Aug;92(2):869–880.
 
-- The page range of the article. Note that page numbers are not repeated unless they are followed by a letter. For example, instead of 17-18 use 17-8; however, where a letter is used, 145A-149A is correct.
+When there are **more than six authors**, list the first six, followed by **et al.**
 
-In the example below, the article was written by nine authors. Note that only the first six authors are listed, followed by a **comma** then **et al**.
+**Rule**
 
-> 9. Marinovich ML, Houssami N, Macaskill P, Sardanelli F, Irwig L, Mamounas EP, et al. Meta-analysis of magnetic resonance imaging in detecting residual breast cancer after neoadjuvant therapy. J Natl Cancer Inst. 2013 Mar 6;105(5):321-33.
+> 14. Author family name Initials, Author family name Initials, Author family name Initials, Author family name Initials, Author family name Initials, Author family name Initials, et al. Article title: article subtitle. Abbreviated Journal Title. Year Mon;Volume number(Issue number):page range.
+
+**Example**
+
+> 14. Marinovich ML, Houssami N, Macaskill P, Sardanelli F, Irwig L, Mamounas EP, et al. Meta-analysis of magnetic resonance imaging in detecting residual breast cancer after neoadjuvant therapy. J Natl Cancer Inst. 2013 Mar 6;105(5):321-33.
+
+Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list. 
 
 ###### end-subtype-content
 
@@ -604,33 +746,39 @@ In the example below, the article was written by nine authors. Note that only th
 
 ###### start-subtype-item
 
-### Article on the Internet
+### Journal article on the Internet
 
 ###### start-subtype-content
 
 #### In-text citations
 
-For in-text citations, cite as you would for a book. An example of paraphrasing:
+When paraphrasing or directly quoting an online journal article, cite as you would for a journal article with one or multiple authors.
 
-> Ogilvy explores the excessive preoccupation with enhancing human life: extending life to promote its longevity, and increasing human intelligence. (10)
+For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
 
 #### Reference list
 
-In the Reference List, include the same information as you would for a print journal. Note the punctuation used and where spaces are used or not used. In addition, note the following:
+Your reference list entry will be the same as a journal article with one or more authors, with these additional elements:
 
-- After the journal title, include the type of medium in square brackets, e.g. [Internet]
+- After the journal title, add the type of medium in square brackets: **[Internet]**
 
-- After the year and month of publication, include the date cited, e.g. [cited 2016 Nov 23] Note: The name of the month is abbreviated.
+- After year and month of publication, add the date you cited the article in square brackets: year, month (abbreviated to three letters), day: **[cited 2012 Aug 24]**
 
-- After the issue number of the article, give the page number range. However, if there is no pagination, give an indication of the length of the article in square brackets. This can be provided as print pages, screens or paragraphs e.g. [about 1 p.], [about 5 screens], [8 paragraphs]
+- After the page range, type Available from: followed by the URL where you accessed the online article: **Available from: URL**
 
-- Give the URL, prefacing it with "Available from: ...", e.g. Available from: http<nolink>://www.liebertonline.com/doi/pdfplus/10.1089/acm.2008.0348
+When a URL ends with a forward slash, end the citation with a full stop.
 
-- Note: When a reference ends with a URL, do not include a full stop at the end **unless it ends with a forward slash**.
+When a URL does not end with a forward slash, do **not** end the citation with a full stop.
 
-> 10. Ogilvy J. Human enhancement and the computational metaphor. J Evol Technol. [Internet]. 2011 Dec [cited 2018 Mar 9];22(1):[about 12 p.]. Available from: https<nolink>://jetpress.org/v22/ogilvy.htm
+Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list. 
 
+**Rule**
 
+> 15. Author family name Initials. Article title: article subtitle. Abbreviated Journal Title. [Internet]. Year Mon [cited 2024 Jul 5];Volume number(Issue number):page range. Available from: URL
+
+**Example**
+
+> 15. Martin P, Tamblyn R, Benedetti A, Ahmed S, Tannenbaum C. Effect of a pharmacist-led educational intervention on inappropriate medication prescriptions in older adults: the D-PRESCRIBE randomized clinical trial. JAMA. [Internet]. 2018 Nov [cited 2024 Jul 5];320(18):1889–98. Available from: https://doi.org/10.1001/jama.2018.16131
 
 ###### end-subtype-content
 
