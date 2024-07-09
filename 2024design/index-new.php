@@ -118,11 +118,10 @@
 </header>
 <!-- END top nav -->
 	
-<!-- Page content--> 
-		
+<!-- Page content--> 		
 <!-- style guides content--> 	
-<div class="container p-1">
-	<!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
+<div class="container p-1"> <!-- 1 -->
+<!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
 <?php 
 // include the parsedown code
 require_once 'Parsedown.php';
@@ -181,17 +180,15 @@ $mylist = $parsedown->text($thestyleguide);
 	
 //START STYLE GUIDE
 $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '
-
-<div id="page-content">
+<div id="page-content"><!-- 2 -->
 <main class="container main-content">
-<div id="nav-tabContent-xx">
-<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab">
-<div class="row ">
-<!-- START right nav -->
+<div id="nav-tabContent-xx"><!-- 3 -->
+<div class="tab-pane fade" id="nav-xx" role="tabpanel" aria-labelledby="nav-xx-tab"><!-- 4 -->
+<div class="row "><!-- 5 -->
 
-<div class="col-xl-4 order-last">
+<!-- START right nav -->
+<div class="col-xl-4 order-last"><!-- 6 -->
 <nav class="right-nav-simple" aria-label="Section Menu">', $mylist);
-	
 //DESKTOP TITLE top of SIDEBAR
 $mylist = preg_replace("/<h6>start-desktop-title<\/h6>/", ' ', $mylist);
 $mylist = preg_replace("/<h6>end-desktop-title<\/h6>/", ' ', $mylist);
@@ -207,18 +204,19 @@ $mylist = preg_replace("/<\/h2>/s", '
 	
 $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '
 </nav>
-</div>', $mylist);	
+</div><!-- -6 -->
+<!-- END right nav -->', $mylist);	
 	
 	
 //MOBILE TITLE - title part only visible in mobile view
 $mylist = preg_replace("/<h6>start-mobile-title<\/h6>/", '
 <!-- START content columns -->
-<div class="col-xl-8 order-first">				
+<div class="col-xl-8 order-first"><!-- 7 -->				
 <!-- START printable guide div -->
-<div id="printable-guide">
+<div id="printable-guide"><!-- 8 -->
 <!-- START tab-content stnContent-0 -->
-<div class="tab-content" id="stnContent-yy">
-<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy">', $mylist);
+<div class="tab-content" id="stnContent-yy"><!-- 9 -->
+<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy"><!-- 10 -->', $mylist);
 $mylist = preg_replace("/<h6>end-mobile-title<\/h6>/", '<!-- end mobile title -->', $mylist);	
 
 // ACCORDIONS
@@ -226,44 +224,55 @@ $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<!-- start content are
 	
 // PRINTABLE SECTION	
 $mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<!-- start type content -->', $mylist);	
-//<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy">
+//<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy"><!-- 11 -->
 //TYPE TITLE
 $mylist = preg_replace("/<h6>start-type-title<\/h6>/", '
-<div class="page-title">', $mylist);
-$mylist = preg_replace("/<h6>end-type-title<\/h6>/", '<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>', $mylist);	
+<div class="page-title"><!-- 12 -->', $mylist);
+$mylist = preg_replace("/<h6>end-type-title<\/h6>/", '<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->', $mylist);	
 
 
 	
 // ACCORDION ITEMS
 $mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '
-<div class="accordion" id="accordionExample-zz">', $mylist);
+<div class="accordion" id="accordionExample-zz"><!-- 13 -->', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '
-<div class="accordion-item" id="accordion-item-zz">', $mylist);
+<div class="accordion-item" id="accordion-item-zz"><!-- 14 -->', $mylist);
 $mylist = preg_replace("/<h3>/s", '
 <h3 class="accordion-header mt-1" id="heading-zz">
 <button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
 $mylist = preg_replace("/<\/h3>/s", '</button></h3>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '
-<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">', $mylist);
+<div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->', $mylist);
 $mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>', $mylist);
-	
-$mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div>', $mylist);
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->', $mylist);
+$mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div><!-- -13 -->', $mylist);
 $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '', $mylist);
-$mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '</div>', $mylist);
+// END ACCORDION ITEMS
+	
+$mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '&nbsp;', $mylist);
+//</div><!-- -11 -->
 	
 $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '
-</div></div></div></div>', $mylist);
+</div><!-- -10 -->
+</div><!-- -9 -->
+</div><!-- -8 -->
+</div><!-- -7 -->
+<!-- END content columns -->', $mylist);
+	
 $mylist = preg_replace("/<h6>end-style-guide<\/h6>/s", '
-</div></div></div>
-<div id="print-title">
+</div><!-- -5 -->
+</div><!-- -4 -->
+</div><!-- -3 -->
+<div id="print-title"><!-- 17 -->
 <button class="btn btn-print guideprint" id="sgt-print-tab" type="button" tabindex="0" onclick="printThisGuide(this);">Print the entire style guide<span class="visually-hidden"> (opens new window)</span>
-</button></div>
-</main></div></div>
+</button>
+</div><!-- -17 -->
+</main>
+</div><!-- -2 -->
 ', $mylist);
 	
 // CUSTOM TAGS TO CLASSES
@@ -508,7 +517,7 @@ if ($whichstyleguide == "styleguide-0"){
 echo($mylist);
 ?>
 
-	
+
 <!-- start info box-->
 <div id="ecinfopane" style="display: <?= $showInfobox?>">
 	<h3><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;How to use the Easy Cite referencing tool</h3>
@@ -530,14 +539,13 @@ echo($mylist);
     </div>
 </div>
 <!-- end info box-->	
-	
 <!-- end padding for content -->
 <!-- end page content-->
-</div>	<!-- end container p-1-->
-    <!-- START footer -->
-	
-	<!-- START ask the library -->
-	<div class="footer-container">
+</div><!-- -1 -->
+<!-- end container p-1-->
+<!-- START footer -->	
+<!-- START ask the library -->
+<div class="footer-container">
 		<div class="container">
 			<div class="row">
 				<div class="col">
@@ -655,7 +663,7 @@ echo($mylist);
 		<!-- END footer -->
 	</div>
 	
-	<!-- END footer -->	
+<!-- END footer -->	
 
 <script>
 // URL STRING TO SAVE AND SHOW CORRECT CONTENT
@@ -677,7 +685,8 @@ $(function(){
 });
 </script>
 <script type="application/javascript">
-// URL STRING TO SAVE AND SHOW CORRECT CONTENT
+// --------------------------
+// URL STRING IMPLEMENTATION
 // script to find the URL hash string and split it 
 // to identify which pill and which accordion item need to open
 var tabopen;
@@ -725,31 +734,31 @@ function myFunction2(button, thisquery){
 		console.log(params.toString());
 		window.history.pushState({}, '', `${location.pathname}?${params.toString()}#stn-0`);
 	}
-	//refresh the page...
+	// refresh the page...
 	location.reload();
-	//	window.scroll(0,0); //need to scroll window to top of page but not working 	
+	// window.scroll(0,0); //need to scroll window to top of page but not working 	
 	document.getElementById("nav-tab").focus();
-	document.body.scrollTop = 0; // For Safari
-  	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+	// document.body.scrollTop = 0; // For Safari
+  	// document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
-
+// END URL STRING IMPLEMENTATION
 // --------------------------
 // ACCORDION FAMILIES
 // this function dynamically allocates the parent accordion div of the accordion-item 
 // to the children's (accordion-collapse) data-bs-parent value 
 // so that selecting one accordion will close the others in the group.
-//find all the accordion-item divs
-const mylist = document.getElementsByClassName("accordion-item"); 
-	//loop through all the accordion-item divs
+// find all the accordion-item divs
+/*const mylist = document.getElementsByClassName("accordion-item"); 
+	// loop through all the accordion-item divs
 	for (let p = 0; p < mylist.length; p++){
-		//console.log(mylist[p].id);
-		//find all the children with the class name accordion-collapse
+		// console.log(mylist[p].id);
+		// find all the children with the class name accordion-collapse
 		const nodes = mylist[p].getElementsByClassName("accordion-collapse");
-		//loop through the children
+		// loop through the children
 		for (let i = 0; i < nodes.length; i++) { 
-			//set the children's value for data-bs-parent to the "grandparent" div ID name
+			// set the children's value for data-bs-parent to the "grandparent" div ID name
 			nodes[i].setAttribute("data-bs-parent", "#" + mylist[p].parentElement.id); 
-			//console.log(nodes[i].getAttribute("data-bs-parent"));
+			// console.log(nodes[i].getAttribute("data-bs-parent"));
 		}
 	}
 // remove the "collapsed" class from the first accordion button in each accordion so it's in its "open" state
@@ -758,22 +767,22 @@ const acclist = document.getElementsByClassName("accordion");
 	for (let q = 0; q < acclist.length; q++){
 		const acbuttons = acclist[q].getElementsByClassName("accordion-button");
 		acbuttons[0].classList.remove("collapsed");
-		//console.log(acbuttons[0].className);
+		// console.log(acbuttons[0].className);
 	}
 
 // OR
 // Use this code to only open the first accordion subtype in a style guide
-//only run this code if there are accordions - i.e. not the "Using Easy Cite" tab.
+// only run this code if there are accordions - i.e. not the "Using Easy Cite" tab.
 var thisstatus = '<?= $showInfobox?>';
 if (thisstatus == "none"){
 	const acbuttons = document.getElementsByClassName("accordion-button");
 	acbuttons[0].classList.remove("collapsed");
-}
-
+}*/
+// END ACCORDION FAMILIES
 // -----------------------------
 // PRINT SCRIPT
 // this script controls the method for printing a section, part or whole guide depending on the button selected
-function printThisGuide(elem) {
+/*function printThisGuide(elem) {
 	// get the button class name attribute
 	var thisbutton = elem.className;
 	// create variable to hold the correct style guide title
@@ -792,11 +801,11 @@ function printThisGuide(elem) {
 		var thisdiv = document.getElementById("printable-guide").id;
 	}
 	console.log(thisdiv);
-	//put the print title into a new variable
+	// put the print title into a new variable
 	var printTitle = document.getElementById(thistitle).innerHTML;
-	//put the HTML contents of the div for printing into a new variable
+	// put the HTML contents of the div for printing into a new variable
     var divContents = document.getElementById(thisdiv).innerHTML;
-	//open a window, add contents
+	// open a window, add contents
     var a = window.open('', '', 'height=1200, width=800');
     a.document.write('<html><head>');
 	// link to the external stylesheet - change the stylesheet CSS file to change the appearance of the HTML
@@ -818,7 +827,8 @@ function printThisGuide(elem) {
 	}, 500); 
 	a.document.close();
    a.focus();
-}
+}*/
+// END PRINT SCRIPT
 // -----------------------------
 // INSTRUCTIONS TOGGLE
 // toggle the instructions box text - open/close
@@ -835,24 +845,24 @@ function textToggle(elem){
 		console.log("close");
 	}
 }
+// END INSTRUCTIONS TOGGLE
 // -----------------------------
-//START HAMBURGER MENU 
-//If true, menu covers content
-//If false, menu pushes content down
+// START HAMBURGER MENU 
+// If true, menu covers content
+// If false, menu pushes content down
 var menuCover = true;   
-/* Grab both the menu button and the page content */
+// Grab both the menu button and the page content
 var menuButton = document.getElementById("menu-button");
 var pageContent = document.getElementById("page-content");
-/* Store content scroll position */
+// Store content scroll position
 var scrollPosition;
-/* Store display status of menu */
+// Store display status of menu
 var menuDisplay = false;
-/* Listen for click */
+// Listen for click */
 if(menuCover) menuButton.addEventListener("click", showHideMenu);
-/*
-If menu is hidden, bootstrap wll show it, hide page content.
-If it's displayed, bottstrap will hide it, show the content.
-*/
+// If menu is hidden, bootstrap wll show it, hide page content.
+// If it's displayed, bottstrap will hide it, show the content.
+
 function showHideMenu() {
     if(menuDisplay == false)
     {
@@ -865,7 +875,7 @@ function showHideMenu() {
         menuDisplay = false;
         pageContent.style.display = "block";
         
-        /* Change scroll behaviour, jump to where the user had scrolled to on the page, then revert to smooth scrolling again. */
+        // Change scroll behaviour, jump to where the user had scrolled to on the page, then revert to smooth scrolling again.
         document.documentElement.style.scrollBehavior = "auto";
         window.scroll(0, scrollPosition);
         document.documentElement.style.scrollBehavior = "smooth";
