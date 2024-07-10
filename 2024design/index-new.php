@@ -30,8 +30,11 @@
 	
     <!-- Core theme CSS, JS & JQUERY (includes Bootstrap)-->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+	
 	<link href="css/main-new.css" rel="stylesheet">
-	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	
+	<!-- removing jquery as it's throwing up errors, but jQuery functions don't work - rewrite? -->
+	<!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
 	
 </head>
 <body>
@@ -45,7 +48,7 @@
 				<!-- START left hand column -->
 				<div class="col-auto left-nav">
 					<div class="rmit-logo"><span class="visually-hidden">RMIT University logo</span></div>
-					<a href="#" id="nav-link-0" tabindex="0" data-bs-target="#nav-0" aria-controls="nav-0" onclick="myFunction2(this, 'styleguide-0')" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
+					<a href="#" id="nav-link-0" tabindex="0" data-bs-target="#nav-0" aria-controls="nav-0" onclick="outputQueryStringFunction(this, 'styleguide-0')" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
 				</div>
 				<!-- END left hand column -->
 				<!-- START right hand column -->
@@ -76,13 +79,13 @@
 		<div class="container nav-container">
             <nav aria-label="Main Menu">
                 <ul class="link-list-white">
-                    <li><a id="nav-linkh-2" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-2" aria-controls="nav-2" onclick="myFunction2(this, 'styleguide-2')">AGLC4</a></li>
-                    <li><a id="nav-linkh-3" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-3" aria-controls="nav-3" onclick="myFunction2(this, 'styleguide-3')">APA 7th edition</a></li>
-                    <li><a id="nav-linkh-4" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-4" aria-controls="nav-4" onclick="myFunction2(this, 'styleguide-4')">Chicago A</a></li>
-                    <li><a id="nav-linkh-5" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-5" aria-controls="nav-5" onclick="myFunction2(this, 'styleguide-5')">Chicago B</a></li>
-                    <li><a id="nav-linkh-6" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-6" aria-controls="nav-6" onclick="myFunction2(this, 'styleguide-6')">IEEE</a></li>
-                    <li><a id="nav-linkh-1" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-1" aria-controls="nav-1" onclick="myFunction2(this, 'styleguide-1')">RMIT Harvard</a></li>
-                    <li><a id="nav-linkh-7" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-7" aria-controls="nav-7" onclick="myFunction2(this, 'styleguide-7')">Vancouver</a></li>
+                    <li><a id="nav-linkh-2" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-2" aria-controls="nav-2" onclick="outputQueryStringFunction(this, 'styleguide-2')">AGLC4</a></li>
+                    <li><a id="nav-linkh-3" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-3" aria-controls="nav-3" onclick="outputQueryStringFunction(this, 'styleguide-3')">APA 7th edition</a></li>
+                    <li><a id="nav-linkh-4" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-4" aria-controls="nav-4" onclick="outputQueryStringFunction(this, 'styleguide-4')">Chicago A</a></li>
+                    <li><a id="nav-linkh-5" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-5" aria-controls="nav-5" onclick="outputQueryStringFunction(this, 'styleguide-5')">Chicago B</a></li>
+                    <li><a id="nav-linkh-6" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-6" aria-controls="nav-6" onclick="outputQueryStringFunction(this, 'styleguide-6')">IEEE</a></li>
+                    <li><a id="nav-linkh-1" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-1" aria-controls="nav-1" onclick="outputQueryStringFunction(this, 'styleguide-1')">RMIT Harvard</a></li>
+                    <li><a id="nav-linkh-7" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-7" aria-controls="nav-7" onclick="outputQueryStringFunction(this, 'styleguide-7')">Vancouver</a></li>
                 </ul>
             </nav>
             <ul class="additional-links">
@@ -103,13 +106,13 @@
 		<div class="container">
 			<nav aria-label="Main Menu">
 				<ul class="nav" id="nav-tab">
-					<li><a id="nav-link-2" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-2" role="tab" aria-controls="nav-2" onclick="myFunction2(this, 'styleguide-2')">AGLC4</a></li>
-					<li><a id="nav-link-3" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-3" role="tab" aria-controls="nav-3" onclick="myFunction2(this, 'styleguide-3')">APA 7th edition</a></li>
-					<li><a id="nav-link-4" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-4" role="tab" aria-controls="nav-4" onclick="myFunction2(this, 'styleguide-4')">Chicago A</a></li>
-					<li><a id="nav-link-5" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-5" role="tab" aria-controls="nav-5" onclick="myFunction2(this, 'styleguide-5')">Chicago B</a></li>
-					<li><a id="nav-link-6" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-6" role="tab" aria-controls="nav-6" onclick="myFunction2(this, 'styleguide-6')">IEEE</a></li>
-					<li><a id="nav-link-1" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-1" role="tab" aria-controls="nav-1" onclick="myFunction2(this, 'styleguide-1')">RMIT Harvard</a></li>
-                    <li><a id="nav-link-7" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-7" role="tab" aria-controls="nav-7" onclick="myFunction2(this, 'styleguide-7')">Vancouver</a></li>
+					<li><a id="nav-link-2" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-2" role="tab" aria-controls="nav-2" onclick="outputQueryStringFunction(this, 'styleguide-2')">AGLC4</a></li>
+					<li><a id="nav-link-3" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-3" role="tab" aria-controls="nav-3" onclick="outputQueryStringFunction(this, 'styleguide-3')">APA 7th edition</a></li>
+					<li><a id="nav-link-4" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-4" role="tab" aria-controls="nav-4" onclick="outputQueryStringFunction(this, 'styleguide-4')">Chicago A</a></li>
+					<li><a id="nav-link-5" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-5" role="tab" aria-controls="nav-5" onclick="outputQueryStringFunction(this, 'styleguide-5')">Chicago B</a></li>
+					<li><a id="nav-link-6" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-6" role="tab" aria-controls="nav-6" onclick="outputQueryStringFunction(this, 'styleguide-6')">IEEE</a></li>
+					<li><a id="nav-link-1" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-1" role="tab" aria-controls="nav-1" onclick="outputQueryStringFunction(this, 'styleguide-1')">RMIT Harvard</a></li>
+                    <li><a id="nav-link-7" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-7" role="tab" aria-controls="nav-7" onclick="outputQueryStringFunction(this, 'styleguide-7')">Vancouver</a></li>
 				</ul>
 			</nav>
 		</div>		
@@ -187,7 +190,7 @@ $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '
 <div class="row "><!-- 5 -->
 
 <!-- START right nav -->
-<div class="col-xl-4 order-last"><!-- 6 -->
+<div class="col-xl-4 order-last" id="pills-tab" role="tablist"><!-- 6 -->
 <nav class="right-nav-simple" aria-label="Section Menu">', $mylist);
 //DESKTOP TITLE top of SIDEBAR
 $mylist = preg_replace("/<h6>start-desktop-title<\/h6>/", ' ', $mylist);
@@ -197,7 +200,7 @@ $mylist = preg_replace("/<h6>end-desktop-title<\/h6>/", ' ', $mylist);
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '
 <!-- START sidebar nav -->', $mylist);
 $mylist = preg_replace("/<h2>/", '
-<button class="nav-link" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); 
+<button class="nav-link" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="globalHashFunction(this, \'thishash1\')">', $mylist); 
 
 $mylist = preg_replace("/<\/h2>/s", '
 </button>', $mylist);
@@ -212,23 +215,25 @@ $mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '
 $mylist = preg_replace("/<h6>start-mobile-title<\/h6>/", '
 <!-- START content columns -->
 <div class="col-xl-8 order-first"><!-- 7 -->				
-<!-- START printable guide div -->
-<div id="printable-guide"><!-- 8 -->
 <!-- START tab-content stnContent-0 -->
-<div class="tab-content" id="stnContent-yy"><!-- 9 -->
-<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy"><!-- 10 -->', $mylist);
+<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy"><!-- 8 -->
+<div class="tab-content" id="stnContent-yy"><!-- 9 -->', $mylist);
 $mylist = preg_replace("/<h6>end-mobile-title<\/h6>/", '<!-- end mobile title -->', $mylist);	
 
 // ACCORDIONS
-$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<!-- start content area -->', $mylist);
+$mylist = preg_replace("/<h6>start-content-area<\/h6>/", '
+<!-- START printable guide div -->
+<div id="printable-guide"><!-- 10 -->', $mylist);
 	
 // PRINTABLE SECTION	
-$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '<!-- start type content -->', $mylist);	
+$mylist = preg_replace("/<h6>start-type-content<\/h6>/", '
+<!-- start type content -->', $mylist);	
 //<div class="tab-pane fade" id="sgt-yy" role="tabpanel" aria-labelledby="stn-yy"><!-- 11 -->
 //TYPE TITLE
 $mylist = preg_replace("/<h6>start-type-title<\/h6>/", '
 <div class="page-title"><!-- 12 -->', $mylist);
-$mylist = preg_replace("/<h6>end-type-title<\/h6>/", '<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->', $mylist);	
+$mylist = preg_replace("/<h6>end-type-title<\/h6>/", '
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->', $mylist);	
 
 
 	
@@ -239,8 +244,9 @@ $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '
 <div class="accordion-item" id="accordion-item-zz"><!-- 14 -->', $mylist);
 $mylist = preg_replace("/<h3>/s", '
 <h3 class="accordion-header mt-1" id="heading-zz">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="myFunction(this, \'thishash2\')">', $mylist);
-$mylist = preg_replace("/<\/h3>/s", '</button></h3>', $mylist);		
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-zz" aria-expanded="false" aria-controls="collapse-zz" onclick="globalHashFunction(this, \'thishash2\')">', $mylist);
+$mylist = preg_replace("/<\/h3>/s", '
+</button></h3>', $mylist);		
 $mylist = preg_replace("/<h6>start-subtype-content<\/h6>/s", '
 <div class="accordion-collapse collapse" id="subtype-zz" aria-labelledby="heading-zz" data-bs-parent="#accordionExample-0"><!-- 15 -->
 <div class="accordion-body"><!-- 16 -->', $mylist);
@@ -249,11 +255,12 @@ $mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '
 </div><!-- -16 -->
 </div><!-- -15 -->
 </div><!-- -14 -->', $mylist);
-$mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '</div><!-- -13 -->', $mylist);
+$mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '
+</div><!-- -13 -->', $mylist);
 $mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '', $mylist);
 // END ACCORDION ITEMS
 	
-$mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '&nbsp;', $mylist);
+$mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '', $mylist);
 //</div><!-- -11 -->
 	
 $mylist = preg_replace("/<h6>end-content-area<\/h6>/s", '
@@ -665,25 +672,7 @@ echo($mylist);
 	
 <!-- END footer -->	
 
-<script>
-// URL STRING TO SAVE AND SHOW CORRECT CONTENT
-//jQuery: get URL location.hash and use it to open the correct pills and accordion
-$(function(){
-	if (location.hash !== null && location.hash !== "") { //check for hash
-		location.reload();
-		var hash = location.hash; 
-		var myArray = hash.split("#"); //split hash into two parts & save in an array
-		var tabopen = myArray[1];  //first item of array - not including the first hash
-		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show correct pills tab
-		var accordionopen = myArray[2];  //second item of array
-		accordionopen && $('#' + accordionopen).collapse('show'); //show correct accordion-collapse
-     }
-	else {
-		$("#subtype-0").collapse("show"); // default show first accordion-collapse
-		$("#stn-0").tab("show"); // default show first pills
-	};
-});
-</script>
+
 <script type="application/javascript">
 // --------------------------
 // URL STRING IMPLEMENTATION
@@ -705,7 +694,7 @@ if (location.hash !== null && location.hash !== "") { //check for hash
 var globalpillshash = tabopen;
 	// create a global pills variable that will hold the value of the current pills 
 	// even when the accordion item is clicked.
-function myFunction(button, sethash){
+function globalHashFunction(button, sethash){
 	// then add the global pills variable to the accordion variable if selected 
 	// to enable saving the correct pills/accordion position in the URL string.
 	if (sethash.includes("stn")){
@@ -717,7 +706,7 @@ function myFunction(button, sethash){
 	if (sethash.includes("subtype")){
 		var accordionhash = sethash;
 	   	window.location.hash = globalpillshash + accordionhash;
-		//console.log(globalpillshash + accordionhash);
+		console.log(globalpillshash + accordionhash);
 	}
 	//keep page scrolled to the top - avoids the content jumping around when selecting vertical pills
 	//document.body.scrollTop = 0; // For Safari - not working
@@ -726,7 +715,7 @@ function myFunction(button, sethash){
 
 // this function takes the info from the tab button to output a query string 
 // that PHP can pick up to load the correct markdown file
-function myFunction2(button, thisquery){
+function outputQueryStringFunction(button, thisquery){
 	if (thisquery.includes("styleguide")){
 		const params = new URLSearchParams(location.search);
 		params.set('styleguide', thisquery);
@@ -743,12 +732,75 @@ function myFunction2(button, thisquery){
 }
 // END URL STRING IMPLEMENTATION
 // --------------------------
+// URL STRING TO SAVE AND SHOW CORRECT CONTENT
+document.addEventListener("DOMContentLoaded", function() {
+    function showTab(tabId) {
+        var tabElement = document.querySelector('[data-bs-target="#' + tabId + '"]');
+        if (tabElement) {
+            console.log('Tab element found:', tabElement);
+            try {
+                var tabInstance = new bootstrap.Tab(tabElement);
+                tabInstance.show(); // Show the correct tab
+            } catch (error) {
+                console.error('Error showing tab:', error);
+            }
+        } else {
+            console.error('Tab element not found:', tabId); // this line throwing errors
+        }
+    }
+
+    function showAccordion(accordionId) {
+        var accordionElement = document.getElementById(accordionId);
+        if (accordionElement) {
+            console.log('Accordion element found:', accordionElement);
+            try {
+                var collapseInstance = new bootstrap.Collapse(accordionElement, {
+                    toggle: true
+                });
+            } catch (error) {
+                console.error('Error showing accordion:', error);
+            }
+        } else {
+            console.error('Accordion element not found:', accordionId);
+        }
+    }
+
+    function parseHash() {
+        var hash = location.hash;
+        if (hash) {
+            var myArray = hash.split("#"); // Split the hash into parts
+            var tabopen = myArray[1]; // First part of the array
+            var accordionopen = myArray[2]; // Second part of the array
+
+            console.log('Parsed hash:', { tabopen, accordionopen });
+
+            if (tabopen) {
+                console.log('Attempting to show tab:', tabopen);
+                showTab(tabopen);
+            }
+
+            if (accordionopen) {
+                console.log('Attempting to show accordion:', accordionopen);
+                showAccordion(accordionopen);
+            }
+        } else {
+            console.log('No hash found, showing default tab and accordion');
+            showAccordion("subtype-0"); // Default show first accordion
+            showTab("sgt-0"); // Default show first tab
+        }
+    }
+
+    // Run the parseHash function after the DOM is fully loaded
+    parseHash();
+});
+// END URL STRING TO SAVE AND SHOW CORRECT CONTENT
+// --------------------------	
 // ACCORDION FAMILIES
 // this function dynamically allocates the parent accordion div of the accordion-item 
 // to the children's (accordion-collapse) data-bs-parent value 
 // so that selecting one accordion will close the others in the group.
 // find all the accordion-item divs
-/*const mylist = document.getElementsByClassName("accordion-item"); 
+const mylist = document.getElementsByClassName("accordion-item"); 
 	// loop through all the accordion-item divs
 	for (let p = 0; p < mylist.length; p++){
 		// console.log(mylist[p].id);
@@ -777,12 +829,12 @@ var thisstatus = '<?= $showInfobox?>';
 if (thisstatus == "none"){
 	const acbuttons = document.getElementsByClassName("accordion-button");
 	acbuttons[0].classList.remove("collapsed");
-}*/
+}
 // END ACCORDION FAMILIES
 // -----------------------------
 // PRINT SCRIPT
 // this script controls the method for printing a section, part or whole guide depending on the button selected
-/*function printThisGuide(elem) {
+function printThisGuide(elem) {
 	// get the button class name attribute
 	var thisbutton = elem.className;
 	// create variable to hold the correct style guide title
@@ -827,12 +879,12 @@ if (thisstatus == "none"){
 	}, 500); 
 	a.document.close();
    a.focus();
-}*/
+}
 // END PRINT SCRIPT
 // -----------------------------
 // INSTRUCTIONS TOGGLE
 // toggle the instructions box text - open/close
-function textToggle(elem){
+/*function textToggle(elem){
 	var thiscol = document.getElementById('collapseExample');
 	var colstatus = thiscol.getAttribute('aria-expanded');
 	if (colstatus == 'false'){
@@ -844,7 +896,7 @@ function textToggle(elem){
 		thiscol.setAttribute("aria-expanded", "false");
 		console.log("close");
 	}
-}
+}*/
 // END INSTRUCTIONS TOGGLE
 // -----------------------------
 // START HAMBURGER MENU 
