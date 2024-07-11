@@ -238,9 +238,9 @@ $mylist = preg_replace("/<h6>end-type-title<\/h6>/", '
 
 	
 // ACCORDION ITEMS
-$mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '
-<div class="accordion" id="accordionExample-zz"><!-- 13 -->', $mylist);
+$mylist = preg_replace("/<h6>start-subtype<\/h6>/s", '', $mylist);
 $mylist = preg_replace("/<h6>start-subtype-item<\/h6>/s", '
+<div class="accordion" id="accordionExample-zz"><!-- 13 -->
 <div class="accordion-item" id="accordion-item-zz"><!-- 14 -->', $mylist);
 $mylist = preg_replace("/<h3>/s", '
 <h3 class="accordion-header mt-1" id="heading-zz">
@@ -254,10 +254,12 @@ $mylist = preg_replace("/<h6>end-subtype-content<\/h6>/s", '
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
 </div><!-- -16 -->
 </div><!-- -15 -->
-</div><!-- -14 -->', $mylist);
+', $mylist);
 $mylist = preg_replace("/<h6>end-subtype-item<\/h6>/s", '
+</div><!-- -14 -->
 </div><!-- -13 -->', $mylist);
-$mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '', $mylist);
+$mylist = preg_replace("/<h6>end-subtype<\/h6>/s", '
+', $mylist);
 // END ACCORDION ITEMS
 	
 $mylist = preg_replace("/<h6>end-type-content<\/h6>/s", '', $mylist);
@@ -721,7 +723,7 @@ function outputQueryStringFunction(button, thisquery){
 		params.set('styleguide', thisquery);
 		params.toString(); // => styleguide=styleguide-3;
 		console.log(params.toString());
-		window.history.pushState({}, '', `${location.pathname}?${params.toString()}#stn-0`);
+		window.history.pushState({}, '', `${location.pathname}?${params.toString()}#stn-0#subtype-0`);
 	}
 	// refresh the page...
 	location.reload();
