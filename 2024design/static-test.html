@@ -31,8 +31,11 @@
 	
     <!-- Core theme CSS, JS & JQUERY (includes Bootstrap)-->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+	
 	<link href="css/main-new.css" rel="stylesheet">
-	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	
+	<!-- removing jquery as it's throwing up errors, but jQuery functions don't work - rewrite? -->
+	<!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
 	
 </head>
 <body>
@@ -46,7 +49,7 @@
 				<!-- START left hand column -->
 				<div class="col-auto left-nav">
 					<div class="rmit-logo"><span class="visually-hidden">RMIT University logo</span></div>
-					<a href="#" id="nav-link-0" tabindex="0" data-bs-target="#nav-0" aria-controls="nav-0" onclick="myFunction2(this, 'styleguide-0')" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
+					<a href="#" id="nav-link-0" tabindex="0" data-bs-target="#nav-0" aria-controls="nav-0" onclick="outputQueryStringFunction(this, 'styleguide-0')" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
 				</div>
 				<!-- END left hand column -->
 				<!-- START right hand column -->
@@ -77,13 +80,13 @@
 		<div class="container nav-container">
             <nav aria-label="Main Menu">
                 <ul class="link-list-white">
-                    <li><a id="nav-linkh-2" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-2" aria-controls="nav-2" onclick="myFunction2(this, 'styleguide-2')">AGLC4</a></li>
-                    <li><a id="nav-linkh-3" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-3" aria-controls="nav-3" onclick="myFunction2(this, 'styleguide-3')">APA 7th edition</a></li>
-                    <li><a id="nav-linkh-4" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-4" aria-controls="nav-4" onclick="myFunction2(this, 'styleguide-4')">Chicago A</a></li>
-                    <li><a id="nav-linkh-5" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-5" aria-controls="nav-5" onclick="myFunction2(this, 'styleguide-5')">Chicago B</a></li>
-                    <li><a id="nav-linkh-6" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-6" aria-controls="nav-6" onclick="myFunction2(this, 'styleguide-6')">IEEE</a></li>
-                    <li><a id="nav-linkh-1" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-1" aria-controls="nav-1" onclick="myFunction2(this, 'styleguide-1')">RMIT Harvard</a></li>
-                    <li><a id="nav-linkh-7" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-7" aria-controls="nav-7" onclick="myFunction2(this, 'styleguide-7')">Vancouver</a></li>
+                    <li><a id="nav-linkh-2" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-2" aria-controls="nav-2" onclick="outputQueryStringFunction(this, 'styleguide-2')">AGLC4</a></li>
+                    <li><a id="nav-linkh-3" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-3" aria-controls="nav-3" onclick="outputQueryStringFunction(this, 'styleguide-3')">APA 7th edition</a></li>
+                    <li><a id="nav-linkh-4" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-4" aria-controls="nav-4" onclick="outputQueryStringFunction(this, 'styleguide-4')">Chicago A</a></li>
+                    <li><a id="nav-linkh-5" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-5" aria-controls="nav-5" onclick="outputQueryStringFunction(this, 'styleguide-5')">Chicago B</a></li>
+                    <li><a id="nav-linkh-6" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-6" aria-controls="nav-6" onclick="outputQueryStringFunction(this, 'styleguide-6')">IEEE</a></li>
+                    <li><a id="nav-linkh-1" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-1" aria-controls="nav-1" onclick="outputQueryStringFunction(this, 'styleguide-1')">RMIT Harvard</a></li>
+                    <li><a id="nav-linkh-7" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-7" aria-controls="nav-7" onclick="outputQueryStringFunction(this, 'styleguide-7')">Vancouver</a></li>
                 </ul>
             </nav>
             <ul class="additional-links">
@@ -104,13 +107,13 @@
 		<div class="container">
 			<nav aria-label="Main Menu">
 				<ul class="nav" id="nav-tab">
-					<li><a id="nav-link-2" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-2" role="tab" aria-controls="nav-2" onclick="myFunction2(this, 'styleguide-2')">AGLC4</a></li>
-					<li><a id="nav-link-3" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-3" role="tab" aria-controls="nav-3" onclick="myFunction2(this, 'styleguide-3')">APA 7th edition</a></li>
-					<li><a id="nav-link-4" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-4" role="tab" aria-controls="nav-4" onclick="myFunction2(this, 'styleguide-4')">Chicago A</a></li>
-					<li><a id="nav-link-5" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-5" role="tab" aria-controls="nav-5" onclick="myFunction2(this, 'styleguide-5')">Chicago B</a></li>
-					<li><a id="nav-link-6" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-6" role="tab" aria-controls="nav-6" onclick="myFunction2(this, 'styleguide-6')">IEEE</a></li>
-					<li><a id="nav-link-1" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-1" role="tab" aria-controls="nav-1" onclick="myFunction2(this, 'styleguide-1')">RMIT Harvard</a></li>
-                    <li><a id="nav-link-7" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-7" role="tab" aria-controls="nav-7" onclick="myFunction2(this, 'styleguide-7')">Vancouver</a></li>
+					<li><a id="nav-link-2" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-2" role="tab" aria-controls="nav-2" onclick="outputQueryStringFunction(this, 'styleguide-2')">AGLC4</a></li>
+					<li><a id="nav-link-3" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-3" role="tab" aria-controls="nav-3" onclick="outputQueryStringFunction(this, 'styleguide-3')">APA 7th edition</a></li>
+					<li><a id="nav-link-4" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-4" role="tab" aria-controls="nav-4" onclick="outputQueryStringFunction(this, 'styleguide-4')">Chicago A</a></li>
+					<li><a id="nav-link-5" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-5" role="tab" aria-controls="nav-5" onclick="outputQueryStringFunction(this, 'styleguide-5')">Chicago B</a></li>
+					<li><a id="nav-link-6" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-6" role="tab" aria-controls="nav-6" onclick="outputQueryStringFunction(this, 'styleguide-6')">IEEE</a></li>
+					<li><a id="nav-link-1" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-1" role="tab" aria-controls="nav-1" onclick="outputQueryStringFunction(this, 'styleguide-1')">RMIT Harvard</a></li>
+                    <li><a id="nav-link-7" class="nav-link" href="#" tabindex="0" data-bs-target="#nav-7" role="tab" aria-controls="nav-7" onclick="outputQueryStringFunction(this, 'styleguide-7')">Vancouver</a></li>
 				</ul>
 			</nav>
 		</div>		
@@ -119,11 +122,10 @@
 </header>
 <!-- END top nav -->
 	
-<!-- Page content--> 
-		
+<!-- Page content--> 		
 <!-- style guides content--> 	
-<div class="container p-1">
-	<!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
+<div class="container p-1"> <!-- 1 -->
+<!-- padding for content https://getbootstrap.com/docs/5.1/utilities/spacing/-->
 <!-- AGLC4 Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
@@ -131,15 +133,14 @@
 <!-- unless you need to add or delete sections as required for type and subtype content -->
 <!-- -->
 
-
-<div id="page-content">
+<div id="page-content"><!-- 2 -->
 <main class="container main-content">
-<div id="nav-tabContent-0">
-<div id="nav-0" aria-labelledby="nav-0-tab">
-<div class="row ">
-<!-- START right nav -->
+<div id="nav-tabContent-0"><!-- 3 -->
+<div class="tab-pane fade show active" id="nav-0" role="tabpanel" aria-labelledby="nav-0-tab"><!-- 4 -->
+<div class="row "><!-- 5 -->
 
-<div class="col-xl-4 order-last">
+<!-- START right nav -->
+<div class="col-xl-4 order-last" id="pills-tab" role="tablist"><!-- 6 -->
 <nav class="right-nav-simple" aria-label="Section Menu">
 <!-- start the desktop style guide title -->
 <!-- the title headings must use heading 1 (#) -->
@@ -153,77 +154,81 @@
 
 <!-- START sidebar nav -->
 
-<button class="nav-link" id="stn-0" data-bs-toggle="pill" data-bs-target="#sgt-0" type="button" role="tab" tabindex="0" aria-controls="sgt-0" aria-selected="true" onclick="myFunction(this, '#stn-0')">Using AGLC4
+<button class="nav-link" id="stn-0" data-bs-toggle="pill" data-bs-target="#sgt-0" type="button" role="tab" tabindex="0" aria-controls="sgt-0" aria-selected="true" onclick="globalHashFunction(this, '#stn-0')">Using AGLC4
 </button>
 
-<button class="nav-link" id="stn-1" data-bs-toggle="pill" data-bs-target="#sgt-1" type="button" role="tab" tabindex="0" aria-controls="sgt-1" aria-selected="false" onclick="myFunction(this, '#stn-1')">Case law
+<button class="nav-link" id="stn-1" data-bs-toggle="pill" data-bs-target="#sgt-1" type="button" role="tab" tabindex="0" aria-controls="sgt-1" aria-selected="false" onclick="globalHashFunction(this, '#stn-1')">Case law
 </button>
 
-<button class="nav-link" id="stn-2" data-bs-toggle="pill" data-bs-target="#sgt-2" type="button" role="tab" tabindex="0" aria-controls="sgt-2" aria-selected="false" onclick="myFunction(this, '#stn-2')">Legislation
+<button class="nav-link" id="stn-2" data-bs-toggle="pill" data-bs-target="#sgt-2" type="button" role="tab" tabindex="0" aria-controls="sgt-2" aria-selected="false" onclick="globalHashFunction(this, '#stn-2')">Legislation
 </button>
 
-<button class="nav-link" id="stn-3" data-bs-toggle="pill" data-bs-target="#sgt-3" type="button" role="tab" tabindex="0" aria-controls="sgt-3" aria-selected="false" onclick="myFunction(this, '#stn-3')">Books and e-books
+<button class="nav-link" id="stn-3" data-bs-toggle="pill" data-bs-target="#sgt-3" type="button" role="tab" tabindex="0" aria-controls="sgt-3" aria-selected="false" onclick="globalHashFunction(this, '#stn-3')">Books and e-books
 </button>
 
-<button class="nav-link" id="stn-4" data-bs-toggle="pill" data-bs-target="#sgt-4" type="button" role="tab" tabindex="0" aria-controls="sgt-4" aria-selected="false" onclick="myFunction(this, '#stn-4')">Articles
+<button class="nav-link" id="stn-4" data-bs-toggle="pill" data-bs-target="#sgt-4" type="button" role="tab" tabindex="0" aria-controls="sgt-4" aria-selected="false" onclick="globalHashFunction(this, '#stn-4')">Articles
 </button>
 
-<button class="nav-link" id="stn-5" data-bs-toggle="pill" data-bs-target="#sgt-5" type="button" role="tab" tabindex="0" aria-controls="sgt-5" aria-selected="false" onclick="myFunction(this, '#stn-5')">Online sources
+<button class="nav-link" id="stn-5" data-bs-toggle="pill" data-bs-target="#sgt-5" type="button" role="tab" tabindex="0" aria-controls="sgt-5" aria-selected="false" onclick="globalHashFunction(this, '#stn-5')">Online sources
 </button>
 
-<button class="nav-link" id="stn-6" data-bs-toggle="pill" data-bs-target="#sgt-6" type="button" role="tab" tabindex="0" aria-controls="sgt-6" aria-selected="false" onclick="myFunction(this, '#stn-6')">Audio visual material
+<button class="nav-link" id="stn-6" data-bs-toggle="pill" data-bs-target="#sgt-6" type="button" role="tab" tabindex="0" aria-controls="sgt-6" aria-selected="false" onclick="globalHashFunction(this, '#stn-6')">Audio visual material
 </button>
 
-<button class="nav-link" id="stn-7" data-bs-toggle="pill" data-bs-target="#sgt-7" type="button" role="tab" tabindex="0" aria-controls="sgt-7" aria-selected="false" onclick="myFunction(this, '#stn-7')">Other sources
+<button class="nav-link" id="stn-7" data-bs-toggle="pill" data-bs-target="#sgt-7" type="button" role="tab" tabindex="0" aria-controls="sgt-7" aria-selected="false" onclick="globalHashFunction(this, '#stn-7')">Other sources
 </button>
 
-<button class="nav-link" id="stn-8" data-bs-toggle="pill" data-bs-target="#sgt-8" type="button" role="tab" tabindex="0" aria-controls="sgt-8" aria-selected="false" onclick="myFunction(this, '#stn-8')">AI-generated content
+<button class="nav-link" id="stn-8" data-bs-toggle="pill" data-bs-target="#sgt-8" type="button" role="tab" tabindex="0" aria-controls="sgt-8" aria-selected="false" onclick="globalHashFunction(this, '#stn-8')">AI-generated content
 </button>
 
 </nav>
-</div>
+</div><!-- -6 -->
+<!-- END right nav -->
 <!-- -->
 <!-- start the mobile style guide title (only visible in mobile view) -->
 <!-- the title headings must use heading 1 (#) -->
 
 <!-- START content columns -->
-<div class="col-xl-8 order-first">				
-<!-- START printable guide div -->
-<div id="printable-guide">
+<div class="col-xl-8 order-first"><!-- 7 -->				
 <!-- START tab-content stnContent-0 -->
-<div class="tab-content" id="stnContent-0">
+<div class="tab-pane fade show active" id="sgt-0" role="tabpanel" aria-labelledby="stn-0"><!-- 8 -->
+<div class="tab-content" id="stnContent-0"><!-- 9 -->
 <h1 class="mobile-title">AGLC4 </h1>
-<!-- -->
+<!-- end mobile title -->
 <!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
-<!-- start content area -->
-<div>
 
+<!-- START printable guide div -->
+<div id="printable-guide"><!-- 10 -->
+
+<!-- start type content -->
 <!-- -->
 <!-- Using AGLC4 - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
 <!-- -->
 
-<div class="page-title">
+<div class="page-title"><!-- 12 -->
 <h2 class="h1">Using AGLC4 </h2>
-<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>
+
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->
 <!-- -->
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 
-<div class="accordion" id="accordionExample-0">
+<div class="accordion" id="accordionExample-0"><!-- 13 -->
 <!-- start SUB_TYPE-ITEM - accordion item -->
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 
-<div class="accordion-item" id="accordion-item-0">
+<div class="accordion-item" id="accordion-item-0"><!-- 14 -->
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-0">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-0" aria-expanded="true" aria-controls="collapse-0" onclick="myFunction(this, '#subtype-0')">Introduction to AGLC4</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-0" aria-expanded="true" aria-controls="collapse-0" onclick="globalHashFunction(this, '#subtype-0')">Introduction to AGLC4
+</button></h3>
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 
-<div class="accordion-collapse collapse" id="subtype-0" aria-labelledby="heading-0" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-0" aria-labelledby="heading-0" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <p><strong>Important: This is a guide only</strong>. To avoid losing marks:</p>
 <ul>
 <li>
@@ -238,18 +243,20 @@
 </ul>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-1">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-1"><!-- 14 -->
 
 <h3 class="accordion-header mt-1" id="heading-1">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-1" aria-expanded="false" aria-controls="collapse-1" onclick="myFunction(this, '#subtype-1')">General principles</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-1" aria-expanded="false" aria-controls="collapse-1" onclick="globalHashFunction(this, '#subtype-1')">General principles
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-1" aria-labelledby="heading-1" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-1" aria-labelledby="heading-1" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <p>The AGLC4 style consists of:</p>
 <ul>
 <li>
@@ -326,18 +333,20 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-2">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-2"><!-- 14 -->
 
 <h3 class="accordion-header mt-1" id="heading-2">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-2" aria-expanded="false" aria-controls="collapse-2" onclick="myFunction(this, '#subtype-2')">General rules for the bibliography</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-2" aria-expanded="false" aria-controls="collapse-2" onclick="globalHashFunction(this, '#subtype-2')">General rules for the bibliography
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-2" aria-labelledby="heading-2" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-2" aria-labelledby="heading-2" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <p>If a bibliography is required list all works referred to both in footnotes and in the body of your assignment, as well as all works consulted in writing your assignment.</p>
 <p>The bibliography is divided into sections as outlined in AGLC 1.13:</p>
 <p>A. <em>Articles/Books/Reports</em></p>
@@ -360,19 +369,21 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </ul>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-3">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-3"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-3">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-3" aria-expanded="false" aria-controls="collapse-3" onclick="myFunction(this, '#subtype-3')">Example of a bibliography</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-3" aria-expanded="false" aria-controls="collapse-3" onclick="globalHashFunction(this, '#subtype-3')">Example of a bibliography
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-3" aria-labelledby="heading-3" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-3" aria-labelledby="heading-3" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <p><p class="centre-align">BIBLIOGRAPHY</p></p>
 <p><p class="centre-align"> A <em>Articles/Books</em> </p></p>
 <p>Bodkin, Colin, <em>Patent Law in Australia</em> (Thomson Reuters, 2<sup>nd</sup> ed, 2014)</p>
@@ -388,33 +399,36 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 <p>Board of Examiners, <em>Admission Requirements</em> (18 February 2010) Council of Legal Information &lt;http<nolink>://www.lawadmissions.vic.gov.au></p>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
+</div><!-- -13 -->
+
+
+
+<!-- start type content -->
 <!-- Case law - links to the second type menu item -->
 
-<div class="page-title">
+<div class="page-title"><!-- 12 -->
 <h2 class="h1">Case law </h2>
-<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>
+
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->
 <!-- -->
 
-<div class="accordion" id="accordionExample-1">
+<div class="accordion" id="accordionExample-1"><!-- 13 -->
 <!-- -->
 
-<div class="accordion-item" id="accordion-item-4">
+<div class="accordion-item" id="accordion-item-4"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-4">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-4" aria-expanded="false" aria-controls="collapse-4" onclick="myFunction(this, '#subtype-4')">Case law - reported decision</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-4" aria-expanded="false" aria-controls="collapse-4" onclick="globalHashFunction(this, '#subtype-4')">Case law - reported decision
+</button></h3>
 <!-- first accordion item -->
 
-<div class="accordion-collapse collapse" id="subtype-4" aria-labelledby="heading-4" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-4" aria-labelledby="heading-4" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <table>
 <thead>
 <tr>
@@ -542,18 +556,20 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 <p>Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/" target="_blank">Cardiff University database</a> (opens in a new tab).</p>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-5">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-5"><!-- 14 -->
 
 <h3 class="accordion-header mt-1" id="heading-5">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-5" aria-expanded="false" aria-controls="collapse-5" onclick="myFunction(this, '#subtype-5')">Case law - unreported decision</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-5" aria-expanded="false" aria-controls="collapse-5" onclick="globalHashFunction(this, '#subtype-5')">Case law - unreported decision
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-5" aria-labelledby="heading-5" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-5" aria-labelledby="heading-5" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <table>
 <thead>
 <tr>
@@ -678,33 +694,36 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 <p>Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/" target="_blank">Cardiff University database</a> (opens in a new tab).</p>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
+</div><!-- -13 -->
+
+
+
+<!-- start type content -->
 <!-- Legislation - links to the third type menu item -->
 
-<div class="page-title">
+<div class="page-title"><!-- 12 -->
 <h2 class="h1">Legislation </h2>
-<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>
+
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->
 <!-- -->
 
-<div class="accordion" id="accordionExample-2">
+<div class="accordion" id="accordionExample-2"><!-- 13 -->
 <!-- -->
 
-<div class="accordion-item" id="accordion-item-6">
+<div class="accordion-item" id="accordion-item-6"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-6">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-6" aria-expanded="false" aria-controls="collapse-6" onclick="myFunction(this, '#subtype-6')">Legislation - statute or regulation (Act of Parliament)</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-6" aria-expanded="false" aria-controls="collapse-6" onclick="globalHashFunction(this, '#subtype-6')">Legislation - statute or regulation (Act of Parliament)
+</button></h3>
 <!-- first accordion item -->
 
-<div class="accordion-collapse collapse" id="subtype-6" aria-labelledby="heading-6" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-6" aria-labelledby="heading-6" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <table>
 <thead>
 <tr>
@@ -785,33 +804,36 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </ul>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
+</div><!-- -13 -->
+
+
+
+<!-- start type content -->
 <!-- Books and e-books - links to the fourth type menu item -->
 
-<div class="page-title">
+<div class="page-title"><!-- 12 -->
 <h2 class="h1">Books and e-books </h2>
-<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>
+
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->
 <!-- -->
 
-<div class="accordion" id="accordionExample-3">
+<div class="accordion" id="accordionExample-3"><!-- 13 -->
 <!-- -->
 
-<div class="accordion-item" id="accordion-item-7">
+<div class="accordion-item" id="accordion-item-7"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-7">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-7" aria-expanded="false" aria-controls="collapse-7" onclick="myFunction(this, '#subtype-7')">Books and e-books: single author</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-7" aria-expanded="false" aria-controls="collapse-7" onclick="globalHashFunction(this, '#subtype-7')">Books and e-books: single author
+</button></h3>
 <!-- first accordion item -->
 
-<div class="accordion-collapse collapse" id="subtype-7" aria-labelledby="heading-7" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-7" aria-labelledby="heading-7" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <p>These rules apply when referencing both printed books and e-books.</p>
 <table>
 <thead>
@@ -873,19 +895,21 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-8">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-8"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-8">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-8" aria-expanded="false" aria-controls="collapse-8" onclick="myFunction(this, '#subtype-8')">Books and e-books: multiple authors or edited work</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-8" aria-expanded="false" aria-controls="collapse-8" onclick="globalHashFunction(this, '#subtype-8')">Books and e-books: multiple authors or edited work
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-8" aria-labelledby="heading-8" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-8" aria-labelledby="heading-8" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <p>These rules apply when referencing both printed books and e-books.</p>
 <table>
 <thead>
@@ -936,19 +960,21 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-9">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-9"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-9">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-9" aria-expanded="false" aria-controls="collapse-9" onclick="myFunction(this, '#subtype-9')">Chapter in an edited book</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-9" aria-expanded="false" aria-controls="collapse-9" onclick="globalHashFunction(this, '#subtype-9')">Chapter in an edited book
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-9" aria-labelledby="heading-9" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-9" aria-labelledby="heading-9" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <p>These rules apply when referencing both printed books and e-books.</p>
 <table>
 <thead>
@@ -987,19 +1013,21 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-10">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-10"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-10">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-10" aria-expanded="false" aria-controls="collapse-10" onclick="myFunction(this, '#subtype-10')">Encyclopaedia</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-10" aria-expanded="false" aria-controls="collapse-10" onclick="globalHashFunction(this, '#subtype-10')">Encyclopaedia
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-10" aria-labelledby="heading-10" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-10" aria-labelledby="heading-10" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <table>
 <thead>
 <tr>
@@ -1032,34 +1060,37 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!-- -->
-<div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
+</div><!-- -13 -->
+
+
+<!-- -->
+
+<!-- start type content -->
 <!-- Articles - links to the fifth type menu item -->
 
-<div class="page-title">
+<div class="page-title"><!-- 12 -->
 <h2 class="h1">Articles </h2>
-<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>
+
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->
 <!-- -->
 
-<div class="accordion" id="accordionExample-4">
+<div class="accordion" id="accordionExample-4"><!-- 13 -->
 <!-- -->
 
-<div class="accordion-item" id="accordion-item-11">
+<div class="accordion-item" id="accordion-item-11"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-11">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-11" aria-expanded="false" aria-controls="collapse-11" onclick="myFunction(this, '#subtype-11')">Journal article with single author</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-11" aria-expanded="false" aria-controls="collapse-11" onclick="globalHashFunction(this, '#subtype-11')">Journal article with single author
+</button></h3>
 <!-- first accordion item -->
 
-<div class="accordion-collapse collapse" id="subtype-11" aria-labelledby="heading-11" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-11" aria-labelledby="heading-11" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <table>
 <thead>
 <tr>
@@ -1123,19 +1154,21 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-12">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-12"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-12">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-12" aria-expanded="false" aria-controls="collapse-12" onclick="myFunction(this, '#subtype-12')">Journal article with multiple authors</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-12" aria-expanded="false" aria-controls="collapse-12" onclick="globalHashFunction(this, '#subtype-12')">Journal article with multiple authors
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-12" aria-labelledby="heading-12" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-12" aria-labelledby="heading-12" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <table>
 <thead>
 <tr>
@@ -1203,19 +1236,21 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-13">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-13"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-13">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-13" aria-expanded="false" aria-controls="collapse-13" onclick="myFunction(this, '#subtype-13')">Newspaper article</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-13" aria-expanded="false" aria-controls="collapse-13" onclick="globalHashFunction(this, '#subtype-13')">Newspaper article
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-13" aria-labelledby="heading-13" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-13" aria-labelledby="heading-13" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <table>
 <thead>
 <tr>
@@ -1265,34 +1300,37 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!-- -->
-<div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
+</div><!-- -13 -->
+
+
+<!-- -->
+
+<!-- start type content -->
 <!-- Online sources - links to the sixth type menu item -->
 
-<div class="page-title">
+<div class="page-title"><!-- 12 -->
 <h2 class="h1">Online sources </h2>
-<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>
+
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->
 <!-- -->
 
-<div class="accordion" id="accordionExample-5">
+<div class="accordion" id="accordionExample-5"><!-- 13 -->
 <!-- -->
 
-<div class="accordion-item" id="accordion-item-14">
+<div class="accordion-item" id="accordion-item-14"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-14">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-14" aria-expanded="false" aria-controls="collapse-14" onclick="myFunction(this, '#subtype-14')">Internet source</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-14" aria-expanded="false" aria-controls="collapse-14" onclick="globalHashFunction(this, '#subtype-14')">Internet source
+</button></h3>
 <!-- first accordion item -->
 
-<div class="accordion-collapse collapse" id="subtype-14" aria-labelledby="heading-14" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-14" aria-labelledby="heading-14" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <table>
 <thead>
 <tr>
@@ -1346,34 +1384,37 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!-- -->
-<div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
+</div><!-- -13 -->
+
+
+<!-- -->
+
+<!-- start type content -->
 <!-- Audiovisual material - links to the seventh type menu item -->
 <!-- -->
 
-<div class="page-title">
+<div class="page-title"><!-- 12 -->
 <h2 class="h1"> Audiovisual material </h2>
-<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>
+
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->
 <!-- -->
 
-<div class="accordion" id="accordionExample-6">
+<div class="accordion" id="accordionExample-6"><!-- 13 -->
 
-<div class="accordion-item" id="accordion-item-15">
+<div class="accordion-item" id="accordion-item-15"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-15">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-15" aria-expanded="false" aria-controls="collapse-15" onclick="myFunction(this, '#subtype-15')">Film and audiovisual material</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-15" aria-expanded="false" aria-controls="collapse-15" onclick="globalHashFunction(this, '#subtype-15')">Film and audiovisual material
+</button></h3>
 <!-- first accordion item -->
 
-<div class="accordion-collapse collapse" id="subtype-15" aria-labelledby="heading-15" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-15" aria-labelledby="heading-15" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <table>
 <thead>
 <tr>
@@ -1419,19 +1460,21 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-16">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-16"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-16">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-16" aria-expanded="false" aria-controls="collapse-16" onclick="myFunction(this, '#subtype-16')">Television or radio script</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-16" aria-expanded="false" aria-controls="collapse-16" onclick="globalHashFunction(this, '#subtype-16')">Television or radio script
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-16" aria-labelledby="heading-16" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-16" aria-labelledby="heading-16" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <table>
 <thead>
 <tr>
@@ -1485,34 +1528,37 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!-- -->
-<div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
+</div><!-- -13 -->
+
+
+<!-- -->
+
+<!-- start type content -->
 <!-- Other sources - links to the eighth type menu item -->
 
-<div class="page-title">
+<div class="page-title"><!-- 12 -->
 <h2 class="h1">Other sources </h2>
-<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>
+
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->
 <!-- -->
 
-<div class="accordion" id="accordionExample-7">
+<div class="accordion" id="accordionExample-7"><!-- 13 -->
 <!-- -->
 
-<div class="accordion-item" id="accordion-item-17">
+<div class="accordion-item" id="accordion-item-17"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-17">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-17" aria-expanded="false" aria-controls="collapse-17" onclick="myFunction(this, '#subtype-17')">Student's own work</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-17" aria-expanded="false" aria-controls="collapse-17" onclick="globalHashFunction(this, '#subtype-17')">Student's own work
+</button></h3>
 <!-- first accordion item -->
 
-<div class="accordion-collapse collapse" id="subtype-17" aria-labelledby="heading-17" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-17" aria-labelledby="heading-17" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <p>You should include the use of scholarly sources in your written assessments to adhere to best academic integrity practice. Citing yourself as an authority on your own opinion should be avoided.</p>
 <p>Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.</p>
 <p>Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).</p>
@@ -1552,34 +1598,37 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 </blockquote>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!-- -->
-<div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
+</div><!-- -13 -->
+
+
+<!-- -->
+
+<!-- start type content -->
 <!-- AI-generated content - links to the ninth type menu item -->
 
-<div class="page-title">
+<div class="page-title"><!-- 12 -->
 <h2 class="h1">AI-generated content </h2>
-<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div>
+
+<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0" onclick="printThisGuide(this);">Print<span class="visually-hidden"> this part of the style guide (opens new window)</span></button></div><!-- -12 -->
 <!-- -->
 
-<div class="accordion" id="accordionExample-8">
+<div class="accordion" id="accordionExample-8"><!-- 13 -->
 <!-- -->
 
-<div class="accordion-item" id="accordion-item-18">
+<div class="accordion-item" id="accordion-item-18"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-18">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-18" aria-expanded="false" aria-controls="collapse-18" onclick="myFunction(this, '#subtype-18')">Using AI-generated content</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-18" aria-expanded="false" aria-controls="collapse-18" onclick="globalHashFunction(this, '#subtype-18')">Using AI-generated content
+</button></h3>
 <!-- first accordion item -->
 
-<div class="accordion-collapse collapse" id="subtype-18" aria-labelledby="heading-18" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-18" aria-labelledby="heading-18" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <h4>AI-generated text</h4>
 <h5>Using generative artificial intelligence (AI) in learning and research, including assessment tasks</h5>
 <p>The educators within your courses can tell you if you are able to use artificial intelligence (AI) tools in your assessment tasks, including how you can use the tools and what tools you can use. If you use any AI tools, you must appropriately acknowledge and reference the use of these tools and their outputs. Failure to reference the use of these tools can result in academic misconduct. </p>
@@ -1620,19 +1669,21 @@ If a footnote refers to the same work but to a different pinpoint reference, use
 <p><strong>Please note</strong> that our recommendations for how to reference AI-generated content may change in the future as referencing style manuals are updated.</p>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
 
-<div class="accordion-item" id="accordion-item-19">
+</div><!-- -13 -->
+
+<div class="accordion-item" id="accordion-item-19"><!-- 14 -->
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
 <h3 class="accordion-header mt-1" id="heading-19">
-<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-19" aria-expanded="false" aria-controls="collapse-19" onclick="myFunction(this, '#subtype-19')">Referencing guidelines for AI-generated content</button></h3>
+<button class="accordion-button easyaccbutton collapsed" type="button" tabindex="0" data-bs-toggle="collapse" data-bs-target="#subtype-19" aria-expanded="false" aria-controls="collapse-19" onclick="globalHashFunction(this, '#subtype-19')">Referencing guidelines for AI-generated content
+</button></h3>
 
-<div class="accordion-collapse collapse" id="subtype-19" aria-labelledby="heading-19" data-bs-parent="#accordionExample-0">
-<div class="accordion-body">
+<div class="accordion-collapse collapse" id="subtype-19" aria-labelledby="heading-19" data-bs-parent="#accordionExample-0"><!-- 15 -->
+<div class="accordion-body"><!-- 16 -->
 <h4>How to reference AI-generated text in AGLC4 - interim guidelines</h4>
 <p>The <a href="https://law.unimelb.edu.au/mulr/aglc/about">Australian Guide to Legal Citation 4th edition</a> does not currently contain any guidelines for referencing AI-generated content, and the style guide does not include guidelines for referencing software.</p>
 <p>Our interim advice is to reference AI-generated text as a written correspondence (section 7.12), as we believe this is the best match for the AGLC style.  As generative AI tools are not considered authors from a copyright perspective, we recommend using language such as 'response generated using [the creator's AI tool]', rather than using the name of the tool as the author. Please note these guidelines may be updated in the future if the AGLC style manual editors release formal advice.</p>
@@ -1659,24 +1710,33 @@ Figure 1. Image generated using Adobe Firefly from the prompt a law student at u
 <p>Example: 1. Kevin Roose, 'An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.' The New York Times (online, 2 September 2022) &lt; https<nolink>://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html &gt;.</p>
 
 <button class="btn btn-print sectionprint" type="button" tabindex="0" onclick="printThisGuide(this);">Print this section<span class="visually-hidden"> (opens new window)</span></button>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+</div><!-- -16 -->
+</div><!-- -15 -->
+</div><!-- -14 -->
+
+</div><!-- -13 -->
+
+
 <!-- you may add more type/sub-type sections here if needed -->
 
-</div></div></div>
+</div><!-- -10 -->
+</div><!-- -9 -->
+</div><!-- -8 -->
+</div><!-- -7 -->
+<!-- END content columns -->
 <!-- DO NOT ADD ANY CONTENT AFTER THIS POINT -->
 
-</div></div></div>
-<div id="print-title">
+</div><!-- -5 -->
+</div><!-- -4 -->
+</div><!-- -3 -->
+<div id="print-title"><!-- 17 -->
 <button class="btn btn-print guideprint" id="sgt-print-tab" type="button" tabindex="0" onclick="printThisGuide(this);">Print the entire style guide<span class="visually-hidden"> (opens new window)</span>
-</button></div>
-</main></div></div>
+</button>
+</div><!-- -17 -->
+</main>
+</div><!-- -2 -->
 
-	
+
 <!-- start info box-->
 <div id="ecinfopane" style="display: none">
 	<h3><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;How to use the Easy Cite referencing tool</h3>
@@ -1698,14 +1758,13 @@ Figure 1. Image generated using Adobe Firefly from the prompt a law student at u
     </div>
 </div>
 <!-- end info box-->	
-	
 <!-- end padding for content -->
 <!-- end page content-->
-</div>	<!-- end container p-1-->
-    <!-- START footer -->
-	
-	<!-- START ask the library -->
-	<div class="footer-container">
+</div><!-- -1 -->
+<!-- end container p-1-->
+<!-- START footer -->	
+<!-- START ask the library -->
+<div class="footer-container">
 		<div class="container">
 			<div class="row">
 				<div class="col">
@@ -1823,29 +1882,12 @@ Figure 1. Image generated using Adobe Firefly from the prompt a law student at u
 		<!-- END footer -->
 	</div>
 	
-	<!-- END footer -->	
+<!-- END footer -->	
 
-<script>
-// URL STRING TO SAVE AND SHOW CORRECT CONTENT
-//jQuery: get URL location.hash and use it to open the correct pills and accordion
-$(function(){
-	if (location.hash !== null && location.hash !== "") { //check for hash
-		location.reload();
-		var hash = location.hash; 
-		var myArray = hash.split("#"); //split hash into two parts & save in an array
-		var tabopen = myArray[1];  //first item of array - not including the first hash
-		tabopen && $('div.tab-pane #' + tabopen).tab('show'); //show correct pills tab
-		var accordionopen = myArray[2];  //second item of array
-		accordionopen && $('#' + accordionopen).collapse('show'); //show correct accordion-collapse
-     }
-	else {
-		$("#subtype-0").collapse("show"); // default show first accordion-collapse
-		$("#stn-0").tab("show"); // default show first pills
-	};
-});
-</script>
+
 <script type="application/javascript">
-// URL STRING TO SAVE AND SHOW CORRECT CONTENT
+// --------------------------
+// URL STRING IMPLEMENTATION
 // script to find the URL hash string and split it 
 // to identify which pill and which accordion item need to open
 var tabopen;
@@ -1864,7 +1906,7 @@ if (location.hash !== null && location.hash !== "") { //check for hash
 var globalpillshash = tabopen;
 	// create a global pills variable that will hold the value of the current pills 
 	// even when the accordion item is clicked.
-function myFunction(button, sethash){
+function globalHashFunction(button, sethash){
 	// then add the global pills variable to the accordion variable if selected 
 	// to enable saving the correct pills/accordion position in the URL string.
 	if (sethash.includes("stn")){
@@ -1876,7 +1918,7 @@ function myFunction(button, sethash){
 	if (sethash.includes("subtype")){
 		var accordionhash = sethash;
 	   	window.location.hash = globalpillshash + accordionhash;
-		//console.log(globalpillshash + accordionhash);
+		console.log(globalpillshash + accordionhash);
 	}
 	//keep page scrolled to the top - avoids the content jumping around when selecting vertical pills
 	//document.body.scrollTop = 0; // For Safari - not working
@@ -1885,7 +1927,7 @@ function myFunction(button, sethash){
 
 // this function takes the info from the tab button to output a query string 
 // that PHP can pick up to load the correct markdown file
-function myFunction2(button, thisquery){
+function outputQueryStringFunction(button, thisquery){
 	if (thisquery.includes("styleguide")){
 		const params = new URLSearchParams(location.search);
 		params.set('styleguide', thisquery);
@@ -1893,31 +1935,94 @@ function myFunction2(button, thisquery){
 		console.log(params.toString());
 		window.history.pushState({}, '', `${location.pathname}?${params.toString()}#stn-0`);
 	}
-	//refresh the page...
+	// refresh the page...
 	location.reload();
-	//	window.scroll(0,0); //need to scroll window to top of page but not working 	
+	// window.scroll(0,0); //need to scroll window to top of page but not working 	
 	document.getElementById("nav-tab").focus();
-	document.body.scrollTop = 0; // For Safari
-  	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+	// document.body.scrollTop = 0; // For Safari
+  	// document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
-
+// END URL STRING IMPLEMENTATION
 // --------------------------
+// URL STRING TO SAVE AND SHOW CORRECT CONTENT
+document.addEventListener("DOMContentLoaded", function() {
+    function showTab(tabId) {
+        var tabElement = document.querySelector('[data-bs-target="#' + tabId + '"]');
+        if (tabElement) {
+            console.log('Tab element found:', tabElement);
+            try {
+                var tabInstance = new bootstrap.Tab(tabElement);
+                tabInstance.show(); // Show the correct tab
+            } catch (error) {
+                console.error('Error showing tab:', error);
+            }
+        } else {
+            console.error('Tab element not found:', tabId); // this line throwing errors
+        }
+    }
+
+    function showAccordion(accordionId) {
+        var accordionElement = document.getElementById(accordionId);
+        if (accordionElement) {
+            console.log('Accordion element found:', accordionElement);
+            try {
+                var collapseInstance = new bootstrap.Collapse(accordionElement, {
+                    toggle: true
+                });
+            } catch (error) {
+                console.error('Error showing accordion:', error);
+            }
+        } else {
+            console.error('Accordion element not found:', accordionId);
+        }
+    }
+
+    function parseHash() {
+        var hash = location.hash;
+        if (hash) {
+            var myArray = hash.split("#"); // Split the hash into parts
+            var tabopen = myArray[1]; // First part of the array
+            var accordionopen = myArray[2]; // Second part of the array
+
+            console.log('Parsed hash:', { tabopen, accordionopen });
+
+            if (tabopen) {
+                console.log('Attempting to show tab:', tabopen);
+                showTab(tabopen);
+            }
+
+            if (accordionopen) {
+                console.log('Attempting to show accordion:', accordionopen);
+                showAccordion(accordionopen);
+            }
+        } else {
+            console.log('No hash found, showing default tab and accordion');
+            showAccordion("subtype-0"); // Default show first accordion
+            showTab("sgt-0"); // Default show first tab
+        }
+    }
+
+    // Run the parseHash function after the DOM is fully loaded
+    parseHash();
+});
+// END URL STRING TO SAVE AND SHOW CORRECT CONTENT
+// --------------------------	
 // ACCORDION FAMILIES
 // this function dynamically allocates the parent accordion div of the accordion-item 
 // to the children's (accordion-collapse) data-bs-parent value 
 // so that selecting one accordion will close the others in the group.
-//find all the accordion-item divs
+// find all the accordion-item divs
 const mylist = document.getElementsByClassName("accordion-item"); 
-	//loop through all the accordion-item divs
+	// loop through all the accordion-item divs
 	for (let p = 0; p < mylist.length; p++){
-		//console.log(mylist[p].id);
-		//find all the children with the class name accordion-collapse
+		// console.log(mylist[p].id);
+		// find all the children with the class name accordion-collapse
 		const nodes = mylist[p].getElementsByClassName("accordion-collapse");
-		//loop through the children
+		// loop through the children
 		for (let i = 0; i < nodes.length; i++) { 
-			//set the children's value for data-bs-parent to the "grandparent" div ID name
+			// set the children's value for data-bs-parent to the "grandparent" div ID name
 			nodes[i].setAttribute("data-bs-parent", "#" + mylist[p].parentElement.id); 
-			//console.log(nodes[i].getAttribute("data-bs-parent"));
+			// console.log(nodes[i].getAttribute("data-bs-parent"));
 		}
 	}
 // remove the "collapsed" class from the first accordion button in each accordion so it's in its "open" state
@@ -1926,18 +2031,18 @@ const acclist = document.getElementsByClassName("accordion");
 	for (let q = 0; q < acclist.length; q++){
 		const acbuttons = acclist[q].getElementsByClassName("accordion-button");
 		acbuttons[0].classList.remove("collapsed");
-		//console.log(acbuttons[0].className);
+		// console.log(acbuttons[0].className);
 	}
 
 // OR
 // Use this code to only open the first accordion subtype in a style guide
-//only run this code if there are accordions - i.e. not the "Using Easy Cite" tab.
+// only run this code if there are accordions - i.e. not the "Using Easy Cite" tab.
 var thisstatus = 'none';
 if (thisstatus == "none"){
 	const acbuttons = document.getElementsByClassName("accordion-button");
 	acbuttons[0].classList.remove("collapsed");
 }
-
+// END ACCORDION FAMILIES
 // -----------------------------
 // PRINT SCRIPT
 // this script controls the method for printing a section, part or whole guide depending on the button selected
@@ -1960,11 +2065,11 @@ function printThisGuide(elem) {
 		var thisdiv = document.getElementById("printable-guide").id;
 	}
 	console.log(thisdiv);
-	//put the print title into a new variable
+	// put the print title into a new variable
 	var printTitle = document.getElementById(thistitle).innerHTML;
-	//put the HTML contents of the div for printing into a new variable
+	// put the HTML contents of the div for printing into a new variable
     var divContents = document.getElementById(thisdiv).innerHTML;
-	//open a window, add contents
+	// open a window, add contents
     var a = window.open('', '', 'height=1200, width=800');
     a.document.write('<html><head>');
 	// link to the external stylesheet - change the stylesheet CSS file to change the appearance of the HTML
@@ -1987,10 +2092,11 @@ function printThisGuide(elem) {
 	a.document.close();
    a.focus();
 }
+// END PRINT SCRIPT
 // -----------------------------
 // INSTRUCTIONS TOGGLE
 // toggle the instructions box text - open/close
-function textToggle(elem){
+/*function textToggle(elem){
 	var thiscol = document.getElementById('collapseExample');
 	var colstatus = thiscol.getAttribute('aria-expanded');
 	if (colstatus == 'false'){
@@ -2002,25 +2108,25 @@ function textToggle(elem){
 		thiscol.setAttribute("aria-expanded", "false");
 		console.log("close");
 	}
-}
+}*/
+// END INSTRUCTIONS TOGGLE
 // -----------------------------
-//START HAMBURGER MENU 
-//If true, menu covers content
-//If false, menu pushes content down
+// START HAMBURGER MENU 
+// If true, menu covers content
+// If false, menu pushes content down
 var menuCover = true;   
-/* Grab both the menu button and the page content */
+// Grab both the menu button and the page content
 var menuButton = document.getElementById("menu-button");
 var pageContent = document.getElementById("page-content");
-/* Store content scroll position */
+// Store content scroll position
 var scrollPosition;
-/* Store display status of menu */
+// Store display status of menu
 var menuDisplay = false;
-/* Listen for click */
+// Listen for click */
 if(menuCover) menuButton.addEventListener("click", showHideMenu);
-/*
-If menu is hidden, bootstrap wll show it, hide page content.
-If it's displayed, bottstrap will hide it, show the content.
-*/
+// If menu is hidden, bootstrap wll show it, hide page content.
+// If it's displayed, bottstrap will hide it, show the content.
+
 function showHideMenu() {
     if(menuDisplay == false)
     {
@@ -2033,7 +2139,7 @@ function showHideMenu() {
         menuDisplay = false;
         pageContent.style.display = "block";
         
-        /* Change scroll behaviour, jump to where the user had scrolled to on the page, then revert to smooth scrolling again. */
+        // Change scroll behaviour, jump to where the user had scrolled to on the page, then revert to smooth scrolling again.
         document.documentElement.style.scrollBehavior = "auto";
         window.scroll(0, scrollPosition);
         document.documentElement.style.scrollBehavior = "smooth";
