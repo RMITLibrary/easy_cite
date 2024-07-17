@@ -9,12 +9,12 @@
 <!-- add additional style guides if needed -->
 ###### start-style-menu
 # Using Easy Cite
-# RMIT Harvard
 # AGLC4
 # APA 7<sup>th</sup> ed.
 # Chicago A
 # Chicago B
 # IEEE
+# RMIT Harvard
 # Vancouver
 ###### end-style-menu
 

@@ -16,6 +16,9 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-MBF5VGG');</script>
 	--><!-- End Google Tag Manager -->
+	<!-- Google tag (gtag.js) --> 
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-71QQMYPSH4"></script> 
+	<script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());   gtag('config', 'G-71QQMYPSH4'); </script>
 	
 <script>
 //Tracking script
@@ -97,7 +100,7 @@
                   </a>
                
       </div>
-	  <h1 class="echeadtitle">Easy Cite referencing tool</h1>
+	  <h1 class="echeadtitle">Easy Cite referencing guide</h1>
   		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -132,28 +135,28 @@ if ($whichstyleguide == "styleguide-0"){
 	$thestyleguidetitle = "Using Easy Cite";
 	$showInfobox ='block'; 
 }	else if ($whichstyleguide == "styleguide-1"){
-	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
-	$thestyleguidetitle = "RMIT Harvard";
-	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-2"){
 	$thestyleguide = file_get_contents('markdown/aglc4.md');
 	$thestyleguidetitle = "AGLC4";
 	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-3"){
+}	else if ($whichstyleguide == "styleguide-2"){
 	$thestyleguide = file_get_contents('markdown/apa7thed.md');
 	$thestyleguidetitle = "APA 7<sup>th</sup> Edition";
 	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-4"){
+}	else if ($whichstyleguide == "styleguide-3"){
 	$thestyleguide = file_get_contents('markdown/chicagoa.md');
 	$thestyleguidetitle = "Chicago A";
 	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-5"){
+}	else if ($whichstyleguide == "styleguide-4"){
 	$thestyleguide = file_get_contents('markdown/chicagob.md');
 	$thestyleguidetitle = "Chicago B";
 	$showInfobox ='none'; 
-}	else if ($whichstyleguide == "styleguide-6"){
+}	else if ($whichstyleguide == "styleguide-5"){
 	$thestyleguide = file_get_contents('markdown/ieee.md');
 	$thestyleguidetitle = "IEEE";
+	$showInfobox ='none'; 
+}	else if ($whichstyleguide == "styleguide-6"){
+	$thestyleguide = file_get_contents('markdown/rmitharvard.md');
+	$thestyleguidetitle = "RMIT Harvard";
 	$showInfobox ='none'; 
 }	else if ($whichstyleguide == "styleguide-7"){
 	$thestyleguide = file_get_contents('markdown/vancouver.md');
@@ -190,7 +193,7 @@ $mylist = preg_replace("/<h6>start-style-guide<\/h6>/", '<div class="tab-content
 $mylist = preg_replace("/<h6>start-type-menu<\/h6>/", '<div class="col-sm-3 flex-shrink-1 me-auto"><div class="nav flex-column nav-pills me-3" id="stn" role="tablist" aria-orientation="vertical">', $mylist);
 $mylist = preg_replace("/<h2>/", '<button class="nav-link btn btn-outline myleftpills" id="stn-yy" data-bs-toggle="pill" data-bs-target="#sgt-yy" type="button" role="tab" tabindex="0" aria-controls="sgt-yy" aria-selected="false" onclick="myFunction(this, \'thishash1\')">', $mylist); 
 $mylist = preg_replace("/<\/h2>/s", '</button>', $mylist);
-$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick=" window.open(\'https://rmit.libguides.com/referencing_AI_tools\', \'_blank\'); return false;">AI generated content<br />(opens new window)</button><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
+$mylist = preg_replace("/<h6>end-type-menu<\/h6>/", '<h2 class="printtitle" id="print-title">'.$thestyleguidetitle.' style guide</h2><button class="nav-link btn btn-outline myleftpills guideprint" id="sgt-print-tab" type="button" onclick="printThisGuide(this);">Print this style guide<br />(opens new window)</button></div><p>&nbsp;</p></div>', $mylist);	
 	
 // ACCORDIONS
 $mylist = preg_replace("/<h6>start-content-area<\/h6>/", '<div class="col-12 col-sm-9 flex-grow-1"><div id="printable-guide"><div class="tab-content" id="stnContent-yy">', $mylist);
@@ -438,7 +441,7 @@ echo($mylist);
 ?>
 <!-- start info box-->
 <div id="ecinfopane" style="display: <?= $showInfobox?>">
-	<h3><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;How to use the Easy Cite referencing tool</h3>
+	<h3><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2.033 16.01c.564-1.789 1.632-3.932 1.821-4.474.273-.787-.211-1.136-1.74.209l-.34-.64c1.744-1.897 5.335-2.326 4.113.613-.763 1.835-1.309 3.074-1.621 4.03-.455 1.393.694.828 1.819-.211.153.25.203.331.356.619-2.498 2.378-5.271 2.588-4.408-.146zm4.742-8.169c-.532.453-1.32.443-1.761-.022-.441-.465-.367-1.208.164-1.661.532-.453 1.32-.442 1.761.022.439.466.367 1.209-.164 1.661z"/></svg>&nbsp;How to use the Easy Cite referencing guide</h3>
     <div class="d-flex flex-row flex-wrap">
         <div class="col-12 col-sm-6 colpad">
             <h5>Easy Cite lets you look up referencing tips and examples in a selection of common styles used at RMIT.</h5>
@@ -467,7 +470,7 @@ echo($mylist);
 	<p>&nbsp;</p>
 	<div class="footerarea">
 		<div id="gotoeasycite"><a href="https://www.lib.rmit.edu.au/easy-cite/" class="footerlinks atooltip aanimate" data-tool="Link opens in a new tab" target="_blank" >Go to Easy Cite home</a> | &nbsp; </div>
-			<a href="https://forms.office.com/r/ZCZH0nR4HF" target="_blank" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here. Link opens in a new tab." >Send us feedback</a>&nbsp; |&nbsp; 
+			<a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback" target="_blank" class="footerlinks atooltip aanimate" data-tool="Send us your feedback or report errors here. Link opens in a new tab." >Send us feedback</a>&nbsp; |&nbsp; 
 		<!-- Trigger modal -->
 			<a type="button" class="notabutton footerlinks atooltip aanimate" data-bs-toggle="modal" data-bs-target="#exampleModal" data-tool="Select this link to see copyright and licensing information">About Easy Cite</a>
 	</div>
@@ -481,11 +484,11 @@ echo($mylist);
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
-		  <h3 class="modal-title" id="exampleModalLabel">Easy Cite referencing tool </h3> 
+		  <h3 class="modal-title" id="exampleModalLabel">Easy Cite referencing guide </h3> 
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <p>Easy Cite referencing tool by <a href="https://www.rmit.edu.au/library" target="_blank" class="modallinks" >RMIT University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" class="modallinks" >Creative Commons CC BY-NC-SA 3.0</a>. </p>
+        <p>Easy Cite referencing guide by <a href="https://www.rmit.edu.au/library" target="_blank" class="modallinks" >RMIT University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" class="modallinks" >Creative Commons CC BY-NC-SA 4.0</a>. </p>
 		  <p>This resource is derived from a work by <a href="https://www.swinburne.edu.au/library" target="_blank" class="modallinks" >Swinburne University Library</a>, based on an original work by <a href="https://www.griffith.edu.au/library" target="_blank" class="modallinks" >Griffith University Library</a>.</p>
 		  <p>(links open in new tabs)</p>
 		  <p><strong>&copy; RMIT University Library</strong></p>
@@ -504,7 +507,6 @@ echo($mylist);
 //jQuery: get URL location.hash and use it to open the correct pills and accordion
 $(function(){
 	if (location.hash !== null && location.hash !== "") { //check for hash
-		location.reload();
 		var hash = location.hash; 
 		var myArray = hash.split("#"); //split hash into two parts & save in an array
 		var tabopen = myArray[1];  //first item of array - not including the first hash
