@@ -53,19 +53,15 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: this is a guide only.** To avoid losing marks:
+The Chicago referencing style is widely used in art, design, architecture, music, history and humanities subjects. The Chicago Manual of Style includes detailed advice on citing and referencing sources used in these disciplines, including artworks, live performances and historical sources, as well as commonly-used source types such as books, journal articles and websites. 
 
-- Confirm referencing requirements with your lecturer.
+This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341">The Chicago Manual of Style 17th edition</a>. Please refer to this manual if you need more examples than those included in this guide, or if you need clarification. 
 
-- Use The Chicago Manual of Style. 17th ed. Chicago: University of Chicago Press, 2017 to clarify referencing rules or if you need more examples. This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341" target="_blank">The Chicago manual of style. 17th edition.</a> (opens in a new tab).
+There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **notes and bibliography** format.  
 
-There are two formats of referencing within the Chicago Style. One is **notes and bibliography** (Chicago A) and the other is **author-date** style (Chicago B). This guide provides examples and advice for **notes and bibliography only**. Notes and bibliography uses a numerical system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography should be included at the end of the document, preferably in alphabetical order.
+The **notes and bibliography** format uses a **numerical** system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography is included at the end of the document in **alphabetical** order. 
 
-**Footnotes/ Endnotes** : Footnotes or endnotes are numbered and correspond to note reference numbers in the text.
-
-**Bibliography** : A bibliography is the term used for a list of resources consulted (e.g. books, articles, websites) when writing an assignment.
-
-For examples and advice regarding **author-date style** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago B: Author-Date 17th ed.](index.php?styleguide=styleguide-5#stn-0).
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
 ###### end-subtype-content
 

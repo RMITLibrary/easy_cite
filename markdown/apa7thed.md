@@ -54,14 +54,13 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: This is a guide only.** To avoid losing marks:
+The APA 7th (American Psychological Association) referencing style is based on the <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341">Publication Manual of the American Psychological Association</a> and is widely used in the social sciences and other fields, such as education, psychology, nursing and commerce.  
 
-- Confirm the referencing requirements for your course with your lecturer.
-- To clarify referencing rules or if you need more examples, refer to the following publication that this guide is based on; American Psychological Association. (2020). <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341">*Publication manual of the American Psychological Association* (7<sup>th</sup> ed.).</a> 
-- APA 7<sup>th</sup> ed. is an **author-date** referencing style which requires all references to be cited in-text and in a reference list.
-- **In-text references** appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable).
-- A **reference list** provides the full bibliographic details of all in-text references and is arranged alphabetically by author at the end of the document.
-- Refer to the <a href="https://apastyle.apa.org/style-grammar-guidelines/references">*Style and Grammar Guidelines*</a> page on the <a href="https://apastyle.apa.org/">*APA Style website*</a> for updates to the APA style and additional referencing examples.
+The APA 7th style is an **author-date** system. It requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of your document, sources appear in **alphabetical** order of author last name. 
+
+The APA 7th style is widely used across institutions worldwide. If the specific source type you are referencing is not covered in this Easy Cite guide, you can refer to the APA 7th referencing guides published by other institutions, as well as the official publication manual mentioned above.  
+
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
 ###### end-subtype-content
 
