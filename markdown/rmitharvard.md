@@ -56,13 +56,13 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-RMIT Harvard is based on the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/author-date">Australian Government Style Manual (AGSM)</a> that is designed for government workers in Australia. Although it is not targeted at students, Australian universities use and adapt, where necessary, the AGSM as the basis for their own version of Harvard. There is no official owner of the Harvard style, so each Australian university has their own version. The Harvard referencing style has no official affiliation to <a href="https://ask.library.harvard.edu/faq/81735">Harvard University in the USA</a>. 
+The RMIT Harvard referencing style is based on the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/author-date">Australian Government Style Manual (AGSM)</a> that is designed for government workers in Australia. Although it is not targeted at students, Australian universities use and adapt, where necessary, the AGSM as the basis for their own version of Harvard. There is no official owner of the Harvard style, so each Australian university has their own version. The Harvard referencing style has no official affiliation to <a href="https://ask.library.harvard.edu/faq/81735">Harvard University in the USA</a>. 
 
-The RMIT Harvard referencing style is an **author-date** system. It requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of your document, sources appear in **alphabetical** order of author last name. 
+The RMIT Harvard style is an **author-date** system. It requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of your document, sources appear in **alphabetical** order of author last name. 
 
 RMIT Harvard is highly similar to the APA 7th referencing style, so APA 7th is a great alternative to RMIT Harvard. 
 
-**Note:** Although the AGSM states that the title of online sources should be hyperlinked for electronic formats, RMIT Harvard style does **not** do this because hyperlinked titles are not compatible with the EndNote program. In addition, the links would not be available when the work is printed. 
+**Note:** Although the AGSM states that the title of online sources should be hyperlinked for electronic formats, the RMIT Harvard style does **not** do this because hyperlinked titles are not compatible with the EndNote program. In addition, the links would not be available when the work is printed. 
 
 **Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
