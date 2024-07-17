@@ -53,22 +53,15 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: this is a guide only.** To avoid losing marks:
+The Chicago referencing style is widely used in art, design, architecture, music, history and humanities subjects. The Chicago Manual of Style includes detailed advice on citing and referencing sources used in these disciplines, including artworks, live performances and historical sources, as well as commonly-used source types such as books, journal articles and websites. 
 
-- Confirm referencing requirements with your lecturer.
+This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341">The Chicago Manual of Style 17th edition</a>. Please refer to this manual if you need more examples than those included in this guide, or if you need clarification. 
 
-- Use The Chicago Manual of Style. 17th ed. Chicago: University of Chicago Press, 2017 to clarify referencing rules or if you need more examples. This guide is based on This guide is based on the Chicago Manual of Style 17th edition <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341" target="_blank">The Chicago manual of style. 17th edition.</a> (opens in a new tab).
+There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **author-date** format.  
 
-- Additional information on Chicago referencing for students can be found within: A Manual for Writers of Research Papers, Theses, and Dissertations : Chicago Style for Students and Researchers 9th. edition
+The **author-date** format requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of the document, sources appear in **alphabetical** order of author last name.   
 
-The University of Chicago has developed several editions of the Chicago Manual of Style to aid authors in the preparation of manuscripts, which include referencing styles.
-
-There are two systems outlined by the Chicago referencing style: **Author-Date** (Chicago B) and **Notes-Bibliography** (Chicago A).
-
-This guide use examples in the **author-date** system. The author-date system requires in-text citations within the assignment, along with a full bibliographic entry in the reference list at the end of the assignment.
-
-For examples and advice regarding **Notes-Bibliography** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago A: Notes and Bibliography 17th ed.](index.php?styleguide=styleguide-4#stn-0).
-
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
 ###### end-subtype-content
 
