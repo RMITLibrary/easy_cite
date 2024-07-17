@@ -54,9 +54,9 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The APA 7th (American Psychological Association) style is based on the <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341">Publication Manual of the American Psychological Association</a> and is widely used in the social sciences and other fields, such as education, psychology, nursing and commerce.  
+The APA 7th (American Psychological Association) referencing style is based on the <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341">Publication Manual of the American Psychological Association</a> and is widely used in the social sciences and other fields, such as education, psychology, nursing and commerce.  
 
-APA 7th is an **author-date** system. It requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of your document, sources appear in **alphabetical** order of author last name. 
+The APA 7th style is an **author-date** system. It requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of your document, sources appear in **alphabetical** order of author last name. 
 
 The APA 7th style is widely used across institutions worldwide. If the specific source type you are referencing is not covered in this Easy Cite guide, you can refer to the APA 7th referencing guides published by other institutions, as well as the official publication manual mentioned above.  
 
