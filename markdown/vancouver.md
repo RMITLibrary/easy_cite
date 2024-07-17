@@ -50,13 +50,11 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-In the Vancouver referencing style sources are acknowledged by inserting a **number** in-text. A reference list at the end of the document is arranged in **numerical** order. This style is often used in the health sciences. 
+The Vancouver style is often used in medicine, biomedical science and health sciences. This Vancouver guide is based on the <a href="https://www.ncbi.nlm.nih.gov/books/NBK7256/">Citing Medicine, 2nd edition: The NLM Style Guide for Authors, Editors, and Publishers</a>. 
 
-**Important: This is a guide only**. To avoid losing marks:
+The Vancouver style is a **numerical** or **numbered** system. It requires that sources are acknowledged as an in-text citation by **numbering** them **consecutively** in the order in which they **first appear** in the body of work. For example, the first source is given number 1, the second source number 2, and so on. Each source is allocated a unique number. Once you give a source a number, the same number is used for the in-text citation whenever you refer to that source in the body of work. In the reference list at the end of your document, the source’s number appears in **numerical** order. 
 
-- Confirm the referencing requirements of your school with your lecturer.
-
-- Use <a href="http://www.nlm.nih.gov/citingmedicine" target="_blank">Citing medicine: the NLM style guide for authors, editors, and publishers (2nd ed.)</a> (opens in a new tab) to clarify referencing rules or find more examples. Easy Cite Vancouver referencing guide is based on this publication.
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
 ###### end-subtype-content
 
