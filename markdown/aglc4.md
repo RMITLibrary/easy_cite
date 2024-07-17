@@ -51,14 +51,13 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: This is a guide only**. To avoid losing marks:
+The AGLC4 (Australian Guide to Legal Citation 4th edition) is the official legal citation guide in Australia and is widely used by legal practitioners, law students and academics. The AGLC4 is the required referencing style for students enrolled in law programs within RMIT’s Graduate School of Business and Law. 
 
--	Confirm referencing requirements of your school with your lecturer.
+The AGLC4 is a **footnote** referencing style. **Superscript numbers** <sub>1,3,6</sub> represent in-text citations, and the details are included in a **footnote** at the end of each page. Where a bibliography is required, it should list all the citations used and other sources that were relied upon, organised **alphabetically** in sections and placed at the end of your document. 
 
--	The Australian Guide to Legal Citation (AGLC) 4th ed, 2018 is a required referencing style for students enrolled in the Juris Doctor program at RMIT University.
+The AGLC4 style is a collaboration between the *Melbourne University Law Review* and the *Melbourne Journal of International Law*. The official AGLC4 publication, which this guide is based on, is freely available to view and download from the <a href="https://law.unimelb.edu.au/mulr/aglc/about">publisher’s website</a> (click on *Download the view-only PDF version* option). 
 
--	Use <a href="https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf" target="_blank">*Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018)</a> (opens in a new tab), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
-
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
 ###### end-subtype-content
 
