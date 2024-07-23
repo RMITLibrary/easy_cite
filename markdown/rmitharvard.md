@@ -99,7 +99,7 @@ RMIT Harvard is highly similar to the APA 7th referencing style, so APA 7th is a
 
 - If no publication year is supplied, write **n.d.** (for 'no date'). If year can be reliably estimated or inferred from the text, then write **c.** (meaning 'circa' or approximately) followed by the year.
     
-- For **multiple citations in the same parentheses**, list all citations chronologically, separated by a semi-colon (;) for example:  
+- For **multiple citations in the same parentheses**, list all citations alphabetically by the author's last name, separated by a semi-colon (;). For example:  
     
     > It has been claimed that ... (Ghezzi and Cavallo 2018; Jocevski 2020; Soluk et al. 2021).
     
@@ -206,11 +206,11 @@ Identify works by the same author in the same year by inserting a letter after t
 
 ###### start-subtype-item
 
-### Referencing works by different first authors with the same family name
+### Referencing works by different authors with the same family name
 
 ###### start-subtype-content
 
-To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text citations.
+To identify the works of different authors with the same family name, insert the initial(s) of the authors’ first names in the in-text citations.
 
 #### In-text citation
 
@@ -218,7 +218,7 @@ To identify the works of different first authors with the same family name, inse
 
 #### Reference list entry
 
-In the reference list, order the works of each author alphabetically by the initial(s) of the first author's given names. 
+In the reference list, order the works of each author alphabetically by the initial(s) of the author's first name.
 
 ###### end-subtype-content
 
@@ -231,7 +231,7 @@ In the reference list, order the works of each author alphabetically by the init
 
 ###### start-subtype-content
 
-When including two or more references in the same parentheses in a sentence, list all citations chronologically, separated by a semi-colon (;).
+When including two or more references in the same parentheses, list all citations alphabetically by the author's last name, separated by a semi-colon (;).
 
 #### In-text citation
 
@@ -300,11 +300,11 @@ In the reference list, only include the source you read. For this example, if yo
 
 - When the shortened form or acronym of an organisation’s name is mentioned in your work, use it in your references. List the short form, then include the full name in parentheses.
 
-- If there are **multiple entries by the same author**, then arrange chronologically starting with the earliest year of publication.
+- If there are **multiple entries by the same author**, order chronologically starting with the earliest year of publication.
 
 - If there are **multiple entries by the same author in the same year**, add ‘a’ after the first work, ‘b’ after the second and so on.
 
-- If there are **multiple different first authors with the same family name**, then arrange alphabetically by initial(s) of the first authors' given names.
+- If there are **multiple different authors with the same family name**, order alphabetically by the initial(s) of the author's first name.
 
 - If the author used a **pseudonym or pen name**, list that name in the author position. If the actual name is known, place it in parentheses after the pen name, e.g. Mari (Maria Giovanna Colli).
 
