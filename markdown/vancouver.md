@@ -557,11 +557,11 @@ When the chapter is in an edited ebook, add the additional elements described in
 
 **Rule**
 
-> 8. Author family name initials. Chapter title. In: Editor's family name initials, editor. Book title: book subtitle. City of publication (State or Country): Publisher; Year of publication.
+> 8. Author family name initials. Chapter title. In: Editor's family name initials, editor. Book title: book subtitle. City of publication (State or Country): Publisher; Year of publication. p. first-last page.
 
 **Example**
 
-> 8. Renk K. Reactive attachment disorder. In: Olatunji BO, editor. The Cambridge handbook of anxiety and other disorders. Cambridge (United Kingdom): Cambridge University Press; 2019.
+> 8. Renk K. Reactive attachment disorder. In: Olatunji BO, editor. The Cambridge handbook of anxiety and related disorders. Cambridge (United Kingdom): Cambridge University Press; 2019. p. 743-768.
 
 When there are multiple chapter authors, format their names as you would for a book with multiple authors.
 
@@ -612,11 +612,11 @@ For an **ebook chapter**, format it as you would a chapter in an edited book and
 
 **Rule**
 
-11. Author family name initials. Chapter title. In: Editor's family name initials, editor. Book title: book subtitle. [Internet]. City of publication (State or Country): Publisher; Year of publication [cited year Month day]. Available from: Database name.
+> 11. Author family name initials. Chapter title. In: Editor's family name initials, editor. Book title: book subtitle. [Internet]. City of publication (State or Country): Publisher; Year of publication [cited year Month day]. p. first-last page. Available from: Database name.
 
 **Example**
 
-11. Hetherington K, Hamlet N. Health and homelessness. In: Bonner A, editor. Social determinants of health: an interdisciplinary approach to social inequality and well-being. [Internet]. Bristol (United Kingdom): Policy Press; 2018 [cited 2024 Jul 5]. Available from: Cambridge University Press Online Books.
+> 11. Hetherington K, Hamlet N. Health and homelessness. In: Bonner A, editor. Social determinants of health: an interdisciplinary approach to social inequality and well-being. [Internet]. Bristol (United Kingdom): Policy Press; 2018 [cited 2024 Jul 5]. p. 195-210. Available from: Cambridge University Press Online Books.
 
 Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
 
