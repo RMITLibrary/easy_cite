@@ -1415,6 +1415,26 @@ APA includes the following within the definition of images and figures:
   1. a note providing a brief description
 
   2. if the image is not original work, then source details from where it was derived
+-    Images from books, journal articles and other sources which are not reproduced in the body of work should be cited in the standard format of the source as described in the other sections of this guide. 
+
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.
+#### In-text Citation  
+If the title of the work has been included in the body of the text follow with (Author/Artists surname, Year)  
+#### Example
+>A good example of shading of clouds in images of the sky is the photo, The sky is blue (Jones,2018)  
+
+#### Reference list 
+
+Rule 
+> Author/Artist(s), initial. (year, month date). Title (in italics) [Format]. 
+Publisher. URL 
+
+#### Example 
+> Jones, H. (2018, March 14). The sky is blue [Photogragh]. Flicker. https://www.flickr.com/photos/henryjones/340871075 
+
+
+ 
+
 
 ###### end-subtype-content
 
@@ -1428,6 +1448,9 @@ APA includes the following within the definition of images and figures:
 ###### start-subtype-content
 
 #### In-text citation
+
+ 
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See General rules for images.
 
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
@@ -1490,6 +1513,8 @@ The figure must appear in the reference list, and the citation is formatted in c
 ###### start-subtype-content
 
 #### In-text citation
+ 
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See General rules for images.
 
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
@@ -1556,6 +1581,8 @@ For the National Cancer Institute © 2012 Terese Winslow LLC, U.S. Govt. has cer
 ###### start-subtype-content
 
 #### In-text citation
+ 
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See General rules for images.
 
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
@@ -1610,6 +1637,8 @@ The figure must appear in the reference list, and the citation is formatted in c
 ###### start-subtype-content
 
 #### In-text citation
+ 
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See General rules for images.
 
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
@@ -1668,6 +1697,8 @@ The figure must appear in the reference list, and the citation is formatted in c
 ###### start-subtype-content
 
 #### Citing sources in a table
+ 
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See General rules for images.
 
 The information and examples below outline how to reference a table where the information in the table has been derived from another source or sources.
 
