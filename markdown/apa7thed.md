@@ -943,7 +943,7 @@ Include the day, month and year, as well as the exact URL of the article.
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* https://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article. *Title of Periodical.* https://xxxxx {/.hanging-indent}
 
 ##### Example
 
@@ -956,7 +956,7 @@ Include the day, month and year, as well as the exact URL of the article.
 
 ###### start-subtype-item
 
-### Newspaper article, online
+### Newspaper article from a website
 
 ###### start-subtype-content
 
@@ -982,7 +982,7 @@ Include the day, month and year of the article, as well as the URL.
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* https://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article. *Title of Periodical.* https://xxxxx {/.hanging-indent}
 
 ##### Example
 
@@ -1023,7 +1023,7 @@ If the article is spread across discontinuous pages, provide all page numbers se
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* Page number(s) or range. {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article. *Title of Periodical,* Page number(s) or range. {/.hanging-indent}
 
 ##### Example
 
