@@ -24,6 +24,7 @@
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
 ## Using APA 7<sup>th</sup> ed.
+## Indigenous resources
 ## Books
 ## Journal articles
 ## Newspaper articles
@@ -426,6 +427,31 @@ Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin 
 
 ###### end-subtype-item
 
+
+###### end-subtype
+
+###### end-type-content
+
+
+<!-- Indigenous resources -->
+###### start-type-content
+<!-- -->
+<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
+###### start-subtype
+<!-- start SUB_TYPE-ITEM - accordion item -->
+<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+### Indigenous resources
+<!-- the first accordion item must have this comment as shown in the line below -->
+<!-- first accordion item -->
+###### start-subtype-content
+
+Add content here...
+
+###### end-subtype-content
+
+###### end-subtype-item
 
 ###### end-subtype
 

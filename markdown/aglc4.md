@@ -24,6 +24,7 @@
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
 ## Using AGLC4
+## Indigenous resources
 ## Case law
 ## Legislation
 ## Books and e-books
@@ -214,11 +215,35 @@ Board of Examiners, *Admission Requirements* (18 February 2010) Council of Legal
 
 ###### end-subtype-item
 
+###### end-subtype
 
+###### end-type-content
+
+
+<!-- Indigenous resources -->
+###### start-type-content
+<!-- -->
+<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
+###### start-subtype
+<!-- start SUB_TYPE-ITEM - accordion item -->
+<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+### Indigenous resources
+<!-- the first accordion item must have this comment as shown in the line below -->
+<!-- first accordion item -->
+###### start-subtype-content
+
+Add content here...
+
+###### end-subtype-content
+
+###### end-subtype-item
 
 ###### end-subtype
 
 ###### end-type-content
+
 
 
 <!-- Case law - links to the second type menu item -->
