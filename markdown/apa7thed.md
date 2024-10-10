@@ -1756,6 +1756,27 @@ APA includes the following within the definition of images and figures:
 
   2. if the image is not original work, then source details from where it was derived
 
+- Images from books, journal articles and other sources which are not reproduced in the body of work should be cited in the standard format of the source as described in the other sections of this guide. 
+
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.
+
+##### Rule for in text
+
+If the title of the work has been included in the body of the text follow with (Author/Artists surname, Year). 
+
+##### Example
+
+A good example of shading of clouds in images of the sky is the photo, *The sky is blue* (Jones, 2018).
+
+#### Reference list
+
+##### Rule
+Author/Artist(s), initial. (year, month date). *Title* (in italics) [Format]. Publisher. URL
+
+##### Example
+
+Jones, H. (2018, March 14). *The sky is blue* [Photogragh]. Flicker. https://www.flickr.com/photos/henryjones/340871075
+
 ###### end-subtype-content
 
 ###### end-subtype-item
@@ -1768,6 +1789,8 @@ APA includes the following within the definition of images and figures:
 ###### start-subtype-content
 
 #### In-text citation
+
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See **General rules for images**.
 
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
@@ -1832,6 +1855,8 @@ The figure must appear in the reference list, and the citation is formatted in c
 ###### start-subtype-content
 
 #### In-text citation
+
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See **General rules for images**.
 
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
@@ -1901,6 +1926,8 @@ For the National Cancer Institute © 2012 Terese Winslow LLC, U.S. Govt. has cer
 
 #### In-text citation
 
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See **General rules for images**.
+
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
 1. within the written body of your paper, as you would for a normal in-text reference, and
@@ -1956,6 +1983,8 @@ The figure must appear in the reference list, and the citation is formatted in c
 ###### start-subtype-content
 
 #### In-text citation
+
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See **General rules for images**.
 
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
@@ -2024,6 +2053,8 @@ The information and examples below outline how to reference a table where the in
 *Note: If you are copying an entire table from another source without altering the layout or combining its data from other sources, you should then reference it as per the other examples in the Images section e.g. book/journal article, webpage etc.*
 
 #### In-text citation
+
+When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See **General rules for images**.
 
 When citing tables in the text of your work, you need to acknowledge them in two places:
 
@@ -2112,6 +2143,8 @@ All reference list entries should appear as per the convention of the source bei
 - Conference proceedings published in a journal follow the same format as journal articles.
 - Conference proceedings published as a whole book follow the same reference format as whole edited books.
 - The format for conference proceedings published as an edited book chapter is the same as for edited book chapters.
+- Conference contributions accessed online including conference papers, session or presentation, and posters follow this reference format:
+> Author, A. A. (Date). *Title of Contribution* (in italics) [Type of contribution]. Conference Name, Location. DOI or URL if applicable 
 
 #### Paraphrasing in-text
 
