@@ -460,6 +460,14 @@ For more information on how to locate Indigenous Knowledges and critically evalu
 
 **Note:** Guidance from First Nations communities is welcomed, particularly from the lands of Wurundjeri Country and Boonwurrung Country on which the RMIT campuses are located. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">Feedback form</a>. 
 
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
 
 
 <!-- Books - links to the second type menu item -->
