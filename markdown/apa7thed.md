@@ -1766,16 +1766,16 @@ If the title of the work has been included in the body of the text follow with (
 
 ##### Example
 
-A good example of shading of clouds in images of the sky is the photo, *The sky is blue* (Jones, 2018).
+> A good example of shading of clouds in images of the sky is the photo, *The sky is blue* (Jones, 2018).
 
 #### Reference list
 
 ##### Rule
-Author/Artist(s), initial. (year, month date). *Title* (in italics) [Format]. Publisher. URL
+> Author/Artist(s), initial. (year, month date). *Title* (in italics) [Format]. Publisher. URL
 
 ##### Example
 
-Jones, H. (2018, March 14). *The sky is blue* [Photogragh]. Flicker. https://www.flickr.com/photos/henryjones/340871075
+> Jones, H. (2018, March 14). *The sky is blue* [Photogragh]. Flicker. https://www.flickr.com/photos/henryjones/340871075
 
 ###### end-subtype-content
 
