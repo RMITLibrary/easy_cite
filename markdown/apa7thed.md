@@ -433,21 +433,32 @@ Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin 
 ###### end-type-content
 
 
-<!-- Indigenous resources -->
+
+<!-- Indigenous knowledges -->
 ###### start-type-content
 <!-- -->
+
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 ###### start-subtype
 <!-- start SUB_TYPE-ITEM - accordion item -->
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Indigenous resources
+
+### General advice
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
+
 ###### start-subtype-content
 
-Add content here...
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by Indigenous Archives Collective. 
+
+It is advised to attribute a Country or language group to an author who has self-identified for example, in a biographical note to an article or on a personal website. 
+
+For more information on how to locate Indigenous Knowledges and critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
+
+**Note:** Guidance from First Nations communities is welcomed, particularly from the lands of Wurundjeri Country and Boonwurrung Country on which the RMIT campuses are located. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">Feedback form</a>. 
 
 ###### end-subtype-content
 
@@ -456,6 +467,7 @@ Add content here...
 ###### end-subtype
 
 ###### end-type-content
+
 
 
 <!-- Books - links to the second type menu item -->
