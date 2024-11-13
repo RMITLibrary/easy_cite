@@ -2500,7 +2500,9 @@ For more information on how to critically evaluate information sources, visit th
 
 ###### start-subtype-content
 
-[insert content here]
+Follow APA 7th standard and include attribution of the author/s affiliated Nation, Country or Language group in both the in-text and reference list, if that information is provided within the source being cited. Avoid assuming a person’s affiliation if not stated clearly.
+
+
 
 ###### end-subtype-content
 
