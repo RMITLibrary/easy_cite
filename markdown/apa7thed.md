@@ -2484,11 +2484,62 @@ It is advised to attribute a Nation/Country/language group to an author who has 
 
 For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
 
-Note: Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
+**Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
 
 ###### end-subtype-content
 
 ###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+
+### Indigenous authored/co-authored publications that include Country/Language group affiliation
+<!-- the second accordion item must have this comment as shown in the line below -->
+<!-- second accordion item -->
+
+###### start-subtype-content
+
+[insert content here]
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+
+### Indigenous knowledges cited in Indigenous authored/co-authored publications
+<!-- the third accordion item must have this comment as shown in the line below -->
+<!-- third accordion item -->
+
+###### start-subtype-content
+
+[insert content here]
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+
+### Indigenous knowledges cited in non-Indigenous authored publications
+<!-- the fourth accordion item must have this comment as shown in the line below -->
+<!-- fourth accordion item -->
+
+###### start-subtype-content
+
+[insert content here]
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+
 
 ###### end-subtype
 
