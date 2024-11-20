@@ -50,6 +50,9 @@
 	<!--<link rel="stylesheet" href="https://rmitlibrary.github.io/rmit-ui/main.a6920974bb956370c6f620c64120f27b3809b38bc662ffc4d0c3e8b31e4bfab58d15e2b021b2fbb83b9eb476dfdf4e39c24a4c853170bcf8f0e37a0369af15ad.css">-->
 	
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+	<script type="text/javascript" src="https://d329ms1y997xa5.cloudfront.net/sites/325/include/library-bot-uat3.js" defer></script> 
+	
 </head>
 <body>
 <a name="top"></a>
