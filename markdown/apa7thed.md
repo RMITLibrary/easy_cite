@@ -2720,14 +2720,80 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 ###### start-subtype-content
 
-[insert content here]
+Following standard APA 7th but give attribution to the Indigenous person/s who provided the knowledge, when explicitly mentioned as the knowledges’s source. If no specific person is named, give attribution to the Nation/Country/Language group mentioned as the knowledge’s source. Avoid assuming an attribution if not stated clearly in the resource.
+
+####Book
+
+#####In-text citation
+
+#####Information prominent
+> {.hanging-indent}(Nation/Country/Language Group in Surname, year) {/.hanging-indent}
+
+#####Author prominent
+> {.hanging-indent}Nation/Country/Language Group (in Surname, year) {/.hanging-indent}
+
+**Examples**
+> {.hanging-indent}(Awabakal in Threlkeld & Fraser, 1892) {/.hanging-indent}
+
+> {.hanging-indent}Awabakal (in Threlkeld & Fraser, 1892) {/.hanging-indent}
+
+####Reference List
+
+**Rule**
+> {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Year). Title of book. Publisher. {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Awabakal. In Threlkeld, L. E. & Fraser, J. (1982) An Australian language: as spoken by the Awabakal, the people of Awaba or Lake Macquarie (near Newcastle, New South Wales) being an account of their language, traditions, and customs. Govt. Printer, Sydney. {/.hanging-indent}
+
+####Journal Article
+
+#####In-text citation
+
+#####Information prominent
+> {.hanging-indent}(Nation/Country/Language Group in Surname, year) {/.hanging-indent}
+
+#####Author prominent
+> {.hanging-indent}Nation/Country/Language Group in Surname (Year) {/.hanging-indent}
+
+**Examples**
+> {.hanging-indent}(Narrangga in Nunn & Reid, 2015) {/.hanging-indent}
+
+> {.hanging-indent}Narrangga in Nunn & Reid (2015) {/.hanging-indent}
+
+####Reference List
+
+**Rule**
+> {.hanging-indent}Nation/Country/Language Group in Author Surname, Initial(s). (Year). Title of journal article. Journal name, Volume(edition), Page number(s). DOI address {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Narrangga in Nunn, P., & Reid, N. (2015) Aboriginal Memories of Inundation of the Australian Coast Dating from More than 7000 Years Ago. Australian Geographer, 47(1), 11-47. <a href="https://10.1080/00049182.2015.1077539">https://10.1080/00049182.2015.1077539</a> {/.hanging-indent}
+
+####Newspaper Article
+
+#####In-text citation
+
+#####Information prominent
+> {.hanging-indent}(Nation/Country/Language Group) in Surname or “name of article”, year) {/.hanging-indent}
+
+#####Author prominent
+> {.hanging-indent}Nation/Country/Language Group (in Surname or “name of article”, year) {/.hanging-indent}
+
+**Examples**
+> {.hanging-indent}(Wiradjuri in “Aboriginal Place Names”, 1938) {/.hanging-indent}
+
+> {.hanging-indent}Wiradjuri (in “Aboriginal Place Names”, 1938) {/.hanging-indent}
+
+####Reference List
+
+**Rule**
+> {.hanging-indent}Nation/Country/Language Group (Year, Month Day). Title of article. Newspaper title. URL {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Wiradjuri in (1938, December 15) Aboriginal Place Names. Mudgee Guardian and North-Western Representative {/.hanging-indent}
 
 ###### end-subtype-content
 
 ###### end-subtype-item
-
-
-
 
 ###### end-subtype
 
