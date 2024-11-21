@@ -2502,7 +2502,99 @@ For more information on how to critically evaluate information sources, visit th
 
 Follow APA 7th standard and include attribution of the author/s affiliated Nation, Country or Language group in both the in-text and reference list, if that information is provided within the source being cited. Avoid assuming a person’s affiliation if not stated clearly.
 
+#### In-text citation
 
+##### Information prominent
+> {.hanging-indent}(Surname, Nation/Country/Language Group, year) {/.hanging-indent}
+
+##### Author prominent
+> {.hanging-indent}Surname (Nation/Country/Language Group) (year) {/.hanging-indent}
+
+##### Examples
+> {.hanging-indent}(Moreton-Robinson, Goenpul, 2020) {/.hanging-indent}
+
+> {.hanging-indent}As argued by Moreton-Robinson (Goenpul) (2020) {/.hanging-indent}
+
+#### Personal Communication
+
+##### In-text citation
+
+##### Information prominent
+> {.hanging-indent}(Surname, Nation/Country/Language Group, personal communication, Month Day, Year) {/.hanging-indent}
+
+##### Author prominent
+> {.hanging-indent}Surname (Nation/Country/Language Group). (personal communication, Month Day, Year) {/.hanging-indent}
+
+##### Reference List
+Cited from personal communication does not appear in the reference list.
+
+#### Reference List for other sources
+
+##### Book
+
+**Rule**
+> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). (Year), Book Title. Publisher. {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Moreton-Robinson, A. (Goenpul). (2020). Talkin’ Up to the White Woman. University of Queensland Press. {/.hanging-indent}
+
+##### Book Chapter
+
+**Rule**
+> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). (Year). Title of chapter. In Editor(s) initial(s). Surname. (Nation/Country/Language Group). (Ed. OR Eds.) Title of book, (page numbers). Publisher. {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}De Santolo, J. (Garrwa; Barunggum). (2019). The emergence of Yambar Jarnngkurr from Indigenous homelands: a creative Indigenous methodology. In J. Archibald (Stó:lō; St’at’imc), J. Lee-Morgan (Waikato-Tainui; Ngāti Mahuta) & J. De Santolo. (Garrwa; Barunnggum). (Eds.), Decolonizing research: Indigenous storywork as methodology (pp239-259). ZED Books LTD. {/.hanging-indent}
+
+##### Journal article
+
+**Rule**
+> {.hanging-indent}Author Surname, Initial(s). (Nation/Country/Language Group). (Year). Title of journal article. Journal name, Volume(edition), Page number(s). DOI address {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Couzens, V. (Keerray Wooroong; Gunditjimara). (2018). Woman spirit weerreeyaar; Weerreeyaar – woman spirit. The Lifted Brow, 40, 60. https://search.informit.org/doi/10.3316/informit.036973519792855 {/.hanging-indent}
+
+##### Website
+
+**Rule**
+> {.hanging-indent}Author name, Initials. (Nation/Country/Language Group). (Year, Month Day – if available) Title of page. Website name. URL {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Cromb, N. (Gamilaraay). (2022). So whose ‘Voice’ is it anyway?.  IndigenousX.  https://indigenousx.com.au/so-whose-voice-is-it-anyway/ {/.hanging-indent}
+
+#### Social Media
+
+##### X (formally Twitter)
+
+**Rule**
+> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). [@username]. (Year, Month Day) Text of tweet [description of audiovisuals]. [Post type]. Twitter. URL {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}O’Sullivan, S. (Wiradjuri). [@sandyosullivan]. (2022, February 20) Side note from my rant earlier today: there are an (unsurprisingly) large number of non-indigenous writers whose work focusses on Indigenous people [Tweet]. Twitter. https://x.com/sandyosullivan/status/1495310160012537862 {/.hanging-indent}
+
+##### YouTube
+
+**Rule**
+> {.hanging-indent}Surname, Initials. (Nation/Country/Language Group). [Channel name]. (Year, month day). Video title [Video]. YouTube. URL {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Sentence, N. (Wiradjuri). [ALIANational]. (2022, March 8). Panel session – Indigenous Australian sovereignties and Australian libraries: Who is in control? [Video]. YouTube. https://www.youtube.com/watch?v=-wrMQM8jY1A&t=2915s {/.hanging-indent}
+
+##### Blog
+
+**Rule**
+> {.hanging-indent}Author Surname, Initials. OR Author screen name {as it appears on the blog}. (Nation/Country/Language Group). Year, Month Day {of post}. Title of specific post. Site name (if needed). URL of specific post. {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Barrowcliffe, R. (Butchulla). 2020, June 17. #BlackLivesMatter and Archives in Australia. Indigenous Archives Collective. https://indigenousarchives.net/2020/06/17/blacklivesmatter-and-archives-in-australia/ {/.hanging-indent}
+
+##### Artwork
+
+**Rule**
+> {.hanging-indent}Author, A. (Nation/Country/Language Group). (Year). Title [Medium]. Museum name, Museum location. {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Evans, P (Gailaraay/Gomeroi). (2022) Waabigu Maragalgaa. [Ceremic]. Museum of Applied Arts and Sciences, Sydney NSW. {/.hanging-indent}
 
 ###### end-subtype-content
 
