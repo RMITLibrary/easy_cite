@@ -474,7 +474,7 @@ Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#s
 
 ###### start-subtype-content
 
-Usually, a chapter in an edited book is cited in-text unless you refer to an edited book as a whole. To cite one chapter only, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-1#subtype-10" target="_blank">Chapter in an edited book</a>.
+To cite one chapter only, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-1#subtype-10" target="_blank">Chapter in an edited book</a>.
 
 #### In-text citations
 
@@ -535,9 +535,11 @@ Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#s
 
 ###### start-subtype-content
 
+To cite a whole edited book, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-1#subtype-9" target="_blank">Chapter in an edited book</a>.
+
 #### In-text citations
 
-When paraphrasing or quoting from one chapter in an edited book, cite as you would for a book with one author:
+When paraphrasing or quoting from one chapter in an edited book, cite as you would for a book with one or more author(s):
 
 > The health of some demographic groups in Australia is far worse than the general population. (6)
 
