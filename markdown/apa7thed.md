@@ -2610,7 +2610,101 @@ Cited from personal communication does not appear in the reference list.
 
 ###### start-subtype-content
 
-[insert content here]
+Give attribution for the people/person or Nation, Country or Language group who are quoted within the article or are noted as the source of the Indigenous knowledges contained within the book, in both the in-text and reference list.
+
+####Book
+
+#####In-text citation
+
+#####Information prominent
+> {.hanging-indent}(Nation/Country/Language Group in Surname [Nation/Country/Language Group, year) {/.hanging-indent} 
+
+#####Author prominent
+> {.hanging-indent}Nation/Country/Language Group (in Surname [Nation/ Country/Language Group], year) {/.hanging-indent}
+
+**Examples**
+> {.hanging-indent}(Kaurareg, in McBride [Wailwan] & Smith [Yuin], 2021 {/.hanging-indent}
+
+> {.hanging-indent}Kaurareg (in McBride [Wailwan] & Smith [Yuin], 2021) {/.hanging-indent}
+
+####Reference List
+
+**Rule**
+> {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Indigenous Nation/Country/Language Group), & Author Surname, Initial(s). (Indigenous Nation/Country/Language Group). (Year). Title of book. Publisher. {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Kaurareg. In McBride, L. (Wailwan)., & Smith, M, (Yuin). (2021). Unsettled: an Australian Museum exhibition. Australian Museum Trust. {/.hanging-indent}
+
+####Journal Article
+
+#####In-text citation
+
+#####Information prominent
+> {.hanging-indent}(Surname [Nation/Country/Language Group] in Surname
+[Nation/Country/Language Group],year) {/.hanging-indent}  
+
+#####Author prominent
+> {.hanging-indent}Surname (Nation/Country/Language 
+Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
+
+**Examples**
+> {.hanging-indent}(Paton [Gunai] in Jones [Wiadjuri; Kamilaroi], 2014) {/.hanging-indent}
+
+> {.hanging-indent}As quoted by Paton (Gunai), (in Jones [Wiradjuri; Kamilaroi], 2014) {/.hanging-indent}
+
+####Reference list
+
+**Rule**
+> {.hanging-indent}Author Surname, Initial(s). (Nation/Country/Language Group). (Year). Title of journal article. Journal name, Volume(edition), Page number(s). DOI address {/.hanging-indent} 
+
+**Example**
+> {.hanging-indent}Paton (Gunai) in Jones, J. (Wiradjuri; Kamilaroi). (2014). Lighting the fire: Cultural renaissance in the south-east. Artlink, 34(2), 35-38. {/.hanging-indent}
+
+####Newspaper article
+
+#####In-text citation 
+
+#####Information prominent
+> {.hanging-indent}(Surname [Nation/Country/Language Group], in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
+
+#####Author prominent
+> {.hanging-indent}Surname (Nation/Country/Language Group), (in Surname [Nation/Country/Language Group], year {/.hanging-indent})
+
+**Examples**
+> {.hanging-indent}(Cutmore [Gomeroi] in Hromas & Saunders [Biripi], 2021) {/.hanging-indent}
+
+> {.hanging-indent}Cutmore [Gomeroi], (in Hromas & Saunders [Biripi], 2021) {/.hanging-indent}
+
+####Reference List
+
+**Rule**
+> {.hanging-indent}Surname, initial(s). (Nation/Country/Language Group). In Author Surname, Initial(s)., & Aurthor Surname, Initial(s). (Nation/Country/Language Group). (Year, Month Day) Title of article, Newspaper title. URL {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Cutmore,P. (Gomeroi). In Hromas, J., & Saunders, A (Biripi). (2021, February 14) Moree elders: proud, strong and always resilient. The Guardian. <a href="https://www.theguardian.com/australia-news/2021/feb/14/moree-elders-proud-strong-and-always-resilient">https://www.theguardian.com/australia-news/2021/feb/14/moree-elders-proud-strong-and-always-resilient</a> {/.hanging-indent}
+
+####Podcast
+
+#####In-text citation
+
+#####Information prominent
+> {.hanging-indent}(Surname [Nation/Country/Language Group], year) {/.hanging-indent}
+
+#####Author prominent
+> {.hanging-indent}Surname (Nation/Country/Language Group), (year) {/.hanging-indent}
+
+**Examples**
+> {.hanging-indent}(Lf [Yuwi], et al. 2022) {/.hanging-indent}
+
+> {.hanging-indent}As argued in Lf (Yuwi) et al. (2022) {/.hanging-indent}
+
+####Reference List
+
+**Rule**
+> {.hanging-indent}Host last name, Initials. (Nation/Country/Language Group) (Host). (Year, Month Day). Episode title (No. Episode number) [Audio podcast episode]. In Podcast name. Production Company. URL {/.hanging-indent}
+
+**Example**
+> {.hanging-indent}Lf, A. (Yuwi)., De Vries, T. (Gamilaroi; Dharug)., & Scobie, B. (Bundjalung). (Hosts). (2022, October 25). #3.3 Heartbreak high: the reboot [Audio podcast episode]. In Trash Tiddas. Awesome Blak. <a href="https://open.spotify.com/episode/3JUs9AkZZLubi4N3qv56ot?si=CkjR_6A7SYGR3gbSGWaDjw">https://open.spotify.com/episode/3JUs9AkZZLubi4N3qv56ot?si=CkjR_6A7SYGR3gbSGWaDjw</a> {/.hanging-indent}
 
 ###### end-subtype-content
 
