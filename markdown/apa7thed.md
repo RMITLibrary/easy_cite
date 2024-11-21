@@ -2533,68 +2533,68 @@ Cited from personal communication does not appear in the reference list.
 ##### Book
 
 **Rule**
-> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). (Year), Book Title. Publisher. {/.hanging-indent}
+> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). (Year), *Book Title*. Publisher. {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Moreton-Robinson, A. (Goenpul). (2020). Talkin’ Up to the White Woman. University of Queensland Press. {/.hanging-indent}
+> {.hanging-indent}Moreton-Robinson, A. (Goenpul). (2020). *Talkin’ Up to the White Woman*. University of Queensland Press. {/.hanging-indent}
 
 ##### Book Chapter
 
 **Rule**
-> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). (Year). Title of chapter. In Editor(s) initial(s). Surname. (Nation/Country/Language Group). (Ed. OR Eds.) Title of book, (page numbers). Publisher. {/.hanging-indent}
+> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). (Year). Title of chapter. In Editor(s) initial(s). Surname. (Nation/Country/Language Group). (Ed. OR Eds.) *Title of book*, *(page numbers)*. Publisher. {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}De Santolo, J. (Garrwa; Barunggum). (2019). The emergence of Yambar Jarnngkurr from Indigenous homelands: a creative Indigenous methodology. In J. Archibald (Stó:lō; St’at’imc), J. Lee-Morgan (Waikato-Tainui; Ngāti Mahuta) & J. De Santolo. (Garrwa; Barunnggum). (Eds.), Decolonizing research: Indigenous storywork as methodology (pp239-259). ZED Books LTD. {/.hanging-indent}
+> {.hanging-indent}De Santolo, J. (Garrwa; Barunggum). (2019). The emergence of Yambar Jarnngkurr from Indigenous homelands: a creative Indigenous methodology. In J. Archibald (Stó:lō; St’at’imc), J. Lee-Morgan (Waikato-Tainui; Ngāti Mahuta) & J. De Santolo. (Garrwa; Barunnggum). (Eds.), *Decolonizing research: Indigenous storywork as methodology* *(pp239-259)*. ZED Books LTD. {/.hanging-indent}
 
 ##### Journal article
 
 **Rule**
-> {.hanging-indent}Author Surname, Initial(s). (Nation/Country/Language Group). (Year). Title of journal article. Journal name, Volume(edition), Page number(s). DOI address {/.hanging-indent}
+> {.hanging-indent}Author Surname, Initial(s). (Nation/Country/Language Group). (Year). Title of journal article. *Journal name*, *Volume*(edition), Page number(s). DOI address {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Couzens, V. (Keerray Wooroong; Gunditjimara). (2018). Woman spirit weerreeyaar; Weerreeyaar – woman spirit. The Lifted Brow, 40, 60. https://search.informit.org/doi/10.3316/informit.036973519792855 {/.hanging-indent}
+> {.hanging-indent}Couzens, V. (Keerray Wooroong; Gunditjimara). (2018). Woman spirit weerreeyaar; Weerreeyaar – woman spirit. *The Lifted Brow*, *40*, 60. https://search.informit.org/doi/10.3316/informit.036973519792855 {/.hanging-indent}
 
 ##### Website
 
 **Rule**
-> {.hanging-indent}Author name, Initials. (Nation/Country/Language Group). (Year, Month Day – if available) Title of page. Website name. URL {/.hanging-indent}
+> {.hanging-indent}Author name, Initials. (Nation/Country/Language Group). (Year, Month Day – if available) *Title of page*. Website name. URL {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Cromb, N. (Gamilaraay). (2022). So whose ‘Voice’ is it anyway?.  IndigenousX.  https://indigenousx.com.au/so-whose-voice-is-it-anyway/ {/.hanging-indent}
+> {.hanging-indent}Cromb, N. (Gamilaraay). (2022). *So whose ‘Voice’ is it anyway?*.  IndigenousX.  https://indigenousx.com.au/so-whose-voice-is-it-anyway/ {/.hanging-indent}
 
 #### Social Media
 
 ##### X (formally Twitter)
 
 **Rule**
-> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). [@username]. (Year, Month Day) Text of tweet [description of audiovisuals]. [Post type]. Twitter. URL {/.hanging-indent}
+> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). [@username]. (Year, Month Day) *Text of tweet* [description of audiovisuals]. [Post type]. Twitter. URL {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}O’Sullivan, S. (Wiradjuri). [@sandyosullivan]. (2022, February 20) Side note from my rant earlier today: there are an (unsurprisingly) large number of non-indigenous writers whose work focusses on Indigenous people [Tweet]. Twitter. https://x.com/sandyosullivan/status/1495310160012537862 {/.hanging-indent}
+> {.hanging-indent}O’Sullivan, S. (Wiradjuri). [@sandyosullivan]. (2022, February 20) *Side note from my rant earlier today: there are an (unsurprisingly) large number of non-indigenous writers whose work focusses on Indigenous people* [Tweet]. Twitter. https://x.com/sandyosullivan/status/1495310160012537862 {/.hanging-indent}
 
 ##### YouTube
 
 **Rule**
-> {.hanging-indent}Surname, Initials. (Nation/Country/Language Group). [Channel name]. (Year, month day). Video title [Video]. YouTube. URL {/.hanging-indent}
+> {.hanging-indent}Surname, Initials. (Nation/Country/Language Group). [Channel name]. (Year, month day). *Video title* [Video]. YouTube. URL {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Sentence, N. (Wiradjuri). [ALIANational]. (2022, March 8). Panel session – Indigenous Australian sovereignties and Australian libraries: Who is in control? [Video]. YouTube. https://www.youtube.com/watch?v=-wrMQM8jY1A&t=2915s {/.hanging-indent}
+> {.hanging-indent}Sentence, N. (Wiradjuri). [ALIANational]. (2022, March 8). *Panel session – Indigenous Australian sovereignties and Australian libraries: Who is in control?* [Video]. YouTube. https://www.youtube.com/watch?v=-wrMQM8jY1A&t=2915s {/.hanging-indent}
 
 ##### Blog
 
 **Rule**
-> {.hanging-indent}Author Surname, Initials. OR Author screen name {as it appears on the blog}. (Nation/Country/Language Group). Year, Month Day {of post}. Title of specific post. Site name (if needed). URL of specific post. {/.hanging-indent}
+> {.hanging-indent}Author Surname, Initials. OR Author screen name {as it appears on the blog}. (Nation/Country/Language Group). Year, Month Day {of post}. *Title of specific post*. *Site name* (if needed). URL of specific post. {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Barrowcliffe, R. (Butchulla). 2020, June 17. #BlackLivesMatter and Archives in Australia. Indigenous Archives Collective. https://indigenousarchives.net/2020/06/17/blacklivesmatter-and-archives-in-australia/ {/.hanging-indent}
+> {.hanging-indent}Barrowcliffe, R. (Butchulla). 2020, June 17. *#BlackLivesMatter and Archives in Australia*. *Indigenous Archives Collective*. https://indigenousarchives.net/2020/06/17/blacklivesmatter-and-archives-in-australia/ {/.hanging-indent}
 
 ##### Artwork
 
 **Rule**
-> {.hanging-indent}Author, A. (Nation/Country/Language Group). (Year). Title [Medium]. Museum name, Museum location. {/.hanging-indent}
+> {.hanging-indent}Author, A. (Nation/Country/Language Group). (Year). *Title* [Medium]. Museum name, Museum location. {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Evans, P (Gailaraay/Gomeroi). (2022) Waabigu Maragalgaa. [Ceremic]. Museum of Applied Arts and Sciences, Sydney NSW. {/.hanging-indent}
+> {.hanging-indent}Evans, P (Gailaraay/Gomeroi). (2022) *Waabigu Maragalgaa*. [Ceremic]. Museum of Applied Arts and Sciences, Sydney NSW. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -2630,10 +2630,10 @@ Give attribution for the people/person or Nation, Country or Language group who 
 ####Reference List
 
 **Rule**
-> {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Indigenous Nation/Country/Language Group), & Author Surname, Initial(s). (Indigenous Nation/Country/Language Group). (Year). Title of book. Publisher. {/.hanging-indent}
+> {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Indigenous Nation/Country/Language Group), & Author Surname, Initial(s). (Indigenous Nation/Country/Language Group). (Year). *Title of book*. Publisher. {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Kaurareg. In McBride, L. (Wailwan)., & Smith, M, (Yuin). (2021). Unsettled: an Australian Museum exhibition. Australian Museum Trust. {/.hanging-indent}
+> {.hanging-indent}Kaurareg. In McBride, L. (Wailwan)., & Smith, M, (Yuin). (2021). *Unsettled: an Australian Museum exhibition*. Australian Museum Trust. {/.hanging-indent}
 
 ####Journal Article
 
@@ -2655,10 +2655,10 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 ####Reference list
 
 **Rule**
-> {.hanging-indent}Author Surname, Initial(s). (Nation/Country/Language Group). (Year). Title of journal article. Journal name, Volume(edition), Page number(s). DOI address {/.hanging-indent} 
+> {.hanging-indent}Author Surname, Initial(s). (Nation/Country/Language Group). (Year). Title of journal article. *Journal name*, *Volume*(edition), Page number(s). DOI address {/.hanging-indent} 
 
 **Example**
-> {.hanging-indent}Paton (Gunai) in Jones, J. (Wiradjuri; Kamilaroi). (2014). Lighting the fire: Cultural renaissance in the south-east. Artlink, 34(2), 35-38. {/.hanging-indent}
+> {.hanging-indent}Paton (Gunai) in Jones, J. (Wiradjuri; Kamilaroi). (2014). Lighting the fire: Cultural renaissance in the south-east. *Artlink*, *34*(2), 35-38. {/.hanging-indent}
 
 ####Newspaper article
 
@@ -2678,10 +2678,10 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 ####Reference List
 
 **Rule**
-> {.hanging-indent}Surname, initial(s). (Nation/Country/Language Group). In Author Surname, Initial(s)., & Aurthor Surname, Initial(s). (Nation/Country/Language Group). (Year, Month Day) Title of article, Newspaper title. URL {/.hanging-indent}
+> {.hanging-indent}Surname, initial(s). (Nation/Country/Language Group). In Author Surname, Initial(s)., & Aurthor Surname, Initial(s). (Nation/Country/Language Group). (Year, Month Day) Title of article, *Newspaper title*. URL {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Cutmore,P. (Gomeroi). In Hromas, J., & Saunders, A (Biripi). (2021, February 14) Moree elders: proud, strong and always resilient. The Guardian. <a href="https://www.theguardian.com/australia-news/2021/feb/14/moree-elders-proud-strong-and-always-resilient">https://www.theguardian.com/australia-news/2021/feb/14/moree-elders-proud-strong-and-always-resilient</a> {/.hanging-indent}
+> {.hanging-indent}Cutmore,P. (Gomeroi). In Hromas, J., & Saunders, A (Biripi). (2021, February 14) Moree elders: proud, strong and always resilient. *The Guardian*. <a href="https://www.theguardian.com/australia-news/2021/feb/14/moree-elders-proud-strong-and-always-resilient">https://www.theguardian.com/australia-news/2021/feb/14/moree-elders-proud-strong-and-always-resilient</a> {/.hanging-indent}
 
 ####Podcast
 
@@ -2701,10 +2701,10 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 ####Reference List
 
 **Rule**
-> {.hanging-indent}Host last name, Initials. (Nation/Country/Language Group) (Host). (Year, Month Day). Episode title (No. Episode number) [Audio podcast episode]. In Podcast name. Production Company. URL {/.hanging-indent}
+> {.hanging-indent}Host last name, Initials. (Nation/Country/Language Group) (Host). (Year, Month Day). Episode title (No. Episode number) [Audio podcast episode]. In *Podcast name*. Production Company. URL {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Lf, A. (Yuwi)., De Vries, T. (Gamilaroi; Dharug)., & Scobie, B. (Bundjalung). (Hosts). (2022, October 25). #3.3 Heartbreak high: the reboot [Audio podcast episode]. In Trash Tiddas. Awesome Blak. <a href="https://open.spotify.com/episode/3JUs9AkZZLubi4N3qv56ot?si=CkjR_6A7SYGR3gbSGWaDjw">https://open.spotify.com/episode/3JUs9AkZZLubi4N3qv56ot?si=CkjR_6A7SYGR3gbSGWaDjw</a> {/.hanging-indent}
+> {.hanging-indent}Lf, A. (Yuwi)., De Vries, T. (Gamilaroi; Dharug)., & Scobie, B. (Bundjalung). (Hosts). (2022, October 25). #3.3 Heartbreak high: the reboot [Audio podcast episode]. In *Trash Tiddas*. Awesome Blak. <a href="https://open.spotify.com/episode/3JUs9AkZZLubi4N3qv56ot?si=CkjR_6A7SYGR3gbSGWaDjw">https://open.spotify.com/episode/3JUs9AkZZLubi4N3qv56ot?si=CkjR_6A7SYGR3gbSGWaDjw</a> {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -2740,10 +2740,10 @@ Following standard APA 7th but give attribution to the Indigenous person/s who p
 ####Reference List
 
 **Rule**
-> {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Year). Title of book. Publisher. {/.hanging-indent}
+> {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Year). *Title of book*. Publisher. {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Awabakal. In Threlkeld, L. E. & Fraser, J. (1982) An Australian language: as spoken by the Awabakal, the people of Awaba or Lake Macquarie (near Newcastle, New South Wales) being an account of their language, traditions, and customs. Govt. Printer, Sydney. {/.hanging-indent}
+> {.hanging-indent}Awabakal. In Threlkeld, L. E. & Fraser, J. (1982). *An Australian language: as spoken by the Awabakal, the people of Awaba or Lake Macquarie (near Newcastle, New South Wales) being an account of their language, traditions, and customs*. Govt. Printer, Sydney. {/.hanging-indent}
 
 ####Journal Article
 
@@ -2763,10 +2763,10 @@ Following standard APA 7th but give attribution to the Indigenous person/s who p
 ####Reference List
 
 **Rule**
-> {.hanging-indent}Nation/Country/Language Group in Author Surname, Initial(s). (Year). Title of journal article. Journal name, Volume(edition), Page number(s). DOI address {/.hanging-indent}
+> {.hanging-indent}Nation/Country/Language Group in Author Surname, Initial(s). (Year). Title of journal article. *Journal name*, *Volume*(edition), Page number(s). DOI address {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Narrangga in Nunn, P., & Reid, N. (2015) Aboriginal Memories of Inundation of the Australian Coast Dating from More than 7000 Years Ago. Australian Geographer, 47(1), 11-47. <a href="https://10.1080/00049182.2015.1077539">https://10.1080/00049182.2015.1077539</a> {/.hanging-indent}
+> {.hanging-indent}Narrangga in Nunn, P., & Reid, N. (2015) Aboriginal Memories of Inundation of the Australian Coast Dating from More than 7000 Years Ago. *Australian Geographer*, *47*(1), 11-47. <a href="https://10.1080/00049182.2015.1077539">https://10.1080/00049182.2015.1077539</a> {/.hanging-indent}
 
 ####Newspaper Article
 
@@ -2786,10 +2786,10 @@ Following standard APA 7th but give attribution to the Indigenous person/s who p
 ####Reference List
 
 **Rule**
-> {.hanging-indent}Nation/Country/Language Group (Year, Month Day). Title of article. Newspaper title. URL {/.hanging-indent}
+> {.hanging-indent}Nation/Country/Language Group (Year, Month Day). Title of article. *Newspaper title*. URL {/.hanging-indent}
 
 **Example**
-> {.hanging-indent}Wiradjuri in (1938, December 15) Aboriginal Place Names. Mudgee Guardian and North-Western Representative {/.hanging-indent}
+> {.hanging-indent}Wiradjuri in (1938, December 15) Aboriginal Place Names. *Mudgee Guardian and North-Western Representative* {/.hanging-indent}
 
 ###### end-subtype-content
 
