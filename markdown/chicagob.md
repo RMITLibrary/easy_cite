@@ -77,9 +77,9 @@ The **author-date** format requires that sources are acknowledged by placing the
 
 - Use in-text citations to acknowledge each author or source of information used within your writing either by paraphrasing or using a direct quote.
 
-- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/content/paraphrasing" target="_blank">Learning lab: Guide to paraphrasing</a> (opens in a new tab)
+- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/content/paraphrasing">Learning lab: Guide to paraphrasing</a> (opens in a new tab)
 
-- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/content/inserting-references" target="_blank">Learning Lab: Guide to inserting references</a> (opens in a new tab)
+- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/content/inserting-references">Learning Lab: Guide to inserting references</a> (opens in a new tab)
 
 - For specific advice on each reference you must determine the type of resource ie. book, journal article etc. and follow the recommended advice within this guide.
 
@@ -1763,7 +1763,7 @@ Make sure you refer to the figure in your writing and include the figure number.
 #### Captions for your own Work
 
 - Images you create of your own work are not usually referenced. However, a caption such as “Figure 2. Illustration by author” or “Figure 3. Draft sketches” might be appropriate when other images in your assignment are referenced.
-- See <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-5#stn-9#subtype-44">AI-generated content</a> for examples of how to caption an image you produce using an AI tool.
+- See **AI-generated content** in this style guide for examples of how to caption an image you produce using an AI tool.
 
 Figure number. Description or explanation.
 
@@ -1771,11 +1771,11 @@ Figure number. Description or explanation.
 
 #### Copyright information for the coach image
 
-This <a href="https://www.metmuseum.org/art/collection/search/378235" target="_blank">coach image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
+This <a href="https://www.metmuseum.org/art/collection/search/378235">coach image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
 #### Copyright information for the tapestry image
 
-This <a href="https://www.metmuseum.org/art/collection/search/39733" target="_blank">Dragon tapestry image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
+This <a href="https://www.metmuseum.org/art/collection/search/39733">Dragon tapestry image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
 ###### end-subtype-content
 

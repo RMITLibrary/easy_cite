@@ -228,7 +228,7 @@ Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for 
 
 #### All other abbreviations
 
-For all abbreviations, including for words, journal titles, magazine titles, conferencing proceedings, and publishers, see Section IV for **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
+For all abbreviations, including for words, journal titles, magazine titles, conferencing proceedings, and publishers, see Section IV for **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
 
 #### Acronyms in-text
 
@@ -707,9 +707,9 @@ Somerset, UK: Wiley-IEEE Press. [Online]. Available: doi.org/10.1002/97811180290
 ###### start-subtype-content
 
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -755,9 +755,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -807,9 +807,9 @@ List both authors, separating the two author names with ‘and’.
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -859,9 +859,9 @@ List all authors (up to six), separating the last two author names with ‘and�
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -911,9 +911,9 @@ If there are more than six authors listed, use *et al*. (in italics) after the f
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -959,9 +959,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -1007,9 +1007,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -1757,7 +1757,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration">Assessment Declaration</a> (opens in a new tab).
 
 The publication, IEEE Reference Guide (2020) does not provide guidelines on how to cite your own work. The following examples show how to cite your own work that you have previously submitted for assessment.
 

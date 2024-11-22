@@ -143,7 +143,7 @@ A secondary citation is used when you acknowledge the work of an author that you
 
 It is always preferable to read and reference the original source if it is available. When that is not possible, ask your educator if a secondary citation is acceptable.
 
-Secondary citation does not appear in <a href="http://www.nlm.nih.gov/citingmedicine" target="_blank">*Citing medicine: the NLM style guide for authors, editors, and publishers* (2nd ed.)</a> or <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/tcai14/alma9921837011901341" target="_blank">*The AMA manual of style: a guide for authors and editors* (11th ed.)</a> upon which the Vancouver style is based. The recommendation below is from <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/tcai14/alma9910090260001341" target="_blank">*The AMA manual of style: a guide for authors and editors* (10th ed.)</a> .
+Secondary citation does not appear in <a href="http://www.nlm.nih.gov/citingmedicine">*Citing medicine: the NLM style guide for authors, editors, and publishers* (2nd ed.)</a> or <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/tcai14/alma9921837011901341">*The AMA manual of style: a guide for authors and editors* (11th ed.)</a> upon which the Vancouver style is based. The recommendation below is from <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/tcai14/alma9910090260001341">*The AMA manual of style: a guide for authors and editors* (10th ed.)</a> .
 
 The Vancouver style requires you to distinguish between **citation** (works mentioned or paraphrased) and **quotation** (works quoted) by the subsequent author.
 
@@ -197,7 +197,7 @@ In your reference list, you need to reference Kato et al. **quoted by** Prazar.
 
 - Use sentence case for minimal capitalisation. For book titles and journal article titles, capitalise the first word and proper nouns only.
 
-- For journal titles, use the abbreviated format. To find the correct title abbreviation, go to <a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/" target="_blank">Journals in NCBI Databases</a>  and then enter the journal’s full title to display its abbreviation.
+- For journal titles, use the abbreviated format. To find the correct title abbreviation, go to <a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/">Journals in NCBI Databases</a>  and then enter the journal’s full title to display its abbreviation.
 
 #### Authors
 
@@ -334,7 +334,7 @@ Paraphrasing is when you use someone else's ideas or research and express them i
 
 Number each source in the order in which they **first** appear in your text. Your in-text citation will correspond to the same number in the reference list. Use the same number whenever you cite that source.
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### In-text citation: direct quote
 
@@ -344,11 +344,11 @@ A direct quote is when you use someone else's exact words. Acknowledge the autho
 
 > While the public may value nurses highly, "nursing ranks low in career desirability". (1 p47)
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### Reference list
 
-Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list. 
+Follow **Using Vancouver: General rules for the reference list** in this style guide to format your reference list. 
 
 When following the example below it is important to:
 
@@ -388,7 +388,7 @@ However, if you wish to include the authors' names in your sentence, use the fam
 
 > Morton et al. (2) suggest that the use of binomial control charts ...
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### In-text citation: direct quote
 
@@ -402,7 +402,7 @@ However, if you wish to write the authors' names in your sentence, use the famil
 
 > According to Morton et al., "the possibility of bias should be kept in mind" (2 p132) when using any chart type to...
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### Reference list
 
@@ -426,7 +426,7 @@ When there are **more than six authors**, list the first six, followed by **et a
 
 > 3. Goering RV, Dockrell HM, Wakelin D, Zuckerman M, Chiodini PL, Roitt IM, et al. Mims' medical microbiology. 4th ed. Philadelphia (PA): Mosby Elsevier; 2008.
 
-Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
+Follow **Using Vancouver: General rules for the reference list** in this style guide to format your reference list.
 
 ###### end-subtype-content
 
@@ -445,7 +445,7 @@ Whether you are paraphrasing or using a direct quote, in-text citations do **not
 
 > Colbert et al. (4) highlight the important role that skin plays in protecting the body.
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### Reference list
 
@@ -461,7 +461,7 @@ There is no need to include edition information if a book is a first edition, or
 
 > 4. Colbert BJ, Ankney J, Lee KT. Anatomy, physiology & disease: an interactive journey for health professionals. 2nd ed. Upper Saddle River (NJ): Pearson Education; 2013.
 
-Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
+Follow **Using Vancouver: General rules for the reference list** in this style guide to format your reference list.
 
 ###### end-subtype-content
 
@@ -474,7 +474,7 @@ Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#s
 
 ###### start-subtype-content
 
-To cite one chapter only, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-1#subtype-10" target="_blank">Chapter in an edited book</a>.
+To cite one chapter only, see **Chapter in an edited book** in this style guide</a>.
 
 #### In-text citations
 
@@ -486,7 +486,7 @@ Cite as you would for a book with an author or authors. Instead of author names,
 
 > Changes to the nature of healthcare as they relate to inclusive practice are outlined by Davis et al. (5)
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### Reference List entry
 
@@ -522,7 +522,7 @@ When there are **more than six editors**, list the first six, followed by **et a
 
 > 7. Bast RC Jr, Croce CM, Hait WN, Hong WK, Kufe DW, Piccart-Gebhart M, et al., editors. Holland-Frei cancer medicine. 9th ed. Hoboken (NJ): Wiley; 2017.
 
-Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
+Follow **Using Vancouver: General rules for the reference list** in this style guide to format your reference list.
 
 ###### end-subtype-content
 
@@ -535,7 +535,7 @@ Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#s
 
 ###### start-subtype-content
 
-To cite a whole edited book, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-1#subtype-9" target="_blank">Chapter in an edited book</a>.
+To cite a whole edited book, see **Chapter in an edited book** in this style guide.</a>.
 
 #### In-text citations
 
@@ -545,7 +545,7 @@ When paraphrasing or quoting from one chapter in an edited book, cite as you wou
 
 > According to Williams (6), The National Health Survey provides valuable insight into ...
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### Reference List entry
 
@@ -557,7 +557,7 @@ Cite as you would for an edited book, preceded by these additional parts to iden
   
 - page numbers of the chapter. 
 
-When the chapter is in an edited ebook, add the additional elements described in <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-1#subtype-11">Ebook from a database</a>
+When the chapter is in an edited ebook, add the additional elements described in **Ebook from a database** in this style guide.</a>
 
 **Rule**
 
@@ -573,7 +573,7 @@ When there are multiple book editors, format their names as you would for a book
 
 > 9. Williams G. Population health and health outcomes. In: Davis J, Birks M, Chapman YB, editors. Inclusive practice for health professionals. South Melbourne (Australia): Oxford University Press; 2015. p. 128-60.
 
-Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
+Follow **Using Vancouver: General rules for the reference list** in this style guide to format your reference list.
 
 ###### end-subtype-content
 
@@ -594,7 +594,7 @@ When paraphrasing or quoting from an e-book in a database, cite as you would for
 
 > According to Wagner (10), the cortical brain blood flow in imprisoned violent lawbreakers is lower than that of the general population.
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### Reference list
 
@@ -622,7 +622,7 @@ For an **ebook chapter**, format it as you would a chapter in an edited book and
 
 > 11. Hetherington K, Hamlet N. Health and homelessness. In: Bonner A, editor. Social determinants of health: an interdisciplinary approach to social inequality and well-being. [Internet]. Bristol (United Kingdom): Policy Press; 2018 [cited 2024 Jul 5]. p. 195-210. Available from: Cambridge University Press Online Books.
 
-Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list.
+Follow **Using Vancouver: General rules for the reference list** in this style guide to format your reference list.
 
 ###### end-subtype-content
 
@@ -653,7 +653,7 @@ Paraphrasing is when you use someone else's ideas or research and express them i
 
 Number each source in the order in which they **first** appear in your text. Your in-text citation will correspond to the same number in the reference list. Use the same number whenever you cite that source.
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 >In his research, Musiek (12) found that sleep and the circadian system ...
 
@@ -663,11 +663,11 @@ A direct quote is when you use someone else's exact words. Acknowledge the autho
 
 > Whilst there has been widespread description of circadian rhythm abnormalities in individuals with symptoms of AD dementia, there are "discrepancies regarding rhythms in temperature and cortisol secretion." (12 p87)
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### Reference list
 
-Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list. 
+Follow **Using Vancouver: General rules for the reference list** in this style guide to format your reference list. 
 
 When following the example below it is important to:
 
@@ -680,7 +680,7 @@ When following the example below it is important to:
 
 **Abbreviated journal titles**
 
-To find the correct title abbreviation, go to <a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/" target="_blank">Journals in NCBI Databases</a>  and then enter the journal’s full title to display its abbreviation.
+To find the correct title abbreviation, go to <a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/">Journals in NCBI Databases</a>  and then enter the journal’s full title to display its abbreviation.
 
 **Rule**
 
@@ -713,7 +713,7 @@ However, if you wish to include the authors' names in your sentence, use the fam
 
 > Marinovich et al. (14) conducted a meta-analysis to investigate the accuracy of magnetic resonance imaging to detect breast cancer.
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### Reference list
 
@@ -739,7 +739,7 @@ When there are **more than six authors**, list the first six, followed by **et a
 
 > 14. Marinovich ML, Houssami N, Macaskill P, Sardanelli F, Irwig L, Mamounas EP, et al. Meta-analysis of magnetic resonance imaging in detecting residual breast cancer after neoadjuvant therapy. J Natl Cancer Inst. 2013 Mar 6;105(5):321-33.
 
-Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list. 
+Follow **Using Vancouver: General rules for the reference list** in this style guide to format your reference list. 
 
 ###### end-subtype-content
 
@@ -756,7 +756,7 @@ Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#s
 
 When paraphrasing or directly quoting an online journal article, cite as you would for a journal article with one or multiple authors.
 
-For more explanation, see <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-1" target="_blank">Using Vancouver: General rules for in-text citations</a>.
+For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
 
 #### Reference list
 
@@ -772,7 +772,7 @@ When a URL ends with a forward slash, end the citation with a full stop.
 
 When a URL does not end with a forward slash, do **not** end the citation with a full stop.
 
-Follow <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-7#stn-0#subtype-4" target="_blank">Using Vancouver: General rules for the reference list</a> to format your reference list. 
+Follow **Using Vancouver: General rules for the reference list** in this style guide to format your reference list. 
 
 **Rule**
 
@@ -1379,9 +1379,9 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration">Assessment Declaration</a> (opens in a new tab).
 
-The publication <a href="https://www.ncbi.nlm.nih.gov/books/NBK7256/" target="_blank">Citing Medicine</a> (opens in a new tab) on which this information is based does not provide guidelines on how to cite your own work. The following is based on how to cite dissertations and theses.
+The publication <a href="https://www.ncbi.nlm.nih.gov/books/NBK7256/">Citing Medicine</a> (opens in a new tab) on which this information is based does not provide guidelines on how to cite your own work. The following is based on how to cite dissertations and theses.
 
 If you cite or quote your previous work, treat yourself as the author and your own previous course work as an unpublished paper.
 

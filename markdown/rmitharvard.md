@@ -3512,7 +3512,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-Take care to give accurate and complete details about legislation (Acts) and legal cases. The *Legal Material* section of the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/legal-material" target="_blank">Australian Government Style Manual</a> (opens in a new tab) provides more detail and examples regarding the use of legal materials.
+Take care to give accurate and complete details about legislation (Acts) and legal cases. The *Legal Material* section of the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/legal-material">Australian Government Style Manual</a> (opens in a new tab) provides more detail and examples regarding the use of legal materials.
 
 For **Acts of Parliament (legislation)** and **Bills**, a pinpoint is a reference to a specific page, paragraph or other section of the Act, e.g. pt 3 div 2 s 16, add **only** if applicable. Pinpoint references should appear as abbreviations and a number separated by a space. Pinpoints are placed after the abbreviated jurisdiction.
 
@@ -3648,7 +3648,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 **Note:** Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/my-course/assessment-results/assessment" target="_blank">Assessment Declaration</a>.
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/my-course/assessment-results/assessment">Assessment Declaration</a>.
 
 The *Australian Government Style Manual (AGSM)* does not provide information on how to cite your own work. The following is based on how to cite theses from the AGSM.
 

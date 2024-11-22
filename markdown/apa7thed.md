@@ -2668,7 +2668,7 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 > {.hanging-indent}(Surname [Nation/Country/Language Group], in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 #####Author prominent
-> {.hanging-indent}Surname (Nation/Country/Language Group), (in Surname [Nation/Country/Language Group], year {/.hanging-indent})
+> {.hanging-indent}Surname (Nation/Country/Language Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 **Examples**
 > {.hanging-indent}(Cutmore [Gomeroi] in Hromas & Saunders [Biripi], 2021) {/.hanging-indent}
