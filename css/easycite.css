@@ -20,11 +20,11 @@ nav {
 	font-size: 1.8rem !important;
 }
 .ectitle:hover{
-    color: #E61E2A;	
+    color: #e60028;	
 	text-decoration: none;
   }
 .ectitle:focus {
-    color: #E61E2A;
+    color: #e60028;
 	outline: 1px solid #000054 !important;
   }
 .ectitle.active:focus{
@@ -86,7 +86,7 @@ nav {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    border-bottom: solid #e61e2a !important;
+    border-bottom: solid #e60028 !important;
 	border-width: 0px 0px 4px 0px !important;
 	border-top: hidden !important;
 	border-bottom-style: inset !important;
@@ -105,7 +105,7 @@ nav {
   	height: 100%;
   	left: 0;
   	padding: 12px 12px 10px;
-  	background-color: #e61e2a;
+  	background-color: #e60028;
 	border-width: 0px 0px 0px 0px !important;
 }
 @media (min-width: 768px) {
@@ -134,7 +134,7 @@ nav {
 	outline: hidden;
 }
 .mynavtabs:focus {
-  	background: #e61e2a !important;
+  	background: #e60028 !important;
     color: #ffffff !important;
 	text-decoration: none !important;
 	outline: hidden !important;
@@ -147,7 +147,7 @@ nav {
 }
 
 .nav-link.active {
-	background: #e61e2a !important;
+	background: #e60028 !important;
     color: #ffffff !important;
 	text-decoration: none !important;
 	outline: hidden !important;
@@ -294,11 +294,11 @@ img {
     transition-duration: 0.2s;
   }
 .notabutton:hover{
-    color: #E61E2A;	
+    color: #e60028;	
 	text-decoration: none;
   }
 .notabutton:focus {
-    color: #E61E2A;
+    color: #e60028;
 	outline: 1px solid #000054 !important;
   }
 .notabutton.active:focus{
@@ -317,11 +317,11 @@ img {
 	font-size: 0.9rem;
 }
 .footerlinks:hover {
-	color: #e61e2a;
+	color: #e60028;
 	text-decoration: underline;
 }
 .footerlinks:focus {
-	color: #e61e2a;
+	color: #e60028;
 	text-decoration: underline;
 }
 .modallinks {
@@ -329,11 +329,11 @@ img {
 	text-decoration: none;
 }
 .modallinks:hover {
-	color: #e61e2a;
+	color: #e60028;
 	text-decoration: underline;
 }
 .modallinks:focus {
-	color: #e61e2a;
+	color: #e60028;
 	text-decoration: underline;
 }
 /** tooltip styles
