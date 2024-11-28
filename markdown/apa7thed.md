@@ -2504,13 +2504,15 @@ Follow APA 7th standard and include attribution of the author/s affiliated Natio
 
 #### In-text citation
 
-##### Information prominent
+The in-text citation follows the same format for all sources, except for personal communication. Please see further down for the in-text citation for personal communication. 
+
+**Rule- Information prominent**
 > {.hanging-indent}(Surname, Nation/Country/Language Group, year) {/.hanging-indent}
 
-##### Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Surname (Nation/Country/Language Group) (year) {/.hanging-indent}
 
-##### Examples
+**Examples**
 > {.hanging-indent}(Moreton-Robinson, Goenpul, 2020) {/.hanging-indent}
 
 > {.hanging-indent}As argued by Moreton-Robinson (Goenpul) (2020) {/.hanging-indent}
@@ -2519,10 +2521,10 @@ Follow APA 7th standard and include attribution of the author/s affiliated Natio
 
 ##### In-text citation
 
-##### Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Surname, Nation/Country/Language Group, personal communication, Month Day, Year) {/.hanging-indent}
 
-##### Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Surname (Nation/Country/Language Group). (personal communication, Month Day, Year) {/.hanging-indent}
 
 ##### Reference List
@@ -2580,7 +2582,7 @@ Cited from personal communication does not appear in the reference list.
 **Example**
 > {.hanging-indent}Sentence, N. (Wiradjuri). [ALIANational]. (2022, March 8). *Panel session – Indigenous Australian sovereignties and Australian libraries: Who is in control?* [Video]. YouTube. https://www.youtube.com/watch?v=-wrMQM8jY1A&t=2915s {/.hanging-indent}
 
-##### Blog
+#### Blog
 
 **Rule**
 > {.hanging-indent}Author Surname, Initials. OR Author screen name {as it appears on the blog}. (Nation/Country/Language Group). Year, Month Day {of post}. *Title of specific post*. *Site name* (if needed). URL of specific post. {/.hanging-indent}
@@ -2588,7 +2590,7 @@ Cited from personal communication does not appear in the reference list.
 **Example**
 > {.hanging-indent}Barrowcliffe, R. (Butchulla). 2020, June 17. *#BlackLivesMatter and Archives in Australia*. *Indigenous Archives Collective*. https://indigenousarchives.net/2020/06/17/blacklivesmatter-and-archives-in-australia/ {/.hanging-indent}
 
-##### Artwork
+#### Artwork
 
 **Rule**
 > {.hanging-indent}Author, A. (Nation/Country/Language Group). (Year). *Title* [Medium]. Museum name, Museum location. {/.hanging-indent}
