@@ -2617,7 +2617,7 @@ Give attribution for the people/person or Nation, Country or Language group who 
 #####In-text citation
 
 #####Information prominent
-> {.hanging-indent}(Nation/Country/Language Group in Surname [Nation/Country/Language Group, year) {/.hanging-indent} 
+> {.hanging-indent}(Nation/Country/Language Group in Surname [Nation/Country/Language Group], year) {/.hanging-indent} 
 
 #####Author prominent
 > {.hanging-indent}Nation/Country/Language Group (in Surname [Nation/ Country/Language Group], year) {/.hanging-indent}
