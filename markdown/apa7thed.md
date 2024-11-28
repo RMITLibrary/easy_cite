@@ -2618,10 +2618,10 @@ Give attribution for the people/person or Nation, Country or Language group who 
 
 #####In-text citation
 
-#####Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Nation/Country/Language Group in Surname [Nation/Country/Language Group], year) {/.hanging-indent} 
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Nation/Country/Language Group (in Surname [Nation/ Country/Language Group], year) {/.hanging-indent}
 
 **Examples**
@@ -2629,7 +2629,7 @@ Give attribution for the people/person or Nation, Country or Language group who 
 
 > {.hanging-indent}Kaurareg (in McBride [Wailwan] & Smith [Yuin], 2021) {/.hanging-indent}
 
-####Reference List
+#####Reference List
 
 **Rule**
 > {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Indigenous Nation/Country/Language Group), & Author Surname, Initial(s). (Indigenous Nation/Country/Language Group). (Year). *Title of book*. Publisher. {/.hanging-indent}
@@ -2641,11 +2641,11 @@ Give attribution for the people/person or Nation, Country or Language group who 
 
 #####In-text citation
 
-#####Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Surname [Nation/Country/Language Group] in Surname
 [Nation/Country/Language Group],year) {/.hanging-indent}  
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Surname (Nation/Country/Language 
 Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
@@ -2654,7 +2654,7 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 > {.hanging-indent}As quoted by Paton (Gunai), (in Jones [Wiradjuri; Kamilaroi], 2014) {/.hanging-indent}
 
-####Reference list
+#####Reference list
 
 **Rule**
 > {.hanging-indent}Author Surname, Initial(s). (Nation/Country/Language Group). (Year). Title of journal article. *Journal name*, *Volume*(edition), Page number(s). DOI address {/.hanging-indent} 
@@ -2666,10 +2666,10 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 #####In-text citation 
 
-#####Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Surname [Nation/Country/Language Group], in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Surname (Nation/Country/Language Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 **Examples**
@@ -2677,7 +2677,7 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 > {.hanging-indent}Cutmore [Gomeroi], (in Hromas & Saunders [Biripi], 2021) {/.hanging-indent}
 
-####Reference List
+#####Reference List
 
 **Rule**
 > {.hanging-indent}Surname, initial(s). (Nation/Country/Language Group). In Author Surname, Initial(s)., & Aurthor Surname, Initial(s). (Nation/Country/Language Group). (Year, Month Day) Title of article, *Newspaper title*. URL {/.hanging-indent}
@@ -2689,10 +2689,10 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 #####In-text citation
 
-#####Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Surname (Nation/Country/Language Group), (year) {/.hanging-indent}
 
 **Examples**
@@ -2700,7 +2700,7 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 > {.hanging-indent}As argued in Lf (Yuwi) et al. (2022) {/.hanging-indent}
 
-####Reference List
+#####Reference List
 
 **Rule**
 > {.hanging-indent}Host last name, Initials. (Nation/Country/Language Group) (Host). (Year, Month Day). Episode title (No. Episode number) [Audio podcast episode]. In *Podcast name*. Production Company. URL {/.hanging-indent}
