@@ -2504,13 +2504,15 @@ Follow APA 7th standard and include attribution of the author/s affiliated Natio
 
 #### In-text citation
 
-##### Information prominent
+The in-text citation follows the same format for all sources, except for personal communication. Please see further down for the in-text citation for personal communication. 
+
+**Rule- Information prominent**
 > {.hanging-indent}(Surname, Nation/Country/Language Group, year) {/.hanging-indent}
 
-##### Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Surname (Nation/Country/Language Group) (year) {/.hanging-indent}
 
-##### Examples
+**Examples**
 > {.hanging-indent}(Moreton-Robinson, Goenpul, 2020) {/.hanging-indent}
 
 > {.hanging-indent}As argued by Moreton-Robinson (Goenpul) (2020) {/.hanging-indent}
@@ -2519,10 +2521,10 @@ Follow APA 7th standard and include attribution of the author/s affiliated Natio
 
 ##### In-text citation
 
-##### Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Surname, Nation/Country/Language Group, personal communication, Month Day, Year) {/.hanging-indent}
 
-##### Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Surname (Nation/Country/Language Group). (personal communication, Month Day, Year) {/.hanging-indent}
 
 ##### Reference List
@@ -2580,7 +2582,7 @@ Cited from personal communication does not appear in the reference list.
 **Example**
 > {.hanging-indent}Sentence, N. (Wiradjuri). [ALIANational]. (2022, March 8). *Panel session – Indigenous Australian sovereignties and Australian libraries: Who is in control?* [Video]. YouTube. https://www.youtube.com/watch?v=-wrMQM8jY1A&t=2915s {/.hanging-indent}
 
-##### Blog
+#### Blog
 
 **Rule**
 > {.hanging-indent}Author Surname, Initials. OR Author screen name {as it appears on the blog}. (Nation/Country/Language Group). Year, Month Day {of post}. *Title of specific post*. *Site name* (if needed). URL of specific post. {/.hanging-indent}
@@ -2588,7 +2590,7 @@ Cited from personal communication does not appear in the reference list.
 **Example**
 > {.hanging-indent}Barrowcliffe, R. (Butchulla). 2020, June 17. *#BlackLivesMatter and Archives in Australia*. *Indigenous Archives Collective*. https://indigenousarchives.net/2020/06/17/blacklivesmatter-and-archives-in-australia/ {/.hanging-indent}
 
-##### Artwork
+#### Artwork
 
 **Rule**
 > {.hanging-indent}Author, A. (Nation/Country/Language Group). (Year). *Title* [Medium]. Museum name, Museum location. {/.hanging-indent}
@@ -2616,10 +2618,10 @@ Give attribution for the people/person or Nation, Country or Language group who 
 
 #####In-text citation
 
-#####Information prominent
-> {.hanging-indent}(Nation/Country/Language Group in Surname [Nation/Country/Language Group, year) {/.hanging-indent} 
+**Rule- Information prominent**
+> {.hanging-indent}(Nation/Country/Language Group in Surname [Nation/Country/Language Group], year) {/.hanging-indent} 
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Nation/Country/Language Group (in Surname [Nation/ Country/Language Group], year) {/.hanging-indent}
 
 **Examples**
@@ -2627,7 +2629,7 @@ Give attribution for the people/person or Nation, Country or Language group who 
 
 > {.hanging-indent}Kaurareg (in McBride [Wailwan] & Smith [Yuin], 2021) {/.hanging-indent}
 
-####Reference List
+#####Reference List
 
 **Rule**
 > {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Indigenous Nation/Country/Language Group), & Author Surname, Initial(s). (Indigenous Nation/Country/Language Group). (Year). *Title of book*. Publisher. {/.hanging-indent}
@@ -2639,11 +2641,11 @@ Give attribution for the people/person or Nation, Country or Language group who 
 
 #####In-text citation
 
-#####Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Surname [Nation/Country/Language Group] in Surname
 [Nation/Country/Language Group],year) {/.hanging-indent}  
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Surname (Nation/Country/Language 
 Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
@@ -2652,7 +2654,7 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 > {.hanging-indent}As quoted by Paton (Gunai), (in Jones [Wiradjuri; Kamilaroi], 2014) {/.hanging-indent}
 
-####Reference list
+#####Reference list
 
 **Rule**
 > {.hanging-indent}Author Surname, Initial(s). (Nation/Country/Language Group). (Year). Title of journal article. *Journal name*, *Volume*(edition), Page number(s). DOI address {/.hanging-indent} 
@@ -2664,10 +2666,10 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 #####In-text citation 
 
-#####Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Surname [Nation/Country/Language Group], in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Surname (Nation/Country/Language Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 **Examples**
@@ -2675,7 +2677,7 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 > {.hanging-indent}Cutmore [Gomeroi], (in Hromas & Saunders [Biripi], 2021) {/.hanging-indent}
 
-####Reference List
+#####Reference List
 
 **Rule**
 > {.hanging-indent}Surname, initial(s). (Nation/Country/Language Group). In Author Surname, Initial(s)., & Aurthor Surname, Initial(s). (Nation/Country/Language Group). (Year, Month Day) Title of article, *Newspaper title*. URL {/.hanging-indent}
@@ -2687,10 +2689,10 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 #####In-text citation
 
-#####Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Surname (Nation/Country/Language Group), (year) {/.hanging-indent}
 
 **Examples**
@@ -2698,7 +2700,7 @@ Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
 
 > {.hanging-indent}As argued in Lf (Yuwi) et al. (2022) {/.hanging-indent}
 
-####Reference List
+#####Reference List
 
 **Rule**
 > {.hanging-indent}Host last name, Initials. (Nation/Country/Language Group) (Host). (Year, Month Day). Episode title (No. Episode number) [Audio podcast episode]. In *Podcast name*. Production Company. URL {/.hanging-indent}
@@ -2726,10 +2728,10 @@ Following standard APA 7th but give attribution to the Indigenous person/s who p
 
 #####In-text citation
 
-#####Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Nation/Country/Language Group in Surname, year) {/.hanging-indent}
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Nation/Country/Language Group (in Surname, year) {/.hanging-indent}
 
 **Examples**
@@ -2737,7 +2739,7 @@ Following standard APA 7th but give attribution to the Indigenous person/s who p
 
 > {.hanging-indent}Awabakal (in Threlkeld & Fraser, 1892) {/.hanging-indent}
 
-####Reference List
+#####Reference List
 
 **Rule**
 > {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Year). *Title of book*. Publisher. {/.hanging-indent}
@@ -2749,10 +2751,10 @@ Following standard APA 7th but give attribution to the Indigenous person/s who p
 
 #####In-text citation
 
-#####Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Nation/Country/Language Group in Surname, year) {/.hanging-indent}
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Nation/Country/Language Group in Surname (Year) {/.hanging-indent}
 
 **Examples**
@@ -2760,7 +2762,7 @@ Following standard APA 7th but give attribution to the Indigenous person/s who p
 
 > {.hanging-indent}Narrangga in Nunn & Reid (2015) {/.hanging-indent}
 
-####Reference List
+#####Reference List
 
 **Rule**
 > {.hanging-indent}Nation/Country/Language Group in Author Surname, Initial(s). (Year). Title of journal article. *Journal name*, *Volume*(edition), Page number(s). DOI address {/.hanging-indent}
@@ -2772,10 +2774,10 @@ Following standard APA 7th but give attribution to the Indigenous person/s who p
 
 #####In-text citation
 
-#####Information prominent
+**Rule- Information prominent**
 > {.hanging-indent}(Nation/Country/Language Group) in Surname or “name of article”, year) {/.hanging-indent}
 
-#####Author prominent
+**Rule- Author prominent**
 > {.hanging-indent}Nation/Country/Language Group (in Surname or “name of article”, year) {/.hanging-indent}
 
 **Examples**
@@ -2783,7 +2785,7 @@ Following standard APA 7th but give attribution to the Indigenous person/s who p
 
 > {.hanging-indent}Wiradjuri (in “Aboriginal Place Names”, 1938) {/.hanging-indent}
 
-####Reference List
+#####Reference List
 
 **Rule**
 > {.hanging-indent}Nation/Country/Language Group (Year, Month Day). Title of article. *Newspaper title*. URL {/.hanging-indent}
