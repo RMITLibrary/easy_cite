@@ -3,22 +3,14 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-
-<!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# RMIT Harvard
-# Vancouver
-###### end-style-menu
-
+<!-- -->
 ###### start-style-guide
+<!-- start the desktop style guide title -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-desktop-title
+# IEEE
+###### end-desktop-title
+<!-- -->
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -31,15 +23,25 @@
 ## Webpages
 ## Audiovisual media
 ## Other sources
-## Indigenous knowledges
 ## AI-generated content
 ###### end-type-menu
-
+<!-- -->
+<!-- start the mobile style guide title (only visible in mobile view) -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-mobile-title
+# IEEE
+###### end-mobile-title
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 
 <!-- Using IEEE - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
+<!-- -->
+###### start-type-title
+Using IEEE
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -53,11 +55,13 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The IEEE (Institute of Electrical and Electronics Engineers) referencing style is often used in electrical and electronic engineering, computer science and other technical fields. This IEEE guide is based on the *IEEE Reference Guide* that is freely available to view and download from the <a href="https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/">publisher's website</a> (click on *IEEE Reference Guide* option).
+**Important: This is a guide only**. To avoid losing marks:
 
-The IEEE style is a **numerical** or **numbered** system. It requires that sources are acknowledged as an in-text citation by **numbering** them **consecutively** in the order in which they **first appear** in the body of work. For example, the first source is given number 1, the second source number 2, and so on. Each source is allocated a unique number. Once you give a source a number, the same number is used for the in-text citation whenever you refer to that source in the body of work. In the reference list at the end of your document, the source’s number appears in **numerical** order. 
+- Confirm the referencing requirements of your School with your lecturer, and
 
-**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
+- Use <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide, 2022</a> (opens in a new tab)(PDF, 1.37Kb, 43 pages) to clarify referencing rules or if you need more examples. This guide is based on this publication.
+
+The IEEE (Institute of Electrical and Electronics Engineers) citation style is a **numbered** style where references are numbered [1], [2], [3] in-text and so on in the order of appearance in the body of the document. A **Reference List** at the end of the work provides full details of all references cited in-text. The references are ordered as they appear in the in-text references (in order of citation, not in alphabetical order). You need to follow this style when acknowledging your information sources.
 
 ###### end-subtype-content
 
@@ -228,7 +232,7 @@ Use a *forward slash* for bimonthly issues e.g. Apr./May 2016 and a en dash for 
 
 #### All other abbreviations
 
-For all abbreviations, including for words, journal titles, magazine titles, conferencing proceedings, and publishers, see Section IV for **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
+For all abbreviations, including for words, journal titles, magazine titles, conferencing proceedings, and publishers, see Section IV for **Useful Abbreviations in References** section of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" target="_blank">IEEE Reference Guide (2022)</a> (opens in a new tab) pp. 20–24.
 
 #### Acronyms in-text
 
@@ -338,8 +342,12 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 ###### end-type-content
 
 
-
 <!-- Books - links to the second type menu item -->
+<!-- -->
+###### start-type-title
+Books
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -694,6 +702,11 @@ Somerset, UK: Wiley-IEEE Press. [Online]. Available: doi.org/10.1002/97811180290
 
 
 <!-- Journal articles - links to the third type menu item -->
+<!-- -->
+###### start-type-title
+Journal articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -707,9 +720,9 @@ Somerset, UK: Wiley-IEEE Press. [Online]. Available: doi.org/10.1002/97811180290
 ###### start-subtype-content
 
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -755,9 +768,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -807,9 +820,9 @@ List both authors, separating the two author names with ‘and’.
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -859,9 +872,9 @@ List all authors (up to six), separating the last two author names with ‘and�
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -911,9 +924,9 @@ If there are more than six authors listed, use *et al*. (in italics) after the f
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -959,9 +972,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -1007,9 +1020,9 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 ###### start-subtype-content
 
-The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21">IEEE Reference Guide</a> (opens in a new tab).
+The IEEE Referencing Style requires the abbreviation of journal titles in a reference. Use the <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) to locate the correct abbreviation, or refer to the 'Common Abbreviations of Words in References' found on pp.21-24 of the <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf#page=21" target="_blank">IEEE Reference Guide</a> (opens in a new tab).
 
-For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
+For example, the official title abbreviation for the International Journal of Advanced Materials Research, as cross-checked in <a href="https://cassi.cas.org/" target="_blank">CAS Source Index (CASSI) Search Tool</a> (opens in a new tab) is Int. J. Adv. Mater. Res.
 
 Other examples include:
 
@@ -1054,6 +1067,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 
 <!-- Conferences - links to the fourth type menu item -->
+<!-- -->
+###### start-type-title
+Conferences
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1137,6 +1155,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 
 <!-- Reports - links to the fifth type menu item -->
+<!-- -->
+###### start-type-title
+Reports
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1220,6 +1243,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 
 <!-- Webpages - links to the sixth type menu item -->
+<!-- -->
+###### start-type-title
+Webpages
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1344,6 +1372,11 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 
 <!-- Audiovisual media - links to the seventh type menu item -->
+<!-- -->
+###### start-type-title
+Audiovisual media
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1472,7 +1505,11 @@ When citing an audio podcast make sure to include the following information wher
 ###### end-type-content
 
 <!-- Other sources - links to the eighth type menu item -->
-
+<!-- -->
+###### start-type-title
+Other sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1757,7 +1794,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration">Assessment Declaration</a> (opens in a new tab).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
 
 The publication, IEEE Reference Guide (2020) does not provide guidelines on how to cite your own work. The following examples show how to cite your own work that you have previously submitted for assessment.
 
@@ -1811,42 +1848,13 @@ In the Reference list include:
 ###### end-type-content
 
 
-<!-- Indigenous knowledges -->
-###### start-type-content
-<!-- -->
-
-<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
-###### start-subtype
-<!-- start SUB_TYPE-ITEM - accordion item -->
-<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
-
-###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-
-### Indigenous knowledges: general advice
-<!-- the first accordion item must have this comment as shown in the line below -->
-<!-- first accordion item -->
-
-###### start-subtype-content
-
-When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by Indigenous Archives Collective. 
-
-It is advised to attribute a Country or language group to an author who has self-identified for example, in a biographical note to an article or on a personal website. 
-
-For more information on how to locate Indigenous Knowledges and critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
-
-**Note:** Guidance from First Nations communities is welcomed, particularly from the lands of Wurundjeri Country and Boonwurrung Country on which the RMIT campuses are located. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">Feedback form</a>. 
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-###### end-subtype
-
-###### end-type-content
-
 
 <!-- AI-generated content - links to the ninth type menu item -->
+<!-- -->
+###### start-type-title
+AI-generated content
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype

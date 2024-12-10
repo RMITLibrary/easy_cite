@@ -1,0 +1,107 @@
+/* Styles specific to the design system go here */
+
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import 'bootstrap/functions';
+
+// 2. Include any default variable overrides here
+
+/* START COLOUR */
+
+/* core design system colours */
+
+$dark-grey: #333; //primary text colour
+$text-alt: #525252; //Not in use - due to Triple AAA accessibility requirement?
+$interface-grey: #bfbfbf;
+$underlay-selected: #e6e6e6; //use sparingly
+$underlay-grey: #f5f5f5;
+$underlay-hover: #fafafa;
+
+$rmit-blue: #000054;
+$blue-70: #4d4d88;
+$blue-hover: #0051a8;
+$rmit-red: #e61e2a;
+$correct-green: #009969;
+
+/* map our colours to bootstrap variables - is it worth mapping all grey vars? */
+
+$gray-100: $underlay-grey;
+$gray-300: $interface-grey;
+$gray-400: $interface-grey;
+$gray-600: $interface-grey;
+$gray-900: $dark-grey;
+
+$blue: $rmit-blue;
+$green: $correct-green;
+$red: $rmit-red;
+
+/* link colours */
+$link-hover-color: $blue-hover;
+$link-hover-decoration: none;
+
+$input-btn-focus-color: rgba(13, 110, 253, 0.5);
+
+/* tables */
+$table-striped-bg: $underlay-grey;
+
+/* END COLOUR */
+
+/* START TYPOGRAPHY variables */
+
+@font-face {
+  font-family: 'Museo700';
+  src: url('https://rmitlibrary.github.io/cdn/fonts/museo-700.woff2')
+    format('woff');
+}
+
+$font-family-sans-serif:
+  'Helvetica Neue',
+  Arial,
+  system-ui,
+  -apple-system,
+  'Segoe UI',
+  Roboto,
+  'Noto Sans',
+  'Liberation Sans',
+  sans-serif,
+  'Apple Color Emoji',
+  'Segoe UI Emoji',
+  'Segoe UI Symbol',
+  'Noto Color Emoji';
+
+$font-family-serif: 'Museo700', Museo700, serif;
+
+$lead-font-weight: 500;
+$enable-rfs: false; //turn off responsive font scaling
+
+@import 'bootstrap/bootstrap';
+
+// 5. Add additional custom code here
+
+//Everything that doesn't fit elsewhere
+@import 'design-system/utilities';
+
+//Visual language
+@import 'design-system/space';
+@import 'design-system/typography';
+@import 'design-system/links';
+@import 'design-system/forms';
+
+//Simple components
+@import 'design-system/button';
+@import 'design-system/accordion';
+@import 'design-system/blockquote';
+@import 'design-system/table';
+
+//Complex components
+@import 'design-system/footer';
+@import 'design-system/breadcrumbs';
+@import 'design-system/navigation';
+@import 'design-system/top-nav';
+@import 'design-system/video-image';
+
+@import 'design-system/layout';
+
+// 5. Styles specific to documentation go here (might be worth having a completely seperate stylesheet)
+
+@import 'app-specific/easy-cite';
+@import 'app-specific/print-button';

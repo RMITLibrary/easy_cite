@@ -3,22 +3,14 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-
-<!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# RMIT Harvard
-# Vancouver
-###### end-style-menu
-
+<!-- -->
 ###### start-style-guide
+<!-- start the desktop style guide title -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-desktop-title
+# Chicago A
+###### end-desktop-title
+<!-- -->
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -32,15 +24,25 @@
 ## Reports, standards and patents
 ## Images
 ## Other sources
-## Indigenous knowledges
 ## AI-generated content
 ###### end-type-menu
-
+<!-- -->
+<!-- start the mobile style guide title (only visible in mobile view) -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-mobile-title
+# Chicago A
+###### end-mobile-title
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 
 <!-- Using Chicago - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
+<!-- -->
+###### start-type-title
+Using Chicago A (footnotes)
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -54,15 +56,19 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The Chicago referencing style is widely used in art, design, architecture, music, history and humanities subjects. The Chicago Manual of Style includes detailed advice on citing and referencing sources used in these disciplines, including artworks, live performances and historical sources, as well as commonly-used source types such as books, journal articles and websites. 
+**Important: this is a guide only.** To avoid losing marks:
 
-This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341">The Chicago Manual of Style 17th edition</a>. Please refer to this manual if you need more examples than those included in this guide, or if you need clarification. 
+- Confirm referencing requirements with your lecturer.
 
-There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **notes and bibliography** format.  
+- Use The Chicago Manual of Style. 17th ed. Chicago: University of Chicago Press, 2017 to clarify referencing rules or if you need more examples. This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341" target="_blank">The Chicago manual of style. 17th edition.</a> (opens in a new tab).
 
-The **notes and bibliography** format uses a **numerical** system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography is included at the end of the document in **alphabetical** order. 
+There are two formats of referencing within the Chicago Style. One is **notes and bibliography** (Chicago A) and the other is **author-date** style (Chicago B). This guide provides examples and advice for **notes and bibliography only**. Notes and bibliography uses a numerical system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography should be included at the end of the document, preferably in alphabetical order.
 
-**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
+**Footnotes/ Endnotes** : Footnotes or endnotes are numbered and correspond to note reference numbers in the text.
+
+**Bibliography** : A bibliography is the term used for a list of resources consulted (e.g. books, articles, websites) when writing an assignment.
+
+For examples and advice regarding **author-date style** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago B: Author-Date 17th ed.](index.php?styleguide=styleguide-5#stn-0).
 
 ###### end-subtype-content
 
@@ -338,8 +344,12 @@ Refer to original source
 ###### end-type-content
 
 
-
 <!-- Books - links to the second type menu item -->
+<!-- -->
+###### start-type-title
+Books
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -659,6 +669,11 @@ As exhibition catalogues and brochures are often published like a book, referenc
 
 
 <!-- Journals - links to the third type menu item -->
+<!-- -->
+###### start-type-title
+Journals
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -762,6 +777,11 @@ Cite journal articles accessed in print in the same way as journal articles acce
 
 
 <!-- Newspapers - links to the fourth type menu item -->
+<!-- -->
+###### start-type-title
+Newspapers
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -831,6 +851,11 @@ or if no author
 
 
 <!-- Audiovisual materials - links to the fifth type menu item -->
+<!-- -->
+###### start-type-title
+Audiovisual materials
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1246,6 +1271,11 @@ Unpublished scores are cited and referenced like unpublished manuscripts.
 
 
 <!-- Websites and social media - links to the sixth type menu item -->
+<!-- -->
+###### start-type-title
+Websites, blogs and social media
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1391,6 +1421,11 @@ Private content, including direct messages, is considered a form of personal com
 
 
 <!-- Reports and Standards - links to the seventh type menu item -->
+<!-- -->
+###### start-type-title
+Reports, standards and patents
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1516,6 +1551,11 @@ Patents are cited under the names of the creators and dated by the year of filin
 
 
 <!-- Images - links to the eighth type menu item -->
+<!-- -->
+###### start-type-title
+Images
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1730,6 +1770,11 @@ Unpublished tables, graphs and other diagrams that you create are not recorded i
 
 
 <!-- Other sources - links to the ninth type menu item -->
+<!-- -->
+###### start-type-title
+Other sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1915,42 +1960,12 @@ Include the lecture URL if there is one available.
 ###### end-type-content
 
 
-<!-- Indigenous knowledges -->
-###### start-type-content
-<!-- -->
-
-<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
-###### start-subtype
-<!-- start SUB_TYPE-ITEM - accordion item -->
-<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
-
-###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-
-### Indigenous knowledges: general advice
-<!-- the first accordion item must have this comment as shown in the line below -->
-<!-- first accordion item -->
-
-###### start-subtype-content
-
-When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by Indigenous Archives Collective. 
-
-It is advised to attribute a Country or language group to an author who has self-identified for example, in a biographical note to an article or on a personal website. 
-
-For more information on how to locate Indigenous Knowledges and critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
-
-**Note:** Guidance from First Nations communities is welcomed, particularly from the lands of Wurundjeri Country and Boonwurrung Country on which the RMIT campuses are located. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">Feedback form</a>. 
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-###### end-subtype
-
-###### end-type-content
-
-
 <!-- AI-generated content - links to the tenth type menu item -->
+<!-- -->
+###### start-type-title
+AI-generated content
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype

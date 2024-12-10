@@ -3,22 +3,14 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-
-<!-- start the top style guide menu -->
-<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
-<!-- add additional style guides if needed -->
-###### start-style-menu
-# Using Easy Cite
-# AGLC4
-# APA 7<sup>th</sup> ed.
-# Chicago A
-# Chicago B
-# IEEE
-# RMIT Harvard
-# Vancouver
-###### end-style-menu
-
+<!-- -->
 ###### start-style-guide
+<!-- start the desktop style guide title -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-desktop-title
+# APA 7<sup>th</sup> ed.
+###### end-desktop-title
+<!-- -->
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -33,15 +25,25 @@
 ## Social media
 ## Images / Tables
 ## Other sources
-## Indigenous knowledges
 ## AI-generated content
 ###### end-type-menu
-
+<!-- -->
+<!-- start the mobile style guide title (only visible in mobile view) -->
+<!-- the title headings must use heading 1 (#) -->
+###### start-mobile-title
+# APA 7<sup>th</sup> ed.
+###### end-mobile-title
+<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 
 <!-- Using APA 7th ed. - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
+<!-- -->
+###### start-type-title
+Using APA 7<sup>th</sup> ed.
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -50,18 +52,19 @@
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to the APA 7<sup>th</sup> ed. referencing style
+### Introduction to APA 7<sup>th</sup> ed.
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The APA 7th (American Psychological Association) referencing style is based on the <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341">Publication Manual of the American Psychological Association</a> and is widely used in the social sciences and other fields, such as education, psychology, nursing and commerce.  
+**Important: This is a guide only.** To avoid losing marks:
 
-The APA 7th style is an **author-date** system. It requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of your document, sources appear in **alphabetical** order of author last name. 
-
-The APA 7th style is widely used across institutions worldwide. If the specific source type you are referencing is not covered in this Easy Cite guide, you can refer to the APA 7th referencing guides published by other institutions, as well as the official publication manual mentioned above.  
-
-**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
+- Confirm the referencing requirements for your course with your lecturer.
+- To clarify referencing rules or if you need more examples, refer to the following publication that this guide is based on; American Psychological Association. (2020). <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921781610801341">*Publication manual of the American Psychological Association* (7<sup>th</sup> ed.).</a> 
+- APA 7<sup>th</sup> ed. is an **author-date** referencing style which requires all references to be cited in-text and in a reference list.
+- **In-text references** appear within the body of the document and include details such as author(s) family name, year of publication, and page number(s) (if applicable).
+- A **reference list** provides the full bibliographic details of all in-text references and is arranged alphabetically by author at the end of the document.
+- Refer to the <a href="https://apastyle.apa.org/style-grammar-guidelines/references">*Style and Grammar Guidelines*</a> page on the <a href="https://apastyle.apa.org/">*APA Style website*</a> for updates to the APA style and additional referencing examples.
 
 ###### end-subtype-content
 
@@ -433,8 +436,12 @@ Wang, H. (2015). *Protein degradation pathways in hepatic ER stress and insulin 
 ###### end-type-content
 
 
-
 <!-- Books - links to the second type menu item -->
+<!-- -->
+###### start-type-title
+Books
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -712,6 +719,11 @@ Include the translator(s) after the title and add the date of original publicati
 
 
 <!-- Journal articles - links to the third type menu item -->
+<!-- -->
+###### start-type-title
+Journal articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -911,6 +923,11 @@ If citing a journal article without a DOI, include the volume, issue number (if 
 
 
 <!-- Newspaper articles - links to the fourth type menu item -->
+<!-- -->
+###### start-type-title
+Newspaper articles
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -945,7 +962,7 @@ Include the day, month and year, as well as the exact URL of the article.
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article. *Title of Periodical.* https://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* https://xxxxx {/.hanging-indent}
 
 ##### Example
 
@@ -958,7 +975,7 @@ Include the day, month and year, as well as the exact URL of the article.
 
 ###### start-subtype-item
 
-### Newspaper article from a website
+### Newspaper article, online
 
 ###### start-subtype-content
 
@@ -984,7 +1001,7 @@ Include the day, month and year of the article, as well as the URL.
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article. *Title of Periodical.* https://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* https://xxxxx {/.hanging-indent}
 
 ##### Example
 
@@ -1025,7 +1042,7 @@ If the article is spread across discontinuous pages, provide all page numbers se
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article. *Title of Periodical,* Page number(s) or range. {/.hanging-indent}
+> {.hanging-indent}Author, A. A. (Year, Month Day). Title of article *Title of Periodical.* Page number(s) or range. {/.hanging-indent}
 
 ##### Example
 
@@ -1042,6 +1059,11 @@ If the article is spread across discontinuous pages, provide all page numbers se
 
 
 <!-- Legal material - links to the fifth type menu item -->
+<!-- -->
+###### start-type-title
+Legal material
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1140,6 +1162,11 @@ If a case is obtained from an electronic database, add a retrieval statement.
 
 
 <!-- Audiovisual material - links to the sixth type menu item -->
+<!-- -->
+###### start-type-title
+Audiovisual material
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1371,6 +1398,11 @@ Provide the exact URL in the retrieval statement.
 
 
 <!-- Webpages and websites - links to the seventh type menu item -->
+<!-- -->
+###### start-type-title
+Webpages and websites
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1506,6 +1538,11 @@ If referencing a blog post include the following: the author(s) name, year of pu
 
 
 <!-- Social media - links to the eighth type menu item -->
+<!-- -->
+###### start-type-title
+Social media
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1684,6 +1721,11 @@ If citing information taken directly from a post, include author(s) if applicabl
 
 
 <!-- Images / Tables - links to the ninth type menu item -->
+<!-- -->
+###### start-type-title
+Images / Tables
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1732,27 +1774,6 @@ APA includes the following within the definition of images and figures:
 
   2. if the image is not original work, then source details from where it was derived
 
-- Images from books, journal articles and other sources which are not reproduced in the body of work should be cited in the standard format of the source as described in the other sections of this guide. 
-
-When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.
-
-##### Rule for in text
-
-If the title of the work has been included in the body of the text follow with (Author/Artists surname, Year). 
-
-##### Example
-
-> A good example of shading of clouds in images of the sky is the photo, *The sky is blue* (Jones, 2018).
-
-#### Reference list
-
-##### Rule
-> Author/Artist(s), initial. (year, month date). *Title* (in italics) [Format]. Publisher. URL
-
-##### Example
-
-> Jones, H. (2018, March 14). *The sky is blue* [Photogragh]. Flicker. https://www.flickr.com/photos/henryjones/340871075
-
 ###### end-subtype-content
 
 ###### end-subtype-item
@@ -1765,8 +1786,6 @@ If the title of the work has been included in the body of the text follow with (
 ###### start-subtype-content
 
 #### In-text citation
-
-When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See **General rules for images**.
 
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
@@ -1831,8 +1850,6 @@ The figure must appear in the reference list, and the citation is formatted in c
 ###### start-subtype-content
 
 #### In-text citation
-
-When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See **General rules for images**.
 
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
@@ -1902,8 +1919,6 @@ For the National Cancer Institute © 2012 Terese Winslow LLC, U.S. Govt. has cer
 
 #### In-text citation
 
-When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See **General rules for images**.
-
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
 1. within the written body of your paper, as you would for a normal in-text reference, and
@@ -1959,8 +1974,6 @@ The figure must appear in the reference list, and the citation is formatted in c
 ###### start-subtype-content
 
 #### In-text citation
-
-When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See **General rules for images**.
 
 When citing figures in the text of your work, you need to acknowledge them in two places:
 
@@ -2029,8 +2042,6 @@ The information and examples below outline how to reference a table where the in
 *Note: If you are copying an entire table from another source without altering the layout or combining its data from other sources, you should then reference it as per the other examples in the Images section e.g. book/journal article, webpage etc.*
 
 #### In-text citation
-
-When referring to images not reproduced in the body of the work, acknowledge within the written body of the paper as for standard in-text reference.  See **General rules for images**.
 
 When citing tables in the text of your work, you need to acknowledge them in two places:
 
@@ -2104,6 +2115,11 @@ All reference list entries should appear as per the convention of the source bei
 ###### end-type-content
 
 <!-- Other sources - links to the tenth type menu item -->
+<!-- -->
+###### start-type-title
+Other sources
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2119,8 +2135,6 @@ All reference list entries should appear as per the convention of the source bei
 - Conference proceedings published in a journal follow the same format as journal articles.
 - Conference proceedings published as a whole book follow the same reference format as whole edited books.
 - The format for conference proceedings published as an edited book chapter is the same as for edited book chapters.
-- Conference contributions accessed online including conference papers, session or presentation, and posters follow this reference format:
-> Author, A. A. (Date). *Title of Contribution* (in italics) [Type of contribution]. Conference Name, Location. DOI or URL if applicable 
 
 #### Paraphrasing in-text
 
@@ -2458,351 +2472,13 @@ In the Reference list include:
 ###### end-type-content
 
 
-<!-- Indigenous knowledges -->
-###### start-type-content
-<!-- -->
-
-<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
-###### start-subtype
-<!-- start SUB_TYPE-ITEM - accordion item -->
-<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
-
-###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-
-### Indigenous knowledges: general advice
-<!-- the first accordion item must have this comment as shown in the line below -->
-<!-- first accordion item -->
-
-###### start-subtype-content
-
-When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective. 
-
-The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide. 
-
-It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website.
-
-For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
-
-**Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-
-### Indigenous authored/co-authored publications that include Country/Language group affiliation
-<!-- the second accordion item must have this comment as shown in the line below -->
-<!-- second accordion item -->
-
-###### start-subtype-content
-
-Follow APA 7th standard and include attribution of the author/s affiliated Nation, Country or Language group in both the in-text and reference list, if that information is provided within the source being cited. Avoid assuming a person’s affiliation if not stated clearly.
-
-#### In-text citation
-
-The in-text citation follows the same format for all sources, except for personal communication. Please see further down for the in-text citation for personal communication. 
-
-**Rule- Information prominent**
-> {.hanging-indent}(Surname, Nation/Country/Language Group, year) {/.hanging-indent}
-
-**Rule- Author prominent**
-> {.hanging-indent}Surname (Nation/Country/Language Group) (year) {/.hanging-indent}
-
-**Examples**
-> {.hanging-indent}(Moreton-Robinson, Goenpul, 2020) {/.hanging-indent}
-
-> {.hanging-indent}As argued by Moreton-Robinson (Goenpul) (2020) {/.hanging-indent}
-
-#### Personal Communication
-
-##### In-text citation
-
-**Rule- Information prominent**
-> {.hanging-indent}(Surname, Nation/Country/Language Group, personal communication, Month Day, Year) {/.hanging-indent}
-
-**Rule- Author prominent**
-> {.hanging-indent}Surname (Nation/Country/Language Group). (personal communication, Month Day, Year) {/.hanging-indent}
-
-##### Reference List
-Cited from personal communication does not appear in the reference list.
-
-#### Reference List for other sources
-
-##### Book
-
-**Rule**
-> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). (Year), *Book Title*. Publisher. {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Moreton-Robinson, A. (Goenpul). (2020). *Talkin’ Up to the White Woman*. University of Queensland Press. {/.hanging-indent}
-
-##### Book Chapter
-
-**Rule**
-> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). (Year). Title of chapter. In Editor(s) initial(s). Surname. (Nation/Country/Language Group). (Ed. OR Eds.) *Title of book*, *(page numbers)*. Publisher. {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}De Santolo, J. (Garrwa; Barunggum). (2019). The emergence of Yambar Jarnngkurr from Indigenous homelands: a creative Indigenous methodology. In J. Archibald (Stó:lō; St’at’imc), J. Lee-Morgan (Waikato-Tainui; Ngāti Mahuta) & J. De Santolo. (Garrwa; Barunnggum). (Eds.), *Decolonizing research: Indigenous storywork as methodology* *(pp239-259)*. ZED Books LTD. {/.hanging-indent}
-
-##### Journal article
-
-**Rule**
-> {.hanging-indent}Author Surname, Initial(s). (Nation/Country/Language Group). (Year). Title of journal article. *Journal name*, *Volume*(edition), Page number(s). DOI address {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Couzens, V. (Keerray Wooroong; Gunditjimara). (2018). Woman spirit weerreeyaar; Weerreeyaar – woman spirit. *The Lifted Brow*, *40*, 60. https://search.informit.org/doi/10.3316/informit.036973519792855 {/.hanging-indent}
-
-##### Website
-
-**Rule**
-> {.hanging-indent}Author name, Initials. (Nation/Country/Language Group). (Year, Month Day – if available) *Title of page*. Website name. URL {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Cromb, N. (Gamilaraay). (2022). *So whose ‘Voice’ is it anyway?*.  IndigenousX.  https://indigenousx.com.au/so-whose-voice-is-it-anyway/ {/.hanging-indent}
-
-#### Social Media
-
-##### X (formally Twitter)
-
-**Rule**
-> {.hanging-indent}Author Surname, Initials. (Nation/Country/Language Group). [@username]. (Year, Month Day) *Text of tweet* [description of audiovisuals]. [Post type]. Twitter. URL {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}O’Sullivan, S. (Wiradjuri). [@sandyosullivan]. (2022, February 20) *Side note from my rant earlier today: there are an (unsurprisingly) large number of non-indigenous writers whose work focusses on Indigenous people* [Tweet]. Twitter. https://x.com/sandyosullivan/status/1495310160012537862 {/.hanging-indent}
-
-##### YouTube
-
-**Rule**
-> {.hanging-indent}Surname, Initials. (Nation/Country/Language Group). [Channel name]. (Year, month day). *Video title* [Video]. YouTube. URL {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Sentence, N. (Wiradjuri). [ALIANational]. (2022, March 8). *Panel session – Indigenous Australian sovereignties and Australian libraries: Who is in control?* [Video]. YouTube. https://www.youtube.com/watch?v=-wrMQM8jY1A&t=2915s {/.hanging-indent}
-
-#### Blog
-
-**Rule**
-> {.hanging-indent}Author Surname, Initials. OR Author screen name {as it appears on the blog}. (Nation/Country/Language Group). Year, Month Day {of post}. *Title of specific post*. *Site name* (if needed). URL of specific post. {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Barrowcliffe, R. (Butchulla). 2020, June 17. *#BlackLivesMatter and Archives in Australia*. *Indigenous Archives Collective*. https://indigenousarchives.net/2020/06/17/blacklivesmatter-and-archives-in-australia/ {/.hanging-indent}
-
-#### Artwork
-
-**Rule**
-> {.hanging-indent}Author, A. (Nation/Country/Language Group). (Year). *Title* [Medium]. Museum name, Museum location. {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Evans, P (Gailaraay/Gomeroi). (2022) *Waabigu Maragalgaa*. [Ceremic]. Museum of Applied Arts and Sciences, Sydney NSW. {/.hanging-indent}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-
-### Indigenous knowledges cited in Indigenous authored/co-authored publications
-<!-- the third accordion item must have this comment as shown in the line below -->
-<!-- third accordion item -->
-
-###### start-subtype-content
-
-Give attribution for the people/person or Nation, Country or Language group who are quoted within the article or are noted as the source of the Indigenous knowledges contained within the book, in both the in-text and reference list.
-
-####Book
-
-#####In-text citation
-
-**Rule- Information prominent**
-> {.hanging-indent}(Nation/Country/Language Group in Surname [Nation/Country/Language Group], year) {/.hanging-indent} 
-
-**Rule- Author prominent**
-> {.hanging-indent}Nation/Country/Language Group (in Surname [Nation/ Country/Language Group], year) {/.hanging-indent}
-
-**Examples**
-> {.hanging-indent}(Kaurareg, in McBride [Wailwan] & Smith [Yuin], 2021 {/.hanging-indent}
-
-> {.hanging-indent}Kaurareg (in McBride [Wailwan] & Smith [Yuin], 2021) {/.hanging-indent}
-
-#####Reference List
-
-**Rule**
-> {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Indigenous Nation/Country/Language Group), & Author Surname, Initial(s). (Indigenous Nation/Country/Language Group). (Year). *Title of book*. Publisher. {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Kaurareg. In McBride, L. (Wailwan)., & Smith, M, (Yuin). (2021). *Unsettled: an Australian Museum exhibition*. Australian Museum Trust. {/.hanging-indent}
-
-####Journal Article
-
-#####In-text citation
-
-**Rule- Information prominent**
-> {.hanging-indent}(Surname [Nation/Country/Language Group] in Surname
-[Nation/Country/Language Group],year) {/.hanging-indent}  
-
-**Rule- Author prominent**
-> {.hanging-indent}Surname (Nation/Country/Language 
-Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
-
-**Examples**
-> {.hanging-indent}(Paton [Gunai] in Jones [Wiadjuri; Kamilaroi], 2014) {/.hanging-indent}
-
-> {.hanging-indent}As quoted by Paton (Gunai), (in Jones [Wiradjuri; Kamilaroi], 2014) {/.hanging-indent}
-
-#####Reference list
-
-**Rule**
-> {.hanging-indent}Author Surname, Initial(s). (Nation/Country/Language Group). (Year). Title of journal article. *Journal name*, *Volume*(edition), Page number(s). DOI address {/.hanging-indent} 
-
-**Example**
-> {.hanging-indent}Paton (Gunai) in Jones, J. (Wiradjuri; Kamilaroi). (2014). Lighting the fire: Cultural renaissance in the south-east. *Artlink*, *34*(2), 35-38. {/.hanging-indent}
-
-####Newspaper article
-
-#####In-text citation 
-
-**Rule- Information prominent**
-> {.hanging-indent}(Surname [Nation/Country/Language Group], in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
-
-**Rule- Author prominent**
-> {.hanging-indent}Surname (Nation/Country/Language Group), (in Surname [Nation/Country/Language Group], year) {/.hanging-indent}
-
-**Examples**
-> {.hanging-indent}(Cutmore [Gomeroi] in Hromas & Saunders [Biripi], 2021) {/.hanging-indent}
-
-> {.hanging-indent}Cutmore [Gomeroi], (in Hromas & Saunders [Biripi], 2021) {/.hanging-indent}
-
-#####Reference List
-
-**Rule**
-> {.hanging-indent}Surname, initial(s). (Nation/Country/Language Group). In Author Surname, Initial(s)., & Aurthor Surname, Initial(s). (Nation/Country/Language Group). (Year, Month Day) Title of article, *Newspaper title*. URL {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Cutmore,P. (Gomeroi). In Hromas, J., & Saunders, A (Biripi). (2021, February 14) Moree elders: proud, strong and always resilient. *The Guardian*. <a href="https://www.theguardian.com/australia-news/2021/feb/14/moree-elders-proud-strong-and-always-resilient">https://www.theguardian.com/australia-news/2021/feb/14/moree-elders-proud-strong-and-always-resilient</a> {/.hanging-indent}
-
-####Podcast
-
-#####In-text citation
-
-**Rule- Information prominent**
-> {.hanging-indent}(Surname [Nation/Country/Language Group], year) {/.hanging-indent}
-
-**Rule- Author prominent**
-> {.hanging-indent}Surname (Nation/Country/Language Group), (year) {/.hanging-indent}
-
-**Examples**
-> {.hanging-indent}(Lf [Yuwi], et al. 2022) {/.hanging-indent}
-
-> {.hanging-indent}As argued in Lf (Yuwi) et al. (2022) {/.hanging-indent}
-
-#####Reference List
-
-**Rule**
-> {.hanging-indent}Host last name, Initials. (Nation/Country/Language Group) (Host). (Year, Month Day). Episode title (No. Episode number) [Audio podcast episode]. In *Podcast name*. Production Company. URL {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Lf, A. (Yuwi)., De Vries, T. (Gamilaroi; Dharug)., & Scobie, B. (Bundjalung). (Hosts). (2022, October 25). #3.3 Heartbreak high: the reboot [Audio podcast episode]. In *Trash Tiddas*. Awesome Blak. <a href="https://open.spotify.com/episode/3JUs9AkZZLubi4N3qv56ot?si=CkjR_6A7SYGR3gbSGWaDjw">https://open.spotify.com/episode/3JUs9AkZZLubi4N3qv56ot?si=CkjR_6A7SYGR3gbSGWaDjw</a> {/.hanging-indent}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-
-###### start-subtype-item
-<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-
-### Indigenous knowledges cited in non-Indigenous authored publications
-<!-- the fourth accordion item must have this comment as shown in the line below -->
-<!-- fourth accordion item -->
-
-###### start-subtype-content
-
-Following standard APA 7th but give attribution to the Indigenous person/s who provided the knowledge, when explicitly mentioned as the knowledges’s source. If no specific person is named, give attribution to the Nation/Country/Language group mentioned as the knowledge’s source. Avoid assuming an attribution if not stated clearly in the resource.
-
-####Book
-
-#####In-text citation
-
-**Rule- Information prominent**
-> {.hanging-indent}(Nation/Country/Language Group in Surname, year) {/.hanging-indent}
-
-**Rule- Author prominent**
-> {.hanging-indent}Nation/Country/Language Group (in Surname, year) {/.hanging-indent}
-
-**Examples**
-> {.hanging-indent}(Awabakal in Threlkeld & Fraser, 1892) {/.hanging-indent}
-
-> {.hanging-indent}Awabakal (in Threlkeld & Fraser, 1892) {/.hanging-indent}
-
-#####Reference List
-
-**Rule**
-> {.hanging-indent}Nation/Country/Language Group. In Author Surname, Initial(s). (Year). *Title of book*. Publisher. {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Awabakal. In Threlkeld, L. E. & Fraser, J. (1982). *An Australian language: as spoken by the Awabakal, the people of Awaba or Lake Macquarie (near Newcastle, New South Wales) being an account of their language, traditions, and customs*. Govt. Printer, Sydney. {/.hanging-indent}
-
-####Journal Article
-
-#####In-text citation
-
-**Rule- Information prominent**
-> {.hanging-indent}(Nation/Country/Language Group in Surname, year) {/.hanging-indent}
-
-**Rule- Author prominent**
-> {.hanging-indent}Nation/Country/Language Group in Surname (Year) {/.hanging-indent}
-
-**Examples**
-> {.hanging-indent}(Narrangga in Nunn & Reid, 2015) {/.hanging-indent}
-
-> {.hanging-indent}Narrangga in Nunn & Reid (2015) {/.hanging-indent}
-
-#####Reference List
-
-**Rule**
-> {.hanging-indent}Nation/Country/Language Group in Author Surname, Initial(s). (Year). Title of journal article. *Journal name*, *Volume*(edition), Page number(s). DOI address {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Narrangga in Nunn, P., & Reid, N. (2015) Aboriginal Memories of Inundation of the Australian Coast Dating from More than 7000 Years Ago. *Australian Geographer*, *47*(1), 11-47. <a href="https://10.1080/00049182.2015.1077539">https://10.1080/00049182.2015.1077539</a> {/.hanging-indent}
-
-####Newspaper Article
-
-#####In-text citation
-
-**Rule- Information prominent**
-> {.hanging-indent}(Nation/Country/Language Group) in Surname or “name of article”, year) {/.hanging-indent}
-
-**Rule- Author prominent**
-> {.hanging-indent}Nation/Country/Language Group (in Surname or “name of article”, year) {/.hanging-indent}
-
-**Examples**
-> {.hanging-indent}(Wiradjuri in “Aboriginal Place Names”, 1938) {/.hanging-indent}
-
-> {.hanging-indent}Wiradjuri (in “Aboriginal Place Names”, 1938) {/.hanging-indent}
-
-#####Reference List
-
-**Rule**
-> {.hanging-indent}Nation/Country/Language Group (Year, Month Day). Title of article. *Newspaper title*. URL {/.hanging-indent}
-
-**Example**
-> {.hanging-indent}Wiradjuri in (1938, December 15) Aboriginal Place Names. *Mudgee Guardian and North-Western Representative* {/.hanging-indent}
-
-###### end-subtype-content
-
-###### end-subtype-item
-
-###### end-subtype
-
-###### end-type-content
-
 
 <!-- AI-generated content - links to the eleventh type menu item -->
+<!-- -->
+###### start-type-title
+AI-generated content
+###### end-type-title
+<!-- -->
 ###### start-type-content
 
 ###### start-subtype
