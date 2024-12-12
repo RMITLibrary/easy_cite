@@ -5,16 +5,27 @@ include 'includes/navigation_buttons.php';
 $styleguide = filter_input(INPUT_GET, 'styleguide', FILTER_SANITIZE_SPECIAL_CHARS);
 $show_guides = !empty($styleguide);
 
+// Default title
+$pageTitle = "Easy Cite referencing guide - Library - RMIT University";
+if ($show_guides){
+	include 'includes/markdown_abstraction.php';
+}
+
+// Update title based on style guide
+if ($show_guides && !empty($extractedData['type_contents'])) {
+    $pageTitle = htmlspecialchars_decode(strip_tags($styleGuideTitle), ENT_QUOTES) . " style guide - $pageTitle";
+}
+
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="nav-fixed">
 
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta name="description" content="" />
 	<meta name="author" content="" />
-	<title>EasyCite</title>
+	<title><?php echo $pageTitle; ?></title>
 	<!-- Favicon-->
 	<link rel="icon" type="image/x-icon" href="assets/favicon.png" />
 
@@ -36,16 +47,16 @@ $show_guides = !empty($styleguide);
 					<!-- START left hand column -->
 					<div class="col-auto left-nav">
 						<div class="rmit-logo"><span class="visually-hidden">RMIT University logo</span></div>
-						<a href="#" id="nav-link-0" tabindex="0" data-bs-target="#nav-0" aria-controls="nav-0" onclick="outputQueryStringFunction(this, 'styleguide-0')" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
+						<a href="./" tabindex="0" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
 					</div>
 					<!-- END left hand column -->
 					<!-- START right hand column -->
 					<div class="col">
 						<ul>
-							<li class="hide-md">
+							<li class="hide-sm">
 								<a href="https://www.rmit.edu.au/library">Library</a>
 							</li>
-							<li class="hide-md">
+							<li class="hide-sm">
 								<a href="https://www.rmit.edu.au/library/study/referencing">Referencing</a>
 							</li>
 							<li class="menu">
@@ -124,7 +135,7 @@ $show_guides = !empty($styleguide);
 							always check with your instructor to ensure you are using the correct style for your assignments
 							and assessment tasks.</p>
 
-						<nav aria-label="Section Menu">
+						<nav id="home-section-menu" aria-label="Section Menu">
 							<h2 class="h3">Select a style guide</h2>
 							<ul class="link-list">
 								<?php
@@ -253,10 +264,7 @@ $show_guides = !empty($styleguide);
 					<!-- END content columns -->
 				</div>
 			<?php else: ?>
-				<?php
-				include 'includes/markdown_abstraction.php';
-				$extractedData = $extractedData;
-				?>
+		
 				<div id="nav-tabContent-0">
 					<div class="tab-pane fade show active" id="nav-0" role="tabpanel" aria-labelledby="nav-0-tab">
 
@@ -280,7 +288,10 @@ $show_guides = !empty($styleguide);
 										<?php endforeach; ?>
 									</nav>
 								</nav>
-								<button class="btn btn-print guideprint " type="button">Print this style guide <span class="visually-hidden">(opens new window)</span></button>
+								<div class="right-nav--print">
+									<button class="btn btn-print guideprint " type="button">Print full style guide <span class="visually-hidden">(opens new window)</span></button>
+
+								</div>
 
 							</div>
 
@@ -298,8 +309,9 @@ $show_guides = !empty($styleguide);
 													<div class="page-title">
 														<h2 class="h1"><?php echo htmlspecialchars_decode($typeContent['title'], ENT_QUOTES); ?></h2>
 														<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0">
-															Print<span class="visually-hidden"> this part of the style guide (opens new window)</span>
+															Print chapter<span class="visually-hidden"> - print this chapter of the style guide (opens new window)</span>
 														</button>
+
 													</div>
 
 													<?php foreach ($typeContent['subtypes'] as $subtypeIndex => $subtype): ?>
@@ -312,7 +324,7 @@ $show_guides = !empty($styleguide);
 																$isIntroduction = stripos($item['title'], 'introduction') !== false || ($totalItems === 1);
 															?>
 																<div class="accordion-item">
-																	<h3 class="accordion-header mt-1">
+																	<h3 class="accordion-header">
 																		<button class="accordion-button easyaccbutton <?php echo $isIntroduction ? '' : 'collapsed'; ?>"
 																			type="button" tabindex="0"
 																			data-bs-toggle="collapse"
@@ -328,7 +340,7 @@ $show_guides = !empty($styleguide);
 																		<div class="accordion-body">
 																			<?php echo $item['content']; ?>
 																			<button class="btn btn-print sectionprint" type="button" tabindex="0">
-																				Print this section<span class="visually-hidden"> (opens new window)</span>
+																				Print section<span class="visually-hidden"> - print this section of the style guide (opens new window)</span>
 																			</button>
 																		</div>
 																	</div>
@@ -373,23 +385,14 @@ $show_guides = !empty($styleguide);
 			<div class="container">
 				<div class="row">
 					<div class="col">
-						<!-- START ask the library -->
 						<div class="ask-container">
-
-							<div class="ask-the-library">
-								<a href="https://www.rmit.edu.au/library/about-and-contacts/ask-the-library">
-									<img src="https://rmitlibrary.github.io/cdn/image/svg/ask-the-library.svg"
-										class="ask-logo" alt="Ask the library" />
+							<section class="ask-the-library"><a href="https://www.rmit.edu.au/library/about-and-contacts/ask-the-library"><img src="https://rmitlibrary.github.io/cdn/footer/ask-library-icon-round.svg" class="ask-logo" alt="">
 									<div class="ask-text">
-										<p class="lead">Still can't find what you need?</p>
-										<p>The RMIT University Library provides study support, one-on-one consultations
-											and peer mentoring to RMIT students.</p>
+										<h2 class="h3 margin-top-zero">Ask the library</h2>
+										<p>Study support, one-on-one consultations and peer mentoring at your fingertips!</p>
 									</div>
-								</a>
-							</div>
-
+								</a></section>
 						</div>
-						<!-- END ask the library -->
 					</div>
 				</div>
 			</div>
@@ -398,22 +401,14 @@ $show_guides = !empty($styleguide);
 				<div class="container">
 					<div class="row">
 						<div class="col">
-							<div class="acknowledgement-container">
-								<div class="acknowledgement-image hide-md">
-									<img src="https://www.rmit.edu.au/content/dam/rmit/images/sentient-hollie-johnson.jpg" alt="" />
-								</div>
-
-								<div class="content">
-									<img alt="aboriginal flag"
-										src="https://www.rmit.edu.au/content/dam/rmit/au/en/news/homepage/flag-red.png" />
-									<img alt="torres strait flag"
-										src="https://www.rmit.edu.au/content/dam/rmit/au/en/news/homepage/flag-green.png">
-
+							<section class="acknowledgement-container">
+								<div class="content"><img alt="aboriginal flag" src="https://www.rmit.edu.au/content/dam/rmit/au/en/news/homepage/flag-red.png">
+									<img alt="torres strait flag" src="https://www.rmit.edu.au/content/dam/rmit/au/en/news/homepage/flag-green.png">
 									<h2 class="h4 margin-top-zero">Acknowledgement of Country</h2>
-									<p>RMIT University acknowledges the people of the Woi wurrung and Boon wurrung language groups of the eastern Kulin Nation on whose unceded lands we conduct the business of the University. RMIT University respectfully acknowledges their Ancestors and Elders, past and present. RMIT also acknowledges the Traditional Custodians and their Ancestors of the lands and waters across Australia where we conduct our business - Artwork 'Sentient' by Hollie Johnson, Gunaikurnai and Monero Ngarigo.</p>
-									<a href="https://www.rmit.edu.au/about/our-values/respect-for-australian-indigenous-cultures" class="link-large">More information</a>
+									<p>RMIT University acknowledges the people of the Woi wurrung and Boon wurrung language groups of the eastern Kulin Nation on whose unceded lands we conduct the business of the University. RMIT University respectfully acknowledges their Ancestors and Elders, past and present. RMIT also acknowledges the Traditional Custodians and their Ancestors of the lands and waters across Australia where we conduct our business<span class="img-credit"> - Artwork 'Sentient' by Hollie Johnson, Gunaikurnai and Monero Ngarigo</span>.</p><a href="#" class="link-large">More information</a>
 								</div>
-							</div>
+								<div class="acknowledgement-image"><img src="https://www.rmit.edu.au/content/dam/rmit/images/sentient-hollie-johnson.jpg" alt=""></div>
+							</section>
 						</div>
 					</div>
 				</div>
@@ -427,9 +422,7 @@ $show_guides = !empty($styleguide);
 							<!-- START logo -->
 							<a aria-label="Royal Melbourne Institute of Technology University Logo"
 								href="https://www.rmit.edu.au/">
-								<div aria-hidden="true" class="logo"><span class="no-focus" tabindex="-1"><img
-											src="https://rmitlibrary.github.io/cdn/image/svg/rmit-logo.svg"
-											alt="" /></span>
+								<div aria-hidden="true" class="logo"><span class="no-focus" tabindex="-1"><img src="https://rmitlibrary.github.io/cdn/image/svg/rmit-logo.svg" style="width:100px" alt=""></span>
 								</div>
 							</a>
 							<!-- END logo -->

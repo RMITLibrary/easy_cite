@@ -1,0 +1,127 @@
+/* primitive colours */
+
+$dark-grey: #333;               //  primary text colour
+$interface-grey: #BFBFBF;       //  divider, borders. etc. 
+                                //  Currently used on both light and dark mode
+$underlay-grey: #f5f5f5;        //  used for boxes, panels etc.
+$underlay-selected: #E6E6E6;    //  use sparingly, selected nav items
+
+$rmit-blue: #000054;
+$blue-hover: #0051A8;
+$rmit-red: #E61E2A;
+$correct-green: #009969;
+
+
+// map our colours to bootstrap variables for form controls, basics
+
+$gray-100: $underlay-grey;
+$gray-300: $interface-grey;
+$gray-400: $interface-grey;
+$gray-600: $interface-grey;
+$gray-900: $dark-grey;
+
+$blue: $rmit-blue;
+$green: $correct-green;
+$red: $rmit-red;
+
+// Light mode colours
+
+$body-color: #333;				// text         maps to var(--bs-body-color);
+$body-bg: #fff;					// bg colour    maps to var(--bs-body-bg-color);
+
+$headings-color: $blue;         // headings
+
+$link-color: $rmit-blue; //#1F3D99; // link colours
+$link-hover-color: $blue-hover;     // could be different from headings?
+$accent-color: #E61E2A;
+
+// dark
+$body-color-dark: #dfe2e6;
+$body-bg-dark: #222529;
+
+$headings-color-dark: #dfe2e6; //#b6c2ce;
+
+$link-color-dark: #6FB7FF;          // link colours dark
+$link-color-hover-dark: #98c3fa;
+$accent-color-dark: #E6636A;
+
+$underlay-grey-dark: #1c1f21;       //  used for boxes, panels etc.
+$underlay-selected-dark: #15171a;
+
+$form-select-indicator-color-dark:  $link-color-dark;
+
+// map colours to bootstrap vars for dark mode
+
+// Define your theme colours
+$theme-colors: (
+  "primary": $blue   
+);
+
+// Define subtle background colours for light mode
+$theme-colors-bg-subtle: map-merge(
+  $theme-colors,
+  (
+    "primary": $underlay-grey
+  )
+);
+
+// Define subtle background colours for dark mode
+$theme-colors-bg-subtle-dark: map-merge(
+  $theme-colors,
+  (
+    "primary": $underlay-grey-dark
+  )
+);
+
+
+$input-btn-focus-color: rgba(13, 110, 253, 0.4);    //default keyboard focus colour
+
+@mixin set-colours($text-col, $bg-col: $white) { 
+	color: $text-col;
+	background-color: $bg-col;
+}
+
+// Series of classes used to mark text to highlight certain words or phrases. 
+// It's important to remember to never use colour alone to convey information, due to visual impairments such as colour blindness.
+// If more than five highlights are required, consider restructuring information into several sections.
+
+@mixin highlight-1 { @include set-colours(#000000, #fac800); }	//yellow
+@mixin highlight-2 { @include set-colours(#000000, #70cfff); }	//cyan
+@mixin highlight-3 { @include set-colours(#000000, #81e996); }	//mint green
+@mixin highlight-4 { @include set-colours(#000000, #eb7ab6); }	//pink
+@mixin highlight-5 { @include set-colours(#000000, #f5904d); }	//orange
+@mixin highlight-6 { @include set-colours(#000000, #e66cef); }	//purple - try not to use
+@mixin highlight-7 { @include set-colours(#000000, #00F2B6); }	//teal - try not to use
+@mixin highlight-8 { @include set-colours(#000000, #99AFFF); }	//lavender - try not to use
+@mixin highlight-9 { @include set-colours(#000000, #CEF218); }	//tennis ball - try not to use
+
+.highlight-1 { @include highlight-1; }	//yellow
+.highlight-2 { @include highlight-2; }	//cyan
+.highlight-3 { @include highlight-3; }	//teal
+.highlight-4 { @include highlight-4; }	//pink
+.highlight-5 { @include highlight-5 }	//orange
+.highlight-6 { @include highlight-6 }	//purple
+.highlight-7 { @include highlight-7 }	//teal
+.highlight-8 { @include highlight-8 }	//lavender
+.highlight-9 { @include highlight-9 }	//tennis ball
+
+// Remap legacy colours to new highlights
+.color-teal { @include highlight-1; }
+.color-pink { @include highlight-2; }
+.color-green { @include highlight-3; }
+.color-purple { @include highlight-4; }
+.color-brown { @include highlight-5; }
+.color-blue { @include highlight-6; }
+//leave these last two, ideally we'd restrict highlights to a max of 5
+.color-red { @include set-colours($rmit-red, #FFE5E5); }
+.color-yellow { @include set-colours(#665200, #FFF9E0); }
+
+//Original colours
+/* .color-teal { @include set-colours(#14523F, #C6F1E4); }
+.color-pink { @include set-colours(#691668, #F4C3F3); }
+.color-green { @include set-colours(#2E562E, #E1EFE1); }
+.color-purple { @include set-colours(#522E99, #E6DCF4); }
+.color-brown { @include set-colours(#704123, #F4E7DC); }
+.color-blue { @include set-colours($rmit-blue, #D6E4FA); }
+.color-red { @include set-colours($rmit-red, #FFE5E5); }
+.color-yellow { @include set-colours(#665200, #FFF9E0); } */

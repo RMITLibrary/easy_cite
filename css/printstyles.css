@@ -165,12 +165,6 @@ a::after {
     color-adjust: exact !important;                 /*Firefox*/
 }
 
-.btn-print {
-	display: none;
-}
-.mobile-title{
-	display: none;
-}
-.right-nav-simple{
+.btn-print, .btn-nav-container, .mobile-title,.right-nav-simple {
 	display: none;
 }

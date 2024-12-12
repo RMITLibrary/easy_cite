@@ -1,218 +1,328 @@
 $img-width-xl: 100%;
-$img-width-lg: 40rem; //640px
-$img-width-md: 25rem; //400px
-$img-width-sm: 18.5rem; //296px
+$img-width-lg: 40rem;       //640px
+$img-width-md: 25rem;       //400px
+$img-width-sm: 18.5rem;     //296px
+$img-width-xs: 10rem;		//128px;
 
-/* Figures are centred, limit to 40rem width by default*/
+/*img {
+    width: 100%;
+	max-width: 40rem;
+    height: auto;
+}*/
+
+// Dark mode
+@include color-mode(dark) {
+	#page-content img {
+        filter: brightness(0.9) contrast(0.9);	//drop the contrast in dark mode to reduce eye strain.
+		
+		//Add a background colour to mitiage transparent png images which are premonenetly dark.
+		//Alternative is to add this as a custom class?
+		background-color: $underlay-grey;		
+    }
+}
+
 figure {
-  @include do-space(margin-top, lg);
-  @include do-space(margin-bottom, lg);
-  margin-left: auto;
-  margin-right: auto;
-
-  width: 100%;
-  max-width: $img-width-lg;
-}
-
-/* Use this class to align left rather than centre */
-figure.img-left {
-  margin-left: 0;
-  margin-right: 0;
-}
-
-.responsive-video {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  width: 100%;
-
-  @include media-breakpoint-up(md) {
-    width: $img-width-lg;
-    height: 22.5rem;
-    padding-bottom: 0;
-  }
-}
-
-.video {
-  border-bottom: 1px solid $interface-grey;
-
-  .responsive-video {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
+    
+    @include do-space(margin-top, lg); 
+    @include do-space(margin-bottom, lg); 
+    
     width: 100%;
-
-    /* At large screen sizes, we can set 16:9 values as layout is adaptive rather than responsive */
-  }
-
-  figcaption {
-    border-bottom: 0;
-    padding-bottom: 0;
-  }
-}
-
-.portrait-video {
-  margin-left: auto;
-  margin-right: auto;
-
-  width: 80%;
-  max-width: $img-width-md;
-
-  .responsive-video {
-    position: relative;
-    padding-bottom: 177%;
-    height: 0;
-    overflow: hidden;
-    width: 100%;
-  }
-}
-
-.responsive-video iframe,
-.responsive-video object,
-.responsive-video embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-img {
-  width: 100%;
-  height: auto;
-}
-
-/* A border can be added */
-img.border {
-  box-sizing: border-box;
-  border: 1px solid $interface-grey;
-}
-
-/* img width classes to override default max-width */
-.img-width- {
-  &full {
-    max-width: $img-width-xl;
-  }
-
-  &lg {
     max-width: $img-width-lg;
-  }
+	
+	//figcaption rules
+	figcaption {
+		@include type-small;
+		padding-top: 0.25rem;
+		padding-bottom: 0.5rem;
+	}
 
-  &md {
-    max-width: $img-width-md;
-  }
+	//class to give a bigger gap between imafge and caption
+	//(useful for diagram images on white backgrounds)
+	figcaption.gap-lg {
+		padding-top: 1.5rem;
+	}
+	
+	img {
+		width: 100%;
+		max-width: 100%;
+		height: auto;
+	}
 
-  &sm {
-    max-width: $img-width-sm;
-  }
+	// --- START #1 image sizing
+	
+	&.wide {
+		max-width: $img-width-xl;
+	}
+	
+	//adjust sizing of figure container
+	&.img-width- {
+		&lg {
+			max-width: $img-width-lg;
+		}
+
+		&md {
+			max-width: $img-width-md;
+		}
+
+		&sm {
+			max-width: $img-width-sm;
+		}
+		
+		&xs {
+			max-width: $img-width-xs;
+		}
+	}
+	// --- END #1 image sizing
+	
+	
+	// --- START #2 portrait images
+	
+	//for screens > 768px, show image and caption side by side
+	&.portrait, &.portrait-small {
+		max-width: $img-width-xl;	
+		
+		@include media-breakpoint-up(md) { 
+
+            //Additional div required. Use flex to position img and caption side by side
+			.image-caption-wrapper {
+				display: flex;
+				align-items: flex-end;
+				gap: 1.5rem;
+				
+                //contrict image width
+				img {
+					max-width: $img-width-md;
+				}
+				
+                //No margin required in this layout
+				figcaption {
+					padding: 0;
+				}
+			}		
+		} 
+	}
+	
+	//portrait small - restict max width to be even smaller
+	&.portrait-small {
+		@include media-breakpoint-up(md) { 
+			.image-caption-wrapper img {
+					max-width: $img-width-sm;
+			}				
+		} 
+	}
+	
+	// --- END #2 portrait images
+	
+	
+	// --- START #3 effects on image, border, drop-shadow, rounded corners, alignment
+	//apply classes to figure, which effect image below
+	//eg <figure class="border"><img /></figure>
+	
+    
+	//add a border
+	&.my-border {
+		img {
+			box-sizing: border-box;
+			border: 1px solid $interface-grey;
+		}
+	}
+	
+	
+	//add a drop-shadow
+	&.drop-shadow {
+		img {
+			box-sizing: border-box;
+			box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.10);
+		}
+		
+		//add more margin on top to cope with drop shadow
+		figcaption { margin-top: 0.5rem; }
+	}
+	
+	//add rounded corners
+	&.round-corners {
+		img {
+			border-radius: 0.5rem;
+		}
+	}
+
+	
+	//centre image 
+	&.centre {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+    // --- END #3 effects on image, border, drop-shadow, rounded corners, alignment
 }
 
-/* 
-For portrait images, wrap img tag in another div to limit img width 
-while maintaining width for captions, transcripts etc.
-*/
-figure {
-  .portrait {
-    max-width: $img-width-md;
-    margin: 0px auto;
-    flex-shrink: 0;
-  }
 
-  .portrait-sm {
-    max-width: $img-width-sm;
-    margin: 0px auto;
-    flex-shrink: 0;
-  }
+// --- START #4 styles dependent on presence of figcaption, transcript
+
+// Styling when only figcaption is present
+//increase border bottom on figcaption
+figure:has(figcaption):not(:has(.transcript)) {
+	figcaption {
+		padding-bottom: 0.75rem;
+	}
 }
 
-//Replicates above behaviour, insurance if class applied to image rather than creating new div.
-img.portrait {
-  max-width: $img-width-md;
-  margin: 0px auto;
+// Styling when either figcaption or transcript is present
+// add a bottom border to figure
+figure:has(figcaption), figure:has(.transcript) {
+	border-bottom: 1px solid $interface-grey;
 }
 
-//reduce type size, add border to the bottom by default
-figcaption {
-  @include type-small;
-  margin-top: 0.25rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid $interface-grey;
+// Styling when only figcaption is present within image-caption-wrapper (portrait modes)
+//increase border bottom on figcaption
+figure:has(.image-caption-wrapper):not(:has(.transcript)) {
+	.image-caption-wrapper {
+		margin-bottom: 1rem;
+	}
 }
 
-//if threre's a transcript, add border bottom to the figure, remove from figcaption
-figure.img-transcript {
-  padding-bottom: 0rem;
-  border-bottom: 1px solid $interface-grey;
+// Styling when only transcript is present
+//figure:has(.transcript):not(:has(figcaption)) {
+//  
+//}
 
-  figcaption {
-    border-bottom: 0;
-    padding-bottom: 0;
-  }
+// Styling when both figcaption and transcript are present
+//figure:has(figcaption):has(.transcript) {
+//
+//}
+
+// --- END #4 styles dependent on presence of figcaption, transcript
+
+
+// remove margins from content nsted withing float classes
+.float-right, .float-left, .float-right-sm, .float-left-sm {
+    
+	& > *:first-child {
+		margin-top: 0px;
+	}
+
+	& > *:last-child {
+		margin-bottom: 0px;
+	}
 }
 
-//caption-side allows to present portrait images side by side with a caption
-.caption-side {
-  //make the div fill whole contianer
-  max-width: $img-width-xl !important;
-
-  //add border bottom to the figure
-  padding-bottom: 1rem;
-  border-bottom: 1px solid $interface-grey;
-
-  //for sceens > 768px, so image and caption side by side
-  .img-caption-wrap {
-    @include media-breakpoint-up(md) {
-      display: flex;
-      align-items: flex-end;
-      gap: 1.5rem;
-      flex: 1 0 0;
-      align-self: stretch;
-
-      .portrait {
-        width: $img-width-md;
-        margin: 0;
-      }
-    }
-  }
-
-  //remove border, padding from caption
-  figcaption {
-    border-bottom: 0;
-    padding-bottom: 0;
-  }
+//Set max-width to 296px on medium screens
+.float-right, .float-left {
+    margin: 1.5rem 0 1.5rem 0;
+    
+	@include media-breakpoint-up(md) { 
+		// Is this the right way to do this? In use to prevent card from displaying too wide if floated.
+		max-width: $img-width-sm
+	}
 }
 
-//floaty floaty
-.float-right,
-.float-left {
-  @include media-breakpoint-up(md) {
-    width: 16rem;
-
-    figcaption {
-      border-bottom: 0;
-      padding-bottom: 0;
-    }
-  }
+//Small class. set max-width to 128px on all screens
+.float-right-sm, .float-left-sm {
+     max-width: $img-width-xs;
 }
 
-@include media-breakpoint-up(md) {
-  .float-right {
+//float right across all sizes
+.float-right-sm {
     float: right;
-    margin: 0.25rem 0 1.5rem 1.5rem !important;
-  }
-
-  .float-left {
-    float: left;
-    margin: 0.25rem 1.5rem 1.5rem 0 !important;
-  }
+    margin: 0.5rem 0 0.5rem 1rem;
 }
 
-.image-sm {
-  width: 12rem;
+//float right and adjust margins on medium screens
+.float-right {
+    
+    @include media-breakpoint-up(md) { 
+        float: right;
+        margin: 0.5rem 0 1rem 2rem;
+	}
+}
 
-  @include media-breakpoint-up(md) {
-    width: 12rem;
-  }
+//float left across all sizes
+.float-left-sm {
+    float: left;
+    margin: 0.5rem 1rem 0.5rem 0;
+}
+
+
+//float left and adjust margins on medium screens
+.float-left {
+	@include media-breakpoint-up(md) { 
+        float: left;
+       margin: 0.5rem 2rem 1rem 0;
+	}
+}
+
+//apply to ul or li if you want to use these with a float left image.
+//prevents overlapping
+.list-overflow-hide {
+    overflow: hidden;
+}
+
+
+// --- START #4 video styles
+.video, .video-3-2, .video-4-3, .video-square, .video-portrait {
+    border-bottom: 1px solid $interface-grey;
+    
+    .responsive-video {
+		position: relative;
+		height: 0;
+		overflow: hidden;
+		width: 100%;		
+	}
+    
+    figcaption {
+		border-bottom: 0;
+		padding-bottom: 0;
+	}
+}
+
+.video .responsive-video {
+    //adjust padding bottom to get correct aspect ratio
+    padding-bottom: 56.25%;
+}
+
+.video-3-2 .responsive-video {
+    //adjust padding bottom to get correct aspect ratio
+    padding-bottom: 66%;  
+}
+
+.video-4-3 .responsive-video {
+    //adjust padding bottom to get correct aspect ratio
+    padding-bottom: 75%; 
+}
+
+.video-square .responsive-video, .video-1-1 .responsive-video {
+    //adjust padding bottom to get correct aspect ratio
+    padding-bottom: 100%; 
+}
+
+.video-portrait {
+    
+    // video needed to give more control over sizing
+    // and keep transcript at reasonable width
+    .video-wrapper {
+        
+        //centre video and restrict width to 80% 
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        max-width: $img-width-md;
+        
+        //on larger screens, left align
+        @include media-breakpoint-up(md) { 
+            margin-left: 0;
+        }
+    }
+    
+    //adjust padding bottom to get correct aspect ratio
+    .responsive-video {
+		padding-bottom: 177%;
+	}
+}
+
+.responsive-video iframe, .responsive-video object, .responsive-video embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
