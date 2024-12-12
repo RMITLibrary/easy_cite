@@ -28,7 +28,7 @@
   },
   "scripts": {
     "sass": "sass --watch sass/main-new.scss:css/main-new.css --source-map",
-    "serve": "browser-sync start --proxy 'http://easy_cite.test/' --files 'css/*.css, *.html, *.php'",
+    "serve": "browser-sync start --proxy 'http://easy_cite.test/' --files 'css/*.css, **/*.js, **/*.php, *.html'",
     "start": "concurrently \"npm run sass\" \"npm run serve\"",
     "format": "prettier --write '**/*.{js,css,scss}'"
   },

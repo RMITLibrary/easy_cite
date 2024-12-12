@@ -4,14 +4,22 @@
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
 <!-- -->
-###### start-style-guide
-<!-- start the desktop style guide title -->
-<!-- the title headings must use heading 1 (#) -->
-###### start-desktop-title
-{.desktop-title}AGLC4 {/.desktop-title}
-###### end-desktop-title
+<!-- start the top style guide menu -->
+<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
+<!-- add additional style guides if needed -->
+###### start-style-menu
+# Using Easy Cite
+# AGLC4
+# APA 7<sup>th</sup> ed.
+# Chicago A
+# Chicago B
+# IEEE
+# RMIT Harvard
+# Vancouver
+###### end-style-menu
 <!-- -->
-<!-- start the right-hand TYPE menu -->
+###### start-style-guide
+<!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
@@ -23,26 +31,15 @@
 ## Online sources
 ## Audio visual material
 ## Other sources
+## Indigenous knowledges
 ## AI-generated content
 ###### end-type-menu
 <!-- -->
-<!-- start the mobile style guide title (only visible in mobile view) -->
-<!-- the title headings must use heading 1 (#) -->
-###### start-mobile-title
-{.mobile-title}AGLC4 {/.mobile-title}
-###### end-mobile-title
-<!-- -->
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
-
-###### start-type-content
-<!-- -->
 <!-- Using AGLC4 - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
-<!-- -->
-###### start-type-title
-{.type-title}Using AGLC4 {/.type-title}
-###### end-type-title
+###### start-type-content
 <!-- -->
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 ###### start-subtype
@@ -50,18 +47,18 @@
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to AGLC4
+### Introduction to the AGLC4 referencing style
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: This is a guide only**. To avoid losing marks:
+The AGLC4 (Australian Guide to Legal Citation 4th edition) is the official legal citation guide in Australia and is widely used by legal practitioners, law students and academics. The AGLC4 is the required referencing style for students enrolled in law programs within RMIT’s Graduate School of Business and Law. 
 
--	Confirm referencing requirements of your school with your lecturer.
+The AGLC4 is a **footnote** referencing style. **Superscript numbers** <sup>1,3,6</sup> represent in-text citations, and the details are included in a **footnote** at the end of each page. Where a bibliography is required, it should list all the citations used and other sources that were relied upon, organised **alphabetically** in sections and placed at the end of your document. 
 
--	The Australian Guide to Legal Citation (AGLC) 4th ed, 2018 is a required referencing style for students enrolled in the Juris Doctor program at RMIT University.
+The AGLC4 style is a collaboration between the *Melbourne University Law Review* and the *Melbourne Journal of International Law*. The official AGLC4 publication, which this guide is based on, is freely available to view and download from the <a href="https://law.unimelb.edu.au/mulr/aglc/about">publisher’s website</a> (click on *Download the view-only PDF version* option). 
 
--	Use <a href="https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf" target="_blank">*Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018)</a> (opens in a new tab), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
 ###### end-subtype-content
 
@@ -109,7 +106,7 @@ A pinpoint reference within a footnote directs the reader to a particular place 
 
 -	A pinpoint reference is provided at the end of the footnote.
 
-See section 3.1.4 of the <a href="https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf" target="_blank">AGLC4</a> (opens in a new tab)  for a full list of abbreviations used in pinpoint references for legislative materials.
+See section 3.1.4 of the <a href="https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf">AGLC4</a> (opens in a new tab)  for a full list of abbreviations used in pinpoint references for legislative materials.
 
 #### Repeat citations
 
@@ -218,24 +215,18 @@ Board of Examiners, *Admission Requirements* (18 February 2010) Council of Legal
 
 ###### end-subtype-item
 
-
-
 ###### end-subtype
 
 ###### end-type-content
 
 
-###### start-type-content
 
 <!-- Case law - links to the second type menu item -->
-###### start-type-title
-{.type-title}Case law {/.type-title}
+###### start-type-content
 
-###### end-type-title
-
-<!-- -->
 ###### start-subtype
-<!-- -->
+
+
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Case law - reported decision
@@ -303,9 +294,9 @@ Example of a pinpoint reference to a paragraph
 
 #### Law report abbreviations
 
-Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the <a href="https://guides.lib.monash.edu/legal-abbreviations" target="_blank">Monash University website</a> (opens in a new tab).
+Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the <a href="https://guides.lib.monash.edu/legal-abbreviations">Monash University website</a> (opens in a new tab).
 
-Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/" target="_blank">Cardiff University database</a> (opens in a new tab).
+Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/">Cardiff University database</a> (opens in a new tab).
 
 ###### end-subtype-content
 
@@ -375,9 +366,9 @@ A pinpoint reference is a reference to a specific page, paragraph or other secti
 > <sup>1</sup> *Stanford v Stanford* [2012] HCA 52 (15 November 2012) [12].
 
 #### Law report abbreviations
-Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the <a href="https://guides.lib.monash.edu/legal-abbreviations" target="_blank">Monash University website</a> (opens in a new tab).
+Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the <a href="https://guides.lib.monash.edu/legal-abbreviations">Monash University website</a> (opens in a new tab).
 
-Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/" target="_blank">Cardiff University database</a> (opens in a new tab).
+Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/">Cardiff University database</a> (opens in a new tab).
 
 ###### end-subtype-content
 
@@ -388,17 +379,12 @@ Legal abbreviations for English language legal publications, from the British Is
 ###### end-type-content
 
 
+<!-- Legislation - links to the third type menu item -->
 ###### start-type-content
 
-<!-- Legislation - links to the third type menu item -->
-###### start-type-title
-{.type-title}Legislation {/.type-title}
-
-###### end-type-title
-
-<!-- -->
 ###### start-subtype
-<!-- -->
+
+
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Legislation - statute or regulation (Act of Parliament)
@@ -465,17 +451,12 @@ Legal abbreviations for English language legal publications, from the British Is
 ###### end-type-content
 
 
+<!-- Books and e-books - links to the fourth type menu item -->
 ###### start-type-content
 
-<!-- Books and e-books - links to the fourth type menu item -->
-###### start-type-title
-{.type-title}Books and e-books {/.type-title}
-
-###### end-type-title
-
-<!-- -->
 ###### start-subtype
-<!-- -->
+
+
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Books and e-books: single author
@@ -639,18 +620,12 @@ When the citation appears in a bibliography, list the family name first. Sources
 ###### end-type-content
 
 
-<!-- -->
+<!-- Articles - links to the fifth type menu item -->
 ###### start-type-content
 
-<!-- Articles - links to the fifth type menu item -->
-###### start-type-title
-{.type-title}Articles {/.type-title}
-
-###### end-type-title
-
-<!-- -->
 ###### start-subtype
-<!-- -->
+
+
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Journal article with single author
@@ -794,17 +769,12 @@ When the citation appears in a bibliography, list the family name first. Sources
 ###### end-type-content
 
 
-<!-- -->
+<!-- Online sources - links to the sixth type menu item -->
 ###### start-type-content
 
-<!-- Online sources - links to the sixth type menu item -->
-###### start-type-title
-{.type-title}Online sources {/.type-title}
-
-###### end-type-title
-<!-- -->
 ###### start-subtype
-<!-- -->
+
+
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Internet source
@@ -832,7 +802,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 **Footnote example**
 
-> <sup>1</sup> Board of Examiners, 'Admission Requirements', *Council of Legal Information* (18 February 2010) <http<nolink>://www.lawadmissions.vic.gov.au >.
+> <sup>1</sup> Board of Examiners, 'Admission Requirements', *Council of Legal Information* (18 February 2010) <http<nolink>://www.lawadmissions.vic.gov.au>.
 
 **Bibliography example**
 
@@ -847,15 +817,9 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 ###### end-type-content
 
-<!-- -->
-###### start-type-content
-<!-- Audiovisual material - links to the seventh type menu item -->
-<!-- -->
-###### start-type-title
-{.type-title} Audiovisual material {/.type-title}
 
-###### end-type-title
-<!-- -->
+<!-- Audiovisual material - links to the seventh type menu item -->
+###### start-type-content
 
 ###### start-subtype
 
@@ -939,17 +903,14 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 ###### end-type-content
 
-<!-- -->
-###### start-type-content
+
 
 <!-- Other sources - links to the eighth type menu item -->
-###### start-type-title
-{.type-title}Other sources {/.type-title}
+###### start-type-content
 
-###### end-type-title
-<!-- -->
 ###### start-subtype
-<!-- -->
+
+
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Student's own work
@@ -961,7 +922,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration">Assessment Declaration</a> (opens in a new tab).
 
 The publication, *Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018) does not provide guidelines on how to cite your own work. The following examples show how to cite your own work that you have previously submitted for assessment.
 
@@ -1005,16 +966,49 @@ For example, if Geoffrey Smith wanted to cite a paper they wrote at RMIT Univers
 ###### end-type-content
 
 
-<!-- -->
+<!-- Indigenous knowledges -->
 ###### start-type-content
-<!-- AI-generated content - links to the ninth type menu item -->
-###### start-type-title
-{.type-title}AI-generated content {/.type-title}
+<!-- -->
 
-###### end-type-title
-<!-- -->
+<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
 ###### start-subtype
-<!-- -->
+<!-- start SUB_TYPE-ITEM - accordion item -->
+<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+
+### Indigenous knowledges: general advice
+<!-- the first accordion item must have this comment as shown in the line below -->
+<!-- first accordion item -->
+
+###### start-subtype-content
+
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+
+**Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
+
+
+<!-- AI-generated content - links to the ninth type menu item -->
+###### start-type-content
+
+###### start-subtype
+
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Using AI-generated content

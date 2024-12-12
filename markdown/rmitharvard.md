@@ -3,14 +3,22 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-<!-- -->
-###### start-style-guide
-<!-- start the desktop style guide title -->
-<!-- the title headings must use heading 1 (#) -->
-###### start-desktop-title
+
+<!-- start the top style guide menu -->
+<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
+<!-- add additional style guides if needed -->
+###### start-style-menu
+# Using Easy Cite
+# AGLC4
+# APA 7<sup>th</sup> ed.
+# Chicago A
+# Chicago B
+# IEEE
 # RMIT Harvard
-###### end-desktop-title
-<!-- -->
+# Vancouver
+###### end-style-menu
+
+###### start-style-guide
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -28,24 +36,14 @@
 ## Standards and patents
 ## Theses and dissertations
 ## Other sources
+## Indigenous knowledges
 ## AI-generated content
 ###### end-type-menu
-<!-- -->
-<!-- start the mobile style guide title (only visible in mobile view) -->
-<!-- the title headings must use heading 1 (#) -->
-###### start-mobile-title
-# RMIT Harvard
-###### end-mobile-title
-<!-- -->
+
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 <!-- Using Harvard - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
-<!-- -->
-###### start-type-title
-Using Harvard
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -59,21 +57,15 @@ Using Harvard
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: this is a guide only.** To avoid losing marks:
+The RMIT Harvard referencing style is based on the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/author-date">Australian Government Style Manual (AGSM)</a> that is designed for government workers in Australia. Although it is not targeted at students, Australian universities use and adapt, where necessary, the AGSM as the basis for their own version of Harvard. There is no official owner of the Harvard style, so each Australian university has their own version. The Harvard referencing style has no official affiliation to <a href="https://ask.library.harvard.edu/faq/81735">Harvard University in the USA</a>. 
 
-- Please confirm the referencing requirements for your course with your lecturer.
+The RMIT Harvard style is an **author-date** system. It requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of your document, sources appear in **alphabetical** order of author last name. 
 
-- Use the <a href="https://www.stylemanual.gov.au/referencing-and-attribution" target="_blank">**Referencing and attribution**</a> (opens in a new tab) section of the *Australian Government Style Manual (AGSM)* released in 2021, to clarify referencing rules or if you need more examples. The RMIT Harvard guide is based on this publication.
+RMIT Harvard is highly similar to the APA 7th referencing style, so APA 7th is a great alternative to RMIT Harvard. 
 
-RMIT Harvard is an author-date referencing style based on the **Author-date** referencing style of the AGSM.
+**Note:** Although the AGSM states that the title of online sources should be hyperlinked for electronic formats, the RMIT Harvard style does **not** do this because hyperlinked titles are not compatible with the EndNote program. In addition, the links would not be available when the work is printed. 
 
-RMIT Harvard style requires in-text citations and the reference list.
-
-**In-text citations** appear within the body of the document. They include the author’s family name or name of the organisation responsible for the information source and the year of publication, with page numbers required for quotes if available.
-
-**A reference list** provides the full bibliographic details of all in-text citations at the end of the assignment.
-
-**Note:** Although the AGSM states that the title of online sources should be hyperlinked for electronic formats, RMIT Harvard style does not do this because hyperlinked titles are not compatible with the EndNote program. In addition, the links would not be available when the work is printed.
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
 ###### end-subtype-content
 
@@ -108,7 +100,7 @@ RMIT Harvard style requires in-text citations and the reference list.
 
 - If no publication year is supplied, write **n.d.** (for 'no date'). If year can be reliably estimated or inferred from the text, then write **c.** (meaning 'circa' or approximately) followed by the year.
     
-- For **multiple citations in the same parentheses**, list all citations chronologically, separated by a semi-colon (;) for example:  
+- For **multiple citations in the same parentheses**, list all citations alphabetically by the author's last name, separated by a semi-colon (;). For example:  
     
     > It has been claimed that ... (Ghezzi and Cavallo 2018; Jocevski 2020; Soluk et al. 2021).
     
@@ -215,11 +207,11 @@ Identify works by the same author in the same year by inserting a letter after t
 
 ###### start-subtype-item
 
-### Referencing works by different first authors with the same family name
+### Referencing works by different authors with the same family name
 
 ###### start-subtype-content
 
-To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text citations.
+To identify the works of different authors with the same family name, insert the initial(s) of the authors’ first names in the in-text citations.
 
 #### In-text citation
 
@@ -227,7 +219,7 @@ To identify the works of different first authors with the same family name, inse
 
 #### Reference list entry
 
-In the reference list, order the works of each author alphabetically by the initial(s) of the first author's given names. 
+In the reference list, order the works of each author alphabetically by the initial(s) of the author's first name.
 
 ###### end-subtype-content
 
@@ -240,7 +232,7 @@ In the reference list, order the works of each author alphabetically by the init
 
 ###### start-subtype-content
 
-When including two or more references in the same parentheses in a sentence, list all citations chronologically, separated by a semi-colon (;).
+When including two or more references in the same parentheses, list all citations alphabetically by the author's last name, separated by a semi-colon (;).
 
 #### In-text citation
 
@@ -309,11 +301,11 @@ In the reference list, only include the source you read. For this example, if yo
 
 - When the shortened form or acronym of an organisation’s name is mentioned in your work, use it in your references. List the short form, then include the full name in parentheses.
 
-- If there are **multiple entries by the same author**, then arrange chronologically starting with the earliest year of publication.
+- If there are **multiple entries by the same author**, order chronologically starting with the earliest year of publication.
 
 - If there are **multiple entries by the same author in the same year**, add ‘a’ after the first work, ‘b’ after the second and so on.
 
-- If there are **multiple different first authors with the same family name**, then arrange alphabetically by initial(s) of the first authors' given names.
+- If there are **multiple different authors with the same family name**, order alphabetically by the initial(s) of the author's first name.
 
 - If the author used a **pseudonym or pen name**, list that name in the author position. If the actual name is known, place it in parentheses after the pen name, e.g. Mari (Maria Giovanna Colli).
 
@@ -395,12 +387,8 @@ WHO (World Health Organization) (2021) *WHO accelerates work on nutrition target
 ###### end-type-content
 
 
+
 <!-- Books - links to the second type menu item -->
-<!-- -->
-###### start-type-title
-Books
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1069,11 +1057,6 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 
 <!-- Journal articles - links to the third type menu item -->
-<!-- -->
-###### start-type-title
-Journal articles
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1377,11 +1360,6 @@ In your reference list:
 
 
 <!-- Newspaper and magazine articles - links to the fourth type menu item -->
-<!-- -->
-###### start-type-title
-Newspaper and magazine articles
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1696,11 +1674,6 @@ Example
 
 
 <!-- Conference papers - links to the fifth type menu item -->
-<!-- -->
-###### start-type-title
-Conference papers
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1880,11 +1853,6 @@ In your reference list:
 
 
 <!-- Websites and webpage documents - links to the sixth type menu item -->
-<!-- -->
-###### start-type-title
-Websites and webpage documents
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2044,11 +2012,6 @@ In your reference list:
 
 
 <!-- Social media - links to the seventh type menu item -->
-<!-- -->
-###### start-type-title
-Social media
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2186,11 +2149,6 @@ In your reference list:
 
 
 <!-- Audiovisual material - links to the eighth type menu item -->
-<!-- -->
-###### start-type-title
-Audiovisual material
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2517,11 +2475,6 @@ In your reference list:
 
 
 <!-- Artwork, images, tables and graphs - links to the ninth type menu item -->
-<!-- -->
-###### start-type-title
-Artwork, images, tables and graphs
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2968,11 +2921,6 @@ In the caption:
 
 
 <!-- Reports and data sets - links to the tenth type menu item -->
-<!-- -->
-###### start-type-title
-Reports and data sets
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -3237,11 +3185,6 @@ In your reference list:
 
 
 <!-- Standards and patents - links to the eleventh type menu item -->
-<!-- -->
-###### start-type-title
-Standards and patents
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -3351,11 +3294,6 @@ In your reference list:
 
 
 <!-- Theses and dissertations - links to the twelfth type menu item -->
-<!-- -->
-###### start-type-title
-Theses and dissertations
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -3507,11 +3445,6 @@ In your reference list:
 
 
 <!-- Other sources - links to the thirteenth type menu item -->
-<!-- -->
-###### start-type-title
-Other sources
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -3579,7 +3512,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-Take care to give accurate and complete details about legislation (Acts) and legal cases. The *Legal Material* section of the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/legal-material" target="_blank">Australian Government Style Manual</a> (opens in a new tab) provides more detail and examples regarding the use of legal materials.
+Take care to give accurate and complete details about legislation (Acts) and legal cases. The *Legal Material* section of the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/legal-material">Australian Government Style Manual</a> (opens in a new tab) provides more detail and examples regarding the use of legal materials.
 
 For **Acts of Parliament (legislation)** and **Bills**, a pinpoint is a reference to a specific page, paragraph or other section of the Act, e.g. pt 3 div 2 s 16, add **only** if applicable. Pinpoint references should appear as abbreviations and a number separated by a space. Pinpoints are placed after the abbreviated jurisdiction.
 
@@ -3715,7 +3648,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 **Note:** Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/my-course/assessment-results/assessment" target="_blank">Assessment Declaration</a>.
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/my-course/assessment-results/assessment">Assessment Declaration</a>.
 
 The *Australian Government Style Manual (AGSM)* does not provide information on how to cite your own work. The following is based on how to cite theses from the AGSM.
 
@@ -3945,13 +3878,44 @@ Add the accessed date (e.g. accessed 5 December 2021), followed by a full stop, 
 ###### end-type-content
 
 
+<!-- Indigenous knowledges -->
+###### start-type-content
+<!-- -->
+
+<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
+###### start-subtype
+<!-- start SUB_TYPE-ITEM - accordion item -->
+<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+
+### Indigenous knowledges: general advice
+<!-- the first accordion item must have this comment as shown in the line below -->
+<!-- first accordion item -->
+
+###### start-subtype-content
+
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+
+**Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>. 
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
 
 <!-- AI-generated content - links to the fourteenth type menu item -->
-<!-- -->
-###### start-type-title
-AI-generated content
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype

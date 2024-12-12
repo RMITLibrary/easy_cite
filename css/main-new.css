@@ -12199,7 +12199,6 @@ $img-width-sm: 18.5rem;     //296px*/
 }
 
 /* Adjust main-content padding top  to account for sub-menu behaviour */
-/* Main Content Adjustments */
 .main-content {
   padding-top: 3rem;
 }
@@ -12209,7 +12208,6 @@ $img-width-sm: 18.5rem;     //296px*/
   }
 }
 
-/* Navigation Styles */
 .top-navigation {
   font-size: 1rem;
 }
@@ -12243,14 +12241,13 @@ $img-width-sm: 18.5rem;     //296px*/
   }
 }
 
-/* Additional Links */
 .additional-links {
   list-style: none;
   padding: 0;
   padding-top: 2rem;
   margin: 1.5rem 0 0 !important;
   font-weight: 500;
-  border-top: 1px solid #fff;
+  border-top: 1px solid #bfbfbf;
 }
 .additional-links li {
   margin-bottom: 1rem;
@@ -12262,7 +12259,6 @@ $img-width-sm: 18.5rem;     //296px*/
   text-decoration: underline;
 }
 
-/* Right Navigation Styles */
 .right-nav-simple h1, .right-nav-simple .h1 {
   font-size: 1.5rem;
   padding: 0.25rem 1.5rem 0.75rem 1.5rem;
@@ -12290,7 +12286,6 @@ $img-width-sm: 18.5rem;     //296px*/
   background-color: #e6e6e6;
 }
 
-/* Text Formatting Styles */
 .hanging-indent {
   padding-left: 2rem;
   text-indent: -2rem;
@@ -12315,7 +12310,6 @@ $img-width-sm: 18.5rem;     //296px*/
   }
 }
 
-/* Mobile Specific */
 .mobile-title {
   display: none;
 }
@@ -12351,7 +12345,6 @@ $img-width-sm: 18.5rem;     //296px*/
   }
 }
 
-/* Page Title Section */
 .page-title {
   display: flex;
   justify-content: space-between;
@@ -12371,12 +12364,10 @@ $img-width-sm: 18.5rem;     //296px*/
   }
 }
 
-/* Accordion Links */
 .accordion-body a {
   overflow-wrap: break-word;
 }
 
-/* Footer Styles */
 footer {
   padding-bottom: 2rem;
 }
@@ -12459,6 +12450,33 @@ footer .footer-legal a {
   .acknowledgement .acknowledgement-container .acknowledgement-image {
     margin-top: 0rem;
   }
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: space-between; /* Ensures buttons are spread evenly */
+  margin: 10px 0; /* Top and bottom spacing */
+  gap: 10px; /* Space between buttons if multiple */
+}
+
+/* Adjust when only one button is present */
+.navigation-buttons > .btn-nav-prev:only-child {
+  margin-right: auto; /* Align left */
+}
+
+.navigation-buttons > .btn-nav-next:only-child {
+  margin-left: auto; /* Align right */
+}
+
+#page-content .right-nav-simple button.active {
+  border-left: 0.25rem solid #e61e2a;
+  padding: 0.75rem 2rem 0.75rem 1.75rem;
+  background-color: #e6e6e6;
+  color: #333;
+}
+
+.right-nav-simple .nav-tabs .nav-link {
+  border-radius: 0;
 }
 
 /* print button */

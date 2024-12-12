@@ -1,7 +1,7 @@
 <?php
 $menu_links = [
     ['id' => '2', 'label' => 'AGLC4'],
-    ['id' => '3', 'label' => 'APA 7th edition'],
+    ['id' => '3', 'label' => 'APA 7<sup>th</sup> Edition'],
     ['id' => '4', 'label' => 'Chicago A'],
     ['id' => '5', 'label' => 'Chicago B'],
     ['id' => '6', 'label' => 'IEEE'],

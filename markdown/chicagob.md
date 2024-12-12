@@ -3,14 +3,22 @@
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
 <!-- unless you need to add or delete sections as required for type and subtype content -->
-<!-- -->
-###### start-style-guide
-<!-- start the desktop style guide title -->
-<!-- the title headings must use heading 1 (#) -->
-###### start-desktop-title
+
+<!-- start the top style guide menu -->
+<!-- the STYLE GUIDE menu list must use heading 1 (#) -->
+<!-- add additional style guides if needed -->
+###### start-style-menu
+# Using Easy Cite
+# AGLC4
+# APA 7<sup>th</sup> ed.
+# Chicago A
 # Chicago B
-###### end-desktop-title
-<!-- -->
+# IEEE
+# RMIT Harvard
+# Vancouver
+###### end-style-menu
+
+###### start-style-guide
 <!-- start the left-hand TYPE menu -->
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
@@ -24,25 +32,15 @@
 ## Reports, standards and patents
 ## Images
 ## Other sources
+## Indigenous knowledges
 ## AI-generated content
 ###### end-type-menu
-<!-- -->
-<!-- start the mobile style guide title (only visible in mobile view) -->
-<!-- the title headings must use heading 1 (#) -->
-###### start-mobile-title
-# Chicago B
-###### end-mobile-title
-<!-- -->
+
 <!-- start the content area which will contain all the type/subtype panes -->
 ###### start-content-area
 
 <!-- Using Chicago - links to the first TYPE menu item -->
 <!-- add types at the end of this section if you have created new TYPE menu items -->
-<!-- -->
-###### start-type-title
-Using Chicago B (author-date)
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 <!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
@@ -56,22 +54,15 @@ Using Chicago B (author-date)
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: this is a guide only.** To avoid losing marks:
+The Chicago referencing style is widely used in art, design, architecture, music, history and humanities subjects. The Chicago Manual of Style includes detailed advice on citing and referencing sources used in these disciplines, including artworks, live performances and historical sources, as well as commonly-used source types such as books, journal articles and websites. 
 
-- Confirm referencing requirements with your lecturer.
+This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341">The Chicago Manual of Style 17th edition</a>. Please refer to this manual if you need more examples than those included in this guide, or if you need clarification. 
 
-- Use The Chicago Manual of Style. 17th ed. Chicago: University of Chicago Press, 2017 to clarify referencing rules or if you need more examples. This guide is based on This guide is based on the Chicago Manual of Style 17th edition <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341" target="_blank">The Chicago manual of style. 17th edition.</a> (opens in a new tab).
+There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **author-date** format.  
 
-- Additional information on Chicago referencing for students can be found within: A Manual for Writers of Research Papers, Theses, and Dissertations : Chicago Style for Students and Researchers 9th. edition
+The **author-date** format requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of the document, sources appear in **alphabetical** order of author last name.   
 
-The University of Chicago has developed several editions of the Chicago Manual of Style to aid authors in the preparation of manuscripts, which include referencing styles.
-
-There are two systems outlined by the Chicago referencing style: **Author-Date** (Chicago B) and **Notes-Bibliography** (Chicago A).
-
-This guide use examples in the **author-date** system. The author-date system requires in-text citations within the assignment, along with a full bibliographic entry in the reference list at the end of the assignment.
-
-For examples and advice regarding **Notes-Bibliography** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago A: Notes and Bibliography 17th ed.](index.php?styleguide=styleguide-4#stn-0).
-
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
 ###### end-subtype-content
 
@@ -86,9 +77,9 @@ For examples and advice regarding **Notes-Bibliography** of Chicago, please see 
 
 - Use in-text citations to acknowledge each author or source of information used within your writing either by paraphrasing or using a direct quote.
 
-- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/content/paraphrasing" target="_blank">Learning lab: Guide to paraphrasing</a> (opens in a new tab)
+- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/content/paraphrasing">Learning lab: Guide to paraphrasing</a> (opens in a new tab)
 
-- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/content/inserting-references" target="_blank">Learning Lab: Guide to inserting references</a> (opens in a new tab)
+- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/content/inserting-references">Learning Lab: Guide to inserting references</a> (opens in a new tab)
 
 - For specific advice on each reference you must determine the type of resource ie. book, journal article etc. and follow the recommended advice within this guide.
 
@@ -329,12 +320,9 @@ Tudor, Ken. 2015. "Protecting Pets in Abusive Human Relationships." *The Daily V
 ###### end-type-content
 
 
+
+
 <!-- Books - links to the second type menu item -->
-<!-- -->
-###### start-type-title
-Books
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -659,11 +647,6 @@ When author/editor for a dictionary or encyclopedia section is unknown, use the 
 
 
 <!-- Journals - links to the third type menu item -->
-<!-- -->
-###### start-type-title
-Journals
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -774,11 +757,6 @@ Where only the volume and a month or season is available, include this in place 
 
 
 <!-- Newspaper articles - links to the fourth type menu item -->
-<!-- -->
-###### start-type-title
-Newspaper articles
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -902,11 +880,6 @@ Sources such as webpages or online newspaper articles do not always include page
 
 
 <!-- Audiovisual - links to the fifth type menu item -->
-<!-- -->
-###### start-type-title
-Audiovisual
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1248,11 +1221,6 @@ Include an accessed date and URL/ Database name for online scores.
 
 
 <!-- Webpages, blogs and social media - links to the sixth type menu item -->
-<!-- -->
-###### start-type-title
-Webpages, blogs and social media
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1438,11 +1406,6 @@ Private content, including direct messages, should be cited as personal communic
 
 
 <!-- Reports and Standards - links to the seventh type menu item -->
-<!-- -->
-###### start-type-title
-Reports, standards and patents
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1621,11 +1584,6 @@ For eleven (11) or more Creators, list up to seven (7) Creators and end with et 
 
 
 <!-- Images - links to the eighth type menu item -->
-<!-- -->
-###### start-type-title
-Images
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -1805,7 +1763,7 @@ Make sure you refer to the figure in your writing and include the figure number.
 #### Captions for your own Work
 
 - Images you create of your own work are not usually referenced. However, a caption such as “Figure 2. Illustration by author” or “Figure 3. Draft sketches” might be appropriate when other images in your assignment are referenced.
-- See <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-5#stn-9#subtype-44">AI-generated content</a> for examples of how to caption an image you produce using an AI tool.
+- See **AI-generated content** in this style guide for examples of how to caption an image you produce using an AI tool.
 
 Figure number. Description or explanation.
 
@@ -1813,11 +1771,11 @@ Figure number. Description or explanation.
 
 #### Copyright information for the coach image
 
-This <a href="https://www.metmuseum.org/art/collection/search/378235" target="_blank">coach image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
+This <a href="https://www.metmuseum.org/art/collection/search/378235">coach image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
 #### Copyright information for the tapestry image
 
-This <a href="https://www.metmuseum.org/art/collection/search/39733" target="_blank">Dragon tapestry image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
+This <a href="https://www.metmuseum.org/art/collection/search/39733">Dragon tapestry image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
 ###### end-subtype-content
 
@@ -1915,11 +1873,6 @@ Follow the reference list rules for the type of resource you are citing ie. book
 
 
 <!-- Other sources - links to the ninth type menu item -->
-<!-- -->
-###### start-type-title
-Other sources
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
@@ -2284,12 +2237,44 @@ When the document is labelled PhD dissertation, use the abbreviation PhD diss.
 ###### end-type-content
 
 
+<!-- Indigenous knowledges -->
+###### start-type-content
+<!-- -->
+
+<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
+###### start-subtype
+<!-- start SUB_TYPE-ITEM - accordion item -->
+<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+
+### Indigenous knowledges: general advice
+<!-- the first accordion item must have this comment as shown in the line below -->
+<!-- first accordion item -->
+
+###### start-subtype-content
+
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+
+**Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
+
 <!-- AI-generated content - links to the tenth type menu item -->
-<!-- -->
-###### start-type-title
-AI-generated content
-###### end-type-title
-<!-- -->
 ###### start-type-content
 
 ###### start-subtype
