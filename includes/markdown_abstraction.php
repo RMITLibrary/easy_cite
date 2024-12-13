@@ -1,6 +1,6 @@
 <?php
 
-require 'Parsedown.php'; // Ensure the Parsedown.php file is included
+require 'vendor/Parsedown.php'; // Ensure the Parsedown.php file is included
 
 function getMarkdownContent($styleguide)
 {

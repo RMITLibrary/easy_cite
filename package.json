@@ -1,14 +1,21 @@
 {
   "devDependencies": {
     "browser-sync": "^3.0.3",
-    "browsersync": "^0.0.1-security",
+    "chokidar-cli": "^3.0.0",
     "concurrently": "^9.1.0",
+    "cross-env": "^7.0.3",
+    "cssnano": "^7.0.6",
+    "postcss-cli": "^11.0.0",
     "prettier": "^3.4.2",
-    "sass": "^1.82.0"
+    "sass": "^1.82.0",
+    "terser": "^5.37.0"
   },
   "name": "easy_cite",
   "version": "1.0.0",
   "description": "Easy Cite referencing tool by [RMIT University Library](https://www.rmit.edu.au/library) is licensed under [Creative Commons CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).",
+  "config": {
+    "devUrl": "http://easy_cite.test/"
+  },
   "main": "index.js",
   "dependencies": {
     "braces": "^3.0.3",
@@ -27,12 +34,23 @@
     "to-regex-range": "^5.0.1"
   },
   "scripts": {
-    "sass": "sass --watch sass/main-new.scss:css/main-new.css --source-map",
-    "serve": "browser-sync start --proxy 'http://easy_cite.test/' --files 'css/*.css, **/*.js, **/*.php, *.html'",
-    "start": "concurrently \"npm run sass\" \"npm run serve\"",
+    "build:css": "npm run scss:compile && npm run css:minify",
+    "build:js": "npm run js:minify",
+    "build": "concurrently 'npm run build:css' 'npm run build:js'",
+    "watch:scss": "chokidar 'assets/sass/**/*.scss' -c 'npm run build:css' --ignore 'assets/**/*.min.css'",
+    "watch:js": "chokidar 'assets/js/**/*.js' -c 'npm run build:js' --ignore 'assets/js/**/*.min.js'",
+    "serve": "cross-env browser-sync start --proxy $npm_package_config_devUrl --files 'assets/css/*.css, assets/**/*.js, **/*.php, *.html'",
+    "start": "concurrently 'npm run watch:scss' 'npm run watch:js' 'npm run serve'",
+    "scss:compile": "sass assets/sass/styles.scss assets/css/styles.css --source-map",
+    "css:minify": "postcss assets/css/styles.css --use cssnano -o assets/css/styles.min.css --map",
+    "js:minify": "terser assets/js/*.js -o assets/js/scripts.min.js",
     "format": "prettier --write '**/*.{js,css,scss}'"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": ">=22.12.0",
+    "npm": ">=10.9.0"
+  }
 }

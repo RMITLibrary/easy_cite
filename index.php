@@ -25,9 +25,11 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta name="description" content="" />
 	<meta name="author" content="" />
+	<meta name="language" content="en" />
 	<title><?php echo $pageTitle; ?></title>
-	<!-- Favicon-->
-	<link rel="icon" type="image/x-icon" href="assets/favicon.png" />
+	<!-- Favicon -->
+  	<link rel="icon" href="assets/favicon/favicon.png" type="image/x-icon"/>
+  	<link rel="shortcut icon" href="assets/favicon/favicon.png" type="image/x-icon"/>
 
 	<?php
 	include 'includes/head_tracking.php';
@@ -53,7 +55,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 					<!-- START right hand column -->
 					<div class="col">
 						<ul>
-							<li class="hide-sm">
+							<li class="hide-xs">
 								<a href="https://www.rmit.edu.au/library">Library</a>
 							</li>
 							<li class="hide-sm">
@@ -304,7 +306,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 											aria-labelledby="stn-<?php echo $typeIndex; ?>">
 
 											<div class="tab-content" id="stnContent-<?php echo $typeIndex; ?>">
-												<h2 class="h1 mobile-title"><?php echo htmlspecialchars($styleGuideTitle); ?></h2>
+												<?php /*<h2 class="h1 mobile-title"><?php echo htmlspecialchars($styleGuideTitle); ?></h2>*/?>
 												<div id="printable-guide">
 													<div class="page-title">
 														<h2 class="h1"><?php echo htmlspecialchars_decode($typeContent['title'], ENT_QUOTES); ?></h2>
@@ -379,7 +381,8 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 				</div>
 			<?php endif; ?>
 		</main>
-
+	</div>
+	<div class="wrapper  id="wrapper-footer-colophon">
 		<!-- START ask the librsary -->
 		<div class="footer-container">
 			<div class="container">

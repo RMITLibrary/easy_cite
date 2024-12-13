@@ -1,0 +1,394 @@
+/* Apply this class to make the top nav fixed */
+html.nav-fixed {
+  #page-content {
+    @include media-breakpoint-down(lg) {
+      padding-top: 3rem;
+    }
+  }
+}
+
+/* Adjust main-content padding top  to account for sub-menu behaviour */
+.main-content {
+  padding-top: 3rem;
+  @include media-breakpoint-down(md) {
+    padding-top: 1rem;
+  }
+}
+
+#context-menu {
+  z-index: 3;
+}
+
+//hide hamburger from large screen sizes
+.top-navigation .menu {
+  display: none;
+  @include media-breakpoint-down(lg) {
+    display: block;
+  }
+}
+
+/* Only displayed on large screen sizes */
+#sub-menu {
+  //To fix sub-menu, uncomment this!
+  //position: fixed;
+  padding-top: 3.5rem;
+
+  a {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  @include media-breakpoint-down(xl) {
+    ul {
+      gap: 1.5rem;
+    }
+  }
+
+  @include media-breakpoint-down(lg) {
+    display: none;
+  }
+}
+
+/* Extra links for context menu/hamburger nav */
+.additional-links {
+  margin-top: 1.5rem !important;
+
+  list-style: none;
+  padding: 0;
+  padding-top: 2rem;
+  margin: 0;
+
+  font-weight: 500;
+
+  border-top: 1px solid $white;
+
+  li {
+    margin-bottom: 1rem;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: $link-hover-decoration;
+  }
+}
+
+/* Style buttons as links */
+.right-nav-simple {
+  h1 {
+    font-size: 1.25rem;
+    padding: 0.75rem 1.5rem 0.75rem 3rem;
+    margin: 0;
+
+    /* Hide h1 at smaller sizes */
+    // @include media-breakpoint-down(lg) {
+    //   display: none;
+    // }
+  }
+
+  .nav-link {
+    border: 0;
+    background-color: var(--bs-primary-bg-subtle);
+    width: 100%;
+    padding: 0.75rem 2rem 0.75rem 2rem;
+    text-align: left;
+
+    color: $link-color;
+
+    display: inline-block;
+    width: 100%;
+    padding: 0.75rem 1.5rem 0.75rem 3rem;
+    border-radius: 0;
+
+    &.active {
+      border-left: 0.25rem solid $accent-color;
+      padding-left: 1.75rem;
+      background-color: $underlay-selected;
+      color: $link-color;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .selected {
+    border-left: 0.25rem solid $accent-color;
+    padding-left: 1.75rem;
+    background-color: $underlay-selected;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+// Dark mode
+@include color-mode(dark) {
+  .right-nav-simple {
+    .nav-link {
+      color: $link-color-dark;
+      &.active {
+        border-left: 0.25rem solid $accent-color-dark;
+        background-color: $underlay-selected-dark;
+      }
+    }
+  }
+}
+
+/* Do apa indenting on text */
+.hanging-indent {
+  padding-left: 2rem;
+  text-indent: -2rem;
+}
+
+.footnote-indent {
+  padding-left: -2rem;
+  text-indent: 2rem;
+}
+.ieee-refs {
+  padding-left: 2rem;
+  text-indent: -2rem;
+}
+.centre-align {
+  text-align: center !important;
+}
+
+.figure-text {
+  @include type-small;
+}
+
+/* only displayed when hamburger menu is displayed */
+.mobile-title {
+  display: none;
+
+  /* Show a title at the top of the page on mobile*/
+  @include media-breakpoint-down(lg) {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 3rem;
+
+    padding-top: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid $interface-grey;
+
+    font-size: 1.25rem;
+  }
+
+  /* adjust padding to account for no logo tab overhang */
+  @include media-breakpoint-down(md) {
+    padding-top: 0;
+  }
+
+  /* make divider go full screen width */
+  @include media-breakpoint-down(sm) {
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
+
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+}
+
+.home-title {
+  margin-top: 1.5rem;
+  @include media-breakpoint-up(lg) {
+    margin-top: 0;
+  }
+}
+
+/* Display page-title and print button side by side */
+.page-title {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+
+  /* Remove h1 marginsd for this context (other elements with provide margins) */
+  h2 {
+    margin: 0;
+  }
+
+  /* Fix button width to prevent flexbox from stretching button at small sizes */
+  // .btn-print {
+  // 	width: 94px;
+  // }
+
+  /* Stack elements at smaller sizes */
+  @include media-breakpoint-down(md) {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 1rem;
+  }
+
+  @include media-breakpoint-down(md) {
+    .btn-print {
+      order: 1; /* Button above heading on mobile */
+      margin: 0 auto 0 0;
+    }
+
+    .h1 {
+      order: 2; /* Heading below button on mobile */
+    }
+  }
+}
+
+/* Cope with long links in accordion content */
+.accordion-body a {
+  overflow-wrap: break-word;
+}
+
+/* footer */
+.footer-info {
+  @include do-space(margin-top, md);
+
+  p {
+    @include type-small;
+    margin: 0;
+  }
+}
+
+.footer-links {
+  margin-top: 1.5rem !important;
+}
+
+footer .footer-legal ul {
+  margin-left: 0rem;
+
+  li {
+    padding: 0;
+  }
+}
+
+.footer-container {
+  @include media-breakpoint-down(lg) {
+    margin-top: 0.5rem;
+  }
+}
+
+// New styles for buttons replicating the anchor styles
+
+.btn-nav-prev button,
+.btn-nav-next button {
+  position: relative;
+  color: var(--bs-link-color);
+  background-color: var(--bs-body-bg-color);
+  border-style: solid;
+  border-width: 1px;
+  border-color: var(--bs-link-color);
+  border-radius: 0.25rem;
+  box-sizing: border-box;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-wrap: pretty;
+  margin-right: 1rem;
+  padding: 8px 1rem;
+}
+
+.btn-nav-prev button,
+.btn-nav-next button {
+  font-size: 1.125rem;
+  font-weight: 500;
+  text-wrap: pretty;
+  text-decoration: none;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  border-radius: 0.5rem;
+  margin: 0;
+  padding: 1rem 0.5rem 1rem 1.5rem;
+  width: 100%;
+  height: 100%;
+  text-align: left;
+  background: none;
+  border-color: var(--bs-link-color);
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: underline;
+    color: var(--bs-link-hover-color);
+    background-color: var(--bs-body-bg-color);
+    border-color: var(--bs-link-hover-color);
+  }
+}
+
+@media (min-width: 768px) {
+  .btn-nav-prev button,
+  .btn-nav-next button {
+    font-size: 1.25rem;
+    width: 306px;
+  }
+}
+
+.btn-nav-prev button {
+  padding: 1rem 1.5rem 1rem 0.5rem;
+}
+
+.btn-nav-next button {
+  justify-content: space-between;
+}
+
+.btn-nav-prev button::before,
+.btn-nav-next button::after {
+  content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23E61E2A'%3e%3cpath fill-rule='evenodd' d='M9.33329 11C9.7065 11 10.0765 11.1557 10.3399 11.4585L16.0063 17.9844L21.661 11.4713C22.144 10.9158 22.9864 10.8561 23.5409 11.3391C24.0965 11.8221 24.1562 12.6635 23.6742 13.219L17.0129 20.8912C16.5075 21.4745 15.5062 21.4755 14.9997 20.8912L8.32668 13.2073C7.84364 12.6517 7.90335 11.8093 8.45891 11.3274C8.71162 11.1077 9.02299 11 9.33329 11Z'/%3e%3c/svg%3e");
+  flex-shrink: 0;
+  width: 2rem;
+  height: 2rem;
+  transform: rotate(-90deg);
+}
+
+.btn-nav-prev button::before {
+  transform: rotate(90deg);
+}
+
+.btn-nav-container > .btn-nav-next:only-child {
+  margin-left: auto;
+}
+
+.accordion-body img {
+  max-width: 100%;
+  height: auto;
+}
+
+.right-nav {
+  &--print {
+    box-sizing: border-box;
+    max-width: 36rem;
+
+    padding: 0.5rem 0 1.25rem 0;
+
+    //Provide a gap while menu is sits underneath content
+    @include do-space(margin-top, sm);
+
+    //Set a narrower max-width once a 2 col layout is displayed
+    @include media-breakpoint-up(lg) {
+      max-width: 24.5rem;
+    }
+
+    //At largest breakpoint, increase gap to the left, default bootstrap gap is too small
+    @include media-breakpoint-up(xl) {
+      margin-left: 1.5rem;
+    }
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .btn-nav-container {
+    border-bottom: 0;
+  }
+}
+
+@include color-mode(dark) {
+  #page-content .ask-container img {
+    background-color: transparent;
+  }
+
+  .btn-nav-prev button::before,
+  .btn-nav-next button::after {
+    content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23e6656c'%3e%3cpath fill-rule='evenodd' d='M9.33329 11C9.7065 11 10.0765 11.1557 10.3399 11.4585L16.0063 17.9844L21.661 11.4713C22.144 10.9158 22.9864 10.8561 23.5409 11.3391C24.0965 11.8221 24.1562 12.6635 23.6742 13.219L17.0129 20.8912C16.5075 21.4745 15.5062 21.4755 14.9997 20.8912L8.32668 13.2073C7.84364 12.6517 7.90335 11.8093 8.45891 11.3274C8.71162 11.1077 9.02299 11 9.33329 11Z'/%3e%3c/svg%3e");
+  }
+}
