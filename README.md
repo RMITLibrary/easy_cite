@@ -13,6 +13,12 @@ This resource is derived from a work by [Swinburne University Library](https://w
 - Integration with PHP to dynamically generate content based on user selections.
 - Printing functionality for parts of the style guides.
 
+## System Requirements
+
+- **Node.js**: >=22.12.0
+- **npm**: >=10.9.0
+- **PHP**: >=7.4
+
 ## Development Setup
 
 Ensure you have Node.js (>=22.12.0) and npm (>=10.9.0) installed. Then, use the following commands to set up the environment:
