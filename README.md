@@ -57,6 +57,10 @@ The PHP scripts ensure dynamic content rendering and URL parameter management, s
 - **Navigation & Printing:** Enhances user interaction with click event listeners and printing capabilities.
 - **URL Management:** Handles URL parameters for smooth navigation across tabs and accordions.
 
+## Browser Testing
+
+This project is tested with BrowserStack.
+
 ## Contribution
 
 Contributions are welcome. Please ensure your code follows the project's coding standards, and run `npm run format` before submitting changes.
