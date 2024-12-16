@@ -19,39 +19,60 @@ This resource is derived from a work by [Swinburne University Library](https://w
 - **npm**: >=10.9.0
 - **PHP**: >=7.4
 
-## Development Setup
+## Installation
 
-Ensure you have Node.js (>=22.12.0) and npm (>=10.9.0) installed. Then, use the following commands to set up the environment:
+1. Ensure you have Node.js (>=22.12.0) and npm (>=10.9.0) installed.
+2. Clone the repository.
+3. Navigate into the project directory.
+4. Run the following command to install dependencies:
 
-```bash
-npm install
+   ```bash
+   npm install
+   ```
+
+## Configuration
+
+The project uses a `baseUrl` configuration to set the hostname for local development. By default, this is set to `easy_cite.test`. To change this, update the `baseUrl` in the `package.json` file:
+
+```json
+"config": {
+  "baseUrl": "your_custom_url"
+}
 ```
 
-### Available Scripts
+Ensure your local development environment is configured to recognise this custom URL, such as updating your hosts file.
+
+## Available Scripts
+
+- **Start Development Environment:**
+
+  Begins the development process with live reloading:
+
+  ```bash
+  npm start
+  ```
+
+  This script will:
+
+  - Watch for changes in CSS and JavaScript files.
+  - Build CSS and JavaScript files.
+  - Serve the project with live reloading.
 
 - **Build CSS and JS:**
+
+  Compiles and minifies the CSS and JavaScript files, useful for deployment.
 
   ```bash
   npm run build
   ```
 
-  Compiles and minifies the CSS and JavaScript files.
-
-- **Watch for Changes:**
-
-  ```bash
-  npm run start
-  ```
-
-  Automatically compiles and reloads during development for both CSS and JS files.
-
 - **Format Code:**
+
+  Formats the project's JS and CSS using Prettier.
 
   ```bash
   npm run format
   ```
-
-  Formats the project's JS and CSS using Prettier.
 
 ## PHP Integration
 
@@ -66,6 +87,37 @@ The PHP scripts ensure dynamic content rendering and URL parameter management, s
 ## Browser Testing
 
 This project is tested with BrowserStack.
+
+## Cypress Testing
+
+Integration tests are conducted using Cypress to ensure functionality across different referencing styles and site interactions.
+
+### Running Cypress Tests
+
+- **Open Cypress Interface:**
+
+  Launches the Cypress Test Runner for interactive test development.
+
+  ```bash
+  npm run cypress:open
+  ```
+
+- **Run Cypress Tests:**
+
+  Executes all Cypress tests in headless mode.
+
+  ```bash
+  npm run cypress:run
+  ```
+
+### Test Coverage
+
+The Cypress tests include:
+
+- Verifying homepage elements and titles.
+- Testing navigation for each referencing style guide.
+- Ensuring all tabs and accordions function correctly.
+- Checking external links and print buttons.
 
 ## Contribution
 

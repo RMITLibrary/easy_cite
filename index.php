@@ -7,13 +7,13 @@ $show_guides = !empty($styleguide);
 
 // Default title
 $pageTitle = "Easy Cite referencing guide - Library - RMIT University";
-if ($show_guides){
+if ($show_guides) {
 	include 'includes/markdown_abstraction.php';
 }
 
 // Update title based on style guide
 if ($show_guides && !empty($extractedData['type_contents'])) {
-    $pageTitle = htmlspecialchars_decode(strip_tags($styleGuideTitle), ENT_QUOTES) . " style guide - $pageTitle";
+	$pageTitle = htmlspecialchars_decode(strip_tags($styleGuideTitle), ENT_QUOTES) . " style guide - $pageTitle";
 }
 
 ?>
@@ -28,8 +28,8 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 	<meta name="language" content="en" />
 	<title><?php echo $pageTitle; ?></title>
 	<!-- Favicon -->
-  	<link rel="icon" href="assets/favicon/favicon.png" type="image/x-icon"/>
-  	<link rel="shortcut icon" href="assets/favicon/favicon.png" type="image/x-icon"/>
+	<link rel="icon" href="assets/favicon/favicon.png" type="image/x-icon" />
+	<link rel="shortcut icon" href="assets/favicon/favicon.png" type="image/x-icon" />
 
 	<?php
 	include 'includes/head_tracking.php';
@@ -266,7 +266,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 					<!-- END content columns -->
 				</div>
 			<?php else: ?>
-		
+
 				<div id="nav-tabContent-0">
 					<div class="tab-pane fade show active" id="nav-0" role="tabpanel" aria-labelledby="nav-0-tab">
 
@@ -306,7 +306,6 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 											aria-labelledby="stn-<?php echo $typeIndex; ?>">
 
 											<div class="tab-content" id="stnContent-<?php echo $typeIndex; ?>">
-												<?php /*<h2 class="h1 mobile-title"><?php echo htmlspecialchars($styleGuideTitle); ?></h2>*/?>
 												<div id="printable-guide">
 													<div class="page-title">
 														<h2 class="h1"><?php echo htmlspecialchars_decode($typeContent['title'], ENT_QUOTES); ?></h2>
@@ -382,7 +381,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 			<?php endif; ?>
 		</main>
 	</div>
-	<div class="wrapper  id="wrapper-footer-colophon">
+	<div class="wrapper  id=" wrapper-footer-colophon">
 		<!-- START ask the librsary -->
 		<div class="footer-container">
 			<div class="container">
