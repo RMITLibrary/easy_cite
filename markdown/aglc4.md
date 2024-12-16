@@ -1039,7 +1039,7 @@ Some generative AI tools are not connected to the internet and are trained on da
 - While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 - The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
 
-The [Learning Lab Artificial Intelligence Tools module](https://emedia.rmit.edu.au/learninglab/content/artificial-intelligence-tools) has more information on how these AI tools work, and some points to consider when using them. 
+The [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/) has more information on how these AI tools work, and some points to consider when using them. 
 
 **Copyright and non-human authors**
 
