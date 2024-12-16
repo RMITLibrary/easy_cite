@@ -10,17 +10,16 @@ function render_menu($menu_links, $link_class = 'nav-link')
         $styleGuide = 'styleguide-' . $navId;
 
          // Determine if this is the active style guide
+         
         $isActive = ($get_styleguide === $styleGuide);
         $activeClass = $isActive ? ' selected' : '';
-
 
         // Check if class
         $classAttribute = $link_class ? ' class="' . htmlspecialchars($link_class . $activeClass) . '"' : '';
 
-        echo '<li><a id="nav-link-' . $navId . '"' . $classAttribute .
-            ' href="#" tabindex="0" data-bs-target="#nav-' . $navId .
-            '" aria-controls="nav-' . $navId .
-            '" data-styleguide="' . $styleGuide . '">' .
-            $link['label'] . '</a></li>';
+
+
+
+        echo '<li><a  '. $classAttribute .' href="#" tabindex="0" data-styleguide="' . $styleGuide . '">' .$link['label'] . '</a></li>';
     }
 }

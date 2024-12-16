@@ -41,7 +41,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 
 	<!-- START top nav -->
 	<header>
-		<a href="#page-content" class="visually-hidden">Skip to main content</a>
+		<a href="#page-content" class="visually-hidden-focusable">Skip to main content</a>
 		<div class="top-navigation">
 			<!-- START container -->
 			<div class="container">
@@ -425,7 +425,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 							<!-- START logo -->
 							<a aria-label="Royal Melbourne Institute of Technology University Logo"
 								href="https://www.rmit.edu.au/">
-								<div aria-hidden="true" class="logo"><span class="no-focus" tabindex="-1"><img src="https://rmitlibrary.github.io/cdn/image/svg/rmit-logo.svg" style="width:100px" alt=""></span>
+								<div aria-hidden="true" class="logo"><span class="no-focus" tabindex="-1"><img src="https://rmitlibrary.github.io/cdn/image/svg/rmit-logo.svg" style="width:100px" alt="RMIT University logo"></span>
 								</div>
 							</a>
 							<!-- END logo -->

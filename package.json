@@ -5,6 +5,7 @@
     "concurrently": "^9.1.0",
     "cross-env": "^7.0.3",
     "cssnano": "^7.0.6",
+    "cypress": "^13.16.1",
     "postcss-cli": "^11.0.0",
     "prettier": "^3.4.2",
     "sass": "^1.82.0",
@@ -14,7 +15,7 @@
   "version": "1.0.0",
   "description": "Easy Cite referencing tool by [RMIT University Library](https://www.rmit.edu.au/library) is licensed under [Creative Commons CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).",
   "config": {
-    "devUrl": "http://easy_cite.test/"
+    "baseUrl": "easy_cite.test"
   },
   "main": "index.js",
   "dependencies": {
@@ -39,12 +40,14 @@
     "build": "concurrently 'npm run build:css' 'npm run build:js'",
     "watch:scss": "chokidar 'assets/sass/**/*.scss' -c 'npm run build:css' --ignore 'assets/**/*.min.css'",
     "watch:js": "chokidar 'assets/js/**/*.js' -c 'npm run build:js' --ignore 'assets/js/**/*.min.js'",
-    "serve": "cross-env browser-sync start --proxy $npm_package_config_devUrl --files 'assets/css/*.css, assets/**/*.js, **/*.php, *.html'",
+    "serve": "cross-env browser-sync start --proxy http://$npm_package_config_baseUrl --host $npm_package_config_baseUrl --files 'assets/css/*.css, assets/**/*.js, **/*.php, *.html'",
     "start": "concurrently 'npm run watch:scss' 'npm run watch:js' 'npm run serve'",
     "scss:compile": "sass assets/sass/styles.scss assets/css/styles.css --source-map",
     "css:minify": "postcss assets/css/styles.css --use cssnano -o assets/css/styles.min.css --map",
     "js:minify": "terser assets/js/*.js -o assets/js/scripts.min.js",
-    "format": "prettier --write '**/*.{js,css,scss}'"
+    "format": "prettier --write '**/*.{js,css,scss}'",
+    "cypress:run": "cross-env CYPRESS_baseUrl=http://$npm_package_config_baseUrl cypress run",
+    "cypress:open": "cross-env CYPRESS_baseUrl=http://$npm_package_config_baseUrl cypress open"
   },
   "keywords": [],
   "author": "",
