@@ -299,6 +299,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 
 							<div class="col-xl-8 order-first">
 								<div class="tab-content">
+									<?php $subtype_counter = 0; ?>
 									<?php foreach ($extractedData['type_contents'] as $typeIndex => $typeContent): ?>
 										<div class="tab-pane fade <?php echo $typeIndex === 0 ? 'show active' : ''; ?>"
 											id="sgt-<?php echo $typeIndex; ?>"
@@ -329,15 +330,15 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 																		<button class="accordion-button easyaccbutton <?php echo $isIntroduction ? '' : 'collapsed'; ?>"
 																			type="button" tabindex="0"
 																			data-bs-toggle="collapse"
-																			data-bs-target="#subtype-<?php echo $typeIndex . '-' . $itemIndex; ?>"
+																			data-bs-target="#subtype-<?php echo $subtype_counter; ?>"
 																			aria-expanded="<?php echo $isIntroduction ? 'true' : 'false'; ?>"
-																			aria-controls="subtype-<?php echo $typeIndex . '-' . $itemIndex; ?>">
+																			aria-controls="subtype-<?php echo $subtype_counter; ?>">
 																			<?php echo htmlspecialchars_decode($item['title'], ENT_QUOTES); ?>
 																		</button>
 																	</h3>
 																	<div class="accordion-collapse collapse <?php echo $isIntroduction ? 'show' : ''; ?>"
-																		id="subtype-<?php echo $typeIndex . '-' . $itemIndex; ?>"
-																		aria-labelledby="heading-<?php echo $typeIndex . '-' . $itemIndex; ?>">
+																		id="subtype-<?php echo $subtype_counter; ?>"
+																		aria-labelledby="heading-<?php echo $subtype_counter; ?>">
 																		<div class="accordion-body">
 																			<?php echo $item['content']; ?>
 																			<button class="btn btn-print sectionprint" type="button" tabindex="0">
@@ -346,6 +347,9 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 																		</div>
 																	</div>
 																</div>
+																<?php
+																$subtype_counter++;
+																?>
 															<?php endforeach; ?>
 														</div>
 													<?php endforeach; ?>

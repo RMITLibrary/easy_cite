@@ -1,30 +1,31 @@
 document.addEventListener('DOMContentLoaded', function () {
   // Function to check and redirect old URLs
-  // issue with subtype naming convention changes
+  function redirectOldUrls() {
+    const url = new URL(window.location.href);
+    const hash = url.hash.substring(1); // Remove the '#' before processing
 
-  // function redirectOldUrls() {
-  //   const url = new URL(window.location.href);
-  //   const hash = url.hash.substring(1); // Remove the '#' before processing
+    if (hash.includes('#')) {
+      const fragments = hash.split('#');
+      const newParams = new URLSearchParams(url.search);
 
-  //   if (hash.includes('#')) {
-  //     const fragments = hash.split('#');
-  //     const newParams = new URLSearchParams(url.search);
+      fragments.forEach((fragment) => {
+        if (fragment.startsWith('stn-')) {
+          newParams.set('tab', fragment);
+        } else if (fragment.startsWith('subtype-')) {
+          newParams.set('accordion', fragment);
+        }
+      });
 
-  //     fragments.forEach((fragment) => {
-  //       if (fragment.startsWith('stn-')) {
-  //         newParams.set('tab', fragment);
-  //       } else if (fragment.startsWith('subtype-')) {
-  //         newParams.set('accordion', fragment);
-  //       }
-  //     });
+      // Construct new URL with the current origin
+      const newUrl = `${url.origin}${url.pathname}?${newParams.toString()}`;
 
-  //     // Construct new URL
-  //     const newUrl = `${url.origin}${url.pathname}?${newParams.toString()}`;
+      // Redirect to the new URL
+      window.location.replace(newUrl);
+    }
+  }
 
-  //     // Redirect to the new URL
-  //     window.location.replace(newUrl);
-  //   }
-  // }
+  // Execute the redirect function
+  redirectOldUrls();
 
   // Dark Mode Functions
   const getStoredTheme = () => localStorage.getItem('theme');
@@ -47,9 +48,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Set the initial theme
   setTheme(getPreferredTheme());
-
-  // Redirect old URLs if needed
-  // redirectOldUrls();
 
   // Initialise URL parameters
   const params = new URLSearchParams(window.location.search);
@@ -118,11 +116,31 @@ document.addEventListener('DOMContentLoaded', function () {
       if (params.get('accordion')) {
         setTimeout(() => {
           console.log('Scrolling and focusing target');
-          target.scrollIntoView({
+
+          const topNavigation = document.querySelector('.top-navigation');
+          const subMenu = document.getElementById('sub-menu');
+          const topNavigationHeight = topNavigation ? topNavigation.offsetHeight : 0;
+          let totalOffset = 0;
+
+          // Check if sub-menu is hidden
+          if (subMenu && window.getComputedStyle(subMenu).display !== 'none') {
+            totalOffset = subMenu.offsetHeight;
+          } else {
+            totalOffset = topNavigationHeight;
+          }
+
+          window.scrollTo({
+            top: target.getBoundingClientRect().top + window.scrollY - totalOffset,
             behavior: 'smooth',
-            block: 'start',
           });
-          target.querySelector('.accordion-button, .nav-link').focus();
+
+          // Optionally focus on the tab or accordion button
+          requestAnimationFrame(() => {
+            const focusableElement = target.querySelector('.accordion-button, .nav-link');
+            if (focusableElement) {
+              focusableElement.focus();
+            }
+          });
         }, 500);
       }
     }

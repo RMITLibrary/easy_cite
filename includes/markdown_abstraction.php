@@ -6,21 +6,21 @@ function getMarkdownContent($styleguide)
 {
 	switch ($styleguide) {
 		case "styleguide-1":
-			return ['markdown/rmitharvard.md', "RMIT Harvard", 'none'];
-		case "styleguide-2":
 			return ['markdown/aglc4.md', "AGLC4", 'none'];
-		case "styleguide-3":
+		case "styleguide-2":
 			return ['markdown/apa7thed.md', "APA 7<sup>th</sup> Edition", 'none'];
-		case "styleguide-4":
+		case "styleguide-3":
 			return ['markdown/chicagoa.md', "Chicago A", 'none'];
-		case "styleguide-5":
+		case "styleguide-4":
 			return ['markdown/chicagob.md', "Chicago B", 'none'];
-		case "styleguide-6":
+		case "styleguide-5":
 			return ['markdown/ieee.md', "IEEE", 'none'];
+		case "styleguide-6":
+			return ['markdown/rmitharvard.md', "RMIT Harvard", 'none'];
 		case "styleguide-7":
 			return ['markdown/vancouver.md', "Vancouver", 'none'];
 		default:
-			return ['markdown/infotab.md', "Using Easy Cite", 'block'];
+			return ['markdown/aglc4.md', "AGLC4", 'none'];
 	}
 }
 
