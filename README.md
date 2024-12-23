@@ -6,12 +6,17 @@ This resource is derived from a work by [Swinburne University Library](https://w
 
 ## OpenAthens migration 16/11/2023
 
-Links have been checked, 2 still require attention, after go live date. 
+Links have been checked, 2 still require attention, after go live date.
 
 rmitharvard.md - line 2658
 chicagoa.md - line 828
 
+## Browser Testing
+
+This project is tested with BrowserStack.
+
 #### © RMIT University Library
 
 ###### Developed by RMIT LIbrary Digital Learning
+
 ###### Dr Lisa Cianci (Blackaeonium) & Jack Dunstan
