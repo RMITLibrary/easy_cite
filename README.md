@@ -1,6 +1,6 @@
 # Easy Cite referencing tool
 
-Easy Cite referencing tool by [RMIT University Library](https://www.rmit.edu.au/library) is licensed under [Creative Commons CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+Easy Cite is a referencing tool by [RMIT University Library](https://www.rmit.edu.au/library). This tool aids in generating references using styles commonly adopted at RMIT University. It is licensed under [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 This resource is derived from a work by [Swinburne University Library](https://www.swinburne.edu.au/library), based on an original work by [Griffith University](https://www.griffith.edu.au/library) Library.
 
