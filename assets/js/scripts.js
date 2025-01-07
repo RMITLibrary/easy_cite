@@ -297,7 +297,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const printWindow = window.open('', '', 'height=1200, width=800');
       if (printWindow) {
         printWindow.document.write('<html><head>');
-        printWindow.document.write('<link href="css/printstyles.css" rel="stylesheet">');
+        printWindow.document.write('<link href="assets/css/printstyles.css" rel="stylesheet">');
         printWindow.document.write('</head><body>');
         printWindow.document.write('<h1>RMIT Library: Easy Cite online referencing resource</h1>');
         printWindow.document.write('<h2>' + printTitle + ' Style Guide</h2>');
