@@ -149,9 +149,11 @@ document.addEventListener('DOMContentLoaded', function () {
   // Update query string and reload the page for style guide changes
   function updateQueryStringAndReload(event) {
     console.log('Updating query string and reloading for style guide change');
-    event.preventDefault();
+
     const button = event.target.closest('a[data-styleguide]');
     if (!button) return;
+
+    event.preventDefault();
 
     const newStyleguide = button.getAttribute('data-styleguide');
     if (newStyleguide) {
