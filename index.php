@@ -42,7 +42,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 	?>
 	<!-- START top nav -->
 	<header>
-		<a href="#page-content" class="visually-hidden-focusable">Skip to main content</a>
+		<a href="#page-content" class="visually-hidden-focusable" data-ga-event="skip_to_content">Skip to main content</a>
 		<div class="top-navigation">
 			<!-- START container -->
 			<div class="container">
@@ -50,23 +50,23 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 					<!-- START left hand column -->
 					<div class="col-auto left-nav">
 						<div class="rmit-logo"><span class="visually-hidden">RMIT University logo</span></div>
-						<a href="./" tabindex="0" class="h2">Easy Cite<span class="visually-hidden">homepage</span></a>
+						<a href="./" tabindex="0" class="h2" data-ga-event="home_click">Easy Cite<span class="visually-hidden">homepage</span></a>
 					</div>
 					<!-- END left hand column -->
 					<!-- START right hand column -->
 					<div class="col">
 						<ul>
 							<li class="hide-xs">
-								<a href="https://www.rmit.edu.au/library">Library</a>
+								<a href="https://www.rmit.edu.au/library" data-ga-event="library_click">Library</a>
 							</li>
 							<li class="hide-sm">
-								<a href="https://www.rmit.edu.au/library/study/referencing">Referencing</a>
+								<a href="https://www.rmit.edu.au/library/study/referencing" data-ga-event="referencing_click">Referencing</a>
 							</li>
 							<li class="menu">
 								<button id="menu-button"
 									class="btn btn-primary collapsed" type="button" data-bs-toggle="collapse"
 									data-bs-target="#context-menu" data-bs-display="static" aria-expanded="false"
-									aria-controls="context-menu">Click for main menu</button>
+									aria-controls="context-menu" data-ga-event="main_menu_click">Click for main menu</button>
 							</li>
 						</ul>
 					</div>
@@ -86,12 +86,13 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 						?>
 					</ul>
 				</nav>
+
 				<ul class="additional-links">
 					<li>
-						<a href="https://www.rmit.edu.au/library">Library</a>
+						<a href="https://www.rmit.edu.au/library" data-ga-event="library_additional_click">Library</a>
 					</li>
 					<li>
-						<a href="https://www.rmit.edu.au/library/study/referencing">Referencing</a>
+						<a href="https://www.rmit.edu.au/library/study/referencing" data-ga-event="referencing_additional_click">Referencing</a>
 					</li>
 				</ul>
 			</div>

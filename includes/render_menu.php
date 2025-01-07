@@ -16,6 +16,10 @@ function render_menu($menu_links, $link_class = 'nav-link')
         // Check if class
         $classAttribute = $link_class ? ' class="' . htmlspecialchars($link_class . $activeClass) . '"' : '';
 
-        echo '<li><a  ' . $classAttribute . ' href="#" tabindex="0" data-styleguide="' . $styleGuide . '">' . $link['label'] . '</a></li>';
+        // Sanitize label for use in data-ga-event attribute
+        $sanitizedLabel = htmlspecialchars(str_replace(' ', '_', strtolower($link['label'])));
+        $dataGaEvent = 'data-ga-event="menu_link_' . $sanitizedLabel . '"';
+
+        echo '<li><a  ' . $classAttribute . ' href="#" tabindex="0" ' . $dataGaEvent . ' data-styleguide="' . $styleGuide . '">' . $link['label'] . '</a></li>';
     }
 }
