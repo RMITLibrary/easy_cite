@@ -32,13 +32,14 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 	<link rel="shortcut icon" href="assets/favicon/favicon.png" type="image/x-icon" />
 
 	<?php
-	include 'includes/head_tracking.php';
 	include 'includes/head_scripts.php';
 	?>
 </head>
 
 <body>
-
+	<?php
+	include 'includes/body_scripts.php';
+	?>
 	<!-- START top nav -->
 	<header>
 		<a href="#page-content" class="visually-hidden-focusable">Skip to main content</a>
