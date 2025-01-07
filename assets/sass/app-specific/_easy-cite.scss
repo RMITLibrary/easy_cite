@@ -17,6 +17,8 @@ html.nav-fixed {
 
 #context-menu {
   z-index: 3;
+  position: fixed;
+  overflow: auto;
 }
 
 //hide hamburger from large screen sizes

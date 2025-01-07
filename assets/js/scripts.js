@@ -1,4 +1,18 @@
 document.addEventListener('DOMContentLoaded', function () {
+  //Add event listeners for the Bootstrap collapse
+  const contextMenu = document.getElementById('context-menu');
+  if (contextMenu) {
+    contextMenu.addEventListener('show.bs.collapse', function () {
+      document.body.style.overflow = 'hidden';
+      contextMenu.style.maxHeight = '100vh';
+    });
+
+    contextMenu.addEventListener('hidden.bs.collapse', function () {
+      document.body.style.overflow = '';
+      contextMenu.style.maxHeight = '';
+    });
+  }
+
   // Function to check and redirect old URLs
   function redirectOldUrls() {
     const url = new URL(window.location.href);

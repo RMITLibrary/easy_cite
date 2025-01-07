@@ -14314,6 +14314,8 @@ $img-width-sm: 18.5rem;     //296px*/
 
 #context-menu {
   z-index: 3;
+  position: fixed;
+  overflow: auto;
 }
 
 .top-navigation .menu {
