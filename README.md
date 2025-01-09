@@ -17,6 +17,6 @@ This project is tested with BrowserStack.
 
 #### © RMIT University Library
 
-###### Developed by RMIT LIbrary Digital Learning
+###### Developed by RMIT Library Digital Learning
 
 ###### Dr Lisa Cianci (Blackaeonium) & Jack Dunstan
