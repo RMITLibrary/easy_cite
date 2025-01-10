@@ -76,7 +76,12 @@ html.nav-fixed {
     text-decoration: $link-hover-decoration;
   }
 }
-
+.right-nav-simple--sticky {
+  @include media-breakpoint-up(sm) {
+    position: sticky;
+    top: 168px;
+  }
+}
 /* Style buttons as links */
 .right-nav-simple {
   h1 {
