@@ -61,7 +61,7 @@ function extractTypeContents($markdownContent, $menuItems, $parsedown)
 	foreach ($matches[1] as $index => $content) {
 		$subtypes = extractSubtypes($content, $parsedown);
 		if (!empty($subtypes)) {
-			$title = cleanTitle(isset($menuItems[$index]) ? $menuItems[$index] : 'Untitled');
+			$title = cleanTitle($menuItems[$index] ?? 'Untitled');
 			$typeContents[] = [
 				'title' => $title,
 				'subtypes' => $subtypes
@@ -104,6 +104,7 @@ function extractSubtypeItems($content, $parsedown)
 
 			// Remove any remaining additional tags
 			$htmlContent = cleanHtmlContent($htmlContent);
+
 
 			if ($title || $htmlContent) {
 				$items[] = [
@@ -156,8 +157,7 @@ function cleanHtmlContent($content)
 }
 
 // Fetch and process markdown data
-$styleguide = !empty($styleguide) ? $styleguide : 'styleguide-0';
-list($markdownFile, $styleGuideTitle, $showInfobox) = getMarkdownContent($styleguide);
+list($markdownFile, $styleGuideTitle, $showInfobox) = getMarkdownContent(!empty($styleguide) ? $styleguide : 'styleguide-0');
 $extractedData = extractMarkdownData($markdownFile);
 
 // Output structured data for debugging
