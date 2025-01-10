@@ -10,9 +10,9 @@ function renderNavigationButtons($currentIndex, $menu)
   if ($prevIndex !== null) {
     $prevTitle = htmlspecialchars_decode($menu[$prevIndex], ENT_QUOTES);
     echo "<div class=\"btn-nav-prev\">
-            <button data-tab-index=\"$prevIndex\">
+            <button data-tab-index=\"$prevIndex\"><span>
               <span class=\"visually-hidden\">Go to the previous chapter: </span>
-              $prevTitle
+              $prevTitle</span>
             </button>
           </div>";
   }
@@ -20,9 +20,9 @@ function renderNavigationButtons($currentIndex, $menu)
   if ($nextIndex !== null) {
     $nextTitle = htmlspecialchars_decode($menu[$nextIndex], ENT_QUOTES);
     echo "<div class=\"btn-nav-next\">
-            <button data-tab-index=\"$nextIndex\">
+            <button data-tab-index=\"$nextIndex\"><span>
               <span class=\"visually-hidden\">Go to the next chapter: </span>
-              $nextTitle
+              $nextTitle</span>
             </button>
           </div>";
   }
