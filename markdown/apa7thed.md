@@ -139,7 +139,7 @@ If you omit words from a direct quote, you will need to add a space followed by 
 
 *Note: Quotes more than **40 words** in length need to be in **block** form – without using quotation marks, begin the quote on a new, indented line, and double-space the entire quote. At the end of the quote, include citation details such as author(s), year and page number(s) in parentheses.*
 
->> The difference between intrinsic motivation and motivation to learn is closely related to the difference between affective and cognitive engagement experiences. Intrinsic motivation refers primarily to affective experience—enjoyment of the processes involved in engaging in an activity. In contrast, motivation to learn is primarily a cognitive experience involving attempts to make sense of the information that an activity conveys, to relate this information to prior knowledge, and to master the skills that the activity develops. (Brophy, 2010, p. 12)
+> The difference between intrinsic motivation and motivation to learn is closely related to the difference between affective and cognitive engagement experiences. Intrinsic motivation refers primarily to affective experience—enjoyment of the processes involved in engaging in an activity. In contrast, motivation to learn is primarily a cognitive experience involving attempts to make sense of the information that an activity conveys, to relate this information to prior knowledge, and to master the skills that the activity develops. (Brophy, 2010, p. 12)
 
 ###### end-subtype-content
 
