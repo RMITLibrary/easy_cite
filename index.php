@@ -49,7 +49,11 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 				<div class="row">
 					<!-- START left hand column -->
 					<div class="col-auto left-nav">
-						<div class="rmit-logo"><span class="visually-hidden">RMIT University logo</span></div>
+						<a aria-label="Royal Melbourne Institute of Technology University Logo" href="https://www.rmit.edu.au/">
+
+
+							<div class="rmit-logo"><span class="visually-hidden">RMIT University logo</span></div>
+						</a>
 						<a href="./" tabindex="0" class="h2" data-ga-event="home_click">Easy Cite<span class="visually-hidden">homepage</span></a>
 					</div>
 					<!-- END left hand column -->
