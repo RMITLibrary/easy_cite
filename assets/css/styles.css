@@ -14367,6 +14367,13 @@ $img-width-sm: 18.5rem;     //296px*/
   text-decoration: none;
 }
 
+@media (min-width: 576px) {
+  .right-nav-simple--sticky {
+    position: sticky;
+    top: 168px;
+  }
+}
+
 /* Style buttons as links */
 .right-nav-simple h1, .right-nav-simple .h1 {
   font-size: 1.25rem;

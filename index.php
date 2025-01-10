@@ -279,26 +279,27 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 						<div class="row ">
 
 							<div class="col-xl-4 order-last">
-								<nav class="right-nav-simple" aria-label="Section Menu">
-									<h1 class="h1"><?php echo htmlspecialchars_decode($styleGuideTitle, ENT_QUOTES); ?></h1>
-									<nav class="nav nav-tabs" role="tablist">
-										<?php foreach ($extractedData['menu'] as $index => $title): ?>
+								<div class="right-nav-simple--sticky">
+									<nav class="right-nav-simple" aria-label="Section Menu">
+										<h1 class="h1"><?php echo htmlspecialchars_decode($styleGuideTitle, ENT_QUOTES); ?></h1>
+										<nav class="nav nav-tabs" role="tablist">
+											<?php foreach ($extractedData['menu'] as $index => $title): ?>
 
-											<button class="nav-link <?php echo $index === 0 ? 'active' : ''; ?>"
-												id="stn-<?php echo $index; ?>"
-												data-bs-toggle="tab"
-												data-bs-target="#sgt-<?php echo $index; ?>"
-												type="button" role="tab"
-												aria-controls="sgt-<?php echo $index; ?>"
-												aria-selected="<?php echo $index === 0 ? 'true' : 'false'; ?>">
-												<?php echo htmlspecialchars_decode($title, ENT_QUOTES); ?>
-											</button>
-										<?php endforeach; ?>
+												<button class="nav-link <?php echo $index === 0 ? 'active' : ''; ?>"
+													id="stn-<?php echo $index; ?>"
+													data-bs-toggle="tab"
+													data-bs-target="#sgt-<?php echo $index; ?>"
+													type="button" role="tab"
+													aria-controls="sgt-<?php echo $index; ?>"
+													aria-selected="<?php echo $index === 0 ? 'true' : 'false'; ?>">
+													<?php echo htmlspecialchars_decode($title, ENT_QUOTES); ?>
+												</button>
+											<?php endforeach; ?>
+										</nav>
 									</nav>
-								</nav>
-								<div class="right-nav--print">
-									<button class="btn btn-print guideprint " type="button">Print full style guide <span class="visually-hidden">(opens new window)</span></button>
-
+									<div class="right-nav--print">
+										<button class="btn btn-print guideprint " type="button">Print full style guide <span class="visually-hidden">(opens new window)</span></button>
+									</div>
 								</div>
 
 							</div>
