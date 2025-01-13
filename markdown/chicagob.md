@@ -1742,12 +1742,12 @@ Create the reference list entry according to the rules for the source. List auth
 
 ##### Example 1
 
-> ![Sample image](images/Design-for-Coach-no.3022.jpg)
+> ![Sample image](images/Design-for-Coach-no.3022.webp)
 > {.figure-text}Figure 1. Author unknown, *Design for Coach: no. 3022*, 1874. Pen and black ink, watercolor and gouache with gum arabic, 18.1 x 24.8 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/378235. {/.figure-text}
 
 ##### Example 2
 
-> ![Sample image](images/Dragon_tapestry.jpg)
+> ![Sample image](images/Dragon_tapestry.webp)
 > {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?.  {/.figure-text}
 
 Or if located in a book  
@@ -2432,7 +2432,7 @@ Follow the [caption rules for your own work](https://www.lib.rmit.edu.au/easy-ci
 
 ##### Example
 
-> ![Two students studying in a park](images/Firefly-two-students-studying-in-a-park-in-the-sunshine-16158.jpg)<br>
+> ![Two students studying in a park](images/Firefly-two-students-studying-in-a-park-in-the-sunshine-16158.webp)<br>
 > Figure 1. Artwork created using Adobe Firefly in response to the prompt: two students studying in a park in the sunshine.
 
 

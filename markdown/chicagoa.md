@@ -1577,7 +1577,7 @@ If the image was on a website include the URL, otherwise provide the source deta
 
 ##### Caption example
 
-> ![Image of a silk tapestry of a dragon and flowers](images/Dragon_tapestry.jpg)
+> ![Image of a silk tapestry of a dragon and flowers](images/Dragon_tapestry.webp)
 > {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?.{/.figure-text}
 
 or if found in a book
@@ -2081,7 +2081,7 @@ Follow the [caption rules for your own work](https://www.lib.rmit.edu.au/easy-ci
 
 ##### Example
 
-> ![Two students studying in a park](images/Firefly-two-students-studying-in-a-park-in-the-sunshine-16158.jpg)<br>
+> ![Two students studying in a park](images/Firefly-two-students-studying-in-a-park-in-the-sunshine-16158.webp)<br>
 > Figure 1. Artwork created using Adobe Firefly in response to the prompt: two students studying in a park in the sunshine.
 
 

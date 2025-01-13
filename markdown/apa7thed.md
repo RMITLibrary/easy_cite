@@ -1866,7 +1866,7 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 
 > {.figure-text}**Figure 2**<br>
 *Anatomy of the Thyroid and Parathyroid Glands*<br>
-![anatomical illustration showing thyroid and parathroid glands](images/ThyroidParathyroidAnatomy96dpi.jpeg)<br>
+![anatomical illustration showing thyroid and parathroid glands](images/ThyroidParathyroidAnatomy96dpi.webp)<br>
 *Note*. Anatomy of the thyroid and parathyroid glands. From "Parathyroid cancer Treatment (PDQ®) – Patient Version," by National Cancer Institute, 2016, (https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq). Copyright 2012 by Terese Winslow LLC. Reprinted with permission. {/.figure-text}
 
 Acknowledgement for the use of the image in this guide: For the National Cancer Institute © 2012 Terese Winslow LLC, U.S. Govt. has certain rights.
@@ -1994,7 +1994,7 @@ Below the figure, include a note that has a brief but descriptive phrase, as wel
 
 > {.figure-text}**Figure 4**<br>
 *MRI*<br>
-![MRI](images/MRI_machine.jpeg)<br>
+![MRI](images/MRI_machine.webp)<br>
 *Note*. A magnetic resonance imaging machine. From "MRI," by L. West, 2012, (https://www.flickr.com/photos/calliope/7694882446). Copyright 2012 by L. West. CC BY 2.0.{/.figure-text}
 
 #### Reference list
@@ -2957,7 +2957,7 @@ To include the image in your work provide a figure number and brief title above 
 
 **Example**
 
-> ![Interstellar space squid](images/Firefly-interstellar-purple-and-orange-space-squid-62452.jpg)<br>
+> ![Interstellar space squid](images/Firefly-interstellar-purple-and-orange-space-squid-62452.webp)<br>
 > _Note_. Image generated using Adobe Firefly using prompt interstellar purple and orange space squid.
 
 ###### end-subtype-content
