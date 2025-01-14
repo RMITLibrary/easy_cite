@@ -14378,28 +14378,24 @@ $img-width-sm: 18.5rem;     //296px*/
 .right-nav-simple h1, .right-nav-simple .h1 {
   font-size: 1.25rem;
   padding: 0.75rem 1.5rem 0.75rem 3rem;
-  padding: 0.75rem 1.5rem 0.75rem 2rem;
+  padding: 0.25rem 1.5rem 0.75rem 1.5rem;
   margin: 0;
+  border-bottom: 1px solid #bfbfbf;
   /* Hide h1 at smaller sizes */
 }
 .right-nav-simple .nav-link {
   border: 0;
   background-color: var(--bs-primary-bg-subtle);
-  width: 100%;
-  padding: 0.75rem 2rem 0.75rem 2rem;
   text-align: left;
   color: #000054;
   display: inline-block;
   width: 100%;
-  padding: 0.75rem 1.5rem 0.75rem 3rem;
-  padding: 0.75rem 1.5rem 0.75rem 2rem;
+  padding: 0.75rem 1.5rem 0.75rem 1.5rem;
   border-radius: 0;
 }
 .right-nav-simple .nav-link.active {
   border-left: 0.25rem solid #E61E2A;
-  padding-left: 1.75rem;
-  padding-left: 2.75rem;
-  padding-left: 1.75rem;
+  padding-left: 1.25rem;
   background-color: #E6E6E6;
   color: #000054;
 }
