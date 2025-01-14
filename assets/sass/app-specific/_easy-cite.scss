@@ -87,6 +87,7 @@ html.nav-fixed {
   h1 {
     font-size: 1.25rem;
     padding: 0.75rem 1.5rem 0.75rem 3rem;
+    padding: 0.75rem 1.5rem 0.75rem 2rem;
     margin: 0;
 
     /* Hide h1 at smaller sizes */
@@ -107,10 +108,13 @@ html.nav-fixed {
     display: inline-block;
     width: 100%;
     padding: 0.75rem 1.5rem 0.75rem 3rem;
+    padding: 0.75rem 1.5rem 0.75rem 2rem;
     border-radius: 0;
 
     &.active {
       border-left: 0.25rem solid $accent-color;
+      padding-left: 1.75rem;
+      padding-left: 2.75rem;
       padding-left: 1.75rem;
       background-color: $underlay-selected;
       color: $link-color;

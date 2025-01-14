@@ -14378,6 +14378,7 @@ $img-width-sm: 18.5rem;     //296px*/
 .right-nav-simple h1, .right-nav-simple .h1 {
   font-size: 1.25rem;
   padding: 0.75rem 1.5rem 0.75rem 3rem;
+  padding: 0.75rem 1.5rem 0.75rem 2rem;
   margin: 0;
   /* Hide h1 at smaller sizes */
 }
@@ -14391,10 +14392,13 @@ $img-width-sm: 18.5rem;     //296px*/
   display: inline-block;
   width: 100%;
   padding: 0.75rem 1.5rem 0.75rem 3rem;
+  padding: 0.75rem 1.5rem 0.75rem 2rem;
   border-radius: 0;
 }
 .right-nav-simple .nav-link.active {
   border-left: 0.25rem solid #E61E2A;
+  padding-left: 1.75rem;
+  padding-left: 2.75rem;
   padding-left: 1.75rem;
   background-color: #E6E6E6;
   color: #000054;
