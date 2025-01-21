@@ -475,7 +475,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 										<li>CRICOS provider number: 00122A<span> | </span></li>
 										<li>TEQSA provider number: PRV12145<span> | </span></li>
 										<li>RTO Code: 3046<span> | </span></li>
-										<li><a href="https://www.open.edu.au/online-courses/rmit-university"><span class="no-focus" tabindex="-1">Open Universities Australia</span></a></li>
+										<li><a href="https://www.open.edu.au/courses/degrees/rmit"><span class="no-focus" tabindex="-1">Open Universities Australia</span></a></li>
 									</ul>
 								</div>
 								<!-- END legal -->
