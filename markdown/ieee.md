@@ -680,7 +680,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 ##### Example
 
 > {.ieee-refs}[2] &nbsp;&nbsp; M.H. Bollen, and H. Hassan. *Integration of Distributed Generation in the Power System*. 
-Somerset, UK: Wiley-IEEE Press. [Online]. Available: doi.org/10.1002/9781118029039. {/.ieee-refs}
+Somerset, UK: Wiley-IEEE Press, 2011. [Online]. Available: doi.org/10.1002/9781118029039. {/.ieee-refs}
 
 
 ###### end-subtype-content
