@@ -41,24 +41,44 @@ document.addEventListener('DOMContentLoaded', function () {
   // Execute the redirect function
   redirectOldUrls();
 
-  // Dark Mode Functions
+  // THEME SWITCHER
   const getStoredTheme = () => localStorage.getItem('theme');
+  const setStoredTheme = (theme) => localStorage.setItem('theme', theme);
 
   const getPreferredTheme = () => {
     const storedTheme = getStoredTheme();
-    if (storedTheme) {
-      return storedTheme;
-    }
-    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    return storedTheme ? storedTheme : window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
   };
 
   const setTheme = (theme) => {
-    if (theme === 'auto') {
-      document.documentElement.setAttribute('data-bs-theme', window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-    } else {
-      document.documentElement.setAttribute('data-bs-theme', theme);
-    }
+    const themeToSet = theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme;
+    document.documentElement.setAttribute('data-bs-theme', themeToSet);
   };
+
+  const showActiveTheme = (theme) => {
+    document.querySelectorAll('.theme-switch').forEach((themeSwitcher) => {
+      themeSwitcher.querySelectorAll('[data-bs-theme-value]').forEach((element) => {
+        element.checked = element.getAttribute('data-bs-theme-value') === theme;
+      });
+    });
+  };
+
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+    const storedTheme = getStoredTheme();
+    if (storedTheme !== 'light' && storedTheme !== 'dark') {
+      setTheme(getPreferredTheme());
+    }
+  });
+
+  showActiveTheme(getPreferredTheme());
+  document.querySelectorAll('.theme-switch [data-bs-theme-value]').forEach((toggle) => {
+    toggle.addEventListener('change', () => {
+      const theme = toggle.getAttribute('data-bs-theme-value');
+      setStoredTheme(theme);
+      setTheme(theme);
+      showActiveTheme(theme);
+    });
+  });
 
   // Set the initial theme
   setTheme(getPreferredTheme());

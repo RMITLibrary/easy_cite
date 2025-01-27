@@ -1,0 +1,77 @@
+
+.theme-switch {
+  margin-top: 2rem;
+}
+.theme-switch h2, .theme-switch .h2 {
+  margin-top: 0;
+}
+.theme-switch .form-check-inline:last-child {
+  margin-right: 0rem;
+}
+
+.theme-switch.hamburger-menu {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+.theme-switch.hamburger-menu h2, .theme-switch.hamburger-menu .h2 {
+  color: #fff;
+}
+.theme-switch.hamburger-menu .bg {
+  display: inline-block;
+  color: var(--bs-body-color);
+  background-color: var(--bs-body-bg);
+  border-radius: 0.5rem;
+  padding: 1rem 1rem;
+  border: 1px solid #000054;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .theme-switch.hamburger-menu .bg {
+    width: auto;
+  }
+}
+@media (min-width: 576px) {
+  .theme-switch.hamburger-menu .bg {
+    padding: 1rem 1.5rem;
+  }
+}
+
+.theme-switch.theme-compact {
+  margin-top: 3rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #BFBFBF;
+}
+.theme-switch.theme-compact h2, .theme-switch.theme-compact .h2 {
+  font-size: 0.8125rem;
+  text-wrap: pretty;
+  letter-spacing: 0.02rem;
+  font-family: "Helvetica Neue", Arial, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: var(--bs-body-color);
+  display: inline-block;
+  margin-right: 1rem;
+  margin-bottom: 0;
+}
+@media (min-width: 768px) {
+  .theme-switch.theme-compact h2, .theme-switch.theme-compact .h2 {
+    font-size: 0.9375rem;
+  }
+}
+.theme-switch.theme-compact .bg {
+  display: inline-block;
+}
+.theme-switch.theme-compact label {
+  font-size: 0.8125rem;
+  text-wrap: pretty;
+  letter-spacing: 0.02rem;
+}
+@media (min-width: 768px) {
+  .theme-switch.theme-compact label {
+    font-size: 0.9375rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .theme-switch.theme-right-nav {
+    margin-left: 1.5rem;
+  }
+}

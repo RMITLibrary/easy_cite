@@ -2,6 +2,7 @@
 include 'includes/menu_links.php';
 include 'includes/render_menu.php';
 include 'includes/navigation_buttons.php';
+include 'includes/print_buttons.php';
 $styleguide = filter_input(INPUT_GET, 'styleguide', FILTER_SANITIZE_SPECIAL_CHARS);
 $show_guides = !empty($styleguide);
 
@@ -297,9 +298,11 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 											<?php endforeach; ?>
 										</nav>
 									</nav>
+									<?php /*
 									<div class="right-nav--print">
 										<button class="btn btn-print guideprint " type="button">Print full style guide <span class="visually-hidden">(opens new window)</span></button>
 									</div>
+									*/ ?>
 								</div>
 
 							</div>
@@ -317,9 +320,12 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 												<div id="printable-guide">
 													<div class="page-title">
 														<h2 class="h1"><?php echo htmlspecialchars_decode($typeContent['title'], ENT_QUOTES); ?></h2>
+
+														<?php /*
 														<button class="btn btn-print partprint" id="printthistype" type="button" tabindex="0">
 															Print chapter<span class="visually-hidden"> - print this chapter of the style guide (opens new window)</span>
 														</button>
+														*/ ?>
 
 													</div>
 
@@ -348,9 +354,11 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 																		aria-labelledby="heading-<?php echo $subtype_counter; ?>">
 																		<div class="accordion-body">
 																			<?php echo $item['content']; ?>
+																			<?php /*
 																			<button class="btn btn-print sectionprint" type="button" tabindex="0">
 																				Print section<span class="visually-hidden"> - print this section of the style guide (opens new window)</span>
 																			</button>
+																			*/ ?>
 																		</div>
 																	</div>
 																</div>
@@ -362,13 +370,15 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 													<?php endforeach; ?>
 
 													<?php
+													renderPrintButtons(htmlspecialchars_decode($styleGuideTitle, ENT_QUOTES), htmlspecialchars_decode($typeContent['title'], ENT_QUOTES));
+													?>
 
-
+													<?php
 													renderNavigationButtons($typeIndex, $extractedData['menu']);
+													?>
 
-
-
-
+													<?php
+													include 'includes/theme_switcher.php';
 													?>
 
 												</div>
@@ -389,6 +399,10 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 						</div>
 					</div>
 				</div>
+
+				<?php
+				include 'includes/theme_switcher.php';
+				?>
 			<?php endif; ?>
 		</main>
 	</div>
