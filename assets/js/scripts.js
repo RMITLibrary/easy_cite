@@ -303,7 +303,7 @@ document.addEventListener('DOMContentLoaded', function () {
         return;
       }
     } else if (thisButtonClass.includes('guideprint')) {
-      printDiv = document.getElementById('nav-tabContent-0');
+      printDiv = document.getElementById('nav-tabContent');
       if (!printDiv) {
         console.error('Printable guide not found.');
         return;

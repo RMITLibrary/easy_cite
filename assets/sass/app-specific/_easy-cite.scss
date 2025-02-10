@@ -84,7 +84,10 @@ html.nav-fixed {
 }
 /* Style buttons as links */
 .right-nav-simple {
-  h1 {
+   @include media-breakpoint-up(lg) { 
+        margin-top: 0;
+    }
+  .h1 {
     font-size: 1.25rem;
     padding: 0.75rem 1.5rem 0.75rem 3rem;
     padding: 0.25rem 1.5rem 0.75rem 1.5rem;
@@ -206,6 +209,26 @@ html.nav-fixed {
   @include media-breakpoint-up(lg) {
     margin-top: 0;
   }
+   @include media-breakpoint-down(md) {
+      margin-top: .5rem;
+   }
+}
+.page-heading{
+  .page-heading--title {
+      margin: 0!important;
+    padding: 0!important;
+    margin-bottom: .5rem!important;
+    color: $dark-grey;
+    font-family: $font-family-sans-serif;
+  
+     @include media-breakpoint-down(md) {
+      margin-top: .5rem!important
+   }
+   @include media-breakpoint-up(lg){
+    @include visually-hidden;
+   }
+  }
+
 }
 
 /* Display page-title and print button side by side */
@@ -403,4 +426,42 @@ blockquote nolink {
   overflow-wrap: break-word; /* Breaks long words, including URLs */
   word-wrap: break-word; /* Fallback for older browsers */
   word-break: break-all; /* Ensures URLs break correctly if necessary */
+}
+
+.homepage-intro {
+  @include media-breakpoint-up(md) {
+  padding-top: 1.5rem;
+  }
+
+  .theme-switch.theme-compact {
+    
+    margin-top: 1rem;
+
+    @include media-breakpoint-down(lg) {
+      margin-bottom: 3rem;
+    }
+  }
+
+  figure {
+    max-width: none;
+  }
+}
+
+.theme-switch.theme-compact {
+  @include media-breakpoint-down(lg) {
+    margin-bottom: 3rem;
+  }
+
+  @include media-breakpoint-down(sm) {
+    fieldset {
+      gap: 0.8rem !important;
+    }
+    .form-check-inline {
+      margin-right: 0.5rem;
+    }
+
+    .form-check-input {
+      margin-right: 0.5rem;
+    }
+  }
 }

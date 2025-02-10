@@ -286,7 +286,7 @@ hr {
   opacity: 0.25;
 }
 
-h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+h6, .h6, h5, .theme-switch legend, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
   font-weight: 500;
@@ -310,7 +310,7 @@ h4, .h4 {
   font-size: 1.5rem;
 }
 
-h5, .h5 {
+h5, .theme-switch legend, .h5 {
   font-size: 1.25rem;
 }
 
@@ -11754,7 +11754,7 @@ small, .small {
   }
 }
 h1,
-.h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+.h1, h2, .h2, h3, .h3, h4, .h4, h5, .theme-switch legend, .h5, h6, .h6 {
   font-family: "Museo700", Museo700, serif;
   text-wrap: balance;
   margin-top: 2rem;
@@ -11762,13 +11762,13 @@ h1,
 }
 @media (min-width: 768px) {
   h1,
-  .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  .h1, h2, .h2, h3, .h3, h4, .h4, h5, .theme-switch legend, .h5, h6, .h6 {
     margin-top: 2.5rem;
   }
 }
 @media (min-width: 768px) {
   h1,
-  .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  .h1, h2, .h2, h3, .h3, h4, .h4, h5, .theme-switch legend, .h5, h6, .h6 {
     margin-bottom: 1rem;
   }
 }
@@ -11816,11 +11816,11 @@ h4, .h4 {
   }
 }
 
-h5, .h5, h6, .h6 {
+h5, .theme-switch legend, .h5, h6, .h6 {
   font-size: 1.125rem;
 }
 @media (max-width: 767.98px) {
-  h5, .h5, h6, .h6 {
+  h5, .theme-switch legend, .h5, h6, .h6 {
     font-size: 1rem;
   }
 }
@@ -12078,7 +12078,7 @@ p a:visited:hover {
     margin-top: 2.5rem;
   }
 }
-.keywords h5, .keywords .h5 {
+.keywords h5, .keywords .theme-switch legend, .theme-switch .keywords legend, .keywords .h5 {
   margin-top: 0;
 }
 .keywords ul {
@@ -12131,18 +12131,18 @@ p a:visited:hover {
 .list-link-expanded a:hover {
   text-decoration: underline;
 }
-.list-link-expanded h2, .list-link-expanded .h2, .list-link-expanded h3, .list-link-expanded .h3, .list-link-expanded h4, .list-link-expanded .h4, .list-link-expanded h5, .list-link-expanded .h5, .list-link-expanded h6, .list-link-expanded .h6 {
+.list-link-expanded h2, .list-link-expanded .h2, .list-link-expanded h3, .list-link-expanded .h3, .list-link-expanded h4, .list-link-expanded .h4, .list-link-expanded h5, .list-link-expanded .theme-switch legend, .theme-switch .list-link-expanded legend, .list-link-expanded .h5, .list-link-expanded h6, .list-link-expanded .h6 {
   font-size: 1.56rem;
   /*Should this be here? Or use class="h3" to control? */
   margin: 0;
   text-wrap-style: auto;
 }
 @media (max-width: 767.98px) {
-  .list-link-expanded h2, .list-link-expanded .h2, .list-link-expanded h3, .list-link-expanded .h3, .list-link-expanded h4, .list-link-expanded .h4, .list-link-expanded h5, .list-link-expanded .h5, .list-link-expanded h6, .list-link-expanded .h6 {
+  .list-link-expanded h2, .list-link-expanded .h2, .list-link-expanded h3, .list-link-expanded .h3, .list-link-expanded h4, .list-link-expanded .h4, .list-link-expanded h5, .list-link-expanded .theme-switch legend, .theme-switch .list-link-expanded legend, .list-link-expanded .h5, .list-link-expanded h6, .list-link-expanded .h6 {
     font-size: 1.25rem;
   }
 }
-.list-link-expanded h2:hover, .list-link-expanded .h2:hover, .list-link-expanded h3:hover, .list-link-expanded .h3:hover, .list-link-expanded h4:hover, .list-link-expanded .h4:hover, .list-link-expanded h5:hover, .list-link-expanded .h5:hover, .list-link-expanded h6:hover, .list-link-expanded .h6:hover {
+.list-link-expanded h2:hover, .list-link-expanded .h2:hover, .list-link-expanded h3:hover, .list-link-expanded .h3:hover, .list-link-expanded h4:hover, .list-link-expanded .h4:hover, .list-link-expanded h5:hover, .list-link-expanded .theme-switch legend:hover, .theme-switch .list-link-expanded legend:hover, .list-link-expanded .h5:hover, .list-link-expanded h6:hover, .list-link-expanded .h6:hover {
   color: #0051A8;
 }
 
@@ -12152,10 +12152,10 @@ p a:visited:hover {
 [data-bs-theme=dark] .link-list li:before {
   content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23e6656c'%3e%3cpath fill-rule='evenodd' d='M9.33329 11C9.7065 11 10.0765 11.1557 10.3399 11.4585L16.0063 17.9844L21.661 11.4713C22.144 10.9158 22.9864 10.8561 23.5409 11.3391C24.0965 11.8221 24.1562 12.6635 23.6742 13.219L17.0129 20.8912C16.5075 21.4745 15.5062 21.4755 14.9997 20.8912L8.32668 13.2073C7.84364 12.6517 7.90335 11.8093 8.45891 11.3274C8.71162 11.1077 9.02299 11 9.33329 11Z'/%3e%3c/svg%3e");
 }
-[data-bs-theme=dark] .list-link-expanded h2, [data-bs-theme=dark] .list-link-expanded .h2, [data-bs-theme=dark] .list-link-expanded h3, [data-bs-theme=dark] .list-link-expanded .h3, [data-bs-theme=dark] .list-link-expanded h4, [data-bs-theme=dark] .list-link-expanded .h4, [data-bs-theme=dark] .list-link-expanded h5, [data-bs-theme=dark] .list-link-expanded .h5, [data-bs-theme=dark] .list-link-expanded h6, [data-bs-theme=dark] .list-link-expanded .h6 {
+[data-bs-theme=dark] .list-link-expanded h2, [data-bs-theme=dark] .list-link-expanded .h2, [data-bs-theme=dark] .list-link-expanded h3, [data-bs-theme=dark] .list-link-expanded .h3, [data-bs-theme=dark] .list-link-expanded h4, [data-bs-theme=dark] .list-link-expanded .h4, [data-bs-theme=dark] .list-link-expanded h5, [data-bs-theme=dark] .list-link-expanded .theme-switch legend, .theme-switch [data-bs-theme=dark] .list-link-expanded legend, [data-bs-theme=dark] .list-link-expanded .h5, [data-bs-theme=dark] .list-link-expanded h6, [data-bs-theme=dark] .list-link-expanded .h6 {
   color: #6FB7FF;
 }
-[data-bs-theme=dark] .list-link-expanded h2:hover, [data-bs-theme=dark] .list-link-expanded .h2:hover, [data-bs-theme=dark] .list-link-expanded h3:hover, [data-bs-theme=dark] .list-link-expanded .h3:hover, [data-bs-theme=dark] .list-link-expanded h4:hover, [data-bs-theme=dark] .list-link-expanded .h4:hover, [data-bs-theme=dark] .list-link-expanded h5:hover, [data-bs-theme=dark] .list-link-expanded .h5:hover, [data-bs-theme=dark] .list-link-expanded h6:hover, [data-bs-theme=dark] .list-link-expanded .h6:hover {
+[data-bs-theme=dark] .list-link-expanded h2:hover, [data-bs-theme=dark] .list-link-expanded .h2:hover, [data-bs-theme=dark] .list-link-expanded h3:hover, [data-bs-theme=dark] .list-link-expanded .h3:hover, [data-bs-theme=dark] .list-link-expanded h4:hover, [data-bs-theme=dark] .list-link-expanded .h4:hover, [data-bs-theme=dark] .list-link-expanded h5:hover, [data-bs-theme=dark] .list-link-expanded .theme-switch legend:hover, .theme-switch [data-bs-theme=dark] .list-link-expanded legend:hover, [data-bs-theme=dark] .list-link-expanded .h5:hover, [data-bs-theme=dark] .list-link-expanded h6:hover, [data-bs-theme=dark] .list-link-expanded .h6:hover {
   color: rgb(139.8, 197.4, 255);
 }
 
@@ -12414,7 +12414,7 @@ p a:visited:hover {
   Focus state is retained when accordion is expanded until user clicks elsewhere.
   */
 }
-.accordion-item h1, .accordion-item h2, .accordion-item h3, .accordion-item h4, .accordion-item h5, .accordion-item h6,
+.accordion-item h1, .accordion-item h2, .accordion-item h3, .accordion-item h4, .accordion-item h5, .accordion-item .theme-switch legend, .theme-switch .accordion-item legend, .accordion-item h6,
 .accordion-item .h1, .accordion-item .h2, .accordion-item .h3, .accordion-item .h4, .accordion-item .h5, .accordion-item .h6, .accordion-item button {
   color: #000054;
 }
@@ -12589,7 +12589,7 @@ and last child has no margin bottom
   margin-bottom: 0px;
 }
 
-[data-bs-theme=dark] .accordion-item h1, [data-bs-theme=dark] .accordion-item h2, [data-bs-theme=dark] .accordion-item h3, [data-bs-theme=dark] .accordion-item h4, [data-bs-theme=dark] .accordion-item h5, [data-bs-theme=dark] .accordion-item h6,
+[data-bs-theme=dark] .accordion-item h1, [data-bs-theme=dark] .accordion-item h2, [data-bs-theme=dark] .accordion-item h3, [data-bs-theme=dark] .accordion-item h4, [data-bs-theme=dark] .accordion-item h5, [data-bs-theme=dark] .accordion-item .theme-switch legend, .theme-switch [data-bs-theme=dark] .accordion-item legend, [data-bs-theme=dark] .accordion-item h6,
 [data-bs-theme=dark] .accordion-item .h1, [data-bs-theme=dark] .accordion-item .h2, [data-bs-theme=dark] .accordion-item .h3, [data-bs-theme=dark] .accordion-item .h4, [data-bs-theme=dark] .accordion-item .h5, [data-bs-theme=dark] .accordion-item .h6, [data-bs-theme=dark] .accordion-item button {
   color: #6FB7FF;
 }
@@ -13929,6 +13929,8 @@ $img-width-sm: 18.5rem;     //296px*/
 .icon-text .content-text h4:first-of-type,
 .icon-text .content-text .h4:first-of-type,
 .icon-text .content-text h5:first-of-type,
+.icon-text .content-text .theme-switch legend:first-of-type,
+.theme-switch .icon-text .content-text legend:first-of-type,
 .icon-text .content-text .h5:first-of-type,
 .icon-text .content-text h6:first-of-type,
 .icon-text .content-text .h6:first-of-type {
@@ -13942,6 +13944,8 @@ $img-width-sm: 18.5rem;     //296px*/
 .icon-text .content-text h4:first-of-type + p,
 .icon-text .content-text .h4:first-of-type + p,
 .icon-text .content-text h5:first-of-type + p,
+.icon-text .content-text .theme-switch legend:first-of-type + p,
+.theme-switch .icon-text .content-text legend:first-of-type + p,
 .icon-text .content-text .h5:first-of-type + p,
 .icon-text .content-text h6:first-of-type + p,
 .icon-text .content-text .h6:first-of-type + p {
@@ -13992,6 +13996,8 @@ $img-width-sm: 18.5rem;     //296px*/
   .img-text .content-text h4:first-of-type,
   .img-text .content-text .h4:first-of-type,
   .img-text .content-text h5:first-of-type,
+  .img-text .content-text .theme-switch legend:first-of-type,
+  .theme-switch .img-text .content-text legend:first-of-type,
   .img-text .content-text .h5:first-of-type,
   .img-text .content-text h6:first-of-type,
   .img-text .content-text .h6:first-of-type {
@@ -14005,6 +14011,8 @@ $img-width-sm: 18.5rem;     //296px*/
   .img-text .content-text h4:first-of-type + p,
   .img-text .content-text .h4:first-of-type + p,
   .img-text .content-text h5:first-of-type + p,
+  .img-text .content-text .theme-switch legend:first-of-type + p,
+  .theme-switch .img-text .content-text legend:first-of-type + p,
   .img-text .content-text .h5:first-of-type + p,
   .img-text .content-text h6:first-of-type + p,
   .img-text .content-text .h6:first-of-type + p {
@@ -14375,7 +14383,12 @@ $img-width-sm: 18.5rem;     //296px*/
 }
 
 /* Style buttons as links */
-.right-nav-simple h1, .right-nav-simple .h1 {
+@media (min-width: 992px) {
+  .right-nav-simple {
+    margin-top: 0;
+  }
+}
+.right-nav-simple .h1 {
   font-size: 1.25rem;
   padding: 0.75rem 1.5rem 0.75rem 3rem;
   padding: 0.25rem 1.5rem 0.75rem 1.5rem;
@@ -14491,6 +14504,39 @@ $img-width-sm: 18.5rem;     //296px*/
 @media (min-width: 992px) {
   .home-title {
     margin-top: 0;
+  }
+}
+@media (max-width: 767.98px) {
+  .home-title {
+    margin-top: 0.5rem;
+  }
+}
+
+.page-heading .page-heading--title {
+  margin: 0 !important;
+  padding: 0 !important;
+  margin-bottom: 0.5rem !important;
+  color: #333;
+  font-family: "Helvetica Neue", Arial, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+@media (max-width: 767.98px) {
+  .page-heading .page-heading--title {
+    margin-top: 0.5rem !important;
+  }
+}
+@media (min-width: 992px) {
+  .page-heading .page-heading--title {
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+  }
+  .page-heading .page-heading--title:not(caption) {
+    position: absolute !important;
   }
 }
 
@@ -14688,34 +14734,89 @@ blockquote nolink {
   word-break: break-all; /* Ensures URLs break correctly if necessary */
 }
 
+@media (min-width: 768px) {
+  .homepage-intro {
+    padding-top: 1.5rem;
+  }
+}
+.homepage-intro .theme-switch.theme-compact {
+  margin-top: 1rem;
+}
+@media (max-width: 991.98px) {
+  .homepage-intro .theme-switch.theme-compact {
+    margin-bottom: 3rem;
+  }
+}
+.homepage-intro figure {
+  max-width: none;
+}
+
+@media (max-width: 991.98px) {
+  .theme-switch.theme-compact {
+    margin-bottom: 3rem;
+  }
+}
+@media (max-width: 575.98px) {
+  .theme-switch.theme-compact fieldset {
+    gap: 0.8rem !important;
+  }
+  .theme-switch.theme-compact .form-check-inline {
+    margin-right: 0.5rem;
+  }
+  .theme-switch.theme-compact .form-check-input {
+    margin-right: 0.5rem;
+  }
+}
+
 /* print button */
 .btn-print {
   position: relative;
   display: flex;
-  height: 45px;
-  gap: 0.75rem;
   align-items: center;
+  justify-content: flex-start;
+  height: 45px;
+  padding: 7px 0.75rem;
+  gap: 0.75rem;
   color: #000054;
-  border-style: solid;
-  border-width: 1px;
-  border-color: #000054;
+  border: 1px solid #BFBFBF;
   border-radius: 0.25rem;
   box-sizing: border-box;
-  font-size: 1rem;
-  line-height: 1.5;
-  text-wrap: pretty;
   white-space: nowrap;
-  padding: 7px 0.75rem;
+  overflow: hidden;
+  max-width: 20em;
 }
-@media (min-width: 768px) {
+@media (max-width: 767.98px) {
   .btn-print {
-    font-size: 1.125rem;
+    max-width: 16em;
   }
+}
+@media (max-width: 575.98px) {
+  .btn-print {
+    flex-grow: 1;
+    max-width: none;
+  }
+}
+.btn-print .btn-print--content {
+  display: flex;
+  flex: 1;
+  min-width: 0; /* Critical for text overflow */
+  overflow: hidden;
+}
+.btn-print .text-truncate {
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .btn-print:focus {
   box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.4);
 }
 .btn-print:hover {
+  text-decoration: underline;
+  border-color: #0051A8;
+  color: #0051A8;
+}
+.btn-print:hover .text-truncate {
   text-decoration: underline;
   border-color: #0051A8;
   color: #0051A8;
@@ -14744,8 +14845,119 @@ blockquote nolink {
   height: 18px;
 }
 
+.print-buttons-wrapper {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
 #launcherButton svg {
   vertical-align: inherit;
+}
+
+.theme-switch {
+  margin-top: 2rem;
+}
+.theme-switch legend {
+  margin-top: 0;
+}
+.theme-switch .form-check-inline:last-child {
+  margin-right: 0rem;
+}
+
+.theme-switch.hamburger-menu {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+.theme-switch.hamburger-menu legend {
+  color: #fff;
+}
+.theme-switch.hamburger-menu .bg {
+  display: inline-block;
+  color: var(--bs-body-color);
+  background-color: var(--bs-body-bg);
+  border-radius: 0.5rem;
+  padding: 1rem 1rem;
+  border: 1px solid #000054;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .theme-switch.hamburger-menu .bg {
+    width: auto;
+  }
+}
+@media (min-width: 576px) {
+  .theme-switch.hamburger-menu .bg {
+    padding: 1rem 1.5rem;
+  }
+}
+
+.theme-switch.theme-compact {
+  margin-top: 3rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #BFBFBF;
+}
+.theme-switch.theme-compact fieldset {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.theme-switch.theme-compact legend {
+  font-size: 0.8125rem;
+  text-wrap: pretty;
+  letter-spacing: 0.02rem;
+  font-family: "Helvetica Neue", Arial, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: var(--bs-body-color);
+  width: auto;
+  margin: 0;
+  font-weight: bold;
+}
+@media (min-width: 768px) {
+  .theme-switch.theme-compact legend {
+    font-size: 0.9375rem;
+  }
+}
+.theme-switch.theme-compact .form-check-label {
+  font-size: 0.8125rem;
+  text-wrap: pretty;
+  letter-spacing: 0.02rem;
+  margin-bottom: 0;
+}
+@media (min-width: 768px) {
+  .theme-switch.theme-compact .form-check-label {
+    font-size: 0.9375rem;
+  }
+}
+.theme-switch.theme-compact fieldset {
+  flex-direction: row;
+  align-items: center;
+  gap: 2rem;
+}
+
+@media (min-width: 1200px) {
+  .theme-switch.theme-right-nav {
+    margin-left: 1.5rem;
+  }
+  .theme-switch.theme-right-nav fieldset {
+    gap: 1rem;
+  }
+  .theme-switch.theme-right-nav .form-check-inline {
+    margin-right: 1rem;
+  }
+  .theme-switch.theme-right-nav .form-check-inline:last-child {
+    margin-right: 0rem;
+  }
+}
+@media (min-width: 1400px) {
+  .theme-switch.theme-right-nav fieldset {
+    gap: 2rem;
+  }
+  .theme-switch.theme-right-nav .form-check-inline {
+    margin-right: 2rem;
+  }
+  .theme-switch.theme-right-nav .form-check-inline:last-child {
+    margin-right: 0rem;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */

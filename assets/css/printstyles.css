@@ -178,10 +178,12 @@ a::after {
 .btn-print,
 .btn-nav-container,
 .mobile-title,
-.right-nav-simple {
+.right-nav-simple, 
+.page-heading--title {
   display: none;
 }
 
 .printsectionguide h2 {
   font-size: 20px;
 }
+
