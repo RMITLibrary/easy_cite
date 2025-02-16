@@ -124,6 +124,15 @@ function cleanTitle($title)
 
 function cleanHtmlContent($content)
 {
+	// Add lazy loading to images
+	$content = preg_replace_callback('/<img\s+([^>]+)>/i', function ($matches) {
+		$imgTag = $matches[0];
+		if (stripos($imgTag, 'loading=') === false) {
+			$imgTag = preg_replace('/<img(.*?)>/i', '<img$1 loading="lazy">', $imgTag);
+		}
+		return $imgTag;
+	}, $content);
+	
 	// CUSTOM TAGS TO CLASSES
 	$content = preg_replace("/{.hanging-indent}/s", '<div class="hanging-indent">', $content);
 	$content = preg_replace("/{\/.hanging-indent}/s", '</div>', $content);

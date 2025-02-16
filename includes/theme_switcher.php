@@ -1,4 +1,4 @@
-<form class="theme-switch theme-compact" aria-labelledby="theme-switch-title-legend">
+<form class="theme-switch theme-compact" aria-labelledby="theme-switch-title">
     <fieldset>
         <legend class="visually-hidden">Theme</legend>
         <div id="theme-switch-title" class="legend" aria-hidden="true">Theme</div>

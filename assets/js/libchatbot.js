@@ -20,7 +20,6 @@
 
 let button = document.createElement('button');
 button.id = 'launcherButton';
-button.title = 'Ask the Library';
 button.setAttribute('aria-label', button.title);
 button.innerHTML = `
 <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#FFFFFF">
