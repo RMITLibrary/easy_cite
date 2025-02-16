@@ -84,9 +84,9 @@ html.nav-fixed {
 }
 /* Style buttons as links */
 .right-nav-simple {
-   @include media-breakpoint-up(lg) { 
-        margin-top: 0;
-    }
+  @include media-breakpoint-up(lg) {
+    margin-top: 0;
+  }
   .h1 {
     font-size: 1.25rem;
     padding: 0.75rem 1.5rem 0.75rem 3rem;
@@ -146,7 +146,15 @@ html.nav-fixed {
         border-left: 0.25rem solid $accent-color-dark;
         background-color: $underlay-selected-dark;
       }
+
+      &:focus-visible {
+        box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5);
+      }
     }
+  }
+
+  .print-btn:hover .text-truncate {
+    color: $link-hover-color-dark;
   }
 }
 
@@ -209,25 +217,46 @@ html.nav-fixed {
   @include media-breakpoint-up(lg) {
     margin-top: 0;
   }
-   @include media-breakpoint-down(md) {
-      margin-top: .5rem;
-   }
+  @include media-breakpoint-down(md) {
+    margin-top: 0.5rem;
+  }
 }
-.page-heading{
+.page-heading {
   .page-heading--title {
-      margin: 0!important;
-    padding: 0!important;
-    margin-bottom: .5rem!important;
+    margin: 0 !important;
+    padding: 0 !important;
+    margin-bottom: 0.5rem !important;
     color: $dark-grey;
     font-family: $font-family-sans-serif;
-  
-     @include media-breakpoint-down(md) {
-      margin-top: .5rem!important
-   }
-   @include media-breakpoint-up(lg){
-    @include visually-hidden;
-   }
+
+    @include media-breakpoint-down(md) {
+      margin-top: 0.5rem !important;
+    }
+    @include media-breakpoint-up(lg) {
+      @include visually-hidden;
+    }
   }
+}
+
+#printable-guide .accordion-button {
+    &:focus-visible {
+        box-shadow: 0 0 0 0.25rem $focus-ring-color !important;
+    }
+  }
+
+@include color-mode(dark) {
+  .page-heading {
+    .page-heading--title {
+      color: var(--bs-heading-color);
+    }
+  }
+
+  #printable-guide .accordion-button {
+    &:focus-visible {
+      box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5) !important;
+    }
+  }
+
 
 }
 
@@ -299,8 +328,44 @@ footer .footer-legal ul {
   }
 }
 
+
+  #sub-menu {
+    a  {
+      &:focus-visible {
+        box-shadow: none !important;
+        span{
+
+        @include element-focus;
+        }
+      }
+    }
+  }
+
+
+// Dark mode
+@include color-mode(dark) {
+  #sub-menu {
+    a  {
+      &:focus-visible {
+        span{
+        box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5) !important;
+        }
+      }
+    }
+  }
+}
+
 // New styles for buttons replicating the anchor styles
 
+
+@include color-mode(dark) {
+  .btn-nav-prev button,
+  .btn-nav-next button {
+    &:focus-visible {
+      box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5) !important;
+    }
+  }
+}
 .btn-nav-prev button,
 .btn-nav-next button {
   position: relative;
@@ -430,11 +495,10 @@ blockquote nolink {
 
 .homepage-intro {
   @include media-breakpoint-up(md) {
-  padding-top: 1.5rem;
+    padding-top: 1.5rem;
   }
 
   .theme-switch.theme-compact {
-    
     margin-top: 1rem;
 
     @include media-breakpoint-down(lg) {
@@ -463,5 +527,11 @@ blockquote nolink {
     .form-check-input {
       margin-right: 0.5rem;
     }
+  }
+}
+
+.btn-nav-container {
+  @include media-breakpoint-down(xl) {
+    border-bottom: none;
   }
 }

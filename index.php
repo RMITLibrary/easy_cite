@@ -1,4 +1,5 @@
 <?php
+$local = ($_SERVER['HTTP_HOST'] == 'localhost');
 include 'includes/menu_links.php';
 include 'includes/render_menu.php';
 include 'includes/navigation_buttons.php';

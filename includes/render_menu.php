@@ -20,6 +20,6 @@ function render_menu($menu_links, $link_class = 'nav-link')
         $sanitizedLabel = htmlspecialchars(str_replace(' ', '_', strtolower($link['label'])));
         $dataGaEvent = 'data-ga-event="menu_link_' . $sanitizedLabel . '"';
 
-        echo '<li><a  ' . $classAttribute . ' href="#" tabindex="0" ' . $dataGaEvent . ' data-styleguide="' . $styleGuide . '">' . $link['label'] . '</a></li>';
+        echo '<li><a  ' . $classAttribute . ' href="#" tabindex="0" ' . $dataGaEvent . ' data-styleguide="' . $styleGuide . '"><span>' . $link['label'] . '</span></a></li>';
     }
 }

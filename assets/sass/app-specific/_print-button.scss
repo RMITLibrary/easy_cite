@@ -15,17 +15,14 @@
   overflow: hidden;
   max-width: 20em;
 
-   @include media-breakpoint-down(md) {
- max-width: 16em;
-   }
-    
- @include media-breakpoint-down(sm) {
-  flex-grow: 1;
-  max-width: none
- }
- 
+  @include media-breakpoint-down(md) {
+    max-width: 16em;
+  }
 
- 
+  @include media-breakpoint-down(sm) {
+    flex-grow: 1;
+    max-width: none;
+  }
 
   .btn-print--content {
     display: flex;
@@ -76,6 +73,14 @@
       @include link-feature-hover;
       border-color: $link-hover-color-dark;
       color: $link-color-hover-dark;
+      .text-truncate {
+        @include link-feature-hover;
+        border-color: $link-hover-color-dark;
+        color: $link-color-hover-dark;
+      }
+    }
+    &:focus-visible {
+      box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5) !important;
     }
   }
 
@@ -97,5 +102,3 @@
   //   flex-direction: column;
   // }
 }
-
-

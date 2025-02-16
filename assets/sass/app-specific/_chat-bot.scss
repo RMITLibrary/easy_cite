@@ -3,3 +3,9 @@
     vertical-align: inherit;
   }
 }
+
+ @include media-breakpoint-down(lg) {
+  #launcherButton {
+    display: none;
+  }
+ }
