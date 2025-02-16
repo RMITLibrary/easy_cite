@@ -1,6 +1,7 @@
-<form class="theme-switch theme-compact" aria-labelledby="theme-switch-title">
+<form class="theme-switch theme-compact" aria-labelledby="theme-switch-title-legend">
     <fieldset>
-        <legend id="theme-switch-title">Theme</legend>
+        <legend class="visually-hidden">Theme</legend>
+        <div id="theme-switch-title" class="legend" aria-hidden="true">Theme</div>
         <div class="bg">
             <div class="form-check form-check-inline">
                 <input class="form-check-input" type="radio" id="theme-auto" name="themeOptions" data-bs-theme-value="auto" aria-label="System">
