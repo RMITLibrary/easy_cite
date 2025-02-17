@@ -9,8 +9,11 @@
         <figure class="video img-left">
             <div class="responsive-video">
                 <img src="./images/youtube-video.jpg" />
-                <!-- <iframe src="https://www.youtube.com/embed/60J55xXbu8o" frameborder="0"
-                    allowfullscreen=""></iframe> -->
+                <iframe loading="lazy" src="https://www.youtube.com/embed/1wpCNQycNBw?rel=0&list=PLrvep4LH0G9W74ST7JwffCuC9IkjJy8ih"
+                    frameborder="0"
+                    allow="autoplay; encrypted-media; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
             </div>
             <!-- START accordion item -->
             <div class="accordion-item transcript">
