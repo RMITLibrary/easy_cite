@@ -1,0 +1,309 @@
+body {
+  overflow-y: scroll;
+}
+
+/* Space between top nav and content if top nav is NOT fixed */
+#page-content {
+	padding-top: 4rem;
+	@include media-breakpoint-down(md) { padding-top: 2.5rem; }
+	//background-color: pink;
+}
+
+#nav-menu {
+    .nav-container {
+        padding-top: 2rem;
+        @include media-breakpoint-up(md) { padding-top: 3rem; }
+    }
+}
+
+/* Apply this class to make the top nav fixed */
+html.nav-fixed {
+	scroll-padding-top: 6rem;
+	@include media-breakpoint-down(md) { scroll-padding-top: 4rem; }
+	
+	#page-content {
+		padding-top: 7.5rem;
+		@include media-breakpoint-down(md) { padding-top: 5.5rem; }
+	}
+	
+	.top-navigation {
+		position: fixed;
+		z-index: 5;
+	}
+	
+	#sub-menu {
+		position: fixed;
+		padding-top: 2.5rem;
+		@include media-breakpoint-up(md) { padding-top: 3.5rem; }
+		z-index: 4;
+	}
+    
+    #context-menu {
+        .nav-container {
+            padding-top: 5rem;
+            @include media-breakpoint-up(md) { padding-top: 7rem; }
+        }
+    }
+}
+
+/* START top-nav */
+.top-navigation, #sub-menu {
+	/* START generic styles for header */
+	font-size: 1rem;
+    font-weight: 500;
+	
+	ul {
+		display: flex;
+		flex-wrap: nowrap;
+        align-items: center;
+		list-style-type: none;
+		
+		margin: 0 !important;
+		padding: 0;
+		
+		gap: 1.5rem;
+		@include media-breakpoint-up(md) { gap: 2.5rem; }
+	}
+	
+	li {
+		margin: 0;
+		padding: 0;
+	}
+	
+	a {
+		text-decoration: none;
+	}
+	
+	a:hover {
+		text-decoration: underline;
+	}
+	/* END generic styles for header */
+}
+
+.top-navigation {
+	color: $white;
+	background-color: $rmit-blue;
+	height: $space-sm-xl;
+	width: 100%;
+	
+	@include media-breakpoint-up(md) { height: 3.5rem; }
+	
+	ul {
+        justify-content: flex-end;
+		height: 3rem;
+		
+		@include media-breakpoint-up(md) { 
+			height: 3.5rem; 
+		}
+		
+		a {
+			color: $white;
+		}
+		
+		a:not([href]):not([class]), a:not([href]):not([class]):hover {
+		  color: $white;
+		  text-decoration: none;
+		}
+		
+		/* Use flex to position search label and mag glass side by side */
+		.search a {
+			display: flex;
+			align-items: center;
+			gap: 0.75rem;
+		}
+			
+		.mag-glass {
+			@include mag-glass;
+		}
+		
+		.search-label {
+			@include media-breakpoint-down(sm) { @include visually-hidden; }
+		}
+	
+		button {
+            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23fff'%3e%3cpath fill-rule='evenodd' clip-rule='evenodd' d='M18.9289 16.4142L27.3137 24.799L24.4853 27.6274L16.1005 19.2426L7.51471 27.8284L4.68628 25L13.2721 16.4142L4.68628 7.82843L7.51471 5L16.1005 13.5858L24.4853 5.20101L27.3137 8.02944L18.9289 16.4142Z'/%3e%3c/svg%3e");
+            width: 2rem;
+            height: 2rem;
+            padding: 0;
+			margin: 0;
+			
+            border: 0;
+            border-radius: 0;
+      
+            text-indent: -10000px;
+            
+            background-color: $rmit-blue !important;
+        }
+        
+        button:hover {
+           background-color: $rmit-blue !important; 
+        }
+        
+        button:focus {
+            box-shadow: 0 0 !important;
+            border: 1px solid $white;
+        }
+        
+        button.collapsed {
+            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23fff'%3e%3cpath fill-rule='evenodd' clip-rule='evenodd' d='M2 5H30V9H2V5ZM30 14H2V18H30V14ZM30 23H2V27H30V23Z'/%3e%3c/svg%3e");
+        }
+	}
+	
+	/* START left-nav */
+	.left-nav {
+        display: flex;
+        align-items: center;
+		
+        a {
+			color: $white;
+			text-decoration: none;			
+			&:hover { text-decoration: underline; }
+		}
+        
+        h2 {
+			color: $white;
+			font-size: 4.5vw;			//scale title depending on small screen width
+			margin: 0;
+           
+			@include media-breakpoint-up(sm) {
+				font-size: 1.25rem;		//Once we have enough space, fix the title
+			} 
+			
+			@include media-breakpoint-up(md) {
+				margin-top: -0.25rem; 
+            	font-size: 1.5rem;		//adjust margin to account for overhang
+			}
+		}
+	}
+	/* END left-nav */
+}
+
+/* START sub-menu */
+#sub-menu {	
+	width: 100%;
+	border-bottom: 1px solid $interface-grey;
+	background-color: $body-bg;
+	
+	/* handle  subnav horizontal scroll */
+	nav {
+	  overflow-y: hidden;
+	  scroll-behavior: smooth;
+	}
+
+	ul {
+		padding-top: 1rem;
+		@include media-breakpoint-up(md) { padding-top: 1.5rem; }
+		
+		overflow-x: auto;
+		white-space: nowrap;
+	}
+	
+	li.selected {
+        padding-bottom: 0.75rem;
+		border-bottom: 0.25rem solid $body-bg;
+        
+		color: $link-color;
+		border-bottom-color: $accent-color;
+	}
+	
+	a {
+        display: block;
+		color: $link-color;
+        
+        padding-bottom: 0.75rem;
+		border-bottom: 0.25rem solid $body-bg;
+	}
+    
+    a.selected {
+        border-bottom-color: $accent-color;
+	}
+	
+}
+
+// Dark mode
+@include color-mode(dark) {
+	#sub-menu {	
+		background-color: $underlay-grey-dark;
+		border-bottom: 1px solid $underlay-selected-dark;
+
+		li.selected {
+			color: $link-color-dark;
+			border-bottom-color: $accent-color-dark;
+		}
+		
+		a {
+			color: $link-color-dark;
+			border-bottom: 0.25rem solid $underlay-grey-dark;
+		}
+		
+		a.selected {
+			border-bottom-color: $accent-color-dark;
+		}
+		
+	}
+}
+
+/* END sub-menu */
+
+
+
+#context-menu {
+    color: $white;
+    background-color: $rmit-blue;
+    
+    position: absolute;
+    width: 100%;
+
+    .nav-container {
+        min-height: 100vh;
+        padding-bottom: 4rem; 
+        
+        @include media-breakpoint-up(md) { 
+            padding-bottom: 6rem; 
+        }
+    }
+	
+	a {
+			color: $white;
+		}
+}
+
+/* START logo */
+.top-navigation .rmit-logo {
+
+	background-color: $red;
+	background-image: url('data:image/svg+xml,<%3Fxml version="1.0" encoding="UTF-8"%3F><svg viewBox="0 0 84 31" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="m10 0.6h-2.6v2.1h-4.2v4.4h-3.2v6.5h3.2v4.5h4.2v2.1h2.2c5.2 0 9.9-4.4 9.9-9.8s-4.3-9.8-9.5-9.8zm56.5 1.9h2.2v-0.8h-7.7v0.8h2.2v15.9h-2.2v0.8h7.7v-0.8h-2.2v-15.9zm14 16.8v-0.8h-2.4v-16.2c3.6-0.2 4.2 0.6 4.7 4h0.8l-0.3-4.6h-13.7l-0.3 4.6h0.8c0.5-3.4 1.1-4.2 4.7-4v16.1h-2.4v0.8h8.1zm-51.5-10.1v-6.7h2.2c2.3 0 3.1 0.6 3.1 3.6 0 2.4-0.9 3.2-3.2 3.2h-2.1zm30.6-6.7v-0.8h-6.3l-3.7 12-3.6-12h-6.3v0.8h2.3v15.9h-2.4c-2.2 0.1-2.2-1.9-2.2-2.3 0-4.3-0.9-5.9-4.9-6.5 2.4-0.3 5.4-1 5.4-3.9 0-3.7-3.3-4-6.1-4h-8.2v0.8h2.2v15.9h-2.2v0.8h7.7v-0.8h-2.3v-8.4c1.4-0.1 3 0.3 3.7 1 0.7 0.6 1 2.4 1 4.6 0 2.7 1.3 3.7 3.9 3.7h7.4v-0.8h-2.2v-15.7h0.2l5.1 16.5h0.9l5-16.5h0.1v15.7h-2.2v0.8h7.7v-0.8h-2.2v-16h2.2zm-33.9 22.1c0-0.1-0.1-0.2-0.2-0.2h-0.4v-0.8h1c0.4 0 0.6 0.2 0.6 0.6v3.8c0 1 0.6 1.7 1.6 1.7s1.6-0.6 1.6-1.7v-3.8c0-0.4 0.2-0.6 0.6-0.6h0.9v0.8h-0.4c-0.1 0-0.2 0.1-0.2 0.2v3.4c0 1.5-1 2.5-2.5 2.5s-2.6-1-2.6-2.5v-3.4zm6.4 5h0.4c0.1 0 0.2-0.1 0.2-0.2v-5.8h0.9l3 4.4c0.2 0.4 0.6 0.9 0.6 0.9s-0.1-0.5-0.1-0.9v-3.7c0-0.4 0.2-0.6 0.6-0.6h1v0.8h-0.4c-0.1 0-0.2 0.1-0.2 0.2v5.8h-0.9l-3-4.4c-0.2-0.4-0.5-0.9-0.5-0.9s0.1 0.6 0.1 0.9v3.7c0 0.4-0.2 0.6-0.6 0.6h-1v-0.8h-0.1zm7.5 0h0.6v-5.2h-0.6v-0.8h2.2v0.8h-0.7v5.2h0.7v0.8h-2.2v-0.8zm3.3-5c-0.1-0.2-0.2-0.2-0.3-0.2h-0.1v-0.8h0.5c0.5 0 0.6 0.1 0.8 0.6l1.5 4.3c0.1 0.4 0.3 1 0.3 1s0.1-0.6 0.3-1l1.5-4.3c0.2-0.5 0.3-0.6 0.8-0.6h0.5v0.8h-0.1c-0.2 0-0.3 0-0.3 0.2l-2.3 5.8h-1l-2.1-5.8zm6.8-0.2h-0.6v-0.8h3.9c0.4 0 0.6 0.2 0.6 0.6v0.8h-0.9v-0.4c0-0.1-0.1-0.2-0.2-0.2h-1.9v2.2h2.4v0.8h-2.3v2c0 0.1 0.1 0.2 0.2 0.2h1.9c0.1 0 0.2-0.1 0.2-0.2v-0.4h0.9v0.9c0 0.4-0.2 0.6-0.6 0.6h-3c-0.4 0-0.6-0.2-0.6-0.6v-5.5zm5.5 0h-0.6v-0.8h2.9c1.2 0 2 0.8 2 2s-0.7 1.7-1.2 1.8c0 0 0.2 0.1 0.3 0.3l0.8 1.7c0.1 0.2 0.2 0.2 0.5 0.2h0.1v0.8h-0.5c-0.5 0-0.7-0.1-0.9-0.5l-0.9-1.9c-0.2-0.3-0.3-0.4-0.7-0.4h-0.9v2.7h-1l0.1-5.9zm2.2 2.4c0.7 0 1.1-0.5 1.1-1.3s-0.4-1.2-1.1-1.2h-1.3v2.5h1.3zm3.8 2s0.7 0.8 1.7 0.8c0.6 0 1.1-0.4 1.1-1 0-1.4-3.2-1.2-3.2-3.4 0-1 0.9-1.8 2.1-1.8 0.7 0 1.9 0.3 1.9 1.3v0.6h-0.8v-0.3c0-0.4-0.5-0.6-1-0.6-0.7 0-1.2 0.4-1.2 0.9 0 1.4 3.2 1.1 3.2 3.3 0 1.1-0.8 2-2.1 2-1.4 0-2.2-1-2.2-1l0.5-0.8zm4.8 0.8h0.6v-5.2h-0.6v-0.8h2.2v0.8h-0.6v5.2h0.6v0.8h-2.2v-0.8zm5.2-5.2h-1.3c-0.1 0-0.2 0.1-0.2 0.2v0.4h-0.8v-0.9c0-0.4 0.1-0.6 0.6-0.6h4.5c0.4 0 0.6 0.1 0.6 0.6v0.9h-0.8v-0.4c0-0.1-0.1-0.2-0.2-0.2h-1.3v6.1h-1l-0.1-6.1zm6 3-1.7-2.8c-0.1-0.2-0.2-0.2-0.4-0.2h-0.1v-0.8h0.4c0.5 0 0.6 0.1 0.9 0.5l1 1.7 0.4 0.8 0.4-0.8 1-1.7c0.3-0.5 0.5-0.5 0.9-0.5h0.4v0.8h-0.2c-0.2 0-0.3 0-0.4 0.2l-1.7 2.8v3h-1v-3z"/></svg>');
+	background-repeat: no-repeat;
+	background-size: 65px 24px;
+	background-position: center center;
+
+	width: 91px;
+	height: $space-sm-xl;
+
+	margin-left: -0.75rem; //minus margin to push red tab to edge of screen on small screens
+	margin-right: 0.75rem;
+	
+	@include media-breakpoint-up(sm) { 
+		margin-left: 0rem;
+	}
+	
+	@include media-breakpoint-up(md) {
+		//Adjust size and position of logo to accoiunt for bigger red tab
+		background-size: 84px 31px;
+		background-position: center 19px;
+
+		width: 117px;
+		height: 4rem;
+
+
+		margin-right: 1.5rem;
+	}
+}
+/* END logo */
+
+#page-content {
+    .top-navigation {
+        position: relative;
+        z-index: 1;
+    }
+}

@@ -4070,7 +4070,7 @@ Include the image in your work with a caption that explains that the work was ge
 > Figure number: Description or explanation.
 
 **Example**
-> ![A brown owl in a forest](images/Firefly-a-brown-owl-in-a-forest-16158.jpg)<br>
+> ![A brown owl in a forest](images/Firefly-a-brown-owl-in-a-forest-16158.webp)<br>
 > Figure 1: Image generated using OpenAI's DALL-E 2 from the prompt: a brown owl in a forest.<br>
 
 ###### end-subtype-content

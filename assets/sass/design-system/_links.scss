@@ -1,0 +1,230 @@
+@mixin link-feature {
+	text-decoration: none;
+}
+
+@mixin link-feature-hover {
+	text-decoration: underline;
+}
+
+@mixin link-normal {
+	text-decoration: underline;
+}
+
+@mixin link-normal-hover {
+	text-decoration: none;
+}
+
+a {
+	@include link-normal;
+}
+		
+a:hover {
+	 @include link-normal-hover;
+}
+
+a:not([href]):not([class]), a:not([href]):not([class]):hover {
+  text-decoration: none;
+}
+
+a:not([href]):not([class]):hover {
+  text-decoration: underline;
+}
+
+
+/* Visited links - NOT IN USE AT THIS TIME */
+/*a:visited {
+	color: $blue-70;
+}
+
+p a:visited {
+	color: $blue-70;
+}
+
+p a:visited:hover {
+	color: $blue-hover;
+}*/
+
+@mixin link-large-base {
+    display: inline-flex; /* Use inline-flex */
+    align-items: center;
+    
+    @include link-feature;
+    
+    padding: 0;
+    border: 0;
+	width: fit-content;
+
+    &::after {
+        @include carat;
+        flex-shrink: 0;
+        width: 2rem;
+        height: 2rem;
+        margin-left: 0.25rem;
+        transform: rotate(-90deg);
+    }   
+}
+
+.link-large {
+    @include link-large-base;
+    @include type-lead;
+    margin-top: 1.25rem;
+}
+
+.link-large:hover {
+    @include link-feature-hover;
+}
+
+
+//
+/*
+.link-large {
+    display: flex;
+    align-items: center;
+    
+    @include type-lead;
+    @include link-feature;
+    margin-top: 1.25rem;
+    
+    padding: 0;
+    border: 0;
+	width: fit-content;
+}
+
+.link-large:hover {
+    background: none; 
+	 @include link-feature-hover;
+}
+
+
+.link-large::after {
+    @include carat;
+    flex-shrink: 0;
+    width: 2rem;
+    height: 2rem;
+    margin-left: 0.25rem;
+    transform: rotate(-90deg);
+}*/
+
+@mixin link-list-base {
+    
+    @include do-space(margin-top, xs);
+	@include do-space(margin-bottom, xs);
+    
+    /*ul {
+        padding: 0;
+        list-style-type: none;
+    }*/
+
+    padding: 0;
+    list-style-type: none;
+    
+    li {
+        display: flex;
+        align-items: flex-start;
+        @include type-lead;
+        padding: 0;
+        margin-bottom: 0.5rem;
+    }
+    
+    li::before {
+        flex-shrink: 0;
+        width: 2rem;
+        height: 2rem;
+        margin-right: 0.5rem;
+        transform: rotate(-90deg);	
+    }
+    
+    a {
+        @include link-feature;
+    }
+
+    a:hover {
+        @include link-feature-hover;
+        text-decoration: underline;
+    }
+}
+
+.link-list {
+    @include link-list-base;
+    li:before { @include carat; }
+}
+
+.link-list-white {
+    @include link-list-base;
+    
+    li:before { @include carat-white; }
+    li, a, a:hover { color: $white; }
+}
+
+.keywords {
+	@include do-space(margin-top, lg);
+	
+	h5 {
+		margin-top: 0;
+	}
+	
+	ul {
+		margin: 0;
+		padding: 0;
+
+		li:first-child { padding: 0; }
+
+		li {
+			display: inline;
+			padding-left: 3rem;
+		}
+
+		a {
+			 @include link-feature;
+		}
+		
+		a:hover {
+			 @include link-feature-hover;
+		}
+	}
+}
+
+
+.list-link-expanded {
+    list-style-type: none;
+    padding: 0;
+
+    li { 
+        padding: 0;
+        @include do-space(margin-top, lg);
+    }
+    
+    a { 
+        @include link-large-base;
+    }
+    
+    a:hover {
+        @include link-feature-hover;
+    }
+    
+    h2, h3, h4, h5, h6 {
+        @include type-h3;   /*Should this be here? Or use class="h3" to control? */
+        margin: 0;
+        text-wrap-style: auto;
+        &:hover { color: $link-hover-color; }
+    }
+}
+
+// Dark mode
+@include color-mode(dark) {
+    
+    .link-large::after {
+        @include carat-dark;
+    }
+    
+	.link-list {
+        li:before { @include carat-dark; }
+    }
+    
+    .list-link-expanded {
+        h2, h3, h4, h5, h6 {
+            color: $link-color-dark;
+            &:hover { color: $link-hover-color-dark; }
+        }
+    }
+}

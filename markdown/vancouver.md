@@ -1157,7 +1157,7 @@ The caption beneath the image should include:
 
 - its reference number in parentheses. For example, if it is the 12th source cited in your document, the reference number will be (12).
 
-> ![anatomical illustration showing thyroid and parathroid glands](images/ThyroidParathyroidAnatomy96dpi.jpeg)<br>
+> ![anatomical illustration showing thyroid and parathroid glands](images/ThyroidParathyroidAnatomy96dpi.webp)<br>
 > Figure 2. Anatomy of the thyroid and parathyroid glands. (12)
 
 #### Images not given a title in the original source
@@ -1300,7 +1300,7 @@ The caption beneath the image should include:
 
 If an image has not been given a title or a description, e.g. a photograph, create an appropriate title and enter it in square brackets. For example, [Scar tissue on knee].
 
-> ![MRI](images/MRI_machine.jpeg)<br>
+> ![MRI](images/MRI_machine.webp)<br>
 > Figure 4. MRI. (17)
 
 #### Reference list
@@ -1669,7 +1669,7 @@ Include the image in your work with a caption that explains that the work was ge
 
 Example:
 
-![Sunset over the ocean on a stormy day](images/Firefly-sunset-over-the-ocean-on-a-stormy-day-16158.jpg)<br>
+![Sunset over the ocean on a stormy day](images/Firefly-sunset-over-the-ocean-on-a-stormy-day-16158.webp)<br>
 
 Figure 1. Image generated using Adobe Firefly from the prompt sunset over the ocean on a stormy day.
 
@@ -1697,13 +1697,9 @@ Example: 1. Roose K. An A.I.-Generated Picture Won an Art Prize. Artists Aren’
 ###### end-subtype
 
 ###### end-type-content
-###### end-subtype-content
 
-###### end-subtype-item
 
-###### end-subtype
 
-###### end-type-content
 
 
 <!-- you may add more type/sub-type sections here if needed -->

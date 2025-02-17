@@ -1,0 +1,264 @@
+.accordion {
+    @include do-space(margin-top, lg); 
+    @include do-space(margin-bottom, lg); 
+}
+
+// The style below is pretty complicated, but it's useful in certain contexts
+// (wordpress shortcodes)
+
+// When an accordion item is not wrapped an accordion div, 
+// not a transcript or a nav-accordion (when it's used on its own)
+
+// Add in borders top and bottom, add in space.
+.accordion-item:not(.accordion .accordion-item):not(.transcript):not(.nav-accordion) {
+	@include do-space(margin-top, sm); 
+    @include do-space(margin-bottom, lg);
+    border-top: 1px solid $interface-grey;
+	border-bottom: 1px solid $interface-grey;
+}
+
+
+.accordion-item {
+    border-color: $interface-grey;
+    border-left: 0px;
+    border-right: 0px;
+	
+	h1, h2, h3, h4, h5, h6,
+	.h1, .h2, .h3, .h4, .h5, .h6, button {
+		color: $link-color;
+	}
+    
+    .accordion-header {
+        margin: 0px;    //suppress the 40px margin-top found by default
+    }
+
+    .accordion-button {
+
+        @include link-feature;
+        font-size: 1.125rem;
+
+        padding: 1rem 0 1rem 0;
+
+        @include media-breakpoint-up(md) { 
+            font-size: 1.25rem;
+        }  
+    }
+
+    .accordion-button:hover, .accordion-button:not(.collapsed):hover {
+		@include link-feature-hover;
+    }
+
+    .accordion-button:not(.collapsed) {
+        //background-color: $white;
+        //background-color: var(--bs-body-bg-color);
+        box-shadow: inset 0 0px;
+        color: $link-color;
+    }
+
+	//create the red carat before the title
+    .accordion-button::before {
+        flex-shrink: 0;
+        width: 2rem;
+        height: 2rem;
+        margin-right: 1rem;
+        content: "";
+        @include carat;
+        transition: transform .2s ease-in-out;
+    }
+
+	//prevent bootstrsp carat from being displayed.
+    .accordion-button::after {
+        display: none;
+    }
+
+	//rotate rotate 180 degrees upon opening
+    .accordion-button:not(.collapsed)::before {
+
+        transform: rotate(-180deg);
+    }
+    
+    /* 
+    Change background colour and add text underline. 
+    Focus state is retained when accordion is expanded until user clicks elsewhere.
+    */
+    .accordion-button:focus {
+        background-color: var(--bs-primary-bg-subtle);
+        text-decoration:underline;
+        box-shadow: 0 0 !important;
+    }
+
+	//create padding within the accordion.
+    .accordion-body {
+        padding: 1.5rem 0 0 0;
+        @include do-space(margin-bottom, lg); 
+
+		//Remove the margin from the first item of content with the accordion body
+        > first-child {
+            @include do-space(margin-top, zero);   
+        }
+    }
+}
+
+//remove rounded corners
+.accordion-item:first-of-type .accordion-button, 
+.accordion-item:last-of-type  .accordion-button {
+    border-radius: 0px !important;
+}
+
+//style for white text variation
+.accordion-white {
+    .accordion-item {
+        border-color: $white;
+        background-color: $rmit-blue;
+    }
+    
+    .accordion-button, .accordion-button:hover, .accordion-button:not(.collapsed):hover {
+        color: $white;
+        background-color: $rmit-blue;
+    }
+    
+    .accordion-button::before {
+        @include carat-white;
+    }
+    
+    /* 
+    Just change text underline. 
+    Focus state is retained when accordion is expanded until user clicks elsewhere.
+    */
+    .accordion-button:focus {
+        background-color: $rmit-blue;
+        text-decoration:underline;
+        box-shadow: 0 0 !important;
+    }
+    
+    .accordion-button:not(.collapsed) {
+        background-color: $rmit-blue;
+        color: $white;
+    }
+    
+    .accordion-body {
+        background-color: $rmit-blue;
+        color: $white;
+    }
+}
+
+
+.transcript {
+	border: 0px;
+	border-top: 0px;	//Remove border top in this context
+	border-bottom: 1px solid $interface-grey;
+	max-width: 40rem;	// Useful if transcript is not wraped in figure tag 
+	
+    .accordion-button {
+
+        font-size: 1rem !important;
+        @include link-normal;
+
+        padding: 0.5rem 0 1rem 0 !important;
+
+        @include media-breakpoint-up(md) { 
+            font-size: 1.125rem !important;
+        } 
+        
+        &:hover {
+            background-color: var(--bs-body-bg-color) !important;
+			@include link-normal-hover;
+        }
+    }
+  
+    .accordion-button::before {
+        margin-right: 0.5rem !important;
+    }
+    
+	//scale text to 15px within transcript
+    .accordion-body p, .accordion-body li {
+        //font-size: 0.9375rem !important;
+    }
+
+}
+
+figure .transcript {
+	border-bottom: 0px;	/* Border included in figure itself */
+    max-width: 100%;
+}
+
+/* By default, transcript accordion has a max-width of 40rem, 
+add this additional class to stratch it 100% */
+.transcript-full-width {
+	max-width: 100%;
+}
+
+.nav-accordion {
+    border: 0;
+    
+    .accordion-button {
+        //background-color: $underlay-grey !important;
+        background-color: var(--bs-primary-bg-subtle) !important;
+        font-size: 1.125rem !important;
+
+        padding: 0.75rem 0 0.75rem 0;
+
+        @include media-breakpoint-up(md) { 
+            font-size: 1.25rem !important;
+        }   
+    }
+        
+    .accordion-button::before {
+        margin-left: 0.5rem !important;
+        margin-right: 0.5rem !important;
+    }
+	
+	.accordion-button:hover, .accordion-button:not(.collapsed):hover {
+        @include link-feature-hover;
+    }
+    
+    .accordion-body {
+        padding: 0 0 0.5rem 0;
+        @include do-space(margin-bottom, zero); 
+        background-color: var(--bs-primary-bg-subtle);
+    }
+}
+
+/* 
+Ensure the first child has no top margin 
+and last child has no margin bottom 
+*/
+.accordion-body > *:first-child {
+    margin-top: 0px;
+}
+
+.accordion-body > *:last-child {
+    margin-bottom: 0px;
+}
+
+// Dark mode
+@include color-mode(dark) {
+	
+	.accordion-item {
+		
+		h1, h2, h3, h4, h5, h6,
+		.h1, .h2, .h3, .h4, .h5, .h6, button {
+			color: $link-color-dark;
+		}
+		
+		.accordion-button:not(.collapsed) {
+			color: $link-color-dark;
+		}
+        
+        .accordion-button::before {
+            @include carat-dark;
+        }
+	}
+	
+	.accordion-white {
+		 .accordion-button, .accordion-button:hover, .accordion-button:not(.collapsed):hover {
+			color: $white !important;
+			background-color: $rmit-blue;
+		}
+
+		.accordion-button::before {
+			@include carat-white;
+		}
+	}
+
+}

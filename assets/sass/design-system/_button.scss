@@ -1,0 +1,156 @@
+.btn {
+	@include default-focus;
+}
+
+
+.btn-primary {
+    position: relative;
+    
+    @include type-default;
+    
+    margin-right: 1rem;
+    padding: 0.5rem 1rem;
+    
+    &:hover {
+        background-color: $blue-hover;
+    }
+}
+
+//overwrite bootstrap button styles
+.btn-outline-secondary, .btn-default {
+    position: relative;
+    color: var(--bs-link-color);
+    background-color: var(--bs-body-bg-color);
+    
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--bs-link-color);
+    border-radius: 0.25rem;
+    
+    box-sizing: border-box;
+    
+    @include type-default;
+    
+    margin-right: 1rem;
+    padding: 8px 1rem;
+    
+    &:focus {
+        @include element-focus;
+    }
+    
+    &:hover {
+        @include link-feature-hover;
+        color: var(--bs-link-hover-color);
+		background-color: var(--bs-body-bg-color);
+        border-color: var(--bs-link-hover-color);
+    }
+}
+
+// Previous and next buttons
+.btn-nav-container {
+
+    width: 100%;
+	@include do-space(margin-top, xl);
+	
+	//At medium breakpoint use flex to align buttons left and right
+	@include media-breakpoint-up(md) {
+    	display: flex;
+		justify-content: space-between;
+
+		&.no-prev-button {
+			justify-content: flex-end;
+		}
+    }
+
+	//At a large breakpoint, add in a seperator line
+    @include media-breakpoint-down(xl) {
+        @include do-space(padding-bottom, lg);
+        border-bottom: solid 1px $interface-grey;
+    }
+}
+ 
+.btn-nav-prev, .btn-nav-next  {
+	
+	//remove h2 margins
+	margin: 0;
+	
+	a {
+		//type overrides
+		@extend .btn-outline-secondary;
+		@include type-lead;
+		font-family: $font-family-sans-serif;
+		text-decoration: none;
+
+		//use flex to accomodate carat
+		display: flex;
+		gap: 1rem;
+		align-items: center;
+
+		//set up border radius and padding
+		border-radius: 0.5rem;
+		margin: 0;
+		padding: 1rem 0.5rem 1rem 1.5rem;
+
+		//links should take up all of the space
+		width: 100%;
+		height: 100%;
+		text-align: left;
+
+		//limit width at medium breakpoint
+		@include media-breakpoint-up(md) {
+			width: 306px;
+		}
+	}
+}
+
+//adjust padding and visibility for prev button
+.btn-nav-prev {
+    display: none;  //hide prev button on mobile for space reasons
+	
+	//adjust padding, bigger gap on right
+	a {
+		padding: 1rem 1.5rem 1rem 0.5rem;
+	}
+    
+	//show the button at medium breakpoints 
+	@include media-breakpoint-up(md) {
+	   display: flex;
+	}
+}
+
+.btn-nav-next a {
+	justify-content: space-between;
+}
+
+// Place carats next to links
+.btn-nav-prev a::before, .btn-nav-next a::after { 
+    @include carat;
+	flex-shrink: 0;
+    width: 2rem;
+    height: 2rem;
+    
+	//rotate carat to point right
+    transform: rotate(-90deg);
+}
+
+//rotate prev carat to point left
+.btn-nav-prev a::before {
+    transform: rotate(90deg);
+}
+
+
+// Dark mode
+@include color-mode(dark) {
+	// Couldn't get standard mapping working for primary colour
+	.btn-primary {
+		color: $body-bg-dark;
+		background-color: $link-color-dark;
+		&:hover {
+			background-color: $link-color-hover-dark;
+		}
+	}
+    
+    .btn-nav-prev a::before, .btn-nav-next a::after { 
+        @include carat-dark;
+    }
+}

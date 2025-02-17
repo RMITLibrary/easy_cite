@@ -1,0 +1,75 @@
+/* Default styles for tables */
+table, .table {
+	@include do-space(margin-top, lg); 
+	@include do-space(margin-bottom, lg);
+	
+	border: 1px solid $interface-grey;
+	
+	tr, td, th {
+		border: 1px solid $interface-grey;
+		padding: 0.5rem;
+	}
+	
+	th {
+		vertical-align: bottom;
+	}
+
+	th {
+		vertical-align: top;
+	}
+
+	/* Apply vertical alignment to th elements in the first row only */
+	thead th {
+		vertical-align: bottom;
+	}
+	
+	td {
+		vertical-align: top;
+	}
+	
+	/* disabled any margin in first element in a cell */
+	td > * {
+		margin-top: 0 !important;
+	}
+}
+
+/*If table is wrapped in this responsive class, remove tables margins and add it to the wrapped class */
+.table-responsive {
+	@include do-space(margin-top, lg); 
+    @include do-space(margin-bottom, lg); 
+	
+	table, .table {
+		margin: 0;
+	}
+}
+
+/* Styles for striped tables */
+.table-striped {
+	width: 100%;
+	border: 0;
+	
+	tr, td {
+		border: 0;
+	}
+
+	th {
+		border: 0;
+	}
+	
+	//add a bottom border to thead th (first row)
+	thead th {
+		border-bottom: 1px solid $interface-grey;
+	}
+	
+}
+
+.table-striped>:not(caption)>*>* {
+    border-bottom-width: 0px;
+	
+	padding: 0.5rem 0.75rem 0.5rem 0.75rem;
+	@include media-breakpoint-up(md) { padding: 0.75rem 1rem 0.75rem 1rem; }
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: var(--bs-primary-bg-subtle);
+}

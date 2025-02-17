@@ -1,0 +1,211 @@
+/* Preserve rounded corners for first item */
+
+
+.right-nav, .right-nav-accordion, .right-nav-simple {
+	
+    box-sizing: border-box; 
+    max-width: 36rem;   
+    
+    padding: 0.5rem 0 1.25rem 0;
+    border-radius: 0.5rem;
+    background-color: var(--bs-primary-bg-subtle);
+	
+    //Provide a gap while menu is sits underneath content
+    @include do-space(margin-top, lg);
+    
+	//Set a narrower max-width once a 2 col layout is displayed
+    @include media-breakpoint-up(lg) { 
+        max-width: 24.5rem;  
+    }
+    
+	//At largest breakpoint, increase gap to the left, default bootstrap gap is too small
+    @include media-breakpoint-up(xl) { 
+        margin-left: 1.5rem; 
+        margin-top: 0;
+    }
+    
+    a {
+        @include link-feature;
+    }
+	
+	a:hover {
+		@include link-feature-hover;
+    }
+	
+	/*h2 {
+        //h4 fontsize
+        font-size: 1.25rem;
+        margin: 0;
+        
+        @include media-breakpoint-up(md) { font-size: 1.5rem; }
+        
+        a {
+            display: inline-block;
+            width: 100%;   
+            padding: 0.25rem 1.5rem 0.75rem 1.5rem;
+        }
+    }*/
+    
+    ul {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    
+    li {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        text-wrap: balance;
+        
+        a {
+            display: inline-block;
+            width: 100%;
+            padding: 0.75rem 1.5rem 0.75rem 3rem;   //here
+        }
+    }
+
+    
+    a.selected {
+        border-left: 0.25rem solid $accent-color;
+        padding: 0.75rem 1.5rem 0.75rem 2.75rem;	//less 0.25rem to account for border
+        background-color: $underlay-selected;
+        
+        /*a {
+            padding: 0;
+        }*/
+    }
+    
+    /* nested lists - extend padding */
+    ul > li > ul {  
+        li a {
+            padding-left: 5.25rem;
+        } 
+        
+        li a.selected {
+            padding-left: 5rem;   //less 0.25rem to account for border
+        }
+    }
+	
+	[aria-current="page"] {
+		pointer-events: none !important; 
+		cursor: default;
+		text-decoration: none !important;
+		color: #000054;
+	}
+}
+
+.right-nav, .right-nav-simple {
+	h2 {
+        //h4 fontsize
+        font-size: 1.25rem;
+        margin: 0;
+        
+        @include media-breakpoint-up(md) { font-size: 1.5rem; }
+        
+        a {
+			display: block;
+            padding: 0.25rem 1.5rem 0.75rem 1.5rem;
+        }
+        
+        &:has(a) {
+            padding: 0;
+        } 
+    }
+	
+	h2.selected {
+        padding: 0.25rem 1.5rem 0.75rem 1.5rem;	
+        //less 0.25rem to account for border left, increase padding at top for select state
+    }
+    
+    h3 {
+        /* h5 fontsize */
+        font-size: 1.125rem;
+        margin: 0;
+        
+        @include media-breakpoint-up(md) { font-size: 1.25rem; }
+        
+        a {
+            display: block;
+            padding: 1rem 1.5rem 0.75rem 1.5rem;
+        }
+        
+        &:has(a) {
+            padding: 0;
+        }  
+    }
+    
+    h3.selected {
+        border-left: 0.25rem solid  $accent-color;
+        padding: 1rem 1.5rem 0.75rem 1.25rem;	
+        //less 0.25rem to account for border left, increase padding at top for select state
+        background-color: $underlay-selected;
+    }
+}
+
+
+/*Add border bottom to non accordion right nav only */
+.right-nav, .right-nav-simple {
+    h2 {
+        border-bottom: 1px solid $interface-grey;
+    }
+}
+
+.right-nav-simple {
+    
+	h2 {
+		padding: 0.25rem 2rem 0.75rem 2rem;	
+	}
+	
+    li {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        text-wrap: balance;
+        
+        a {
+            display: inline-block;
+            width: 100%;
+            padding: 0.75rem 2rem 0.75rem 2rem; //here
+        }
+    }
+
+    
+    a.selected {
+        border-left: 0.25rem solid  $accent-color;
+        padding: 0.75rem 1.5rem 0.75rem 1.75rem;	//less 0.25rem to account for border
+        background-color: $underlay-selected;
+    }  
+}
+
+.right-nav-accordion {
+    padding-top: 0rem;
+}
+
+.right-nav-accordion > *:first-child {
+	
+	h2 .accordion-button {
+		border-top-left-radius: 0.5rem !important;
+		border-top-right-radius: 0.5rem !important;
+	}
+}
+
+// Dark mode
+@include color-mode(dark) {
+	
+	.right-nav, .right-nav-simple {
+
+		h3.selected {
+			border-left: 0.25rem solid $accent-color-dark;
+			background-color: $underlay-selected-dark;
+		}
+	}
+   
+    .right-nav, .right-nav-accordion, .right-nav-simple {
+        
+        a.selected { 
+            color: $link-color-dark;
+            background-color: $underlay-selected-dark;  
+            border-left: 0.25rem solid  $accent-color-dark;
+        }
+    }
+}

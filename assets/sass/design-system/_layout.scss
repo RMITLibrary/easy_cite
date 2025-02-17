@@ -1,0 +1,402 @@
+/*$img-width-xl: 100%;
+$img-width-lg: 40rem;       //640px
+$img-width-md: 25rem;       //400px
+$img-width-sm: 18.5rem;     //296px*/
+/*
+.img-width- {
+    &full {
+        max-width: $img-width-xl;
+    }
+    
+    &lg {
+        max-width: $img-width-lg;
+    }
+    
+    &md {
+        max-width: $img-width-md;
+    }
+    
+    &sm {
+        max-width: $img-width-sm;
+    }
+}
+*/
+
+// text options used in both icon-text and img-text
+// set up as a mixin for reuse
+@mixin two-col-text {
+	//allow text to fill available space
+	flex: 1;
+	margin: 0;
+
+	//remove margin from first element
+	& > *:first-child {
+		margin-top: 0;
+	}
+
+	//remove margin from first element
+	& > *:last-child {
+		margin-bottom: 0;
+	}
+
+	// Target the first heading, reduce margin
+	h1:first-of-type,
+	h2:first-of-type,
+	h3:first-of-type,
+	h4:first-of-type,
+	h5:first-of-type,
+	h6:first-of-type {
+		margin-bottom: 0.5rem;
+	}
+
+	// Target the first heading and the paragraph immediately following it, reduce margin
+	h1:first-of-type + p,
+	h2:first-of-type + p,
+	h3:first-of-type + p,
+	h4:first-of-type + p,
+	h5:first-of-type + p,
+	h6:first-of-type + p {
+		margin-top: 0.5rem;
+	}
+}
+
+
+// icon-text shows a image (usually an icon) to the left of text across all sizes
+.icon-text  {
+	display: flex;
+	align-items: center;	//align to center
+	gap: 0.75rem;
+
+	@include media-breakpoint-up(md) { gap: 1.5rem; }	// Adjust gap for larger screens
+	
+	//responsive margin top and bottom for the component
+	@include do-space(margin-top, lg); 
+    @include do-space(margin-bottom, lg); 
+	
+	// img is 3rem (48px) at small screens, 5rem (80px) at leager screens
+	figure {
+        margin: 0;
+		max-width: 3rem;
+        
+        @include media-breakpoint-up(md) { 
+			max-width: 5rem;
+		}   
+	}
+	
+	// refer to mixin, adjusts margins for text inside text class
+	.content-text {
+		@include two-col-text;
+	}
+}
+
+
+// img-text shows a small image (usually an icon) to the right of text on medium screens and above.
+.img-text  {
+	
+	//responsive margin top and bottom for the component
+	@include do-space(margin-top, lg); 
+    @include do-space(margin-bottom, lg);
+	
+	// Adjust margins for both text and image in stacked layout for small screens
+	.content-text {
+		& > *:first-child {
+			margin-top: 0;
+		}
+	}
+	
+	figure {  
+		margin-bottom: 1.5rem;
+	}
+	
+	// use flex to do two column layout on medium screens nd above
+	@include media-breakpoint-up(md) { 
+		display: flex;
+		align-items: center;
+		gap: 1.5rem;
+		
+		// refer to mixin, adjusts margins for text inside text class
+		.content-text {
+			@include two-col-text;
+		}
+		
+		// img is 296px at medium screens, set to the right
+		figure {  
+			margin: 0;
+			max-width: $img-width-sm;
+			order: 2;
+		}
+	} 
+}
+
+.img-text-left {
+	@include media-breakpoint-up(md) {
+		figure {  
+			order: 0;
+		}
+	}
+}
+
+//Use this in conjunction with img-text and icon-text
+.align-items-top {
+	align-items: flex-start;
+}
+
+
+// Adjustments to card
+.card {
+	border: 0;
+	background-color: var(--bs-primary-bg-subtle);
+	border: 1px solid $interface-grey;					// border by default
+	max-width: $img-width-lg;							//max-width of 640px;
+	
+	// option to have no border
+	&.no-border {
+		border: 0px;
+	}
+	
+	// no margin for figures in this case, margins applied to surrounding card
+	figure {
+		margin: 0;
+	}
+	
+	// Adjust margins of text within card. Small text is used by default
+	.card-body {
+		& > *:first-child {
+			margin-top: 0;
+		}
+		
+		& > *:last-child {
+			margin-bottom: 0px;
+		}
+		
+		//@include type-small;
+		
+		p {
+			//@include type-small;
+		}
+		
+		//large card can be used by applying "large" class
+		p.large {
+			@include type-default;
+		}	
+	}
+
+	//trim-top to add visual punch, indicate right and wrong
+	.trim-top, .trim-top-wrong, .trim-top-right, .trim-top-neutral {
+		border-top: 0.25rem solid $red;
+	}
+
+	.trim-top-right, {
+		border-color: $green;
+	}
+
+	.trim-top-neutral {
+		border-color: $yellow;
+	}
+}
+// If a card is floated right, it's max-width is further restrictied/. Also default type to small
+.card.float-right {
+	max-width: $img-width-sm;
+	@include type-small;
+
+	p {
+		@include type-small;
+	}
+
+	.large {
+		@include type-default;
+	}	
+}
+// Striped list 
+// Mirrors functionality of a striped table
+.striped-list {
+	
+	padding: 0;
+	
+	li {
+		list-style-type: none;
+		padding: 0.75rem 0.5rem;
+		margin: 0;
+	}
+	
+	//Alternate grey and white
+	li:nth-child(odd) {
+		background-color: var(--bs-primary-bg-subtle);
+	}
+
+	//adjust padding on larger screens
+	@include media-breakpoint-up(md) { 
+		
+		li {
+			padding: 0.75rem 1rem; 
+		}
+	}
+}
+
+//For larger screens, set up classes to do multi column lists, preserving the alternating background
+@include media-breakpoint-up(md) { 
+	
+	.striped-list-col-2 {
+		display: grid;
+    	grid-template-columns: 1fr 1fr;
+		
+		//select the first and second items of every set of four items, apply a light grey bg
+		li:nth-child(4n+1),
+		li:nth-child(4n+2) {
+		  background-color: var(--bs-primary-bg-subtle);
+		}
+		
+		//select the third and second items of every set of four items, apply a white bg
+		li:nth-child(4n+3),
+		li:nth-child(4n+4) {
+		  background-color: var(--bs-body-bg-color);
+		}
+		
+		// span across both columns if the number of items is odd
+		li:last-child:nth-child(odd) {
+		  grid-column: span 2;
+		}
+			
+	}
+	
+	.striped-list-col-3 {
+		display: grid;
+    	grid-template-columns: 1fr 1fr 1fr;
+		
+		li:nth-child(6n+1),
+		li:nth-child(6n+2),
+		li:nth-child(6n+3) {
+            background-color: var(--bs-primary-bg-subtle);
+		}
+
+		li:nth-child(6n+4),
+		li:nth-child(6n+5),
+		li:nth-child(6n+6) {
+		  background-color: var(--bs-body-bg-color);
+		}
+		
+		//span last item all columns if the there's one item on last row
+		li:nth-last-child(1):nth-child(3n+1) {
+			grid-column: span 3;
+		}
+		
+		//span last item across two columns if the there's two items on last row
+		li:nth-last-child(1):nth-child(3n+2) {
+			grid-column: span 2;
+		}
+	}
+
+	.striped-list-col-4 {
+		display: grid;
+    	grid-template-columns: 1fr 1fr 1fr 1fr;
+		
+		li:nth-child(8n+1),
+		li:nth-child(8n+2),
+		li:nth-child(8n+3),
+		li:nth-child(8n+4) {
+            background-color: var(--bs-primary-bg-subtle);
+		}
+
+		li:nth-child(8n+5),
+		li:nth-child(8n+6),
+		li:nth-child(8n+7),
+		li:nth-child(8n+8){
+		  background-color: var(--bs-body-bg-color);
+		}
+		
+		//span last item all columns if the there's one item on last row
+		li:nth-last-child(1):nth-child(4n+1) {
+			grid-column: span 4;
+		}
+		
+		//span last item all columns if the there's two items on last row
+		li:nth-last-child(1):nth-child(4n+2) {
+			grid-column: span 3;
+		}
+		
+		//span last item all columns if the there's three items on last row
+		li:nth-last-child(1):nth-child(4n+3) {
+			grid-column: span 2;
+		}
+	}
+}
+
+
+// Generic grid. Use this rather than bootstrap columns and rows
+
+.my-grid {
+
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+
+	@include do-space(margin-top, lg); 
+    @include do-space(margin-bottom, lg);
+	
+	padding: 0;
+
+    
+    @include media-breakpoint-up(md) { 
+        grid-template-columns: 1fr 1fr; 
+    }
+    
+    @include media-breakpoint-up(lg) { 
+        gap: 1.5rem;
+    }
+	
+	li.grid-item {
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+	}
+
+	// style to stop table double border bug
+	table {
+		border: 0;	
+	}
+
+	td { width: 100%; }
+
+	// using this to prevent wordpress from adding in stray br tags between elements
+	br {
+		display: none;
+	}
+}
+.my-grid > * {
+	display: block;
+	margin: 0;
+}
+
+.my-grid-3up {
+	@include media-breakpoint-up(md) { 
+        grid-template-columns: 1fr 1fr 1fr; 
+    }
+}
+
+.my-grid-4up {
+	@include media-breakpoint-up(lg) { 
+        grid-template-columns: 1fr 1fr 1fr 1fr; 
+    }
+}
+
+.gap-lg {
+	gap: 2rem;
+
+	@include media-breakpoint-up(lg) { 
+        gap: 2.5rem;
+    }
+}
+
+.grid-width- {
+	&lg {
+		max-width: $img-width-lg;
+	}
+
+	&md {
+		max-width: $img-width-md;
+	}
+
+	&sm {
+		max-width: $img-width-sm;
+	}
+}

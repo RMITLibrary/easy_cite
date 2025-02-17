@@ -1,0 +1,86 @@
+@mixin element-focus {
+    box-shadow: 0 0 0 .25rem $input-btn-focus-color;
+}
+
+@mixin element-no-focus {
+    box-shadow: 0 0 0 0 transparent;
+}
+
+@mixin default-focus {
+	&:focus {
+        @include element-no-focus;
+    }
+	
+	&:active {
+        @include element-no-focus;
+    }
+    
+    &:active:focus {
+        @include element-no-focus;
+    }
+    
+    &:focus-within {
+        @include element-focus;
+    }
+}
+
+.form-label {
+	margin: 7px 1rem 0.5rem 0;
+	@include media-breakpoint-up(md) { margin-top: 0.25rem; }
+}
+
+.form-check-input {
+	margin: 6px 1rem 0 0;
+    border-color: $interface-grey;
+	
+	&:focus {
+        @include element-focus;
+    }
+}
+
+.form-control:focus {
+    @include element-focus;
+}
+
+// Dark mode
+@include color-mode(dark) {
+	.form-check-input {
+		border-color: $interface-grey;
+		
+		&:focus {
+			box-shadow: 0 0 0 .25rem rgba(250, 200, 0, 0.5);
+		}
+	}
+	
+	.form-check-input:checked {
+		background-color: #1250a1; //$link-color-dark;
+		border-color: $interface-grey;
+		
+		//--bs-form-check-bg-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='2' fill='%2333'/%3e%3c/svg%3e")
+	}
+}
+
+
+// Checklist option, expected mark-up is as follows:
+//<div class="checklist">
+//	<div><input class="form-check-input" type="checkbox" id="checkbox1"><label for="checkbox1">Label 1</label></div>
+//	<div>Label 2</div>
+//	<div><input class="form-check-input" type="checkbox" id="checkbox3"><label for="checkbox3">Label 3</label></div>
+//</div>
+
+.checklist {
+    
+    @include do-space(margin-top, sm); 
+    @include do-space(margin-bottom, sm);
+    
+    div {
+        display: flex;
+        align-items: top;
+        margin-bottom: 1.5rem;
+    }
+
+    .checklist label {
+        margin-left: 0.75rem;
+    }
+}
+

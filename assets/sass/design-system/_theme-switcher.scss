@@ -1,0 +1,55 @@
+#theme-switcher {
+    
+	h2 {
+		margin-top: 2rem;
+		margin-bottom: 0.75rem;
+	}
+	
+    // important to give the background a colour, 
+    // it will change pdepending on theme choice, giving user feedback
+	.theme-bg {
+		display: inline-block;
+		color: var(--bs-body-color);
+		background-color: var(--bs-body-bg);
+
+		border-radius: 0.5rem;
+		padding: 1rem 1rem;
+	}
+	
+	.form-check-inline:last-child {
+		margin-right: 0rem;
+	}
+	
+	@include media-breakpoint-up(sm) {
+		
+		.theme-bg {
+			padding: 1rem 1.5rem;
+		}
+
+		.form-check-inline {
+			margin-right: 1.5rem;
+		}
+
+		.form-check-inline:last-child {
+			margin-right: 0.5rem;
+		}
+	}
+    
+    // assuming theme-switcher is displayed underneath right nav
+    // adjust padding to align with right hand nav
+    @include media-breakpoint-up(lg) {
+        margin-left: 1.5rem;
+    }
+}
+
+// Make heading always white if displayed in hamburger menu
+.nav-container #theme-switcher {
+    h2 {
+		color: $white;
+	}
+    
+    //remove margin left in this context
+    @include media-breakpoint-up(lg) {
+        margin-left: 0;
+    }
+}

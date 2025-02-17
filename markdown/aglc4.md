@@ -1119,7 +1119,7 @@ Include the image in your work with a caption that explains that the work was ge
 
 Example:
 
-![law student at university](images/Firefly-a-law-student-at-university-648.jpg)<br>
+![law student at university](images/Firefly-a-law-student-at-university-648.webp)<br>
 Figure 1. Image generated using Adobe Firefly from the prompt a law student at university.
 
 **How to reference AI-generated images reproduced in a published source:**

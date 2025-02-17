@@ -1957,7 +1957,7 @@ Include the image in your work with a caption that explains that the work was ge
 
 ##### Example
 
-![A Typical Engineer](images/Firefly-a-typical-engineer-16158.jpg)<br>
+![A Typical Engineer](images/Firefly-a-typical-engineer-16158.webp)<br>
 
 **Fig 1.** Image generated using Adobe Firefly from the prompt a typical engineer.
 
