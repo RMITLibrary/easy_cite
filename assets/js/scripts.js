@@ -339,4 +339,13 @@ document.addEventListener('DOMContentLoaded', function () {
       printThisGuide(this);
     });
   });
+
+  // Function to refresh the page when the state changes
+  function handleStateChange() {
+    // Reload the page to ensure all resources are reloaded based on URL parameters
+    location.reload();
+  }
+
+  // Listen for popstate event when using back/forward buttons
+  window.addEventListener('popstate', handleStateChange);
 });
