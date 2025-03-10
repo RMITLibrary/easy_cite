@@ -261,10 +261,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Manage tab display and introduction accordion expansion
   document.querySelectorAll('[data-bs-toggle="tab"]').forEach((tab) => {
-    tab.addEventListener('shown.bs.tab', function () {
+    tab.addEventListener('shown.bs.tab', function (event) {
+      // Get the new tab's target content area
       const targetPane = document.querySelector(this.getAttribute('data-bs-target'));
 
       if (targetPane) {
+        // Move focus to the targetPane
+        targetPane.setAttribute('tabindex', '-1'); // Make it focusable
+        targetPane.focus();
+        targetPane.removeAttribute('tabindex'); //remove attribute again
+
         scrollToPageContentIfNeeded(targetPane);
 
         // Expand the first accordion item containing "introduction" (case insensitive)
