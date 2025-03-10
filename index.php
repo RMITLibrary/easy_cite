@@ -247,7 +247,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 						<div class="ask-container">
 							<section class="ask-the-library"><a href="https://www.rmit.edu.au/library/about-and-contacts/ask-the-library"><img loading="lazy" src="https://rmitlibrary.github.io/cdn/footer/ask-library-icon-round.svg" class="ask-logo" alt="">
 									<div class="ask-text">
-										<h2 class="h3 margin-top-zero">Ask the library</h2>
+										<h2 class="h3 margin-top-zero">Ask the Library</h2>
 										<p>Study support, one-on-one consultations and peer mentoring at your fingertips!</p>
 									</div>
 								</a></section>
