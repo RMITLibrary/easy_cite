@@ -342,10 +342,24 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Function to refresh the page when the state changes
   function handleStateChange() {
-    // Reload the page to ensure all resources are reloaded based on URL parameters
-    location.reload();
+    // Check if the popstate event was triggered by "Skip to main content"
+    if (window.skipToContentClicked) {
+      console.log('ignoring hash change');
+      delete window.skipToContentClicked; // Remove the flag
+      return; // Do nothing (don't reload)
+    }
+    console.log('reloading the page');
+    location.reload(); // Reload the page for other popstate events
   }
 
   // Listen for popstate event when using back/forward buttons
   window.addEventListener('popstate', handleStateChange);
+
+  // Handle "Skip to main content" click
+  const skipLink = document.querySelector('a[href="#page-content"]');
+  if (skipLink) {
+    skipLink.addEventListener('click', function () {
+      window.skipToContentClicked = true; // Set the flag
+    });
+  }
 });
