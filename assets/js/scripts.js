@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const pageContent = document.getElementById('page-content');
     if (pageContent && !isElementTopInViewport(target)) {
       pageContent.scrollIntoView({
-        behavior: 'instant'
+        behavior: 'instant',
       });
     }
   }
@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', function () {
           }
 
           window.scrollTo({
-            top: target.getBoundingClientRect().top + window.scrollY - totalOffset
+            top: target.getBoundingClientRect().top + window.scrollY - totalOffset,
           });
 
           // Optionally focus on the tab or accordion button
@@ -266,14 +266,19 @@ document.addEventListener('DOMContentLoaded', function () {
       if (targetPane) {
         scrollToPageContentIfNeeded(targetPane);
 
-        // Expand the first accordion item containing "introduction" (case insensitive)
-        // and set focus to the first accordion button
+        // Focus on the tab pane content
+        setTimeout(() => {
+          targetPane.setAttribute('tabindex', '-1'); // Make it focusable temporarily
+          targetPane.focus();
+          targetPane.removeAttribute('tabindex'); // Remove the tabindex attribute if not needed
+        }, 0);
+
+        // Expand the first accordion item containing "introduction" (if needed)
         const accordionHeaders = targetPane.querySelectorAll('.accordion-button');
         let firstAccordionHeader = null;
         accordionHeaders.forEach((header, index) => {
           if (header.textContent.toLowerCase().startsWith('introduction')) {
             const accordionBody = header.closest('.accordion-item').querySelector('.accordion-collapse');
-            //check to see if it is already open
             if (!accordionBody.classList.contains('show')) {
               header.classList.remove('collapsed');
               header.setAttribute('aria-expanded', 'true');
@@ -281,23 +286,25 @@ document.addEventListener('DOMContentLoaded', function () {
             }
             firstAccordionHeader = header;
           }
-          //if no introduction - set to the first item in the accordion
+          // If no introduction, set to the first item in the accordion
           if (firstAccordionHeader === null && index === 0) {
             firstAccordionHeader = header;
           }
         });
 
-        // Focus on the first found header (after a short delay)
-        if (firstAccordionHeader) {
-          setTimeout(() => {
-            //check to see if the accordion button has focus
-            if (document.activeElement !== firstAccordionHeader) {
-              firstAccordionHeader.setAttribute('tabindex', '-1'); // Make it focusable
-              firstAccordionHeader.focus();
-              firstAccordionHeader.removeAttribute('tabindex'); //remove attribute again
-            }
-          }, 0);
-        }
+        // Optionally focus on the accordion header if needed for your design
+        // (Comment this out if you don't want to focus the accordion)
+        /*
+      if (firstAccordionHeader) {
+        setTimeout(() => {
+          if (document.activeElement !== firstAccordionHeader) {
+            firstAccordionHeader.setAttribute('tabindex', '-1');
+            firstAccordionHeader.focus();
+            firstAccordionHeader.removeAttribute('tabindex');
+          }
+        }, 0);
+      }
+      */
       }
     });
   });
