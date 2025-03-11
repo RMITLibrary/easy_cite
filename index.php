@@ -181,7 +181,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 															$totalItems = count($subtype['items']);
 															foreach ($subtype['items'] as $itemIndex => $item):
 																// Check if the title contains 'Introduction' (case insensitive)
-																$isIntroduction = stripos($item['title'], 'introduction') !== false || ($totalItems === 1);
+																$isIntroduction = strtolower(substr(trim($item['title']), 0, 12)) === 'introduction' || ($totalItems === 1);
 															?>
 																<div class="accordion-item">
 																	<h3 class="accordion-header">
