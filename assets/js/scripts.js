@@ -117,8 +117,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const pageContent = document.getElementById('page-content');
     if (pageContent && !isElementTopInViewport(target)) {
       pageContent.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start',
+        behavior: 'instant'
       });
     }
   }
@@ -134,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Update tab and accordion from URL parameters
   function updateTabAndAccordionFromParams(setparam) {
-    console.log('Processing tab or accordion state from params');
+    //console.log('Processing tab or accordion state from params');
     let target = document.querySelector(setparam);
     if (target) {
       if (setparam.includes('stn')) {
@@ -149,7 +148,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
       if (params.get('accordion')) {
         setTimeout(() => {
-          console.log('Scrolling and focusing target');
+          //console.log('Scrolling and focusing target');
 
           const topNavigation = document.querySelector('.top-navigation');
           const subMenu = document.getElementById('sub-menu');
@@ -164,8 +163,7 @@ document.addEventListener('DOMContentLoaded', function () {
           }
 
           window.scrollTo({
-            top: target.getBoundingClientRect().top + window.scrollY - totalOffset,
-            behavior: 'smooth',
+            top: target.getBoundingClientRect().top + window.scrollY - totalOffset
           });
 
           // Optionally focus on the tab or accordion button
@@ -182,7 +180,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Update query string and reload the page for style guide changes
   function updateQueryStringAndReload(event) {
-    console.log('Updating query string and reloading for style guide change');
+    //console.log('Updating query string and reloading for style guide change');
 
     const button = event.target.closest('a[data-styleguide]');
     if (!button) return;
@@ -202,7 +200,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Update URL parameters for tabs and accordions
   function updateParams(fragment, type) {
-    console.log('Updating URL params');
+    //console.log('Updating URL params');
     if (type === 'tab') {
       params.set('tab', fragment);
       params.delete('accordion'); // Clear accordion parameter when tab changes
@@ -266,23 +264,40 @@ document.addEventListener('DOMContentLoaded', function () {
       const targetPane = document.querySelector(this.getAttribute('data-bs-target'));
 
       if (targetPane) {
-        // Move focus to the targetPane
-        targetPane.setAttribute('tabindex', '-1'); // Make it focusable
-        targetPane.focus();
-        targetPane.removeAttribute('tabindex'); //remove attribute again
-
         scrollToPageContentIfNeeded(targetPane);
 
         // Expand the first accordion item containing "introduction" (case insensitive)
+        // and set focus to the first accordion button
         const accordionHeaders = targetPane.querySelectorAll('.accordion-button');
-        accordionHeaders.forEach((header) => {
-          if (header.textContent.toLowerCase().includes('introduction')) {
+        let firstAccordionHeader = null;
+        accordionHeaders.forEach((header, index) => {
+          if (header.textContent.toLowerCase().startsWith('introduction')) {
             const accordionBody = header.closest('.accordion-item').querySelector('.accordion-collapse');
-            header.classList.remove('collapsed');
-            header.setAttribute('aria-expanded', 'true');
-            accordionBody.classList.add('show');
+            //check to see if it is already open
+            if (!accordionBody.classList.contains('show')) {
+              header.classList.remove('collapsed');
+              header.setAttribute('aria-expanded', 'true');
+              accordionBody.classList.add('show');
+            }
+            firstAccordionHeader = header;
+          }
+          //if no introduction - set to the first item in the accordion
+          if (firstAccordionHeader === null && index === 0) {
+            firstAccordionHeader = header;
           }
         });
+
+        // Focus on the first found header (after a short delay)
+        if (firstAccordionHeader) {
+          setTimeout(() => {
+            //check to see if the accordion button has focus
+            if (document.activeElement !== firstAccordionHeader) {
+              firstAccordionHeader.setAttribute('tabindex', '-1'); // Make it focusable
+              firstAccordionHeader.focus();
+              firstAccordionHeader.removeAttribute('tabindex'); //remove attribute again
+            }
+          }, 0);
+        }
       }
     });
   });
@@ -299,19 +314,19 @@ document.addEventListener('DOMContentLoaded', function () {
     if (thisButtonClass.includes('sectionprint')) {
       printDiv = elem.closest('.accordion-item');
       if (!printDiv) {
-        console.error('Accordion section not found.');
+        //console.error('Accordion section not found.');
         return;
       }
     } else if (thisButtonClass.includes('partprint')) {
       printDiv = elem.closest('.tab-pane');
       if (!printDiv) {
-        console.error('Tab pane not found.');
+        //console.error('Tab pane not found.');
         return;
       }
     } else if (thisButtonClass.includes('guideprint')) {
       printDiv = document.getElementById('nav-tabContent');
       if (!printDiv) {
-        console.error('Printable guide not found.');
+        //console.error('Printable guide not found.');
         return;
       }
     }
@@ -334,7 +349,7 @@ document.addEventListener('DOMContentLoaded', function () {
           printWindow.print();
         }, 500);
       } else {
-        console.error('Failed to open print window.');
+        //console.error('Failed to open print window.');
       }
     }
   }
@@ -350,11 +365,11 @@ document.addEventListener('DOMContentLoaded', function () {
   function handleStateChange() {
     // Check if the popstate event was triggered by "Skip to main content"
     if (window.skipToContentClicked) {
-      console.log('ignoring hash change');
+      //console.log('ignoring hash change');
       delete window.skipToContentClicked; // Remove the flag
       return; // Do nothing (don't reload)
     }
-    console.log('reloading the page');
+    //console.log('reloading the page');
     location.reload(); // Reload the page for other popstate events
   }
 
