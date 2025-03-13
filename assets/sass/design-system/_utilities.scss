@@ -20,11 +20,11 @@
 }
 
 @include color-mode(dark) {
-	/*iframe {
+	iframe {
 		//drop the contrast in dark mode to reduce eye strain.
 		//once embedded content has a preoper dark mode, this could be removed
         filter: brightness(0.9) contrast(0.9);
-    }*/
+    }
 }
 
 
@@ -47,3 +47,28 @@
     height: 26px;
 }
 
+//Scrolls the content wrapped within horizontally. Useful for wide content (equations, diagrams)
+.hscroll {
+	overflow-x: auto; 
+	-webkit-overflow-scrolling: touch;
+	//width: calc(100% + 0.75rem);	//push the content right to the edge
+
+	// background: linear-gradient(to right, transparent calc(100% - 2rem), $body-bg);
+	// -webkit-mask-image: linear-gradient(to right, black calc(100% - 2rem), transparent);
+	// mask-image: linear-gradient(to right, black calc(100% - 2rem), transparent);
+	
+	// &.on-backing {
+	// 	background: linear-gradient(to right, transparent calc(100% - 2rem), $underlay-grey);
+	// }
+}
+
+// Custom classes to set minimum widths for elements.
+// Useful when used with horizontal scrolling for responsive design (ie hscroll class above).
+// Based on Bootstrap's responsive breakpoints for consistency.
+
+.min-width-xs { min-width: 20rem; }  // Equivalent to 320px
+.min-width-sm { min-width: 36rem; }  // Equivalent to 576px
+.min-width-md { min-width: 48rem; }  // Equivalent to 768px
+.min-width-lg { min-width: 62rem; }  // Equivalent to 992px
+.min-width-xl { min-width: 75rem; }  // Equivalent to 1200px
+.min-width-xxl { min-width: 125rem; } // Custom size, equivalent to 2000px

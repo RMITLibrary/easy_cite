@@ -124,6 +124,8 @@ html.nav-fixed {
     &:hover {
       text-decoration: underline;
     }
+
+    @include default-focus();
   }
 
   .selected {
@@ -147,9 +149,7 @@ html.nav-fixed {
         background-color: $underlay-selected-dark;
       }
 
-      &:focus-visible {
-        box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5);
-      }
+      @include default-focus('dark');
     }
   }
 
@@ -238,11 +238,11 @@ html.nav-fixed {
   }
 }
 
-#printable-guide .accordion-button {
+/* #printable-guide .accordion-button {
     &:focus-visible {
         box-shadow: 0 0 0 0.25rem $focus-ring-color !important;
     }
-  }
+  } */
 
 @include color-mode(dark) {
   .page-heading {
@@ -251,11 +251,11 @@ html.nav-fixed {
     }
   }
 
-  #printable-guide .accordion-button {
+  /* #printable-guide .accordion-button {
     &:focus-visible {
       box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5) !important;
     }
-  }
+  } */
 
 
 }
@@ -329,21 +329,26 @@ footer .footer-legal ul {
 }
 
 
-  #sub-menu {
-    a  {
-      &:focus-visible {
+#sub-menu {
+    a:focus-visible {
         box-shadow: none !important;
-        span{
-
-        @include element-focus;
-        }
-      }
+        span {  @include element-focus; }
     }
+}
+
+@include color-mode(dark) {
+  #sub-menu {
+      a:focus-visible {
+          box-shadow: none !important;
+          span {  @include element-focus('dark'); }
+      }
   }
+}
+
 
 
 // Dark mode
-@include color-mode(dark) {
+/* @include color-mode(dark) {
   #sub-menu {
     a  {
       &:focus-visible {
@@ -353,7 +358,7 @@ footer .footer-legal ul {
       }
     }
   }
-}
+} */
 
 // New styles for buttons replicating the anchor styles
 
@@ -361,9 +366,7 @@ footer .footer-legal ul {
 @include color-mode(dark) {
   .btn-nav-prev button,
   .btn-nav-next button {
-    &:focus-visible {
-      box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.5) !important;
-    }
+    @include default-focus('dark');
   }
 }
 .btn-nav-prev button,
@@ -381,6 +384,8 @@ footer .footer-legal ul {
   text-wrap: pretty;
   margin-right: 1rem;
   padding: 8px 1rem;
+
+  @include default-focus;
 }
 
 .btn-nav-prev button,

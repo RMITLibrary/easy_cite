@@ -1,0 +1,85 @@
+/* @mixin element-focus {
+    box-shadow: 0 0 0 .25rem $input-btn-focus-color;
+    outline-width: 0;
+}
+
+@mixin element-no-focus {
+   box-shadow: 0 0 0 0 transparent;
+}
+
+@mixin default-focus {
+	&:focus {
+        @include element-no-focus;
+    }
+	
+	&:active {
+        @include element-no-focus;
+    }
+    
+    &:active:focus {
+        @include element-no-focus;
+    }
+    
+    &:focus-within {
+        @include element-focus;
+    }
+} */
+
+@mixin element-focus($mode: 'light') {
+    @if $mode == 'dark' {
+        box-shadow: 0 0 0 .25rem $input-btn-focus-color-dark; // Dark mode color
+    } @else {
+        box-shadow: 0 0 0 .25rem $input-btn-focus-color; // Light mode color
+    }
+    outline-width: 0;
+}
+
+@mixin element-no-focus {
+    box-shadow: 0 0 0 0 transparent;
+}
+
+@mixin default-focus($mode: 'light') {
+    &:focus,
+    &:active,
+    &:active:focus {
+        @include element-no-focus;
+    }
+
+    &:focus-within {
+        @include element-focus($mode);
+    }
+}
+
+.usage-example { @include default-focus('light'); }
+
+//now we need to declare dark mode options unnested
+@include color-mode(dark) {
+        .usage-example 
+        { @include default-focus('dark'); }
+}
+
+@mixin fish($mode: 'light') {
+    @if $mode == 'dark' {
+        background-color: green;
+    } @else {
+       background-color: red;
+    }
+}
+
+/* .frog {
+    @include fish('light'); // For light mode
+
+    @include color-mode(dark) {
+        @include fish('dark'); // For dark mode inside include
+    }
+} */
+
+.frog {
+    @include fish('light'); // For light mode
+}
+
+@include color-mode(dark) {
+    .frog {
+        @include fish('dark'); // For dark mode inside include
+    }
+}
