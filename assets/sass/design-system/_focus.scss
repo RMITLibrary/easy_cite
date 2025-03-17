@@ -58,28 +58,10 @@
         { @include default-focus('dark'); }
 }
 
-@mixin fish($mode: 'light') {
-    @if $mode == 'dark' {
-        background-color: green;
-    } @else {
-       background-color: red;
-    }
-}
-
-/* .frog {
-    @include fish('light'); // For light mode
-
-    @include color-mode(dark) {
-        @include fish('dark'); // For dark mode inside include
-    }
-} */
-
-.frog {
-    @include fish('light'); // For light mode
-}
+//default link focus
+a, pre { @include default-focus(); }
 
 @include color-mode(dark) {
-    .frog {
-        @include fish('dark'); // For dark mode inside include
-    }
+    a, pre
+    { @include default-focus('dark'); }
 }

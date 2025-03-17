@@ -8,6 +8,7 @@ footer {
     @include do-space(padding-top, lg);
     
     a, a:hover { color: $white; } // Ensure links remain white on hover
+    a { @include default-focus('dark');}
     
     .logo svg {
         width: 100px;
