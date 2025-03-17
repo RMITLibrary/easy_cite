@@ -244,6 +244,10 @@ and last child has no margin bottom
 		.accordion-button:not(.collapsed) {
 			color: $link-color-dark;
 		}
+
+        .accordion-button:focus-within {
+			color: $accent-color-dark;
+		}
         
         .accordion-button::before {
             @include carat-dark;
