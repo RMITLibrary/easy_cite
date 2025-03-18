@@ -72,11 +72,13 @@ html.nav-fixed {
 	
 	a {
 		text-decoration: none;
+		@include default-focus('dark');
 	}
 	
 	a:hover {
 		text-decoration: underline;
 	}
+
 	/* END generic styles for header */
 }
 
@@ -140,8 +142,7 @@ html.nav-fixed {
         }
         
         button:focus {
-            box-shadow: 0 0 !important;
-            border: 1px solid $white;
+			@include default-focus('dark');
         }
         
         button.collapsed {
@@ -212,6 +213,7 @@ html.nav-fixed {
         
         padding-bottom: 0.75rem;
 		border-bottom: 0.25rem solid $body-bg;
+		@include default-focus;
 	}
     
     a.selected {
@@ -234,6 +236,7 @@ html.nav-fixed {
 		a {
 			color: $link-color-dark;
 			border-bottom: 0.25rem solid $underlay-grey-dark;
+			@include default-focus('dark');
 		}
 		
 		a.selected {

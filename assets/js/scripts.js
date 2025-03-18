@@ -383,11 +383,35 @@ document.addEventListener('DOMContentLoaded', function () {
   // Listen for popstate event when using back/forward buttons
   window.addEventListener('popstate', handleStateChange);
 
-  // Handle "Skip to main content" click
-  const skipLink = document.querySelector('a[href="#page-content"]');
-  if (skipLink) {
-    skipLink.addEventListener('click', function () {
-      window.skipToContentClicked = true; // Set the flag
+  const skipLinks = document.querySelectorAll('a.skip-link');
+  skipLinks.forEach((skipLink) => {
+    skipLink.addEventListener('click', function (event) {
+      event.preventDefault(); // Prevent the default jump behavior
+
+
+      // NEW: Check for the data attribute
+      if (skipLink.hasAttribute('data-focus-target')) {
+        window.skipToContentClicked = true; // Set the flag
+
+        // Get the href target
+        const targetSelector = skipLink.getAttribute('href');
+        const targetElement = document.querySelector(targetSelector);
+
+        if (targetElement) {
+          // Find the first focusable element within the target
+          const focusableElement = targetElement.querySelector('a, button, [tabindex]');
+          if (focusableElement) {
+            // Scroll to the element, if required
+            scrollToPageContentIfNeeded(targetElement);
+            //Focus
+            focusableElement.focus();
+          } else {
+            // If no focusable element, just scroll to it.
+            scrollToPageContentIfNeeded(targetElement);
+          }
+        }
+      }
+      // If data attribute is not present, the link will just jump as normal
     });
-  }
+  });
 });

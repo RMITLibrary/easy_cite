@@ -14,6 +14,8 @@
     &:hover {
         background-color: $blue-hover;
     }
+
+	@include default-focus;
 }
 
 //overwrite bootstrap button styles
@@ -33,10 +35,8 @@
     
     margin-right: 1rem;
     padding: 8px 1rem;
-    
-    &:focus {
-        @include element-focus;
-    }
+
+	@include default-focus;
     
     &:hover {
         @include link-feature-hover;
@@ -45,6 +45,46 @@
         border-color: var(--bs-link-hover-color);
     }
 }
+
+.btn-sm, .btn-secondary {
+	position: relative;
+	display: flex;		// useful if icons are added 
+	height: 45px;
+
+	align-items: center;
+	
+	color: var(--bs-link-color);
+    background-color: var(--bs-body-bg-color);
+	border: 1px solid $interface-grey;
+	border-radius: 0.25rem;
+	box-sizing: border-box;
+	
+	@include type-default;
+	
+	padding: 0 1rem;
+	
+	@include default-focus;
+	
+	&:hover {
+		@include link-feature-hover;
+		border-color: $link-hover-color;
+		color: $link-hover-color;
+	}
+}
+
+.btn-icon {
+	@extend .btn-sm;
+
+	padding: 0 1rem 0 0.5rem;
+
+	&::before { 
+		// content: url("inline svg here");	//needs to be replaced in dark mode with colour altered too
+		flex-shrink: 0;
+		width: 32px;
+		height: 32px;
+		margin-right: 0.25rem;
+	}
+} 
 
 // Previous and next buttons
 .btn-nav-container {
@@ -80,6 +120,8 @@
 		@include type-lead;
 		font-family: $font-family-sans-serif;
 		text-decoration: none;
+
+		text-wrap: balance;
 
 		//use flex to accomodate carat
 		display: flex;
@@ -141,6 +183,12 @@
 
 // Dark mode
 @include color-mode(dark) {
+
+	//focus dark mode
+	.btn, .btn-outline-secondary, .btn-default, .btn-sm, .btn-secondary {
+		 @include default-focus('dark');
+	}
+
 	// Couldn't get standard mapping working for primary colour
 	.btn-primary {
 		color: $body-bg-dark;
@@ -153,4 +201,18 @@
     .btn-nav-prev a::before, .btn-nav-next a::after { 
         @include carat-dark;
     }
+
+	.btn-sm, .btn-secondary {
+        color: $link-color-dark;
+
+        &:hover {
+            @include link-feature-hover;
+            border-color: $link-hover-color-dark;
+            color: $link-color-hover-dark;
+        }
+    }
 }
+
+
+
+    

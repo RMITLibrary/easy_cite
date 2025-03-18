@@ -130,7 +130,7 @@
         text-decoration:underline;
         box-shadow: 0 0 !important;
     }
-    
+
     .accordion-button:not(.collapsed) {
         background-color: $rmit-blue;
         color: $white;
@@ -243,6 +243,10 @@ and last child has no margin bottom
 		
 		.accordion-button:not(.collapsed) {
 			color: $link-color-dark;
+		}
+
+        .accordion-button:focus-within {
+			color: $accent-color-dark;
 		}
         
         .accordion-button::before {
