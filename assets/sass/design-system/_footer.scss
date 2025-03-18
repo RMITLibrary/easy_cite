@@ -1,4 +1,3 @@
-
 .footer-container {
     margin-top: 6rem;
 }
@@ -8,54 +7,69 @@ footer {
     color: $white;
     @include do-space(padding-top, lg);
     
-    a, a:hover { color: $white; }
+    a, a:hover { color: $white; } // Ensure links remain white on hover
+    a { @include default-focus('dark');}
     
     .logo svg {
         width: 100px;
         @include media-breakpoint-down(md) { margin-left: 0.75rem; }
 
     }
+
+    @include color-mode(dark) {
+        img {
+            filter: none;
+            background-color: none;		
+        }
+    }
     
     
-    /* START Styles taken from RMIT.edu.au */
+    /* These styles differ from RMIT.edu.au to provide more space between items */
     
     .footerlegalShareItems {
-        display: flex;
+        display: flex; // Use flexbox for layout
         border-top: 1px solid $white;
-        
-         @include do-space(margin-top, lg);
+        @include do-space(margin-top, lg); // Add margin above with large spacing
     }
     
     @include media-breakpoint-down(md) {
         .footerlegalShareItems {
-            flex-direction: column;
+            flex-direction: column; // Change to column layout on smaller screens
         }
     }
 
     .footer-legal {
-        width: 75%;
-        float: left;
+        width: 75%; // Set width for legal section
+        float: left; // Float to the left
         font-size: 14px;
-        padding: 0 48px 0 0;
+        padding: 0 48px 0 0; // Add right padding
         font-family: "Arial", sans-serif;
     }
-    
+
     .footer-legal ul {
-        list-style-type: none;
-        text-align: left;
+        display: flex;
+        flex-wrap: wrap; // Allow items to wrap
+        align-items: center;
+        gap: 0.75rem; // Space between list items
+        list-style-type: none; // Remove bullet points
         margin: 0;
-        margin-left: -0.75rem;
-        padding: 24px 0 0 0;
-        
-        @include media-breakpoint-down(md) { margin-left: 0; }
+        padding: 24px 0 0 0; // Add top padding
+
+        @include media-breakpoint-down(md) { margin-left: 0; } // Remove left margin on smaller screens
     }
     
     .footer-legal ul li {
-        display: inline-block;
-        font-size: 14px;
-        text-decoration: none;
-        line-height: 20px;
+        align-items: center; // Center items vertically
+        padding: 0;
+        margin: 0;
     }
+    
+    .footer-legal ul li:not(:last-child):after {
+        content: "|"; // Add separator after each item except the last one
+        padding-left: 0.75rem; // Space between content and separator
+    }
+
+    /* START Styles taken from RMIT.edu.au */
     
     @include media-breakpoint-down(md) {
          .footer-legal {
@@ -92,6 +106,7 @@ footer {
     }
     
     .social-nav li { padding-right: 12px; }
+    .social-nav li:first-child { padding-left: 0; }
     .social-nav li:last-child { padding-right: 0; }
     
     .social-nav li img { width: 2rem; height: 2rem; }
@@ -184,19 +199,19 @@ footer * {
 //border at the top
 .ask-container {
 	border-top: 1px solid $interface-grey;
-	
-	a { @include link-feature; }
-	
-	a:hover {
-		p.lead { 
-			@include link-feature-hover;
-		}
-	}
 }
 
 .ask-the-library a {
     @include do-space(margin-top, xl);
 	@include do-space(margin-bottom, xl);
+    @include link-feature;
+    @include default-focus;
+
+    a:hover {
+		p.lead { 
+			@include link-feature-hover;
+		}
+	}
 
     display: flex;
     max-width: 544px;
@@ -231,3 +246,7 @@ footer * {
 	}
 }
 
+@include color-mode(dark) {
+	//focus dark mode
+	.ask-the-library a { @include default-focus('dark'); }
+}

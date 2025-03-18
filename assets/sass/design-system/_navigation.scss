@@ -189,6 +189,13 @@
 	}
 }
 
+.sticky-nav {
+    @include media-breakpoint-up(xl) { 
+        position: sticky;
+        top: 7.5rem;  
+    }
+}
+
 // Dark mode
 @include color-mode(dark) {
 	

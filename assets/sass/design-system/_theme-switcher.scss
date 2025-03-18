@@ -1,55 +1,96 @@
-#theme-switcher {
-    
-	h2 {
-		margin-top: 2rem;
-		margin-bottom: 0.75rem;
+.theme-switch {
+	margin-top: 2rem; 
+	legend {
+		@extend h5;
+		margin-top: 0;
 	}
-	
-    // important to give the background a colour, 
-    // it will change pdepending on theme choice, giving user feedback
-	.theme-bg {
+
+	.form-check-inline:last-child { margin-right: 0rem; }
+}
+
+.theme-switch.hamburger-menu {
+	margin-top: 2rem;
+	margin-bottom: 0.75rem;
+
+	legend { color: $white; }
+
+	.bg {
 		display: inline-block;
 		color: var(--bs-body-color);
 		background-color: var(--bs-body-bg);
 
 		border-radius: 0.5rem;
 		padding: 1rem 1rem;
-	}
-	
-	.form-check-inline:last-child {
-		margin-right: 0rem;
-	}
-	
-	@include media-breakpoint-up(sm) {
-		
-		.theme-bg {
-			padding: 1rem 1.5rem;
-		}
 
-		.form-check-inline {
-			margin-right: 1.5rem;
-		}
+		border: 1px solid $rmit-blue;
+		width: 100%;
 
-		.form-check-inline:last-child {
-			margin-right: 0.5rem;
-		}
+		@include media-breakpoint-up(md) { width: auto; }
+
+		@include media-breakpoint-up(sm) { padding: 1rem 1.5rem; }
 	}
-    
-    // assuming theme-switcher is displayed underneath right nav
-    // adjust padding to align with right hand nav
-    @include media-breakpoint-up(lg) {
-        margin-left: 1.5rem;
+}
+
+.theme-switch.theme-compact {
+	margin-top: 3rem;
+	padding-top: 0.75rem;
+	border-top: 1px solid $interface-grey;
+
+	fieldset {
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+	}
+
+	legend {
+		@include type-small;
+		font-family: $font-family-sans-serif;
+		color: var(--bs-body-color);
+		width: auto;
+		margin: 0;
+		font-weight: bold;
+	}
+
+	.form-check-label { 
+		@include type-small;
+		margin-bottom: 0; 
+	}
+
+	@include media-breakpoint-up(md) {
+		fieldset {
+			flex-direction: row;
+			align-items: center;
+			gap: 2rem;
+		}
     }
 }
 
-// Make heading always white if displayed in hamburger menu
-.nav-container #theme-switcher {
-    h2 {
-		color: $white;
+//Add some right margin if sitting underneath right nav
+.theme-switch.theme-right-nav {
+
+	@include media-breakpoint-up(xl) {
+		margin-left: 1.5rem;
+
+		fieldset {
+			gap: 1rem;
+		}
+
+		.form-check-inline {
+			margin-right: 1rem;
+		}
+
+		.form-check-inline:last-child { margin-right: 0rem; }
 	}
-    
-    //remove margin left in this context
-    @include media-breakpoint-up(lg) {
-        margin-left: 0;
-    }
+
+	@include media-breakpoint-up(xxl) {
+		fieldset {
+			gap: 2rem;
+		}
+
+		.form-check-inline {
+			margin-right: 2rem;
+		}
+
+		.form-check-inline:last-child { margin-right: 0rem; }
+	}
 }
