@@ -294,7 +294,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Optionally focus on the accordion header if needed for your design
         // (Comment this out if you don't want to focus the accordion)
-        /*
+
       if (firstAccordionHeader) {
         setTimeout(() => {
           if (document.activeElement !== firstAccordionHeader) {
@@ -304,7 +304,7 @@ document.addEventListener('DOMContentLoaded', function () {
           }
         }, 0);
       }
-      */
+
       }
     });
   });
@@ -389,6 +389,7 @@ document.addEventListener('DOMContentLoaded', function () {
       event.preventDefault(); // Prevent the default jump behavior
 
 
+
       // NEW: Check for the data attribute
       if (skipLink.hasAttribute('data-focus-target')) {
         window.skipToContentClicked = true; // Set the flag
@@ -396,10 +397,10 @@ document.addEventListener('DOMContentLoaded', function () {
         // Get the href target
         const targetSelector = skipLink.getAttribute('href');
         const targetElement = document.querySelector(targetSelector);
-
         if (targetElement) {
           // Find the first focusable element within the target
           const focusableElement = targetElement.querySelector('a, button, [tabindex]');
+
           if (focusableElement) {
             // Scroll to the element, if required
             scrollToPageContentIfNeeded(targetElement);
