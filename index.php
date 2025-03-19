@@ -45,11 +45,11 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
   ?>
   <!-- START top nav -->
   <header>
-    <?php if (!$show_guides): ?>
-      <a href="#page-content" class="visually-hidden-focusable skip-link" data-ga-event="skip_to_content">Skip to main page content</a>
-    <? else: ?>
+    <?php if (!$show_guides) : ?>
+      <a href="#page-content" class="visually-hidden-focusable skip-link" data-ga-event="skip_to_content" data-focus-target>Skip to main page content</a>
+    <?php else : ?>
       <a href="#main-tab-content" class="visually-hidden-focusable skip-link" data-ga-event="skip_to_content" data-focus-target>Skip to main page content</a>
-      <a href="#nav-tabContent" class="visually-hidden-focusable  skip-link" data-focus-target>Skip to page sub navigation</a>
+      <a href="#nav-tabContent" class="visually-hidden-focusable skip-link" data-focus-target>Skip to page sub navigation</a>
     <?php endif; ?>
 
     <div class="top-navigation">
