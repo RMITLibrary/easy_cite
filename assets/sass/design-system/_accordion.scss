@@ -17,7 +17,6 @@
 	border-bottom: 1px solid $interface-grey;
 }
 
-
 .accordion-item {
     border-color: $interface-grey;
     border-left: 0px;
@@ -33,7 +32,6 @@
     }
 
     .accordion-button {
-
         @include link-feature;
         font-size: 1.125rem;
 
@@ -41,18 +39,16 @@
 
         @include media-breakpoint-up(md) { 
             font-size: 1.25rem;
-        }  
+        } 
+		@include default-focus;
+    }
+
+	.accordion-button:focus {
+        text-decoration:underline;
     }
 
     .accordion-button:hover, .accordion-button:not(.collapsed):hover {
 		@include link-feature-hover;
-    }
-
-    .accordion-button:not(.collapsed) {
-        //background-color: $white;
-        //background-color: var(--bs-body-bg-color);
-        box-shadow: inset 0 0px;
-        color: $link-color;
     }
 
 	//create the red carat before the title
@@ -73,18 +69,7 @@
 
 	//rotate rotate 180 degrees upon opening
     .accordion-button:not(.collapsed)::before {
-
         transform: rotate(-180deg);
-    }
-    
-    /* 
-    Change background colour and add text underline. 
-    Focus state is retained when accordion is expanded until user clicks elsewhere.
-    */
-    .accordion-button:focus {
-        background-color: var(--bs-primary-bg-subtle);
-        text-decoration:underline;
-        box-shadow: 0 0 !important;
     }
 
 	//create padding within the accordion.
@@ -97,7 +82,7 @@
             @include do-space(margin-top, zero);   
         }
     }
-}
+} 
 
 //remove rounded corners
 .accordion-item:first-of-type .accordion-button, 
@@ -111,6 +96,10 @@
         border-color: $white;
         background-color: $rmit-blue;
     }
+
+	.accordion-button {
+		@include default-focus('dark');
+	}
     
     .accordion-button, .accordion-button:hover, .accordion-button:not(.collapsed):hover {
         color: $white;
@@ -120,17 +109,7 @@
     .accordion-button::before {
         @include carat-white;
     }
-    
-    /* 
-    Just change text underline. 
-    Focus state is retained when accordion is expanded until user clicks elsewhere.
-    */
-    .accordion-button:focus {
-        background-color: $rmit-blue;
-        text-decoration:underline;
-        box-shadow: 0 0 !important;
-    }
-    
+
     .accordion-button:not(.collapsed) {
         background-color: $rmit-blue;
         color: $white;
@@ -141,6 +120,7 @@
         color: $white;
     }
 }
+
 
 
 .transcript {
@@ -164,6 +144,8 @@
             background-color: var(--bs-body-bg-color) !important;
 			@include link-normal-hover;
         }
+
+        @include default-focus;
     }
   
     .accordion-button::before {
@@ -240,13 +222,11 @@ and last child has no margin bottom
 		.h1, .h2, .h3, .h4, .h5, .h6, button {
 			color: $link-color-dark;
 		}
+
+		.accordion-button { @include default-focus('dark'); }
 		
 		.accordion-button:not(.collapsed) {
 			color: $link-color-dark;
-		}
-
-        .accordion-button:focus-within {
-			color: $accent-color-dark;
 		}
         
         .accordion-button::before {
@@ -265,4 +245,9 @@ and last child has no margin bottom
 		}
 	}
 
+    .transcript {
+        .accordion-button { @include default-focus('dark'); }
+    }
+
 }
+
