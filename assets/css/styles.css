@@ -12198,7 +12198,7 @@ p a:visited:hover {
   box-shadow: 0 0 0 0 transparent;
 }
 [data-bs-theme=dark] .usage-example:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 
@@ -12214,7 +12214,7 @@ a:focus-within, pre:focus-within {
   box-shadow: 0 0 0 0 transparent;
 }
 [data-bs-theme=dark] a:focus-within, [data-bs-theme=dark] pre:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 
@@ -12271,7 +12271,7 @@ a:focus-within, pre:focus-within {
 [data-bs-theme=dark] .form-select:focus-within,
 [data-bs-theme=dark] textarea:focus-within,
 [data-bs-theme=dark] input:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 [data-bs-theme=dark] .form-check-input:checked {
@@ -12511,7 +12511,7 @@ a:focus-within, pre:focus-within {
   box-shadow: 0 0 0 0 transparent;
 }
 [data-bs-theme=dark] .btn:focus-within, [data-bs-theme=dark] .btn-outline-secondary:focus-within, [data-bs-theme=dark] .btn-nav-prev a:focus-within, .btn-nav-prev [data-bs-theme=dark] a:focus-within, [data-bs-theme=dark] .btn-nav-next a:focus-within, .btn-nav-next [data-bs-theme=dark] a:focus-within, [data-bs-theme=dark] .btn-default:focus-within, [data-bs-theme=dark] .btn-sm:focus-within, [data-bs-theme=dark] .btn-icon:focus-within, [data-bs-theme=dark] .btn-print:focus-within, [data-bs-theme=dark] .btn-embed:focus-within, [data-bs-theme=dark] .btn-secondary:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 [data-bs-theme=dark] .btn-primary {
@@ -12585,26 +12585,9 @@ a:focus-within, pre:focus-within {
   border-color: #BFBFBF;
   border-left: 0px;
   border-right: 0px;
-  /*
-    Change background colour and add text underline.
-    Focus state is retained when accordion is expanded until user clicks elsewhere.
-    */
 }
-.accordion-item h1,
-.accordion-item h2,
-.accordion-item h3,
-.accordion-item h4,
-.accordion-item h5,
-.accordion-item .theme-switch legend,
-.theme-switch .accordion-item legend,
-.accordion-item h6,
-.accordion-item .h1,
-.accordion-item .h2,
-.accordion-item .h3,
-.accordion-item .h4,
-.accordion-item .h5,
-.accordion-item .h6,
-.accordion-item button {
+.accordion-item h1, .accordion-item h2, .accordion-item h3, .accordion-item h4, .accordion-item h5, .accordion-item .theme-switch legend, .theme-switch .accordion-item legend, .accordion-item h6,
+.accordion-item .h1, .accordion-item .h2, .accordion-item .h3, .accordion-item .h4, .accordion-item .h5, .accordion-item .h6, .accordion-item button {
   color: #000054;
 }
 .accordion-item .accordion-header {
@@ -12620,13 +12603,18 @@ a:focus-within, pre:focus-within {
     font-size: 1.25rem;
   }
 }
-.accordion-item .accordion-button:hover,
-.accordion-item .accordion-button:not(.collapsed):hover {
+.accordion-item .accordion-button:focus, .accordion-item .accordion-button:active, .accordion-item .accordion-button:active:focus {
+  box-shadow: 0 0 0 0 transparent;
+}
+.accordion-item .accordion-button:focus-within {
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.4);
+  outline-width: 0;
+}
+.accordion-item .accordion-button:focus {
   text-decoration: underline;
 }
-.accordion-item .accordion-button:not(.collapsed) {
-  box-shadow: inset 0 0px;
-  color: #000054;
+.accordion-item .accordion-button:hover, .accordion-item .accordion-button:not(.collapsed):hover {
+  text-decoration: underline;
 }
 .accordion-item .accordion-button::before {
   flex-shrink: 0;
@@ -12642,11 +12630,6 @@ a:focus-within, pre:focus-within {
 }
 .accordion-item .accordion-button:not(.collapsed)::before {
   transform: rotate(-180deg);
-}
-.accordion-item .accordion-button:focus {
-  background-color: var(--bs-primary-bg-subtle);
-  text-decoration: underline;
-  box-shadow: 0 0 !important;
 }
 .accordion-item .accordion-body {
   padding: 1.5rem 0 0 0;
@@ -12671,29 +12654,23 @@ a:focus-within, pre:focus-within {
   border-radius: 0px !important;
 }
 
-.accordion-white {
-  /*
-    Just change text underline.
-    Focus state is retained when accordion is expanded until user clicks elsewhere.
-    */
-}
 .accordion-white .accordion-item {
   border-color: #fff;
   background-color: #000054;
 }
-.accordion-white .accordion-button,
-.accordion-white .accordion-button:hover,
-.accordion-white .accordion-button:not(.collapsed):hover {
+.accordion-white .accordion-button:focus, .accordion-white .accordion-button:active, .accordion-white .accordion-button:active:focus {
+  box-shadow: 0 0 0 0 transparent;
+}
+.accordion-white .accordion-button:focus-within {
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
+  outline-width: 0;
+}
+.accordion-white .accordion-button, .accordion-white .accordion-button:hover, .accordion-white .accordion-button:not(.collapsed):hover {
   color: #fff;
   background-color: #000054;
 }
 .accordion-white .accordion-button::before {
   content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M9.33329 11C9.7065 11 10.0765 11.1557 10.3399 11.4585L16.0063 17.9844L21.661 11.4713C22.144 10.9158 22.9864 10.8561 23.5409 11.3391C24.0965 11.8221 24.1562 12.6635 23.6742 13.219L17.0129 20.8912C16.5075 21.4745 15.5062 21.4755 14.9997 20.8912L8.32668 13.2073C7.84364 12.6517 7.90335 11.8093 8.45891 11.3274C8.71162 11.1077 9.02299 11 9.33329 11Z'/%3e%3c/svg%3e");
-}
-.accordion-white .accordion-button:focus {
-  background-color: #000054;
-  text-decoration: underline;
-  box-shadow: 0 0 !important;
 }
 .accordion-white .accordion-button:not(.collapsed) {
   background-color: #000054;
@@ -12712,7 +12689,7 @@ a:focus-within, pre:focus-within {
 }
 .transcript .accordion-button {
   font-size: 1rem !important;
-  text-decoration: none;
+  text-decoration: underline;
   padding: 0.5rem 0 1rem 0 !important;
 }
 @media (min-width: 768px) {
@@ -12724,6 +12701,13 @@ a:focus-within, pre:focus-within {
   background-color: var(--bs-body-bg-color) !important;
   text-decoration: none;
 }
+.transcript .accordion-button:focus, .transcript .accordion-button:active, .transcript .accordion-button:active:focus {
+  box-shadow: 0 0 0 0 transparent;
+}
+.transcript .accordion-button:focus-within {
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.4);
+  outline-width: 0;
+}
 .transcript .accordion-button::before {
   margin-right: 0.5rem !important;
 }
@@ -12732,7 +12716,7 @@ figure .transcript {
   max-width: 100%;
 }
 
-/* By default, transcript accordion has a max-width of 40rem,
+/* By default, transcript accordion has a max-width of 40rem, 
 add this additional class to stratch it 100% */
 .transcript-full-width {
   max-width: 100%;
@@ -12755,8 +12739,7 @@ add this additional class to stratch it 100% */
   margin-left: 0.5rem !important;
   margin-right: 0.5rem !important;
 }
-.nav-accordion .accordion-button:hover,
-.nav-accordion .accordion-button:not(.collapsed):hover {
+.nav-accordion .accordion-button:hover, .nav-accordion .accordion-button:not(.collapsed):hover {
   text-decoration: underline;
 }
 .nav-accordion .accordion-body {
@@ -12770,9 +12753,9 @@ add this additional class to stratch it 100% */
   }
 }
 
-/*
-Ensure the first child has no top margin
-and last child has no margin bottom
+/* 
+Ensure the first child has no top margin 
+and last child has no margin bottom 
 */
 .accordion-body > *:first-child {
   margin-top: 0px;
@@ -12782,40 +12765,36 @@ and last child has no margin bottom
   margin-bottom: 0px;
 }
 
-[data-bs-theme=dark] .accordion-item h1,
-[data-bs-theme=dark] .accordion-item h2,
-[data-bs-theme=dark] .accordion-item h3,
-[data-bs-theme=dark] .accordion-item h4,
-[data-bs-theme=dark] .accordion-item h5,
-[data-bs-theme=dark] .accordion-item .theme-switch legend,
-.theme-switch [data-bs-theme=dark] .accordion-item legend,
-[data-bs-theme=dark] .accordion-item h6,
-[data-bs-theme=dark] .accordion-item .h1,
-[data-bs-theme=dark] .accordion-item .h2,
-[data-bs-theme=dark] .accordion-item .h3,
-[data-bs-theme=dark] .accordion-item .h4,
-[data-bs-theme=dark] .accordion-item .h5,
-[data-bs-theme=dark] .accordion-item .h6,
-[data-bs-theme=dark] .accordion-item button {
+[data-bs-theme=dark] .accordion-item h1, [data-bs-theme=dark] .accordion-item h2, [data-bs-theme=dark] .accordion-item h3, [data-bs-theme=dark] .accordion-item h4, [data-bs-theme=dark] .accordion-item h5, [data-bs-theme=dark] .accordion-item .theme-switch legend, .theme-switch [data-bs-theme=dark] .accordion-item legend, [data-bs-theme=dark] .accordion-item h6,
+[data-bs-theme=dark] .accordion-item .h1, [data-bs-theme=dark] .accordion-item .h2, [data-bs-theme=dark] .accordion-item .h3, [data-bs-theme=dark] .accordion-item .h4, [data-bs-theme=dark] .accordion-item .h5, [data-bs-theme=dark] .accordion-item .h6, [data-bs-theme=dark] .accordion-item button {
   color: #6FB7FF;
+}
+[data-bs-theme=dark] .accordion-item .accordion-button:focus, [data-bs-theme=dark] .accordion-item .accordion-button:active, [data-bs-theme=dark] .accordion-item .accordion-button:active:focus {
+  box-shadow: 0 0 0 0 transparent;
+}
+[data-bs-theme=dark] .accordion-item .accordion-button:focus-within {
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
+  outline-width: 0;
 }
 [data-bs-theme=dark] .accordion-item .accordion-button:not(.collapsed) {
   color: #6FB7FF;
 }
-[data-bs-theme=dark] .accordion-item .accordion-button:focus-within {
-  color: #E6636A;
-}
 [data-bs-theme=dark] .accordion-item .accordion-button::before {
   content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23e6656c'%3e%3cpath fill-rule='evenodd' d='M9.33329 11C9.7065 11 10.0765 11.1557 10.3399 11.4585L16.0063 17.9844L21.661 11.4713C22.144 10.9158 22.9864 10.8561 23.5409 11.3391C24.0965 11.8221 24.1562 12.6635 23.6742 13.219L17.0129 20.8912C16.5075 21.4745 15.5062 21.4755 14.9997 20.8912L8.32668 13.2073C7.84364 12.6517 7.90335 11.8093 8.45891 11.3274C8.71162 11.1077 9.02299 11 9.33329 11Z'/%3e%3c/svg%3e");
 }
-[data-bs-theme=dark] .accordion-white .accordion-button,
-[data-bs-theme=dark] .accordion-white .accordion-button:hover,
-[data-bs-theme=dark] .accordion-white .accordion-button:not(.collapsed):hover {
+[data-bs-theme=dark] .accordion-white .accordion-button, [data-bs-theme=dark] .accordion-white .accordion-button:hover, [data-bs-theme=dark] .accordion-white .accordion-button:not(.collapsed):hover {
   color: #fff !important;
   background-color: #000054;
 }
 [data-bs-theme=dark] .accordion-white .accordion-button::before {
   content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M9.33329 11C9.7065 11 10.0765 11.1557 10.3399 11.4585L16.0063 17.9844L21.661 11.4713C22.144 10.9158 22.9864 10.8561 23.5409 11.3391C24.0965 11.8221 24.1562 12.6635 23.6742 13.219L17.0129 20.8912C16.5075 21.4745 15.5062 21.4755 14.9997 20.8912L8.32668 13.2073C7.84364 12.6517 7.90335 11.8093 8.45891 11.3274C8.71162 11.1077 9.02299 11 9.33329 11Z'/%3e%3c/svg%3e");
+}
+[data-bs-theme=dark] .transcript .accordion-button:focus, [data-bs-theme=dark] .transcript .accordion-button:active, [data-bs-theme=dark] .transcript .accordion-button:active:focus {
+  box-shadow: 0 0 0 0 transparent;
+}
+[data-bs-theme=dark] .transcript .accordion-button:focus-within {
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
+  outline-width: 0;
 }
 
 blockquote {
@@ -13109,7 +13088,7 @@ footer a:focus, footer a:active, footer a:active:focus {
   box-shadow: 0 0 0 0 transparent;
 }
 footer a:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 footer .logo svg {
@@ -13358,7 +13337,7 @@ footer * {
   box-shadow: 0 0 0 0 transparent;
 }
 [data-bs-theme=dark] .ask-the-library a:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 
@@ -13684,7 +13663,7 @@ html.nav-fixed #context-menu .nav-container {
   box-shadow: 0 0 0 0 transparent;
 }
 .top-navigation a:focus-within, #sub-menu a:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 .top-navigation a:hover, #sub-menu a:hover {
@@ -13764,7 +13743,7 @@ html.nav-fixed #context-menu .nav-container {
   box-shadow: 0 0 0 0 transparent;
 }
 .top-navigation ul button:focus:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 .top-navigation ul button.collapsed {
@@ -13858,7 +13837,7 @@ html.nav-fixed #context-menu .nav-container {
   box-shadow: 0 0 0 0 transparent;
 }
 [data-bs-theme=dark] #sub-menu a:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 [data-bs-theme=dark] #sub-menu a.selected {
@@ -14787,7 +14766,7 @@ $img-width-sm: 18.5rem;     //296px*/
   box-shadow: 0 0 0 0 transparent;
 }
 [data-bs-theme=dark] .right-nav-simple .nav-link:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 [data-bs-theme=dark] .print-btn:hover .text-truncate {
@@ -14999,7 +14978,7 @@ footer .footer-legal ul li {
   box-shadow: none !important;
 }
 [data-bs-theme=dark] #sub-menu a:focus-visible span {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 
@@ -15022,7 +15001,7 @@ footer .footer-legal ul li {
 }
 [data-bs-theme=dark] .btn-nav-prev button:focus-within,
 [data-bs-theme=dark] .btn-nav-next button:focus-within {
-  box-shadow: 0 0 0 0.25rem rgba(250, 200, 0, 0.7);
+  box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
 
