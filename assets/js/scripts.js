@@ -295,16 +295,15 @@ document.addEventListener('DOMContentLoaded', function () {
         // Optionally focus on the accordion header if needed for your design
         // (Comment this out if you don't want to focus the accordion)
 
-      if (firstAccordionHeader) {
-        setTimeout(() => {
-          if (document.activeElement !== firstAccordionHeader) {
-            firstAccordionHeader.setAttribute('tabindex', '-1');
-            firstAccordionHeader.focus();
-            firstAccordionHeader.removeAttribute('tabindex');
-          }
-        }, 0);
-      }
-
+        if (firstAccordionHeader) {
+          setTimeout(() => {
+            if (document.activeElement !== firstAccordionHeader) {
+              firstAccordionHeader.setAttribute('tabindex', '-1');
+              firstAccordionHeader.focus();
+              firstAccordionHeader.removeAttribute('tabindex');
+            }
+          }, 0);
+        }
       }
     });
   });
@@ -388,31 +387,37 @@ document.addEventListener('DOMContentLoaded', function () {
     skipLink.addEventListener('click', function (event) {
       event.preventDefault(); // Prevent the default jump behavior
 
+      window.skipToContentClicked = true; // Set the flag (always set it)
 
+      // Get the href target
+      const targetSelector = skipLink.getAttribute('href');
+      const targetElement = document.querySelector(targetSelector);
 
-      // NEW: Check for the data attribute
-      if (skipLink.hasAttribute('data-focus-target')) {
-        window.skipToContentClicked = true; // Set the flag
+      if (targetElement) {
+        // Scroll to the element, if required
+        scrollToPageContentIfNeeded(targetElement);
 
-        // Get the href target
-        const targetSelector = skipLink.getAttribute('href');
-        const targetElement = document.querySelector(targetSelector);
-        if (targetElement) {
+        // Check if we should focus on a child element or the target itself
+        if (skipLink.hasAttribute('data-focus-target')) {
           // Find the first focusable element within the target
           const focusableElement = targetElement.querySelector('a, button, [tabindex]');
 
           if (focusableElement) {
-            // Scroll to the element, if required
-            scrollToPageContentIfNeeded(targetElement);
-            //Focus
+            //Focus on the focusable element
             focusableElement.focus();
           } else {
-            // If no focusable element, just scroll to it.
-            scrollToPageContentIfNeeded(targetElement);
+            // If no focusable element, focus on the target itself.
+            targetElement.setAttribute('tabindex', '-1');
+            targetElement.focus();
+            targetElement.removeAttribute('tabindex');
           }
+        } else {
+          // If no data-focus-target, just focus on the target itself.
+          targetElement.setAttribute('tabindex', '-1');
+          targetElement.focus();
+          targetElement.removeAttribute('tabindex');
         }
       }
-      // If data attribute is not present, the link will just jump as normal
     });
   });
 });
