@@ -294,17 +294,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Optionally focus on the accordion header if needed for your design
         // (Comment this out if you don't want to focus the accordion)
-        /*
-      if (firstAccordionHeader) {
-        setTimeout(() => {
-          if (document.activeElement !== firstAccordionHeader) {
-            firstAccordionHeader.setAttribute('tabindex', '-1');
-            firstAccordionHeader.focus();
-            firstAccordionHeader.removeAttribute('tabindex');
-          }
-        }, 0);
-      }
-      */
+
+        if (firstAccordionHeader) {
+          setTimeout(() => {
+            if (document.activeElement !== firstAccordionHeader) {
+              firstAccordionHeader.setAttribute('tabindex', '-1');
+              firstAccordionHeader.focus();
+              firstAccordionHeader.removeAttribute('tabindex');
+            }
+          }, 0);
+        }
       }
     });
   });
@@ -383,11 +382,63 @@ document.addEventListener('DOMContentLoaded', function () {
   // Listen for popstate event when using back/forward buttons
   window.addEventListener('popstate', handleStateChange);
 
-  // Handle "Skip to main content" click
-  const skipLink = document.querySelector('a[href="#page-content"]');
-  if (skipLink) {
-    skipLink.addEventListener('click', function () {
-      window.skipToContentClicked = true; // Set the flag
+  const skipLinks = document.querySelectorAll('a.skip-link');
+  skipLinks.forEach((skipLink) => {
+    skipLink.addEventListener('click', function (event) {
+      event.preventDefault(); // Prevent the default jump behavior
+
+      window.skipToContentClicked = true; // Set the flag (always set it)
+
+      // Get the href target
+      const targetSelector = skipLink.getAttribute('href');
+      const targetElement = document.querySelector(targetSelector);
+
+      if (targetElement) {
+        // Scroll to the element, if required
+        scrollToPageContentIfNeeded(targetElement);
+
+        // Check if we should focus on a child element or the target itself
+        if (skipLink.hasAttribute('data-focus-target')) {
+          // Find the first visible and focusable element within the target
+          const focusableElement = findFirstVisibleFocusableElement(targetElement);
+          console.log(focusableElement);
+
+          if (focusableElement) {
+            // Focus on the visible, focusable element
+            focusOnElement(focusableElement);
+          } else {
+            // If no visible focusable element, focus on the target itself.
+            focusOnElement(targetElement);
+          }
+        } else {
+          // If no data-focus-target, just focus on the target itself.
+          focusOnElement(targetElement);
+        }
+      }
     });
+  });
+
+
+  function findFirstVisibleFocusableElement(container) {
+    const focusableSelectors = 'a, button, [tabindex]:not([tabindex="-1"])';
+    const focusableElements = container.querySelectorAll(focusableSelectors);
+
+    for (const element of focusableElements) {
+      if (isVisible(element)) {
+        return element;
+      }
+    }
+
+    return null;
+  }
+
+  function isVisible(element) {
+    return element.offsetWidth > 0 && element.offsetHeight > 0 && getComputedStyle(element).visibility !== 'hidden';
+  }
+
+  function focusOnElement(element) {
+    element.setAttribute('tabindex', '-1');
+    element.focus();
+    element.removeAttribute('tabindex');
   }
 });
