@@ -46,10 +46,17 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
   <!-- START top nav -->
   <header>
     <?php if (!$show_guides) : ?>
-      <a href="#page-content" class="visually-hidden-focusable skip-link" data-ga-event="skip_to_content">Skip to main page content</a>
+      <nav class="skip-links-nav visually-hidden-focusable" aria-label="Skip option">
+        <a href="#page-content" class="skip-link" data-ga-event="skip_to_content">Skip to main page content</a>
+      </nav>
     <?php else : ?>
-      <a href="#main-tab-content" class="visually-hidden-focusable skip-link" data-ga-event="skip_to_content" data-focus-target>Skip to main page content</a>
-      <a href="#nav-tabContent" class="visually-hidden-focusable skip-link" data-focus-target>Skip to page sub navigation</a>
+      <nav class="skip-links-nav visually-hidden-focusable" aria-label="Skip options">
+        <ul class="skip-links-list">
+          <li><a href="#main-tab-content" class="skip-link" data-ga-event="skip_to_content" data-focus-target>Skip to style guide content</a></li>
+          <li><a href="#nav-tabContent" class="skip-link" data-focus-target>Skip to style guide chapter navigation</a></li>
+        </ul>
+      </nav>
+
     <?php endif; ?>
 
     <div class="top-navigation">
@@ -218,16 +225,24 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
                               <?php endforeach; ?>
                             </div>
                           <?php endforeach; ?>
+
                           <?php
                           renderPrintButtons(htmlspecialchars_decode($styleGuideTitle, ENT_QUOTES), htmlspecialchars_decode($typeContent['title'], ENT_QUOTES));
                           ?>
+
+                          <nav class="skip-links-nav visually-hidden-focusable" aria-label="Skip options">
+                            <ul class="skip-links-list">
+                              <li><a href="#nav-tab" class="skip-link" data-ga-event="skip_to_content" data-focus-target>Skip to main navigation</a></li>
+                              <li><a href="#nav-tabContent" class="skip-link" data-focus-target>Skip to style guide chapter navigation</a></li>
+                            </ul>
+                          </nav>
+
+
                           <?php
                           renderNavigationButtons($typeIndex, $extractedData['menu']);
                           ?>
-                          <div class="btn-group-tools">
-                            <a href="#nav-tab" class="btn btn-primary visually-hidden-focusable skip-link" role=" button" data-focus-target>Jump to main navigation</a>
-                            <a href="#nav-tabContent" class="btn btn-primary visually-hidden-focusable skip-link" role=" button" data-focus-target>Jump to page sub navigation</a>
-                          </div>
+
+
                         </div>
                       </div>
                     </div>

@@ -399,25 +399,46 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Check if we should focus on a child element or the target itself
         if (skipLink.hasAttribute('data-focus-target')) {
-          // Find the first focusable element within the target
-          const focusableElement = targetElement.querySelector('a, button, [tabindex]');
+          // Find the first visible and focusable element within the target
+          const focusableElement = findFirstVisibleFocusableElement(targetElement);
+          console.log(focusableElement);
 
           if (focusableElement) {
-            //Focus on the focusable element
-            focusableElement.focus();
+            // Focus on the visible, focusable element
+            focusOnElement(focusableElement);
           } else {
-            // If no focusable element, focus on the target itself.
-            targetElement.setAttribute('tabindex', '-1');
-            targetElement.focus();
-            targetElement.removeAttribute('tabindex');
+            // If no visible focusable element, focus on the target itself.
+            focusOnElement(targetElement);
           }
         } else {
           // If no data-focus-target, just focus on the target itself.
-          targetElement.setAttribute('tabindex', '-1');
-          targetElement.focus();
-          targetElement.removeAttribute('tabindex');
+          focusOnElement(targetElement);
         }
       }
     });
   });
+
+
+  function findFirstVisibleFocusableElement(container) {
+    const focusableSelectors = 'a, button, [tabindex]:not([tabindex="-1"])';
+    const focusableElements = container.querySelectorAll(focusableSelectors);
+
+    for (const element of focusableElements) {
+      if (isVisible(element)) {
+        return element;
+      }
+    }
+
+    return null;
+  }
+
+  function isVisible(element) {
+    return element.offsetWidth > 0 && element.offsetHeight > 0 && getComputedStyle(element).visibility !== 'hidden';
+  }
+
+  function focusOnElement(element) {
+    element.setAttribute('tabindex', '-1');
+    element.focus();
+    element.removeAttribute('tabindex');
+  }
 });
