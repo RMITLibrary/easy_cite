@@ -53,7 +53,7 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The IEEE (Institute of Electrical and Electronics Engineers) referencing style is often used in electrical and electronic engineering, computer science and other technical fields. This IEEE guide is based on the *IEEE Reference Guide* that is freely available to view and download from the <a href="https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/">publisher's website</a> (click on *IEEE Reference Guide* option).
+The IEEE (Institute of Electrical and Electronics Engineers) referencing style is often used in electrical and electronic engineering, computer science and other technical fields. This IEEE guide is based on the *IEEE Reference Guide* that is freely available to view and download from the <a href="https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/">publisher's website</a>.
 
 The IEEE style is a **numerical** or **numbered** system. It requires that sources are acknowledged as an in-text citation by **numbering** them **consecutively** in the order in which they **first appear** in the body of work. For example, the first source is given number 1, the second source number 2, and so on. Each source is allocated a unique number. Once you give a source a number, the same number is used for the in-text citation whenever you refer to that source in the body of work. In the reference list at the end of your document, the source’s number appears in **numerical** order. 
 
