@@ -1699,7 +1699,7 @@ The *IEEE Reference Guide* that is freely available from the <a href="https://jo
 
 - If there is no year or version/build number, simply omit that information. 
 
-#### In-text
+#### In-text citation
 
 Include the citation number in square brackets. Or, if referring to the author's name in the body of your text, then include the citation number in square brackets immediately after the author's family/organisation name. 
 
