@@ -1711,7 +1711,7 @@ Include the citation number in square brackets. Or, if referring to the author's
 
 #### Reference list
 
-List references in the **numerical order ** that they appear in within the body of your text. 
+List references in the **numerical order** that they appear in within the body of your text. 
 
 ##### Rule
 
