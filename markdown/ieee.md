@@ -1675,6 +1675,76 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 ###### start-subtype-item
 
+### Software program or source code
+
+###### start-subtype-content
+
+This section refers to a citing, within a report or paper, a **software program** or **source code (programming/computer code)** that is already published and made publicly available online. 
+
+For example: a paid-for or free software program publicly available on the internet, or source code freely available online (e.g GitHub open-source code, code on other developer websites). 
+
+The *IEEE Reference Guide* that is freely available from the <a href="https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/">publisher's website</a> provides referencing guidelines for software programs. These guidelines have been adapted by Easy Cite to also incorporate source code. 
+
+**Other source code and software programs:**
+
+- For source code that is published in a book or article (e.g. a book that teaches programming/coding with examples, an article that discusses a programming/coding approach with examples), reference the code as you would reference a book or journal article. Please refer to the referencing guidelines for <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-6&tab=stn-1">Books</a> or <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-6&tab=stn-2">Journal articles</a> in this IEEE guide. 
+
+- For a software program or source code that is from a student’s own assignment (i.e. unpublished), please refer to referencing guidelines for <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-6&tab=stn-7&accordion=subtype-41">Student's own work</a> in this IEEE guide. 
+
+- For a software program or source code that is generated from artificial intelligence tools, please refer to the referencing guidelines for <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-6&tab=stn-9">AI-generated content</a> in this IEEE guide. 
+
+**Note:**
+
+- The author of a software program or source code could be either a person (actual name or username) or an organisation. If there are **more than six** authors listed, use **et al.** after the first author name. 
+
+- If there is no year or version/build number, simply omit that information. 
+
+#### In-text
+
+Include the citation number in square brackets. Or, if referring to the author's name in the body of your text, then include the citation number in square brackets immediately after the author's family/organisation name. 
+
+> A coding example is provided by Bridge et al. [1] for an error-handling function that prints the error message and ends the process: ...
+
+> The following open-source code example is for the async function for streaming tools in JavaScript / TypeScript for the OpenAI API [2]: ....
+
+> Using JavaScript / TypeScript for the OpenAI API, Craigie [2] provides the following open-source code example for the async function for streaming tools: .... 
+
+#### Reference list
+
+List references in the **numerical order ** that they appear in within the body of your text. 
+
+##### Rule
+
+> J. K. Author Family Name OR Author Organisational Name. *Title of Software Program or Source Code*. (Year of creation OR copyright year OR last update year OR version/build number). Publisher Name. Accessed: Date Accessed (Abbrev. month and day, year). [Type of Medium, e.g. software program, source code]. Available: URL 
+
+##### Examples
+
+> {.ieee-refs}[1] &nbsp;&nbsp; K. Bridge et al. *Retrieving the Last-Error Code*. (2025). Microsoft. Accessed: Apr. 17, 2025. [source code]. Available: https://learn.microsoft.com/en-gb/windows/win32/debug/retrieving-the-last-error-code {/.ieee-refs}
+
+> {.ieee-refs}[2] &nbsp;&nbsp; R. Craigie. *openai-node/examples/responses/streaming-tools.ts at master openai/openai-node*. (2025). GitHub. Accessed: Apr. 17, 2025. [source code]. Available: https://github.com/openai/openai-node/blob/master/examples/responses/streaming-tools.ts {/.ieee-refs}
+
+> {.ieee-refs}[3] &nbsp;&nbsp; D. Ho. *Notepad++*. (Version 8.7.9). Notepad++. Accessed: Apr. 17, 2025. [software program]. Available: https://notepad-plus-plus.org/ {/.ieee-refs}
+
+> {.ieee-refs}[4] &nbsp;&nbsp; JetBrains. *IntelliJ IDEA - The IDE for Professional Development in Java and Kotlin*. (2025). JetBrains. Accessed: Apr. 17, 2025. [software program]. Available: https://www.jetbrains.com/idea/ {/.ieee-refs}
+
+> {.ieee-refs}[5] &nbsp;&nbsp; Apple Developer. *Sample Code: Integrating a Core ML Model into Your App*. (2025). Apple. Accessed: Apr. 17, 2025. [source code]. Available: https://developer.apple.com/documentation/coreml/integrating-a-core-ml-model-into-your-app {/.ieee-refs}
+
+> {.ieee-refs}[6] &nbsp;&nbsp; Microsoft. *Visual Studio: IDE and Code Editor for Software Developers and Teams*. (2025). Microsoft. Accessed: Apr. 17, 2025. [software program]. Available: https://visualstudio.microsoft.com/ {/.ieee-refs}
+
+> {.ieee-refs}[7] &nbsp;&nbsp; J. Skinner. *Sublime Text 4*. (Build 4192). Sublime Text. Accessed: Apr. 17, 2025. [software program]. Available: https://www.sublimetext.com/ {/.ieee-refs}
+
+> {.ieee-refs}[8] &nbsp;&nbsp; IBM. *Example: Datalink*. (2025). IBM. Accessed: Apr. 17, 2025. [source code]. Available: https://www.ibm.com/docs/en/i/7.6.0?topic=datalinks-example-datalink {/.ieee-refs}
+
+> {.ieee-refs}[9] &nbsp;&nbsp; K. Bridge, S. Cai, and M. Satran. *Using System Monitor*. (2019). Microsoft. Accessed: Apr. 17, 2025. [source code]. Available: https://learn.microsoft.com/en-gb/windows/win32/sysmon/using-system-monitor {/.ieee-refs}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+
+###### start-subtype-item
+
 ### Standard
 
 ###### start-subtype-content
