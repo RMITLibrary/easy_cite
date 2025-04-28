@@ -1719,23 +1719,23 @@ List references in the **numerical order** that they appear in within the body o
 
 ##### Examples
 
-> {.ieee-refs}[1] &nbsp;&nbsp; K. Bridge et al. *Retrieving the Last-Error Code*. (2025). Microsoft. Accessed: Apr. 17, 2025. [Source Code]. Available: https://learn.microsoft.com/en-gb/windows/win32/debug/retrieving-the-last-error-code {/.ieee-refs}
+> {.ieee-refs}[1] &nbsp;&nbsp; K. Bridge et al. *Retrieving the Last-Error Code*. (2025). Microsoft. Accessed: Apr. 17, 2025. [Source Code]. Available: https<nolink>://learn.microsoft.com/en-gb/windows/win32/debug/retrieving-the-last-error-code {/.ieee-refs}
 
-> {.ieee-refs}[2] &nbsp;&nbsp; R. Craigie. *openai-node/examples/responses/streaming-tools.ts at master openai/openai-node*. (2025). GitHub. Accessed: Apr. 17, 2025. [Source Code]. Available: https://github.com/openai/openai-node/blob/master/examples/responses/streaming-tools.ts {/.ieee-refs}
+> {.ieee-refs}[2] &nbsp;&nbsp; R. Craigie. *openai-node/examples/responses/streaming-tools.ts at master openai/openai-node*. (2025). GitHub. Accessed: Apr. 17, 2025. [Source Code]. Available: https<nolink>://github.com/openai/openai-node/blob/master/examples/responses/streaming-tools.ts {/.ieee-refs}
 
-> {.ieee-refs}[3] &nbsp;&nbsp; D. Ho. *Notepad++*. (Version 8.7.9). Notepad++. Accessed: Apr. 17, 2025. [Software Program]. Available: https://notepad-plus-plus.org/ {/.ieee-refs}
+> {.ieee-refs}[3] &nbsp;&nbsp; D. Ho. *Notepad++*. (Version 8.7.9). Notepad++. Accessed: Apr. 17, 2025. [Software Program]. Available: https<nolink>://notepad-plus-plus.org/ {/.ieee-refs}
 
-> {.ieee-refs}[4] &nbsp;&nbsp; JetBrains. *IntelliJ IDEA - The IDE for Professional Development in Java and Kotlin*. (2025). JetBrains. Accessed: Apr. 17, 2025. [Software Program]. Available: https://www.jetbrains.com/idea/ {/.ieee-refs}
+> {.ieee-refs}[4] &nbsp;&nbsp; JetBrains. *IntelliJ IDEA - The IDE for Professional Development in Java and Kotlin*. (2025). JetBrains. Accessed: Apr. 17, 2025. [Software Program]. Available: https<nolink>://www.jetbrains.com/idea/ {/.ieee-refs}
 
-> {.ieee-refs}[5] &nbsp;&nbsp; Apple Developer. *Sample Code: Integrating a Core ML Model into Your App*. (2025). Apple. Accessed: Apr. 17, 2025. [Source Code]. Available: https://developer.apple.com/documentation/coreml/integrating-a-core-ml-model-into-your-app {/.ieee-refs}
+> {.ieee-refs}[5] &nbsp;&nbsp; Apple Developer. *Sample Code: Integrating a Core ML Model into Your App*. (2025). Apple. Accessed: Apr. 17, 2025. [Source Code]. Available: https<nolink>://developer.apple.com/documentation/coreml/integrating-a-core-ml-model-into-your-app {/.ieee-refs}
 
-> {.ieee-refs}[6] &nbsp;&nbsp; Microsoft. *Visual Studio: IDE and Code Editor for Software Developers and Teams*. (2025). Microsoft. Accessed: Apr. 17, 2025. [Software Program]. Available: https://visualstudio.microsoft.com/ {/.ieee-refs}
+> {.ieee-refs}[6] &nbsp;&nbsp; Microsoft. *Visual Studio: IDE and Code Editor for Software Developers and Teams*. (2025). Microsoft. Accessed: Apr. 17, 2025. [Software Program]. Available: https<nolink>://visualstudio.microsoft.com/ {/.ieee-refs}
 
-> {.ieee-refs}[7] &nbsp;&nbsp; J. Skinner. *Sublime Text 4*. (Build 4192). Sublime Text. Accessed: Apr. 17, 2025. [Software Program]. Available: https://www.sublimetext.com/ {/.ieee-refs}
+> {.ieee-refs}[7] &nbsp;&nbsp; J. Skinner. *Sublime Text 4*. (Build 4192). Sublime Text. Accessed: Apr. 17, 2025. [Software Program]. Available: https<nolink>://www.sublimetext.com/ {/.ieee-refs}
 
-> {.ieee-refs}[8] &nbsp;&nbsp; IBM. *Example: Datalink*. (2025). IBM. Accessed: Apr. 17, 2025. [Source Code]. Available: https://www.ibm.com/docs/en/i/7.6.0?topic=datalinks-example-datalink {/.ieee-refs}
+> {.ieee-refs}[8] &nbsp;&nbsp; IBM. *Example: Datalink*. (2025). IBM. Accessed: Apr. 17, 2025. [Source Code]. Available: https<nolink>://www.ibm.com/docs/en/i/7.6.0?topic=datalinks-example-datalink {/.ieee-refs}
 
-> {.ieee-refs}[9] &nbsp;&nbsp; K. Bridge, S. Cai, and M. Satran. *Using System Monitor*. (2019). Microsoft. Accessed: Apr. 17, 2025. [Source Code]. Available: https://learn.microsoft.com/en-gb/windows/win32/sysmon/using-system-monitor {/.ieee-refs}
+> {.ieee-refs}[9] &nbsp;&nbsp; K. Bridge, S. Cai, and M. Satran. *Using System Monitor*. (2019). Microsoft. Accessed: Apr. 17, 2025. [Source Code]. Available: https<nolink>://learn.microsoft.com/en-gb/windows/win32/sysmon/using-system-monitor {/.ieee-refs}
 
 ###### end-subtype-content
 
