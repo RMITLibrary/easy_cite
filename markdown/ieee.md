@@ -53,11 +53,11 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The IEEE (Institute of Electrical and Electronics Engineers) referencing style is often used in electrical and electronic engineering, computer science and other technical fields. This IEEE guide is based on the *IEEE Reference Guide* that is freely available to view and download from the <a href="https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/">publisher's website</a> (click on *IEEE Reference Guide* option).
+The IEEE (Institute of Electrical and Electronics Engineers) referencing style is often used in electrical and electronic engineering, computer science and other technical fields. This IEEE guide is based on the *IEEE Reference Guide* that is freely available to view and download from the <a href="https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/">publisher's website</a>.
 
-The IEEE style is a **numerical** or **numbered** system. It requires that sources are acknowledged as an in-text citation by **numbering** them **consecutively** in the order in which they **first appear** in the body of work. For example, the first source is given number 1, the second source number 2, and so on. Each source is allocated a unique number. Once you give a source a number, the same number is used for the in-text citation whenever you refer to that source in the body of work. In the reference list at the end of your document, the source’s number appears in **numerical** order. 
+The IEEE style is a **numerical** or **numbered** system. It requires that sources are acknowledged as an in-text citation by **numbering** them **consecutively** in the order in which they **first appear** in the body of work. For example, the first source is given number 1, the second source number 2, and so on. Each source is allocated a unique number. Once you give a source a number, the same number is used for the in-text citation whenever you refer to that source in the body of work. In the reference list at the end of your document, the source’s number appears in **numerical** order.
 
-**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators.
 
 ###### end-subtype-content
 
@@ -177,7 +177,7 @@ If citing the same reference within the body of the text, then use the same cita
 
 ###### start-subtype-content
 
-If listing multiple citations within a sentence of text, list each citation number separately within square brackets and with a comma between each citation. 
+If listing multiple citations within a sentence of text, list each citation number separately within square brackets and with a comma between each citation.
 
 List all **multiple citations** in ascending numerical order e.g. [1], [6], [9]. Or [5], [6], [7], [8].
 
@@ -282,7 +282,7 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 - Take care when editing any references, as this may require careful renumbering of sources cited both in-text and in the reference list.
 
 - The Reference List is to be formatted using 1.5 line spacing and single paragraph spacing between each citation. For clarification see your lecturer.
-  
+
 - For the place of publication, add the city, and then include the state abbreviation (if applicable) and country name, followed by the publisher and year of publication. Cities in the USA need the city name, state abbreviation and country abbreviation.
 
 
@@ -679,7 +679,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 ##### Example
 
-> {.ieee-refs}[2] &nbsp;&nbsp; M.H. Bollen, and H. Hassan. *Integration of Distributed Generation in the Power System*. 
+> {.ieee-refs}[2] &nbsp;&nbsp; M.H. Bollen, and H. Hassan. *Integration of Distributed Generation in the Power System*.
 Somerset, UK: Wiley-IEEE Press, 2011. [Online]. Available: doi.org/10.1002/9781118029039. {/.ieee-refs}
 
 
@@ -1299,7 +1299,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 ###### end-subtype-content
 
 ###### end-subtype-item
- 
+
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 
@@ -1675,6 +1675,76 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 ###### start-subtype-item
 
+### Software program or source code
+
+###### start-subtype-content
+
+This section refers to a citing, within a report or paper, a **software program** or **source code (programming/computer code)** that is already published and made publicly available online.
+
+For example: a paid-for or free software program publicly available on the internet, or source code freely available online (e.g GitHub open-source code, code on other developer websites).
+
+The *IEEE Reference Guide* that is freely available from the <a href="https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/">publisher's website</a> provides referencing guidelines for software programs. These guidelines have been adapted by Easy Cite to also incorporate source code.
+
+**Other source code and software programs:**
+
+- For source code that is published in a book or article (e.g. a book that teaches programming/coding with examples, an article that discusses a programming/coding approach with examples), reference the code as you would reference a book or journal article. Please refer to the referencing guidelines for <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-6&tab=stn-1">Books</a> or <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-6&tab=stn-2">Journal articles</a> in this IEEE guide.
+
+- For a software program or source code that is from a student’s own assignment (i.e. unpublished), please refer to the referencing guidelines for <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-6&tab=stn-7&accordion=subtype-41">Student's own work</a> in this IEEE guide.
+
+- For a software program or source code that is generated from artificial intelligence tools, please refer to the referencing guidelines for <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-6&tab=stn-9">AI-generated content</a> in this IEEE guide.
+
+**Note:**
+
+- The author of a software program or source code could be either a person (actual name or username) or an organisation. If there are **more than six** authors listed, use **et al.** after the first author name.
+
+- If there is no year or version/build number, simply omit that information.
+
+#### In-text citation
+
+Include the citation number in square brackets. Or, if referring to the author's name in the body of your text, then include the citation number in square brackets immediately after the author's family/organisation name.
+
+> A coding example is provided by Bridge et al. [1] for an error-handling function that prints the error message and ends the process: ...
+
+> The following open-source code example is for the async function for streaming tools in JavaScript / TypeScript for the OpenAI API [2]: ....
+
+> Using JavaScript / TypeScript for the OpenAI API, Craigie [2] provides the following open-source code example for the async function for streaming tools: ....
+
+#### Reference list
+
+List references in the **numerical order** that they appear in within the body of your text.
+
+##### Rule
+
+> J. K. Author Family Name OR Author Organisational Name. *Title of Software Program or Source Code*. (Year of creation OR copyright year OR last update year OR version/build number). Publisher Name. Accessed: Date Accessed (Abbrev. month and day, year). [Type of Medium, e.g. Software Program, Source Code]. Available: URL
+
+##### Examples
+
+> {.ieee-refs}[1] &nbsp;&nbsp; K. Bridge et al. *Retrieving the Last-Error Code*. (2025). Microsoft. Accessed: Apr. 17, 2025. [Source Code]. Available: https<nolink>://learn.microsoft.com/en-gb/windows/win32/debug/retrieving-the-last-error-code {/.ieee-refs}
+
+> {.ieee-refs}[2] &nbsp;&nbsp; R. Craigie. *openai-node/examples/responses/streaming-tools.ts at master openai/openai-node*. (2025). GitHub. Accessed: Apr. 17, 2025. [Source Code]. Available: https<nolink>://github.com/openai/openai-node/blob/master/examples/responses/streaming-tools.ts {/.ieee-refs}
+
+> {.ieee-refs}[3] &nbsp;&nbsp; D. Ho. *Notepad++*. (Version 8.7.9). Notepad++. Accessed: Apr. 17, 2025. [Software Program]. Available: https<nolink>://notepad-plus-plus.org/ {/.ieee-refs}
+
+> {.ieee-refs}[4] &nbsp;&nbsp; JetBrains. *IntelliJ IDEA - The IDE for Professional Development in Java and Kotlin*. (2025). JetBrains. Accessed: Apr. 17, 2025. [Software Program]. Available: https<nolink>://www.jetbrains.com/idea/ {/.ieee-refs}
+
+> {.ieee-refs}[5] &nbsp;&nbsp; Apple Developer. *Sample Code: Integrating a Core ML Model into Your App*. (2025). Apple. Accessed: Apr. 17, 2025. [Source Code]. Available: https<nolink>://developer.apple.com/documentation/coreml/integrating-a-core-ml-model-into-your-app {/.ieee-refs}
+
+> {.ieee-refs}[6] &nbsp;&nbsp; Microsoft. *Visual Studio: IDE and Code Editor for Software Developers and Teams*. (2025). Microsoft. Accessed: Apr. 17, 2025. [Software Program]. Available: https<nolink>://visualstudio.microsoft.com/ {/.ieee-refs}
+
+> {.ieee-refs}[7] &nbsp;&nbsp; J. Skinner. *Sublime Text 4*. (Build 4192). Sublime Text. Accessed: Apr. 17, 2025. [Software Program]. Available: https<nolink>://www.sublimetext.com/ {/.ieee-refs}
+
+> {.ieee-refs}[8] &nbsp;&nbsp; IBM. *Example: Datalink*. (2025). IBM. Accessed: Apr. 17, 2025. [Source Code]. Available: https<nolink>://www.ibm.com/docs/en/i/7.6.0?topic=datalinks-example-datalink {/.ieee-refs}
+
+> {.ieee-refs}[9] &nbsp;&nbsp; K. Bridge, S. Cai, and M. Satran. *Using System Monitor*. (2019). Microsoft. Accessed: Apr. 17, 2025. [Source Code]. Available: https<nolink>://learn.microsoft.com/en-gb/windows/win32/sysmon/using-system-monitor {/.ieee-refs}
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+
+###### start-subtype-item
+
 ### Standard
 
 ###### start-subtype-content
@@ -1829,13 +1899,13 @@ In the Reference list include:
 
 ###### start-subtype-content
 
-When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.
 
-The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.
 
-It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website.
 
-For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
 
 **Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
 
@@ -1866,7 +1936,7 @@ For more information on how to critically evaluate information sources, visit th
 
 The educators within your courses can tell you if you are able to use artificial intelligence (AI) tools in your assessment tasks, including how you can use the tools and what tools you can use. If you use any AI tools, you must appropriately acknowledge and reference the use of these tools and their outputs. Failure to reference the use of these tools can result in academic misconduct.
 
-**Please confirm with your course educator** before using any AI tools in your assessment tasks. 
+**Please confirm with your course educator** before using any AI tools in your assessment tasks.
 
 #### Overview of text-generating AI tools
 
@@ -1880,7 +1950,7 @@ Some generative AI tools are not connected to the internet and are trained on da
 - While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 - The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
 
-The [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/) has more information on how these AI tools work, and some points to consider when using them. 
+The [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/) has more information on how these AI tools work, and some points to consider when using them.
 
 **Copyright and non-human authors**
 
@@ -1888,17 +1958,17 @@ Current copyright law only recognises humans as authors and creators. One of the
 
 **General acknowledgement that AI tools have been used in the creation of a work**
 
-In some assessment tasks, you may be able to use AI tools for background research, or to generate an outline for your essay or report (as stated earlier, please follow your educator's guidance before using any AI tools).. In this case, rather than citing and referencing specific text generated by AI tools, you will need to provide a general acknowledgement within the body or methods section of your text to explain that an AI tool was used in the creation of your work. Include as much detail as possible, including how you used the AI tool, the prompt used, the date you used the tool, and the name, creator and version of the AI tool.  
+In some assessment tasks, you may be able to use AI tools for background research, or to generate an outline for your essay or report (as stated earlier, please follow your educator's guidance before using any AI tools).. In this case, rather than citing and referencing specific text generated by AI tools, you will need to provide a general acknowledgement within the body or methods section of your text to explain that an AI tool was used in the creation of your work. Include as much detail as possible, including how you used the AI tool, the prompt used, the date you used the tool, and the name, creator and version of the AI tool.
 
-Example: On the 26th June 2023, I used the May 24 version of OpenAI's ChatGPT to perform background research by using the following prompt "explain the difference between deep learning and machine learning". 
+Example: On the 26th June 2023, I used the May 24 version of OpenAI's ChatGPT to perform background research by using the following prompt "explain the difference between deep learning and machine learning".
 
 **Referencing specific text content generated by AI tools**
 
-Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA  style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.  
+Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA  style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.
 
-If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers. 
+If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers.
 
-Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves. 
+Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves.
 
 
 #### AI-generated images
@@ -1913,7 +1983,7 @@ If you are able to use AI tools in your assessment task, you need to appropriate
 ##### Overview of images generated by AI tools
 
 
-Some generative AI tools have been trained on large numbers of existing images, and these tools can create new images based on prompts from users. The images created using these tools can be downloaded, but they are not published or reproducible in the AI platform. Images generated using AI tools such as Midjourney and DALL-E 2 are the topic of much debate.  Current copyright law only recognises humans as authors. One of the moral rights associated with copyright is the right to be acknowledged as the author of a work. From a copyright perspective there is currently no obligation to [recognise AI as the creator of a work](https://www.artslaw.com.au/information-sheet/artificial-intelligence-ai-and-copyright/), however it is important to explain that AI was used in the creation of the work.  
+Some generative AI tools have been trained on large numbers of existing images, and these tools can create new images based on prompts from users. The images created using these tools can be downloaded, but they are not published or reproducible in the AI platform. Images generated using AI tools such as Midjourney and DALL-E 2 are the topic of much debate.  Current copyright law only recognises humans as authors. One of the moral rights associated with copyright is the right to be acknowledged as the author of a work. From a copyright perspective there is currently no obligation to [recognise AI as the creator of a work](https://www.artslaw.com.au/information-sheet/artificial-intelligence-ai-and-copyright/), however it is important to explain that AI was used in the creation of the work.
 
 AI-generated images are an emerging technology, and there are not yet clear guidelines for how to incorporate them into existing referencing styles such as APA 7th, Chicago, etc. Our current recommendation for how to reference AI-generated images varies for each referencing style. Additionally, we recommend that you include the question or prompt that generated the image where possible, to provide context for your readers.
 
@@ -1934,7 +2004,7 @@ AI-generated images are an emerging technology, and there are not yet clear guid
 
 The IEEE referencing guide does not currently contain any guidelines for referencing AI-generated content, but the style guide does include guidelines for referencing software. We have adapted the software guidelines below, as we believe this is the best match for the style. Please note these are interim guidelines and these may be updated in the future when the IEEE style manual editors release formal advice.
 
-The IEEE referencing style uses numbered in-text citations that match the corresponding reference list entry. 
+The IEEE referencing style uses numbered in-text citations that match the corresponding reference list entry.
 
 Include details of the AI tool version if known. If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the output generated in an appendix. Include the general URL for the tool and a note about the appendix in the reference list entry.
 
