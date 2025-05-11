@@ -23,7 +23,7 @@
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
-## Using Chicago A (footnotes)
+## Using Chicago A (notes and bibliography)
 ## Books
 ## Journals
 ## Newspapers

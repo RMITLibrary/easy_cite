@@ -3050,7 +3050,8 @@ textarea.form-control-lg {
   --bs-btn-border-radius: var(--bs-border-radius-lg);
 }
 
-.btn-sm, .btn-icon, .btn-print, .btn-embed, .btn-group-sm > .btn {
+.btn-sm, .btn-icon, .btn-print,
+.btn-embed, .btn-group-sm > .btn {
   --bs-btn-padding-y: 0.25rem;
   --bs-btn-padding-x: 0.5rem;
   --bs-btn-font-size: 0.875rem;
@@ -3477,7 +3478,8 @@ textarea.form-control-lg {
   margin-right: 0;
 }
 
-.btn-sm + .dropdown-toggle-split, .btn-icon + .dropdown-toggle-split, .btn-print + .dropdown-toggle-split, .btn-embed + .dropdown-toggle-split, .btn-group-sm > .btn + .dropdown-toggle-split {
+.btn-sm + .dropdown-toggle-split, .btn-icon + .dropdown-toggle-split, .btn-print + .dropdown-toggle-split,
+.btn-embed + .dropdown-toggle-split, .btn-group-sm > .btn + .dropdown-toggle-split {
   padding-right: 0.375rem;
   padding-left: 0.375rem;
 }
@@ -12375,7 +12377,8 @@ a:focus-within, pre:focus-within {
   border-color: var(--bs-link-hover-color);
 }
 
-.btn-sm, .btn-icon, .btn-print, .btn-embed, .btn-group-sm > .btn, .btn-secondary {
+.btn-sm, .btn-icon, .btn-print,
+.btn-embed, .btn-group-sm > .btn, .btn-secondary {
   position: relative;
   display: flex;
   height: 45px;
@@ -12391,27 +12394,34 @@ a:focus-within, pre:focus-within {
   padding: 0 1rem;
 }
 @media (min-width: 768px) {
-  .btn-sm, .btn-icon, .btn-print, .btn-embed, .btn-group-sm > .btn, .btn-secondary {
+  .btn-sm, .btn-icon, .btn-print,
+  .btn-embed, .btn-group-sm > .btn, .btn-secondary {
     font-size: 1.125rem;
   }
 }
-.btn-sm:focus, .btn-icon:focus, .btn-print:focus, .btn-embed:focus, .btn-group-sm > .btn:focus, .btn-sm:active, .btn-icon:active, .btn-print:active, .btn-embed:active, .btn-group-sm > .btn:active, .btn-sm:active:focus, .btn-secondary:focus, .btn-secondary:active, .btn-secondary:active:focus {
+.btn-sm:focus, .btn-icon:focus, .btn-print:focus,
+.btn-embed:focus, .btn-group-sm > .btn:focus, .btn-sm:active, .btn-icon:active, .btn-print:active,
+.btn-embed:active, .btn-group-sm > .btn:active, .btn-sm:active:focus, .btn-secondary:focus, .btn-secondary:active, .btn-secondary:active:focus {
   box-shadow: 0 0 0 0 transparent;
 }
-.btn-sm:focus-within, .btn-icon:focus-within, .btn-print:focus-within, .btn-embed:focus-within, .btn-group-sm > .btn:focus-within, .btn-secondary:focus-within {
+.btn-sm:focus-within, .btn-icon:focus-within, .btn-print:focus-within,
+.btn-embed:focus-within, .btn-group-sm > .btn:focus-within, .btn-secondary:focus-within {
   box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.4);
   outline-width: 0;
 }
-.btn-sm:hover, .btn-icon:hover, .btn-print:hover, .btn-embed:hover, .btn-group-sm > .btn:hover, .btn-secondary:hover {
+.btn-sm:hover, .btn-icon:hover, .btn-print:hover,
+.btn-embed:hover, .btn-group-sm > .btn:hover, .btn-secondary:hover {
   text-decoration: underline;
   border-color: #0051A8;
   color: #0051A8;
 }
 
-.btn-icon, .btn-print, .btn-embed {
+.btn-icon, .btn-print,
+.btn-embed {
   padding: 0 1rem 0 0.5rem;
 }
-.btn-icon::before, .btn-print::before, .btn-embed::before {
+.btn-icon::before, .btn-print::before,
+.btn-embed::before {
   flex-shrink: 0;
   width: 32px;
   height: 32px;
@@ -12507,10 +12517,13 @@ a:focus-within, pre:focus-within {
   transform: rotate(90deg);
 }
 
-[data-bs-theme=dark] .btn:focus, [data-bs-theme=dark] .btn:active, [data-bs-theme=dark] .btn:active:focus, [data-bs-theme=dark] .btn-outline-secondary:focus, [data-bs-theme=dark] .btn-nav-prev a:focus, .btn-nav-prev [data-bs-theme=dark] a:focus, [data-bs-theme=dark] .btn-nav-next a:focus, .btn-nav-next [data-bs-theme=dark] a:focus, [data-bs-theme=dark] .btn-outline-secondary:active, [data-bs-theme=dark] .btn-nav-prev a:active, .btn-nav-prev [data-bs-theme=dark] a:active, [data-bs-theme=dark] .btn-nav-next a:active, .btn-nav-next [data-bs-theme=dark] a:active, [data-bs-theme=dark] .btn-outline-secondary:active:focus, [data-bs-theme=dark] .btn-default:focus, [data-bs-theme=dark] .btn-default:active, [data-bs-theme=dark] .btn-default:active:focus, [data-bs-theme=dark] .btn-sm:focus, [data-bs-theme=dark] .btn-icon:focus, [data-bs-theme=dark] .btn-print:focus, [data-bs-theme=dark] .btn-embed:focus, [data-bs-theme=dark] .btn-sm:active, [data-bs-theme=dark] .btn-icon:active, [data-bs-theme=dark] .btn-print:active, [data-bs-theme=dark] .btn-embed:active, [data-bs-theme=dark] .btn-sm:active:focus, [data-bs-theme=dark] .btn-secondary:focus, [data-bs-theme=dark] .btn-secondary:active, [data-bs-theme=dark] .btn-secondary:active:focus {
+[data-bs-theme=dark] .btn:focus, [data-bs-theme=dark] .btn:active, [data-bs-theme=dark] .btn:active:focus, [data-bs-theme=dark] .btn-outline-secondary:focus, [data-bs-theme=dark] .btn-nav-prev a:focus, .btn-nav-prev [data-bs-theme=dark] a:focus, [data-bs-theme=dark] .btn-nav-next a:focus, .btn-nav-next [data-bs-theme=dark] a:focus, [data-bs-theme=dark] .btn-outline-secondary:active, [data-bs-theme=dark] .btn-nav-prev a:active, .btn-nav-prev [data-bs-theme=dark] a:active, [data-bs-theme=dark] .btn-nav-next a:active, .btn-nav-next [data-bs-theme=dark] a:active, [data-bs-theme=dark] .btn-outline-secondary:active:focus, [data-bs-theme=dark] .btn-default:focus, [data-bs-theme=dark] .btn-default:active, [data-bs-theme=dark] .btn-default:active:focus, [data-bs-theme=dark] .btn-sm:focus, [data-bs-theme=dark] .btn-icon:focus, [data-bs-theme=dark] .btn-print:focus,
+[data-bs-theme=dark] .btn-embed:focus, [data-bs-theme=dark] .btn-sm:active, [data-bs-theme=dark] .btn-icon:active, [data-bs-theme=dark] .btn-print:active,
+[data-bs-theme=dark] .btn-embed:active, [data-bs-theme=dark] .btn-sm:active:focus, [data-bs-theme=dark] .btn-secondary:focus, [data-bs-theme=dark] .btn-secondary:active, [data-bs-theme=dark] .btn-secondary:active:focus {
   box-shadow: 0 0 0 0 transparent;
 }
-[data-bs-theme=dark] .btn:focus-within, [data-bs-theme=dark] .btn-outline-secondary:focus-within, [data-bs-theme=dark] .btn-nav-prev a:focus-within, .btn-nav-prev [data-bs-theme=dark] a:focus-within, [data-bs-theme=dark] .btn-nav-next a:focus-within, .btn-nav-next [data-bs-theme=dark] a:focus-within, [data-bs-theme=dark] .btn-default:focus-within, [data-bs-theme=dark] .btn-sm:focus-within, [data-bs-theme=dark] .btn-icon:focus-within, [data-bs-theme=dark] .btn-print:focus-within, [data-bs-theme=dark] .btn-embed:focus-within, [data-bs-theme=dark] .btn-secondary:focus-within {
+[data-bs-theme=dark] .btn:focus-within, [data-bs-theme=dark] .btn-outline-secondary:focus-within, [data-bs-theme=dark] .btn-nav-prev a:focus-within, .btn-nav-prev [data-bs-theme=dark] a:focus-within, [data-bs-theme=dark] .btn-nav-next a:focus-within, .btn-nav-next [data-bs-theme=dark] a:focus-within, [data-bs-theme=dark] .btn-default:focus-within, [data-bs-theme=dark] .btn-sm:focus-within, [data-bs-theme=dark] .btn-icon:focus-within, [data-bs-theme=dark] .btn-print:focus-within,
+[data-bs-theme=dark] .btn-embed:focus-within, [data-bs-theme=dark] .btn-secondary:focus-within {
   box-shadow: 0 0 0 0.25rem rgba(111, 183, 255, 0.6);
   outline-width: 0;
 }
@@ -12524,13 +12537,19 @@ a:focus-within, pre:focus-within {
 [data-bs-theme=dark] .btn-nav-prev a::before, [data-bs-theme=dark] .btn-nav-next a::after {
   content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23e6656c'%3e%3cpath fill-rule='evenodd' d='M9.33329 11C9.7065 11 10.0765 11.1557 10.3399 11.4585L16.0063 17.9844L21.661 11.4713C22.144 10.9158 22.9864 10.8561 23.5409 11.3391C24.0965 11.8221 24.1562 12.6635 23.6742 13.219L17.0129 20.8912C16.5075 21.4745 15.5062 21.4755 14.9997 20.8912L8.32668 13.2073C7.84364 12.6517 7.90335 11.8093 8.45891 11.3274C8.71162 11.1077 9.02299 11 9.33329 11Z'/%3e%3c/svg%3e");
 }
-[data-bs-theme=dark] .btn-sm, [data-bs-theme=dark] .btn-group-sm > .btn, [data-bs-theme=dark] .btn-icon, [data-bs-theme=dark] .btn-print, [data-bs-theme=dark] .btn-embed, [data-bs-theme=dark] .btn-secondary {
+[data-bs-theme=dark] .btn-sm, [data-bs-theme=dark] .btn-group-sm > .btn, [data-bs-theme=dark] .btn-icon, [data-bs-theme=dark] .btn-print,
+[data-bs-theme=dark] .btn-embed, [data-bs-theme=dark] .btn-secondary {
   color: #6FB7FF;
 }
-[data-bs-theme=dark] .btn-sm:hover, [data-bs-theme=dark] .btn-group-sm > .btn:hover, [data-bs-theme=dark] .btn-icon:hover, [data-bs-theme=dark] .btn-print:hover, [data-bs-theme=dark] .btn-embed:hover, [data-bs-theme=dark] .btn-secondary:hover {
+[data-bs-theme=dark] .btn-sm:hover, [data-bs-theme=dark] .btn-group-sm > .btn:hover, [data-bs-theme=dark] .btn-icon:hover, [data-bs-theme=dark] .btn-print:hover,
+[data-bs-theme=dark] .btn-embed:hover, [data-bs-theme=dark] .btn-secondary:hover {
   text-decoration: underline;
   border-color: rgb(139.8, 197.4, 255);
   color: #98c3fa;
+}
+
+.btn-print {
+  line-height: 1;
 }
 
 .btn-print::before {
