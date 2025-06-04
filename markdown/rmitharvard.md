@@ -995,7 +995,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ###### start-subtype-item
 
-### Exhibition catalogue
+### Exhibition guide
 
 ###### start-subtype-content
 
