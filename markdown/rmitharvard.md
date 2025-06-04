@@ -2356,7 +2356,7 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Musical composition / sound recording
+### Musical composition
 
 ###### start-subtype-content
 
