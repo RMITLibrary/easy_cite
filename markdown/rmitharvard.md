@@ -995,7 +995,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ###### start-subtype-item
 
-### Exhibition catalogue
+### Exhibition guide
 
 ###### start-subtype-content
 
@@ -2251,9 +2251,9 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 #### In-text citation: Paraphrasing
 
-Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
+Paraphrasing is when you are expressing the ideas of the work in your own words.
 
-> Writing short stories on Instagram was the catalyst for Dave Grohl writing his memoir (Fidler and Rooney 2021).
+> Writing short stories on Instagram was the catalyst for Dave Grohl writing his memoir (Fidler 2021).
 
 > Bessell and Hunter (2020) consider how the corona virus pandemic is reshaping economies, raising the question of how applicable the 2030 Sustainable Development Goals remain in addressing global poverty.
 
@@ -2356,7 +2356,7 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Musical composition / sound recording
+### Musical composition
 
 ###### start-subtype-content
 
