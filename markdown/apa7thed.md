@@ -89,29 +89,29 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 *Note: When paraphrasing, the citation details can be used at the beginning, middle or end of the sentence.*
 
-#### Citation at the beginning
+##### Citation at the beginning
 
 > Brophy (2010) states that student motivation . . .
 
-#### Citation in the middle
+##### Citation in the middle
 
 > . . . motivation is evident (Brophy, 2010), and as a result, can contribute significantly to achieving learning goals.
 
-#### Citation at the end
+##### Citation at the end
 
 > . . . where a number of subjective experiences can inform motivational outcomes (Brophy, 2010).
 
 *Note: Citations can also be structured according to whether they give prominence to the author (narrative), or to the information being conveyed (parenthetical).*
 
-#### Narrative citations
+##### Narrative citations
 
 > In his research, Brophy (2010) argues that . . .
 
-#### Parenthetical citations
+##### Parenthetical citations
 
 > . . . findings are based on the qualitative study of behavioural learning (Brophy, 2010).
 
-#### Including page numbers in a paraphrase citation
+##### Including page numbers in a paraphrase citation
 
 When paraphrasing, page numbers may also be included as part of the citation, especially if it helps the reader to locate the source of the information in a lengthy document.
 
@@ -125,13 +125,19 @@ Direct quotes are used when you are using the exact words of the author(s). Put 
 
 > “Student motivation to learn can be viewed as either a general disposition or a situation-specific state” (Brophy, 2010, p. 12).
 
-#### Citing a source with no page number(s)
+##### Citing a source, including online journal articles, with no page numbers
 
-If the work you are referencing does NOT contain page numbers, then use paragraph numbers, chapter numbers or section headings as part of the in-text reference.
+Journal articles are increasingly being published online, and these articles have no page numbers. Sometimes, other sources also have no page numbers, such as some e-books, and webpages and websites.
+
+If the work you are citing does NOT contain page numbers, include the alternative page locators such as the heading or section name, chapter number, paragraph number, or the heading or section name or chapter number combined with the paragraph number.
+
+**Examples:**
 
 > "As the national peak body for early childhood, ECA is a regular, and trusted, contributor to the public policy debate on all matters affecting young children (birth to eight years) and their families" (Early Childhood Australia, 2016, Advocacy section, para. 1).
 
-#### Omitting words from a direct quote
+> "While core topics covered during didactic curricula (e.g., ethics, inclusive language) are important, a balance of didactic, experiential, and fieldwork curricula is essential to optimize genetic counseling training." (Miller et al., 2025, Discussion section, para. 3).
+
+##### Omitting words from a direct quote
 
 If you omit words from a direct quote, you will need to add a space followed by three ellipsis dots (. . .) and another space.
 
@@ -392,6 +398,18 @@ The recommended DOI format should appear in your reference list as:
 If no DOI is assigned, include the journal’s **homepage URL** instead.
 
 *Note: There is no full stop after the URL*
+
+#### Online journal articles with no page numbers
+
+Journal articles are increasingly being published online, and these articles have no page numbers. When you need to specify the page range (start and end page) in your reference list entry, but the article has no page numbers, include the alternative page locator available (e.g. article number).
+
+If there is no article number or alternative page locator, omit them.
+
+**Example:**
+
+*Note:* Although the example below has a volume number (34), it has no issue number, hence its omission.
+
+> Miller, A., Kuhl, A., Sullivan, R., Reiser, C., & Petty, E. M. (2025). Genetic counseling training program perspectives on delivering disability‐related education. *Journal of Genetic Counseling*, 34, Article e70070. https://doi.org/10.1002/jgc4.70070
 
 ###### end-subtype-content
 
