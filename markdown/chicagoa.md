@@ -111,7 +111,7 @@ The first time you cite a source in a note, include all the recommended citation
 
 - Ensure that the first line of your note is .5" from the left of the page, or 5 spaces.
 
-Example;
+**Example:**
 
 > {.footnote-indent}2. Patt, *How to Architect,* 35.{/.footnote-indent}
 
@@ -126,6 +126,20 @@ Example;
 - Ensure the first part of the short citation matches what is listed in the bibliography.
 
 - A short title is italicised or placed in "quotation marks" based on the full title.
+
+#### Citing a source, including online journal articles, with no page numbers
+
+Journal articles that are published online tend to have no page numbers. Sometimes, other sources also have no page numbers, such as some e-books, and webpages and websites.
+
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in your footnote such as the section name (e.g under "section heading"), paragraph number (e.g para. 6) or chapter number (e.g chap. 5).
+
+As page numbers or alternative page locators are NOT required in the bibliography, omit them from the bibliography.
+
+**Examples (non-shortened and shortened footnote):**
+
+> {.footnote-indent}1. Jo Francis, "Ephemera and the Construction of First World War Life Writing," *Open Library of Humanities* 11, no. 2 (2025), under "Ephemera as Gateway," https<nolink>://doi.org/10.16995/olh.17161.
+
+> {.footnote-indent}2. Francis, "Ephemera and the Construction of First World War Life Writing," under "Ephemera as Gateway."
 
 #### Block quotations
 
@@ -218,7 +232,7 @@ Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Au
 
 Koenig, Sarah. “Season One Episode 01: The Alibi.” October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder & Dana Chivvis. Podcast, MP3 audio. 52:00. https<nolink>://serialpodcast.org/season-one/1/the-alibi.
 
-McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25,10.1177/1206331205275020.
+McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25, 10.1177/1206331205275020.
 
 Melton, Paula. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building." Building Green, 2013. https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building.
 
