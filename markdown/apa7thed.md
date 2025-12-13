@@ -383,7 +383,7 @@ When citing in-text, include the author first name initial(s) followed by their 
 
 - The reference list must be double-spaced and each entry should have a hanging indent on the second and subsequent lines (if applicable).
 
-- Italicise all book titles, journal titles, volume numbers, titles of newspapers and titles of webpages and websites.
+- Italicise all book titles, journal titles, volume numbers, titles of newspapers and titles of webpages. Names of websites should NOT be italicised.
 
 - Present both DOIs and URLs as hyperlinks. The default display settings for hyperlinks in your word-processing program (e.g., usually blue font, underlined) or plain text that is not underlined is acceptable.
 
