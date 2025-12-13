@@ -118,6 +118,18 @@ The **author-date** format requires that sources are acknowledged by placing the
 
 - To cite more than one reference in a single in-text citation, separate the citations by semicolons. Example: (Dickens 2008; Lee 1998) If the works are by the same author, use just the year and separate with a comma.
 
+#### Citing a source, including online journal articles, with no page numbers
+
+Journal articles that are published online tend to have no page numbers. Sometimes, other sources also have no page numbers, such as some e-books, and webpages and websites.
+
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in your in-text citation such as the section name (e.g under "section heading"), paragraph number (e.g para. 6) or chapter number (e.g chap. 5).
+
+As page numbers or alternative page locators are NOT required in the reference list, omit them from the reference list.
+
+**Example:**
+
+> "What is particularly striking about this example is the assumption that ephemera could act as a shorthand for place-based experience" (Francis 2025, under "Ephemera as Gateway").
+
 ###### end-subtype-content
 
 ###### end-subtype-item
