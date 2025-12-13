@@ -95,29 +95,29 @@ Paraphrasing is when you express the ideas of the author(s) in your own words. W
 
 *Note: When paraphrasing, the citation details can be placed at the beginning, middle or end of a sentence.*
 
-#### Citation at the beginning
+##### Citation at the beginning
 
 > Benson [1] states that thermal performance . . .
 
-#### Citation in the middle
+##### Citation in the middle
 
 > . . . not only does the shift toward multicore processors mean more improvements in CPU speed [1], but they also consume less power and produce less heat.
 
-#### Citation at the end
+##### Citation at the end
 
 > . . . and therefore the rate of heat transfer slows [1].
 
 *Note: Citations can also be structured according to whether they give prominence to the author, or to the information being conveyed.*
 
-#### Author-prominent citations
+##### Author-prominent citations
 
 > In his research on software thermal management, Benson [1] claims that . . .
 
-#### Information-prominent citations
+##### Information-prominent citations
 
 > . . . where more processors are being produced to optimise power and thermal performance [1].
 
-#### Including page numbers in a paraphrase citation
+##### Including page numbers in a paraphrase citation
 
 When paraphrasing, page numbers are not usually used as part of the citation, unless it intends to help the reader to locate the source of the information in a lengthy or complex document.
 
@@ -129,13 +129,19 @@ Direct quotes are used when you are using the exact words of the author(s). Put 
 
 > "Due to the nonlinear nature of the Law of Dynamic Power, if the demand on the processor is light, the operating frequency can be reduced to save clock cycles, reducing power and limiting heat generation" [1, p. 82].
 
-#### Citing a source with no page number(s)
+##### Citing a source, including online journal articles, with no page numbers
 
-If the work you are referencing does not contain page numbers, then use chapter numbers, section headings and paragraph numbers as part of the in-text reference.
+Journal articles are increasingly being published online, and these articles have no page numbers. Sometimes, other sources also have no page numbers, such as some e-books, and webpages and websites.
+
+If the work you are citing does NOT contain page numbers, include the alternative page locators such as the heading or section name, chapter number, paragraph number, or the heading or section name or chapter number combined with the paragraph number.
+
+**Examples:**
 
 > "Many physical dynamic systems can be represented and modeled by first-order differential equations" [1, Ch. 3, para. 1].
 
-#### Omitting words from a direct quote
+> Liang et al. states that "Compared with MOSE and standard deviation, the MFE demonstrates significant advantages due to its ability to capture dynamic features across multiple time scales" [7, Comparison of results of different diagnostic methods section, para. 2].
+
+##### Omitting words from a direct quote
 
 If you omit words from a direct quote, you will need to add a space followed by three ellipsis dots ( . . . ) and another space.
 
@@ -285,6 +291,17 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 
 - For the place of publication, add the city, and then include the state abbreviation (if applicable) and country name, followed by the publisher and year of publication. Cities in the USA need the city name, state abbreviation and country abbreviation.
 
+##### Online journal articles with no page numbers
+
+Journal articles are increasingly being published online, and these articles have no page numbers. When you need to specify the page range (start and end page) in your reference list entry, but the article has no page numbers, include the alternative page locator available (e.g. article number).
+
+If there is no article number or alternative page locator, omit them.
+
+**Example:**
+
+*Note:* Although the example below has a volume number (151), it has no issue number, hence its omission.
+
+> [7]    F. Liang, J. Hong, and X. Zhang, "Fault diagnosis of real-scenario battery systems in electric vehicles using the multi-scale fuzzy entropy algorithm," *Eng. Appl. Artif. Intell.*, vol. 151, Article 110670, Jul. 2025.
 
 ###### end-subtype-content
 
