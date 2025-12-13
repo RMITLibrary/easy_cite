@@ -301,7 +301,7 @@ If there is no article number or alternative page locator, omit them.
 
 *Note:* Although the example below has a volume number (151), it has no issue number, hence its omission.
 
-> [7]    F. Liang, J. Hong, and X. Zhang, "Fault diagnosis of real-scenario battery systems in electric vehicles using the multi-scale fuzzy entropy algorithm," *Eng. Appl. Artif. Intell.*, vol. 151, Article 110670, Jul. 2025.
+> [7] &nbsp;&nbsp; F. Liang, J. Hong, and X. Zhang, "Fault diagnosis of real-scenario battery systems in electric vehicles using the multi-scale fuzzy entropy algorithm," *Eng. Appl. Artif. Intell.*, vol. 151, Article 110670, Jul. 2025.
 
 ###### end-subtype-content
 
