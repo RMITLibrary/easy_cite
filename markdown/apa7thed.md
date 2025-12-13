@@ -141,7 +141,7 @@ Most journal articles with an **article number**, however, will have page number
 
 **Example:**
 
-> "Elite sport has seen a similar shift toward systemic strategies that emphasise organisational policies, integrated care models, and multi- level interventions to protect athlete well-being." (Vella & Rice, 2015, p. 5).
+> "Elite sport has seen a similar shift toward systemic strategies that emphasise organisational policies, integrated care models, and multi- level interventions to protect athlete well-being." (Vella & Rice, 2025, p. 5).
 
 ##### Omitting words from a direct quote
 
@@ -425,7 +425,7 @@ Most journal articles with an **article number**, however, will have a page rang
 
 *Note:* Although the example below has a volume number (83), it has no issue number, hence its omission.
 
-> Vella, S. A., & Rice, S. (2026). Mental health in sport: opportunities for the future of recreational and elite sport psychology. *Psychology of Sport and Exercise*, *83*, 1-10, Article 103021. https://doi.org/10.1016/j.psychsport.2025.103021
+> Vella, S. A., & Rice, S. (2025). Mental health in sport: opportunities for the future of recreational and elite sport psychology. *Psychology of Sport and Exercise*, *83*, 1-10, Article 103021. https://doi.org/10.1016/j.psychsport.2025.103021
 
 ###### end-subtype-content
 
