@@ -151,7 +151,7 @@ A quote in an in-text citation can be inserted at the beginning, middle or end o
 
 Journal articles that are published online tend to have no page numbers. Sometimes, other sources also have no page numbers, such as some e-books, and webpages and websites.
 
-If the work you are citing does NOT contain page numbers, include the alternative page locators such as the heading or section name, chapter number, paragraph number, or the heading or section name or chapter number combined with the paragraph number.
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in your in-text citation such as the heading or section name, chapter number, paragraph number, or the heading or section name or chapter number combined with the paragraph number.
 
 **Example:**
 
