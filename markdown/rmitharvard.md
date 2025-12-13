@@ -147,9 +147,9 @@ A quote in an in-text citation can be inserted at the beginning, middle or end o
 
 > 'Building plans tend to ignore climate risks in most instances' (Hill and Martinez-Diez 2020:18).
 
-##### Online journal articles with article numbers or other page locators (no page numbers)
+##### Online journal articles with no page numbers
 
-Journal articles are increasingly being published online, and these articles tend to have no page numbers. When you need to specify a certain page number (e.g. for a quote) in your in-text citation, but the article has no page numbers, include the alternative page locators such as the heading or section name, a paragraph number, or the heading or section name combined with a paragraph number, instead of the page number.
+Journal articles are increasingly being published online, and these articles have no page numbers. When you need to specify a certain page number (e.g. for a quote) in your in-text citation, but the article has no page numbers, include the alternative page locators such as the heading or section name, a paragraph number, or the heading or section name combined with a paragraph number, instead of the page number.
 
 **Example:**
 
@@ -332,9 +332,9 @@ In the reference list, only include the source you read. For this example, if yo
 
 - If the work is in a **language other than English**, put the title in the original language followed by the English translation, e.g. *Gabrielle Chanel. Manifeste de Mode (Gabrielle Chanel. Fashion manifesto)*.
 
-#### Online journal articles with article numbers or other page locators (no page numbers)
+#### Online journal articles with no page numbers
 
-Journal articles are increasingly being published online, and these articles tend to have no page numbers. When you need to specify the page range (start and end page) in your reference list entry, but the article has no page numbers, include the alternative page locator available (e.g. article number) instead of the page range.
+Journal articles are increasingly being published online, and these articles have no page numbers. When you need to specify the page range (start and end page) in your reference list entry, but the article has no page numbers, include the alternative page locator available (e.g. article number) instead of the page range.
 
 If there is no article number or alternative page locator, omit them.
 
