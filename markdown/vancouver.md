@@ -217,13 +217,29 @@ For the place of publication, add the city, and then qualify it – see below �
 
 - **No place of publication**: Use [place unknown] in square brackets.
 
-> Kuttner L. A child in pain: how to help, what to do. [place unknown]: Hartley & Marks; 1996.
+> 26. Kuttner L. A child in pain: how to help, what to do. [place unknown]: Hartley & Marks; 1996.
 
 #### Pagination
 
 For books in the reference list, pagination (i.e. total number of pages) is optional. *Note: The examples in this guide do not include pagination for books.*
 
 If there is no pagination, give an indication of the length of the source in square brackets. This can be provided as print pages, screens or paragraphs e.g. [about 1 p.], [about 5 screens], [8 paragraphs]
+
+#### Online journal articles with article numbers or other page locators (no page range)
+
+For online journal articles without a page range, use the article number or e-number if available in the place of a page range.
+
+When an article has the word **Article** before its identifying number, include the word **Article** in the same manner. That is, Article 12345.
+
+##### Example (Block quote):
+
+> 1. Matos-Silva M, Lira FS, Antunes BM. Immunometabolic insights into women’s health across all ages. *Maturitas*. [Internet] 2025 Sep 9 [cited 2025 Dec 2];202: Article 108719. Available from: https<nolink>://doi.org/10.1016/j.maturitas.2025.108719
+
+When an article has the letter **e** before its identifying number, include the letter **e** in the same manner. That is, e12345.
+
+##### Example (Block quote):
+
+> 2. Pestana-Oliveira N, Kalil B, Leite CM, Carolino ROG, Debarba LK, Elias LLK, et al. Effects of estrogen therapy on the serotonergic system in an animal model of perimenopause induced by 4-Vinylcyclohexen Diepoxide (VCD). *eNeuro*. [Internet] 2018 Jan 4 [cited 2025 Dec 2];5(1): e0247. Available from: https<nolink>://doi.org/10.1523/ENEURO.0247-17.2017
 
 #### Punctuation for references ending with a URL
 
@@ -234,8 +250,6 @@ When a URL does not end with a forward slash, do not end the citation with a ful
 ###### end-subtype-content
 
 ###### end-subtype-item
-
-
 
 
 ###### start-subtype-item
@@ -752,11 +766,29 @@ Follow **Using Vancouver: General rules for the reference list** in this style g
 
 ###### start-subtype-content
 
-#### In-text citations
+#### In-text citation: paraphrase
 
-When paraphrasing or directly quoting an online journal article, cite as you would for a journal article with one or multiple authors.
+When paraphrasing an online journal article, cite as you would for a journal article with one or multiple authors.
 
 For more explanation, see **Using Vancouver: General rules for in-text citations** in this style guide.
+
+#### In-text citation: direct quote
+
+A direct quote is when you reproduce someone else's exact words in your writing. Place quotation marks around the author’s words to make it clear they are not your own.
+
+Acknowledge the author in the same way as a paraphrase, with the addition of the **page number** where the author's quotation is located in the original source.
+
+Most journal articles with an article number or e-number instead of a page range will have page numbers when you view the PDF version. Include the page number as you normally would for a journal article. That is, the in-text source number is followed by a space, then the lower case letter 'p' with no space or punctuation before the page number.
+
+##### Examples [Block quote]:
+
+> "During the perimenopausal and postmenopausal phases, exercise training remains essential for health promotion, playing a crucial role in preventing chronic diseases and preserving bodily functionality." <sup>1 p5</sup>
+
+> The authors assert, "...our data provide novel neuroendocrine insights into the understanding of the positive effect of estradiol therapy on perimenopausal symptoms in normoestrogenic perimenopausal women." (2 p12)
+
+For direct quotes longer than four lines, see **Using Vancouver: General rules for in-text citations** in this style guide.
+
+**Note:** The reason the page numbers from the PDF version are not used for the page range in the reference list (below) is because they do not relate to the page ranges of other articles in the same issue of the journal. That is, they are internal page numbers for a single journal article.
 
 #### Reference list
 
@@ -767,6 +799,8 @@ Your reference list entry will be the same as a journal article with one or more
 - After year and month of publication, add the date you cited the article in square brackets: year, month (abbreviated to three letters), day: **[cited 2012 Aug 24]**
 
 - After the page range, type Available from: followed by the URL where you accessed the online article: **Available from: URL**
+  
+- For online journal articles without a page range, use the article number or e-number if available in the place of a page range.
 
 When a URL ends with a forward slash, end the citation with a full stop.
 
@@ -776,11 +810,11 @@ Follow **Using Vancouver: General rules for the reference list** in this style g
 
 **Rule**
 
-> 15. Author family name Initials. Article title: article subtitle. Abbreviated Journal Title. [Internet]. Year Mon [cited 2024 Jul 5];Volume number(Issue number):page range. Available from: URL
+> 15. Author family name Initials. Article title: article subtitle. *Abbreviated Journal Title*. [Internet]. Year Mon [cited 2024 Jul 5];Volume number(Issue number):page range. Available from: URL
 
 **Example**
 
-> 15. Martin P, Tamblyn R, Benedetti A, Ahmed S, Tannenbaum C. Effect of a pharmacist-led educational intervention on inappropriate medication prescriptions in older adults: the D-PRESCRIBE randomized clinical trial. JAMA. [Internet]. 2018 Nov [cited 2024 Jul 5];320(18):1889–98. Available from: https://doi.org/10.1001/jama.2018.16131
+> 15. Martin P, Tamblyn R, Benedetti A, Ahmed S, Tannenbaum C. Effect of a pharmacist-led educational intervention on inappropriate medication prescriptions in older adults: the D-PRESCRIBE randomized clinical trial. *JAMA*. [Internet]. 2018 Nov [cited 2024 Jul 5];320(18):1889–98. Available from: https://doi.org/10.1001/jama.2018.16131
 
 ###### end-subtype-content
 
