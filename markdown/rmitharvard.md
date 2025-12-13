@@ -149,7 +149,7 @@ A quote in an in-text citation can be inserted at the beginning, middle or end o
 
 ##### Online journal articles with no page numbers
 
-Journal articles are increasingly being published online, and these articles have no page numbers. When you need to specify a certain page number (e.g. for a quote) in your in-text citation, but the article has no page numbers, include the alternative page locators such as the heading or section name, a paragraph number, or the heading or section name combined with a paragraph number, instead of the page number.
+Journal articles are increasingly being published online, and these articles have no page numbers. When you need to specify a certain page number (e.g. for a quote) in your in-text citation, but the article has no page numbers, include the alternative page locators such as the heading or section name, a paragraph number, or the heading or section name combined with the paragraph number.
 
 **Example:**
 
@@ -334,7 +334,7 @@ In the reference list, only include the source you read. For this example, if yo
 
 #### Online journal articles with no page numbers
 
-Journal articles are increasingly being published online, and these articles have no page numbers. When you need to specify the page range (start and end page) in your reference list entry, but the article has no page numbers, include the alternative page locator available (e.g. article number) instead of the page range.
+Journal articles are increasingly being published online, and these articles have no page numbers. When you need to specify the page range (start and end page) in your reference list entry, but the article has no page numbers, include the alternative page locator available (e.g. article number).
 
 If there is no article number or alternative page locator, omit them.
 
