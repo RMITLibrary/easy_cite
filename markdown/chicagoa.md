@@ -129,9 +129,9 @@ The first time you cite a source in a note, include all the recommended citation
 
 #### Citing a source, including online journal articles, with no page numbers
 
-Journal articles that are published online tend to have no page numbers. Sometimes, other sources also have no page numbers, such as some e-books, and webpages and websites.
+Some online journal articles with an **article number** instead of a page range will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
 
-If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in your footnote such as the section name (e.g under "section heading"), paragraph number (e.g para. 6) or chapter number (e.g chap. 5).
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in the footnote such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
 
 As page numbers or alternative page locators are NOT required in the bibliography, omit them from the bibliography.
 
@@ -140,6 +140,16 @@ As page numbers or alternative page locators are NOT required in the bibliograph
 > {.footnote-indent}1. Jo Francis, "Ephemera and the Construction of First World War Life Writing," *Open Library of Humanities* 11, no. 2 (2025), under "Ephemera as Gateway," https<nolink>://doi.org/10.16995/olh.17161.
 
 > {.footnote-indent}2. Francis, "Ephemera and the Construction of First World War Life Writing," under "Ephemera as Gateway."
+
+Most journal articles with an **article number**, however, will have page numbers when you view the PDF version. When directly quoting, include the page number (e.g. 8) as you normally would for a journal article footnote.
+
+**Examples (non-shortened and shortened footnote):**
+
+*Note:* Although the example below has a volume number (113), it has no issue number, hence its omission.
+
+> {.footnote-indent}3. Yevhen Voronin, "Detailing Social Influence in Predicting Cinema Attendance: A Vignette Approach," *Poetics* 113 (2025), 8, https<nolink>://doi.org/10.1016/j.poetic.2025.102041.
+
+> {.footnote-indent}4. Voronin, "Detailing Social Influence in Predicting Cinema Attendance: A Vignette Approach," 8.
 
 #### Block quotations
 
