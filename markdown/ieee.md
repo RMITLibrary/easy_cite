@@ -131,15 +131,21 @@ Direct quotes are used when you are using the exact words of the author(s). Put 
 
 ##### Citing a source, including online journal articles, with no page numbers
 
-Journal articles that are published online tend to have no page numbers. Sometimes, other sources also have no page numbers, such as some e-books, and webpages and websites.
+Some online journal articles with an **article number** instead of a page range will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
 
-If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in your in-text citation such as the heading or section name, chapter number, paragraph number, or the heading or section name or chapter number combined with the paragraph number.
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
 
 **Examples:**
 
 > "Many physical dynamic systems can be represented and modeled by first-order differential equations" [1, Ch. 3, para. 1].
 
-> Liang et al. states that "Compared with MOSE and standard deviation, the MFE demonstrates significant advantages due to its ability to capture dynamic features across multiple time scales" [7, Comparison of results of different diagnostic methods section, para. 2].
+> Liang et al. states that "Compared with MOSE and standard deviation, the MFE demonstrates significant advantages due to its ability to capture dynamic features across multiple time scales" [2, Comparison of results of different diagnostic methods section, para. 2].
+
+Most journal articles with an **article number**, however, will have page numbers when you view the PDF version. When directly quoting, include the page number (e.g. p. 10) as you normally would for a journal article.
+
+**Example:**
+
+> "By optimizing energy consumption and enhancing overall efficiency, EnMS contributes to a more sustainable and environmentally friendly lifestyle" [5, p. 10].
 
 ##### Omitting words from a direct quote
 
@@ -293,15 +299,25 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 
 ##### Online journal articles with no page numbers
 
-Journal articles that are published online tend to have no page numbers. When you need to specify the page range (start and end page) in your reference list entry, but the article has no page numbers, include the alternative page locator available (e.g. article number).
+Some online journal articles with an **article number** instead of a page range will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
 
-If there is no article number or alternative page locator, omit them.
+If the work you are referencing does NOT contain a page range (e.g. for your reference list entry), include the article number in the place of a page range. Put the word **Article** before its identifying number (e.g. Article 12345, Article e12345).
 
-**Example:**
+**Examples:**
 
 *Note:* Although the example below has a volume number (151), it has no issue number, hence its omission.
 
-> [7] &nbsp;&nbsp; F. Liang, J. Hong, and X. Zhang, "Fault diagnosis of real-scenario battery systems in electric vehicles using the multi-scale fuzzy entropy algorithm," *Eng. Appl. Artif. Intell.*, vol. 151, Article 110670, Jul. 2025.
+> [2] &nbsp;&nbsp; F. Liang, J. Hong, and X. Zhang, "Fault diagnosis of real-scenario battery systems in electric vehicles using the multi-scale fuzzy entropy algorithm," *Eng. Appl. Artif. Intell.*, vol. 151, Article 110670, Jul. 2025.
+
+> [3] &nbsp;&nbsp; J. Gao, J. Hong, and B. Huang, "One-step syntheses of face-centered cubic OsxPt1-x/C with near-zero-overpotential hydrogen evolution from electronic-state engineering," *Adv Sci (Weinh).*, vol. 12, no. 28, Article e2504161, Jul. 2025.
+
+Most journal articles with an **article number**, however, will have a page range when you view the PDF version. In the reference list entry, include the page range (e.g. 1-16) as you normally would for a journal article.
+
+**Example:**
+
+*Note:* Although the example below has a volume number (230), it has no issue number, hence its omission.
+
+> [7] &nbsp;&nbsp; D. Hidellaarachchi, J. Grundy, and R. Hoda, "The role of humour in software engineering - a literature review and preliminary taxonomy," *J. Syst. Softw.*, vol. 230, pp. 1-16, Article 112560, Dec. 2025.
 
 ###### end-subtype-content
 
