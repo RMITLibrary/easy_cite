@@ -127,15 +127,21 @@ Direct quotes are used when you are using the exact words of the author(s). Put 
 
 ##### Citing a source, including online journal articles, with no page numbers
 
-Journal articles that are published online tend to have no page numbers. Sometimes, other sources also have no page numbers, such as some e-books, and webpages and websites.
+Some online journal articles with an **article number** instead of a page range will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
 
-If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in your in-text citation such as the heading or section name, chapter number, paragraph number, or the heading or section name or chapter number combined with the paragraph number.
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
 
 **Examples:**
 
-> "As the national peak body for early childhood, ECA is a regular, and trusted, contributor to the public policy debate on all matters affecting young children (birth to eight years) and their families" (Early Childhood Australia, 2016, Advocacy section, para. 1).
+> "As the national peak body for early childhood, ECA is a regular, and trusted, contributor to the public policy debate on all matters affecting young children (birth to eight years) and their families." (Early Childhood Australia, 2016, Advocacy section, para. 1).
 
 > "While core topics covered during didactic curricula (e.g., ethics, inclusive language) are important, a balance of didactic, experiential, and fieldwork curricula is essential to optimize genetic counseling training." (Miller et al., 2025, Discussion section, para. 3).
+
+Most journal articles with an **article number**, however, will have page numbers when you view the PDF version. When directly quoting, include the page number (e.g. p. 5) as you normally would for a journal article.
+
+**Example:**
+
+> "Elite sport has seen a similar shift toward systemic strategies that emphasise organisational policies, integrated care models, and multi- level interventions to protect athlete well-being." (Vella & Rice, 2015, p. 5).
 
 ##### Omitting words from a direct quote
 
@@ -401,15 +407,25 @@ If no DOI is assigned, include the journal’s **homepage URL** instead.
 
 #### Online journal articles with no page numbers
 
-Journal articles that are published online tend to have no page numbers. When you need to specify the page range (start and end page) in your reference list entry, but the article has no page numbers, include the alternative page locator available (e.g. article number).
+Some online journal articles with an **article number** instead of a page range will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
 
-If there is no article number or alternative page locator, omit them.
+If the work you are referencing does NOT contain a page range (e.g. for your reference list entry), include the article number in the place of a page range. Put the word **Article** before its identifying number (e.g. Article 12345, Article e12345).
+
+**Examples:**
+
+*Note:* Although the examples below have a volume number (34 and 9), they have no issue number, hence their omission.
+
+> Miller, A., Kuhl, A., Sullivan, R., Reiser, C., & Petty, E. M. (2025). Genetic counseling training program perspectives on delivering disability‐related education. *Journal of Genetic Counseling*, *34*, Article e70070. https://doi.org/10.1002/jgc4.70070
+
+> Connolly, A., Matthews, A., & Kirwan, M. (2025). Nurses' and older patients' perspectives on missed nursing care contextualised within the Fundamentals of Care Framework: a cross-sectional survey. *International Journal of Nursing Studies Advances*, *9*, Article 100452. https://doi.org/10.1016/j.ijnsa.2025.100452
+
+Most journal articles with an **article number**, however, will have a page range when you view the PDF version. In the reference list entry, include the page range (e.g. 1-10) as you normally would for a journal article.
 
 **Example:**
 
-*Note:* Although the example below has a volume number (34), it has no issue number, hence its omission.
+*Note:* Although the example below has a volume number (83), it has no issue number, hence its omission.
 
-> Miller, A., Kuhl, A., Sullivan, R., Reiser, C., & Petty, E. M. (2025). Genetic counseling training program perspectives on delivering disability‐related education. *Journal of Genetic Counseling*, 34, Article e70070. https://doi.org/10.1002/jgc4.70070
+> Vella, S. A., & Rice, S. (2026). Mental health in sport: opportunities for the future of recreational and elite sport psychology. *Psychology of Sport and Exercise*, *83*, 1-10, Article 103021. https://doi.org/10.1016/j.psychsport.2025.103021
 
 ###### end-subtype-content
 
