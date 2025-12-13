@@ -147,6 +147,15 @@ A quote in an in-text citation can be inserted at the beginning, middle or end o
 
 > 'Building plans tend to ignore climate risks in most instances' (Hill and Martinez-Diez 2020:18).
 
+##### Online journal articles with article numbers or other page locators (no page numbers)
+
+Journal articles are increasingly being published online, and these articles tend to have no page numbers. When you need to specify a certain page number (e.g. for a quote) in your in-text citation, but the article has no page numbers, include the alternative page locators such as the heading or section name, a paragraph number, or the heading or section name combined with a paragraph number, instead of the page number.
+
+**Example:**
+
+> 'The mainstream approach to sustainability advocates for cutting-edge technologies, which often rely on large corporations, to tackle socio-ecological issues, such as carbon-capturing technologies.' (Shourkaei 2025:Technology section, para. 1).
+
+
 #### Block quotations
 
 Block quotations are quotes of more than 30 words.
@@ -322,6 +331,18 @@ In the reference list, only include the source you read. For this example, if yo
 - If the publication has a **DOI** (Digital Object Identifier), include it in the reference list, at the end of the citation using the short form ‘doi’ in lower case, e.g. Zufferey C, Yu N and Hand T (2020) ‘Researching home in social work’, *Qualitative Social Work*, 19(5-6):1095-1110, doi:10.1177/1473325019880244.
 
 - If the work is in a **language other than English**, put the title in the original language followed by the English translation, e.g. *Gabrielle Chanel. Manifeste de Mode (Gabrielle Chanel. Fashion manifesto)*.
+
+#### Online journal articles with article numbers or other page locators (no page numbers)
+
+Journal articles are increasingly being published online, and these articles tend to have no page numbers. When you need to specify the page range (start and end page) in your reference list entry, but the article has no page numbers, include the alternative page locator available (e.g. article number) instead of the page range.
+
+If there is no article number or alternative page locator, omit them.
+
+**Example:**
+
+*Note:* Although the example below has a volume number (518), it has no issue number, hence its omission.
+
+> Shourkaei MM (2025) 'Going beyond the business case for sustainability: main business-level shifts for pursuing strong sustainability', *Journal of Cleaner Production*, 518:Article 145905, doi:10.1016/j.jclepro.2025.145905.
 
 ###### end-subtype-content
 
