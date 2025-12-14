@@ -129,7 +129,7 @@ The first time you cite a source in a note, include all the recommended citation
 
 #### Citing a source, including online journal articles, with no page numbers
 
-Some online journal articles with an **article number** instead of a page range will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
 
 If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in the footnote such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
 
