@@ -142,10 +142,11 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
         <div id="nav-tabContent">
           <div>
             <div class="row ">
-              <div class="col-lg-4 order-last">
-                <div class="right-nav-simple--sticky">
-                  <nav class="right-nav-simple" aria-label="Section Menu">
-                    <h2 class="h1"><?php echo htmlspecialchars_decode($styleGuideTitle, ENT_QUOTES); ?> <span class="visually-hidden">chapters</span></h2>
+              <div class="col-lg-4 order-first">
+                <div class="right-nav-simple--sticky" >
+                  <nav class="right-nav-simple" aria-label="Section Menu" style="
+    margin-left: 0px!important;">
+                    <h2 class="h1"><?php echo htmlspecialchars_decode($styleGuideTitle, ENT_QUOTES); ?> <span class="visually-hidden">navigation</span></h2>
                     <div class="nav nav-tabs" role="tablist">
                       <?php foreach ($extractedData['menu'] as $index => $title): ?>
                         <button class="nav-link <?php echo $index === 0 ? 'active' : ''; ?>"
@@ -167,7 +168,7 @@ if ($show_guides && !empty($extractedData['type_contents'])) {
 									*/ ?>
                 </div>
               </div>
-              <div class="col-lg-8 order-first" id="main-tab-content">
+              <div class="col-lg-8 order-last" id="main-tab-content" style="order: 2;">
                 <div class="tab-content">
                   <?php $subtype_counter = 0; ?>
                   <?php foreach ($extractedData['type_contents'] as $typeIndex => $typeContent): ?>
