@@ -311,7 +311,7 @@ If the work you are referencing does NOT contain a page range (e.g. for your ref
 
 > [3] &nbsp;&nbsp; J. Gao, J. Hong, and B. Huang, "One-step syntheses of face-centered cubic OsxPt1-x/C with near-zero-overpotential hydrogen evolution from electronic-state engineering," *Adv Sci (Weinh).*, vol. 12, no. 28, Article e2504161, Jul. 2025.
 
-Most journal articles with an **article number**, however, will have a page range when you view the PDF version. In the reference list entry, include the page range (e.g. 1-16) as you normally would for a journal article.
+Most journal articles with an **article number**, however, will have a page range when you view the PDF version. In the reference list entry, include the page range (e.g. pp. 1-16) as you normally would for a journal article.
 
 **Example:**
 
