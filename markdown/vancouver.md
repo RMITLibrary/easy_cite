@@ -231,13 +231,13 @@ For online journal articles without a page range, use the article number or e-nu
 
 When an article has the word **Article** before its identifying number, include the word **Article** in the same manner. That is, Article 12345.
 
-##### Example (Block quote):
+##### Example:
 
 > 1. Matos-Silva M, Lira FS, Antunes BM. Immunometabolic insights into women’s health across all ages. *Maturitas*. [Internet] 2025 Sep 9 [cited 2025 Dec 2];202: Article 108719. Available from: https<nolink>://doi.org/10.1016/j.maturitas.2025.108719
 
 When an article has the letter **e** before its identifying number, include the letter **e** in the same manner. That is, e12345.
 
-##### Example (Block quote):
+##### Example:
 
 > 2. Pestana-Oliveira N, Kalil B, Leite CM, Carolino ROG, Debarba LK, Elias LLK, et al. Effects of estrogen therapy on the serotonergic system in an animal model of perimenopause induced by 4-Vinylcyclohexen Diepoxide (VCD). *eNeuro*. [Internet] 2018 Jan 4 [cited 2025 Dec 2];5(1): e0247. Available from: https<nolink>://doi.org/10.1523/ENEURO.0247-17.2017
 
