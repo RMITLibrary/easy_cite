@@ -111,7 +111,7 @@ The first time you cite a source in a note, include all the recommended citation
 
 - Ensure that the first line of your note is .5" from the left of the page, or 5 spaces.
 
-Example;
+**Example:**
 
 > {.footnote-indent}2. Patt, *How to Architect,* 35.{/.footnote-indent}
 
@@ -126,6 +126,30 @@ Example;
 - Ensure the first part of the short citation matches what is listed in the bibliography.
 
 - A short title is italicised or placed in "quotation marks" based on the full title.
+
+#### Citing a source, including online journal articles, with no page numbers
+
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in the footnote such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
+
+As page numbers or alternative page locators are NOT required in the bibliography, omit them from the bibliography.
+
+**Examples (non-shortened and shortened footnote):**
+
+> {.footnote-indent}1. Jo Francis, "Ephemera and the Construction of First World War Life Writing," *Open Library of Humanities* 11, no. 2 (2025), under "Ephemera as Gateway," https<nolink>://doi.org/10.16995/olh.17161.
+
+> {.footnote-indent}2. Francis, "Ephemera and the Construction of First World War Life Writing," under "Ephemera as Gateway."
+
+Most journal articles with an **article number**, however, will have page numbers when you view the PDF version. When directly quoting, include the page number (e.g. 8) as you normally would for a journal article footnote.
+
+**Examples (non-shortened and shortened footnote):**
+
+*Note:* Although the example below has a volume number (113), it has no issue number, hence its omission.
+
+> {.footnote-indent}3. Yevhen Voronin, "Detailing Social Influence in Predicting Cinema Attendance: A Vignette Approach," *Poetics* 113 (2025), 8, https<nolink>://doi.org/10.1016/j.poetic.2025.102041.
+
+> {.footnote-indent}4. Voronin, "Detailing Social Influence in Predicting Cinema Attendance: A Vignette Approach," 8.
 
 #### Block quotations
 
@@ -218,7 +242,7 @@ Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Au
 
 Koenig, Sarah. “Season One Episode 01: The Alibi.” October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder & Dana Chivvis. Podcast, MP3 audio. 52:00. https<nolink>://serialpodcast.org/season-one/1/the-alibi.
 
-McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25,10.1177/1206331205275020.
+McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25, 10.1177/1206331205275020.
 
 Melton, Paula. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building." Building Green, 2013. https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building.
 

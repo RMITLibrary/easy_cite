@@ -147,7 +147,23 @@ A quote in an in-text citation can be inserted at the beginning, middle or end o
 
 > 'Building plans tend to ignore climate risks in most instances' (Hill and Martinez-Diez 2020:18).
 
-#### Block quotations
+##### Citing a source, including online journal articles, with no page numbers
+
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
+
+**Example:**
+
+> 'The mainstream approach to sustainability advocates for cutting-edge technologies, which often rely on large corporations, to tackle socio-ecological issues, such as carbon-capturing technologies.' (Shourkaei 2025:Technology section, para. 1).
+
+Most journal articles with an **article number**, however, will have page numbers when you view the PDF version. When directly quoting, include the page number (e.g. 15) as you normally would for a journal article.
+
+**Example:**
+
+> 'Among the binder components, cement, fly ash, and silica fume stood out as important contributors.' (Mohsin et al. 2025:15).
+
+##### Block quotations
 
 Block quotations are quotes of more than 30 words.
 
@@ -322,6 +338,29 @@ In the reference list, only include the source you read. For this example, if yo
 - If the publication has a **DOI** (Digital Object Identifier), include it in the reference list, at the end of the citation using the short form ‘doi’ in lower case, e.g. Zufferey C, Yu N and Hand T (2020) ‘Researching home in social work’, *Qualitative Social Work*, 19(5-6):1095-1110, doi:10.1177/1473325019880244.
 
 - If the work is in a **language other than English**, put the title in the original language followed by the English translation, e.g. *Gabrielle Chanel. Manifeste de Mode (Gabrielle Chanel. Fashion manifesto)*.
+
+#### Online journal articles with no page numbers
+
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+
+If the work you are referencing does NOT contain a page range (e.g. for your reference list entry), include the article number in the place of a page range. Put the word **Article** before its identifying number (e.g. Article 12345, Article e12345).
+
+**Examples:**
+
+*Note:* Although the first example below has a volume number (518), it has no issue number, hence its omission.
+
+> Shourkaei MM (2025) 'Going beyond the business case for sustainability: main business-level shifts for pursuing strong sustainability', *Journal of Cleaner Production*, 518:Article 145905, doi:10.1016/j.jclepro.2025.145905.
+
+> Tian X, Yang T, Li Z and Liu Y (2025) 'Effects of long-term organic fertilizer and straw on soil quality and crop yield in a rapeseed–maize rotation system', *PloS one*, 20(4):Article e0322223, doi:10.1371/journal.pone.0322223.
+
+Most journal articles with an **article number**, however, will have a page range when you view the PDF version. In the reference list entry, include the page range (e.g. 1-18) as you normally would for a journal article.
+
+**Example:**
+
+*Note:* Although the example below has a volume number (28), it has no issue number, hence its omission.
+
+> Mohsin M, Ghosh T and Hoque N (2025) 'Prediction and optimization of strength and CO2 emission for geopolymer concrete mix design using machine learning', *Results in Materials*, 28:1-18, Article 100791, doi:10.1016/j.rinma.2025.100791.
+
 
 ###### end-subtype-content
 
