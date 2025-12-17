@@ -95,29 +95,29 @@ Paraphrasing is when you express the ideas of the author(s) in your own words. W
 
 *Note: When paraphrasing, the citation details can be placed at the beginning, middle or end of a sentence.*
 
-#### Citation at the beginning
+##### Citation at the beginning
 
 > Benson [1] states that thermal performance . . .
 
-#### Citation in the middle
+##### Citation in the middle
 
 > . . . not only does the shift toward multicore processors mean more improvements in CPU speed [1], but they also consume less power and produce less heat.
 
-#### Citation at the end
+##### Citation at the end
 
 > . . . and therefore the rate of heat transfer slows [1].
 
 *Note: Citations can also be structured according to whether they give prominence to the author, or to the information being conveyed.*
 
-#### Author-prominent citations
+##### Author-prominent citations
 
 > In his research on software thermal management, Benson [1] claims that . . .
 
-#### Information-prominent citations
+##### Information-prominent citations
 
 > . . . where more processors are being produced to optimise power and thermal performance [1].
 
-#### Including page numbers in a paraphrase citation
+##### Including page numbers in a paraphrase citation
 
 When paraphrasing, page numbers are not usually used as part of the citation, unless it intends to help the reader to locate the source of the information in a lengthy or complex document.
 
@@ -129,13 +129,25 @@ Direct quotes are used when you are using the exact words of the author(s). Put 
 
 > "Due to the nonlinear nature of the Law of Dynamic Power, if the demand on the processor is light, the operating frequency can be reduced to save clock cycles, reducing power and limiting heat generation" [1, p. 82].
 
-#### Citing a source with no page number(s)
+##### Citing a source, including online journal articles, with no page numbers
 
-If the work you are referencing does not contain page numbers, then use chapter numbers, section headings and paragraph numbers as part of the in-text reference.
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
+
+**Examples:**
 
 > "Many physical dynamic systems can be represented and modeled by first-order differential equations" [1, Ch. 3, para. 1].
 
-#### Omitting words from a direct quote
+> Liang et al. states that "Compared with MOSE and standard deviation, the MFE demonstrates significant advantages due to its ability to capture dynamic features across multiple time scales" [2, Comparison of results of different diagnostic methods section, para. 2].
+
+Most journal articles with an **article number**, however, will have page numbers when you view the PDF version. When directly quoting, include the page number (e.g. p. 10) as you normally would for a journal article.
+
+**Example:**
+
+> "By optimizing energy consumption and enhancing overall efficiency, EnMS contributes to a more sustainable and environmentally friendly lifestyle" [5, p. 10].
+
+##### Omitting words from a direct quote
 
 If you omit words from a direct quote, you will need to add a space followed by three ellipsis dots ( . . . ) and another space.
 
@@ -285,6 +297,27 @@ Acronyms in the reference list are to be written out in full for **corporate/org
 
 - For the place of publication, add the city, and then include the state abbreviation (if applicable) and country name, followed by the publisher and year of publication. Cities in the USA need the city name, state abbreviation and country abbreviation.
 
+##### Online journal articles with no page numbers
+
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+
+If the work you are referencing does NOT contain a page range (e.g. for your reference list entry), include the article number in the place of a page range. Put the word **Article** before its identifying number (e.g. Article 12345, Article e12345).
+
+**Examples:**
+
+*Note:* Although the example below has a volume number (151), it has no issue number, hence its omission.
+
+> [2] &nbsp;&nbsp; F. Liang, J. Hong, and X. Zhang, "Fault diagnosis of real-scenario battery systems in electric vehicles using the multi-scale fuzzy entropy algorithm," *Eng. Appl. Artif. Intell.*, vol. 151, Article 110670, Jul. 2025.
+
+> [3] &nbsp;&nbsp; J. Gao, J. Hong, and B. Huang, "One-step syntheses of face-centered cubic OsxPt1-x/C with near-zero-overpotential hydrogen evolution from electronic-state engineering," *Adv Sci (Weinh).*, vol. 12, no. 28, Article e2504161, Jul. 2025.
+
+Most journal articles with an **article number**, however, will have a page range when you view the PDF version. In the reference list entry, include the page range (e.g. pp. 1-16) as you normally would for a journal article.
+
+**Example:**
+
+*Note:* Although the example below has a volume number (230), it has no issue number, hence its omission.
+
+> [7] &nbsp;&nbsp; D. Hidellaarachchi, J. Grundy, and R. Hoda, "The role of humour in software engineering - a literature review and preliminary taxonomy," *J. Syst. Softw.*, vol. 230, pp. 1-16, Article 112560, Dec. 2025.
 
 ###### end-subtype-content
 

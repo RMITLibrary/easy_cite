@@ -89,29 +89,29 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 *Note: When paraphrasing, the citation details can be used at the beginning, middle or end of the sentence.*
 
-#### Citation at the beginning
+##### Citation at the beginning
 
 > Brophy (2010) states that student motivation . . .
 
-#### Citation in the middle
+##### Citation in the middle
 
 > . . . motivation is evident (Brophy, 2010), and as a result, can contribute significantly to achieving learning goals.
 
-#### Citation at the end
+##### Citation at the end
 
 > . . . where a number of subjective experiences can inform motivational outcomes (Brophy, 2010).
 
 *Note: Citations can also be structured according to whether they give prominence to the author (narrative), or to the information being conveyed (parenthetical).*
 
-#### Narrative citations
+##### Narrative citations
 
 > In his research, Brophy (2010) argues that . . .
 
-#### Parenthetical citations
+##### Parenthetical citations
 
 > . . . findings are based on the qualitative study of behavioural learning (Brophy, 2010).
 
-#### Including page numbers in a paraphrase citation
+##### Including page numbers in a paraphrase citation
 
 When paraphrasing, page numbers may also be included as part of the citation, especially if it helps the reader to locate the source of the information in a lengthy document.
 
@@ -125,13 +125,25 @@ Direct quotes are used when you are using the exact words of the author(s). Put 
 
 > “Student motivation to learn can be viewed as either a general disposition or a situation-specific state” (Brophy, 2010, p. 12).
 
-#### Citing a source with no page number(s)
+##### Citing a source, including online journal articles, with no page numbers
 
-If the work you are referencing does NOT contain page numbers, then use paragraph numbers, chapter numbers or section headings as part of the in-text reference.
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
 
-> "As the national peak body for early childhood, ECA is a regular, and trusted, contributor to the public policy debate on all matters affecting young children (birth to eight years) and their families" (Early Childhood Australia, 2016, Advocacy section, para. 1).
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
 
-#### Omitting words from a direct quote
+**Examples:**
+
+> "As the national peak body for early childhood, ECA is a regular, and trusted, contributor to the public policy debate on all matters affecting young children (birth to eight years) and their families." (Early Childhood Australia, 2016, Advocacy section, para. 1).
+
+> "While core topics covered during didactic curricula (e.g., ethics, inclusive language) are important, a balance of didactic, experiential, and fieldwork curricula is essential to optimize genetic counseling training." (Miller et al., 2025, Discussion section, para. 3).
+
+Most journal articles with an **article number**, however, will have page numbers when you view the PDF version. When directly quoting, include the page number (e.g. p. 5) as you normally would for a journal article.
+
+**Example:**
+
+> "Elite sport has seen a similar shift toward systemic strategies that emphasise organisational policies, integrated care models, and multi- level interventions to protect athlete well-being." (Vella & Rice, 2025, p. 5).
+
+##### Omitting words from a direct quote
 
 If you omit words from a direct quote, you will need to add a space followed by three ellipsis dots (. . .) and another space.
 
@@ -377,7 +389,7 @@ When citing in-text, include the author first name initial(s) followed by their 
 
 - The reference list must be double-spaced and each entry should have a hanging indent on the second and subsequent lines (if applicable).
 
-- Italicise all book titles, journal titles, volume numbers, titles of newspapers and titles of webpages and websites.
+- Italicise all book titles, journal titles, volume numbers, titles of newspapers and titles of webpages. Names of websites should NOT be italicised.
 
 - Present both DOIs and URLs as hyperlinks. The default display settings for hyperlinks in your word-processing program (e.g., usually blue font, underlined) or plain text that is not underlined is acceptable.
 
@@ -392,6 +404,28 @@ The recommended DOI format should appear in your reference list as:
 If no DOI is assigned, include the journal’s **homepage URL** instead.
 
 *Note: There is no full stop after the URL*
+
+#### Online journal articles with no page numbers
+
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+
+If the work you are referencing does NOT contain a page range (e.g. for your reference list entry), include the article number in the place of a page range. Put the word **Article** before its identifying number (e.g. Article 12345, Article e12345).
+
+**Examples:**
+
+*Note:* Although the examples below have a volume number (34 and 9), they have no issue number, hence their omission.
+
+> Miller, A., Kuhl, A., Sullivan, R., Reiser, C., & Petty, E. M. (2025). Genetic counseling training program perspectives on delivering disability‐related education. *Journal of Genetic Counseling*, *34*, Article e70070. https://doi.org/10.1002/jgc4.70070
+
+> Connolly, A., Matthews, A., & Kirwan, M. (2025). Nurses' and older patients' perspectives on missed nursing care contextualised within the Fundamentals of Care Framework: a cross-sectional survey. *International Journal of Nursing Studies Advances*, *9*, Article 100452. https://doi.org/10.1016/j.ijnsa.2025.100452
+
+Most journal articles with an **article number**, however, will have a page range when you view the PDF version. In the reference list entry, include the page range (e.g. 1-10) as you normally would for a journal article.
+
+**Example:**
+
+*Note:* Although the example below has a volume number (83), it has no issue number, hence its omission.
+
+> Vella, S. A., & Rice, S. (2025). Mental health in sport: opportunities for the future of recreational and elite sport psychology. *Psychology of Sport and Exercise*, *83*, 1-10, Article 103021. https://doi.org/10.1016/j.psychsport.2025.103021
 
 ###### end-subtype-content
 
