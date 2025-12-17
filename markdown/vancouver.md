@@ -780,7 +780,7 @@ Acknowledge the author in the same way as a paraphrase, with the addition of the
 
 Most journal articles with an article number or e-number instead of a page range will have page numbers when you view the PDF version. Include the page number as you normally would for a journal article. That is, the in-text source number is followed by a space, then the lower case letter 'p' with no space or punctuation before the page number.
 
-##### Examples [Block quote]:
+##### Examples:
 
 > "During the perimenopausal and postmenopausal phases, exercise training remains essential for health promotion, playing a crucial role in preventing chronic diseases and preserving bodily functionality." <sup>1 p5</sup>
 
