@@ -57,7 +57,7 @@
 
 - Confirm referencing requirements with your lecturer.
 
-- Use The Chicago Manual of Style. 18th ed. Chicago: University of Chicago Press, 2017 to clarify referencing rules or if you need more examples. This guide is based on This guide is based on the Chicago Manual of Style 18th edition <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1vrd2be/alma9922622812201341" target="_blank">The Chicago manual of style. 18th edition.</a> (opens in a new tab).
+- Use The Chicago Manual of Style. 18th ed. Chicago: University of Chicago Press, 2024 to clarify referencing rules or if you need more examples. This guide is based on This guide is based on the Chicago Manual of Style 18th edition <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1vrd2be/alma9922622812201341" target="_blank">The Chicago manual of style. 18th edition.</a> (opens in a new tab).
 
 The University of Chicago has developed several editions of the Chicago Manual of Style to aid authors in the preparation of manuscripts, which include referencing styles.
 
