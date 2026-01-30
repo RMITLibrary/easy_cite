@@ -157,7 +157,7 @@ Use a reference list to include all of the publications you have cited at the en
 
 - If the article/ebook/online source can only be accessed with an account login, provide the web address of the publisher's homepage or provide the database name.
 
-- If there are four or more authors, you may list up to ten in the reference list. For more than ten authors, list the first seven in the reference list, followed by et al. See further advice on multiple authors in the Multiple Author section of this guide.
+- List up to six authors in a bibliography or reference list entry; if more than six, only the first three are listed, followed by “et al.”. See further advice on multiple authors in the Multiple Author section of this guide.
 
 ###### end-subtype-content
 
@@ -176,7 +176,7 @@ Use a reference list to include all of the publications you have cited at the en
 
 List two authors in both the citation and the reference list. 
 
-If directly quoting from a source without a page number, use a paragraph number instead.
+If directly quoting from a source without a page number, use a paragraph number or section heading instead.
 
 **Use a page number for direct quotes. You don’t need a page number or paragraph number when paraphrasing.**
 
@@ -313,7 +313,7 @@ Hitchcock, Alfred. 2001. “Crop Duster Attack,” *North by Northwest*, DVD. Di
 
 Lester, Paul Martin. 2020. *Visual Communication: Images with Messages*. 8th ed. Lex Publishing.
 
-Miller, Barbara. "New Face set to keep Austrian Conservatives in Power." *Lateline*. Australian Broadcasting Corporation. Thursday October 12, 2017. Television broadcast.
+Miller, Barbara. 2017. "New Face set to keep Austrian Conservatives in Power." *Lateline*. Australian Broadcasting Corporation. Thursday October 12, 2017. Television broadcast.
 
 Nelson, Renae S., and Philippe Valadon. 2017. "A Universal Phage Display System for the Seamless Construction of Fab Libraries." *Journal of Immunological Methods* 450:41-49. doi: 10.1016/j.jim.2017.07.011.
 
@@ -1255,7 +1255,7 @@ Include an accessed date and URL/ Database name for online scores.
 <!-- first accordion item -->
 ###### start-subtype-content
 
-- Chicago requires an access date in citations of websites and other sources consulted online only if no date of publication or revision can be determined from the source (see 14.12 of the Chicago Manual). In those cases that is, when only an access date is used record n.d. as the date of publication in the reference list entry and for the in-text citation. To avoid conflation with the name of the author, n.d. is always lowercase.
+- Chicago requires an access date in citations of websites and other sources consulted online only if no date of publication or revision can be determined from the source (see 14.104 of the Chicago Manual). In those cases that is, when only an access date is used record n.d. as the date of publication in the reference list entry and for the in-text citation. To avoid conflation with the name of the author, n.d. is always lowercase.
 
 - Websites are created by individuals, companies, governments and other organisations. If no individual author is identified, use the organisation name as the author. If no organisation is identified either, use the webpage title in the place of the author name.
 
@@ -1277,11 +1277,11 @@ Include an accessed date and URL/ Database name for online scores.
 
 #### Reference list
 
-{.hanging-indent}Author. Year. "Title of Webpage." Website name (owning organisation). Date viewed/accessed. URL. {/.hanging-indent}
+{.hanging-indent}Author. Year. "Title of Webpage." Website name (owning organisation). Month/day of publication OR Date viewed/accessed. URL. {/.hanging-indent}
 
-> {.hanging-indent}Alliance for Linguistic Diversity. n.d. “Balkan Romani.” Endangered Languages. Accessed April 6, 2016. http<nolink>://www.endangeredlanguages.com/lang/5342. {/.hanging-indent}
+> {.hanging-indent}Alliance for Linguistic Diversity. n.d. “Balkan Romani.” Endangered Languages. April 6. http<nolink>://www.endangeredlanguages.com/lang/5342. {/.hanging-indent}
 > {.hanging-indent}Australian Society for Indigenous Languages. n.d. "Supporting Indigenous Language Communities." Australian Society for Indigenous Languages. Accessed July 26, 2018. http<nolink>://www.ausil.org.au/. {/.hanging-indent}
-> {.hanging-indent}Scrubt, Mark. 2017. "Iceberg Palace: Halo House." ArchitectureAU. Accessed September 30, 2017. https<nolink>://architectureau.com/articles/halo-house/. {/.hanging-indent}
+> {.hanging-indent}Scrubt, Mark. 2017. "Iceberg Palace: Halo House." ArchitectureAU. September 30. https<nolink>://architectureau.com/articles/halo-house/. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1360,13 +1360,13 @@ If directly quoting from a source without a page number, use a paragraph number 
 
 #### Reference list
 
-{.hanging-indent}Author Family Name, Given Name. Year Posted. "Title of Blog Post." *Title of Blog* (blog). Month day, year posted. Accessed Month day, Year. URL. {/.hanging-indent}
+{.hanging-indent}Author Family Name, Given Name. Year Posted. "Title of Blog Post." *Title of Blog* (blog). Month day, year posted OR Accessed Month day, Year. URL. {/.hanging-indent}
 
 The word **blog** is added in brackets after the title of the blog, unless the word blog is part of the title.
 
-> {.hanging-indent}“Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. *State Library of Victoria Blog*. June 26, 2017. Accessed April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt. {/.hanging-indent}
-> {.hanging-indent}Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue* (blog). May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
-> {.hanging-indent}Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs*. January 28, 2022. Accessed April 12, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams. {/.hanging-indent}
+> {.hanging-indent}“Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. *State Library of Victoria Blog*. June 26, 2017. April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt. {/.hanging-indent}
+> {.hanging-indent}Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue* (blog). Accessed May 28, 2021. . https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
+> {.hanging-indent}Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs*. January 28, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams. {/.hanging-indent}
 
 ###### end-subtype-content
 
