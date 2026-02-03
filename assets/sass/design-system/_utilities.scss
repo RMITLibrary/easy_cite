@@ -1,0 +1,74 @@
+//Used to hide links that we don't want at xs and sm breakpoints
+.hide-sm {
+	@include media-breakpoint-down(md) {  display: none !important; }
+}
+
+.hide-md {
+	@include media-breakpoint-down(lg) {  display: none !important; }
+}
+
+.hide-lg {
+	@include media-breakpoint-down(xl) {  display: none !important; }
+}
+
+.no-border-top {
+	border-top: 0 !important;
+}
+
+.no-border-bottom {
+	border-bottom: 0 !important;
+}
+
+@include color-mode(dark) {
+	iframe {
+		//drop the contrast in dark mode to reduce eye strain.
+		//once embedded content has a preoper dark mode, this could be removed
+        filter: brightness(0.9) contrast(0.9);
+    }
+}
+
+
+@mixin carat ($prop: content) {
+	#{$prop}: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23E61E2A'%3e%3cpath fill-rule='evenodd' d='M9.33329 11C9.7065 11 10.0765 11.1557 10.3399 11.4585L16.0063 17.9844L21.661 11.4713C22.144 10.9158 22.9864 10.8561 23.5409 11.3391C24.0965 11.8221 24.1562 12.6635 23.6742 13.219L17.0129 20.8912C16.5075 21.4745 15.5062 21.4755 14.9997 20.8912L8.32668 13.2073C7.84364 12.6517 7.90335 11.8093 8.45891 11.3274C8.71162 11.1077 9.02299 11 9.33329 11Z'/%3e%3c/svg%3e");
+}
+
+@mixin carat-white ($prop: content) {
+	#{$prop}: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M9.33329 11C9.7065 11 10.0765 11.1557 10.3399 11.4585L16.0063 17.9844L21.661 11.4713C22.144 10.9158 22.9864 10.8561 23.5409 11.3391C24.0965 11.8221 24.1562 12.6635 23.6742 13.219L17.0129 20.8912C16.5075 21.4745 15.5062 21.4755 14.9997 20.8912L8.32668 13.2073C7.84364 12.6517 7.90335 11.8093 8.45891 11.3274C8.71162 11.1077 9.02299 11 9.33329 11Z'/%3e%3c/svg%3e");
+}
+
+@mixin carat-dark ($prop: content) {
+	#{$prop}: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='%23e6656c'%3e%3cpath fill-rule='evenodd' d='M9.33329 11C9.7065 11 10.0765 11.1557 10.3399 11.4585L16.0063 17.9844L21.661 11.4713C22.144 10.9158 22.9864 10.8561 23.5409 11.3391C24.0965 11.8221 24.1562 12.6635 23.6742 13.219L17.0129 20.8912C16.5075 21.4745 15.5062 21.4755 14.9997 20.8912L8.32668 13.2073C7.84364 12.6517 7.90335 11.8093 8.45891 11.3274C8.71162 11.1077 9.02299 11 9.33329 11Z'/%3e%3c/svg%3e");
+}
+
+@mixin mag-glass {
+    content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26 26' fill='%23fff'%3e%3cpath d='M26 24.7152L18.2522 17.0455C21.8 12.7856 21.3825 6.47376 17.3048 2.72326C13.2271 -1.02725 6.93433 -0.887297 3.02572 3.04082C-0.88289 6.96895 -1.02215 13.2932 2.70973 17.3912C6.44161 21.4893 12.7221 21.9088 16.9609 18.3433L24.7087 26L26 24.7152ZM10.5044 18.9403C5.84741 18.9403 2.07218 15.1462 2.07218 10.466C2.07218 5.78575 5.84741 1.99168 10.5044 1.99168C15.1614 1.99168 18.9366 5.78575 18.9366 10.466C18.9332 12.7282 18.0313 14.8955 16.4312 16.4867C14.831 18.0778 12.6649 18.961 10.414 18.9403H10.5044Z'/%3e%3c/svg%3e");
+
+    width: 26px;
+    height: 26px;
+}
+
+//Scrolls the content wrapped within horizontally. Useful for wide content (equations, diagrams)
+.hscroll {
+	overflow-x: auto; 
+	-webkit-overflow-scrolling: touch;
+	//width: calc(100% + 0.75rem);	//push the content right to the edge
+
+	// background: linear-gradient(to right, transparent calc(100% - 2rem), $body-bg);
+	// -webkit-mask-image: linear-gradient(to right, black calc(100% - 2rem), transparent);
+	// mask-image: linear-gradient(to right, black calc(100% - 2rem), transparent);
+	
+	// &.on-backing {
+	// 	background: linear-gradient(to right, transparent calc(100% - 2rem), $underlay-grey);
+	// }
+}
+
+// Custom classes to set minimum widths for elements.
+// Useful when used with horizontal scrolling for responsive design (ie hscroll class above).
+// Based on Bootstrap's responsive breakpoints for consistency.
+
+.min-width-xs { min-width: 20rem; }  // Equivalent to 320px
+.min-width-sm { min-width: 36rem; }  // Equivalent to 576px
+.min-width-md { min-width: 48rem; }  // Equivalent to 768px
+.min-width-lg { min-width: 62rem; }  // Equivalent to 992px
+.min-width-xl { min-width: 75rem; }  // Equivalent to 1200px
+.min-width-xxl { min-width: 125rem; } // Custom size, equivalent to 2000px

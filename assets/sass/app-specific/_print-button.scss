@@ -1,0 +1,28 @@
+.print-buttons-wrapper {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+
+  // @include media-breakpoint-down(sm) {
+  //   flex-direction: column;
+  // }
+}
+
+.btn-group-tools,
+.btn-group-nav {
+  .btn {
+    margin: 0;
+  }
+}
+
+.btn-group-tools {
+  @include do-space(margin-top, sm);
+
+  display: flex;
+  gap: 1.5rem;
+  flex-direction: column;
+
+  @include media-breakpoint-up(sm) {
+    flex-direction: row;
+  }
+}

@@ -9,12 +9,12 @@
 <!-- add additional style guides if needed -->
 ###### start-style-menu
 # Using Easy Cite
-# RMIT Harvard
 # AGLC4
 # APA 7<sup>th</sup> ed.
 # Chicago A
 # Chicago B
 # IEEE
+# RMIT Harvard
 # Vancouver
 ###### end-style-menu
 
@@ -32,6 +32,7 @@
 ## Reports, standards and patents
 ## Images
 ## Other sources
+## Indigenous knowledges
 ## AI-generated content
 ###### end-type-menu
 
@@ -61,12 +62,13 @@
 
 The University of Chicago has developed several editions of the Chicago Manual of Style to aid authors in the preparation of manuscripts, which include referencing styles.
 
-There are two systems outlined by the Chicago referencing style: **Author-Date** (Chicago B) and **Notes-Bibliography** (Chicago A).
+This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341">The Chicago Manual of Style 17th edition</a>. Please refer to this manual if you need more examples than those included in this guide, or if you need clarification. 
 
-This guide use examples in the **author-date** system. The author-date system requires in-text citations within the assignment, along with a full bibliographic entry in the reference list at the end of the assignment.
+There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **author-date** format.  
 
 For examples and advice regarding **Notes-Bibliography** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago A: Notes and Bibliography 18th ed.](index.php?styleguide=styleguide-4#stn-0).
 
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
 ###### end-subtype-content
 
@@ -81,9 +83,9 @@ For examples and advice regarding **Notes-Bibliography** of Chicago, please see 
 
 - Use in-text citations to acknowledge each author or source of information used within your writing either by paraphrasing or using a direct quote.
 
-- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/content/paraphrasing" target="_blank">Learning lab: Guide to paraphrasing</a> (opens in a new tab)
+- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/referencing/paraphrasing/">Learning Lab: Paraphrasing</a> 
 
-- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/content/inserting-references" target="_blank">Learning Lab: Guide to inserting references</a> (opens in a new tab)
+- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/referencing/quoting/">Learning Lab: Quoting</a> 
 
 - For specific advice on each reference you must determine the type of resource ie. book, journal article etc. and follow the recommended advice within this guide.
 
@@ -123,6 +125,24 @@ For examples and advice regarding **Notes-Bibliography** of Chicago, please see 
 - If an author has published multiple works in the same year, alphabetise the titles in the reference list and then add a, b, c, etc. to the year. (Example: Dickens 2008a) (Dickens 2008b).
 
 - To cite more than one reference in a single in-text citation, separate the citations by semicolons. Example: (Dickens 2008; Lee 1998) If the works are by the same author, use just the year and separate with a comma.
+
+#### Citing a source, including online journal articles, with no page numbers
+
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in your in-text ciation such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
+
+As page numbers or alternative page locators are NOT required in the reference list, omit them from the reference list.
+
+**Example:**
+
+> "What is particularly striking about this example is the assumption that ephemera could act as a shorthand for place-based experience" (Francis 2025, under "Ephemera as Gateway").
+
+Most journal articles with an **article number**, however, will have page numbers when you view the PDF version. When directly quoting, include the page number (e.g. 4) as you normally would for a journal article.
+
+**Example:**
+
+> "The importance of defect detection and classification in fine art preservation is paramount for conserving cultural heritage" (Nordin et al. 2025, 4).
 
 ###### end-subtype-content
 
@@ -340,6 +360,8 @@ Tudor, Ken. 2015. "Protecting Pets in Abusive Human Relationships." *The Daily V
 ###### end-subtype
 
 ###### end-type-content
+
+
 
 
 <!-- Books - links to the second type menu item -->
@@ -1764,12 +1786,12 @@ Create the reference list entry according to the rules for the source. List auth
 
 ##### Example 1
 
-> ![Sample image](images/Design-for-Coach-no.3022.jpg)
+> ![Sample image](images/Design-for-Coach-no.3022.webp)
 > {.figure-text}Figure 1. Author unknown, *Design for Coach: no. 3022*, 1874. Pen and black ink, watercolor and gouache with gum arabic, 18.1 x 24.8 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/378235. {/.figure-text}
 
 ##### Example 2
 
-> ![Sample image](images/Dragon_tapestry.jpg)
+> ![Sample image](images/Dragon_tapestry.webp)
 > {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?.  {/.figure-text}
 
 Or if located in a book  
@@ -1785,7 +1807,7 @@ Make sure you refer to the figure in your writing and include the figure number.
 #### Captions for your own Work
 
 - Images you create of your own work are not usually referenced. However, a caption such as “Figure 2. Illustration by author” or “Figure 3. Draft sketches” might be appropriate when other images in your assignment are referenced.
-- See <a href="https://www.lib.rmit.edu.au/easy-cite/?styleguide=styleguide-5#stn-9#subtype-44">AI-generated content</a> for examples of how to caption an image you produce using an AI tool.
+- See **AI-generated content** in this style guide for examples of how to caption an image you produce using an AI tool.
 
 Figure number. Description or explanation.
 
@@ -1793,11 +1815,11 @@ Figure number. Description or explanation.
 
 #### Copyright information for the coach image
 
-This <a href="https://www.metmuseum.org/art/collection/search/378235" target="_blank">coach image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
+This <a href="https://www.metmuseum.org/art/collection/search/378235">coach image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
 #### Copyright information for the tapestry image
 
-This <a href="https://www.metmuseum.org/art/collection/search/39733" target="_blank">Dragon tapestry image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
+This <a href="https://www.metmuseum.org/art/collection/search/39733">Dragon tapestry image</a> (opens in a new tab) was sourced from the website of the Met museum where it is listed as Open access: Public domain.
 
 ###### end-subtype-content
 
@@ -2259,6 +2281,43 @@ When the document is labelled PhD dissertation, use the abbreviation PhD diss.
 ###### end-type-content
 
 
+<!-- Indigenous knowledges -->
+###### start-type-content
+<!-- -->
+
+<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
+###### start-subtype
+<!-- start SUB_TYPE-ITEM - accordion item -->
+<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+
+### Indigenous knowledges: general advice
+<!-- the first accordion item must have this comment as shown in the line below -->
+<!-- first accordion item -->
+
+###### start-subtype-content
+
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+
+**Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
+
 <!-- AI-generated content - links to the tenth type menu item -->
 ###### start-type-content
 
@@ -2293,7 +2352,7 @@ Some generative AI tools are not connected to the internet and are trained on da
 -   While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 -   The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
 
-The  [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/content/artificial-intelligence-tools)  has more information on how these AI tools work, and some points to consider when using them.
+The  [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/)  has more information on how these AI tools work, and some points to consider when using them.
 
 ##### Copyright and non-human authors
 
@@ -2425,7 +2484,7 @@ Follow the [caption rules for your own work](https://www.lib.rmit.edu.au/easy-ci
 
 ##### Example
 
-> ![Two students studying in a park](images/Firefly-two-students-studying-in-a-park-in-the-sunshine-16158.jpg)<br>
+> ![Two students studying in a park](images/Firefly-two-students-studying-in-a-park-in-the-sunshine-16158.webp)<br>
 > Figure 1. Artwork created using Adobe Firefly in response to the prompt: two students studying in a park in the sunshine.
 
 

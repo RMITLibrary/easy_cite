@@ -1,0 +1,75 @@
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import 'bootstrap/functions';
+
+// 2. Create colour variables, override bootstrap defaults, dark mode mapping
+@import 'design-system/colour';
+
+$link-hover-decoration: none;
+
+/* START TYPOGRAPHY variables */
+
+@font-face {
+  font-family: 'Museo700';
+  src: url('https://rmitlibrary.github.io/cdn/fonts/museo-700.woff2') format('woff');
+}
+
+$font-family-sans-serif:
+  'Helvetica Neue',
+  Arial,
+  system-ui,
+  -apple-system,
+  'Segoe UI',
+  Roboto,
+  'Noto Sans',
+  'Liberation Sans',
+  sans-serif,
+  'Apple Color Emoji',
+  'Segoe UI Emoji',
+  'Segoe UI Symbol',
+  'Noto Color Emoji';
+
+$font-family-serif: 'Museo700', Museo700, serif;
+
+$lead-font-weight: 500;
+$enable-rfs: false; //turn off responsive font scaling
+
+$accordion-border-radius: 0;
+
+@import 'bootstrap/bootstrap';
+
+// 3. Add additional custom code here
+
+//Everything that doesn't fit elsewhere
+@import 'design-system/utilities';
+
+//Visual language
+@import 'design-system/space';
+@import 'design-system/typography';
+@import 'design-system/links';
+@import 'design-system/focus';
+@import 'design-system/forms';
+
+//Simple components
+@import 'design-system/button';
+@import 'design-system/button-icon';
+@import 'design-system/accordion';
+@import 'design-system/blockquote';
+@import 'design-system/table';
+
+//Complex components
+@import 'design-system/footer';
+@import 'design-system/breadcrumbs';
+@import 'design-system/navigation';
+@import 'design-system/top-nav';
+@import 'design-system/video-image';
+
+@import 'design-system/layout';
+
+@import 'design-system/theme-switcher';
+
+// 4. Styles specific to documentation go here (might be worth having a completely seperate stylesheet)
+
+@import 'app-specific/easy-cite';
+@import 'app-specific/print-button';
+@import 'app-specific/chat-bot';
+@import 'app-specific/theme-switcher';

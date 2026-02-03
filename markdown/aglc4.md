@@ -9,12 +9,12 @@
 <!-- add additional style guides if needed -->
 ###### start-style-menu
 # Using Easy Cite
-# RMIT Harvard
 # AGLC4
 # APA 7<sup>th</sup> ed.
 # Chicago A
 # Chicago B
 # IEEE
+# RMIT Harvard
 # Vancouver
 ###### end-style-menu
 <!-- -->
@@ -31,6 +31,7 @@
 ## Online sources
 ## Audio visual material
 ## Other sources
+## Indigenous knowledges
 ## AI-generated content
 ###### end-type-menu
 <!-- -->
@@ -51,14 +52,13 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: This is a guide only**. To avoid losing marks:
+The AGLC4 (Australian Guide to Legal Citation 4th edition) is the official legal citation guide in Australia and is widely used by legal practitioners, law students and academics. The AGLC4 is the required referencing style for students enrolled in law programs within RMIT’s Graduate School of Business and Law. 
 
--	Confirm referencing requirements of your school with your lecturer.
+The AGLC4 is a **footnote** referencing style. **Superscript numbers** <sup>1,3,6</sup> represent in-text citations, and the details are included in a **footnote** at the end of each page. Where a bibliography is required, it should list all the citations used and other sources that were relied upon, organised **alphabetically** in sections and placed at the end of your document. 
 
--	The Australian Guide to Legal Citation (AGLC) 4th ed, 2018 is a required referencing style for students enrolled in the Juris Doctor program at RMIT University.
+The AGLC4 style is a collaboration between the *Melbourne University Law Review* and the *Melbourne Journal of International Law*. The official AGLC4 publication, which this guide is based on, is freely available to view and download from the <a href="https://law.unimelb.edu.au/mulr/aglc/about">publisher’s website</a> (click on *Download the view-only PDF version* option). 
 
--	Use <a href="https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf" target="_blank">*Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018)</a> (opens in a new tab), published by Melbourne University Law Review Association Inc. to clarify referencing rules or if you need more examples. This guide is based on this publication.
-
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
 
 ###### end-subtype-content
 
@@ -106,7 +106,7 @@ A pinpoint reference within a footnote directs the reader to a particular place 
 
 -	A pinpoint reference is provided at the end of the footnote.
 
-See section 3.1.4 of the <a href="https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf" target="_blank">AGLC4</a> (opens in a new tab)  for a full list of abbreviations used in pinpoint references for legislative materials.
+See section 3.1.4 of the <a href="https://www.mulr.com.au/aglc/AGLC4-2021-v1.pdf">AGLC4</a> (opens in a new tab)  for a full list of abbreviations used in pinpoint references for legislative materials.
 
 #### Repeat citations
 
@@ -215,11 +215,10 @@ Board of Examiners, *Admission Requirements* (18 February 2010) Council of Legal
 
 ###### end-subtype-item
 
-
-
 ###### end-subtype
 
 ###### end-type-content
+
 
 
 <!-- Case law - links to the second type menu item -->
@@ -295,9 +294,9 @@ Example of a pinpoint reference to a paragraph
 
 #### Law report abbreviations
 
-Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the <a href="https://guides.lib.monash.edu/legal-abbreviations" target="_blank">Monash University website</a> (opens in a new tab).
+Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the <a href="https://guides.lib.monash.edu/legal-abbreviations">Monash University website</a> (opens in a new tab).
 
-Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/" target="_blank">Cardiff University database</a> (opens in a new tab).
+Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/">Cardiff University database</a> (opens in a new tab).
 
 ###### end-subtype-content
 
@@ -367,9 +366,9 @@ A pinpoint reference is a reference to a specific page, paragraph or other secti
 > <sup>1</sup> *Stanford v Stanford* [2012] HCA 52 (15 November 2012) [12].
 
 #### Law report abbreviations
-Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the <a href="https://guides.lib.monash.edu/legal-abbreviations" target="_blank">Monash University website</a> (opens in a new tab).
+Legal abbreviations for Australian and international law reports, law journals, legal organisations, courts, etc. can be accessed via the <a href="https://guides.lib.monash.edu/legal-abbreviations">Monash University website</a> (opens in a new tab).
 
-Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/" target="_blank">Cardiff University database</a> (opens in a new tab).
+Legal abbreviations for English language legal publications, from the British Isles, the Commonwealth and the United States can be accessed via the <a href="http://www.legalabbrevs.cardiff.ac.uk/">Cardiff University database</a> (opens in a new tab).
 
 ###### end-subtype-content
 
@@ -923,7 +922,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 Note: Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration" target="_blank">Assessment Declaration</a> (opens in a new tab).
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/student-essentials/assessment-and-exams/assessment/assessment-declaration">Assessment Declaration</a> (opens in a new tab).
 
 The publication, *Australian Guide to Legal Citation* (4<sup>th</sup> ed, 2018) does not provide guidelines on how to cite your own work. The following examples show how to cite your own work that you have previously submitted for assessment.
 
@@ -967,6 +966,44 @@ For example, if Geoffrey Smith wanted to cite a paper they wrote at RMIT Univers
 ###### end-type-content
 
 
+<!-- Indigenous knowledges -->
+###### start-type-content
+<!-- -->
+
+<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
+###### start-subtype
+<!-- start SUB_TYPE-ITEM - accordion item -->
+<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+
+### Indigenous knowledges: general advice
+<!-- the first accordion item must have this comment as shown in the line below -->
+<!-- first accordion item -->
+
+###### start-subtype-content
+
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+
+**Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
+
+
 <!-- AI-generated content - links to the ninth type menu item -->
 ###### start-type-content
 
@@ -1002,7 +1039,7 @@ Some generative AI tools are not connected to the internet and are trained on da
 - While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 - The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
 
-The [Learning Lab Artificial Intelligence Tools module](https://emedia.rmit.edu.au/learninglab/content/artificial-intelligence-tools) has more information on how these AI tools work, and some points to consider when using them. 
+The [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/) has more information on how these AI tools work, and some points to consider when using them. 
 
 **Copyright and non-human authors**
 
@@ -1082,7 +1119,7 @@ Include the image in your work with a caption that explains that the work was ge
 
 Example:
 
-![law student at university](images/Firefly-a-law-student-at-university-648.jpg)<br>
+![law student at university](images/Firefly-a-law-student-at-university-648.webp)<br>
 Figure 1. Image generated using Adobe Firefly from the prompt a law student at university.
 
 **How to reference AI-generated images reproduced in a published source:**

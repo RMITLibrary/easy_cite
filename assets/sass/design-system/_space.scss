@@ -1,0 +1,187 @@
+//Base units
+
+$space-xs: 1rem;    //16px
+$space-sm: 1.5rem;  //24px
+$space-md: 2rem;    //32px
+$space-lg: 2.5rem;  //40px
+$space-xl: 3rem;    //48px
+$space-xxl: 4rem;   //64px
+
+//space applied to breakpoints xsmall and small (screen width < 768px)
+$space-sm-xs:  $space-xs;   //16px
+$space-sm-sm:  $space-xs;   //16px, still
+$space-sm-md:  $space-sm;   //24px
+$space-sm-lg:  $space-md;   //32px
+$space-sm-xl:  $space-xl;   //48px
+
+//space applied to breakpoints medium through xxlarge (screen width ≥ 768px)
+$space-md-xs:  $space-xs;   //16px
+$space-md-sm:  $space-sm;   //24px
+$space-md-md:  $space-md;   //32px
+$space-md-lg:  $space-lg;   //40px
+$space-md-xl:  $space-xxl;  //64px
+
+
+/* 
+do-space takes a property and a bootstrap spacing unit 
+(xs, sm, md, lg, xl or zero for no space) then applies 
+different values at breakpoints as described above 
+
+@include do-space(margin-top, xl);
+*/
+
+@mixin do-space($style, $size, $important: not-impotant) {
+    
+    //default is xs if size doesn't match anything
+    $small-size: $space-sm-xs;
+    $large-size: $space-md-xs;
+   
+    @if $size == sm {
+        $small-size: $space-sm-sm;
+        $large-size: $space-md-sm;
+    }  
+    @else if $size == md {
+        $small-size: $space-sm-md;
+        $large-size: $space-md-md;
+    } 
+    @else if $size == lg {
+        $small-size: $space-sm-lg;
+        $large-size: $space-md-lg;
+    }
+    @else if $size == xl {
+        $small-size: $space-sm-xl;
+        $large-size: $space-md-xl;
+    }
+    @else if $size == zero {
+        $small-size: 0;
+        $large-size: 0;
+    }
+    
+    //xsmall and small breakpoints
+    @if $important == important { #{$style}: $small-size !important; }
+    @else { #{$style}: $small-size; }
+    
+    //other breakpoints
+    @include media-breakpoint-up(md) {    
+        @if $important == important { #{$style}: $large-size !important; }
+        @else { #{$style}: $large-size; }
+    }
+    
+}
+
+/* 
+The following classes offer inline margin and padding adjustments 
+while retaining the responsive system set up above.
+
+Currently only margin top, margin bottom, padding top and padding bottom
+offered. Append a bootstrap size unit on the end to get the desired spacing.
+
+<p class="margin-top-xl">
+<p class="margin-lg-xl">
+<p class="padding-top-lg">
+<p class="padding-bot-zero">
+
+*/
+
+@mixin set-prop($rule, $prop) {  
+    &-xs {
+        @extend #{$rule};
+        @include do-space($prop, xs, important);
+    }
+    &-sm {
+        @extend #{$rule};
+        @include do-space($prop, sm, important);
+    }
+    
+    &-md {
+        @extend #{$rule};
+        @include do-space($prop, md, important);
+    }
+    
+    &-lg {
+        @extend #{$rule};
+        @include do-space($prop, lg, important);
+    }
+    
+    &-xl {
+        @extend #{$rule};
+        @include do-space($prop, xl, important);
+    } 
+    
+    &-zero {
+        @extend #{$rule};
+        @include do-space($prop, zero, important);
+    }
+}
+
+.margin-top {
+    @include set-prop(".margin-top", margin-top);
+}
+
+.margin-bot {
+    @include set-prop(".margin-bottom", margin-bottom);
+}
+
+.margin-bottom {
+    @include set-prop(".margin-bottom", margin-bottom);
+}
+
+.margin-left {
+    @include set-prop(".margin-left", margin-left);
+}
+
+.margin-right {
+    @include set-prop(".margin-right", margin-right);
+}
+
+.padding-top {
+    @include set-prop(".padding-top", padding-top);
+}
+
+.padding-bot {
+    @include set-prop(".padding-bottom", padding-bottom);
+}
+
+.padding-bottom {
+    @include set-prop(".padding-bottom", padding-bottom);
+}
+
+/*
+Some basic hr clases to provide addiitional seperation
+*/
+
+hr {
+    @include do-space(margin-top, lg); 
+    @include do-space(margin-bottom, lg); 
+}
+
+hr.xl {
+    @include do-space(margin-top, xl); 
+    @include do-space(margin-bottom, xl);
+}
+
+$width-xl: 100%;
+$width-lg: 40rem;       //640px
+$width-md: 25rem;       //400px
+$width-sm: 18.5rem;     //296px
+$width-xs: 10rem;		//128px;
+
+.width-100-perc {
+    width: $width-xl;
+}
+
+.min-width-lg {
+    min-width: $width-lg;
+}
+
+.min-width-md {
+    width: $width-md;
+}
+
+.min-width-sm {
+    width: $width-sm;
+}
+
+.min-width-xs {
+    width: $width-xs;
+}

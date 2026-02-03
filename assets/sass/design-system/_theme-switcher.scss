@@ -1,0 +1,96 @@
+.theme-switch {
+	margin-top: 2rem; 
+	legend {
+		@extend h5;
+		margin-top: 0;
+	}
+
+	.form-check-inline:last-child { margin-right: 0rem; }
+}
+
+.theme-switch.hamburger-menu {
+	margin-top: 2rem;
+	margin-bottom: 0.75rem;
+
+	legend { color: $white; }
+
+	.bg {
+		display: inline-block;
+		color: var(--bs-body-color);
+		background-color: var(--bs-body-bg);
+
+		border-radius: 0.5rem;
+		padding: 1rem 1rem;
+
+		border: 1px solid $rmit-blue;
+		width: 100%;
+
+		@include media-breakpoint-up(md) { width: auto; }
+
+		@include media-breakpoint-up(sm) { padding: 1rem 1.5rem; }
+	}
+}
+
+.theme-switch.theme-compact {
+	margin-top: 3rem;
+	padding-top: 0.75rem;
+	border-top: 1px solid $interface-grey;
+
+	fieldset {
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+	}
+
+	legend {
+		@include type-small;
+		font-family: $font-family-sans-serif;
+		color: var(--bs-body-color);
+		width: auto;
+		margin: 0;
+		font-weight: bold;
+	}
+
+	.form-check-label { 
+		@include type-small;
+		margin-bottom: 0; 
+	}
+
+	@include media-breakpoint-up(md) {
+		fieldset {
+			flex-direction: row;
+			align-items: center;
+			gap: 2rem;
+		}
+    }
+}
+
+//Add some right margin if sitting underneath right nav
+.theme-switch.theme-right-nav {
+
+	@include media-breakpoint-up(xl) {
+		margin-left: 1.5rem;
+
+		fieldset {
+			gap: 1rem;
+		}
+
+		.form-check-inline {
+			margin-right: 1rem;
+		}
+
+		.form-check-inline:last-child { margin-right: 0rem; }
+	}
+
+	@include media-breakpoint-up(xxl) {
+		fieldset {
+			gap: 2rem;
+		}
+
+		.form-check-inline {
+			margin-right: 2rem;
+		}
+
+		.form-check-inline:last-child { margin-right: 0rem; }
+	}
+}

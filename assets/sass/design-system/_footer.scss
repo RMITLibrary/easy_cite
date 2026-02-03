@@ -1,0 +1,252 @@
+.footer-container {
+    margin-top: 6rem;
+}
+
+footer {
+    background-color: $rmit-blue;
+    color: $white;
+    @include do-space(padding-top, lg);
+    
+    a, a:hover { color: $white; } // Ensure links remain white on hover
+    a { @include default-focus('dark');}
+    
+    .logo svg {
+        width: 100px;
+        @include media-breakpoint-down(md) { margin-left: 0.75rem; }
+
+    }
+
+    @include color-mode(dark) {
+        img {
+            filter: none;
+            background-color: none;		
+        }
+    }
+    
+    
+    /* These styles differ from RMIT.edu.au to provide more space between items */
+    
+    .footerlegalShareItems {
+        display: flex; // Use flexbox for layout
+        border-top: 1px solid $white;
+        @include do-space(margin-top, lg); // Add margin above with large spacing
+    }
+    
+    @include media-breakpoint-down(md) {
+        .footerlegalShareItems {
+            flex-direction: column; // Change to column layout on smaller screens
+        }
+    }
+
+    .footer-legal {
+        width: 75%; // Set width for legal section
+        float: left; // Float to the left
+        font-size: 14px;
+        padding: 0 48px 0 0; // Add right padding
+        font-family: "Arial", sans-serif;
+    }
+
+    .footer-legal ul {
+        display: flex;
+        flex-wrap: wrap; // Allow items to wrap
+        align-items: center;
+        gap: 0.75rem; // Space between list items
+        list-style-type: none; // Remove bullet points
+        margin: 0;
+        padding: 24px 0 0 0; // Add top padding
+
+        @include media-breakpoint-down(md) { margin-left: 0; } // Remove left margin on smaller screens
+    }
+    
+    .footer-legal ul li {
+        align-items: center; // Center items vertically
+        padding: 0;
+        margin: 0;
+    }
+    
+    .footer-legal ul li:not(:last-child):after {
+        content: "|"; // Add separator after each item except the last one
+        padding-left: 0.75rem; // Space between content and separator
+    }
+
+    /* START Styles taken from RMIT.edu.au */
+    
+    @include media-breakpoint-down(md) {
+         .footer-legal {
+            width: 100%;
+            padding: 0;
+            order: 1;
+        }
+        
+        .footer-legal ul {
+            padding: 0;
+        }
+    }
+    
+    .social-nav {
+        width: auto;
+        float: right;
+        color: #000054;
+        position: relative;
+        margin-top: 24px;
+        margin-left: auto;
+        
+        @include media-breakpoint-down(md) {
+            order: 0;
+            margin: 16px 0;
+        }
+    }
+    
+    .social-nav ul {
+        list-style-type: none;
+        -webkit-padding-start: 0;
+        display: flex;
+        margin-top: 0;
+        margin-bottom: 0 !important;
+    }
+    
+    .social-nav li { padding-right: 12px; }
+    .social-nav li:first-child { padding-left: 0; }
+    .social-nav li:last-child { padding-right: 0; }
+    
+    .social-nav li img { width: 2rem; height: 2rem; }
+    
+    /* END Styles taken from RMIT.edu.au */
+	
+	.footer-links {
+		@include do-space(margin-top, lg);
+		margin-bottom: 2rem !important;
+		
+		padding: 0;
+		
+		font-size: 1rem;
+        font-weight: 500;
+		color: $white;
+		
+		list-style-type: none !important;
+		
+		li { 
+			padding-left: 0;
+			margin-bottom: 1rem;
+		}
+		
+		li:first-child {
+			padding-left: 0;
+		}
+		
+		 @include media-breakpoint-up(md) {
+			 
+			 margin-bottom: 2.5rem !important;
+			 
+			 li {
+				 display: inline; 
+				 padding-left: 2rem;
+			 }
+		}
+	}
+}
+
+footer * {
+    box-sizing: border-box;
+}
+
+.acknowledgement {
+    
+    padding: 3rem 0 4rem 0;
+    @include media-breakpoint-up(md) { padding: 4rem 0 5rem 0; }
+    
+    background-color: var(--bs-primary-bg-subtle);
+
+    .acknowledgement-container {
+        display: flex;
+        align-items: center;
+        gap: 3rem;
+
+        font-size: 1rem;
+
+        .content img {
+            width: 3rem;
+            height: 2rem;
+            display: inline-block;
+            margin: 0 1rem 2rem 0;
+        }
+
+        .content p { margin-bottom: 0; }
+
+        .content .img-credit {
+            display: none;
+            @include media-breakpoint-up(lg) {
+                display: inline;
+            }
+        }
+
+        .acknowledgement-image {
+            display: none;
+            @include media-breakpoint-up(lg) {
+                display: block;
+                width: 25rem;
+                flex-shrink: 0;
+
+                img {
+                    max-width: 100%;
+                    height: auto;
+                }
+            }
+        }
+    }
+}
+
+//border at the top
+.ask-container {
+	border-top: 1px solid $interface-grey;
+}
+
+.ask-the-library a {
+    @include do-space(margin-top, xl);
+	@include do-space(margin-bottom, xl);
+    @include link-feature;
+    @include default-focus;
+
+    a:hover {
+		p.lead { 
+			@include link-feature-hover;
+		}
+	}
+
+    display: flex;
+    max-width: 544px;
+    align-items: center;
+    margin-left: auto;
+	margin-right: auto;
+    gap: 1.5rem;
+
+    @media (min-width: 420px) {
+        padding: 1.5rem;
+        border: 1px solid $interface-grey;
+	    border-radius: 0.5rem;
+    }
+
+    @include media-breakpoint-up(md) {
+		
+        display: flex;
+        padding: 2rem;
+        justify-content: center;
+        align-items: center;
+        gap: 1.5rem;
+		
+	}
+
+    h2, p {
+		margin-top: 0.5rem;
+		margin-bottom: 0.5rem;
+	}
+	
+	p {
+		color: var(--bs-body-color);
+	}
+}
+
+@include color-mode(dark) {
+	//focus dark mode
+	.ask-the-library a { @include default-focus('dark'); }
+}

@@ -1,0 +1,172 @@
+//These mixins can be useful to save us repeating code
+@mixin type-small {
+    font-size: 0.8125rem;
+    @include media-breakpoint-up(md) { font-size: 0.9375rem; }
+    
+    text-wrap: pretty;
+    letter-spacing: 0.02rem;    //to increase readability
+}
+
+@mixin type-default {
+    font-size: 1rem;
+    line-height: 1.5;
+    text-wrap: pretty;
+
+    @include media-breakpoint-up(md) {
+        font-size: 1.125rem;
+    }
+}
+
+@mixin type-lead {
+    font-size: 1.125rem;
+    font-weight: 500;
+    text-wrap: pretty;
+
+    @include media-breakpoint-up(md) {
+        font-size: 1.25rem;
+    }
+}
+
+//keep default font-size at 1rem, adjust default p and body style here
+body { 
+    @include media-breakpoint-up(md) { font-size: 1.125rem; } 
+}
+
+/*
+It's debatable whether to include margin top for p, ul, ol etc.
+Worth consideringsome css trickery to remove margin if p is the first element???
+*/
+p, p.default {
+    @include media-breakpoint-up(md) { font-size: 1.125rem; } 
+    @include do-space(margin-top, xs);      //should we have margin-top?
+    @include do-space(margin-bottom, xs);
+    text-wrap: pretty;
+}
+
+small, .small {
+    @include type-small;
+}
+
+@include media-breakpoint-down(md) { 
+    .lead {  font-size: 1.125rem;  }  
+} 
+
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: $font-family-serif;
+    text-wrap: balance;
+    
+    @include do-space(margin-top, lg); 
+    
+	margin-bottom: 0.75rem;
+	@include media-breakpoint-up(md) { margin-bottom: 1rem; }
+}
+
+/* Headings - using bootstrap default sizes for h1 and h2*/
+
+// Mixin for h1
+@mixin type-h1 {
+    font-size: 2.5rem; // Default size
+    @include media-breakpoint-down(md) {
+        font-size: 2rem;
+    }
+    @include do-space(margin-bottom, sm);
+}
+
+// Mixin for h2
+@mixin type-h2 {
+    font-size: 2rem; // Default size
+    @include media-breakpoint-down(md) {
+        font-size: 1.75rem;
+    }
+}
+
+// Mixin for h3
+@mixin type-h3 {
+    font-size: 1.56rem; // 25px
+    @include media-breakpoint-down(md) {
+        font-size: 1.25rem;
+    }
+}
+
+// Mixin for h4
+@mixin type-h4 {
+    font-size: 1.25rem; // 20px
+    @include media-breakpoint-down(md) {
+        font-size: 1.125rem;
+    }
+}
+
+// Mixin for h5 and h6
+@mixin type-h5-6 {
+    font-size: 1.125rem; // 18px
+    @include media-breakpoint-down(md) {
+        font-size: 1rem;
+    }
+}
+
+// Applying mixins to headings
+h1, .h1 {
+    @include type-h1;
+}
+
+h2, .h2 {
+    @include type-h2;
+}
+
+h3, .h3 {
+    @include type-h3;
+}
+
+h4, .h4 {
+    @include type-h4;
+}
+
+h5, .h5, h6, .h6 {
+    @include type-h5-6;
+}
+
+//reduce indenting on lists
+ul, ol {
+    @include do-space(margin-top, xs);          //should we have margin-top?
+    @include do-space(margin-bottom, sm, important);		//important was here. Bootstrap seems to overwrite. Watch out for changes elsewhere
+    @include do-space(padding-left, sm); 
+	
+	//use overflow hidden to prevent lists overlapping with float: left
+	//overflow: hidden;
+}
+
+li {
+    padding-left: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+//ensure nested lists have adaquate vertical margins
+li > ul {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem !important;
+	list-style-type: square;
+}
+
+
+/*@include media-breakpoint-down(md) { 
+    
+    h1, .h1 { font-size: 2rem; }
+    h2, .h2 { font-size: 1.625rem; }
+    h3, .h3 { font-size: 1.4375rem; }
+    h4, .h4 { font-size: 1.25rem; }
+    h5, .h5 { font-size: 1.125rem; }
+    h6, .h6 { font-size: 1.125rem; }
+    
+    .lead {  font-size: 1.125rem;  }  
+} */
+
+.apa {
+    padding-left: 2rem;
+    text-indent: -2rem;
+}
+
+.nowrap, .no-wrap {
+	white-space: nowrap;
+}

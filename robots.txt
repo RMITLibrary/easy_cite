@@ -1,2 +1,7 @@
-User-Agent: * 
-Disallow: / 
+# Disallow specific directories for all bots
+User-agent: *
+Disallow: /old-preview/
+Disallow: /preview/
+Disallow: /preview-v2/
+Disallow: /archive/
+Disallow: /markdown/

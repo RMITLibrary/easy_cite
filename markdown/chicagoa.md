@@ -9,12 +9,12 @@
 <!-- add additional style guides if needed -->
 ###### start-style-menu
 # Using Easy Cite
-# RMIT Harvard
 # AGLC4
 # APA 7<sup>th</sup> ed.
 # Chicago A
 # Chicago B
 # IEEE
+# RMIT Harvard
 # Vancouver
 ###### end-style-menu
 
@@ -23,7 +23,7 @@
 <!-- the TYPE menu must use heading 2 (##) -->
 <!-- add additional style TYPES if needed -->
 ###### start-type-menu
-## Using Chicago A (footnotes)
+## Using Chicago A (notes and bibliography)
 ## Books
 ## Journals
 ## Newspapers
@@ -32,6 +32,7 @@
 ## Reports, standards and patents
 ## Images
 ## Other sources
+## Indigenous knowledges
 ## AI-generated content
 ###### end-type-menu
 
@@ -53,15 +54,13 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: this is a guide only.** To avoid losing marks:
-
-- Confirm referencing requirements with your lecturer.
+The Chicago referencing style is widely used in art, design, architecture, music, history and humanities subjects. The Chicago Manual of Style includes detailed advice on citing and referencing sources used in these disciplines, including artworks, live performances and historical sources, as well as commonly-used source types such as books, journal articles and websites. 
 
 - Use The Chicago Manual of Style. 18th ed. Chicago: University of Chicago Press, 2024 to clarify referencing rules or if you need more examples. This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1vrd2be/alma9922622812201341" target="_blank">The Chicago manual of style. 18th edition.</a> (opens in a new tab).
 
-There are two formats of referencing within the Chicago Style. One is **notes and bibliography** (Chicago A) and the other is **author-date** style (Chicago B). This guide provides examples and advice for **notes and bibliography only**. Notes and bibliography uses a numerical system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography should be included at the end of the document, preferably in alphabetical order.
+There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **notes and bibliography** format.  
 
-**Footnotes/ Endnotes** : Footnotes or endnotes are numbered and correspond to note reference numbers in the text.
+The **notes and bibliography** format uses a **numerical** system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography is included at the end of the document in **alphabetical** order. 
 
 **Bibliography** : A bibliography is the term used for a list of resources consulted (e.g. books, articles, websites) when writing an assignment.
 
@@ -114,7 +113,7 @@ The first time you cite a source in a note, include all the recommended citation
 
 - Ensure that the first line of your note is .5" from the left of the page, or 5 spaces.
 
-Example;
+**Example:**
 
 > {.footnote-indent}2. Patt, *How to Architect,* 35.{/.footnote-indent}
 
@@ -129,6 +128,30 @@ Example;
 - Ensure the first part of the short citation matches what is listed in the bibliography.
 
 - A short title is italicised or placed in "quotation marks" based on the full title.
+
+#### Citing a source, including online journal articles, with no page numbers
+
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators in the footnote such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
+
+As page numbers or alternative page locators are NOT required in the bibliography, omit them from the bibliography.
+
+**Examples (non-shortened and shortened footnote):**
+
+> {.footnote-indent}1. Jo Francis, "Ephemera and the Construction of First World War Life Writing," *Open Library of Humanities* 11, no. 2 (2025), under "Ephemera as Gateway," https<nolink>://doi.org/10.16995/olh.17161.
+
+> {.footnote-indent}2. Francis, "Ephemera and the Construction of First World War Life Writing," under "Ephemera as Gateway."
+
+Most journal articles with an **article number**, however, will have page numbers when you view the PDF version. When directly quoting, include the page number (e.g. 8) as you normally would for a journal article footnote.
+
+**Examples (non-shortened and shortened footnote):**
+
+*Note:* Although the example below has a volume number (113), it has no issue number, hence its omission.
+
+> {.footnote-indent}3. Yevhen Voronin, "Detailing Social Influence in Predicting Cinema Attendance: A Vignette Approach," *Poetics* 113 (2025), 8, https<nolink>://doi.org/10.1016/j.poetic.2025.102041.
+
+> {.footnote-indent}4. Voronin, "Detailing Social Influence in Predicting Cinema Attendance: A Vignette Approach," 8.
 
 #### Block quotations
 
@@ -225,7 +248,7 @@ Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Au
 
 Koenig, Sarah. “Season One Episode 01: The Alibi.” October 3, 2014. In *Serial*. Produced by Sarah Koenig, Julie Snyder & Dana Chivvis. Podcast, MP3 audio. 52:00. https<nolink>://serialpodcast.org/season-one/1/the-alibi.
 
-McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25,10.1177/1206331205275020.
+McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25, 10.1177/1206331205275020.
 
 Melton, Paula. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building." Building Green, 2013. https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building.
 
@@ -349,6 +372,7 @@ Refer to original source
 ###### end-subtype
 
 ###### end-type-content
+
 
 
 <!-- Books - links to the second type menu item -->
@@ -1589,7 +1613,7 @@ If the image was on a website include the URL, otherwise provide the source deta
 
 ##### Caption example
 
-> ![Image of a silk tapestry of a dragon and flowers](images/Dragon_tapestry.jpg)
+> ![Image of a silk tapestry of a dragon and flowers](images/Dragon_tapestry.webp)
 > {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers,* 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?.{/.figure-text}
 
 or if found in a book
@@ -1927,6 +1951,43 @@ Include the lecture URL if there is one available.
 ###### end-type-content
 
 
+<!-- Indigenous knowledges -->
+###### start-type-content
+<!-- -->
+
+<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
+###### start-subtype
+<!-- start SUB_TYPE-ITEM - accordion item -->
+<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+
+### Indigenous knowledges: general advice
+<!-- the first accordion item must have this comment as shown in the line below -->
+<!-- first accordion item -->
+
+###### start-subtype-content
+
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+
+**Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
+
 <!-- AI-generated content - links to the tenth type menu item -->
 ###### start-type-content
 
@@ -1961,7 +2022,7 @@ Some generative AI tools are not connected to the internet and are trained on da
 -   While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 -   The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
    
-The  [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/content/artificial-intelligence-tools)  has more information on how these AI tools work, and some points to consider when using them.
+The  [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/)  has more information on how these AI tools work, and some points to consider when using them.
 
 ##### Copyright and non-human authors
 
@@ -2064,7 +2125,7 @@ Follow the [caption rules for your own work](https://www.lib.rmit.edu.au/easy-ci
 
 ##### Example
 
-> ![Two students studying in a park](images/Firefly-two-students-studying-in-a-park-in-the-sunshine-16158.jpg)<br>
+> ![Two students studying in a park](images/Firefly-two-students-studying-in-a-park-in-the-sunshine-16158.webp)<br>
 > Figure 1. Artwork created using Adobe Firefly in response to the prompt: two students studying in a park in the sunshine.
 
 

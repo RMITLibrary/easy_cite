@@ -9,12 +9,12 @@
 <!-- add additional style guides if needed -->
 ###### start-style-menu
 # Using Easy Cite
-# RMIT Harvard
 # AGLC4
 # APA 7<sup>th</sup> ed.
 # Chicago A
 # Chicago B
 # IEEE
+# RMIT Harvard
 # Vancouver
 ###### end-style-menu
 
@@ -36,6 +36,7 @@
 ## Standards and patents
 ## Theses and dissertations
 ## Other sources
+## Indigenous knowledges
 ## AI-generated content
 ###### end-type-menu
 
@@ -56,21 +57,15 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-**Important: this is a guide only.** To avoid losing marks:
+The RMIT Harvard referencing style is based on the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/author-date">Australian Government Style Manual (AGSM)</a> that is designed for government workers in Australia. Although it is not targeted at students, Australian universities use and adapt, where necessary, the AGSM as the basis for their own version of Harvard. There is no official owner of the Harvard style, so each Australian university has their own version. The Harvard referencing style has no official affiliation to <a href="https://ask.library.harvard.edu/faq/81735">Harvard University in the USA</a>.
 
-- Please confirm the referencing requirements for your course with your lecturer.
+The RMIT Harvard style is an **author-date** system. It requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of your document, sources appear in **alphabetical** order of author last name.
 
-- Use the <a href="https://www.stylemanual.gov.au/referencing-and-attribution" target="_blank">**Referencing and attribution**</a> (opens in a new tab) section of the *Australian Government Style Manual (AGSM)* released in 2021, to clarify referencing rules or if you need more examples. The RMIT Harvard guide is based on this publication.
+RMIT Harvard is highly similar to the APA 7th referencing style, so APA 7th is a great alternative to RMIT Harvard.
 
-RMIT Harvard is an author-date referencing style based on the **Author-date** referencing style of the AGSM.
+**Note:** Although the AGSM states that the title of online sources should be hyperlinked for electronic formats, the RMIT Harvard style does **not** do this because hyperlinked titles are not compatible with the EndNote program. In addition, the links would not be available when the work is printed.
 
-RMIT Harvard style requires in-text citations and the reference list.
-
-**In-text citations** appear within the body of the document. They include the author’s family name or name of the organisation responsible for the information source and the year of publication, with page numbers required for quotes if available.
-
-**A reference list** provides the full bibliographic details of all in-text citations at the end of the assignment.
-
-**Note:** Although the AGSM states that the title of online sources should be hyperlinked for electronic formats, RMIT Harvard style does not do this because hyperlinked titles are not compatible with the EndNote program. In addition, the links would not be available when the work is printed.
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators.
 
 ###### end-subtype-content
 
@@ -83,14 +78,14 @@ RMIT Harvard style requires in-text citations and the reference list.
 
 ###### start-subtype-content
 
-- Use in-text citations to acknowledge each author or source of information (print or online) used within your writing either by paraphrasing or using a direct quote.  
-    
+- Use in-text citations to acknowledge each author or source of information (print or online) used within your writing either by paraphrasing or using a direct quote.
+
     **Paraphrasing** is when you express the author’s ideas in your own words. Paraphrasing is generally preferred to quotes as they show you understand and can explain the ideas you have read rather than simply copying them.
-    
+
     **A direct quote** is when you use the exact words from the original source. Use quotes sparingly, such as when the exact words of the author are important to the claim you are making. Put direct quotes between single inverted commas (quotation marks). Include a page number in the in-text citation if available.
-    
+
     In-text citations include the author’s family name (or company or organisation name, if the author is a company or organisation) and year of publication, with page numbers (if available) required for quotes.
-    
+
 - An in-text citation can be inserted at the beginning, middle or end of a sentence. When you are referencing information that authors/researchers agree about, the citation is placed at the end of the sentence (an information prominent citation). This is the most common type of in-text citation. Citing at the beginning of a sentence (author prominent citation) is used to focus on a particular author/researcher’s point of view or on specific research that might not apply in all situations.
 
 - If the author is integrated as part of the sentence, the date (and page number for direct quote) is placed in parentheses immediately after the author's family name.
@@ -104,21 +99,21 @@ RMIT Harvard style requires in-text citations and the reference list.
 - If the author of a reference is unknown, list the reference based on the title of the work.
 
 - If no publication year is supplied, write **n.d.** (for 'no date'). If year can be reliably estimated or inferred from the text, then write **c.** (meaning 'circa' or approximately) followed by the year.
-    
-- For **multiple citations in the same parentheses**, list all citations chronologically, separated by a semi-colon (;) for example:  
-    
+
+- For **multiple citations in the same parentheses**, list all citations alphabetically by the author's last name, separated by a semi-colon (;). For example:
+
     > It has been claimed that ... (Ghezzi and Cavallo 2018; Jocevski 2020; Soluk et al. 2021).
-    
-- For **multiple works by the same author in the same year**, insert a letter after the year, starting with the letter ‘a’ for the first work you cite. In the reference list, include the same letter after each year of publication.  
-    
+
+- For **multiple works by the same author in the same year**, insert a letter after the year, starting with the letter ‘a’ for the first work you cite. In the reference list, include the same letter after each year of publication.
+
     > It is argued that ... (Ayoob 2021a, 2021b).
-    
+
     > Ayoob (2021a, 2021b) states that...
-    
-- Some works have **different first authors with the same family name**. To identify their works, insert the initial(s) of all the first authors’ given names in the in-text citations. In the reference list, order their works by the year of publication.  
-    
+
+- Some works have **different first authors with the same family name**. To identify their works, insert the initial(s) of all the first authors’ given names in the in-text citations. In the reference list, order their works by the year of publication.
+
     > It is argued that ... (Peterson M 2019), but others claim that... (Peterson JR et al. 2021).
-    
+
 
 #### Direct quote
 
@@ -152,7 +147,23 @@ A quote in an in-text citation can be inserted at the beginning, middle or end o
 
 > 'Building plans tend to ignore climate risks in most instances' (Hill and Martinez-Diez 2020:18).
 
-#### Block quotations
+##### Citing a source, including online journal articles, with no page numbers
+
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+
+If the work you are citing does NOT contain page numbers (e.g. for a quote), include the alternative page locators such as the heading or section name, chapter number and/or paragraph number, in the place of a page number.
+
+**Example:**
+
+> 'The mainstream approach to sustainability advocates for cutting-edge technologies, which often rely on large corporations, to tackle socio-ecological issues, such as carbon-capturing technologies.' (Shourkaei 2025:Technology section, para. 1).
+
+Most journal articles with an **article number**, however, will have page numbers when you view the PDF version. When directly quoting, include the page number (e.g. 15) as you normally would for a journal article.
+
+**Example:**
+
+> 'Among the binder components, cement, fly ash, and silica fume stood out as important contributors.' (Mohsin et al. 2025:15).
+
+##### Block quotations
 
 Block quotations are quotes of more than 30 words.
 
@@ -212,11 +223,11 @@ Identify works by the same author in the same year by inserting a letter after t
 
 ###### start-subtype-item
 
-### Referencing works by different first authors with the same family name
+### Referencing works by different authors with the same family name
 
 ###### start-subtype-content
 
-To identify the works of different first authors with the same family name, insert the initial(s) of all the first authors’ given names in the in-text citations.
+To identify the works of different authors with the same family name, insert the initial(s) of the authors’ first names in the in-text citations.
 
 #### In-text citation
 
@@ -224,7 +235,7 @@ To identify the works of different first authors with the same family name, inse
 
 #### Reference list entry
 
-In the reference list, order the works of each author alphabetically by the initial(s) of the first author's given names. 
+In the reference list, order the works of each author alphabetically by the initial(s) of the author's first name.
 
 ###### end-subtype-content
 
@@ -237,7 +248,7 @@ In the reference list, order the works of each author alphabetically by the init
 
 ###### start-subtype-content
 
-When including two or more references in the same parentheses in a sentence, list all citations chronologically, separated by a semi-colon (;).
+When including two or more references in the same parentheses, list all citations alphabetically by the author's last name, separated by a semi-colon (;).
 
 #### In-text citation
 
@@ -306,11 +317,11 @@ In the reference list, only include the source you read. For this example, if yo
 
 - When the shortened form or acronym of an organisation’s name is mentioned in your work, use it in your references. List the short form, then include the full name in parentheses.
 
-- If there are **multiple entries by the same author**, then arrange chronologically starting with the earliest year of publication.
+- If there are **multiple entries by the same author**, order chronologically starting with the earliest year of publication.
 
 - If there are **multiple entries by the same author in the same year**, add ‘a’ after the first work, ‘b’ after the second and so on.
 
-- If there are **multiple different first authors with the same family name**, then arrange alphabetically by initial(s) of the first authors' given names.
+- If there are **multiple different authors with the same family name**, order alphabetically by the initial(s) of the author's first name.
 
 - If the author used a **pseudonym or pen name**, list that name in the author position. If the actual name is known, place it in parentheses after the pen name, e.g. Mari (Maria Giovanna Colli).
 
@@ -327,6 +338,29 @@ In the reference list, only include the source you read. For this example, if yo
 - If the publication has a **DOI** (Digital Object Identifier), include it in the reference list, at the end of the citation using the short form ‘doi’ in lower case, e.g. Zufferey C, Yu N and Hand T (2020) ‘Researching home in social work’, *Qualitative Social Work*, 19(5-6):1095-1110, doi:10.1177/1473325019880244.
 
 - If the work is in a **language other than English**, put the title in the original language followed by the English translation, e.g. *Gabrielle Chanel. Manifeste de Mode (Gabrielle Chanel. Fashion manifesto)*.
+
+#### Online journal articles with no page numbers
+
+Some online journal articles with an **article number** (e.g. Article 12345, e12345) will have no page numbers, even when you view the PDF version. Certain other sources also have no page numbers sometimes, such as some e-books, and webpages and websites.
+
+If the work you are referencing does NOT contain a page range (e.g. for your reference list entry), include the article number in the place of a page range. Put the word **Article** before its identifying number (e.g. Article 12345, Article e12345).
+
+**Examples:**
+
+*Note:* Although the first example below has a volume number (518), it has no issue number, hence its omission.
+
+> Shourkaei MM (2025) 'Going beyond the business case for sustainability: main business-level shifts for pursuing strong sustainability', *Journal of Cleaner Production*, 518:Article 145905, doi:10.1016/j.jclepro.2025.145905.
+
+> Tian X, Yang T, Li Z and Liu Y (2025) 'Effects of long-term organic fertilizer and straw on soil quality and crop yield in a rapeseed–maize rotation system', *PloS one*, 20(4):Article e0322223, doi:10.1371/journal.pone.0322223.
+
+Most journal articles with an **article number**, however, will have a page range when you view the PDF version. In the reference list entry, include the page range (e.g. 1-18) as you normally would for a journal article.
+
+**Example:**
+
+*Note:* Although the example below has a volume number (28), it has no issue number, hence its omission.
+
+> Mohsin M, Ghosh T and Hoque N (2025) 'Prediction and optimization of strength and CO2 emission for geopolymer concrete mix design using machine learning', *Results in Materials*, 28:1-18, Article 100791, doi:10.1016/j.rinma.2025.100791.
+
 
 ###### end-subtype-content
 
@@ -390,6 +424,7 @@ WHO (World Health Organization) (2021) *WHO accelerates work on nutrition target
 ###### end-subtype
 
 ###### end-type-content
+
 
 
 <!-- Books - links to the second type menu item -->
@@ -857,11 +892,11 @@ In your reference list:
 ##### Examples
 
 > Carroll H (2017) *Read this if you want to take great photographs*, Laurence King Publishing, London.
- 
+
 > Edwards M, Howard C and Miller R (2020) *Social policy, public policy: from problem to practice*, Routledge, doi:10.4324/9781003117254.
- 
+
 > Perheentupa J (2020) *Redfern: Aboriginal activism in the 1970s*, Aboriginal Studies Press, Canberra.
- 
+
 > Pinheiro MM and Costa AJ (2021) *Accounting ethics education: teaching virtues and values*, Taylor & Francis Group, doi:10.4324/9780429321597.
 
 ###### end-subtype-content
@@ -936,7 +971,7 @@ In your reference list:
 **Example**
 
 > Baird C (2018) 'Determinism', in Kolb RW (ed), *The SAGE encyclopedia of business ethics and society*, SAGE Publications, Thousand Oaks.
- 
+
 > Neal M (2019) 'Damascus Securities Exchange', *A dictionary of business and management in the Middle East and North Africa*, Oxford University Press, doi:10.1093/acref/9780191843266.001.0001.
 
 ###### end-subtype-content
@@ -988,7 +1023,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 ##### Examples
 
 > ACMI (Australian Centre for the Moving Image) (2021) *Disney: the magic of animation* \[brochure\], ACMI, Melbourne.
- 
+
 > Specialist Imaging For Women (c.2021) *Paediatrics services* \[pamphlet\], Specialist Imaging For Women, Ivanhoe, VIC.
 
 ###### end-subtype-content
@@ -999,11 +1034,11 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ###### start-subtype-item
 
-### Exhibition catalogue
+### Exhibition guide
 
 ###### start-subtype-content
 
-An exhibition catalogue can be physical (print) or online from a website.
+An exhibition guide can be physical (print) or online from a website.
 
 The author may be a person/people or the gallery/museum/public space (e.g. library).
 
@@ -1019,15 +1054,15 @@ For direct quotes, page numbers are only required when they are provided in the 
 
 Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
 
-> The exhibition catalogue (NGV International 2021) provides an insightful analysis of the influences of the development of Chanel’s style and its ongoing impact on fashion.
+> The exhibition guide (NGV International 2021) provides an insightful analysis of the influences of the development of Chanel’s style and its ongoing impact on fashion.
 
 #### Reference list entry
 
-- As details will vary for exhibition catalogues, try to extract as much information as you can about authorship, publication information, etc.
+- As details will vary for exhibition guides, try to extract as much information as you can about authorship, publication information, etc.
 
-- Italicise the exhibition title. After the title, provide the format of the resource in square brackets, e.g. [print exhibition catalogue], [online exhibition catalogue].
+- Italicise the exhibition title. After the title, provide the format of the resource in square brackets, e.g. [print exhibition guide], [online exhibition guide].
 
-- Add the exhibition dates after the format. For example: [print exhibition catalogue], 11 March 2022 - 27 May 2022.
+- Add the exhibition dates after the format. For example: [print exhibition guide], 11 March 2022 - 27 May 2022.
 
 - **If physical (print):** after the exhibition dates, add the name of the publisher and place of publication.
 
@@ -1039,7 +1074,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ##### Example
 
-> NGV International (2020) *Gabrielle Chanel. Fashion manifesto* [print exhibition catalogue], 5 December 2020 – 25 April 2021, National Gallery of Victoria and Thames & Hudson, Melbourne.
+> NGV International (2020) *Gabrielle Chanel. Fashion manifesto* [print exhibition guide], 5 December 2020 – 25 April 2021, National Gallery of Victoria and Thames & Hudson, Melbourne.
 
 ##### Rule (if online -- website)
 
@@ -1047,7 +1082,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 ##### Example
 
-> Carpenter JT (2012) *Designing nature: the Rinpa aesthetic in Japanese art* [online exhibition catalogue], 26 May 2012 – 13 January 2013, The Metropolitan Museum of Art website, accessed 13 December 2021. https<nolink>://www.metmuseum.org/art/metpublications/Designing_Nature_The_Rinpa_Aesthetic_in_Japanese_Art?Tag=Notable%20exhibition%20catalogues&title=&author=&pt=&tc=&dept=&fmt=
+> Carpenter JT (2012) *Designing nature: the Rinpa aesthetic in Japanese art* [online exhibition guide], 26 May 2012 – 13 January 2013, The Metropolitan Museum of Art website, accessed 13 December 2021. https<nolink>://www.metmuseum.org/art/metpublications/Designing_Nature_The_Rinpa_Aesthetic_in_Japanese_Art?Tag=Notable%20exhibition%20catalogues&title=&author=&pt=&tc=&dept=&fmt=
 
 ###### end-subtype-content
 
@@ -1223,7 +1258,7 @@ In your reference list:
 ##### Examples
 
 > Bichler KJ, Jakobi B and Schneider GJ (2021) 'Dynamical comparison of different polymer architectures - bottlebrush vs linear polymer', *Macromolecules*, 54(4):1829-1837, doi:10.1021/acs.macromol.0c02104.
- 
+
 > Mobbs D, Wise T, Suthana N, Guzmán N, Kriegeskorte N and Leibo JZ (2021) 'Promises and challenges of human computational ethology', *Neuron*, 109(14):2224-2238, doi:10.1016/j.neuron.2021.05.021.
 
 ###### end-subtype-content
@@ -1343,7 +1378,7 @@ In your reference list:
 - **Sourced from a library database:** add the accessed date (e.g. accessed 26 November 2021), then a comma, a space and the database name followed by the word **database**.
 
 ##### Examples
- 
+
 > Barkela B (2021) 'Leadership communication and knowledge integration across the artistic, technical and administration area in theaters', *Journal of Arts Management, Law, and Society*, 51(6):393-409, doi:10.1080/10632921.2021.1974628.
 
  > Llaha F, Gil-Lespinard M, Unal P, de Villasante I, Castañeda J and Zamora-Ros R (2021) 'Consumption of sweet beverages and cancer risk. A systematic review and meta-analysis of observational studies', *Nutrients*, 13(2):516, MDPI Open Access Journals website, accessed 26 November 2021. https<nolink>://www.mdpi.com/2072-6643/13/2/516/htm
@@ -1372,7 +1407,7 @@ In your reference list:
 
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
-### Print newspaper or magazine article 
+### Print newspaper or magazine article
 
 <!-- first accordion item -->
 ###### start-subtype-content
@@ -1410,7 +1445,7 @@ In your reference list:
 ##### Examples
 
 > Yeates C (6 December 2021) 'CEO pay of big banks could be linked to climate change targets', *The Age*.
- 
+
 > Wright S and Duke J (9 October 2021) 'RBA issues warning as property prices surge', *The Age.*
 
 ###### end-subtype-content
@@ -1928,7 +1963,7 @@ In your reference list:
 ##### Examples
 
 > Heath N (2021) *What is AI? Here's everything you need to know about artificial intelligence*, ZDNet website, accessed 9 December 2021. https<nolink>://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/
- 
+
 > WHO (World Health Organization) (2021) *WHO accelerates work on nutrition targets with new commitments*, WHO website, accessed 9 December 2021. https<nolink>://www.who.int/news/item/07-12-2021-who-accelerates-work-on-nutrition-targets-with-new-commitments
 
 
@@ -1940,13 +1975,13 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Webpage document (PDF)                      
+### Webpage document (PDF or other file type)
 
 ###### start-subtype-content
 
-Do NOT use for government reports (they tend to report on a matter), organisational reports (e.g. annual reports, research conducted by the organisation and presented in a report), Australian Bureau of Statistics (ABS) reports or company/industry/market reports. To reference these reports, please see the relevant sections in EasyCite.
+Do **not** use for these resource types: government reports, organisational reports (e.g. annual reports, research conducted by the organisation and presented in a report), Australian Bureau of Statistics (ABS) reports, or company, industry or market reports. To reference these resource types, please see the **Reports and data sets** section in this style guide.
 
-Use only for PDF documents NOT within any of the above categories.
+**Use only** for a webpage's document (PDF or other file type) that is **not** any of the above resource types.
 
 The author may be a person/people, an organisation or a government department.
 
@@ -2050,7 +2085,7 @@ Paraphrasing is when you are expressing the ideas of the author(s) in your own w
 
 In your reference list:
 
-- If the blog post does not have a person identified as the author, use the name of the blog instead (do no italicise) followed by the day, month and year of the post in parentheses, e.g. Welcome to Country (6 August 2021). 
+- If the blog post does not have a person identified as the author, use the name of the blog instead (do no italicise) followed by the day, month and year of the post in parentheses, e.g. Welcome to Country (6 August 2021).
 
 - Italicise only the second instance of the blog name.
 
@@ -2135,9 +2170,9 @@ In your reference list:
 ##### Examples
 
 > Thunberg G (15 November 2021a) 'A reminder: the people in power don't need conferences, treaties...' \[Tweet\], Greta Thunberg, accessed 1 November 2021. https<nolink>://twitter.com/GretaThunberg/status/1460159146720997377
- 
+
 > Thunberg G (28 November 2021b) 'We can no longer let the people in power decide...' \[Instagram post\], Greta Thunberg, accessed 1 November 2021. https<nolink>://www.instagram.com/tv/CUXUfZIsHBm/
- 
+
 > Thunberg G (14 November 2021c) 'The #COP26 is over. Here's a brief summary: Blah, blah,...' \[Facebook post\], Greta Thunberg, accessed 25 November 2021. https<nolink>://www.facebook.com/gretathunbergsweden
 
 ###### end-subtype-content
@@ -2189,7 +2224,7 @@ Paraphrasing is when you are expressing the ideas of author(s) in your own words
 
 In your reference list for **film or movie**:
 
-- Put the director's name. If there is no acknowledged director, put the producer's name. The 
+- Put the director's name. If there is no acknowledged director, put the producer's name. The
 
 - producer or director could be a person or an organisation.
 
@@ -2230,7 +2265,7 @@ In your reference list for **television program**:
 ##### Examples
 
 > ABC News (producer) (2021) 'The business: cryptocurrency special' \[television program\], *The business*, ABC Television, Sydney.
- 
+
 > Taylor A (director) (2017) 'Beyond the wall' \[television program\], *Game of thrones* (season 7, episode 6), HBO, New York.
 
 ###### end-subtype-content
@@ -2255,9 +2290,9 @@ A direct quote is when you are using the exact words of the work. Put direct quo
 
 #### In-text citation: Paraphrasing
 
-Paraphrasing is when you are expressing the ideas of the author(s) in your own words.
+Paraphrasing is when you are expressing the ideas of the work in your own words.
 
-> Writing short stories on Instagram was the catalyst for Dave Grohl writing his memoir (Fidler and Rooney 2021).
+> Writing short stories on Instagram was the catalyst for Dave Grohl writing his memoir (Fidler 2021).
 
 > Bessell and Hunter (2020) consider how the corona virus pandemic is reshaping economies, raising the question of how applicable the 2030 Sustainable Development Goals remain in addressing global poverty.
 
@@ -2284,7 +2319,7 @@ In your reference list:
 ##### Examples
 
 > Fidler R (host) and Rooney C (producer) (19 October 2021) 'Rock and Dave Grohl' \[podcast\], *Conversations*, ABC, accessed 1 December 2021. https<nolink>://www.abc.net.au/radio/programs/conversations/dave-grohl-nirvana-foo-fighters-love-music-rock/13582414
- 
+
 > Hunter A and Bessell S (hosts) and Policy Forum.net (producer) (27 November 2020) 'The wellbeing economy – a glimpse of the good life' \[podcast\], *The wellbeing economy podcast series*, IMMP Crawford, accessed 1 December 2021. https<nolink>://immp.crawford.anu.edu.au/content/wellbeing-economy-podcast-series
 
 ###### end-subtype-content
@@ -2348,9 +2383,9 @@ In your reference list:
 ##### Examples
 
 > ABC News (16 June 2021) 'The business: cryptocurrency special' \[video\], *ABC News (Australian Broadcasting Corporation)*, ABC iview website, accessed 30 November 2021. https<nolink>://iview.abc.net.au/video/NS2157H001S00
- 
+
 > ABC News In-depth (16 June 2021) 'Bitcoin explained: everything you need to know about the crypto craze | The business' \[video\], *ABC News In-depth*, YouTube website, accessed 30 November 2021. https<nolink>://www.youtube.com/watch?v=MlGLpSvs34Q
- 
+
 > Derham L, Groner M and Kerridge G (n.d.) 'Interview questions' \[video\], *AASW (Australian Association of Social Workers)*, AASW website, accessed 30 November 2021. https<nolink>://www.aasw.asn.au/careers-study/new-graduate-resources/finding-your-job-and-thriving-in-it
 
 ###### end-subtype-content
@@ -2360,7 +2395,7 @@ In your reference list:
 
 ###### start-subtype-item
 
-### Musical composition / sound recording
+### Musical composition
 
 ###### start-subtype-content
 
@@ -2419,7 +2454,7 @@ In your reference list:
 ##### Examples
 
 > The Beatles (1967) *Sgt. Pepper's lonely hearts club band* \[Album\], Parlophone.
- 
+
 > The Beatles (1967) Sgt. Pepper's lonely hearts club band (remastered) \[Album\], Spotify website, accessed 1 December 2021. https<nolink>://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW
 
 ###### end-subtype-content
@@ -2562,7 +2597,7 @@ In your reference list:
 
 - When you reproduce an artwork or image from a source, if the **creator of the artwork or image** is DIFFERENT to the **author of the source** that the artwork or image appears in, include in the reference:
 
-     - the **creator of the artwork or image** and the **year** that the artwork or image was **created**, and 
+     - the **creator of the artwork or image** and the **year** that the artwork or image was **created**, and
 
      - the details of the source that the artwork or image appears in. For example, if the artwork or image appears in a book, webpage or journal article, include the details of the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
 
@@ -2578,7 +2613,7 @@ In your reference list:
 
      - **Physical -- viewed in-person at an art gallery, museum or other public space:** add the name and location of the museum, gallery or public space.
 
-     - **Physical -- hardcopy (print) map:** add the name of the publisher and place published. 
+     - **Physical -- hardcopy (print) map:** add the name of the publisher and place published.
 
 - When an image is a map, put the following information within the [format] field:
 
@@ -2593,7 +2628,7 @@ In your reference list:
 > Creator's Family Name Initial (Year) *Title of artwork or image* [format], Name of Website website, accessed Day Month Year. URL
 
 ##### Examples
- 
+
 > DTP (Department of Transport and Planning, Victoria) (2020) *Plenty Road Bundoora 3083* [digital map], VicPlan website, accessed 10 December 2021. https<nolink>://mapshare.vic.gov.au/vicplan/
 
 > Kaiser P (1975) *Growing over the fence* [synthetic polymer paint on canvas], National Gallery of Victoria website, accessed 20 July 2023. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/60587/
@@ -2607,35 +2642,35 @@ In your reference list:
 > Creator's Family Name Initial (Year) *Title of artwork or image* [format], accessed Day Month Year, Name of Database database.
 
 ##### Examples
- 
+
 > Aerometrex (2021) ANZ stadium, *Sydney Olympic Park, NSW* [digital map], accessed 10 December 2021, MetroMap database.
 
 > Primal Pictures (n.d.) *Lateral nasal cavity* [interactive 3D illustration], accessed 19 August 2022, Anatomy.tv database.
 
-**Note:** Although RMIT Harvard does not include a URL link if there is a database name, include BOTH database name and URL link *only* for images from the **WGSN database**. This will make it easier to locate and access the image. 
+**Note:** Although RMIT Harvard does not include a URL link if there is a database name, include BOTH database name and URL link *only* for images from the **WGSN database**. This will make it easier to locate and access the image.
 
 > Chanel (n.d.) *cha_mon_ps23_003* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/content/image_viewer/#/image.35640165
 
-> Jacobs M (2022) *New York autumn/winter 2022: women* [gallery of photographs], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316 
+> Jacobs M (2022) *New York autumn/winter 2022: women* [gallery of photographs], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/catwalk_gallery/#gender=2&season=0&city=0&show=81316
 
-> Khan A (n.d.) *Womenswear forecast S/S 24: SenseScapes* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/fashion/article/62d668672dbcfed4840eacf3#page4 
+> Khan A (n.d.) *Womenswear forecast S/S 24: SenseScapes* [photograph], accessed 19 August 2022, WGSN database. https<nolink>://www.wgsn.com/fashion/article/62d668672dbcfed4840eacf3#page4
 
 ##### Rule (physical -- viewed in-person at art gallery, museum or public space)
 
 > Creator's family name Initial (Year) *Title of artwork or image* [format], Name of Museum/Gallery/Public Space, Location of Museum/Gallery/Public Space.
 
 ##### Examples
- 
+
 > Dwyer M (2021) *Apparition* [night-time digital projection onto holo-gauze screen], University Square, Carlton, VIC.
 
 > Pollock J (1952) *Blue poles* [Oil, enamel, aluminium paint, and glass on canvas], National Gallery of Australia, Canberra.
 
 ##### Rule (physical -- hardcopy/print map)
 
-> Creator’s Family Name Initial (Year of creation) *Title of map* [format], Name of Publisher, Place of Publication. 
+> Creator’s Family Name Initial (Year of creation) *Title of map* [format], Name of Publisher, Place of Publication.
 
 ##### Example
- 
+
 > Melway (2021) *Geelong* [print map], Melway, Clayton, VIC.
 
 ###### end-subtype-content
@@ -2736,9 +2771,9 @@ In your reference list:
 
 In your reference list:
 
-- Tables or graphs that you reproduced from a published source should be referenced as the source they appear in. 
+- Tables or graphs that you reproduced from a published source should be referenced as the source they appear in.
 
-- For example, if the table or graph appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
+- For example, if the table or graph appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
 
 ##### Examples
 
@@ -2795,7 +2830,7 @@ For the **Source** within the caption:
 > {.figure-text}Figure figure number: Brief description of artwork or image. {/.figure-text}
 
 ##### Examples
- 
+
 > {.figure-text}Figure 1: Drawing of a car created by the author in AutoCAD in 2020. {/.figure-text}
 
 > {.figure-text}Figure 2: Author’s initial sketch of a floral summer dress for Melbourne Fashion Week 2022. {/.figure-text}
@@ -2809,7 +2844,7 @@ In the caption, cite the **author of the source** (as the creator) and the **yea
 > {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name/Organisation Year of publication. {/.figure-text}
 
 ##### Examples
- 
+
 > {.figure-text}Figure 1: A diagram of the lateral nasal cavity. Source: Primal Pictures n.d. {/.figure-text}
 
 > {.figure-text}Figure 2: A screenshot of the Sephora homepage. Source: Sephora 2023. {/.figure-text}
@@ -2829,7 +2864,7 @@ In the caption, cite the **creator of the artwork or image** and the **year** th
 > {.figure-text}Figure number: Brief description of artwork or image. Source: Creator’s Family Name Year of creation. {/.figure-text}
 
 ##### Examples
- 
+
 > {.figure-text}Figure 1: An abstract expressionist painting on canvas using various mediums such as oil, enamel, aluminium paint and glass. Source: Pollock 1952. {/.figure-text}
 
 > {.figure-text}Figure 2: A night-time digital projection onto holo-gauze screen. Source: Dwyer 2021. {/.figure-text}
@@ -2853,7 +2888,7 @@ In the caption, include the **figure number (for graphs)** or **table number (fo
 > {.figure-text}Figure/Table figure/table number: Brief description of graph or table. {/.figure-text}
 
 ##### Examples
- 
+
 > {.figure-text}Figure 1: Differences in student enrolment numbers pre- and post-COVID-19, Australia. Based on the author’s own 2020-2022 study. {/.figure-text}
 
 > {.figure-text}Figure 2: Comparison of outcomes from categories A, B and C. Based on the author’s own 2018 experiment. {/.figure-text}
@@ -2875,7 +2910,7 @@ If your table or graph includes published data from **more than one** source, yo
 > {.figure-text}Figure/Table figure/table number: Brief description of graph or table. Source: adapted from [Author’s Family Name/Organisation Year of publication]. {/.figure-text}
 
 ##### Examples
- 
+
 > {.figure-text}Figure 1: Top five overseas countries of birth in the 2021 Australian census, by population count. Source: adapted from ABS 2022. {/.figure-text}
 
 > {.figure-text}Figure 2: Chemical composition (%) by weight of an aircraft's engine blade material. Source: adapted from García-Martínez et al. 2023. {/.figure-text}
@@ -2899,7 +2934,7 @@ In the caption:
 > {.figure-text}Figure/Table figure/table number: Brief description of table or graph. Source: Author’s Family Name/Organisation Year of publication. {/.figure-text}
 
 ##### Examples
- 
+
 > {.figure-text}Figure 1: Number of students with disability and enrolment in primary and junior schools in China, 2015-2017. Source: Fu 2022. {/.figure-text}
 
 > {.figure-text}Figure 2: Yearly rainfall (mm) in Australia, 1900-2022. Source: BOM n.d. {/.figure-text}
@@ -3036,7 +3071,7 @@ In your reference list:
 ##### Examples
 
 > Hayne KM (2019) *Royal Commission into misconduct in the banking, superannuation and financial services industry, Volume 3*, Royal Commissions, Australian Government, accessed 13 December 2021. https<nolink>://www.royalcommission.gov.au/banking/final-report
- 
+
 > Wells Advisory (2021) *Forward impact of COVID-19 on Australian higher education*, Tertiary Education Quality and Standards Agency (TEQSA), Australian Government, accessed 13 December 2021. https<nolink>://www.teqsa.gov.au/latest-news/publications/forward-impact-covid-19-australian-higher-education-report
 
 ##### Rule (organisation report)
@@ -3501,7 +3536,7 @@ In your reference list:
 ##### Examples
 
 > RMIT Creds (2022) 'What is academic integrity?' \[micro-credential\], RMIT University, Melbourne.
- 
+
 > Tran L (2020) 'Managing diverse workforces' \[PowerPoint slides, MANG4321\], RMIT University, Melbourne.
 
 ###### end-subtype-content
@@ -3516,7 +3551,7 @@ In your reference list:
 
 ###### start-subtype-content
 
-Take care to give accurate and complete details about legislation (Acts) and legal cases. The *Legal Material* section of the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/legal-material" target="_blank">Australian Government Style Manual</a> (opens in a new tab) provides more detail and examples regarding the use of legal materials.
+Take care to give accurate and complete details about legislation (Acts) and legal cases. The *Legal Material* section of the <a href="https://www.stylemanual.gov.au/referencing-and-attribution/legal-material">Australian Government Style Manual</a> (opens in a new tab) provides more detail and examples regarding the use of legal materials.
 
 For **Acts of Parliament (legislation)** and **Bills**, a pinpoint is a reference to a specific page, paragraph or other section of the Act, e.g. pt 3 div 2 s 16, add **only** if applicable. Pinpoint references should appear as abbreviations and a number separated by a space. Pinpoints are placed after the abbreviated jurisdiction.
 
@@ -3563,7 +3598,7 @@ In your reference list:
 **Examples**
 
 > *Child Wellbeing and Safety Act 2005* (Vic).
- 
+
 > *Water Act 2007* (Cth).
 
 #### Bill
@@ -3652,7 +3687,7 @@ You should include the use of scholarly sources in your written assessments to a
 
 **Note:** Check first with your lecturer, or teacher, if it is permissible to cite your previously submitted work.
 
-Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/my-course/assessment-results/assessment" target="_blank">Assessment Declaration</a>.
+Remember that when submitting work, you will be asked to agree to the <a href="https://www.rmit.edu.au/students/my-course/assessment-results/assessment">Assessment Declaration</a>.
 
 The *Australian Government Style Manual (AGSM)* does not provide information on how to cite your own work. The following is based on how to cite theses from the AGSM.
 
@@ -3722,7 +3757,7 @@ If it is permissible to cite your previously submitted work, in your reference l
 
 Case studies are not a publication or reference type. They are a type of writing found in various sources such as books, journal articles, websites, etc.
 
-The source that the case study appears in should be referenced. For example, if the case study appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
+The source that the case study appears in should be referenced. For example, if the case study appears in a book, webpage or journal article, you reference the book, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
 
 ###### end-subtype-content
 
@@ -3803,7 +3838,7 @@ In your reference list:
 ##### Examples
 
 > Lowe P (2 November 2021) *Statement by Philip Lowe, Governor: monetary policy decision* \[media release\], Reserve Bank of Australia website, accessed 10 December 2021. https<nolink>://www.rba.gov.au/media-releases/2021/mr-21-24.html
- 
+
 > Office of the Premier of Victoria (8 December 2021) *Boosting support for homeless youth* \[media release\], Office of the Premier of Victoria website, accessed 22 January 2022. https<nolink>://www.premier.vic.gov.au/ boosting-support-homeless-youth
 
 ###### end-subtype-content
@@ -3858,7 +3893,7 @@ Since personal communication is not published and therefore unavailable for veri
 
 ###### start-subtype-content
 
-For work you read in a language other than English, the source that the non-English work appears in should be referenced. For example, if the non-English work appears in a book, newspaper article, webpage or journal article, you reference the book, newspaper article, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources. 
+For work you read in a language other than English, the source that the non-English work appears in should be referenced. For example, if the non-English work appears in a book, newspaper article, webpage or journal article, you reference the book, newspaper article, webpage or journal article, respectively. Please refer to the relevant section within this guide for how to reference various sources.
 
 List the title in the **original language**. If the original language uses a different alphabet or script from English, use the anglicised spelling.
 
@@ -3882,6 +3917,42 @@ Add the accessed date (e.g. accessed 5 December 2021), followed by a full stop, 
 ###### end-type-content
 
 
+<!-- Indigenous knowledges -->
+###### start-type-content
+<!-- -->
+
+<!-- start SUB_TYPES - accordion - only one accordion per TYPE -->
+###### start-subtype
+<!-- start SUB_TYPE-ITEM - accordion item -->
+<!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
+
+###### start-subtype-item
+<!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
+
+### Indigenous knowledges: general advice
+<!-- the first accordion item must have this comment as shown in the line below -->
+<!-- first accordion item -->
+
+###### start-subtype-content
+
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.
+
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.
+
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website.
+
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
+
+**Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+###### end-subtype
+
+###### end-type-content
+
 
 <!-- AI-generated content - links to the fourteenth type menu item -->
 ###### start-type-content
@@ -3901,9 +3972,9 @@ Add the accessed date (e.g. accessed 5 December 2021), followed by a full stop, 
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### Using generative artificial intelligence (AI) in learning and research, including assessment tasks
-The educators within your courses can tell you if you are able to use artificial intelligence (AI) tools in your assessment tasks, including how you can use the tools and what tools you can use. If you use any AI tools, you must appropriately acknowledge and reference the use of these tools and their outputs. Failure to reference the use of these tools can result in academic misconduct. 
+The educators within your courses can tell you if you are able to use artificial intelligence (AI) tools in your assessment tasks, including how you can use the tools and what tools you can use. If you use any AI tools, you must appropriately acknowledge and reference the use of these tools and their outputs. Failure to reference the use of these tools can result in academic misconduct.
 
-**Please confirm with your course educator** before using any AI tools in your assessment tasks. 
+**Please confirm with your course educator** before using any AI tools in your assessment tasks.
 
 **Please note** that the guidelines on how to reference AI tools have been updated in January 2024. This is in response to changes in the ability to generate shareable URLs in some AI tools.
 
@@ -3912,15 +3983,15 @@ The educators within your courses can tell you if you are able to use artificial
 
 **Introduction to AI tools that can generate text**
 
-AI tools that generate text, such as OpenAI's ChatGPT, are large language models with a conversational type of interface, where you can ask a question, receive a detailed response and follow up with additional queries. 
+AI tools that generate text, such as OpenAI's ChatGPT, are large language models with a conversational type of interface, where you can ask a question, receive a detailed response and follow up with additional queries.
 
-Some generative AI tools are not connected to the internet and are trained on data sets up to a specific time point. Other generative AI tools connect to the internet and will provide URL links to information. There are some points to consider when using the text generated by these tools: 
+Some generative AI tools are not connected to the internet and are trained on data sets up to a specific time point. Other generative AI tools connect to the internet and will provide URL links to information. There are some points to consider when using the text generated by these tools:
 
 - As these tools function in a similar way to predictive text on your phone, by recognising and reproducing patterns in language, they can generate incorrect information.
 - While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 - The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
 
-The [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/content/artificial-intelligence-tools) has more information on how these AI tools work, and some points to consider when using them. 
+The [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/) has more information on how these AI tools work, and some points to consider when using them.
 
 **Copyright and non-human authors**
 
@@ -3928,17 +3999,17 @@ Current copyright law only recognises humans as authors and creators. One of the
 
 **General acknowledgement that AI tools have been used in the creation of a work**
 
-In some assessment tasks, you may be able to use AI tools for background research, or to generate an outline for your essay or report (as stated earlier, please follow your educator's guidance before using any AI tools).. In this case, rather than citing and referencing specific text generated by AI tools, you will need to provide a general acknowledgement within the body or methods section of your text to explain that an AI tool was used in the creation of your work. Include as much detail as possible, including how you used the AI tool, the prompt used, the date you used the tool, and the name, creator and version of the AI tool.  
+In some assessment tasks, you may be able to use AI tools for background research, or to generate an outline for your essay or report (as stated earlier, please follow your educator's guidance before using any AI tools).. In this case, rather than citing and referencing specific text generated by AI tools, you will need to provide a general acknowledgement within the body or methods section of your text to explain that an AI tool was used in the creation of your work. Include as much detail as possible, including how you used the AI tool, the prompt used, the date you used the tool, and the name, creator and version of the AI tool.
 
-Example: On the 26th June 2023, I used the May 24 version of OpenAI's ChatGPT to perform background research by using the following prompt "explain the difference between deep learning and machine learning". 
+Example: On the 26th June 2023, I used the May 24 version of OpenAI's ChatGPT to perform background research by using the following prompt "explain the difference between deep learning and machine learning".
 
 **Referencing specific text content generated by AI tools**
 
-Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA  style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.  
+Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA  style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.
 
-If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers. 
+If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers.
 
-Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves. 
+Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves.
 
 <!-- using heading 4 (####) for sub-heading within this tab -->
 #### AI-generated images
@@ -3954,9 +4025,9 @@ If you are able to use AI tools in your assessment task, you need to appropriate
 <!-- using heading 5 (#####) for sub-heading within this text section -->
 ##### Overview of images generated by AI tools
 
-Some generative AI tools have been trained on large numbers of existing images, and these tools can create new images based on prompts from users. The images created using these tools can be downloaded, but they are not published or reproducible in the AI platform. Images generated using AI tools such as Midjourney and DALL-E 2 are the topic of much debate.  Current copyright law only recognises humans as authors. One of the moral rights associated with copyright is the right to be acknowledged as the author of a work. From a copyright perspective there is currently no obligation to [recognise AI as the creator of a work](https://www.artslaw.com.au/information-sheet/artificial-intelligence-ai-and-copyright/), however it is important to explain that AI was used in the creation of the work.  
+Some generative AI tools have been trained on large numbers of existing images, and these tools can create new images based on prompts from users. The images created using these tools can be downloaded, but they are not published or reproducible in the AI platform. Images generated using AI tools such as Midjourney and DALL-E 2 are the topic of much debate.  Current copyright law only recognises humans as authors. One of the moral rights associated with copyright is the right to be acknowledged as the author of a work. From a copyright perspective there is currently no obligation to [recognise AI as the creator of a work](https://www.artslaw.com.au/information-sheet/artificial-intelligence-ai-and-copyright/), however it is important to explain that AI was used in the creation of the work.
 
-AI-generated images are an emerging technology, and there are not yet clear guidelines for how to incorporate them into existing referencing styles such as APA 7th, Chicago, etc. Our current recommendation for how to reference AI-generated images varies for each referencing style, and is included below. Additionally, we recommend that you include the question or prompt that generated the image where possible, to provide context for your readers. 
+AI-generated images are an emerging technology, and there are not yet clear guidelines for how to incorporate them into existing referencing styles such as APA 7th, Chicago, etc. Our current recommendation for how to reference AI-generated images varies for each referencing style, and is included below. Additionally, we recommend that you include the question or prompt that generated the image where possible, to provide context for your readers.
 
 **Please note** that our recommendations for how to reference AI-generated content may change in the future as referencing style manuals are updated.
 
@@ -3980,7 +4051,7 @@ Use the name of the creator of the tool as the author and include both an in-tex
 
 <!-- using heading 5 (#####) for sub-heading within this text -->
 ##### In-text citations:
-For in-text citations, use the creator of the AI tool as the author (i.e., OpenAI), and the year of the version of the AI model that you have used.   
+For in-text citations, use the creator of the AI tool as the author (i.e., OpenAI), and the year of the version of the AI model that you have used.
 
 **Rule for narrative (author-prominent) citations: Author (year)**
 > Example 1: OpenAI (2023)
@@ -4038,7 +4109,7 @@ Include the image in your work with a caption that explains that the work was ge
 > Figure number: Description or explanation.
 
 **Example**
-> ![A brown owl in a forest](images/Firefly-a-brown-owl-in-a-forest-16158.jpg)<br>
+> ![A brown owl in a forest](images/Firefly-a-brown-owl-in-a-forest-16158.webp)<br>
 > Figure 1: Image generated using OpenAI's DALL-E 2 from the prompt: a brown owl in a forest.<br>
 
 ###### end-subtype-content
