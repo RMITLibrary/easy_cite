@@ -626,6 +626,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 ###### start-subtype
 
 
+<!-- first accordion item -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Journal article with single author
@@ -653,8 +654,6 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 - Articles from electronic journals should only be cited where a printed edition does not exist.
 
-&nbsp;
-
 #### Footnote example
 
 > <sup>1</sup> Dan Meagher, 'Digital Sampling/Remix Culture' (2012) 17(2) *Deakin Law Review* 307.
@@ -672,6 +671,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 ###### end-subtype-item
 
 
+<!-- second accordion item -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Journal article with multiple authors
@@ -725,6 +725,39 @@ When the citation appears in a bibliography, list the family name first. Sources
 ###### end-subtype-item
 
 
+<!-- third accordion item -->
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Articles published in online journals
+
+###### start-subtype-content
+
+- Online journal articles should be cited in the same way as printed articles wherever possible. If volume, issue or starting page numbers are not available, use other identifiers such as article numbers.
+
+- Pinpoint references should appear after the article number/identifier, preceded by a comma, and a space. The article number/identifier should appear as it does in the source.
+
+- Journal articles that have a volume and issue number have page ranges (start and end pages) that are numbered sequentially throughout the entire issue (e.g. 70-84, 85-102, 103-115).
+
+- If the online journal article, which could be a PDF or other digital document, has no volume and issue number, the article has a page range that typically starts at 1 and ends on the last page (e.g. 1-12). There is no issue sequential page numbering. In such cases, pinpoints should refer to a position (actual page number) within the page range (e.g. 7)."
+
+#### Format
+> Author(s), 'Article title' (Year) Volume(Issue) *Journal Title* Article number/Identifier: Page range, Pinpoint. 
+ 
+#### Footnote example
+> <sup>1</sup> Luigi Alberto Franzoni, 'Efficient Liability Law with Costly Insurance' (2026) 85 *International Review of Law and Economics* 106310: 1-8. 
+ 
+#### Pinpoint example
+> <sup>1</sup> Luigi Alberto Franzoni, 'Efficient Liability Law with Costly Insurance' (2026) 85 *International Review of Law and Economics* 106310: 1-8, 4. 
+ 
+#### Bibliography example
+> Franzoni, Alberto 'Efficient Liability Law with Costly Insurance' (2026) 85 *International Review of Law and Economics* 106310 
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+<!-- fourth accordion item -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Newspaper article
