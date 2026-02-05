@@ -1,4 +1,4 @@
-<!-- Chicago Notes and Bibliography (A) v.17 Style Guide -->
+<!-- Chicago Notes and Bibliography (A) v.18 Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
@@ -49,20 +49,22 @@
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to Chicago A: Notes and Bibliography 17th ed.
+### Introduction to Chicago A: Notes and Bibliography 18th ed.
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The Chicago referencing style is widely used in art, design, architecture, music, history and humanities subjects. The Chicago Manual of Style includes detailed advice on citing and referencing sources used in these disciplines, including artworks, live performances and historical sources, as well as commonly-used source types such as books, journal articles and websites. 
+The Chicago referencing style is widely used in art, design, architecture, music, history and humanities subjects. The Chicago Manual of Style includes detailed advice on citing and referencing sources used in these disciplines, including artworks, live performances and historical sources, as well as commonly-used source types such as books, journal articles and websites.
 
-This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341">The Chicago Manual of Style 17th edition</a>. Please refer to this manual if you need more examples than those included in this guide, or if you need clarification. 
+- Use The Chicago Manual of Style. 18th ed. Chicago: University of Chicago Press, 2024 to clarify referencing rules or if you need more examples. This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1vrd2be/alma9922622812201341" target="_blank">The Chicago manual of style. 18th edition.</a> (opens in a new tab).
 
-There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **notes and bibliography** format.  
+There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **notes and bibliography** format.
 
-The **notes and bibliography** format uses a **numerical** system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography is included at the end of the document in **alphabetical** order. 
+The **notes and bibliography** format uses a **numerical** system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography is included at the end of the document in **alphabetical** order.
 
-**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
+**Bibliography** : A bibliography is the term used for a list of resources consulted (e.g. books, articles, websites) when writing an assignment.
+
+For examples and advice regarding **author-date style** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago B: Author-Date 18th ed.](index.php?styleguide=styleguide-5#stn-0).
 
 ###### end-subtype-content
 
@@ -87,7 +89,7 @@ Always check with your tutor or lecturer about any specific requirements they ha
 
 - Notes require you to mark all in-text citations with a superscript number and provide a citation in the note. Notes should be numbered in sequential order.
 
-- Previous editions of the Chicago Manual of Style recommended the use of *ibid.* (from *ibidem*, “in the same place”) when repeating a citation in footnotes. Unlike previous editions, the 17th ed. of the Chicago Manual of Style discourages the use of *ibid.* in favour of shortened citations.
+- Previous editions of the Chicago Manual of Style recommended the use of *ibid.* (from *ibidem*, “in the same place”) when repeating a citation in footnotes. Unlike previous editions, the 18th ed. of the Chicago Manual of Style discourages the use of *ibid.* in favour of shortened citations.
 
 - Chicago does not require you to include an access date unless no date of publication or revision can be determined from the source. However, you may wish to check with your lecturer first as they may have a preference for including access dates.
 
@@ -204,6 +206,10 @@ Most journal articles with an **article number**, however, will have page number
 
 - If the author is unknown, begin the reference with the title of work.
 
+- URLs: Do not create shortened versions of URLs via third-party services such as TinyURL. A DOI or other stable identifier, if available, is always be preferred
+
+- First author names in bibliography: For authors whose cultural naming conventions put the family name first—such as those from many Asian or other traditions—retain the original name order, and do not invert it in the bibliography or reference list.
+
 #### Create a hanging indent using Microsoft Word
 
 The second line of each bibliography entry has a hanging indent.
@@ -246,7 +252,7 @@ McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture*
 
 Melton, Paula. "Whole-Building Life-Cycle Assessment: Taking the Measure of a Green Building." Building Green, 2013. https<nolink>://www.buildinggreen.com/feature/whole-building-life-cycle-assessment-taking-measure-green-building.
 
-Oranje, Mark, and Tuna Taşan-Kok.*From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges.*Milton: Routledge. 2017.
+Oranje, Mark, and Tuna Taşan-Kok.*From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges. Routledge. 2017.
 
 Wikipedia. "Wikipedia: List of Controversial Issues." Wikipedia, last modified April 2, 2021, 17:19. https<nolink>://en.wikipedia.org/wiki/Wikipedia:List\_of\_controversial\_issues.
 {/.hanging-indent}
@@ -262,21 +268,26 @@ Wikipedia. "Wikipedia: List of Controversial Issues." Wikipedia, last modified A
 
 ###### start-subtype-content
 
-#### Two or three authors
+#### Two authors
 
 Include all authors in the note. Author's names are listed as - Given Name Family Name. Authors' names are separated by the word *and.* Do not use an ampersand.
 
 ##### Example
 
-> {.footnote-indent}2. Mark Oranje and Tuna Taşan-Kok, *From Student to Urban Planner: Young Practitioners' Reflections on Contemporary Ethical Challenges* (Milton: Routledge. 2017), 44. {/.footnote-indent}
+> {.footnote-indent}2. Mark Oranje and Tuna Taşan-Kok, *From Student to Urban Planner: Young Practitioners' Reflections on Contemporary Ethical Challenges* (Routledge. 2017), 44. {/.footnote-indent}
 
-#### Four or more authors
+#### Three to six authors
 
 In the note, cite only the name of the first-listed author followed by et al. Author's name is listed as - Given Name Family Name.
 
 ##### Example
 
-> {.footnote-indent}1. Okwui Enwezor et al., *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity* (Durham: Duke University Press, 2008), 223. {/.footnote-indent}
+> {.footnote-indent}1. Okwui Enwezor et al., *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity* (Duke University Press, 2008), 223. {/.footnote-indent}
+>
+#### More than six authors
+
+In the note, cite only the name of the first-listed author followed by et al. Author's name is listed as - Given Name Family Name.
+
 
 ###### end-subtype-content
 
@@ -289,30 +300,31 @@ In the note, cite only the name of the first-listed author followed by et al. Au
 
 ###### start-subtype-content
 
-#### Two or three authors
+#### Two authors
 
 List authors in the order in which they appear in the source. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
 
 ##### Example
 
 > {.hanging-indent}Lai, Gladys, and Pema Bakshi. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue (blog),* May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
-> {.hanging-indent}Oranje, Mark, and Tuna Taşan-Kok. *From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges.* Milton: Routledge. 2017. {/.hanging-indent}
+> {.hanging-indent}Oranje, Mark, and Tuna Taşan-Kok. *From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical Challenges.* Milton. Routledge. 2017. {/.hanging-indent}
 
-#### Four to 10 authors
+#### Three to six authors
 
-List authors in the order in which they appear in the source. List all authors in the bibliography. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
-
-##### Example;
-
-> {.hanging-indent}Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Durham: Duke University Press, 2008. {/.hanging-indent}
-
-#### More than 10 authors
-
-List authors in the order in which they appear in the source. List the first seven authors in the bibliography, followed by et al. The first-listed name is inverted - Family Name, Given Name. The rest of the names are written as - Given Name Family Name.
+List authors in the order in which they appear in the source. Include all authors’ names in the bibliography entry. Invert the first listed author’s name to Surname, First Name.
 
 ##### Example
 
-> {.hanging-indent}Benz, Felix, Mikolaj K. Schmidt, Alexander Dreismann, Rohit Chikkaraddy, Yao Zhang, Angela Demetriadou, Cloudy Carnegie et al. "Single-molecule optomechanics in 'picocavities.' " *American Association for the Advancement of Science* 354, no. 6313 (2016): 726-729. 10.1126/science.aah5243. {/.hanging-indent}
+Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity*. Duke University Press, 2008.
+
+#### More than six authors
+
+List authors in the order in which they appear in the source. List only the first three authors in the bibliography entry, followed by "et al." Invert the first author’s name to Surname, First Name.
+
+##### Example;
+
+> {.hanging-indent}Battersby, Cara, Lee Armus, Edwin Bergin, et al. 2018. "The Origins Space Telescope." *Nature Astronomy* 2, no. 8: 596–599. https://doi.org/10.1038/s41550-018-0540-y. {/.hanging-indent}
+
 
 ###### end-subtype-content
 
@@ -378,13 +390,13 @@ Refer to original source
 
 #### Note rule
 
-{.footnote-indent}Note number. Author's Full Name, *Title: Subtitle* (Place of Publication: Publisher's Name, Year of Publication), Page or Page Numbers. {/.footnote-indent}
+{.footnote-indent}Note number. Author's Full Name, *Title: Subtitle* (Publisher's Name, Year of Publication), Page or Page Numbers. {/.footnote-indent}
 
 #### Note examples;
 
-> {.footnote-indent}1. Doug Patt, *How to Architect (*Cambridge, Mass: MIT Press. 2012), 28. {/.footnote-indent}
-> {.footnote-indent}2. Mark Oranje and Tuna Taşan-Kok, *From Student to Urban Planner: Young Practitioners' Reflections on Contemporary Ethical Challenges* (Milton: Routledge. 2017), 44. {/.footnote-indent}
-> {.footnote-indent}3. Okwui Enwezor et al., *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity* (Durham: Duke University Press, 2008), 223. {/.footnote-indent}
+> {.footnote-indent}1. Doug Patt, *How to Architect (*Cambridge, MIT Press. 2012), 28. {/.footnote-indent}
+> {.footnote-indent}2. Mark Oranje and Tuna Taşan-Kok, *From Student to Urban Planner: Young Practitioners' Reflections on Contemporary Ethical Challenges* (Routledge. 2017), 44. {/.footnote-indent}
+> {.footnote-indent}3. Okwui Enwezor et al., *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity* (Duke University Press, 2008), 223. {/.footnote-indent}
 
 #### Shortened note examples;
 
@@ -394,13 +406,13 @@ Refer to original source
 
 #### Bibliography rule;
 
-{.hanging-indent}Author's Family Name, Author's Given Name. *Title: Subtitle.* Place of Publication: Publisher's Name, Year of Publication. {/.hanging-indent}
+{.hanging-indent}Author's Family Name, Author's Given Name. *Title: Subtitle.* Publisher's Name, Year of Publication. {/.hanging-indent}
 
 #### Bibliography examples
 
-> {.hanging-indent}Patt, Doug. *How to Architect*. Cambridge, Mass: MIT Press. 2012. {/.hanging-indent}
-> {.hanging-indent}Oranje, Mark, and Tuna Taşan-Kok. *From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical& Challenges.* Milton: Routledge. 2017. {/.hanging-indent}
-> {.hanging-indent}Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Durham: Duke University Press, 2008. {/.hanging-indent}
+> {.hanging-indent}Patt, Doug. *How to Architect*. MIT Press. 2012. {/.hanging-indent}
+> {.hanging-indent}Oranje, Mark, and Tuna Taşan-Kok. *From Student to Urban Planner: Young Practitioners’ Reflections on Contemporary Ethical& Challenges.* Routledge. 2017. {/.hanging-indent}
+> {.hanging-indent}Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Duke University Press, 2008. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -417,11 +429,11 @@ Books can be referenced using an editor, translator, or compiler if no author is
 
 #### Note rule
 
-{.footnote-indent}Note number. Editor’s Full Name, ed., *Title: Subtitle* (Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
+{.footnote-indent}Note number. Editor’s Full Name, ed., *Title: Subtitle* (Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
 
 ##### Note example
 
-> {.footnote-indent}1. Adam Bell and Charles Traub, eds., *Vision Anew: The Lens and Screen Arts* (Oakland, California: University of California Press, 2015), 42. {/.footnote-indent}
+> {.footnote-indent}1. Adam Bell and Charles Traub, eds., *Vision Anew: The Lens and Screen Arts* (University of California Press, 2015), 42. {/.footnote-indent}
 
 ##### Shortened note example
 
@@ -429,11 +441,11 @@ Books can be referenced using an editor, translator, or compiler if no author is
 
 #### Bibliography rule
 
-{.hanging-indent}Editor’s Surname, Editor’s Given Name, ed. *Title: Subtitle*. Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
+{.hanging-indent}Editor’s Surname, Editor’s Given Name, ed. *Title: Subtitle*. Publisher’s Name, Year of Publication. {/.hanging-indent}
 
 ##### Bibliography example
 
-> {.hanging-indent}Bell, Adam, and Charles Traub, eds. *Vision Anew: The Lens and Screen Arts.* Oakland, California: University of California Press, 2015. {/.hanging-indent}
+> {.hanging-indent}Bell, Adam, and Charles Traub, eds. *Vision Anew: The Lens and Screen Arts.* University of California Press, 2015. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -450,11 +462,11 @@ Include the chapter author, the chapter title in quotation marks, as well as the
 
 #### Note rule
 
-{.footnote-indent}Note Number. Chapter Author’s Full Name, "Title of Chapter," in *Title,* ed. Editor's Full Name (Place of Publication: Publisher's Name, Year of Publication), Page or Pages. {/.footnote-indent}
+{.footnote-indent}Note Number. Chapter Author’s Full Name, "Title of Chapter," in *Title,* ed. Editor's Full Name (Publisher's Name, Year of Publication), Page. {/.footnote-indent}
 
 ##### Note example
 
-> {.footnote-indent}1. Alistair Baldwin, "Hippotherapy," in *Growing Up Disabled in Australia,* ed. Carly Findlay (Carlton, VIC: Black Inc., 2021), 52. {/.footnote-indent}
+> {.footnote-indent}1. Alistair Baldwin, "Hippotherapy," in *Growing Up Disabled in Australia,* ed. Carly Findlay (Black Inc., 2021), 52. {/.footnote-indent}
 
 ##### Shortened note example
 
@@ -462,11 +474,11 @@ Include the chapter author, the chapter title in quotation marks, as well as the
 
 #### Bibliography rule
 
-{.hanging-indent}Chapter Author’s Family Name, Chapter Author’s Given Name. “Chapter Title.” In *Title: Subtitle*, edited by Editor’s Full Name, Chapter Page Range. Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
+{.hanging-indent}Chapter Author’s Family Name, Chapter Author’s Given Name. “Chapter Title.” In *Title: Subtitle*, edited by Editor’s Full Name. Publisher’s Name. Year of Publication, {/.hanging-indent}
 
 ##### Bibliography example
 
-> {.hanging-indent}Baldwin, Alistair. “Hippotherapy.” In *Growing Up Disabled in Australia,* edited by Carly Findlay, 47-52. Carlton, VIC: Black Inc., 2021. {/.hanging-indent}
+> {.hanging-indent}Baldwin, Alistair. “Hippotherapy.” In *Growing Up Disabled in Australia,* edited by Carly Findlay. Black Inc, 2021. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -485,13 +497,13 @@ If there are no page numbers in the ebook, use the chapter or section headings.
 
 #### Note rule
 
-{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle* (Place of Publication: Publisher’s Name, Year of Publication), Pages/Chapter Number, DOI/URL/ Application/Device/File Format. {/.footnote-indent}
+{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle* (Publisher’s Name, Year of Publication), Pages/Chapter Number, DOI/URL/ Application/Device/File Format. {/.footnote-indent}
 
 ##### Note examples
 
-> {.footnote-indent}1. Henry Carroll, *Read This If You Want To Take Great Photographs* (London: Laurence King, 2014), 10, ProQuest Ebook Central. {/.footnote-indent}
-> {.footnote-indent}2. Leo Tolstoy, *Anna Karenina,* trans. Constance Garnett (USA: Project Gutenberg, 1998), chap. 4, https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.footnote-indent}
-> {.footnote-indent}3. Clive Scott, *The Spoken Image: Photography and Language* (London: Reaktion, 1999), 166, EBSCOhost Ebooks, PDF. {/.footnote-indent}
+> {.footnote-indent}1. Henry Carroll, *Read This If You Want To Take Great Photographs* (Laurence King, 2014), 10, ProQuest Ebook Central. {/.footnote-indent}
+> {.footnote-indent}2. Leo Tolstoy, *Anna Karenina,* trans. Constance Garnett (Project Gutenberg, 1998), chap. 4, https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.footnote-indent}
+> {.footnote-indent}3. Clive Scott, *The Spoken Image: Photography and Language* (Reaktion, 1999), 166, EBSCOhost Ebooks, PDF. {/.footnote-indent}
 
 ##### Shortened note examples
 
@@ -501,13 +513,13 @@ If there are no page numbers in the ebook, use the chapter or section headings.
 
 #### Bibliography rule
 
-{.hanging-indent}Author’s Family Name, Author’s Given Name. *Title: Subtitle*. Place of Publication: Publisher’s Name, Year of Publication. DOI, URL, Application, Device, or File Format. {/.hanging-indent}
+{.hanging-indent}Author’s Family Name, Author’s Given Name. *Title: Subtitle*. Publisher’s Name, Year of Publication. DOI, URL, Application, Device, or File Format. {/.hanging-indent}
 
 ##### Bibliography examples
 
-> {.hanging-indent}Carroll, Henry. *Read This If You Want To Take Great Photographs.* London: Laurence King, 2014. ProQuest Ebook Central. {/.hanging-indent}
-> {.hanging-indent}Tolstoy, Leo. *Anna Karenina.* Translated by Constance Garnett. USA: Project Gutenberg, 1998. https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.hanging-indent}
-> {.hanging-indent}Scott, Clive. *The Spoken Image: Photography and Language.*London: Reaktion, 1999. EBSCOhost Ebooks, PDF. {/.hanging-indent}
+> {.hanging-indent}Carroll, Henry. *Read This If You Want To Take Great Photographs.* Laurence King, 2014. ProQuest Ebook Central. {/.hanging-indent}
+> {.hanging-indent}Tolstoy, Leo. *Anna Karenina.* Translated by Constance Garnett. Project Gutenberg, 1998. https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.hanging-indent}
+> {.hanging-indent}Scott, Clive. *The Spoken Image: Photography and Language.* Reaktion, 1999. EBSCOhost Ebooks, PDF. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -528,12 +540,12 @@ Include the edition name or number after the title in an abbreviated from. For e
 
 ##### Note rule
 
-{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle,* edition name or number. (Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
+{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle,* edition name or number. (Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
 
 ##### Note example
 
-> {.footnote-indent}1. Paul Martin Lester, *Visual Communication: Images with Messages*, 8th ed. (Dallas, Texas: Lex Publishing, 2020), 128. {/.footnote-indent}
-> {.footnote-indent}2. Bruce Pascoe, *Dark Emu,* New ed. (Broome, Western Australia: Magabala Books Aboriginal Corporation, 2018), 11. {/.footnote-indent}
+> {.footnote-indent}1. Paul Martin Lester, *Visual Communication: Images with Messages*, 8th ed. (Lex Publishing, 2020), 128. {/.footnote-indent}
+> {.footnote-indent}2. Bruce Pascoe, *Dark Emu,* New ed. (Magabala Books Aboriginal Corporation, 2018), 11. {/.footnote-indent}
 
 ##### Shortened note examples
 
@@ -542,20 +554,20 @@ Include the edition name or number after the title in an abbreviated from. For e
 
 ##### Bibliography rule
 
-{.hanging-indent}First Author’s Family Name, First Author’s Given Name, and Subsequent Authors’ Full Names. *Title: Subtitle,* edition name or number. Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
+{.hanging-indent}First Author’s Family Name, First Author’s Given Name, and Subsequent Authors’ Full Names. *Title: Subtitle,* edition name or number. Publisher’s Name, Year of Publication. {/.hanging-indent}
 
 Bibliography examples
 
-> {.hanging-indent}Lester, Paul Martin. *Visual Communication: Images with Messages.* 8th ed. Dallas, Texas: Lex Publishing, 2020. {/.hanging-indent}
-> {.hanging-indent}Pascoe, Bruce. *Dark Emu.* New ed. Broome, Western Australia: Magabala Aboriginal Corporation, 2018. {/.hanging-indent}
+> {.hanging-indent}Lester, Paul Martin. *Visual Communication: Images with Messages.* 8th ed. Lex Publishing, 2020. {/.hanging-indent}
+> {.hanging-indent}Pascoe, Bruce. *Dark Emu.* New ed. Magabala Aboriginal Corporation, 2018. {/.hanging-indent}
 
 #### Reprints and modern editions
 
-Books may be re-issued in a different format or with the addition of new material. Use this rule when the original date of publication is relevant.
+Books may be re-issued in a different format or with the addition of new material. Use this rule when the original date of publication is relevant. For books published before 1900, include the place of publication.
 
 ##### Note rule
 
-{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle* (First Edition Place of Publication: Publisher’s Name, Year of Publication; Modern Edition Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. Indicate the edition to which page numbers refer. {/.footnote-indent}
+{.footnote-indent}Note number. Author’s Full Name, *Title: Subtitle* (First Edition. Publisher’s Name, Year of Publication; Modern Edition Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. Indicate the edition to which page numbers refer. {/.footnote-indent}
 
 ##### Note example
 
@@ -588,11 +600,11 @@ In the note, include the word *trans.* and then the translator's name. In the bi
 
 #### Note rule
 
-{.footnote-indent}Note number. Author’s Full Name, *Title*, trans. Translator’s Full Name (Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
+{.footnote-indent}Note number. Author’s Full Name, *Title*, trans. Translator’s Full Name (Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
 
 ##### Note example
 
-> {.footnote-indent}1. Elena Ferrante, *The Lying Life of Adults,* trans. Ann Goldstein (London: Europa Editions, 2019), 114. {/.footnote-indent}
+> {.footnote-indent}1. Elena Ferrante, *The Lying Life of Adults,* trans. Ann Goldstein ( Europa Editions, 2019), 114. {/.footnote-indent}
 
 ##### Shortened note example
 
@@ -600,11 +612,11 @@ In the note, include the word *trans.* and then the translator's name. In the bi
 
 #### Bibliography rule
 
-{.hanging-indent}Author’s Family Name, Author’s Given Name. *Title: Subtitle*. Translated by Translator’s Full Name. Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
+{.hanging-indent}Author’s Family Name, Author’s Given Name. *Title: Subtitle*. Translated by Translator’s Full Name. Publisher’s Name, Year of Publication. {/.hanging-indent}
 
 ##### Bibliography example
 
-> {.hanging-indent}Ferrante, Elena. *The Lying Life of Adults.* Translated by Ann Goldstein. London: Europa Editions, 2019. {/.hanging-indent}
+> {.hanging-indent}Ferrante, Elena. *The Lying Life of Adults.* Translated by Ann Goldstein. Europa Editions, 2019. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -621,11 +633,11 @@ If the publication does not list a personal name as author and it has been issue
 
 #### Note rule
 
-{.footnote-indent}Note number. Organisation’s Name, *Title: Subtitle* (Place of Publication: Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
+{.footnote-indent}Note number. Organisation’s Name, *Title: Subtitle* (Publisher’s Name, Year of Publication), Page or Pages. {/.footnote-indent}
 
 ##### Note example
 
-> {.footnote-indent}1. Institute of Contemporary Arts, *Nought to 60: 60 Projects, 6 months* (London: Institute of Contemporary Art, 2009), 179. {/.footnote-indent}
+> {.footnote-indent}1. Institute of Contemporary Arts, *Nought to 60: 60 Projects, 6 months* (Institute of Contemporary Art, 2009), 179. {/.footnote-indent}
 
 ##### Shortened note example
 
@@ -633,11 +645,11 @@ If the publication does not list a personal name as author and it has been issue
 
 #### Bibliography rule
 
-{.hanging-indent}Organisation’s Name. *Title: Subtitle*. Place of Publication: Publisher’s Name, Year of Publication. {/.hanging-indent}
+{.hanging-indent}Organisation’s Name. *Title: Subtitle*. Publisher’s Name, Year of Publication. {/.hanging-indent}
 
 ##### Bibliography example
 
-> {.hanging-indent}Institute of Contemporary Arts. *Nought to 60: 60 Projects, 6 months.* London: Institute of Contemporary Art, 2009. {/.hanging-indent}
+> {.hanging-indent}Institute of Contemporary Arts. *Nought to 60: 60 Projects, 6 months.* Institute of Contemporary Art, 2009. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -658,7 +670,7 @@ As exhibition catalogues and brochures are often published like a book, referenc
 
 ##### Note example
 
-> {.footnote-indent}1. Caroline Achaintre et al., eds., *New Contemporaries 2017* (London: New Contemporaries 1988 Ltd, 2017), 88. {/.footnote-indent}
+> {.footnote-indent}1. Caroline Achaintre et al., eds., *New Contemporaries 2017* (New Contemporaries 1988 Ltd, 2017), 88. {/.footnote-indent}
 
 ##### Shortened note Example
 
@@ -666,11 +678,11 @@ As exhibition catalogues and brochures are often published like a book, referenc
 
 #### Bibliography rule
 
-{.hanging-indent}Author's Family Name, Author's Given Name. *Title: Subtitle.* Place of Publication: Publisher's Name, Year of Publication. Exhibition Details. {/.hanging-indent}
+{.hanging-indent}Author's Family Name, Author's Given Name. *Title: Subtitle.* Publisher's Name, Year of Publication. Exhibition Details. {/.hanging-indent}
 
 #### Bibliography example
 
-> {.hanging-indent}Achaintre, Caroline, Elizabeth Price, George Shaw, and Kirsty Ogg, eds. *Bloomberg's New Contemporaries 2017*. London: New Contemporaries 1988 Ltd, 2017. Published in conjunction with an exhibition of the same title, January 27, 2018-March 3, 2018. {/.hanging-indent}
+> {.hanging-indent}Achaintre, Caroline, Elizabeth Price, George Shaw, and Kirsty Ogg, eds. *Bloomberg's New Contemporaries 2017*. New Contemporaries 1988 Ltd, 2017. Published in conjunction with an exhibition of the same title, January 27, 2018-March 3, 2018. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -699,23 +711,23 @@ Titles of journals, exclude *The* in the title of the journal from the note and 
 
 #### Note rule - one or two authors
 
-{.footnote-indent}Note number. Author’s Full Name, “Title of Article,” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Page or Pages, DOI. {/.footnote-indent}
+{.footnote-indent}Note number. Author’s Full Name, “Title of Article,” *Title of Publication* Volume Number, no. Issue Number (Year of Publication): Page or Pages, DOI. {/.footnote-indent}
 
 OR
 
-{.footnote-indent}Note number. Author’s Full Name, “Title of Article,” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Page or Pages, URL. {/.footnote-indent}
+{.footnote-indent}Note number. Author’s Full Name, “Title of Article,” *Title of Publication* Volume Number, no. Issue Number (Year of Publication): Page or Pages, URL. {/.footnote-indent}
 
 ##### Note examples
 
 > {.footnote-indent}1. Christine McCarthy, “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25, https<nolink>://doi.org/10.1177/1206331205275020. {/.footnote-indent}
-> {.footnote-indent}2. Dolores Hayden and Gwendolyn Wright, “Architecture and Urban Planning,” *Signs: Journal of Women in Culture and Society* 1, no (Summer, 1976): http<nolink>://www.jstor.org/stable/3173242. {/.footnote-indent}
+> {.footnote-indent}2. Dolores Hayden and Gwendolyn Wright, “Architecture and Urban Planning,” *Signs: Journal of Women in Culture and Society* 1, no.4 (1976): http<nolink>://www.jstor.org/stable/3173242. {/.footnote-indent}
 
 ##### Multiple author note examples
 
 See further rules on multiple authors in the multiple author tab in Using Chicago Notes-Bibliography
 
-> {.footnote-indent}3. Taylor Brydes, Lisa Heinze, Monique Retamal. "Changing Geographies of Fashion during COVID-19: The Australian Case," *Geographical Research* 59, no.2 (2021): 206-216, https<nolink>://doi.org/10.1111/1745-5871.12460. {/.footnote-indent}
-> {.footnote-indent}4. Martha Rosler et al. "Notes from the Field: Materiality," *The Art Bulletin* 95, no. 1 (2013): https<nolink>://doi.org/10-37,10.1080/00043079.2013.10786104. {/.footnote-indent}
+> {.footnote-indent}3. Taylor Brydes et al., "Changing Geographies of Fashion during COVID-19: The Australian Case," *Geographical Research* 59, no.2 (2021): 206-216, https<nolink>://doi.org/10.1111/1745-5871.12460. {/.footnote-indent}
+> {.footnote-indent}4. Martha Rosler et al., "Notes from the Field: Materiality," *The Art Bulletin* 95, no. 1 (2013): https<nolink>://doi.org/10-37,10.1080/00043079.2013.10786104. {/.footnote-indent}
 
 ##### Shortened note example
 
@@ -727,16 +739,16 @@ See further rules on multiple authors in the multiple author tab in Using Chicag
 
 For articles consulted online, include a DOI or URL or the name of the database in the bibliography. Many journal articles list a DOI (Digital Object Identifier). See examples.
 
-{.hanging-indent}Author’s Family Name, Author’s Given Name. “Title of Article.” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Article page range. DOI. {/.hanging-indent}
+{.hanging-indent}Author’s Family Name, Author’s Given Name. “Title of Article.” *Title of Publication* Volume Number, no. Issue Number (Year of Publication): Article page range. DOI. {/.hanging-indent}
 
 OR
 
-{.hanging-indent}Author’s Family Name, Author’s Given Name. “Title of Article.” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Article page range. URL. {/.hanging-indent}
+{.hanging-indent}Author’s Family Name, Author’s Given Name. “Title of Article.” *Title of Publication* Volume Number, no. Issue Number (Year of Publication): Article page range. URL. {/.hanging-indent}
 
 ##### Bibliography examples
 
 > {.hanging-indent}McCarthy, Christine. “Toward a Definition of Interiority.” *Space & Culture* 8, no. 2 (2005): 112–25, https<nolink>://doi.org/10.1177/1206331205275020. {/.hanging-indent}
-> {.hanging-indent}Rosler, Martha, Caroline Walker Bynum, Natasha Eaton, Michael Ann Holly, Amelia jones, Michael Kelly, Robin Kelsey, et. al. "Notes from the Field: Materiality," *The Art Bulletin* 95, no. 1 (2013): 10-37, https<nolink>://doi.org/10.1080/00043079.2013.10786104. {/.hanging-indent}
+> {.hanging-indent}Rosler, Martha, Caroline Walker Bynum, Natasha Eaton et al., "Notes from the Field: Materiality," *The Art Bulletin* 95, no. 1 (2013): 10-37, https<nolink>://doi.org/10.1080/00043079.2013.10786104. {/.hanging-indent}
 
 OR
 
@@ -757,11 +769,11 @@ Cite journal articles accessed in print in the same way as journal articles acce
 
 #### Rule for note
 
-{.footnote-indent}Note number. Author’s Full Name, “Title of Article,” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Page or Pages. {/.footnote-indent}
+{.footnote-indent}Note number. Author’s Full Name, “Title of Article,” *Title of Publication* Volume Number, no. Issue Number (Year of Publication): Page or Pages. {/.footnote-indent}
 
 ##### Note example
 
-> {.footnote-indent}1. Benjamin Bagley, “Loving Someone in Particular,” *Ethics* 125, no. 2 (January 2015): 477. {/.footnote-indent}
+> {.footnote-indent}1. Benjamin Bagley, “Loving Someone in Particular,” *Ethics* 125, no. 2 (2015): 477. {/.footnote-indent}
 
 ##### Shortened note example
 
@@ -769,11 +781,11 @@ Cite journal articles accessed in print in the same way as journal articles acce
 
 #### Bibliography rule
 
-{.hanging-indent}Author’s Family Name, Author’s Given Name. “Title of Article.” *Title of Publication* Volume Number, no. Issue Number (Month or Season and/or Year of Publication): Article page range. {/.hanging-indent}
+{.hanging-indent}Author’s Family Name, Author’s Given Name. “Title of Article.” *Title of Publication* Volume Number, no. Issue Number (Year of Publication): Article page range. {/.hanging-indent}
 
 ##### Bibliography example
 
-> {.hanging-indent}Bagley, Benjamin. “Loving Someone in Particular,” *Ethics* 125, no. 2 (January 2015): 477–507. {/.hanging-indent}
+> {.hanging-indent}Bagley, Benjamin. “Loving Someone in Particular,” *Ethics* 125, no. 2 (2015): 477–507. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -837,7 +849,7 @@ or if no author
 
 {.hanging-indent}Author's Family Name, First Name. "Title of Article: Subtitle." *Name of Newspaper,* Date of Publication. URL or Database Name. (online newspaper) {/.hanging-indent}
 
-#### Examples of Bibliography 
+#### Examples of Bibliography
 
 > {.hanging-indent}Hill, Jeanette. "Open Doors." *Weekly Times*, July 20, 2011. {/.hanging-indent}
 > {.hanging-indent}Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Australian Fashion Week," *Guardian News*, June 4, 2021. https<nolink>://www.theguardian.com/fashion/2021/jun/05/a-movement-not-a-moment-indigenous-design-in-the-spotlight-at-australian-fashion-week. {/.hanging-indent}
@@ -928,7 +940,7 @@ Videos (that are not movies or television series) streamed from online platforms
 
 Video recordings of films, movies, or documentaries accessed on DVD or other physical medium, or streamed online.
 
-- Notes begin with the Title of the Film in italics. Bibliography entries begin with the name of the director. 
+- Notes begin with the Title of the Film in italics. Bibliography entries begin with the name of the director.
 
 - If citing a section of larger work, such as a scene or chapter, begin the note with the section titles enclosed in quotation marks.
 
@@ -936,14 +948,14 @@ Video recordings of films, movies, or documentaries accessed on DVD or other phy
 
 - Include the original year of release. If unknown use the year of distribution or copyright.
 
-- For films sourced on DVD/ VHS include place of publication, studio/distributor, (and year of publication if different from original release date) followed by medium at the end of the citation.
+- For films sourced on DVD/ VHS include studio/distributor, (and year of publication if different from original release date) followed by medium at the end of the citation.
 
 - For films streamed online include the duration, an accessed date, and URL/ name of the streaming service or library database at the end of the citation. Use the format ‘HH hr., MM min.’ for duration of movies viewed online.
 
 
 #### Note rule
 
-{.footnote-indent}Note number. *Title of Film*, directed by Directors Full Name (Original year of release; Place of publication: Publisher’s Name, Year of publication), format. {/.footnote-indent}
+{.footnote-indent}Note number. *Title of Film*, directed by Directors Full Name (Original year of release; Publisher’s Name, Year of publication), format. {/.footnote-indent}
 
 OR
 
@@ -951,8 +963,8 @@ OR
 
 ##### Note examples
 
-> {.footnote-indent}1. *Blade Runner*, directed by Ridley Scott (1982; Burbank, CA: Warner Home Video, 2006), DVD. {/.footnote-indent}
-> {.footnote-indent}2. “Fountain Scene", *La Dolce Vita*,  directed by Federico Fellini (1960; Australia: Umbrella Entertainment, 2005), DVD. {/.footnote-indent}
+> {.footnote-indent}1. *Blade Runner*, directed by Ridley Scott (1982; Warner Home Video, 2006), DVD. {/.footnote-indent}
+> {.footnote-indent}2. “Fountain Scene", *La Dolce Vita*,  directed by Federico Fellini (1960; Umbrella Entertainment, 2005), DVD. {/.footnote-indent}
 > {.footnote-indent}3. *Tim’s Vermeer*, directed by Raymond Joseph Teller, (Sony Pictures Classics, 2013), video, accessed 4 July 2021, Informit EduTV. {/.footnote-indent}
 > {.footnote-indent}4. *Visual Acoustics: The Modernism of Julius Shulman*, directed by Eric Bricker, (Shulman Project Partners, 2009), video, accessed 4 July 2021, Kanopy. {/.footnote-indent}
 
@@ -973,7 +985,7 @@ OR
 
 #### Bibliography rule
 
-{.hanging-indent}Director’s Family Name, Given Name, dir. *Title of Film*. Original year of release; Place of publication: Publisher, Year of publication. Format. {/.hanging-indent}
+{.hanging-indent}Director’s Family Name, Given Name, dir. *Title of Film*. Original year of release; Publisher, Year of publication. Format. {/.hanging-indent}
 
 OR
 
@@ -982,8 +994,8 @@ OR
 ##### Bibliography examples
 
 > {.hanging-indent}Bricker, Eric, dir. *Visual Acoustics: The Modernism of Julius Shulman*. Arthouse films. 2009. Kanopy video. 1 hr., 23 min. Accessed July 4, 2021. Kanopy. {/.hanging-indent}
-> {.hanging-indent}Fellini, Federico, dir. *La Dolce Vita*. 1960; Sydney, NSW: Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
-> {.hanging-indent}Scott, Ridley, dir. *Blade Runner*. 1982; Burbank, CA: Warner Home Video, 2006. DVD. {/.hanging-indent}
+> {.hanging-indent}Fellini, Federico, dir. *La Dolce Vita*. 1960; Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
+> {.hanging-indent}Scott, Ridley, dir. *Blade Runner*. 1982; Warner Home Video, 2006. DVD. {/.hanging-indent}
 > {.hanging-indent}Teller, Raymond Joseph, dir. *Tim's Vermeer*. Sony Picture Classics, 2013. EduTV video. 1 hr., 20 min. Accessed July 4, 2021. Informit EduTV. {/.hanging-indent}
 
 ###### end-subtype-content
@@ -999,7 +1011,7 @@ OR
 
 Program or series aired on television, broadcast live, streamed online, or accessed via library database
 
-- Notes begin with the Title of Program in italics. Bibliography entries begin with the name of the creator. 
+- Notes begin with the Title of Program in italics. Bibliography entries begin with the name of the creator.
 
 - The creator can include director, presenter, writer, producer, or actor, depending on the focus of your discussion.
 
@@ -1007,14 +1019,14 @@ Program or series aired on television, broadcast live, streamed online, or acces
 
 - Include additional contributors if relevant between the Title of Episode and the Aired Date.
 
-- If viewed on DVD include place and publisher/distributor followed by medium at the end of the citation.
+- If viewed on DVD include publisher/distributor followed by medium at the end of the citation.
 
 - If viewed online include an accessed date, URL, name of streaming service, or library database at the end of the citation.
 
 
 #### Note rule
 
-{.footnote-indent}Note number. *Title of Program*, season number, episode number, “Title of Episode,” Creator’s Full Name, additional contributors, date aired (Place: Publisher, Year), Medium. {/.footnote-indent}
+{.footnote-indent}Note number. *Title of Program*, season number, episode number, “Title of Episode,” Creator’s Full Name, additional contributors, date aired (Publisher, Year), Medium. {/.footnote-indent}
 
 OR
 
@@ -1022,8 +1034,8 @@ OR
 
 ##### Note examples
 
-> {.footnote-indent}1. *Ways of Seeing*, episode 1, “Part 1: Reproductions,” presented by John Berger, directed and produced by Michael Dibb, aired January 8, 1972 (London: BBC, 1972), accessed July 4, 2021, RMIT Digital Collections.  {/.footnote-indent}
-> {.footnote-indent}2. *Art and Soul*, series 2, episode 3, “Love and Longing,” presented by Hetti Perkins, directed by Steven McGregor, aired July 22, 2014 (Sydney, NSW: Arthouse Films, 2014), DVD. {/.footnote-indent}
+> {.footnote-indent}1. *Ways of Seeing*, episode 1, “Part 1: Reproductions,” presented by John Berger, directed and produced by Michael Dibb, aired January 8, 1972 (BBC, 1972), accessed July 4, 2021, RMIT Digital Collections.  {/.footnote-indent}
+> {.footnote-indent}2. *Art and Soul*, series 2, episode 3, “Love and Longing,” presented by Hetti Perkins, directed by Steven McGregor, aired July 22, 2014 ( Arthouse Films, 2014), DVD. {/.footnote-indent}
 > {.footnote-indent}3. *Grand Designs*, series 18, episode 7, “Peak District: Post-Industrial House,” presented by Kevin McCloud, aired October 18, 2017 on Channel 4, television broadcast. {/.footnote-indent}
 
 #### Shortened note rule
@@ -1039,13 +1051,13 @@ OR
 
 #### Bibliography rule
 
-{.hanging-indent}Creator’s Family Name, Given Name. *Title of Program*. Season number, episode number, “Title of Episode.” Additional contributors. Date aired, Place: Publisher, Year. Medium. {/.hanging-indent}
+{.hanging-indent}Creator’s Family Name, Given Name. *Title of Program*. Season number, episode number, “Title of Episode.” Additional contributors. Date aired, Publisher, Year. Medium. {/.hanging-indent}
 
 ##### Bibliography examples
 
 > {.hanging-indent}Berger, John. *Ways of Seeing*. Episode 1, “Part 1: Reproductions.” Directed and produced by Michael Dibb. Aired January 8, 1972 on BBC. Accessed July 4, 2021. RMIT Digital Collections. {/.hanging-indent}
 > {.hanging-indent}McCloud, Kevin. *Grand Designs*. Season 18, episode 7, “Peak District: Post-Industrial House.” Aired October 18, 2017 on Channel 4. Television broadcast. {/.hanging-indent}
-> {.hanging-indent}Perkins, Hetti. *Art and Soul*. Season 2, episode 3, “Love and Longing.” Directed by Steven McGregor. Aired July 22, 2014 on ABC TV. Sydney, NSW: Arthouse Films, 2014. DVD. {/.hanging-indent}
+> {.hanging-indent}Perkins, Hetti. *Art and Soul*. Season 2, episode 3, “Love and Longing.” Directed by Steven McGregor. Aired July 22, 2014 on ABC TV. Arthouse Films, 2014. DVD. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1064,13 +1076,13 @@ Podcast presenters are usually treated as the author except in the case of inter
 
 - Enclose the episode title in quotation marks, followed by the date published online or recorded.
 
-- Include the word “in” followed by the podcast title in italics. 
+- Include the word “in” followed by the podcast title in italics.
 
-- Additional contributors such as the producers may be included followed by the file format if downloaded as a file. 
+- Additional contributors such as the producers may be included followed by the file format if downloaded as a file.
 
-- Duration is formatted as HH:MM:SS. 
+- Duration is formatted as HH:MM:SS.
 
-- End the citation with a URL.  
+- End the citation with a URL.
 
 
 #### Note rule
@@ -1148,9 +1160,9 @@ Podcast presenters are usually treated as the author except in the case of inter
 
 Sound recordings may include CDs, content from music streaming platforms, or records (LPs).
 
-- Begin the citation with the name of the Creator. The Creator can include the recording artist, composer, or performer depending on the focus of your discussion. For group names e.g. bands, use name in full original order. 
+- Begin the citation with the name of the Creator. The Creator can include the recording artist, composer, or performer depending on the focus of your discussion. For group names e.g. bands, use name in full original order.
 
-- Year of recording or copyright can be used as the year of publication. 
+- Year of recording or copyright can be used as the year of publication.
 
 - Titles of songs or short pieces are enclosed in quotation marks. Titles of albums are italicised.
 
@@ -1187,7 +1199,7 @@ OR
 {.footnote-indent}Note Number. Short Performer Name, "Short Title of Track." {/.footnote-indent}
 
 ##### Shortened note examples
- 
+
 > {.footnote-indent}5. Strauss, *Don Quixote*. {/.footnote-indent}
 > {.footnote-indent}6. Reich, “Come Out.” {/.footnote-indent}
 > {.footnote-indent}7. Yothu Yindi, “Treaty.” {/.footnote-indent}
@@ -1224,7 +1236,7 @@ Or
 
 Unpublished scores are cited and referenced like unpublished manuscripts.
 
-- For direct quotes include a page number after the year. 
+- For direct quotes include a page number after the year.
 
 - If accessed online include a DOI, stable URL, or database name.
 
@@ -1658,11 +1670,11 @@ Works viewed in person, such as art galleries, museums and public spaces, are ci
 
 ##### Note rule (from a book)
 
-{.footnote-indent}Note number. Artist’s Given Name Artist’s Family Name, *Title of work*, Year of production. Medium. In Author's Given Name and Family Names, *Title of Book: Subtitle of Book* (Place of publication: Publisher's name, Date of publication), page number. {/.footnote-indent}
+{.footnote-indent}Note number. Artist’s Given Name Artist’s Family Name, *Title of work*, Year of production. Medium. In Author's Given Name and Family Names, *Title of Book: Subtitle of Book* (Publisher's name, Date of publication), page number. {/.footnote-indent}
 
 ##### Note example
 
-> {.footnote-indent}1. August Macke, *Zoological Gardens 1*, 1912. Oil, canvas. In Eric Baratay and Elisabeth Hardouin Fugier, *Zoo* (London: Reaktion Books, 2002), 268. {/.footnote-indent}
+> {.footnote-indent}1. August Macke, *Zoological Gardens 1*, 1912. Oil, canvas. In Eric Baratay and Elisabeth Hardouin Fugier, *Zoo* (Reaktion Books, 2002), 268. {/.footnote-indent}
 
 ##### Shortened note
 
@@ -1672,11 +1684,11 @@ Works viewed in person, such as art galleries, museums and public spaces, are ci
 
 The publication only should be recorded in the bibliography.
 
-{.hanging-indent}Author's Family Name, Author’s Given Name. *Title.* Place of publication: Publisher, Year of publication. {/.hanging-indent}
+{.hanging-indent}Author's Family Name, Author’s Given Name. *Title.* Publisher, Year of publication. {/.hanging-indent}
 
 ##### Bibliography example
 
-> {.hanging-indent}Baratay, Eric and Elisabeth Hardouin Fugier, *Zoo.* London: Reaktion Books, 2002. {/.hanging-indent}
+> {.hanging-indent}Baratay, Eric and Elisabeth Hardouin Fugier, *Zoo.* Reaktion Books, 2002. {/.hanging-indent}
 
 #### Art or creative work (viewed online)
 
@@ -1731,7 +1743,7 @@ Unpublished tables, graphs and other diagrams that you create are not recorded i
 
 ##### Caption example
 
-> {.figure-text}Figure 1. Glenohumeral joint. in Sharon Gustowski, Maria Budner-Gentry, and Ryan Seals, *Osteopathic techniques: the learner's guide.* (New York: Thieme, 2017), 72, 4.25. {/.figure-text}
+> {.figure-text}Figure 1. Glenohumeral joint. in Sharon Gustowski, Maria Budner-Gentry, and Ryan Seals, *Osteopathic techniques: the learner's guide.* (Thieme, 2017), 72, 4.25. {/.figure-text}
 
 ##### Note example
 
@@ -1739,7 +1751,7 @@ Unpublished tables, graphs and other diagrams that you create are not recorded i
 
 ##### Bibliography
 
-> {.hanging-indent}Gustowski, Sharon, Maria Budner-Gentry, and Ryan Seals, *Osteopathic techniques: the learner's guide.* New York: Thieme, 2017. {/.hanging-indent}
+> {.hanging-indent}Gustowski, Sharon, Maria Budner-Gentry, and Ryan Seals, *Osteopathic techniques: the learner's guide.* Thieme, 2017. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1860,7 +1872,7 @@ Personal communication e.g. letters, email, text messages, and social media mess
 
 ###### start-subtype-content
 
-Theses and dissertations are mostly cited and referenced like books. Rather than italics, titles of thesis are enclosed in quotation marks. 
+Theses and dissertations are mostly cited and referenced like books. Rather than italics, titles of thesis are enclosed in quotation marks.
 
 If the thesis or dissertation is accessed online, include a URL. However, if the URL requires an account login, include only the database or repository name. In parentheses, include any identification number supplied by the database.
 
@@ -1907,12 +1919,12 @@ Include the lecture URL if there is one available.
 
 #### Note rule
 
-{.footnote-indent}Note number. Lecturer’s Full Name, "Title of Lecture: Subtitle of Lecture," Unit Code: *Title of Unit* (Description, Place of lecture: University, Date of lecture). URL (if available). {/.footnote-indent}
+{.footnote-indent}Note number. Lecturer’s Full Name, "Title of Lecture: Subtitle of Lecture," Unit Code: *Title of Unit, Description, University, Date of lecture. URL (if available). {/.footnote-indent}
 
 ##### Note examples
 
-> {.footnote-indent}1. Tran Duc Linh, "Math 2081: Week 1 Lecture," MATH 2081: *Mathematics for Computing* (Lecture, Online: RMIT University, June 28, 2021). https<nolink>://web.microsoftstream.com/video/dc38f791-8ce3-4e33-866a-5144380799f9. {/.footnote-indent}
-> {.footnote-indent}2. David Smith, "Communication 101: Week 3 Lecture," COMM204: *Communication* (Lecture, Melbourne: RMIT University July 2, 2021). {/.footnote-indent}
+> {.footnote-indent}1. Tran Duc Linh, "Math 2081: Week 1 Lecture," MATH 2081: *Mathematics for Computing*, Lecture, RMIT University, June 28, 2021. https<nolink>://web.microsoftstream.com/video/dc38f791-8ce3-4e33-866a-5144380799f9. {/.footnote-indent}
+> {.footnote-indent}2. David Smith, "Communication 101: Week 3 Lecture," COMM204: *Communication*, Lecture, RMIT University July 2, 2021. {/.footnote-indent}
 
 ##### Shortened note examples
 
@@ -1921,12 +1933,12 @@ Include the lecture URL if there is one available.
 
 #### Bibliography rule
 
-{.hanging-indent}Lecturer’s Family Name, Lecturer’s Given Name. “Title of Lecture: Subtitle of Lecture.” Unit Code: *Title of Unit*. Place of lecture: University, Date of lecture. URL (if available). {/.hanging-indent}
+{.hanging-indent}Lecturer’s Family Name, Lecturer’s Given Name. “Title of Lecture: Subtitle of Lecture.” Unit Code: *Title of Unit*. University, Date of lecture. URL (if available). {/.hanging-indent}
 
 ##### Bibliography examples
 
-> {.hanging-indent}Linh, Tran Duc. "Math 2081: Week 1 Lecture," MATH2081. *Mathematics for Computing.*Online: RMIT University, June 28, 2021.https<nolink>://web.microsoftstream.com/video/dc38f791-8ce3-4e33-866a-5144380799f9. {/.hanging-indent}
-> {.hanging-indent}Smith, David. "Communication 101: Week 3 Lecture," COMM204. *Communication.* Melbourne: RMIT University, July 2, 2021. {/.hanging-indent}
+> {.hanging-indent}Linh, Tran Duc. "Math 2081: Week 1 Lecture," MATH2081. *Mathematics for Computing.* RMIT University, June 28, 2021. https<nolink>://web.microsoftstream.com/video/dc38f791-8ce3-4e33-866a-5144380799f9. {/.hanging-indent}
+> {.hanging-indent}Smith, David. "Communication 101: Week 3 Lecture," COMM204. *Communication.* RMIT University, July 2, 2021. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1957,13 +1969,13 @@ Include the lecture URL if there is one available.
 
 ###### start-subtype-content
 
-When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.
 
-The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.
 
-It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website.
 
-For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
 
 **Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
 
@@ -2009,7 +2021,7 @@ Some generative AI tools are not connected to the internet and are trained on da
 -   As these tools function in a similar way to predictive text on your phone, by recognising and reproducing patterns in language, they can generate incorrect information.
 -   While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 -   The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
-   
+
 The  [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/)  has more information on how these AI tools work, and some points to consider when using them.
 
 ##### Copyright and non-human authors
@@ -2024,11 +2036,11 @@ Example: On the 26th June 2023, I used the May 24 version of OpenAI's ChatGPT to
 
 ##### Referencing specific text content generated by AI tools
 
-Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.  
+Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.
 
-If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers. 
+If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers.
 
-Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves. 
+Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves.
 
 #### AI-generated images
 
@@ -2061,9 +2073,17 @@ AI-generated images are an emerging technology, and there are not yet clear guid
 
 #### How to reference AI-generated text
 
-The Chicago Manual of Style editors have released a [Q&A post on referencing AI-generated text](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html). We have adapted these guidelines to accommodate the current Australian copyright advice that AI tools cannot be listed as authors. Instead, use the creator of the tool as the author in the in-text citation and provide bibliographic details in a reference list entry.
+The Chicago Manual of Style advises that the use of chatbots must be disclosed and any specific AI-generated content —quoted or paraphrased— needs citation at the point of use. Like personal communications and social media, chatbot exchanges typically aren't listed in bibliographies. Use the creator of the tool as the author in the note or in text citation.
 
-If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the output generated in an appendix. Include the general URL for the tool and a note about the appendix in the reference list entry.
+If an AI conversation is included in a bibliography or reference list, it should be cited under the name of the publisher or developer, not under the tool’s name, and must include a publicly accessible URL.
+
+If there is no shareable link, you should include details about the tool used in the text, for example:
+
+> {.hanging-indent} The following recommendations for implementing accessible design practices were generated by Claude (Anthropic) on 9th January 2026 in response to the prompt "list five key principles for creating accessible web interfaces for users with visual impairments." {/.hanging-indent}
+
+If the content is not shareable, include the prompt used and the output generated. Include the general URL for the tool and a note about how the content was used. For example:
+
+> {.hanging-indent} "Response to "What are the characteristics of Bauhaus architecture?," Claude 3.5 Sonnet, Anthropic, December 15, 2025, lightly edited for clarity" {/.hanging-indent}
 
 **Chicago A (Notes-Bibliography) style** uses numbered in-text citations that match the corresponding footnote or endnote entry.
 
@@ -2071,21 +2091,21 @@ If a shareable URL to the content is available, include it in your reference lis
 
 ##### Rule
 
-> {.hanging-indent}Note number. AI tool used, Month Day, Year, Creator of tool, URL.{/.hanging-indent}
+> {.hanging-indent} Footnote Number. Text generated by Name of Artificial Intelligence Tool Version Number, Developer, Month Day, Year, URL to copy of transcript. {/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}1. Text generated using ChatGPT, June 26, 2023, OpenAI, https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c{/.hanging-indent}
+> {.hanging-indent}1. Text generated using ChatGPT 5, OpenAI, June 26, 2023, https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c{/.hanging-indent}
 
 #### Footnote example - non-shareable AI-generated content:
 
 ##### Rule
 
-> {.hanging-indent}Note number. AI tool used, Month Day, Year, Creator of tool, URL, Appendix.{/.hanging-indent}
+> {.hanging-indent} Footnote Number. Response to “Prompt,” Name of Artificial Intelligence Tool Version Number, Developer, Month Day, Year, editing note [where applicable].{/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}1. Text generated using Claude, January 22, 2024, Anthropic, https://claude.ai/chats, see Appendix for prompt used and output generated.{/.hanging-indent}
+> {.hanging-indent} 1. Response to "What are the characteristics of Bauhaus architecture?," Claude 3.5 Sonnet, Anthropic, December 15, 2025, lightly edited for clarity.{/.hanging-indent}
 
 #### How to reference AI-generated images
 
@@ -2117,7 +2137,7 @@ Follow the general guidelines for [Art or creative works](https://www.lib.rmit.e
 
 ##### Rule
 
-> Figure number. Artist’s Given Name Artist’s Family Name, *Title of work* (if known), Year of production (if known). Medium, in Author's Given Name and Family Names, source details (e.g. website, book, etc). 
+> Figure number. Artist’s Given Name Artist’s Family Name, *Title of work* (if known), Year of production (if known). Medium, in Author's Given Name and Family Names, source details (e.g. website, book, etc).
 
 ##### Examples
 

@@ -1,4 +1,4 @@
-<!-- Chicago Author-Date (B) v.17 Style Guide -->
+<!-- Chicago Author-Date (B) v.18 Style Guide -->
 <!-- RMIT Library, Digital Learning -->
 <!-- INSTRUCTIONS -->
 <!-- do not edit, move or delete comments or any lines that begin with 6 hash symbols (######) -->
@@ -49,20 +49,24 @@
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to Chicago B: Author-Date 17th ed.
+### Introduction to Chicago B: Author-Date 18th ed.
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The Chicago referencing style is widely used in art, design, architecture, music, history and humanities subjects. The Chicago Manual of Style includes detailed advice on citing and referencing sources used in these disciplines, including artworks, live performances and historical sources, as well as commonly-used source types such as books, journal articles and websites. 
+**Important: this is a guide only.** To avoid losing marks:
 
-This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341">The Chicago Manual of Style 17th edition</a>. Please refer to this manual if you need more examples than those included in this guide, or if you need clarification. 
+- Confirm referencing requirements with your lecturer.
 
-There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **author-date** format.  
+- Use The Chicago Manual of Style. 18th ed. Chicago: University of Chicago Press, 2024 to clarify referencing rules or if you need more examples. This guide is based on This guide is based on the Chicago Manual of Style 18th edition <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1vrd2be/alma9922622812201341" target="_blank">The Chicago manual of style. 18th edition.</a> (opens in a new tab).
 
-The **author-date** format requires that sources are acknowledged by placing the author’s last name and year of the source within the in-text citation in the body of work. In the reference list at the end of the document, sources appear in **alphabetical** order of author last name.   
+The University of Chicago has developed several editions of the Chicago Manual of Style to aid authors in the preparation of manuscripts, which include referencing styles.
 
-**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
+There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **author-date** format.
+
+For examples and advice regarding **Notes-Bibliography** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago A: Notes and Bibliography 18th ed.](index.php?styleguide=styleguide-4#stn-0).
+
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators.
 
 ###### end-subtype-content
 
@@ -77,9 +81,9 @@ The **author-date** format requires that sources are acknowledged by placing the
 
 - Use in-text citations to acknowledge each author or source of information used within your writing either by paraphrasing or using a direct quote.
 
-- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/referencing/paraphrasing/">Learning Lab: Paraphrasing</a> 
+- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/referencing/paraphrasing/">Learning Lab: Paraphrasing</a>
 
-- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/referencing/quoting/">Learning Lab: Quoting</a> 
+- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/referencing/quoting/">Learning Lab: Quoting</a>
 
 - For specific advice on each reference you must determine the type of resource ie. book, journal article etc. and follow the recommended advice within this guide.
 
@@ -88,7 +92,7 @@ The **author-date** format requires that sources are acknowledged by placing the
     - 'Author prominent' (the author's name is outside the parentheses)
 
 
-> The conclusion reached in a recent study.. (Cochrane 2021)
+> The conclusion reached in a recent study (Cochrane 2021)
 
 > Cochrane (2021) concluded...
 
@@ -103,6 +107,8 @@ The **author-date** format requires that sources are acknowledged by placing the
 - Use a page number for direct quotes. You don’t need a page number when paraphrasing.
 
 - Page number(s) must be cited when using a direct quote. Add a comma then the page number(s). Example: (White 2011, 43).
+
+- If a page number is not available use chapter number (e.g. chap.6), paragraph number (para.3). or section heading (under "Section Heading")
 
 - Paraphrased in-text citations from a chapter or other part of an edited book, include the chapter author(s) and year (Baldwin 2021).
 
@@ -165,9 +171,11 @@ Use a reference list to include all of the publications you have cited at the en
 
 - For articles consulted online, include a URL or the name of the database in the reference list entry. Many journal articles list a DOI (Digital Object Identifier). A DOI forms a permanent URL that begins https<nolink>://doi.org/. This URL is preferable to the URL that appears in your browser’s address bar.
 
+- For authors whose names follow cultural conventions where the family name appears first (common in many Asian and other traditions), keep the original order in your bibliography without reversing it.
+
 - If the article/ebook/online source can only be accessed with an account login, provide the web address of the publisher's homepage or provide the database name.
 
-- If there are four or more authors, you may list up to ten in the reference list. For more than ten authors, list the first seven in the reference list, followed by et al. See further advice on multiple authors in the Multiple Author section of this guide.
+- List up to six authors in a bibliography or reference list entry; if more than six, only the first three are listed, followed by “et al.”. See further advice on multiple authors in the Multiple Author section of this guide.
 
 ###### end-subtype-content
 
@@ -180,13 +188,13 @@ Use a reference list to include all of the publications you have cited at the en
 
 ###### start-subtype-content
 
-#### Two to three authors
+#### Two authors
 
 ##### In-Text Citation
 
-List up to three authors in both the citation and the reference list. For four or more authors, list only the first followed by et al. in the citation and all in the reference list (see four or more authors below).
+List two authors in both the citation and the reference list.
 
-If directly quoting from a source without a page number, use a paragraph number instead.
+If directly quoting from a source without a page number, use a paragraph number or section heading instead.
 
 **Use a page number for direct quotes. You don’t need a page number or paragraph number when paraphrasing.**
 
@@ -213,11 +221,11 @@ For two authors: Family Name, Given Name, and Given Name Family Name. Year etc.
 > {.hanging-indent}Lai, Gladys, and Pema Bakshi. 2021 "5 TikTok Fashion Trends Everyone is Wearing IRL." Vogue (blog), May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
 > {.hanging-indent}Megginson, William L, Mary Jane Byrd, and Leon C. Megginson. 2000. *Small Business Management: An Entrepreneur's Guidebook.* 3rd ed. Boston: Irwin/McGraw-Hill. {/.hanging-indent}
 
-#### Four or more authors
+#### Three to six authors
 
 ##### In-text Citation
 
-List only the first author’s family name followed by et al.
+For three  to six authors, include the first author's surname followed by et.al, comma and the date.
 
 Use a page number for direct quotes. You don’t need a page number when paraphrasing.
 
@@ -231,6 +239,20 @@ List all authors in the reference list entry. List authors in the order in which
 
 > {.hanging-indent}Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. 2008. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Durham: Duke University Press. {/.hanging-indent}
 > {.hanging-indent}Horngren, Charles, Walter Harrison, Suzanne Oliver, Peter Best, David Fraser, and Rebecca Tan. *Financial accounting*. Pearson Higher Education AU, 2012. {/.hanging-indent}
+>
+#### More than six authors
+
+##### In-text citation
+
+> When citing a resource with more than six authors, include the first author’s surname in your in-text citation, followed by et al.
+
+(Enwezor et al. 2008, 56)
+
+##### Reference list
+
+If there are up to six authors, list all authors in the reference list or bibliography. If there are more than six, list only the first three followed by et.al. Invert the first author’s name to Surname, First Name.
+
+> {.hanging-indent} Geller, Alan C., Suraj Venna, Marianne Prout et al. 2002. "Should the Skin Cancer Examination Be Taught in Medical School?" Archives of Dermatology 138, (9): 1201-1203. https://doi.org/10.1001/archderm.138.9.1201. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -255,7 +277,7 @@ If you wish to use a quote by Zukofsky, reproduced in an article by Costello, in
 
 You would acknowledge Zukofsky in the text and add the secondary citation (quoted in Author Family Name Year, Page number):
 
-> In Louis Zukofsky's "Sincerity and Objectification," from the February issue of Poetry magazine, he states that Marianne Moore’s work “is largely a portrait of the author’s character intent upon the presentation which is sincerity, rather than the revealed rest of objectification...”(quoted in Costello 1981, 78).
+> In Louis Zukofsky's "Sincerity and Objectification," from the February issue of Poetry magazine, he states that Marianne Moore’s work “is largely a portrait of the author’s character intent upon the presentation which is sincerity, rather than the revealed rest of objectification...” (quoted in Costello 1981, 78).
 
 #### In-Text Citation: Paraphrase
 
@@ -269,7 +291,7 @@ You would acknowledge Jones in the text and add the secondary citation (cited in
 
 #### Reference list
 
-- According to the Chicago Manual of Style 17th ed. section 15.56 : cite only the secondary source in the reference list entry.
+- According to the Chicago Manual of Style 18th ed. section 14.160: cite only the secondary source in the reference list entry.
 
 Follow the reference list rules for the type of resource you are citing ie. book, journal etc.
 
@@ -291,35 +313,35 @@ Below is an example of a reference list displaying various resource types includ
 
 #### Reference List
 {.hanging-indent}
-Bell, Adam, and Charles Traub, eds. 2015. *Vision Anew: The Lens and Screen Arts.* Oakland, California: University of California Press.
+Bell, Adam, and Charles Traub, eds. 2015. *Vision Anew: The Lens and Screen Arts.* University of California Press.
 
 Burn, Henry. 1861. *Swanston Street from the Bridge.* Oil on canvas. National Gallery of Victoria, Melbourne. https<nolink>://www.ngv.vic.gov.au/explore/collection/work/4294/.
 
 Court, Tanya. 2019. "The Site Re-Presented: Everyday Civic Landscapes." PhD dissertation, RMIT University. RMIT Research Repository (9921864000901341).
 
-CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future*. Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030.
+CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future*. CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030.
 
 Detlor, Brian. 2010. "Information Management." *International Journal of Information Management* 30, no. 2: 103-08. doi: 10.1016/j.ijinfomgt.2009.12.001.
 
-Dickson, Graham. “Immunology: Lecture 4,” ONPS2559: Clinical Immunology, (Melbourne, Vic: RMIT University, Aug 3, 2016). Vodcast/Podcast.
+Dickson, Graham. 2016. “Immunology: Lecture 4,” ONPS2559: Clinical Immunology. Lecture, RMIT University, Melbourne, Aug 3.
 
-Fenna, Alan. 2004. *Australian Public Policy*. 2nd ed. Frenchs Forest, NSW: Pearson Education Australia.
+Fenna, Alan. 2004. *Australian Public Policy*. 2nd ed. Pearson Education Australia.
 
-Hitchcock, Alfred. 2001. “Crop Duster Attack,” *North by Northwest*, DVD. Directed by Alfred Hitchcock. 1959. Burbank, CA: Warner Home Video.
+Hitchcock, Alfred. 2001. “Crop Duster Attack,” *North by Northwest*, DVD. Directed by Alfred Hitchcock. 1959. Warner Home Video.
 
-Lester, Paul Martin. 2020. *Visual Communication: Images with Messages*. 8th ed. Dallas, Texas: Lex Publishing.
+Lester, Paul Martin. 2020. *Visual Communication: Images with Messages*. 8th ed. Lex Publishing.
 
-Miller, Barbara. "New Face set to keep Austrian Conservatives in Power." *Lateline*. Australian Broadcasting Corporation. Thursday October 12, 2017. Television broadcast.
+Miller, Barbara. 2017. "New Face set to keep Austrian Conservatives in Power." *Lateline*. Australian Broadcasting Corporation. Thursday October 12, 2017. Television broadcast.
 
-Nelson, Renae S., and Philippe Valadon. 2017. "A Universal Phage Display System for the Seamless Construction of Fab Libraries." *Journal of Immunological Methods* 450 (November):41-49. doi: 10.1016/j.jim.2017.07.011.
+Nelson, Renae S., and Philippe Valadon. 2017. "A Universal Phage Display System for the Seamless Construction of Fab Libraries." *Journal of Immunological Methods* 450:41-49. doi: 10.1016/j.jim.2017.07.011.
 
 Poll, Zoey. 2022. "The People Who Draw Rocks." *New York Times*, March 16, 2022. ProQuest Central.
 
 Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs.* January 28, 2022. Accessed April 12, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams.
 
-Sample, Sara. 2017. "Human rights in indigenous communities:Lecture 8." HUSO2301: *Applied Human Rights and indigenous Peoples*. Melbourne: RMIT University. Accessed April 10, 2017. Powerpoint presentation. https<nolink>://www.dlsweb.rmit.edu.au/set/Courses/Content/CSIT/oua/cpt250/chapter/02/documents/L2Internetworking.pdf.
+Sample, Sara. 2017. "Human rights in indigenous communities:Lecture 8." HUSO2301: *Applied Human Rights and indigenous Peoples*. Powerpoint presentation, RMIT University, Melbourne. Accessed April 10, 2017.  https<nolink>://www.dlsweb.rmit.edu.au/set/Courses/Content/CSIT/oua/cpt250/chapter/02/documents/L2Internetworking.pdf.
 
-Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. Sydney: SAI Global. https<nolink>://www.saiglobal.com.
+Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. SAI Global. https<nolink>://www.saiglobal.com.
 
 Tame, Grace (@tamepunk). 2021. “Making Noise” Kirsty Neilson—for this year’s Archibald Prize. Instagram photo, May 27, 2021. https<nolink>://www.instagram.com/p/CPXh8CRLJTE/.
 
@@ -371,10 +393,10 @@ Author’s Family Name Year of publication, page number
 
 If no author is listed, use the name of the editor, translator, compiler, or composer. Place the relevant abbreviation after the name; ed., eds., trans., comp., or comps. Leave out the abbreviation for all in-text citations. See the first example below.
 
-{.hanging-indent}Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Place of Publication: Publisher's Name. {/.hanging-indent}
+{.hanging-indent}Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Publisher's Name. {/.hanging-indent}
 
-> {.hanging-indent}Bell, Adam, and Charles Traub, eds. 2015. *Vision Anew: The Lens and Screen Arts.* Oakland, California: University of California Press. {/.hanging-indent}
-> {.hanging-indent}Webb, Jela. 2008. *Strategic Information Management: A Practitioner's Guide*. Oxford: Chandos. {/.hanging-indent}
+> {.hanging-indent}Bell, Adam, and Charles Traub, eds. 2015. *Vision Anew: The Lens and Screen Arts.* University of California Press. {/.hanging-indent}
+> {.hanging-indent}Webb, Jela. 2008. *Strategic Information Management: A Practitioner's Guide*. Chandos. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -393,7 +415,7 @@ Page number(s) should be included when using a direct quote. Add a comma then th
 
 Chapter Author’s Family Name Year of publication, page
 
-> "American literature has contributed to shaping modern society.." (Thoreau 2016, 178).
+> "American literature has contributed to shaping modern society..." (Thoreau 2016, 178).
 
 > "It's one of life's great tragedies that 'hippotherapy' has nothing to do with hippos..." (Baldwin 2021, 46).
 
@@ -405,12 +427,12 @@ Chapter Author’s Family Name Year of publication
 
 #### Reference list
 
-{.hanging-indent}Chapter Author’s Family Name, Given Name. Year. "Title of Chapter." In *Title of Book*, edited by Editor's Given name Family name, chapter page range. Place of Publication: Publisher's Name. {/.hanging-indent}
+{.hanging-indent}Chapter Author’s Family Name, Given Name. Year. "Title of Chapter." In *Title of Book*, edited by Editor's Given name Family name. Publisher's Name. {/.hanging-indent}
 
-> {.hanging-indent}Baldwin, Alistair. 2021. “Hippotherapy.” In *Growing Up Disabled in Australia*, edited by Carly Findlay, 47-52. Melbourne: Black Inc. {/.hanging-indent}
-> {.hanging-indent}Higgs, Malcolm. 2013. “Change and Its Leadership: The Role of Positive Emotions.” In *The Oxford Handbook of Positive Psychology and Work*, edited by P. Alex Linley, Susan Harrington,and Nicola Garcea, 67-94. New York: Oxford University Press. {/.hanging-indent}
-> {.hanging-indent}Jucker, Lodovico. 2012. "Ten Key Steps Towards Sustainable Fashion." In *The Beautiful and the Good: Reasons for Sustainable Fashion*, edited by Marco Ricchetti and Maria Luisa Frisa, 119-127. Venice: Marsilio Editori. {/.hanging-indent}
-> {.hanging-indent}Thoreau, Henry David. 2016. “Walking.” In *The Making of the American Essay*, edited by John D’Agata, 167–95. Minneapolis: Graywolf Press. {/.hanging-indent}
+> {.hanging-indent}Baldwin, Alistair. 2021. “Hippotherapy.” In *Growing Up Disabled in Australia*, edited by Carly Findlay, 47. Black Inc. {/.hanging-indent}
+> {.hanging-indent}Higgs, Malcolm. 2013. “Change and Its Leadership: The Role of Positive Emotions.” In *The Oxford Handbook of Positive Psychology and Work*, edited by P. Alex Linley, Susan Harrington,and Nicola Garcea. Oxford University Press. {/.hanging-indent}
+> {.hanging-indent}Jucker, Lodovico. 2012. "Ten Key Steps Towards Sustainable Fashion." In *The Beautiful and the Good: Reasons for Sustainable Fashion*, edited by Marco Ricchetti and Maria Luisa Frisa. Marsilio Editori. {/.hanging-indent}
+> {.hanging-indent}Thoreau, Henry David. 2016. “Walking.” In *The Making of the American Essay*, edited by John D’Agata. Graywolf Press. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -449,11 +471,11 @@ If there are no page numbers in the ebook, use chapter numbers or section headin
 
 #### Reference list
 
-{.hanging-indent}Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Place of Publication: Publisher’s Name. DOI, URL, Application, Device, or File Format. {/.hanging-indent}
+{.hanging-indent}Author’s Family Name, Author’s Given Name. Year of Publication. *Title: Subtitle.* Publisher’s Name. DOI, URL, Application, Device, or File Format. {/.hanging-indent}
 
-> {.hanging-indent}Carroll, Henry. 2014. *Read This If You Want To Take Great Photographs.* London: Laurence King. ProQuest Ebook Central. {/.hanging-indent}
-> {.hanging-indent}Scott, Clive. 1999. *The Spoken Image: Photography and Language.* London: Reaktion. Kindle ebook. {/.hanging-indent}
-> {.hanging-indent}Tolstoy, Leo. 1998. *Anna Karenina.* Translated by Constance Garnett. USA: Project Gutenberg. https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.hanging-indent}
+> {.hanging-indent}Carroll, Henry. 2014. *Read This If You Want To Take Great Photographs.* Laurence King. ProQuest Ebook Central. {/.hanging-indent}
+> {.hanging-indent}Scott, Clive. 1999. *The Spoken Image: Photography and Language.* Reaktion. Kindle ebook. {/.hanging-indent}
+> {.hanging-indent}Tolstoy, Leo. 1998. *Anna Karenina.* Translated by Constance Garnett. Project Gutenberg. https<nolink>://www.gutenberg.org/files/1399/1399-h/1399-h.htm. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -488,12 +510,12 @@ Page numbers are included when using a direct quote. After the organisation name
 
 When the organisation-as-author and publisher are the same entity, include it in both places in the reference list entry.
 
-{.hanging-indent}Name of Group/Organisation. Year. *Title of Book: Subtitle of Book.* Place of Publication: Publisher's Name. {/.hanging-indent}
+{.hanging-indent}Name of Group/Organisation. Year. *Title of Book: Subtitle of Book.* Publisher's Name. {/.hanging-indent}
 
-> {.hanging-indent}ARC (Australian Research Council). 2017. *ARC Open Access Policy.* Version 2017.1. Canberra, ACT: Australian Research Council. https<nolink>://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy. {/.hanging-indent}
-> {.hanging-indent}CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future.* Canberra, ACT: CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030. {/.hanging-indent}
-> {.hanging-indent}Gehl Architects. 1994. *Perth 2009: Public Spaces and Public Life.* Perth, WA: Department of Planning and Urban Developments. {/.hanging-indent}
-> {.hanging-indent}Institute of Contemporary Arts. 2009. *Nought to 60: 60 Projects, 6 months.* London: Institute of Contemporary Art. {/.hanging-indent}
+> {.hanging-indent}ARC (Australian Research Council). 2017. *ARC Open Access Policy.* Version 2017.1. Australian Research Council. https<nolink>://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy. {/.hanging-indent}
+> {.hanging-indent}CSIRO. 2016. *Australia 2030: Navigating our Uncertain Future.* CSIRO. https<nolink>://www.csiro.au/en/Do-business/Futures/Reports/Australia-2030. {/.hanging-indent}
+> {.hanging-indent}Gehl Architects. 1994. *Perth 2009: Public Spaces and Public Life.* Department of Planning and Urban Developments. {/.hanging-indent}
+> {.hanging-indent}Institute of Contemporary Arts. 2009. *Nought to 60: 60 Projects, 6 months.* Institute of Contemporary Art. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -532,10 +554,10 @@ When the organisation-as-author and publisher are the same entity, include it in
 
 - Edition number is not included for first edition books.
 
-{.hanging-indent}Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Edition. Place of Publication: Publisher's Name. {/.hanging-indent}
+{.hanging-indent}Author's Family Name, Given Name. Year. *Title of Book: Subtitle of Book.* Edition. Publisher's Name. {/.hanging-indent}
 
-> {.hanging-indent}Beresford, Quentin, and Gary Partington. 2012. Reform and Resistance in Aboriginal Education: The Australian Experience. Rev. ed. Perth: University of Western Australia Press. {/.hanging-indent}
-> {.hanging-indent}Lester, Paul Martin. 2020. *Visual Communication: Images with Messages.* 8th ed. Dallas, Texas: Lex Publishing. {/.hanging-indent}
+> {.hanging-indent}Beresford, Quentin, and Gary Partington. 2012. Reform and Resistance in Aboriginal Education: The Australian Experience. Rev. ed. University of Western Australia Press. {/.hanging-indent}
+> {.hanging-indent}Lester, Paul Martin. 2020. *Visual Communication: Images with Messages.* 8th ed. ex Publishing. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -566,10 +588,10 @@ Page number(s) should be included when using a direct quote. Add a comma then th
 
 #### Reference list
 
-{.hanging-indent}Author’s Family Name, Author’s Given Name. Year of Publication. *Title of Book: Subtitle of Book.* Translated by Translator’s Full Name. Place of Publication: Publisher’s Name. {/.hanging-indent}
+{.hanging-indent}Author’s Family Name, Author’s Given Name. Year of Publication. *Title of Book: Subtitle of Book.* Translated by Translator’s Full Name. Publisher’s Name. {/.hanging-indent}
 
-> {.hanging-indent}García Márquez, Gabriel. 1988. *Love in the Time of Cholera.* Translated by Edith Grossman. London: Cape. {/.hanging-indent}
-> {.hanging-indent}Lahiri, Jhumpa. 2016. *In Other Words.* Translated by Ann Goldstein. New York: Alfred A. Knopf. {/.hanging-indent}
+> {.hanging-indent}García Márquez, Gabriel. 1988. *Love in the Time of Cholera.* Translated by Edith Grossman. Cape. {/.hanging-indent}
+> {.hanging-indent}Lahiri, Jhumpa. 2016. *In Other Words.* Translated by Ann Goldstein. Alfred A. Knopf. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -647,12 +669,12 @@ If you viewed the work online, include an accessed date before the URL/DOI/datab
 
 When author/editor for a dictionary or encyclopedia section is unknown, use the section title in quotation marks in place of author names in the reference list entry.
 
-{.hanging-indent}Author of Section Last name, First name. Year. "Title of Section". In *Title of Dictionary or Encyclopedia*, edited by Editor First name Family name, page range if applicable. Place of Publication: Publisher Name. Accessed Month day, year if online. URL, DOI or database name if online. {/.hanging-indent}
+{.hanging-indent}Author of Section Last name, First name. Year. "Title of Section". In *Title of Dictionary or Encyclopedia*, edited by Editor First name Family name, page range if applicable. Publisher Name. Accessed Month day, year if online. URL, DOI or database name if online. {/.hanging-indent}
 
-> {.hanging-indent}Cox, Damian, Marguerite La Caze, and Michael Levine. 2021. "Integrity." In *The Stanford Encyclopedia of Philosophy* , edited by Edward N. Zalta. Palo Alto: Metaphysics Research Lab, Stanford University. Accessed May 5, 2022. https<nolink>://plato.stanford.edu/archives/fall2021/entries/integrity/. {/.hanging-indent}
-> {.hanging-indent}*Macquarie Concise Dictionary*. 2020. 8th edition. Sydney: Macquarie Dictionary Publishers. {/.hanging-indent}
-> {.hanging-indent}Moore, Clive, and Martin Crotty. 2007. "Australian masculinities." In *International encyclopedia of men and masculinities*, edited by Michael Flood, Judith Kegan Gardiner, Bob Pease and Keith Pringle, 31-33. London: Routledge. {/.hanging-indent}
-> {.hanging-indent}"Diwungarna." 2021. In *Ngarinyman to English Dictionary*, edited by Caroline Jones, Eva Schultze-Berndt and Jessica Denniss, 93. Canberra: Aboriginal Studies Press. Accessed May 5, 2022. ProQuest Ebook Central. {/.hanging-indent}
+> {.hanging-indent}Cox, Damian, Marguerite La Caze, and Michael Levine. 2021. "Integrity." In *The Stanford Encyclopedia of Philosophy* , edited by Edward N. Zalta. Metaphysics Research Lab, Stanford University. Accessed May 5, 2022. https<nolink>://plato.stanford.edu/archives/fall2021/entries/integrity/. {/.hanging-indent}
+> {.hanging-indent}*Macquarie Concise Dictionary*. 2020. 8th edition. Macquarie Dictionary Publishers. {/.hanging-indent}
+> {.hanging-indent}Moore, Clive, and Martin Crotty. 2007. "Australian masculinities." In *International encyclopedia of men and masculinities*, edited by Michael Flood, Judith Kegan Gardiner, Bob Pease and Keith Pringle, 31-33. Routledge. {/.hanging-indent}
+> {.hanging-indent}"Diwungarna." 2021. In *Ngarinyman to English Dictionary*, edited by Caroline Jones, Eva Schultze-Berndt and Jessica Denniss, 93. Aboriginal Studies Press. Accessed May 5, 2022. ProQuest Ebook Central. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -713,7 +735,7 @@ If there is no DOI, use a URL in the reference list entry. Unless the URL requir
 
 Chicago does not require access dates in the citations of electronic sources unless no date of publication can be determined.
 
-{.hanging-indent}Author's Family Name, Given Name. Year. "Article Title." *Title of Journal* volume, issue no. (Month or Season if applicable): page range. DOI or URL or Database Name. {/.hanging-indent}
+{.hanging-indent}Author's Family Name, Given Name. Year. "Article Title." *Title of Journal* volume, issue no. page range. DOI or URL or Database Name. {/.hanging-indent}
 
 > {.hanging-indent}Armstrong, Leah. 2021. “Fashions of the Future: Fashion, Gender, and the Professionalization of Industrial Design.” *Design Issues* 37, no. 3: 5-17. https<nolink>://doi.org/10.1162/desi\_a\_00644. {/.hanging-indent}
 > {.hanging-indent}Conforti, Claudia, Fabio Colonnese, Maria Grazia D'Amelio, and Lorenzo Grieco. 2021. “Designing in Real Scale: The Practice and Afterlife of Full-Size Architectural Models from Renaissance to Fascist Italy.” *Architecture & Culture* 9, no. 3: 442-463. https<nolink>://doi.org/10.1080/20507828.2021.1876490. {/.hanging-indent}
@@ -759,8 +781,8 @@ Where only the volume and a month or season is available, include this in place 
 
 {.hanging-indent}Author's Family Name, First Name. Year. "Article Title." *Title of Publication* vol, issue no (Month or Season): page number(s). {/.hanging-indent}
 
-> {.hanging-indent}Bagley, Benjamin. 2015. “Loving Someone in Particular.” *Ethics* 125, no. 2 (January): 477–507. {/.hanging-indent}
-> {.hanging-indent}Cavell, Stanley. 1978. "What Becomes of Things on Film?" *Philosophy and Literature* 2, no. 2 (Fall): 249-57. {/.hanging-indent}
+> {.hanging-indent}Bagley, Benjamin. 2015. “Loving Someone in Particular.” *Ethics* 125, no. 2: 477–507. {/.hanging-indent}
+> {.hanging-indent}Cavell, Stanley. 1978. "What Becomes of Things on Film?" *Philosophy and Literature* 2, no. 2: 249-57. {/.hanging-indent}
 > {.hanging-indent}Zutshi, Ambika, Andrew Creed, Mary Holmes, and Jade Brain. 2016. "Reflections of Environmental Management Implementation in Furniture.” *International Journal of Retail & Distribution Management* 44, no. 8: 840–859. {/.hanging-indent}
 > {.hanging-indent}Escobedo, Frida. 2021. “Architecture Is Forever Unfinished” *Journal of Visual Culture* 20, no. 1: 48–59. {/.hanging-indent}
 
@@ -829,8 +851,8 @@ For the reference list:
 
 {.hanging-indent}Author's Family Name, Given Name. Year of publication. "Title of Article." *Name of Newspaper*, Date of publication. {/.hanging-indent}
 
-> {.hanging-indent}Carey, Adam. 2015. “Gas wars fire up in Victoria as consumers feel the heat.” *Age* (Melbourne), October 15, 2015. {/.hanging-indent}
-> {.hanging-indent}*New York Times*. 2002. “In Texas, Ad Heats Up Race for Governor.” July 30, 2002. {/.hanging-indent}
+> {.hanging-indent}Carey, Adam. 2015. “Gas Wars Fire Up In Victoria As Consumers Feel the Heat.” *Age* (Melbourne), October 15, 2015. {/.hanging-indent}
+> {.hanging-indent}*New York Times*. 2002. “In Texas, Ad Heats Up Race For Governor.” July 30, 2002. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -854,6 +876,8 @@ For articles consulted online, include a URL or the name of the database in the 
 If the article can only be accessed with an account login, provide the web address of the publisher's homepage or provide the database name.
 
 Many journal articles list a DOI (Digital Object Identifier). A DOI forms a permanent URL that begins https<nolink>://doi.org/. This URL is preferable to the URL that appears in your browser’s address bar.
+
+Use title case and capitalise the first and last words, and all other major words.
 
 Sources such as webpages or online newspaper articles do not always include page numbers - for such unpaginated works, it may be appropriate to cite a paragraph number or section heading for in-text citations. For example, Smith (2018, para. 2) notes...
 
@@ -883,8 +907,8 @@ Sources such as webpages or online newspaper articles do not always include page
 
 > {.hanging-indent}Pegoraro, Rob. 2007. “Apple’s iPhone Is Sleek, Smart and Simple.” *Washington Post*, July 5, 2007. ProQuest Central. {/.hanging-indent}
 > {.hanging-indent}Poll, Zoey. 2022. "The People Who Draw Rocks." *New York Times*, March 16, 2022. ProQuest Central. {/.hanging-indent}
-> {.hanging-indent}Szydlowski, Mike. 2021. “Why do dogs do that?: Discover the science behind your dog's strangest behaviors”. *Asheville Citizen*, June 12, 2021. ProQuest Central. {/.hanging-indent}
-> {.hanging-indent}*Washington Post*. 2021. “Work where green grass grows”. September 24, 2021. Thomson Reuters Westlaw. {/.hanging-indent}
+> {.hanging-indent}Szydlowski, Mike. 2021. “Why Do Dogs Do That?: Discover the science behind your dog's strangest behaviors”. *Asheville Citizen*, June 12, 2021. ProQuest Central. {/.hanging-indent}
+> {.hanging-indent}*Washington Post*. 2021. “Work Where Green Grass Grows”. September 24, 2021. Thomson Reuters Westlaw. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -921,9 +945,9 @@ The creator will depend on the focus on your discussion and can include: user wh
 To quote from audiovisual material use the format HH:MM:SS as a pinpoint.
 
 > Brown states “you cannot selectively numb emotion” (2010, 00:15:12).
-> 
+>
 > In the audio paper, Soddell describes the process of composing *Love Songs* as a “sonic meditation” (2018, 00:04:00).
-> 
+>
 > BBC Business editor Simon Jack reported that “… since last year the price of white fish, of which Russia is a major supplier, is up fifty percent” (2022, 00:00:51).
 
 #### In-Text Citation: Paraphrase
@@ -931,7 +955,7 @@ To quote from audiovisual material use the format HH:MM:SS as a pinpoint.
 (Creator's Family Name Year of publication)
 
 > (Never Too Small 2018)
-> 
+>
 > (Brown 2010)
 
 #### Reference list
@@ -951,7 +975,7 @@ For the reference list:
 {.hanging-indent}Creator's Family Name, Given Name. Year. “Title of Video.” Additional information. Online video, duration. Accessed date. URL. {/.hanging-indent}
 
 > {.hanging-indent}Brown, Brené. 2010. “The Power of Vulnerability.” Filmed June 2010 in Houston, TX. TED video, 20:49. Accessed July 4, 2021. https<nolink>://www.ted.com/talks/brene\_brown\_the\_power\_of\_vulnerability. {/.hanging-indent}
-> {.hanging-indent}Jack, Simon. 2022. *BBC News: Business*. “Why your fish and chips may cost a lot more.” Filmed and edited by Samantha Everett. Produced by Ollie Smith. Aired March 17, 2022. Online video, 02:29. Accessed March 21, 2022. https<nolink>://www.bbc.com/news/av/business-60762921. {/.hanging-indent}
+> {.hanging-indent}Jack, Simon. 2022. *BBC News: Business*. “Why Your Fish and Chips May Cost a Lot More.” Filmed and edited by Samantha Everett. Produced by Ollie Smith. Aired March 17, 2022. Online video, 02:29. Accessed March 21, 2022. https<nolink>://www.bbc.com/news/av/business-60762921. {/.hanging-indent}
 > {.hanging-indent}Never Too Small. 2018. “Never Too Small 1970’s Melbourne Tiny Apartment – 35sqm/370sqft.” YouTube video, 3:06. Accessed July 4, 2021. https<nolink>://youtu.be/l3yHLikvjPU. {/.hanging-indent}
 > {.hanging-indent}Soddell, Thembi. 2018. “Love Songs.” Featuring Vanessa Godden. Disclaimer video, 39.48. Accessed July 4, 2021. https<nolink>://disclaimer.org.au/contents/love-songs. {/.hanging-indent}
 
@@ -996,7 +1020,7 @@ For the reference list:
 
 - Film titles are italicised. Scene or chapter titles are enclosed in quotation marks.
 
-- For films sourced on DVD/ VHS include place of publication, studio/distributor, (and year of publication if different from original release date) followed by medium at the end of the citation.
+- For films sourced on DVD/ VHS include studio/distributor, (and year of publication if different from original release date) followed by medium at the end of the citation.
 
 - For films streamed online include the duration, an accessed date, and URL/ name of the streaming service or library database at the end of the citation.
 
@@ -1004,10 +1028,10 @@ For the reference list:
 
 **Film on DVD:**
 
-{.hanging-indent}Director’s Family Name, Given Name, dir. Year of release. “Title of Scene.” *Title of Film*. Place of publication: Studio/Distributor, Year of publication. Medium. {/.hanging-indent}
+{.hanging-indent}Director’s Family Name, Given Name, dir. Year of release. “Title of Scene.” *Title of Film*. Studio/Distributor, Year of publication. Medium. {/.hanging-indent}
 
-> {.hanging-indent}Fellini, Federico, dir. 1960. “Fountain Scene.” *La Dolce Vita*. Sydney, NSW: Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
-> {.hanging-indent}Scott, Ridley, dir. 1982. *Blade Runner*. Burbank, CA: Warner Home Video, 2006. DVD. {/.hanging-indent}
+> {.hanging-indent}Fellini, Federico, dir. 1960. “Fountain Scene.” *La Dolce Vita*. Umbrella Entertainment, 2005. DVD. {/.hanging-indent}
+> {.hanging-indent}Scott, Ridley, dir. 1982. *Blade Runner*.  Warner Home Video, 2006. DVD. {/.hanging-indent}
 
 **Film streamed online:**
 
@@ -1065,7 +1089,7 @@ For the reference list:
 
 > {.hanging-indent}Berger, John, presenter. 1972. *Ways of Seeing*. “Part 1: Reproductions.” Produced by Michael Dibb. Aired January 8, 1972, on BBC. Accessed July 4, 2021. RMIT Digital Collections. {/.hanging-indent}
 > {.hanging-indent}McCloud, Kevin, presenter. 2017. *Grand Designs*. Season 18, episode 7, “Peak District: Post-Industrial House.” Aired October 18, 2017, on Channel 4. Television Broadcast. {/.hanging-indent}
-> {.hanging-indent}Perkins, Hetti, writer and presenter. 2014. *Art and Soul*. Season 2, episode 3, “Love and Longing.” Directed by Steven McGregor. Aired July 22, 2014, on ABC TV. Sydney, NSW: Arthouse Films. DVD. {/.hanging-indent}
+> {.hanging-indent}Perkins, Hetti, writer and presenter. 2014. *Art and Soul*. Season 2, episode 3, “Love and Longing.” Directed by Steven McGregor. Aired July 22, 2014, on ABC TV. Arthouse Films. DVD. {/.hanging-indent}
 
 
 ###### end-subtype-content
@@ -1097,9 +1121,9 @@ To quote from audiovisual material use the format HH:MM:SS as a pinpoint, preced
 
 #### Reference list
 
-{.hanging-indent}Presenter’s Family Name, Given Name. Year broadcast. “Episode Title.” Date broadcast. In *Program Title*. Place produced: Network. Medium. {/.hanging-indent}
+{.hanging-indent}Presenter’s Family Name, Given Name. Year broadcast. “Episode Title.” Date broadcast. In *Program Title*. Network. Medium. {/.hanging-indent}
 
-> {.hanging-indent}Barclay, Paul. 2017. "Julia Gillard Calls for More Preventative Mental Health Care." October 12, 2017. In *Big Ideas*. Adelaide, SA: ABC Radio National. Radio broadcast. {/.hanging-indent}
+> {.hanging-indent}Barclay, Paul. 2017. "Julia Gillard Calls for More Preventative Mental Health Care." October 12, 2017. In *Big Ideas*. ABC Radio National. Radio broadcast. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1223,10 +1247,10 @@ For direct quotes include a page number after the year, preceded by a comma.
 
 Include an accessed date and URL/ Database name for online scores.
 
-{.hanging-indent}Composer’s Family Name, Given Name. Year of publication. *Title of Score*. Place of publication: Publisher. {/.hanging-indent}
+{.hanging-indent}Composer’s Family Name, Given Name. Year of publication. *Title of Score*. Publisher. {/.hanging-indent}
 
 > {.hanging-indent}Reich, Steve. 1980. *Four Organs*. London: Universal Edition. Accessed July 29, 2021. Alexander Street. {/.hanging-indent}
-> {.hanging-indent}Stravinsky, Igor. 1921. *The Rite of Spring*. New York: Boosey and Hawkes. {/.hanging-indent}
+> {.hanging-indent}Stravinsky, Igor. 1921. *The Rite of Spring*. Boosey and Hawkes. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1251,7 +1275,7 @@ Include an accessed date and URL/ Database name for online scores.
 <!-- first accordion item -->
 ###### start-subtype-content
 
-- Chicago requires an access date in citations of websites and other sources consulted online only if no date of publication or revision can be determined from the source (see 14.12 of the Chicago Manual). In those cases that is, when only an access date is used record n.d. as the date of publication in the reference list entry and for the in-text citation. To avoid conflation with the name of the author, n.d. is always lowercase.
+- Chicago requires an access date in citations of websites and other sources consulted online only if no date of publication or revision can be determined from the source (see 14.104 of the Chicago Manual). In those cases that is, when only an access date is used record n.d. as the date of publication in the reference list entry and for the in-text citation. To avoid conflation with the name of the author, n.d. is always lowercase.
 
 - Websites are created by individuals, companies, governments and other organisations. If no individual author is identified, use the organisation name as the author. If no organisation is identified either, use the webpage title in the place of the author name.
 
@@ -1267,17 +1291,17 @@ Include an accessed date and URL/ Database name for online scores.
 
 (Author’s Family Name or Organisation Year of publication)
 
-> Scrubt (2017) commented on the façade of the building…  
+> Scrubt (2017) commented on the façade of the building…
 
 > The façade of the building has a mysterious look (Scrubt 2017).
 
 #### Reference list
 
-{.hanging-indent}Author. Year. "Title of Webpage." Website name (owning organisation). Date viewed/accessed. URL. {/.hanging-indent}
+{.hanging-indent}Author. Year. "Title of Webpage." Website name (owning organisation). Month/day of publication OR Date viewed/accessed. URL. {/.hanging-indent}
 
-> {.hanging-indent}Alliance for Linguistic Diversity. n.d. “Balkan Romani.” Endangered Languages. Accessed April 6, 2016. http<nolink>://www.endangeredlanguages.com/lang/5342. {/.hanging-indent}
+> {.hanging-indent}Alliance for Linguistic Diversity. n.d. “Balkan Romani.” Endangered Languages. April 6. http<nolink>://www.endangeredlanguages.com/lang/5342. {/.hanging-indent}
 > {.hanging-indent}Australian Society for Indigenous Languages. n.d. "Supporting Indigenous Language Communities." Australian Society for Indigenous Languages. Accessed July 26, 2018. http<nolink>://www.ausil.org.au/. {/.hanging-indent}
-> {.hanging-indent}Scrubt, Mark. 2017. "Iceberg Palace: Halo House." ArchitectureAU. Accessed September 30, 2017. https<nolink>://architectureau.com/articles/halo-house/. {/.hanging-indent}
+> {.hanging-indent}Scrubt, Mark. 2017. "Iceberg Palace: Halo House." ArchitectureAU. September 30. https<nolink>://architectureau.com/articles/halo-house/. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1314,10 +1338,10 @@ Include an accessed date and URL/ Database name for online scores.
 
 #### Reference List
 
-{.hanging-indent}Author's Family Name, Given Name OR Organisation Name. Year. *Document Title: Subtitle*. Document No. Place of Publication: Publisher. DOI or URL. {/.hanging-indent}
+{.hanging-indent}Author's Family Name, Given Name OR Organisation Name. Year. *Document Title: Subtitle*. Document No. Publisher. DOI or URL. {/.hanging-indent}
 
 > {.hanging-indent}Australia. Department of Agriculture, Fisheries and Forestry. 2003. *Quarantine Requirements for the Importation of Live Laboratory Rats and Mice and Their Reproductive Material*. http<nolink>://www.daff.gov.au/\_\_data/assets/pdf\_file/0016/13822/2003-06a.pdf. {/.hanging-indent}
-> {.hanging-indent}Centre for Epidemiology and Evidence. 2017. *NSW Mothers and Babies Report 2016*. Sydney: NSW Health. http<nolink>://www.health.nsw.gov.au/hsnsw/Publications/mothers-and-babies-2016.pdf. {/.hanging-indent}
+> {.hanging-indent}Centre for Epidemiology and Evidence. 2017. *NSW Mothers and Babies Report 2016*. NSW Health. http<nolink>://www.health.nsw.gov.au/hsnsw/Publications/mothers-and-babies-2016.pdf. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1356,13 +1380,13 @@ If directly quoting from a source without a page number, use a paragraph number 
 
 #### Reference list
 
-{.hanging-indent}Author Family Name, Given Name. Year Posted. "Title of Blog Post." *Title of Blog* (blog). Month day, year posted. Accessed Month day, Year. URL. {/.hanging-indent}
+{.hanging-indent}Author Family Name, Given Name. Year Posted. "Title of Blog Post." *Title of Blog* (blog). Month day, year posted OR Accessed Month day, Year. URL. {/.hanging-indent}
 
 The word **blog** is added in brackets after the title of the blog, unless the word blog is part of the title.
 
-> {.hanging-indent}“Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. *State Library of Victoria Blog*. June 26, 2017. Accessed April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt. {/.hanging-indent}
-> {.hanging-indent}Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue* (blog). May 28, 2021. Accessed June 28, 2021. https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
-> {.hanging-indent}Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs*. January 28, 2022. Accessed April 12, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams. {/.hanging-indent}
+> {.hanging-indent}“Aerial Views of Melbourne by Charles Daniel Pratt.” 2017. *State Library of Victoria Blog*. June 26, 2017. April 12, 2022. https<nolink>://blogs.slv.vic.gov.au/arts/photography/aerial-views-of-melbourne-by-charles-daniel-pratt. {/.hanging-indent}
+> {.hanging-indent}Lai, Gladys, and Pema Bakshi. 2021. "5 TikTok Fashion Trends Everyone is Wearing IRL." *Vogue* (blog). Accessed May 28, 2021. . https<nolink>://www.vogue.com.au/fashion/trends/4-tiktok-fashion-trends-everyone-is-wearing-irl/image-gallery/74b88974bd06733c65153ae0897316db. {/.hanging-indent}
+> {.hanging-indent}Riley, Margot. 2022. “Take 5 ice creams.” *State Library of New South Wales: Blogs*. January 28, 2022. https<nolink>://www.sl.nsw.gov.au/blogs/take-5-ice-creams. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1512,10 +1536,10 @@ If using a print standard, omit the URL or database name.
 
 #### Reference list
 
-{.hanging-indent}Standard Issuer Name. Year. *Title of Standard*. Standard Number. Place: Publisher. URL or database name. {/.hanging-indent}
+{.hanging-indent}Standard Issuer Name. Year. *Title of Standard*. Standard Number. Publisher. URL or database name. {/.hanging-indent}
 
-> {.hanging-indent}Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. Sydney: SAI Global. https<nolink>://www.saiglobal.com. {/.hanging-indent}
-> {.hanging-indent}Standards Australia. 2009. *Wire-Rope Slings: Product Specification*. AS 1666.1-2009. Sydney: SAI Global. https<nolink>://www.saiglobal.com. {/.hanging-indent}
+> {.hanging-indent}Standards Australia/Standards NZ. 2019. *Geographic Information – Reference Model – Imagery*. AS/NZS ISO 19101.2:2019. SAI Global. https<nolink>://www.saiglobal.com. {/.hanging-indent}
+> {.hanging-indent}Standards Australia. 2009. *Wire-Rope Slings: Product Specification*. AS 1666.1-2009. SAI Global. https<nolink>://www.saiglobal.com. {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1768,7 +1792,7 @@ Create the reference list entry according to the rules for the source. List auth
 > ![Sample image](images/Dragon_tapestry.webp)
 > {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?.  {/.figure-text}
 
-Or if located in a book  
+Or if located in a book
 
 > {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, in Alicia Jaynes and James Liaw, Weaving in silk, (London: Periwinkle Press: 1968), 37. {/.figure-text}
 
@@ -1829,9 +1853,9 @@ Begin with the word 'Source: ' or Sources:', in italics, followed by a colon, th
 Example - Adapting a table from a published journal article:
 
 > Table 1: Data for end of life nursing care
-> 
+>
 > ![Sample image](images/sample-image.gif)
-> 
+>
 > *Source*: Reprinted from Susan E. Lowey, *Nursing Care at the End of Life* (Geneseo, NY: Open SUNY Textbooks, 2015), table 3.1, http<nolink>://pressbooks.opensuny.org/nursingcare. Copyright 2015 by Susan E. Lowey (Creative Commons).
 
 ##### In-Text Citation
@@ -1846,7 +1870,7 @@ Author's Last Name/s Year of Publication, page number, table or graph number
 
 ##### Reference List
 
-If for a book: 
+If for a book:
 
 {.hanging-indent}First Author's Family Names, First Name, Other Author's First and Family Names. Year. Book Title: Subtitle. edition. Place of Publication: Publisher. {/.hanging-indent}
 
@@ -2032,7 +2056,7 @@ Include the lecture URL if there is one available. If the course materials can o
 
 {.hanging-indent}Lecturer’s Family Name, Given Name. Year of lecture. "Title of Lecture: Lecture Number." COURSECODE: *Title of Course.* Place of lecture: University Name. Date of lecture. Format. URL or Database name. {/.hanging-indent}
 
-> {.hanging-indent}Fry, Andrew. 2016. "Lecture 2 - Data Communication and Net-Centric Computing: Lecture 8." COSC1111: *Data Communication and Net-Centric Computing.* Melbourne: RMIT University. March 8, 2016. Lecture recording. Canvas. {/.hanging-indent}
+> {.hanging-indent}Fry, Andrew. 2016. "Lecture 2 - Data Communication and Net-Centric Computing: Lecture 8." COSC1111: *Data Communication and Net-Centric Computing.* Melbourne, RMIT University. March 8, 2016. Lecture recording. Canvas. {/.hanging-indent}
 
 #### PowerPoint slides from lectures
 
@@ -2273,13 +2297,13 @@ When the document is labelled PhD dissertation, use the abbreviation PhD diss.
 
 ###### start-subtype-content
 
-When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.
 
-The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.
 
-It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website.
 
-For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
 
 **Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
 
@@ -2312,7 +2336,7 @@ The educators within your courses can tell you if you are able to use artificial
 
 **Please confirm with your course educator**  before using any AI tools in your assessment tasks.
 
-**Please note**  that the guidelines on how to reference AI tools have been updated on Monday the 26th of June 2023. This is in response to updated guidelines from the APA style manual editors, as well as the new ability to generate shareable URLs in some of the AI tools.
+**Please note**  that the guidelines on how to reference AI tools have been updated on Monday the 26th of January 2026. This is in response to updated guidelines from the APA style manual editors, as well as the new ability to generate shareable URLs in some of the AI tools.
 
 #### Overview of text-generating AI tools
 
@@ -2340,11 +2364,11 @@ Example: On the 26th June 2023, I used the May 24 version of OpenAI's ChatGPT to
 
 ##### Referencing specific text content generated by AI tools
 
-Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.  
+Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.
 
-If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers. 
+If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers.
 
-Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves. 
+Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves.
 
 #### AI-generated images
 
@@ -2379,14 +2403,14 @@ AI-generated images are an emerging technology, and there are not yet clear guid
 
 The Chicago Manual of Style editors have released a [Q&A post on referencing AI-generated text](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html). We have adapted these guidelines to accommodate the current Australian copyright advice that AI tools cannot be listed as authors. Instead, use the creator of the tool as the author in the in-text citation and provide bibliographic details in a reference list entry.
 
-If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the output generated in an appendix. Include the general URL for the tool and a note about the appendix in the reference list entry.
+If a shareable URL to the content is available, include it in your reference list entry. If the content is not shareable, include the prompt used and the output generated with a description of how the content was used. Include the general URL for the tool and a note about the appendix in the reference list entry.
 
 **Chicago B (author-date) style** uses an author-date format for in-text citations and a corresponding reference list.
 
 
 #### In-text citation - narrative (author-prominent):
 
-##### Rule 
+##### Rule
 
 > Author (year)
 
@@ -2396,7 +2420,7 @@ If a shareable URL to the content is available, include it in your reference lis
 
 > Anthropic (2024)
 
- 
+
 
 #### In-text citation - parenthetical (information-prominent):
 
@@ -2410,27 +2434,35 @@ If a shareable URL to the content is available, include it in your reference lis
 
 > (Anthropic 2024)
 
- 
+
 
 #### Reference list entry - shareable URL generated by the AI tool:
 
+Reference lists generally do not include AI-generated text. In cases where you need to cite an AI conversation, follow the format provided below. If you're unsure, check with your lecturer.
+If an AI conversation is included in a bibliography or reference list, it should be cited under the name of the publisher or developer, not under the tool’s name, and must include a publicly accessible URL.
+
+
 ##### Rule
 
-> {.hanging-indent}Author. Year. Name of tool. Version (if available). Month Day, Year. URL.{/.hanging-indent}
+> {.hanging-indent}Developer. Year. Response to "Prompt." Name of AI Tool Version Number, Month Day. URL to copy of transcript.{/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}OpenAI. 2023. ChatGPT. May 24 version.  June 26, 2023. https<nolink>://chat.openai.com/share/81f2e81f-f137-41b6-9881-39af1672ae3c. {/.hanging-indent}
+> {.hanging-indent}Anthropic. 2026. Response to "List five key principles for creating accessible web interfaces for users with visual impairments." Claude (Sonnet 4.5), January 9. URL to copy of transcript {/.hanging-indent}
 
 #### Reference list entry - non-shareable AI-generated content:
 
+If there is no shareable link, you should include details about the tool used in the text, for example:  The following recommendations for implementing accessible design practices were generated by Claude (Anthropic) on 9th January 2026 in response to the prompt "list five key principles for creating accessible web interfaces for users with visual impairments."
+
+If you do need to include in reference list, follow this rule and example.
+
 ##### Rule
 
-> {.hanging-indent}Author. Year. *Name of tool*. Version (if available). Month Day, Year. URL. Appendix.{/.hanging-indent}
+> {.hanging-indent}Author. Year. *Name of tool*. Version (if available). Month Day, Year. URL. How content was used.{/.hanging-indent}
 
 ##### Example
 
-> {.hanging-indent}Anthropic. 2024. *Claude*. January 22, 2024. https://claude.ai/chats. See Appendix for prompt used and output generated.{/.hanging-indent}
+> {.hanging-indent}Anthropic. 2024. *Claude*. January 22, 2024. https://claude.ai/chats. Edited for clarity.{/.hanging-indent}
 
 #### How to reference AI-generated images
 
@@ -2462,7 +2494,7 @@ Follow the general guidelines for [Artwork](https://www.lib.rmit.edu.au/easy-cit
 
 ##### Rule
 
-> Figure number. Artist’s Given Name Artist’s Family Name, *Title of work* (if known), Year of production (if known). Medium, in Author's Given Name and Family Names, source details (e.g. website, book, etc). 
+> Figure number. Artist’s Given Name Artist’s Family Name, *Title of work* (if known), Year of production (if known). Medium, in Author's Given Name and Family Names, source details (e.g. website, book, etc).
 
 ##### Examples
 
