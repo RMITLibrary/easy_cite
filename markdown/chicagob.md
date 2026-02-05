@@ -62,13 +62,11 @@
 
 The University of Chicago has developed several editions of the Chicago Manual of Style to aid authors in the preparation of manuscripts, which include referencing styles.
 
-This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1adn3cm/alma9921991311601341">The Chicago Manual of Style 17th edition</a>. Please refer to this manual if you need more examples than those included in this guide, or if you need clarification. 
-
-There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **author-date** format.  
+There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **author-date** format.
 
 For examples and advice regarding **Notes-Bibliography** of Chicago, please see [RMIT Easy Cite referencing tool - Chicago A: Notes and Bibliography 18th ed.](index.php?styleguide=styleguide-4#stn-0).
 
-**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators.
 
 ###### end-subtype-content
 
@@ -83,9 +81,9 @@ For examples and advice regarding **Notes-Bibliography** of Chicago, please see 
 
 - Use in-text citations to acknowledge each author or source of information used within your writing either by paraphrasing or using a direct quote.
 
-- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/referencing/paraphrasing/">Learning Lab: Paraphrasing</a> 
+- Paraphrasing is the expression of the ideas of others by rephrasing the original text in your own words. For further information on paraphrasing please see <a href="https://learninglab.rmit.edu.au/referencing/paraphrasing/">Learning Lab: Paraphrasing</a>
 
-- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/referencing/quoting/">Learning Lab: Quoting</a> 
+- Direct quoting involves using the exact wording used by the original author(s) in your work; this is indicated by quotation marks. For further information on direct quoting please see <a href="https://learninglab.rmit.edu.au/referencing/quoting/">Learning Lab: Quoting</a>
 
 - For specific advice on each reference you must determine the type of resource ie. book, journal article etc. and follow the recommended advice within this guide.
 
@@ -94,7 +92,7 @@ For examples and advice regarding **Notes-Bibliography** of Chicago, please see 
     - 'Author prominent' (the author's name is outside the parentheses)
 
 
-> The conclusion reached in a recent study.(Cochrane 2021)
+> The conclusion reached in a recent study (Cochrane 2021)
 
 > Cochrane (2021) concluded...
 
@@ -194,7 +192,7 @@ Use a reference list to include all of the publications you have cited at the en
 
 ##### In-Text Citation
 
-List two authors in both the citation and the reference list. 
+List two authors in both the citation and the reference list.
 
 If directly quoting from a source without a page number, use a paragraph number or section heading instead.
 
@@ -227,7 +225,7 @@ For two authors: Family Name, Given Name, and Given Name Family Name. Year etc.
 
 ##### In-text Citation
 
-For three  to six authors, include the first author's surname followed by et.al, comma and the date. 
+For three  to six authors, include the first author's surname followed by et.al, comma and the date.
 
 Use a page number for direct quotes. You don’t need a page number when paraphrasing.
 
@@ -246,13 +244,13 @@ List all authors in the reference list entry. List authors in the order in which
 
 ##### In-text citation
 
-> When citing a resource with more than six authors, include the first author’s surname in your in-text citation, followed by et al. 
- 
-(Enwezor et al. 2008, 56) 
+> When citing a resource with more than six authors, include the first author’s surname in your in-text citation, followed by et al.
+
+(Enwezor et al. 2008, 56)
 
 ##### Reference list
 
-If there are up to six authors, list all authors in the reference list or bibliography. If there are more than six, list only the first three followed by et.al. Invert the first author’s name to Surname, First Name. 
+If there are up to six authors, list all authors in the reference list or bibliography. If there are more than six, list only the first three followed by et.al. Invert the first author’s name to Surname, First Name.
 
 > {.hanging-indent} Geller, Alan C., Suraj Venna, Marianne Prout et al. 2002. "Should the Skin Cancer Examination Be Taught in Medical School?" Archives of Dermatology 138, (9): 1201-1203. https://doi.org/10.1001/archderm.138.9.1201. {/.hanging-indent}
 
@@ -947,9 +945,9 @@ The creator will depend on the focus on your discussion and can include: user wh
 To quote from audiovisual material use the format HH:MM:SS as a pinpoint.
 
 > Brown states “you cannot selectively numb emotion” (2010, 00:15:12).
-> 
+>
 > In the audio paper, Soddell describes the process of composing *Love Songs* as a “sonic meditation” (2018, 00:04:00).
-> 
+>
 > BBC Business editor Simon Jack reported that “… since last year the price of white fish, of which Russia is a major supplier, is up fifty percent” (2022, 00:00:51).
 
 #### In-Text Citation: Paraphrase
@@ -957,7 +955,7 @@ To quote from audiovisual material use the format HH:MM:SS as a pinpoint.
 (Creator's Family Name Year of publication)
 
 > (Never Too Small 2018)
-> 
+>
 > (Brown 2010)
 
 #### Reference list
@@ -1293,7 +1291,7 @@ Include an accessed date and URL/ Database name for online scores.
 
 (Author’s Family Name or Organisation Year of publication)
 
-> Scrubt (2017) commented on the façade of the building…  
+> Scrubt (2017) commented on the façade of the building…
 
 > The façade of the building has a mysterious look (Scrubt 2017).
 
@@ -1794,7 +1792,7 @@ Create the reference list entry according to the rules for the source. List auth
 > ![Sample image](images/Dragon_tapestry.webp)
 > {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, https<nolink>://www.metmuseum.org/art/collection/search/39733?.  {/.figure-text}
 
-Or if located in a book  
+Or if located in a book
 
 > {.figure-text}Figure 2. Artist unknown, *Tapestry with Dragons and Flowers*, 11-12th C., Silk tapestry, 53.3 x 33 cm, The Metropolitan Museum of Art, in Alicia Jaynes and James Liaw, Weaving in silk, (London: Periwinkle Press: 1968), 37. {/.figure-text}
 
@@ -1855,9 +1853,9 @@ Begin with the word 'Source: ' or Sources:', in italics, followed by a colon, th
 Example - Adapting a table from a published journal article:
 
 > Table 1: Data for end of life nursing care
-> 
+>
 > ![Sample image](images/sample-image.gif)
-> 
+>
 > *Source*: Reprinted from Susan E. Lowey, *Nursing Care at the End of Life* (Geneseo, NY: Open SUNY Textbooks, 2015), table 3.1, http<nolink>://pressbooks.opensuny.org/nursingcare. Copyright 2015 by Susan E. Lowey (Creative Commons).
 
 ##### In-Text Citation
@@ -1872,7 +1870,7 @@ Author's Last Name/s Year of Publication, page number, table or graph number
 
 ##### Reference List
 
-If for a book: 
+If for a book:
 
 {.hanging-indent}First Author's Family Names, First Name, Other Author's First and Family Names. Year. Book Title: Subtitle. edition. Place of Publication: Publisher. {/.hanging-indent}
 
@@ -2299,13 +2297,13 @@ When the document is labelled PhD dissertation, use the abbreviation PhD diss.
 
 ###### start-subtype-content
 
-When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.
 
-The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.
 
-It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website.
 
-For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
 
 **Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
 
@@ -2366,11 +2364,11 @@ Example: On the 26th June 2023, I used the May 24 version of OpenAI's ChatGPT to
 
 ##### Referencing specific text content generated by AI tools
 
-Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.  
+Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.
 
-If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers. 
+If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers.
 
-Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves. 
+Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves.
 
 #### AI-generated images
 
@@ -2412,7 +2410,7 @@ If a shareable URL to the content is available, include it in your reference lis
 
 #### In-text citation - narrative (author-prominent):
 
-##### Rule 
+##### Rule
 
 > Author (year)
 
@@ -2422,7 +2420,7 @@ If a shareable URL to the content is available, include it in your reference lis
 
 > Anthropic (2024)
 
- 
+
 
 #### In-text citation - parenthetical (information-prominent):
 
@@ -2436,12 +2434,12 @@ If a shareable URL to the content is available, include it in your reference lis
 
 > (Anthropic 2024)
 
- 
+
 
 #### Reference list entry - shareable URL generated by the AI tool:
 
 Reference lists generally do not include AI-generated text. In cases where you need to cite an AI conversation, follow the format provided below. If you're unsure, check with your lecturer.
-If an AI conversation is included in a bibliography or reference list, it should be cited under the name of the publisher or developer, not under the tool’s name, and must include a publicly accessible URL. 
+If an AI conversation is included in a bibliography or reference list, it should be cited under the name of the publisher or developer, not under the tool’s name, and must include a publicly accessible URL.
 
 
 ##### Rule
@@ -2454,7 +2452,7 @@ If an AI conversation is included in a bibliography or reference list, it should
 
 #### Reference list entry - non-shareable AI-generated content:
 
-If there is no shareable link, you should include details about the tool used in the text, for example:  The following recommendations for implementing accessible design practices were generated by Claude (Anthropic) on 9th January 2026 in response to the prompt "list five key principles for creating accessible web interfaces for users with visual impairments." 
+If there is no shareable link, you should include details about the tool used in the text, for example:  The following recommendations for implementing accessible design practices were generated by Claude (Anthropic) on 9th January 2026 in response to the prompt "list five key principles for creating accessible web interfaces for users with visual impairments."
 
 If you do need to include in reference list, follow this rule and example.
 
@@ -2496,7 +2494,7 @@ Follow the general guidelines for [Artwork](https://www.lib.rmit.edu.au/easy-cit
 
 ##### Rule
 
-> Figure number. Artist’s Given Name Artist’s Family Name, *Title of work* (if known), Year of production (if known). Medium, in Author's Given Name and Family Names, source details (e.g. website, book, etc). 
+> Figure number. Artist’s Given Name Artist’s Family Name, *Title of work* (if known), Year of production (if known). Medium, in Author's Given Name and Family Names, source details (e.g. website, book, etc).
 
 ##### Examples
 

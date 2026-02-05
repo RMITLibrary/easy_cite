@@ -49,18 +49,18 @@
 <!-- add additional SUB-TYPE-ITEMS at the end of this section if needed -->
 ###### start-subtype-item
 <!-- the SUBTYPE accordion button headings must use heading 3 (###) -->
-### Introduction to Chicago A: Notes and Bibliography 17th ed.
+### Introduction to Chicago A: Notes and Bibliography 18th ed.
 <!-- the first accordion item must have this comment as shown in the line below -->
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The Chicago referencing style is widely used in art, design, architecture, music, history and humanities subjects. The Chicago Manual of Style includes detailed advice on citing and referencing sources used in these disciplines, including artworks, live performances and historical sources, as well as commonly-used source types such as books, journal articles and websites. 
+The Chicago referencing style is widely used in art, design, architecture, music, history and humanities subjects. The Chicago Manual of Style includes detailed advice on citing and referencing sources used in these disciplines, including artworks, live performances and historical sources, as well as commonly-used source types such as books, journal articles and websites.
 
 - Use The Chicago Manual of Style. 18th ed. Chicago: University of Chicago Press, 2024 to clarify referencing rules or if you need more examples. This guide is based on <a href="https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/1vrd2be/alma9922622812201341" target="_blank">The Chicago manual of style. 18th edition.</a> (opens in a new tab).
 
-There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **notes and bibliography** format.  
+There are two formats of referencing within the Chicago referencing style. One is **notes and bibliography (Chicago A)** and the other is **author-date (Chicago B)**. This guide provides examples and advice for the **notes and bibliography** format.
 
-The **notes and bibliography** format uses a **numerical** system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography is included at the end of the document in **alphabetical** order. 
+The **notes and bibliography** format uses a **numerical** system of footnotes or endnotes. Footnotes require the writer to mark the in-text citation with a superscript number and provide a reference citation within the footnote. Throughout the document, citations are numbered in sequential order. A bibliography is included at the end of the document in **alphabetical** order.
 
 **Bibliography** : A bibliography is the term used for a list of resources consulted (e.g. books, articles, websites) when writing an assignment.
 
@@ -315,11 +315,11 @@ List authors in the order in which they appear in the source. Include all author
 
 ##### Example
 
-Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity*. Duke University Press, 2008. 
+Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity*. Duke University Press, 2008.
 
 #### More than six authors
 
-List authors in the order in which they appear in the source. List only the first three authors in the bibliography entry, followed by "et al." Invert the first author’s name to Surname, First Name. 
+List authors in the order in which they appear in the source. List only the first three authors in the bibliography entry, followed by "et al." Invert the first author’s name to Surname, First Name.
 
 ##### Example;
 
@@ -849,7 +849,7 @@ or if no author
 
 {.hanging-indent}Author's Family Name, First Name. "Title of Article: Subtitle." *Name of Newspaper,* Date of Publication. URL or Database Name. (online newspaper) {/.hanging-indent}
 
-#### Examples of Bibliography 
+#### Examples of Bibliography
 
 > {.hanging-indent}Hill, Jeanette. "Open Doors." *Weekly Times*, July 20, 2011. {/.hanging-indent}
 > {.hanging-indent}Gorman, Alyx. "A Movement not a Moment: Indigenous Design in the Spotlight at Australian Fashion Week," *Guardian News*, June 4, 2021. https<nolink>://www.theguardian.com/fashion/2021/jun/05/a-movement-not-a-moment-indigenous-design-in-the-spotlight-at-australian-fashion-week. {/.hanging-indent}
@@ -940,7 +940,7 @@ Videos (that are not movies or television series) streamed from online platforms
 
 Video recordings of films, movies, or documentaries accessed on DVD or other physical medium, or streamed online.
 
-- Notes begin with the Title of the Film in italics. Bibliography entries begin with the name of the director. 
+- Notes begin with the Title of the Film in italics. Bibliography entries begin with the name of the director.
 
 - If citing a section of larger work, such as a scene or chapter, begin the note with the section titles enclosed in quotation marks.
 
@@ -1011,7 +1011,7 @@ OR
 
 Program or series aired on television, broadcast live, streamed online, or accessed via library database
 
-- Notes begin with the Title of Program in italics. Bibliography entries begin with the name of the creator. 
+- Notes begin with the Title of Program in italics. Bibliography entries begin with the name of the creator.
 
 - The creator can include director, presenter, writer, producer, or actor, depending on the focus of your discussion.
 
@@ -1076,13 +1076,13 @@ Podcast presenters are usually treated as the author except in the case of inter
 
 - Enclose the episode title in quotation marks, followed by the date published online or recorded.
 
-- Include the word “in” followed by the podcast title in italics. 
+- Include the word “in” followed by the podcast title in italics.
 
-- Additional contributors such as the producers may be included followed by the file format if downloaded as a file. 
+- Additional contributors such as the producers may be included followed by the file format if downloaded as a file.
 
-- Duration is formatted as HH:MM:SS. 
+- Duration is formatted as HH:MM:SS.
 
-- End the citation with a URL.  
+- End the citation with a URL.
 
 
 #### Note rule
@@ -1160,9 +1160,9 @@ Podcast presenters are usually treated as the author except in the case of inter
 
 Sound recordings may include CDs, content from music streaming platforms, or records (LPs).
 
-- Begin the citation with the name of the Creator. The Creator can include the recording artist, composer, or performer depending on the focus of your discussion. For group names e.g. bands, use name in full original order. 
+- Begin the citation with the name of the Creator. The Creator can include the recording artist, composer, or performer depending on the focus of your discussion. For group names e.g. bands, use name in full original order.
 
-- Year of recording or copyright can be used as the year of publication. 
+- Year of recording or copyright can be used as the year of publication.
 
 - Titles of songs or short pieces are enclosed in quotation marks. Titles of albums are italicised.
 
@@ -1199,7 +1199,7 @@ OR
 {.footnote-indent}Note Number. Short Performer Name, "Short Title of Track." {/.footnote-indent}
 
 ##### Shortened note examples
- 
+
 > {.footnote-indent}5. Strauss, *Don Quixote*. {/.footnote-indent}
 > {.footnote-indent}6. Reich, “Come Out.” {/.footnote-indent}
 > {.footnote-indent}7. Yothu Yindi, “Treaty.” {/.footnote-indent}
@@ -1236,7 +1236,7 @@ Or
 
 Unpublished scores are cited and referenced like unpublished manuscripts.
 
-- For direct quotes include a page number after the year. 
+- For direct quotes include a page number after the year.
 
 - If accessed online include a DOI, stable URL, or database name.
 
@@ -1872,7 +1872,7 @@ Personal communication e.g. letters, email, text messages, and social media mess
 
 ###### start-subtype-content
 
-Theses and dissertations are mostly cited and referenced like books. Rather than italics, titles of thesis are enclosed in quotation marks. 
+Theses and dissertations are mostly cited and referenced like books. Rather than italics, titles of thesis are enclosed in quotation marks.
 
 If the thesis or dissertation is accessed online, include a URL. However, if the URL requires an account login, include only the database or repository name. In parentheses, include any identification number supplied by the database.
 
@@ -1969,13 +1969,13 @@ Include the lecture URL if there is one available.
 
 ###### start-subtype-content
 
-When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.
 
-The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.
 
-It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website.
 
-For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
 
 **Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
 
@@ -2021,7 +2021,7 @@ Some generative AI tools are not connected to the internet and are trained on da
 -   As these tools function in a similar way to predictive text on your phone, by recognising and reproducing patterns in language, they can generate incorrect information.
 -   While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 -   The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
-   
+
 The  [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/)  has more information on how these AI tools work, and some points to consider when using them.
 
 ##### Copyright and non-human authors
@@ -2036,11 +2036,11 @@ Example: On the 26th June 2023, I used the May 24 version of OpenAI's ChatGPT to
 
 ##### Referencing specific text content generated by AI tools
 
-Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.  
+Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.
 
-If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers. 
+If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers.
 
-Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves. 
+Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves.
 
 #### AI-generated images
 
@@ -2075,10 +2075,10 @@ AI-generated images are an emerging technology, and there are not yet clear guid
 
 The Chicago Manual of Style advises that the use of chatbots must be disclosed and any specific AI-generated content —quoted or paraphrased— needs citation at the point of use. Like personal communications and social media, chatbot exchanges typically aren't listed in bibliographies. Use the creator of the tool as the author in the note or in text citation.
 
-If an AI conversation is included in a bibliography or reference list, it should be cited under the name of the publisher or developer, not under the tool’s name, and must include a publicly accessible URL. 
+If an AI conversation is included in a bibliography or reference list, it should be cited under the name of the publisher or developer, not under the tool’s name, and must include a publicly accessible URL.
 
-If there is no shareable link, you should include details about the tool used in the text, for example:  
- 
+If there is no shareable link, you should include details about the tool used in the text, for example:
+
 > {.hanging-indent} The following recommendations for implementing accessible design practices were generated by Claude (Anthropic) on 9th January 2026 in response to the prompt "list five key principles for creating accessible web interfaces for users with visual impairments." {/.hanging-indent}
 
 If the content is not shareable, include the prompt used and the output generated. Include the general URL for the tool and a note about how the content was used. For example:
@@ -2137,7 +2137,7 @@ Follow the general guidelines for [Art or creative works](https://www.lib.rmit.e
 
 ##### Rule
 
-> Figure number. Artist’s Given Name Artist’s Family Name, *Title of work* (if known), Year of production (if known). Medium, in Author's Given Name and Family Names, source details (e.g. website, book, etc). 
+> Figure number. Artist’s Given Name Artist’s Family Name, *Title of work* (if known), Year of production (if known). Medium, in Author's Given Name and Family Names, source details (e.g. website, book, etc).
 
 ##### Examples
 
