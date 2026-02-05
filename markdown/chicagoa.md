@@ -283,7 +283,7 @@ In the note, cite only the name of the first-listed author followed by et al. Au
 ##### Example
 
 > {.footnote-indent}1. Okwui Enwezor et al., *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity* (Duke University Press, 2008), 223. {/.footnote-indent}
->
+
 #### More than six authors
 
 In the note, cite only the name of the first-listed author followed by et al. Author's name is listed as - Given Name Family Name.

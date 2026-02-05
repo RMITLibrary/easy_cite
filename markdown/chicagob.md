@@ -239,7 +239,7 @@ List all authors in the reference list entry. List authors in the order in which
 
 > {.hanging-indent}Enwezor, Okwui, Nancy Condee, Terry Smith, Antonio Negri, Geeta Kapur, and Rosalind Krauss. 2008. *Antinomies of Art and Culture: Modernity, Postmodernity, Contemporaneity.* Durham: Duke University Press. {/.hanging-indent}
 > {.hanging-indent}Horngren, Charles, Walter Harrison, Suzanne Oliver, Peter Best, David Fraser, and Rebecca Tan. *Financial accounting*. Pearson Higher Education AU, 2012. {/.hanging-indent}
->
+
 #### More than six authors
 
 ##### In-text citation
