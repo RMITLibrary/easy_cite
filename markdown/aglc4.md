@@ -52,13 +52,13 @@
 <!-- first accordion item -->
 ###### start-subtype-content
 
-The AGLC4 (Australian Guide to Legal Citation 4th edition) is the official legal citation guide in Australia and is widely used by legal practitioners, law students and academics. The AGLC4 is the required referencing style for students enrolled in law programs within RMIT’s Graduate School of Business and Law. 
+The AGLC4 (Australian Guide to Legal Citation 4th edition) is the official legal citation guide in Australia and is widely used by legal practitioners, law students and academics. The AGLC4 is the required referencing style for students enrolled in law programs within RMIT’s Graduate School of Business and Law.
 
-The AGLC4 is a **footnote** referencing style. **Superscript numbers** <sup>1,3,6</sup> represent in-text citations, and the details are included in a **footnote** at the end of each page. Where a bibliography is required, it should list all the citations used and other sources that were relied upon, organised **alphabetically** in sections and placed at the end of your document. 
+The AGLC4 is a **footnote** referencing style. **Superscript numbers** <sup>1,3,6</sup> represent in-text citations, and the details are included in a **footnote** at the end of each page. Where a bibliography is required, it should list all the citations used and other sources that were relied upon, organised **alphabetically** in sections and placed at the end of your document.
 
-The AGLC4 style is a collaboration between the *Melbourne University Law Review* and the *Melbourne Journal of International Law*. The official AGLC4 publication, which this guide is based on, is freely available to view and download from the <a href="https://law.unimelb.edu.au/mulr/aglc/about">publisher’s website</a> (click on *Download the view-only PDF version* option). 
+The AGLC4 style is a collaboration between the *Melbourne University Law Review* and the *Melbourne Journal of International Law*. The official AGLC4 publication, which this guide is based on, is freely available to view and download from the <a href="https://law.unimelb.edu.au/mulr/aglc/about">publisher’s website</a> (click on *Download the view-only PDF version* option).
 
-**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators. 
+**Important:** this is a guide only. To avoid losing marks, confirm referencing requirements with your educators.
 
 ###### end-subtype-content
 
@@ -195,7 +195,7 @@ Meagher, Dan, ‘Digital Sampling/Remix Culture Forum’ (2012) 17(2) *Deakin La
 
 {.centre-align}B *Cases*{/.centre-align}
 
-*Minister for Immigration and Citizenship v SZIAI* \[2009\] HCA 39 
+*Minister for Immigration and Citizenship v SZIAI* \[2009\] HCA 39
 
 *Roadshow Films Pty Limited v iiNet Limited* (2012) 248 CLR 42
 
@@ -626,6 +626,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 ###### start-subtype
 
 
+<!-- first accordion item -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Journal article with single author
@@ -653,8 +654,6 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 - Articles from electronic journals should only be cited where a printed edition does not exist.
 
-&nbsp;
-
 #### Footnote example
 
 > <sup>1</sup> Dan Meagher, 'Digital Sampling/Remix Culture' (2012) 17(2) *Deakin Law Review* 307.
@@ -672,6 +671,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 ###### end-subtype-item
 
 
+<!-- second accordion item -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Journal article with multiple authors
@@ -725,6 +725,39 @@ When the citation appears in a bibliography, list the family name first. Sources
 ###### end-subtype-item
 
 
+<!-- third accordion item -->
+###### start-subtype-item
+<!-- the SUBTYPE headings must use heading 3 (###) -->
+### Articles published in online journals
+
+###### start-subtype-content
+
+- Online journal articles should be cited in the same way as printed articles wherever possible. If volume, issue or starting page numbers are not available, use other identifiers such as article numbers.
+
+- Pinpoint references should appear after the article number/identifier, preceded by a comma, and a space. The article number/identifier should appear as it does in the source.
+
+- Journal articles that have a volume and issue number have page ranges (start and end pages) that are numbered sequentially throughout the entire issue (e.g. 70-84, 85-102, 103-115).
+
+- If the online journal article, which could be a PDF or other digital document, has no volume and issue number, the article has a page range that typically starts at 1 and ends on the last page (e.g. 1-12). There is no issue sequential page numbering. In such cases, pinpoints should refer to a position (actual page number) within the page range (e.g. 7).
+
+#### Format
+> Author(s), 'Article title' (Year) Volume(Issue) *Journal Title* Article number/Identifier: Page range, Pinpoint.
+
+#### Footnote example
+> <sup>1</sup> Luigi Alberto Franzoni, 'Efficient Liability Law with Costly Insurance' (2026) 85 *International Review of Law and Economics* 106310: 1-8.
+
+#### Pinpoint example
+> <sup>1</sup> Luigi Alberto Franzoni, 'Efficient Liability Law with Costly Insurance' (2026) 85 *International Review of Law and Economics* 106310: 1-8, 4.
+
+#### Bibliography example
+> Franzoni, Alberto 'Efficient Liability Law with Costly Insurance' (2026) 85 *International Review of Law and Economics* 106310
+
+###### end-subtype-content
+
+###### end-subtype-item
+
+
+<!-- fourth accordion item -->
 ###### start-subtype-item
 <!-- the SUBTYPE headings must use heading 3 (###) -->
 ### Newspaper article
@@ -984,13 +1017,13 @@ For example, if Geoffrey Smith wanted to cite a paper they wrote at RMIT Univers
 
 ###### start-subtype-content
 
-When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.  
+When acknowledging sources created by Aboriginal and Torres Strait Islander people, it is recommended that the Nation/Country/Language Group is included after the author’s or creator’s name. This is based on guidance from the <a href="https://www.caval.edu.au/wp-content/uploads/2024/06/CAVAL_Indigenous_Knowledges_Citation_Guide.pdf">Indigenous Referencing Guidance for Indigenous Knowledges</a> published in 2023 by the Indigenous Archives Collective.
 
-The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.  
+The guidelines licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for non-commercial purposes only, and only so long as attribution is given to the creator. This license also applies to this guide.
 
-It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website. 
+It is advised to attribute a Nation/Country/language group to an author who has self-identified. This information can be located, for example, in a biographical note to an article or on a personal website.
 
-For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>. 
+For more information on how to critically evaluate information sources, visit the <a href="https://rmit.libguides.com/students-indigenous-resources/IKAT">IKAT Toolkit</a>.
 
 **Note:** Guidance from First Nations Communities is welcome, especially from the people of the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT conducts their business. If you would like to send any comments regarding this guide, please use our <a href="https://www.rmit.edu.au/library/study/referencing/easy-cite-feedback">EasyCite feedback form</a>.
 
@@ -1019,9 +1052,9 @@ For more information on how to critically evaluate information sources, visit th
 #### AI-generated text
 
 ##### Using generative artificial intelligence (AI) in learning and research, including assessment tasks
-The educators within your courses can tell you if you are able to use artificial intelligence (AI) tools in your assessment tasks, including how you can use the tools and what tools you can use. If you use any AI tools, you must appropriately acknowledge and reference the use of these tools and their outputs. Failure to reference the use of these tools can result in academic misconduct. 
+The educators within your courses can tell you if you are able to use artificial intelligence (AI) tools in your assessment tasks, including how you can use the tools and what tools you can use. If you use any AI tools, you must appropriately acknowledge and reference the use of these tools and their outputs. Failure to reference the use of these tools can result in academic misconduct.
 
-**Please confirm with your course educator** before using any AI tools in your assessment tasks. 
+**Please confirm with your course educator** before using any AI tools in your assessment tasks.
 
 **Please note** that the guidelines on how to reference AI tools have been updated on Monday the 26th of June 2023. This is in response to updated guidelines from the APA style manual editors, as well as the new ability to generate shareable URLs in some of the AI tools.
 
@@ -1031,15 +1064,15 @@ We have also created guidelines for [referencing AI-generated images](https://rm
 ##### Overview of text generating AI tools
 **Introduction to AI tools that can generate text**
 
-AI tools that generate text, such as OpenAI's ChatGPT, are large language models with a conversational type of interface, where you can ask a question, receive a detailed response and follow up with additional queries. 
+AI tools that generate text, such as OpenAI's ChatGPT, are large language models with a conversational type of interface, where you can ask a question, receive a detailed response and follow up with additional queries.
 
-Some generative AI tools are not connected to the internet and are trained on data sets up to a specific time point. Other generative AI tools connect to the internet and will provide URL links to information. There are some points to consider when using the text generated by these tools: 
+Some generative AI tools are not connected to the internet and are trained on data sets up to a specific time point. Other generative AI tools connect to the internet and will provide URL links to information. There are some points to consider when using the text generated by these tools:
 
 - As these tools function in a similar way to predictive text on your phone, by recognising and reproducing patterns in language, they can generate incorrect information.
 - While they can produce citations and references, these are not always correct. If you are relying on the information to be accurate, you should check that the reference cited by the AI tool exists, and that the information cited is present in the original source.
 - The data sets used to train these tools often include biased and inaccurate information, as access to scholarly information and valid scientific studies may be limited, and information from social media and other less reputable sources is included.
 
-The [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/) has more information on how these AI tools work, and some points to consider when using them. 
+The [Learning Lab Artificial Intelligence Tools module](https://learninglab.rmit.edu.au/university-essentials/artificial-intelligence-tools/) has more information on how these AI tools work, and some points to consider when using them.
 
 **Copyright and non-human authors**
 
@@ -1047,17 +1080,17 @@ Current copyright law only recognises humans as authors and creators. One of the
 
 **General acknowledgement that AI tools have been used in the creation of a work**
 
-In some assessment tasks, you may be able to use AI tools for background research, or to generate an outline for your essay or report (as stated earlier, please follow your educator's guidance before using any AI tools).. In this case, rather than citing and referencing specific text generated by AI tools, you will need to provide a general acknowledgement within the body or methods section of your text to explain that an AI tool was used in the creation of your work. Include as much detail as possible, including how you used the AI tool, the prompt used, the date you used the tool, and the name, creator and version of the AI tool.  
+In some assessment tasks, you may be able to use AI tools for background research, or to generate an outline for your essay or report (as stated earlier, please follow your educator's guidance before using any AI tools).. In this case, rather than citing and referencing specific text generated by AI tools, you will need to provide a general acknowledgement within the body or methods section of your text to explain that an AI tool was used in the creation of your work. Include as much detail as possible, including how you used the AI tool, the prompt used, the date you used the tool, and the name, creator and version of the AI tool.
 
-Example: On the 26th June 2023, I used the May 24 version of OpenAI's ChatGPT to perform background research by using the following prompt "explain the difference between deep learning and machine learning". 
+Example: On the 26th June 2023, I used the May 24 version of OpenAI's ChatGPT to perform background research by using the following prompt "explain the difference between deep learning and machine learning".
 
 **Referencing specific text content generated by AI tools**
 
-Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA  style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.  
+Each of the referencing styles used at RMIT is based on a source style manual. More information on the source style manuals used for each style can be found in [Easy Cite](https://www.lib.rmit.edu.au/easy-cite/). Currently, only the editors of the APA  style manual have provided advice on referencing AI-generated content. For the other referencing styles used at RMIT, we have created interim guidelines for referencing AI-generated content that we believe are the best match within that style. These may change in the future as the source style manuals develop or update their guidelines for referencing AI-generated content.
 
-If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers. 
+If you are referring to content generated by AI tools within your work, we recommend that you include the shareable link to the content if available, or otherwise include this AI-generated content as an appendix or supplemental information. It is also good practice to include the question or prompt that generated the response to provide context for your readers.
 
-Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves. 
+Two sets of reference guidelines are provided below for each style - one is for AI tools that include shareable URLs to the outputs generated from text prompts, which enables your readers to access the outputs themselves.  The other is for AI tools that do not provide shareable links, meaning that the readers of your work cannot access the same information themselves.
 
 <!-- using heading 4 (####) for sub-heading within this tab -->
 #### AI-generated images
@@ -1073,9 +1106,9 @@ If you are able to use AI tools in your assessment task, you need to appropriate
 <!-- using heading 5 (#####) for sub-heading within this text section -->
 ##### Overview of images generated by AI tools
 
-Some generative AI tools have been trained on large numbers of existing images, and these tools can create new images based on prompts from users. The images created using these tools can be downloaded, but they are not published or reproducible in the AI platform. Images generated using AI tools such as Midjourney and DALL-E 2 are the topic of much debate.  Current copyright law only recognises humans as authors. One of the moral rights associated with copyright is the right to be acknowledged as the author of a work. From a copyright perspective there is currently no obligation to [recognise AI as the creator of a work](https://www.artslaw.com.au/information-sheet/artificial-intelligence-ai-and-copyright/), however it is important to explain that AI was used in the creation of the work.  
+Some generative AI tools have been trained on large numbers of existing images, and these tools can create new images based on prompts from users. The images created using these tools can be downloaded, but they are not published or reproducible in the AI platform. Images generated using AI tools such as Midjourney and DALL-E 2 are the topic of much debate.  Current copyright law only recognises humans as authors. One of the moral rights associated with copyright is the right to be acknowledged as the author of a work. From a copyright perspective there is currently no obligation to [recognise AI as the creator of a work](https://www.artslaw.com.au/information-sheet/artificial-intelligence-ai-and-copyright/), however it is important to explain that AI was used in the creation of the work.
 
-AI-generated images are an emerging technology, and there are not yet clear guidelines for how to incorporate them into existing referencing styles such as APA 7th, Chicago, etc. Our current recommendation for how to reference AI-generated images varies for each referencing style, and is included below. Additionally, we recommend that you include the question or prompt that generated the image where possible, to provide context for your readers. 
+AI-generated images are an emerging technology, and there are not yet clear guidelines for how to incorporate them into existing referencing styles such as APA 7th, Chicago, etc. Our current recommendation for how to reference AI-generated images varies for each referencing style, and is included below. Additionally, we recommend that you include the question or prompt that generated the image where possible, to provide context for your readers.
 
 **Please note** that our recommendations for how to reference AI-generated content may change in the future as referencing style manuals are updated.
 
@@ -1099,7 +1132,7 @@ Our interim advice is to reference AI-generated text as a written correspondence
 
 **Footnote example - shareable URL generated by the AI tool:**
 
-Rule: Note number Correspondence generated using the AI tool to Recipient, full date, URL 
+Rule: Note number Correspondence generated using the AI tool to Recipient, full date, URL
 
 Example: 1 Response generated using OpenAI's ChatGPT to Matt Smith, 23 June 2023, https://chat.openai.com/share/5a1327c0-e637-4b3c-a3db-c380b8008ca8.
 
