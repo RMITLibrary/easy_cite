@@ -1131,7 +1131,7 @@ Figure number: Description.
 **Example:**
 
 ![law student at university](images/Firefly-a-law-student-at-university-648.webp)<br>
-Figure 1: Image generated using Adobe Firefly from the prompt: a law student at university.
+Figure 1: Image generated using Adobe Firefly from the prompt 'a law student at university'.
 
 **AI-generated images from published sources:**
 
