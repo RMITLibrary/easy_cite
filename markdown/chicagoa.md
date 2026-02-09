@@ -2086,7 +2086,7 @@ Follow the [caption rules for your own work](https://www.lib.rmit.edu.au/easy-ci
 ##### Example
 
 > ![Two students studying in a park](images/Firefly-two-students-studying-in-a-park-in-the-sunshine-16158.webp)<br>
-> Figure 1. Artwork created using Adobe Firefly in response to the prompt: two students studying in a park in the sunshine.
+> Figure 1. Artwork created using Adobe Firefly in response to the prompt 'two students studying in a park in the sunshine'.
 
 
 **AI-generated images from published sources:**
