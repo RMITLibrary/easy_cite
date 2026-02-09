@@ -2875,7 +2875,7 @@ In your acknowledgement, include the following:
 
 How you used the AI tool, the name of the AI tool and the creator.
 
-In your reference list, include an entry for the AI tool (see the citing and referencing AI-generated content for this format).
+In your reference list, include an entry for the AI tool (see the citing and referencing AI-generated content section for this format).
 
 **Format for the acknowledgement:**
 
@@ -2933,7 +2933,7 @@ To include the image in your work provide a figure number in bold and brief titl
 *An AI-generated image of an interstellar space squid.*
 
 > ![Interstellar space squid](images/Firefly-interstellar-purple-and-orange-space-squid-62452.webp)<br>
-> _Note_. Image generated using Adobe Firefly from the prompt: interstellar purple and orange space squid.
+> _Note_. Image generated using Adobe Firefly from the prompt 'interstellar purple and orange space squid'.
 
 
 ##### AI-generated images from published sources:
