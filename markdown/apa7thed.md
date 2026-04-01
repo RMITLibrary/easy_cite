@@ -1441,13 +1441,13 @@ Include the most specific date possible. The in-text citation only requires the 
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. or Organisation Name (Year). *Title of work*. Website Name. https://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. or Organisation Name. (Year). *Title of webpage*. Website Name. https://xxxxx {/.hanging-indent}
 
 ##### Examples
 
-> {.hanging-indent}Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: Advocacy goals.* https://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/ {/.hanging-indent}
+> {.hanging-indent}Early Childhood Australia. (2016). *Early Childhood Australia’s advocacy: advocacy goals.* https://www.earlychildhoodaustralia.org.au/our-work/early-childhood-australias-advocacy/ {/.hanging-indent}
 
-> {.hanging-indent}Sandoval, E. (2024, March 20). *A former FI engineer-turned-pastry chef's weekend guide to Melbourne.* BBC. https://www.bbc.com/travel/article/20240320-a-former-f1-engineer-turned-pastry-chefs-weekend-guide-to-melbourne {/.hanging-indent}
+> {.hanging-indent}Sandoval, E. (2024). *A former FI engineer-turned-pastry chef's weekend guide to Melbourne.* BBC. https://www.bbc.com/travel/article/20240320-a-former-f1-engineer-turned-pastry-chefs-weekend-guide-to-melbourne {/.hanging-indent}
 
 ###### end-subtype-content
 
@@ -1486,7 +1486,7 @@ Include the most specific date possible. The in-text citation only requires the 
 
 ##### Rule
 
-> {.hanging-indent}Author, A. A. or Group Author. (Year). *Title of work.* Website Name. https://xxxxx {/.hanging-indent}
+> {.hanging-indent}Author, A. A. or Group Author. (Year). *Title of document.* Website Name. https://xxxxx {/.hanging-indent}
 
 ##### Example
 
