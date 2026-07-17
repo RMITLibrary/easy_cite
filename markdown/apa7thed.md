@@ -1407,9 +1407,9 @@ Provide the exact URL in the retrieval statement.
 
 The author of the work is usually the recording artist/composer/creator. This may be an individual or group:
 
-- **If the music artist, composer or sound creator has a first name and last name:** use the 'Last Name, First Name Initial' format, e.g. Smith, S. ; Mars, B., Lopez, J. ; Blige, M. J. ; Jackson, Rieu, A. ; M. ; Keys, A. ; Carey, M. ; Mozart, W. A. ; Bach, J. S. ; Tchaikovsky, P. I. ; Beethoven, L. V.
+- **If the music artist, composer or sound creator has a first name and last name:** use the 'Last Name, First Name Initial' format, e.g. Smith, S. ; Mars, B. ; Lopez, J. ; Blige, M. J. ; Jackson, M. ; Rieu, A. ; Keys, A. ; Carey, M. ; Mozart, W. A. ; Bach, J. S. ; Tchaikovsky, P. I. ; Beethoven, L. V.
 
-- **If the music artist, composer or sound creator uses one name, or does not have a last name & first name:** write their name exactly as shown on their work, e.g. Beyoncé, U2, Green Day, Rosé, Backstreet Boys, R.E.M., Blackpink, The Rolling Stones, One Direction, Spice Girls, Jon Bon Jovi, Maroon 5, OneRepublic, Missy Elliott, 50 Cent.
+- **If the music artist, composer or sound creator uses one name, or does not have a last name & first name:** write their name exactly as shown on their work, e.g. Beyoncé ; U2 ; Green Day ; Rosé ; Backstreet Boys ; R.E.M. ; Blackpink ; The Rolling Stones ; One Direction ; Spice Girls ; Jon Bon Jovi ; Maroon 5 ; OneRepublic ; Missy Elliott ; 50 Cent.
 
 If the work you are citing features *another* music artist:
 
