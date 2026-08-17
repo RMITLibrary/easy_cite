@@ -375,7 +375,7 @@ Most journal articles with an **article number**, however, will have a page rang
 
 Below is an example of a reference list displaying various resource types including books, journal articles, legislation, newspaper article, film, report, websites and social media entries. List must be in ascending alphabetical order of author/creator name or, if no name given, in order of title.
 
-#### Reference List
+#### References
 
 AASW (Australian Association of Social Workers) (2021) *Annual report 2020-2021*, AASW website, accessed 13 December 2021. https<nolink>://www.aasw.asn.au/publications/reports
 
