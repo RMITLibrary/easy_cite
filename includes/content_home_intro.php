@@ -56,6 +56,38 @@
         <p>Easy Cite is intended as a guide only and some styles are open to interpretation. You should
             always check with your instructor to ensure you are using the correct style for your assignments
             and assessment tasks.</p>
+        <details class="styleguide-details">
+            <summary>Unsure what referencing style to use?</summary>
+            <div class="styleguide-details__body">
+                <p>Always check your assignment instructions to see if a specific referencing style is listed. If you can choose what style to use, the RMIT Library Easy Cite guide provides support for the following:</p>
+
+                <h3>AGLC</h3>
+                <p>The AGLC (Australian Guide to Legal Citation) is the official legal citation guide in Australia and is used by legal practitioners, law students and academics. It is a footnote referencing style.</p>
+                <p class="styleguide-details__link"><a href="?styleguide=styleguide-2">AGLC4 guide</a></p>
+
+                <h3>APA</h3>
+                <p>The APA (American Psychological Association) referencing style is widely used in education, psychology, nursing, business and other fields. It is based on a detailed source manual and the official style advice is regularly updated. There are many APA guides and support resources available worldwide. It is an author-date referencing style.</p>
+                <p class="styleguide-details__link"><a href="?styleguide=styleguide-3">APA 7<sup>th</sup> Edition guide</a></p>
+
+                <h3>Chicago</h3>
+                <p>The Chicago referencing style is often used in art, design, architecture, music, history and the humanities. The style manual includes detailed advice on referencing artworks, exhibitions and live performances, as well as commonly-used source types such as books, journal articles and websites. There are two versions of the Chicago style, A (notes and bibliography) and B (author-date).</p>
+                <p class="styleguide-details__link"><a href="?styleguide=styleguide-4">Chicago A guide</a></p>
+                <p class="styleguide-details__link"><a href="?styleguide=styleguide-5">Chicago B guide</a></p>
+
+                <h3>IEEE</h3>
+                <p>The IEEE (Institute of Electrical and Electronics Engineers) referencing style is often used in electrical and electronic engineering, computer science and other technical fields. It is a numbered referencing style.</p>
+                <p class="styleguide-details__link"><a href="?styleguide=styleguide-6">IEEE guide</a></p>
+
+                <h3>RMIT Harvard</h3>
+                <p>There is no <a href="https://ask.library.harvard.edu/faq/81735" target="_blank" rel="noopener">official version<span class="visually-hidden"> (opens in a new tab)</span></a> of the &lsquo;Harvard&rsquo; referencing style, and different institutions create their own based on a variety of source manuals. The RMIT Harvard style is based on the Australian Government Style Manual (AGSM). This manual mainly focuses on Australian government sources and is not as comprehensive as other author-date styles such as APA.</p>
+                <p class="styleguide-details__link"><a href="?styleguide=styleguide-1">RMIT Harvard guide</a></p>
+
+                <h3>Vancouver</h3>
+                <p>The Vancouver referencing style is often used in medicine, biomedical science and health sciences. There are several versions of the Vancouver style &ndash; the Vancouver Easy Cite style is based on <a href="https://www.ncbi.nlm.nih.gov/books/NBK7256/" target="_blank" rel="noopener">Citing Medicine, 2nd edition: The NLM Style Guide for Authors, Editors, and Publishers<span class="visually-hidden"> (opens in a new tab)</span></a>. It is a numbered referencing style.</p>
+                <p class="styleguide-details__link"><a href="?styleguide=styleguide-7">Vancouver guide</a></p>
+            </div>
+        </details>
+
         <nav id="home-section-menu" aria-label="Section Menu">
             <h2 class="h3">Select a style guide</h2>
             <ul class="link-list">
@@ -64,32 +96,6 @@
                 ?>
             </ul>
         </nav>
-
-        <details class="styleguide-details">
-            <summary>Which referencing style should I use?</summary>
-            <div class="styleguide-details__body">
-                <p>Always check your assignment instructions to see if a specific referencing style is listed. If you can choose what style to use, the RMIT Library Easy Cite guide provides support for the following:</p>
-
-                <h3>AGLC</h3>
-                <p>The AGLC (Australian Guide to Legal Citation) is the official legal citation guide in Australia and is used by legal practitioners, law students and academics. It is a footnote referencing style.</p>
-
-                <h3>APA</h3>
-                <p>The APA (American Psychological Association) referencing style is widely used in education, psychology, nursing, business and other fields. It is based on a detailed source manual and the official style advice is regularly updated. There are many APA guides and support resources available worldwide. It is an author-date referencing style.</p>
-
-                <h3>Chicago</h3>
-                <p>The Chicago referencing style is often used in art, design, architecture, music, history and the humanities. The style manual includes detailed advice on referencing artworks, exhibitions and live performances, as well as commonly-used source types such as books, journal articles and websites. There are two versions of the Chicago style, A (notes and bibliography) and B (author-date).</p>
-
-                <h3>IEEE</h3>
-                <p>The IEEE (Institute of Electrical and Electronics Engineers) referencing style is often used in electrical and electronic engineering, computer science and other technical fields. It is a numbered referencing style.</p>
-
-                <h3>RMIT Harvard</h3>
-                <p>There is no <a href="https://ask.library.harvard.edu/faq/81735" target="_blank" rel="noopener">official version<span class="visually-hidden"> (opens in a new tab)</span></a> of the &lsquo;Harvard&rsquo; referencing style, and different institutions create their own based on a variety of source manuals. The RMIT Harvard style is based on the Australian Government Style Manual (AGSM). This manual mainly focuses on Australian government sources and is not as comprehensive as other author-date styles such as APA.</p>
-
-                <h3>Vancouver</h3>
-                <p>The Vancouver referencing style is often used in medicine, biomedical science and health sciences. There are several versions of the Vancouver style &ndash; the Vancouver Easy Cite style is based on <a href="https://www.ncbi.nlm.nih.gov/books/NBK7256/" target="_blank" rel="noopener">Citing Medicine, 2nd edition: The NLM Style Guide for Authors, Editors, and Publishers<span class="visually-hidden"> (opens in a new tab)</span></a>. It is a numbered referencing style.</p>
-            </div>
-        </details>
-
 
         <blockquote class="complex">
             <a href="https://learninglab.rmit.edu.au/content/referencing" target="_blank" aria-label="Referencing tutorial on Learning Lab. Opens in a new tab.">
