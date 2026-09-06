@@ -570,6 +570,15 @@ blockquote nolink {
     p {
         margin-top: 0.25rem;
     }
+
+    .styleguide-details__link {
+        margin-top: 0.75rem;
+
+        a {
+            display: inline-block;
+            padding: 0.25rem 0;
+        }
+    }
 }
 
 @include color-mode(dark) {
