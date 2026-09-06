@@ -270,22 +270,29 @@ In the reference list, include the sources you referenced in the parentheses.
 
 ###### start-subtype-content
 
-A **secondary citation** acknowledges the work of an author (the original source) you refer to in your writing that you have read about in someone else's work. Where possible, try to use the original source. A secondary citation should only be used if you are unable to track down and access the original source. You should also keep secondary citations to a minimum.
+A secondary citation is used when you acknowledge the original work of an author (primary source) that you have read about in another author’s work (secondary source).
 
-For example, if you use Vanna's (2019) ideas (the original source), which you read about in an article by Martin and Rodriguez (2021), you will need to show who the ideas belong to (Vanna 2019) and where you read about them (Martin and Rodriguez 2021).
+Secondary citations should be used sparingly. For example, when the original work (primary source) is out of print, unavailable/unattainable, or available only in a language that is not your own.
 
-#### In-text citation
+Where possible, instead of citing a secondary source, it is best to find the primary source, read and understand its information, and cite it directly.
 
-> Previous research appears to indicate... (Vanna 2019, cited in Martin and Rodriguez 2021).
+#### Using secondary citations:
 
-> Vanna (2019, cited in Martin and Rodriguez 2021) suggests that...
+For example, if you read an article written by Fiorineschi and Rotini (secondary source) and they cite information by Sarkar and Chakrabarti (primary source), you would need to acknowledge Sarkar and Chakrabarti (primary source) and the publication year of their work in the in-text citation:
 
-In both examples, the ideas belong to Vanna (2019), but you paraphrased them from your reading of Martin and Rodriguez's (2021) work.
+> Sarkar and Chakrabarti (2008, cited in Fiorineschi and Rotini 2021) suggests that...
 
-#### Reference list entry
+> Previous research appears to indicate... (Sarkar and Chakrabarti 2008, cited in Fiorineschi and Rotini 2021).
 
-In the reference list, only include the source you read. For this example, if you use Vanna's (2019) ideas (the original source) which you read about in an article by Martin and Rodriguez (2021), in your reference list you will only need to show where you read Vanna's (2019) ideas in (Martin and Rodriguez 2021). In this case, you would only put the Martin and Rodriguez (2021) reference in the reference list, not Vanna (2019).
+In the reference list, only Fiorineschi and Rotini (secondary source) is included, **not** Sarkar and Chakrabarti (primary source).
 
+> {.hanging-indent}Fiorineschi L and Rotini F (2021) 'Novelty metrics in engineering design', *Journal of Engineering Design*, 32(11):590-620, doi:10.1080/09544828.2021.1928024. {/.hanging-indent}
+
+If the publication year of the primary source is **unknown**, omit it from the in-text citation:
+
+> Sarkar and Chakrabarti (cited in Fiorineschi and Rotini 2021) suggests that...
+
+> Previous research appears to indicate... (Sarkar and Chakrabarti, cited in Fiorineschi and Rotini 2021).
 
 ###### end-subtype-content
 
