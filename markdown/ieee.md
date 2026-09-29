@@ -1327,7 +1327,7 @@ When directly quoting, place the quote in double quotation marks " " and provide
 
 ##### Example
 
-> {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." (accessed June 1, 2017). [Online] Energy Networks Australia.Available:  https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ {/.ieee-refs}
+> {.ieee-refs}[7] &nbsp;&nbsp; Energy Networks Australia. "Judicial review of energy network regulatory decisions." (accessed June 1, 2017). [Online]. Available: https<nolink>://www.energynetworks.com.au/miscellaneous/judicial-review-of-energy-network-regulatory-decisions/ {/.ieee-refs}
 
 ###### end-subtype-content
 
