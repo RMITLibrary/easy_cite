@@ -321,17 +321,29 @@ Include the publisher name and URL (if applicable).
 
 ###### start-subtype-content
 
-A secondary citation is used when you acknowledge the work of an author that you have read about in another author’s work.
+A secondary citation is used when you acknowledge the original work of an author (primary source) that you have read about in another author’s work (secondary source).
 
-For example, if you read an article written by Hosany and Martin and they cite information from another study written by Heath and Scott, you would need to acknowledge Heath and Scott in the text:
+Secondary citations should be used sparingly. For example, when the original work (primary source) is out of print, unavailable/unattainable, or available only in a language that is not your own.
 
-> Heath and Scott (as cited in Hosany & Martin, 2012) claim that . . .
+Where possible, instead of citing a secondary source, it is best to find the primary source, read and understand its information, and cite it directly.
 
-> Early research indicated . . . (Heath & Scott, as cited in Hosany & Martin, 2012).
+#### Using secondary citations:
 
-In the reference list, you need to include the citation information for the Hosany and Martin article as that is where the Heath and Scott information was sourced:
+For example, if you read an article written by Hosany and Martin (secondary source) and they cite information from a study written by Heath and Scott (primary source), you would need to acknowledge Heath and Scott (primary source) and the publication year of their work in the in-text citation:
+
+> Heath and Scott (1998, as cited in Hosany & Martin, 2012) claim that...
+
+> Early research indicated... (Heath & Scott, 1998, as cited in Hosany & Martin, 2012).
+
+In the reference list, only Hosany and Martin (secondary source) is included, **not** Heath and Scott (primary source).
 
 > {.hanging-indent}Hosany, S., & Martin, D. (2012). Self-image congruence in consumer behavior. *Journal of Business Research*, *65*(5), 685-691. https://doi.org/10.1016/j.jbusres.2011.03.015 {/.hanging-indent}
+
+If the publication year of the primary source is **unknown**, omit it from the in-text citation:
+
+> Heath and Scott (as cited in Hosany & Martin, 2012) claim that...
+
+> Early research indicated... (Heath & Scott, as cited in Hosany & Martin, 2012).
 
 ###### end-subtype-content
 
