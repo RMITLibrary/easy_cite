@@ -15306,6 +15306,13 @@ blockquote nolink {
 .styleguide-details__body p {
   margin-top: 0.25rem;
 }
+.styleguide-details__body .styleguide-details__link {
+  margin-top: 0.75rem;
+}
+.styleguide-details__body .styleguide-details__link a {
+  display: inline-block;
+  padding: 0.25rem 0;
+}
 
 [data-bs-theme=dark] .styleguide-details summary {
   color: #6FB7FF;
